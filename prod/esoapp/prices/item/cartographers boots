@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cartographers boots",
+    "displayName": "Cartographer's Boots",
+    "values": {
+      "commonRange": "1,000 - 4,100",
+      "averagePrice": 2913,
+      "minimumPrice": 1000,
+      "maximumPrice": 4100,
+      "averageStackPrice": 2913,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Fragments",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

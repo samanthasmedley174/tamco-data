@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha specimen jar large empty",
+    "displayName": "Apocrypha Specimen Jar, Large Empty",
+    "values": {
+      "commonRange": "18,000 - 48,675",
+      "averagePrice": 29381,
+      "minimumPrice": 17759,
+      "maximumPrice": 65975,
+      "averageStackPrice": 29381,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

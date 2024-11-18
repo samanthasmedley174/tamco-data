@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint wood elf throne vine",
+    "displayName": "Blueprint: Wood Elf Throne, Vine",
+    "values": {
+      "commonRange": "94,600 - 250,045",
+      "averagePrice": 129278,
+      "minimumPrice": 90000,
+      "maximumPrice": 250045,
+      "averageStackPrice": 129278,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

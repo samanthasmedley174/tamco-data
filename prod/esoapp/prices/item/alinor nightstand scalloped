@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor nightstand scalloped",
+    "displayName": "Alinor Nightstand, Scalloped",
+    "values": {
+      "commonRange": "2,207 - 14,150",
+      "averagePrice": 6384,
+      "minimumPrice": 2150,
+      "maximumPrice": 15150,
+      "averageStackPrice": 6384,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

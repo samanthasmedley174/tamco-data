@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha ink vat green",
+    "displayName": "Apocrypha Ink Vat, Green",
+    "values": {
+      "commonRange": "226 - 750",
+      "averagePrice": 685,
+      "minimumPrice": 220,
+      "maximumPrice": 2560,
+      "averageStackPrice": 685,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

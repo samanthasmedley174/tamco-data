@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 115 yffres will gloves",
+    "displayName": "Crafting Motif 115: Y'ffre's Will Gloves",
+    "values": {
+      "commonRange": "30,000 - 37,447",
+      "averagePrice": 33117,
+      "minimumPrice": 25000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 33117,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

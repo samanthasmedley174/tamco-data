@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint frog caller untuned",
+    "displayName": "Blueprint: Frog-Caller, Untuned",
+    "values": {
+      "commonRange": "85,000 - 100,000",
+      "averagePrice": 91695,
+      "minimumPrice": 80000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 91695,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

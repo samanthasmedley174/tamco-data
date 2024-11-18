@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 84 blackreach vanguard staves",
+    "displayName": "Crafting Motif 84: Blackreach Vanguard Staves",
+    "values": {
+      "commonRange": "7,000 - 9,999",
+      "averagePrice": 9484,
+      "minimumPrice": 5000,
+      "maximumPrice": 18840,
+      "averageStackPrice": 9484,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

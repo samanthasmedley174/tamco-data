@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of ancient grace",
+    "displayName": "Axe of Ancient Grace",
+    "values": {
+      "commonRange": "2,144 - 9,800",
+      "averagePrice": 5425,
+      "minimumPrice": 1144,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5425,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

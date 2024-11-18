@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boulder craggy heap",
+    "displayName": "Boulder, Craggy Heap",
+    "values": {
+      "commonRange": "100 - 400",
+      "averagePrice": 296,
+      "minimumPrice": 15,
+      "maximumPrice": 1015,
+      "averageStackPrice": 296,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "11/22/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

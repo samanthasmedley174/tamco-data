@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boulder small limestone",
+    "displayName": "Boulder, Small Limestone",
+    "values": {
+      "commonRange": "100 - 150",
+      "averagePrice": 314,
+      "minimumPrice": 50,
+      "maximumPrice": 955,
+      "averageStackPrice": 314,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "09/26/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

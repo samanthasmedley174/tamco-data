@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint alinor trunk engraved",
+    "displayName": "Blueprint: Alinor Trunk, Engraved",
+    "values": {
+      "commonRange": "4,000 - 6,240",
+      "averagePrice": 5613,
+      "minimumPrice": 3960,
+      "maximumPrice": 7030,
+      "averageStackPrice": 5613,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

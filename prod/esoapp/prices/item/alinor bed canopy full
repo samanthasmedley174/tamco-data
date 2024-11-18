@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor bed canopy full",
+    "displayName": "Alinor Bed, Canopy Full",
+    "values": {
+      "commonRange": "15,767 - 21,461",
+      "averagePrice": 17718,
+      "minimumPrice": 5500,
+      "maximumPrice": 24461,
+      "averageStackPrice": 17718,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

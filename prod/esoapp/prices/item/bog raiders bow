@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bog raiders bow",
+    "displayName": "Bog Raider's Bow",
+    "values": {
+      "commonRange": "485 - 2,500",
+      "averagePrice": 2610,
+      "minimumPrice": 234,
+      "maximumPrice": 25000,
+      "averageStackPrice": 2610,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

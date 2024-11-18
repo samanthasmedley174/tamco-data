@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton figure stone",
+    "displayName": "Breton Figure, Stone",
+    "values": {
+      "commonRange": "2,500 - 6,207",
+      "averagePrice": 4818,
+      "minimumPrice": 2000,
+      "maximumPrice": 6300,
+      "averageStackPrice": 4818,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

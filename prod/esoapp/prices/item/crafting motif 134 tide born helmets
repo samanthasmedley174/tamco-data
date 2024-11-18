@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 134 tide born helmets",
+    "displayName": "Crafting Motif 134: Tide-Born Helmets",
+    "values": {
+      "commonRange": "3,000 - 7,718",
+      "averagePrice": 5499,
+      "minimumPrice": 3000,
+      "maximumPrice": 7796,
+      "averageStackPrice": 5499,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

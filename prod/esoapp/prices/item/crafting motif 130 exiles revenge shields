@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 130 exiles revenge shields",
+    "displayName": "Crafting Motif 130: Exile's Revenge Shields",
+    "values": {
+      "commonRange": "60,000 - 80,000",
+      "averagePrice": 67189,
+      "minimumPrice": 50000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 67189,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redguard streetlamps full",
+    "displayName": "Diagram: Redguard Streetlamps, Full",
+    "values": {
+      "commonRange": "18,000 - 20,185",
+      "averagePrice": 19571,
+      "minimumPrice": 17990,
+      "maximumPrice": 20185,
+      "averageStackPrice": 19571,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

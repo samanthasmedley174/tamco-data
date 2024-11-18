@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apparatus boiler",
+    "displayName": "Apparatus, Boiler",
+    "values": {
+      "commonRange": "12,000 - 17,000",
+      "averagePrice": 15159,
+      "minimumPrice": 10000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 15159,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

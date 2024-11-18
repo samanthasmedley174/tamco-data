@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 65 huntsman shoulders",
+    "displayName": "Crafting Motif 65: Huntsman Shoulders",
+    "values": {
+      "commonRange": "7,328 - 13,948",
+      "averagePrice": 10140,
+      "minimumPrice": 7328,
+      "maximumPrice": 15680,
+      "averageStackPrice": 10140,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

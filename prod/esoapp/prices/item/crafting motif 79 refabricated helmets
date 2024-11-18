@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 79 refabricated helmets",
+    "displayName": "Crafting Motif 79: Refabricated Helmets",
+    "values": {
+      "commonRange": "13,842 - 16,000",
+      "averagePrice": 14321,
+      "minimumPrice": 11212,
+      "maximumPrice": 16000,
+      "averageStackPrice": 14321,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

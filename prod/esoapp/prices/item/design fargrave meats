@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design fargrave meats",
+    "displayName": "Design: Fargrave Meats",
+    "values": {
+      "commonRange": "2,470 - 6,000",
+      "averagePrice": 3904,
+      "minimumPrice": 250,
+      "maximumPrice": 6500,
+      "averageStackPrice": 3904,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

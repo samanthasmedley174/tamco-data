@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian totem frilled skull",
+    "displayName": "Argonian Totem, Frilled Skull",
+    "values": {
+      "commonRange": "450 - 6,600",
+      "averagePrice": 2700,
+      "minimumPrice": 250,
+      "maximumPrice": 6600,
+      "averageStackPrice": 2700,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

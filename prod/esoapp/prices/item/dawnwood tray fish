@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood tray fish",
+    "displayName": "Dawnwood Tray, Fish",
+    "values": {
+      "commonRange": "2,833 - 11,950",
+      "averagePrice": 5425,
+      "minimumPrice": 1700,
+      "maximumPrice": 11995,
+      "averageStackPrice": 5425,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

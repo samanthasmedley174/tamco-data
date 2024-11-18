@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid refuge mace",
+    "displayName": "Ayleid Refuge Mace",
+    "values": {
+      "commonRange": "485 - 1,100",
+      "averagePrice": 966,
+      "minimumPrice": 153,
+      "maximumPrice": 5152,
+      "averageStackPrice": 966,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

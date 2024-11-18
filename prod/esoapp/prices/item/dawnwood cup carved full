@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood cup carved full",
+    "displayName": "Dawnwood Cup, Carved Full",
+    "values": {
+      "commonRange": "1,044 - 1,100",
+      "averagePrice": 1051,
+      "minimumPrice": 810,
+      "maximumPrice": 1250,
+      "averageStackPrice": 4204,
+      "commonStackSize": 4,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

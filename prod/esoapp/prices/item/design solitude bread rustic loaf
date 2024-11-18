@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design solitude bread rustic loaf",
+    "displayName": "Design: Solitude Bread, Rustic Loaf",
+    "values": {
+      "commonRange": "3,500 - 5,356",
+      "averagePrice": 4572,
+      "minimumPrice": 2000,
+      "maximumPrice": 5356,
+      "averageStackPrice": 4572,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

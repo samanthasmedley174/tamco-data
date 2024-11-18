@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of hundings rage",
+    "displayName": "Battle Axe of Hunding's Rage",
+    "values": {
+      "commonRange": "78,252 - 110,252",
+      "averagePrice": 94252,
+      "minimumPrice": 78252,
+      "maximumPrice": 110252,
+      "averageStackPrice": 94252,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

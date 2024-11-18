@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha plant anemone cluster",
+    "displayName": "Apocrypha Plant, Anemone Cluster",
+    "values": {
+      "commonRange": "2,662 - 5,000",
+      "averagePrice": 4360,
+      "minimumPrice": 2000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 4360,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

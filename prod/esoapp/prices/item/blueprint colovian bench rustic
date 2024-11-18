@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian bench rustic",
+    "displayName": "Blueprint: Colovian Bench, Rustic",
+    "values": {
+      "commonRange": "1,000 - 7,000",
+      "averagePrice": 3482,
+      "minimumPrice": 543,
+      "maximumPrice": 7000,
+      "averageStackPrice": 3482,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

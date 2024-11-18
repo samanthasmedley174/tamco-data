@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design indoril chandelier vine covered",
+    "displayName": "Design: Indoril Chandelier, Vine-Covered",
+    "values": {
+      "commonRange": "30,825 - 58,825",
+      "averagePrice": 46909,
+      "minimumPrice": 21500,
+      "maximumPrice": 60000,
+      "averageStackPrice": 46909,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

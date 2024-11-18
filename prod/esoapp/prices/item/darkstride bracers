@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darkstride bracers",
+    "displayName": "Darkstride Bracers",
+    "values": {
+      "commonRange": "87 - 1,090",
+      "averagePrice": 654,
+      "minimumPrice": 87,
+      "maximumPrice": 2000,
+      "averageStackPrice": 654,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

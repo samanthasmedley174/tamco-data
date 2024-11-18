@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design redguard kabobs plate",
+    "displayName": "Design: Redguard Kabobs, Plate",
+    "values": {
+      "commonRange": "1,250 - 3,282",
+      "averagePrice": 2833,
+      "minimumPrice": 1000,
+      "maximumPrice": 7000,
+      "averageStackPrice": 2833,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

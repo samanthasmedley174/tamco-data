@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 60 worm cult helmets",
+    "displayName": "Crafting Motif 60: Worm Cult Helmets",
+    "values": {
+      "commonRange": "5,934 - 8,561",
+      "averagePrice": 8016,
+      "minimumPrice": 5000,
+      "maximumPrice": 22000,
+      "averageStackPrice": 8016,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

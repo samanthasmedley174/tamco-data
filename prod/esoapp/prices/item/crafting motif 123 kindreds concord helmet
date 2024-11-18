@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 123 kindreds concord helmet",
+    "displayName": "Crafting Motif 123: Kindred's Concord Helmet",
+    "values": {
+      "commonRange": "58,600 - 150,500",
+      "averagePrice": 111138,
+      "minimumPrice": 30000,
+      "maximumPrice": 160000,
+      "averageStackPrice": 111138,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

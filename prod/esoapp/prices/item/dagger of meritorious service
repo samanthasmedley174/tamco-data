@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of meritorious service",
+    "displayName": "Dagger of Meritorious Service",
+    "values": {
+      "commonRange": "20,748 - 26,748",
+      "averagePrice": 25891,
+      "minimumPrice": 20000,
+      "maximumPrice": 33496,
+      "averageStackPrice": 25891,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

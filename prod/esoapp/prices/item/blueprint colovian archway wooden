@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian archway wooden",
+    "displayName": "Blueprint: Colovian Archway, Wooden",
+    "values": {
+      "commonRange": "14,000 - 15,568",
+      "averagePrice": 15031,
+      "minimumPrice": 10000,
+      "maximumPrice": 22030,
+      "averageStackPrice": 15031,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

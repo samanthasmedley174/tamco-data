@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 61 psijic staves",
+    "displayName": "Crafting Motif 61: Psijic Staves",
+    "values": {
+      "commonRange": "5,500 - 14,000",
+      "averagePrice": 7841,
+      "minimumPrice": 3300,
+      "maximumPrice": 17038,
+      "averageStackPrice": 7841,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

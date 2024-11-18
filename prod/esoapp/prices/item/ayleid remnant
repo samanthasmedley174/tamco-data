@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid remnant",
+    "displayName": "Ayleid Remnant",
+    "values": {
+      "commonRange": "250 - 300",
+      "averagePrice": 370,
+      "minimumPrice": 233,
+      "maximumPrice": 1258,
+      "averageStackPrice": 370,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Miscellaneous",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

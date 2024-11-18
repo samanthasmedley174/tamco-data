@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boulder vertical sandstone",
+    "displayName": "Boulder, Vertical Sandstone",
+    "values": {
+      "commonRange": "3,004 - 4,079",
+      "averagePrice": 3875,
+      "minimumPrice": 2175,
+      "maximumPrice": 7500,
+      "averageStackPrice": 3875,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

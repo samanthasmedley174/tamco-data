@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr throne elegant wooden",
+    "displayName": "Blueprint: Elsweyr Throne, Elegant Wooden",
+    "values": {
+      "commonRange": "24,000 - 27,313",
+      "averagePrice": 25412,
+      "minimumPrice": 20000,
+      "maximumPrice": 27313,
+      "averageStackPrice": 25412,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

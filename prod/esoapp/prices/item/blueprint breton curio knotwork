@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint breton curio knotwork",
+    "displayName": "Blueprint: Breton Curio, Knotwork",
+    "values": {
+      "commonRange": "15,000 - 18,237",
+      "averagePrice": 16736,
+      "minimumPrice": 15000,
+      "maximumPrice": 20611,
+      "averageStackPrice": 16736,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

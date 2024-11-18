@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redguard censer hanging horn",
+    "displayName": "Diagram: Redguard Censer, Hanging Horn",
+    "values": {
+      "commonRange": "500,000 - 2,100,000",
+      "averagePrice": 1701058,
+      "minimumPrice": 25000,
+      "maximumPrice": 3500000,
+      "averageStackPrice": 1701058,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

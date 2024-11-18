@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 115 yffres will staves",
+    "displayName": "Crafting Motif 115: Y'ffre's Will Staves",
+    "values": {
+      "commonRange": "23,000 - 55,000",
+      "averagePrice": 35960,
+      "minimumPrice": 20000,
+      "maximumPrice": 55000,
+      "averageStackPrice": 35960,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

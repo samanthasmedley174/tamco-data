@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 47 buoyant armiger legs",
+    "displayName": "Crafting Motif 47: Buoyant Armiger Legs",
+    "values": {
+      "commonRange": "76,544 - 144,000",
+      "averagePrice": 102590,
+      "minimumPrice": 76000,
+      "maximumPrice": 150000,
+      "averageStackPrice": 102590,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

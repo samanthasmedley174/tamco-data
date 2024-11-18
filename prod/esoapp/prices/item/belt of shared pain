@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of shared pain",
+    "displayName": "Belt of Shared Pain",
+    "values": {
+      "commonRange": "299 - 2,313",
+      "averagePrice": 1689,
+      "minimumPrice": 287,
+      "maximumPrice": 24000,
+      "averageStackPrice": 1689,
+      "commonStackSize": 1,
+      "salesRecorded": 49
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "corgrad heirloom belt",
+    "displayName": "Corgrad Heirloom Belt",
+    "values": {
+      "commonRange": "290 - 1,000",
+      "averagePrice": 1276,
+      "minimumPrice": 84,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1276,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

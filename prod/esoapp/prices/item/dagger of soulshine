@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of soulshine",
+    "displayName": "Dagger of Soulshine",
+    "values": {
+      "commonRange": "153 - 850",
+      "averagePrice": 477,
+      "minimumPrice": 144,
+      "maximumPrice": 1150,
+      "averageStackPrice": 477,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

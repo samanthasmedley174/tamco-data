@@ -1,0 +1,18 @@
+[
+  {
+    "name": "death dancer sword",
+    "displayName": "Death-Dancer Sword",
+    "values": {
+      "commonRange": "344 - 2,150",
+      "averagePrice": 1132,
+      "minimumPrice": 150,
+      "maximumPrice": 2150,
+      "averageStackPrice": 1132,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

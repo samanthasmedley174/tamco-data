@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram alinor sconce lantern",
+    "displayName": "Diagram: Alinor Sconce, Lantern",
+    "values": {
+      "commonRange": "30,000 - 36,500",
+      "averagePrice": 33290,
+      "minimumPrice": 28000,
+      "maximumPrice": 42500,
+      "averageStackPrice": 33290,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

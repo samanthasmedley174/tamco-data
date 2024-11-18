@@ -1,0 +1,18 @@
+[
+  {
+    "name": "briarheart boots",
+    "displayName": "Briarheart Boots",
+    "values": {
+      "commonRange": "300 - 26,139",
+      "averagePrice": 9576,
+      "minimumPrice": 87,
+      "maximumPrice": 100000,
+      "averageStackPrice": 9576,
+      "commonStackSize": 1,
+      "salesRecorded": 149
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

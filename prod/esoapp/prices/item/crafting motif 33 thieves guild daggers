@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 33 thieves guild daggers",
+    "displayName": "Crafting Motif 33: Thieves Guild Daggers",
+    "values": {
+      "commonRange": "7,000 - 10,669",
+      "averagePrice": 9007,
+      "minimumPrice": 3039,
+      "maximumPrice": 10669,
+      "averageStackPrice": 9007,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

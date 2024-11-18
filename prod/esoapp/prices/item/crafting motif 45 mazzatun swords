@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 45 mazzatun swords",
+    "displayName": "Crafting Motif 45: Mazzatun Swords",
+    "values": {
+      "commonRange": "7,000 - 15,000",
+      "averagePrice": 10028,
+      "minimumPrice": 5000,
+      "maximumPrice": 22000,
+      "averageStackPrice": 10028,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

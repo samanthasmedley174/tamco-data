@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid barrier large",
+    "displayName": "Ayleid Barrier, Large",
+    "values": {
+      "commonRange": "3,868 - 5,000",
+      "averagePrice": 4614,
+      "minimumPrice": 3000,
+      "maximumPrice": 5999,
+      "averageStackPrice": 4614,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

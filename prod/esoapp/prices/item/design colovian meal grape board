@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design colovian meal grape board",
+    "displayName": "Design: Colovian Meal, Grape Board",
+    "values": {
+      "commonRange": "10,030 - 14,340",
+      "averagePrice": 12382,
+      "minimumPrice": 5824,
+      "maximumPrice": 15030,
+      "averageStackPrice": 12382,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

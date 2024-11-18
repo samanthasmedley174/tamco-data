@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor tapestry alinor dusk",
+    "displayName": "Alinor Tapestry, Alinor Dusk",
+    "values": {
+      "commonRange": "1,500 - 2,665",
+      "averagePrice": 2316,
+      "minimumPrice": 1500,
+      "maximumPrice": 4150,
+      "averageStackPrice": 2316,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

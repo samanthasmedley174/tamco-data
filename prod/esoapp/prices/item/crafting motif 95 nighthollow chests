@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 95 nighthollow chests",
+    "displayName": "Crafting Motif 95: Nighthollow Chests",
+    "values": {
+      "commonRange": "11,744 - 21,200",
+      "averagePrice": 15539,
+      "minimumPrice": 7999,
+      "maximumPrice": 21595,
+      "averageStackPrice": 15539,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

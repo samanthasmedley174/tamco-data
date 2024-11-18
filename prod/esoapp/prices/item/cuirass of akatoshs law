@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cuirass of akatoshs law",
+    "displayName": "Cuirass of Akatosh's Law",
+    "values": {
+      "commonRange": "350 - 5,674",
+      "averagePrice": 2605,
+      "minimumPrice": 300,
+      "maximumPrice": 22000,
+      "averageStackPrice": 2605,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

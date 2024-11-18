@@ -1,0 +1,18 @@
+[
+  {
+    "name": "denata",
+    "displayName": "Denata",
+    "values": {
+      "commonRange": "6 - 19",
+      "averagePrice": 13,
+      "minimumPrice": 3,
+      "maximumPrice": 43,
+      "averageStackPrice": 2600,
+      "commonStackSize": 200,
+      "salesRecorded": 71
+    },
+    "type": "Enchanting Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Denata.png"
+  }
+]

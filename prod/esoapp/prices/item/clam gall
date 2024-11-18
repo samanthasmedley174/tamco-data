@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clam gall",
+    "displayName": "Clam Gall",
+    "values": {
+      "commonRange": "321 - 421",
+      "averagePrice": 374,
+      "minimumPrice": 15,
+      "maximumPrice": 421,
+      "averageStackPrice": 3740,
+      "commonStackSize": 10,
+      "salesRecorded": 22
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

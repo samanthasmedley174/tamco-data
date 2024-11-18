@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cyrodiil citrus",
+    "displayName": "Cyrodiil Citrus",
+    "values": {
+      "commonRange": "500 - 800",
+      "averagePrice": 632,
+      "minimumPrice": 299,
+      "maximumPrice": 1500,
+      "averageStackPrice": 6320,
+      "commonStackSize": 10,
+      "salesRecorded": 27
+    },
+    "type": "Provisioning Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 57 ebonshadow belts",
+    "displayName": "Crafting Motif 57: Ebonshadow Belts",
+    "values": {
+      "commonRange": "1,800 - 7,039",
+      "averagePrice": 3820,
+      "minimumPrice": 1200,
+      "maximumPrice": 9084,
+      "averageStackPrice": 3820,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

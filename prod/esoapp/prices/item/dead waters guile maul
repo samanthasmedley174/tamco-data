@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dead waters guile maul",
+    "displayName": "Dead-Water's Guile Maul",
+    "values": {
+      "commonRange": "400 - 3,240",
+      "averagePrice": 2028,
+      "minimumPrice": 220,
+      "maximumPrice": 6000,
+      "averageStackPrice": 2028,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

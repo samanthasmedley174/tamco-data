@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 100 true sworn legs",
+    "displayName": "Crafting Motif 100: True-Sworn Legs",
+    "values": {
+      "commonRange": "30,000 - 33,321",
+      "averagePrice": 31687,
+      "minimumPrice": 10000,
+      "maximumPrice": 55000,
+      "averageStackPrice": 31687,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

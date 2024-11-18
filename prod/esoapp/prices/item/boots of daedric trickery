@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boots of daedric trickery",
+    "displayName": "Boots of Daedric Trickery",
+    "values": {
+      "commonRange": "69,990 - 69,990",
+      "averagePrice": 69990,
+      "minimumPrice": 69990,
+      "maximumPrice": 69990,
+      "averageStackPrice": 69990,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

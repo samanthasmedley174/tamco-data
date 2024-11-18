@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arkays charity jerkin",
+    "displayName": "Arkay's Charity Jerkin",
+    "values": {
+      "commonRange": "230 - 2,183",
+      "averagePrice": 988,
+      "minimumPrice": 174,
+      "maximumPrice": 3180,
+      "averageStackPrice": 988,
+      "commonStackSize": 1,
+      "salesRecorded": 59
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

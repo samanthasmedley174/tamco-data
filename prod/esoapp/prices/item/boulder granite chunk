@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boulder granite chunk",
+    "displayName": "Boulder, Granite Chunk",
+    "values": {
+      "commonRange": "316 - 2,500",
+      "averagePrice": 1574,
+      "minimumPrice": 22,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1574,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "10/19/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

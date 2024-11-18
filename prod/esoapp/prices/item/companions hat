@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions hat",
+    "displayName": "Companion's Hat",
+    "values": {
+      "commonRange": "50 - 70,000",
+      "averagePrice": 14943,
+      "minimumPrice": 20,
+      "maximumPrice": 499999,
+      "averageStackPrice": 14943,
+      "commonStackSize": 1,
+      "salesRecorded": 212
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

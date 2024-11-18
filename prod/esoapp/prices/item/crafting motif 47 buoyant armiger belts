@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 47 buoyant armiger belts",
+    "displayName": "Crafting Motif 47: Buoyant Armiger Belts",
+    "values": {
+      "commonRange": "5,439 - 117,000",
+      "averagePrice": 68993,
+      "minimumPrice": 5000,
+      "maximumPrice": 123000,
+      "averageStackPrice": 68993,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

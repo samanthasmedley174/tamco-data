@@ -1,0 +1,18 @@
+[
+  {
+    "name": "defilers boots",
+    "displayName": "Defiler's Boots",
+    "values": {
+      "commonRange": "200 - 9,900",
+      "averagePrice": 3589,
+      "minimumPrice": 50,
+      "maximumPrice": 59950,
+      "averageStackPrice": 3589,
+      "commonStackSize": 1,
+      "salesRecorded": 130
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cold iron cladding",
+    "displayName": "Cold-Iron Cladding",
+    "values": {
+      "commonRange": "1,399 - 2,500",
+      "averagePrice": 2149,
+      "minimumPrice": 1000,
+      "maximumPrice": 3199,
+      "averageStackPrice": 10745,
+      "commonStackSize": 5,
+      "salesRecorded": 30
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

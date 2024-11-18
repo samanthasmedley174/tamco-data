@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton carpet bordered",
+    "displayName": "Breton Carpet, Bordered",
+    "values": {
+      "commonRange": "6,000 - 8,080",
+      "averagePrice": 7668,
+      "minimumPrice": 5250,
+      "maximumPrice": 10000,
+      "averageStackPrice": 7668,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

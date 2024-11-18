@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design tide born ornament painted coral",
+    "displayName": "Design: Tide-Born Ornament, Painted Coral",
+    "values": {
+      "commonRange": "4,199 - 7,200",
+      "averagePrice": 5932,
+      "minimumPrice": 4000,
+      "maximumPrice": 7213,
+      "averageStackPrice": 5932,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

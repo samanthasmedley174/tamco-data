@@ -1,0 +1,18 @@
+[
+  {
+    "name": "briarheart belt",
+    "displayName": "Briarheart Belt",
+    "values": {
+      "commonRange": "187 - 30,000",
+      "averagePrice": 10568,
+      "minimumPrice": 87,
+      "maximumPrice": 90000,
+      "averageStackPrice": 10568,
+      "commonStackSize": 1,
+      "salesRecorded": 127
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

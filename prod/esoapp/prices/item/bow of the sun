@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of the sun",
+    "displayName": "Bow of the Sun",
+    "values": {
+      "commonRange": "640 - 1,418",
+      "averagePrice": 1009,
+      "minimumPrice": 234,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1009,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

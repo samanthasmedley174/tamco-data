@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadly arm cops",
+    "displayName": "Deadly Arm Cops",
+    "values": {
+      "commonRange": "4,000 - 120,000",
+      "averagePrice": 24920,
+      "minimumPrice": 250,
+      "maximumPrice": 120000,
+      "averageStackPrice": 24920,
+      "commonStackSize": 1,
+      "salesRecorded": 126
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

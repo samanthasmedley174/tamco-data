@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood divider sprouted",
+    "displayName": "Dawnwood Divider, Sprouted",
+    "values": {
+      "commonRange": "2,000 - 6,060",
+      "averagePrice": 3083,
+      "minimumPrice": 1360,
+      "maximumPrice": 6060,
+      "averageStackPrice": 6166,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

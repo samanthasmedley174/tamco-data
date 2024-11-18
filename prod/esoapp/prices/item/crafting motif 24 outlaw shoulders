@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 24 outlaw shoulders",
+    "displayName": "Crafting Motif 24: Outlaw Shoulders",
+    "values": {
+      "commonRange": "17,061 - 58,039",
+      "averagePrice": 39150,
+      "minimumPrice": 5000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 39150,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

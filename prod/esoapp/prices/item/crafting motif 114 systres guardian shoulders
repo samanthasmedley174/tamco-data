@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 114 systres guardian shoulders",
+    "displayName": "Crafting Motif 114: Systres Guardian Shoulders",
+    "values": {
+      "commonRange": "12,000 - 22,000",
+      "averagePrice": 16531,
+      "minimumPrice": 12000,
+      "maximumPrice": 30039,
+      "averageStackPrice": 16531,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

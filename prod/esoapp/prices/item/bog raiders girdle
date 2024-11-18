@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bog raiders girdle",
+    "displayName": "Bog Raider's Girdle",
+    "values": {
+      "commonRange": "395 - 8,000",
+      "averagePrice": 2587,
+      "minimumPrice": 90,
+      "maximumPrice": 9437,
+      "averageStackPrice": 2587,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

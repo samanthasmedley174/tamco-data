@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint argonian end table woven",
+    "displayName": "Blueprint: Argonian End Table, Woven",
+    "values": {
+      "commonRange": "550 - 1,158",
+      "averagePrice": 835,
+      "minimumPrice": 300,
+      "maximumPrice": 1500,
+      "averageStackPrice": 835,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

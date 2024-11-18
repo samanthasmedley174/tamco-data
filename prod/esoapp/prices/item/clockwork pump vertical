@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork pump vertical",
+    "displayName": "Clockwork Pump, Vertical",
+    "values": {
+      "commonRange": "15,000 - 25,000",
+      "averagePrice": 18843,
+      "minimumPrice": 15000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 18843,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

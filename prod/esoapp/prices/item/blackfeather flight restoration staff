@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blackfeather flight restoration staff",
+    "displayName": "Blackfeather Flight Restoration Staff",
+    "values": {
+      "commonRange": "330 - 2,946",
+      "averagePrice": 1280,
+      "minimumPrice": 230,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1280,
+      "commonStackSize": 1,
+      "salesRecorded": 65
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

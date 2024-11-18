@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redguard spittoon gilded",
+    "displayName": "Diagram: Redguard Spittoon, Gilded",
+    "values": {
+      "commonRange": "400,039 - 850,000",
+      "averagePrice": 635823,
+      "minimumPrice": 350000,
+      "maximumPrice": 891621,
+      "averageStackPrice": 635823,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

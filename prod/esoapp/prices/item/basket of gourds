@@ -1,0 +1,18 @@
+[
+  {
+    "name": "basket of gourds",
+    "displayName": "Basket of Gourds",
+    "values": {
+      "commonRange": "1,000 - 6,850",
+      "averagePrice": 4425,
+      "minimumPrice": 650,
+      "maximumPrice": 11150,
+      "averageStackPrice": 4425,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

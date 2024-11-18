@@ -1,0 +1,18 @@
+[
+  {
+    "name": "aunt alessias pork chops",
+    "displayName": "Aunt Alessia's Pork Chops",
+    "values": {
+      "commonRange": "9 - 59",
+      "averagePrice": 34,
+      "minimumPrice": 9,
+      "maximumPrice": 59,
+      "averageStackPrice": 340,
+      "commonStackSize": 10,
+      "salesRecorded": 2
+    },
+    "type": "Food & Drinks",
+    "date": "05/14/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/aunt_alessia's_pork_chops.png"
+  }
+]

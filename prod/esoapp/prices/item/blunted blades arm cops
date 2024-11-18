@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blunted blades arm cops",
+    "displayName": "Blunted Blades Arm Cops",
+    "values": {
+      "commonRange": "900 - 2,153",
+      "averagePrice": 1328,
+      "minimumPrice": 750,
+      "maximumPrice": 2368,
+      "averageStackPrice": 1328,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

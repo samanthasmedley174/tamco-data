@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 45 mazzatun shields",
+    "displayName": "Crafting Motif 45: Mazzatun Shields",
+    "values": {
+      "commonRange": "8,000 - 12,612",
+      "averagePrice": 10526,
+      "minimumPrice": 4000,
+      "maximumPrice": 13000,
+      "averageStackPrice": 10526,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

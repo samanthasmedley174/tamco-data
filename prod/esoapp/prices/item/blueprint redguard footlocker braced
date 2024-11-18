@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard footlocker braced",
+    "displayName": "Blueprint: Redguard Footlocker, Braced",
+    "values": {
+      "commonRange": "1,100 - 2,948",
+      "averagePrice": 2094,
+      "minimumPrice": 1030,
+      "maximumPrice": 2948,
+      "averageStackPrice": 2094,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

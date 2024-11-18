@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 71 coldsnap bows",
+    "displayName": "Crafting Motif 71: Coldsnap Bows",
+    "values": {
+      "commonRange": "63,000 - 71,347",
+      "averagePrice": 67337,
+      "minimumPrice": 60000,
+      "maximumPrice": 76000,
+      "averageStackPrice": 67337,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

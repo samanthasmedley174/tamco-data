@@ -1,0 +1,18 @@
+[
+  {
+    "name": "corundum",
+    "displayName": "Corundum",
+    "values": {
+      "commonRange": "3 - 31",
+      "averagePrice": 16,
+      "minimumPrice": 3,
+      "maximumPrice": 36,
+      "averageStackPrice": 32,
+      "commonStackSize": 2,
+      "salesRecorded": 15
+    },
+    "type": "Style Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Corundum.png"
+  }
+]

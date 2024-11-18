@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the radiant bastion",
+    "displayName": "Battle Axe of the Radiant Bastion",
+    "values": {
+      "commonRange": "999 - 999",
+      "averagePrice": 999,
+      "minimumPrice": 999,
+      "maximumPrice": 999,
+      "averageStackPrice": 999,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

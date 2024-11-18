@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 102 sul xan shields",
+    "displayName": "Crafting Motif 102: Sul-Xan Shields",
+    "values": {
+      "commonRange": "4,000 - 6,999",
+      "averagePrice": 5402,
+      "minimumPrice": 3689,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5402,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

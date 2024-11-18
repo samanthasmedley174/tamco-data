@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude bench rustic",
+    "displayName": "Blueprint: Solitude Bench, Rustic",
+    "values": {
+      "commonRange": "110 - 3,200",
+      "averagePrice": 2147,
+      "minimumPrice": 110,
+      "maximumPrice": 3700,
+      "averageStackPrice": 2147,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

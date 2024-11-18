@@ -1,0 +1,18 @@
+[
+  {
+    "name": "champion of the hist girdle",
+    "displayName": "Champion of the Hist Girdle",
+    "values": {
+      "commonRange": "499 - 7,471",
+      "averagePrice": 3247,
+      "minimumPrice": 90,
+      "maximumPrice": 12090,
+      "averageStackPrice": 3247,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

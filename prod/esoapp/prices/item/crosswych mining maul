@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crosswych mining maul",
+    "displayName": "Crosswych Mining Maul",
+    "values": {
+      "commonRange": "128 - 128",
+      "averagePrice": 128,
+      "minimumPrice": 128,
+      "maximumPrice": 128,
+      "averageStackPrice": 128,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

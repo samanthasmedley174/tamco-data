@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude footstool wood",
+    "displayName": "Blueprint: Solitude Footstool, Wood",
+    "values": {
+      "commonRange": "1,264 - 4,000",
+      "averagePrice": 2780,
+      "minimumPrice": 500,
+      "maximumPrice": 4058,
+      "averageStackPrice": 2780,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

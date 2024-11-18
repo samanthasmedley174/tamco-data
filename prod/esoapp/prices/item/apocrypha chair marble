@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha chair marble",
+    "displayName": "Apocrypha Chair, Marble",
+    "values": {
+      "commonRange": "5,082 - 12,950",
+      "averagePrice": 7949,
+      "minimumPrice": 3225,
+      "maximumPrice": 15000,
+      "averageStackPrice": 7949,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

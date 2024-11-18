@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton lamp hanging",
+    "displayName": "Breton Lamp, Hanging",
+    "values": {
+      "commonRange": "3,200 - 3,407",
+      "averagePrice": 3371,
+      "minimumPrice": 3000,
+      "maximumPrice": 4097,
+      "averageStackPrice": 3371,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of cyrodiils ward",
+    "displayName": "Battle Axe of Cyrodiil's Ward",
+    "values": {
+      "commonRange": "400 - 3,000",
+      "averagePrice": 1669,
+      "minimumPrice": 250,
+      "maximumPrice": 5246,
+      "averageStackPrice": 1669,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

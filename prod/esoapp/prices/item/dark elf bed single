@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf bed single",
+    "displayName": "Dark Elf Bed, Single",
+    "values": {
+      "commonRange": "500 - 5,990",
+      "averagePrice": 2227,
+      "minimumPrice": 500,
+      "maximumPrice": 5990,
+      "averageStackPrice": 2227,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

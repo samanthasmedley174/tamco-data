@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands candelabra tall",
+    "displayName": "Deadlands Candelabra, Tall",
+    "values": {
+      "commonRange": "2,900 - 9,300",
+      "averagePrice": 5340,
+      "minimumPrice": 2000,
+      "maximumPrice": 10300,
+      "averageStackPrice": 5340,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "04/23/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

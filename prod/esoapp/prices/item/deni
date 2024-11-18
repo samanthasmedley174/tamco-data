@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deni",
+    "displayName": "Deni",
+    "values": {
+      "commonRange": "13 - 37",
+      "averagePrice": 30,
+      "minimumPrice": 8,
+      "maximumPrice": 150,
+      "averageStackPrice": 6000,
+      "commonStackSize": 200,
+      "salesRecorded": 26
+    },
+    "type": "Enchanting Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Deni.png"
+  }
+]

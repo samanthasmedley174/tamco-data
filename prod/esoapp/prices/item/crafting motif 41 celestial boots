@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 41 celestial boots",
+    "displayName": "Crafting Motif 41: Celestial Boots",
+    "values": {
+      "commonRange": "4,000 - 16,644",
+      "averagePrice": 8276,
+      "minimumPrice": 1737,
+      "maximumPrice": 17046,
+      "averageStackPrice": 8276,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

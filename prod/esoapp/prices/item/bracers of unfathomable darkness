@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bracers of unfathomable darkness",
+    "displayName": "Bracers of Unfathomable Darkness",
+    "values": {
+      "commonRange": "290 - 4,000",
+      "averagePrice": 1385,
+      "minimumPrice": 90,
+      "maximumPrice": 6554,
+      "averageStackPrice": 1385,
+      "commonStackSize": 1,
+      "salesRecorded": 115
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

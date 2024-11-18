@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid stairs tall",
+    "displayName": "Ayleid Stairs, Tall",
+    "values": {
+      "commonRange": "17,455 - 18,000",
+      "averagePrice": 17646,
+      "minimumPrice": 15000,
+      "maximumPrice": 18000,
+      "averageStackPrice": 17646,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

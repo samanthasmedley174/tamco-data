@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven clock deactivated",
+    "displayName": "Dwarven Clock, Deactivated",
+    "values": {
+      "commonRange": "15,000 - 27,915",
+      "averagePrice": 23370,
+      "minimumPrice": 14000,
+      "maximumPrice": 28740,
+      "averageStackPrice": 23370,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design lettuce display",
+    "displayName": "Design: Lettuce, Display",
+    "values": {
+      "commonRange": "80 - 250",
+      "averagePrice": 138,
+      "minimumPrice": 27,
+      "maximumPrice": 300,
+      "averageStackPrice": 138,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

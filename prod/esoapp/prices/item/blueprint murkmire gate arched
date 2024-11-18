@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint murkmire gate arched",
+    "displayName": "Blueprint: Murkmire Gate, Arched",
+    "values": {
+      "commonRange": "40,000 - 48,039",
+      "averagePrice": 43245,
+      "minimumPrice": 39000,
+      "maximumPrice": 48200,
+      "averageStackPrice": 43245,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

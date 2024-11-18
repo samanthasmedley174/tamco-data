@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 108 fargrave guardian daggers",
+    "displayName": "Crafting Motif 108: Fargrave Guardian Daggers",
+    "values": {
+      "commonRange": "13,000 - 28,891",
+      "averagePrice": 18009,
+      "minimumPrice": 10039,
+      "maximumPrice": 29500,
+      "averageStackPrice": 18009,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

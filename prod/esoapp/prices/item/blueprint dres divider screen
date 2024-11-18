@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint dres divider screen",
+    "displayName": "Blueprint: Dres Divider, Screen",
+    "values": {
+      "commonRange": "28,000 - 48,005",
+      "averagePrice": 37708,
+      "minimumPrice": 27039,
+      "maximumPrice": 55299,
+      "averageStackPrice": 37708,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

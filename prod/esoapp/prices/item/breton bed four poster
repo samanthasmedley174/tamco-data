@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton bed four poster",
+    "displayName": "Breton Bed, Four-Poster",
+    "values": {
+      "commonRange": "4,628 - 5,000",
+      "averagePrice": 4853,
+      "minimumPrice": 4628,
+      "maximumPrice": 5053,
+      "averageStackPrice": 4853,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

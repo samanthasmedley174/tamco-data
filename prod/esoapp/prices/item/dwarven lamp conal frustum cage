@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven lamp conal frustum cage",
+    "displayName": "Dwarven Lamp, Conal Frustum Cage",
+    "values": {
+      "commonRange": "13,000 - 23,989",
+      "averagePrice": 21234,
+      "minimumPrice": 9900,
+      "maximumPrice": 50300,
+      "averageStackPrice": 21234,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

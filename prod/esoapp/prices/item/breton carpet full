@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton carpet full",
+    "displayName": "Breton Carpet, Full",
+    "values": {
+      "commonRange": "1,200 - 5,500",
+      "averagePrice": 2975,
+      "minimumPrice": 1000,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2975,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

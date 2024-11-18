@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boots of kynes kiss",
+    "displayName": "Boots of Kyne's Kiss",
+    "values": {
+      "commonRange": "900 - 4,350",
+      "averagePrice": 3360,
+      "minimumPrice": 300,
+      "maximumPrice": 11090,
+      "averageStackPrice": 3360,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

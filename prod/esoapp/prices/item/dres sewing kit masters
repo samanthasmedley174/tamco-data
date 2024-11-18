@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dres sewing kit masters",
+    "displayName": "Dres Sewing Kit, Master's",
+    "values": {
+      "commonRange": "6,800 - 14,810",
+      "averagePrice": 13991,
+      "minimumPrice": 5000,
+      "maximumPrice": 33715,
+      "averageStackPrice": 13991,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

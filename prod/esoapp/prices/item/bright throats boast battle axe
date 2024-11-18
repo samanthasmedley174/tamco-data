@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bright throats boast battle axe",
+    "displayName": "Bright-Throat's Boast Battle Axe",
+    "values": {
+      "commonRange": "2,200 - 3,349",
+      "averagePrice": 6487,
+      "minimumPrice": 400,
+      "maximumPrice": 20000,
+      "averageStackPrice": 6487,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

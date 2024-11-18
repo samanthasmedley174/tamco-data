@@ -1,0 +1,18 @@
+[
+  {
+    "name": "book stack well read",
+    "displayName": "Book Stack, Well-Read",
+    "values": {
+      "commonRange": "3,000 - 9,860",
+      "averagePrice": 6970,
+      "minimumPrice": 2060,
+      "maximumPrice": 13060,
+      "averageStackPrice": 6970,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

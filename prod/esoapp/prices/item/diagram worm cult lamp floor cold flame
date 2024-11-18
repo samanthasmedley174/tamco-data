@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram worm cult lamp floor cold flame",
+    "displayName": "Diagram: Worm Cult Lamp, Floor Cold-Flame",
+    "values": {
+      "commonRange": "900,000 - 900,000",
+      "averagePrice": 931670,
+      "minimumPrice": 795000,
+      "maximumPrice": 1100010,
+      "averageStackPrice": 931670,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Furnishing Plans",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

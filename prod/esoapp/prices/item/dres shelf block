@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dres shelf block",
+    "displayName": "Dres Shelf, Block",
+    "values": {
+      "commonRange": "160 - 1,085",
+      "averagePrice": 823,
+      "minimumPrice": 60,
+      "maximumPrice": 2250,
+      "averageStackPrice": 823,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/02/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

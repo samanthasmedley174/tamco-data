@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coldharbour treasure map vi",
+    "displayName": "Coldharbour Treasure Map VI",
+    "values": {
+      "commonRange": "100 - 316",
+      "averagePrice": 191,
+      "minimumPrice": 99,
+      "maximumPrice": 316,
+      "averageStackPrice": 191,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of nocturnals ploy",
+    "displayName": "Axe of Nocturnal's Ploy",
+    "values": {
+      "commonRange": "850 - 5,673",
+      "averagePrice": 4784,
+      "minimumPrice": 363,
+      "maximumPrice": 22894,
+      "averageStackPrice": 4784,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

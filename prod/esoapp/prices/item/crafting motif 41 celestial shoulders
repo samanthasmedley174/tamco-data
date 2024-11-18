@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 41 celestial shoulders",
+    "displayName": "Crafting Motif 41: Celestial Shoulders",
+    "values": {
+      "commonRange": "7,369 - 15,000",
+      "averagePrice": 10026,
+      "minimumPrice": 6000,
+      "maximumPrice": 16006,
+      "averageStackPrice": 10026,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafty alfiqs inferno staff",
+    "displayName": "Crafty Alfiq's Inferno Staff",
+    "values": {
+      "commonRange": "999 - 15,000",
+      "averagePrice": 10731,
+      "minimumPrice": 700,
+      "maximumPrice": 108700,
+      "averageStackPrice": 10731,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

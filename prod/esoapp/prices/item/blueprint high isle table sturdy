@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle table sturdy",
+    "displayName": "Blueprint: High Isle Table, Sturdy",
+    "values": {
+      "commonRange": "1,000 - 12,000",
+      "averagePrice": 5877,
+      "minimumPrice": 130,
+      "maximumPrice": 12558,
+      "averageStackPrice": 5877,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

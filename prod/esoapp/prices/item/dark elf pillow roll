@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf pillow roll",
+    "displayName": "Dark Elf Pillow, Roll",
+    "values": {
+      "commonRange": "4,000 - 5,000",
+      "averagePrice": 4700,
+      "minimumPrice": 3000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 9400,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

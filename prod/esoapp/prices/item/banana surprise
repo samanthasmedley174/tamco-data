@@ -1,0 +1,18 @@
+[
+  {
+    "name": "banana surprise",
+    "displayName": "Banana Surprise",
+    "values": {
+      "commonRange": "3 - 15",
+      "averagePrice": 12,
+      "minimumPrice": 3,
+      "maximumPrice": 66,
+      "averageStackPrice": 12,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/banana_surprise.png"
+  }
+]

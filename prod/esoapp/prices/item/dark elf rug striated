@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf rug striated",
+    "displayName": "Dark Elf Rug, Striated",
+    "values": {
+      "commonRange": "2,500 - 8,000",
+      "averagePrice": 5231,
+      "minimumPrice": 2200,
+      "maximumPrice": 9000,
+      "averageStackPrice": 5231,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

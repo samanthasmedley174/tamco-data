@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint dark elf trestle scaled",
+    "displayName": "Blueprint: Dark Elf Trestle, Scaled",
+    "values": {
+      "commonRange": "230 - 830",
+      "averagePrice": 693,
+      "minimumPrice": 100,
+      "maximumPrice": 2000,
+      "averageStackPrice": 693,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

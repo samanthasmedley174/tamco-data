@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle table rustic",
+    "displayName": "Blueprint: High Isle Table, Rustic",
+    "values": {
+      "commonRange": "127 - 1,000",
+      "averagePrice": 597,
+      "minimumPrice": 127,
+      "maximumPrice": 2000,
+      "averageStackPrice": 597,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

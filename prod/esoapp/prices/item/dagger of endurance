@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of endurance",
+    "displayName": "Dagger of Endurance",
+    "values": {
+      "commonRange": "353 - 3,000",
+      "averagePrice": 1245,
+      "minimumPrice": 343,
+      "maximumPrice": 5453,
+      "averageStackPrice": 1245,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

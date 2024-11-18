@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor chair polished",
+    "displayName": "Alinor Chair, Polished",
+    "values": {
+      "commonRange": "1,150 - 7,310",
+      "averagePrice": 4059,
+      "minimumPrice": 1150,
+      "maximumPrice": 7500,
+      "averageStackPrice": 16236,
+      "commonStackSize": 4,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

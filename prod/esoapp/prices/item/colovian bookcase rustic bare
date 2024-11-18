@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian bookcase rustic bare",
+    "displayName": "Colovian Bookcase, Rustic Bare",
+    "values": {
+      "commonRange": "925 - 5,000",
+      "averagePrice": 3550,
+      "minimumPrice": 260,
+      "maximumPrice": 10000,
+      "averageStackPrice": 3550,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boulder metallic rubble",
+    "displayName": "Boulder, Metallic Rubble",
+    "values": {
+      "commonRange": "200 - 600",
+      "averagePrice": 461,
+      "minimumPrice": 100,
+      "maximumPrice": 1100,
+      "averageStackPrice": 461,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Furnishings",
+    "date": "03/16/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

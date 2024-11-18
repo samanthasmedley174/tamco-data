@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 20 yokudan boots",
+    "displayName": "Crafting Motif 20: Yokudan Boots",
+    "values": {
+      "commonRange": "10,000 - 15,196",
+      "averagePrice": 15196,
+      "minimumPrice": 9900,
+      "maximumPrice": 50000,
+      "averageStackPrice": 15196,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

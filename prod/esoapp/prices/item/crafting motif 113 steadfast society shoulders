@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 113 steadfast society shoulders",
+    "displayName": "Crafting Motif 113: Steadfast Society Shoulders",
+    "values": {
+      "commonRange": "5,000 - 11,000",
+      "averagePrice": 7600,
+      "minimumPrice": 5000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 7600,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

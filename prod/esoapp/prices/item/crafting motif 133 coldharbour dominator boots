@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 133 coldharbour dominator boots",
+    "displayName": "Crafting Motif 133: Coldharbour Dominator Boots",
+    "values": {
+      "commonRange": "80,000 - 100,000",
+      "averagePrice": 84690,
+      "minimumPrice": 9039,
+      "maximumPrice": 102775,
+      "averageStackPrice": 84690,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

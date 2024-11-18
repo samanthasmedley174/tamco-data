@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of the desert rose",
+    "displayName": "Axe of the Desert Rose",
+    "values": {
+      "commonRange": "655 - 5,150",
+      "averagePrice": 3194,
+      "minimumPrice": 500,
+      "maximumPrice": 10150,
+      "averageStackPrice": 3194,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

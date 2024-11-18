@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr armchair elegant wooden",
+    "displayName": "Blueprint: Elsweyr Armchair, Elegant Wooden",
+    "values": {
+      "commonRange": "16,800 - 21,039",
+      "averagePrice": 19472,
+      "minimumPrice": 15000,
+      "maximumPrice": 23487,
+      "averageStackPrice": 19472,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

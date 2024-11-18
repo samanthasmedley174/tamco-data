@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cuirass of the storm knight",
+    "displayName": "Cuirass of the Storm Knight",
+    "values": {
+      "commonRange": "174 - 2,327",
+      "averagePrice": 1303,
+      "minimumPrice": 174,
+      "maximumPrice": 22000,
+      "averageStackPrice": 1303,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

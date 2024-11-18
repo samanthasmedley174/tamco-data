@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin plate utensils",
+    "displayName": "Blueprint: Leyawiin Plate, Utensils",
+    "values": {
+      "commonRange": "1,500 - 4,000",
+      "averagePrice": 2928,
+      "minimumPrice": 1000,
+      "maximumPrice": 4684,
+      "averageStackPrice": 2928,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 125 blind path cultist belts",
+    "displayName": "Crafting Motif 125: Blind Path Cultist Belts",
+    "values": {
+      "commonRange": "33,000 - 55,000",
+      "averagePrice": 50016,
+      "minimumPrice": 27665,
+      "maximumPrice": 125000,
+      "averageStackPrice": 50016,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

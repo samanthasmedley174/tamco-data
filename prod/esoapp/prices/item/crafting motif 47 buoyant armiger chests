@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 47 buoyant armiger chests",
+    "displayName": "Crafting Motif 47: Buoyant Armiger Chests",
+    "values": {
+      "commonRange": "70,000 - 129,000",
+      "averagePrice": 99853,
+      "minimumPrice": 60000,
+      "maximumPrice": 131000,
+      "averageStackPrice": 99853,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

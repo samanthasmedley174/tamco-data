@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 39 minotaur bows",
+    "displayName": "Crafting Motif 39: Minotaur Bows",
+    "values": {
+      "commonRange": "19,000 - 40,000",
+      "averagePrice": 26717,
+      "minimumPrice": 10000,
+      "maximumPrice": 70039,
+      "averageStackPrice": 26717,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 31 skinchanger swords",
+    "displayName": "Crafting Motif 31: Skinchanger Swords",
+    "values": {
+      "commonRange": "3,000 - 11,965",
+      "averagePrice": 6331,
+      "minimumPrice": 1742,
+      "maximumPrice": 16654,
+      "averageStackPrice": 6331,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

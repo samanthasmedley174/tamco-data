@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 33 thieves guild style",
+    "displayName": "Crafting Motif 33: Thieves Guild Style",
+    "values": {
+      "commonRange": "420,000 - 1,700,045",
+      "averagePrice": 880921,
+      "minimumPrice": 420000,
+      "maximumPrice": 1700045,
+      "averageStackPrice": 880921,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "07/13/2021",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

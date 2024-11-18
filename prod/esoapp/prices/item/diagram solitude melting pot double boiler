@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram solitude melting pot double boiler",
+    "displayName": "Diagram: Solitude Melting Pot, Double Boiler",
+    "values": {
+      "commonRange": "12,000 - 17,500",
+      "averagePrice": 14423,
+      "minimumPrice": 10000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 14423,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

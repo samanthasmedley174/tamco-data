@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 103 black fin legion style",
+    "displayName": "Crafting Motif 103: Black Fin Legion Style",
+    "values": {
+      "commonRange": "1,000,000 - 2,450,000",
+      "averagePrice": 1725000,
+      "minimumPrice": 1000000,
+      "maximumPrice": 2450000,
+      "averageStackPrice": 1725000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Motifs",
+    "date": "10/12/2021",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork somnolostation",
+    "displayName": "Clockwork Somnolostation",
+    "values": {
+      "commonRange": "5,000 - 7,269",
+      "averagePrice": 6229,
+      "minimumPrice": 5000,
+      "maximumPrice": 8420,
+      "averageStackPrice": 6229,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 35 dro mathra staves",
+    "displayName": "Crafting Motif 35: Dro-M'Athra Staves",
+    "values": {
+      "commonRange": "26,000 - 50,039",
+      "averagePrice": 35051,
+      "minimumPrice": 24766,
+      "maximumPrice": 60039,
+      "averageStackPrice": 35051,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

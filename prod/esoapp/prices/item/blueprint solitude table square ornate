@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude table square ornate",
+    "displayName": "Blueprint: Solitude Table, Square Ornate",
+    "values": {
+      "commonRange": "20,000 - 23,000",
+      "averagePrice": 22136,
+      "minimumPrice": 19000,
+      "maximumPrice": 28039,
+      "averageStackPrice": 22136,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

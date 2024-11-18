@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arch to ayleid mysteries painting wood",
+    "displayName": "Arch to Ayleid Mysteries Painting, Wood",
+    "values": {
+      "commonRange": "20,000 - 35,000",
+      "averagePrice": 29075,
+      "minimumPrice": 19633,
+      "maximumPrice": 37686,
+      "averageStackPrice": 29075,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

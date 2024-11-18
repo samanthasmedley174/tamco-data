@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood box gift",
+    "displayName": "Dawnwood Box, Gift",
+    "values": {
+      "commonRange": "2,000 - 2,672",
+      "averagePrice": 2330,
+      "minimumPrice": 2000,
+      "maximumPrice": 2713,
+      "averageStackPrice": 2330,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

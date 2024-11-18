@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 89 ancestral high elf helmets",
+    "displayName": "Crafting Motif 89: Ancestral High Elf Helmets",
+    "values": {
+      "commonRange": "6,700 - 24,000",
+      "averagePrice": 17560,
+      "minimumPrice": 4000,
+      "maximumPrice": 81520,
+      "averageStackPrice": 17560,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

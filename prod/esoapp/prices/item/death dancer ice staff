@@ -1,0 +1,18 @@
+[
+  {
+    "name": "death dancer ice staff",
+    "displayName": "Death-Dancer Ice Staff",
+    "values": {
+      "commonRange": "240 - 2,246",
+      "averagePrice": 1253,
+      "minimumPrice": 102,
+      "maximumPrice": 3246,
+      "averageStackPrice": 1253,
+      "commonStackSize": 1,
+      "salesRecorded": 52
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

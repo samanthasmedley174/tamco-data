@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 120 scribes of mora maces",
+    "displayName": "Crafting Motif 120: Scribes of Mora Maces",
+    "values": {
+      "commonRange": "24,999 - 30,039",
+      "averagePrice": 27729,
+      "minimumPrice": 24861,
+      "maximumPrice": 40000,
+      "averageStackPrice": 27729,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

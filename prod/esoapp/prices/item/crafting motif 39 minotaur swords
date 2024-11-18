@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 39 minotaur swords",
+    "displayName": "Crafting Motif 39: Minotaur Swords",
+    "values": {
+      "commonRange": "15,000 - 38,797",
+      "averagePrice": 26856,
+      "minimumPrice": 3039,
+      "maximumPrice": 39731,
+      "averageStackPrice": 26856,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

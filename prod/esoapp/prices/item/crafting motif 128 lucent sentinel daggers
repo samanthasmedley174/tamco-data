@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 128 lucent sentinel daggers",
+    "displayName": "Crafting Motif 128: Lucent Sentinel Daggers",
+    "values": {
+      "commonRange": "4,000 - 15,537",
+      "averagePrice": 8174,
+      "minimumPrice": 3398,
+      "maximumPrice": 30000,
+      "averageStackPrice": 8174,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

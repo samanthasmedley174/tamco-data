@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 125 blind path cultist maces",
+    "displayName": "Crafting Motif 125: Blind Path Cultist Maces",
+    "values": {
+      "commonRange": "34,553 - 53,917",
+      "averagePrice": 42304,
+      "minimumPrice": 34553,
+      "maximumPrice": 63917,
+      "averageStackPrice": 42304,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

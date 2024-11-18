@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha bookcase corner",
+    "displayName": "Apocrypha Bookcase, Corner",
+    "values": {
+      "commonRange": "5,000 - 10,050",
+      "averagePrice": 8185,
+      "minimumPrice": 5000,
+      "maximumPrice": 18000,
+      "averageStackPrice": 8185,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

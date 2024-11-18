@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude basket centerpiece",
+    "displayName": "Blueprint: Solitude Basket, Centerpiece",
+    "values": {
+      "commonRange": "9,900 - 13,300",
+      "averagePrice": 10993,
+      "minimumPrice": 4500,
+      "maximumPrice": 14077,
+      "averageStackPrice": 10993,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

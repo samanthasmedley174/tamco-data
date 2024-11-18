@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of high isle",
+    "displayName": "Axe of High Isle",
+    "values": {
+      "commonRange": "500 - 953",
+      "averagePrice": 701,
+      "minimumPrice": 450,
+      "maximumPrice": 1000,
+      "averageStackPrice": 701,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

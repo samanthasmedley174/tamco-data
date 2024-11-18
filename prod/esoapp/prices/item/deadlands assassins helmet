@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands assassins helmet",
+    "displayName": "Deadlands Assassin's Helmet",
+    "values": {
+      "commonRange": "150 - 3,750",
+      "averagePrice": 1888,
+      "minimumPrice": 144,
+      "maximumPrice": 15150,
+      "averageStackPrice": 1888,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

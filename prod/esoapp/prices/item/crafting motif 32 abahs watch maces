@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 32 abahs watch maces",
+    "displayName": "Crafting Motif 32: Abah's Watch Maces",
+    "values": {
+      "commonRange": "5,000 - 12,750",
+      "averagePrice": 9253,
+      "minimumPrice": 4970,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9253,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

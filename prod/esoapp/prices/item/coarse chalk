@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coarse chalk",
+    "displayName": "Coarse Chalk",
+    "values": {
+      "commonRange": "6 - 123",
+      "averagePrice": 74,
+      "minimumPrice": 6,
+      "maximumPrice": 166,
+      "averageStackPrice": 222,
+      "commonStackSize": 3,
+      "salesRecorded": 11
+    },
+    "type": "Style Materials",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Coarse_Chalk.png"
+  }
+]

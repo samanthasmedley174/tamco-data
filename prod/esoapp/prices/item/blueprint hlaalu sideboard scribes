@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint hlaalu sideboard scribes",
+    "displayName": "Blueprint: Hlaalu Sideboard, Scribe's",
+    "values": {
+      "commonRange": "22,000 - 28,000",
+      "averagePrice": 25388,
+      "minimumPrice": 20000,
+      "maximumPrice": 28000,
+      "averageStackPrice": 25388,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

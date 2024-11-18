@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 54 bloodforge swords",
+    "displayName": "Crafting Motif 54: Bloodforge Swords",
+    "values": {
+      "commonRange": "15,417 - 20,000",
+      "averagePrice": 17405,
+      "minimumPrice": 14500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 17405,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

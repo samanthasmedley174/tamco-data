@@ -1,0 +1,18 @@
+[
+  {
+    "name": "chokeberry extract",
+    "displayName": "Chokeberry Extract",
+    "values": {
+      "commonRange": "250 - 426",
+      "averagePrice": 337,
+      "minimumPrice": 210,
+      "maximumPrice": 426,
+      "averageStackPrice": 337,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Chokeberry_Extract.png"
+  }
+]

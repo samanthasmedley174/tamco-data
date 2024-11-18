@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton urn lid striated",
+    "displayName": "Breton Urn Lid, Striated",
+    "values": {
+      "commonRange": "1,300 - 1,300",
+      "averagePrice": 1277,
+      "minimumPrice": 1100,
+      "maximumPrice": 1430,
+      "averageStackPrice": 1277,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Furnishings",
+    "date": "04/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

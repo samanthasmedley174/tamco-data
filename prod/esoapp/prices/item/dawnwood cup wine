@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood cup wine",
+    "displayName": "Dawnwood Cup, Wine",
+    "values": {
+      "commonRange": "467 - 3,000",
+      "averagePrice": 2234,
+      "minimumPrice": 360,
+      "maximumPrice": 7000,
+      "averageStackPrice": 2234,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton nightstand knotwork",
+    "displayName": "Breton Nightstand, Knotwork",
+    "values": {
+      "commonRange": "2,300 - 6,500",
+      "averagePrice": 4550,
+      "minimumPrice": 2000,
+      "maximumPrice": 7000,
+      "averageStackPrice": 4550,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/04/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 73 anequina style",
+    "displayName": "Crafting Motif 73: Anequina Style",
+    "values": {
+      "commonRange": "750,000 - 1,000,000",
+      "averagePrice": 735015,
+      "minimumPrice": 160045,
+      "maximumPrice": 1000000,
+      "averageStackPrice": 735015,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Motifs",
+    "date": "12/06/2022",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

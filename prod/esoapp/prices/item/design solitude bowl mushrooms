@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design solitude bowl mushrooms",
+    "displayName": "Design: Solitude Bowl, Mushrooms",
+    "values": {
+      "commonRange": "10,000 - 14,000",
+      "averagePrice": 11553,
+      "minimumPrice": 4302,
+      "maximumPrice": 17078,
+      "averageStackPrice": 11553,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

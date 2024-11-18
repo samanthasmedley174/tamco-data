@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin trunk carved octad",
+    "displayName": "Blueprint: Leyawiin Trunk, Carved Octad",
+    "values": {
+      "commonRange": "5,000 - 8,885",
+      "averagePrice": 6997,
+      "minimumPrice": 5000,
+      "maximumPrice": 9384,
+      "averageStackPrice": 6997,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

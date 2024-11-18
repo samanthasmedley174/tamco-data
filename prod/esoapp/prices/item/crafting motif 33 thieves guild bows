@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 33 thieves guild bows",
+    "displayName": "Crafting Motif 33: Thieves Guild Bows",
+    "values": {
+      "commonRange": "6,198 - 10,000",
+      "averagePrice": 8661,
+      "minimumPrice": 1100,
+      "maximumPrice": 12000,
+      "averageStackPrice": 8661,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

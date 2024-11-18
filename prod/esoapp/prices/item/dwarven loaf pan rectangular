@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven loaf pan rectangular",
+    "displayName": "Dwarven Loaf Pan, Rectangular",
+    "values": {
+      "commonRange": "2,000 - 3,300",
+      "averagePrice": 2583,
+      "minimumPrice": 1500,
+      "maximumPrice": 3300,
+      "averageStackPrice": 2583,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

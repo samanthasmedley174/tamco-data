@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin armoire formal",
+    "displayName": "Blueprint: Leyawiin Armoire, Formal",
+    "values": {
+      "commonRange": "30,900 - 37,000",
+      "averagePrice": 33757,
+      "minimumPrice": 30039,
+      "maximumPrice": 38000,
+      "averageStackPrice": 33757,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "camonna tong helmet",
+    "displayName": "Camonna Tong Helmet",
+    "values": {
+      "commonRange": "50 - 2,995",
+      "averagePrice": 1057,
+      "minimumPrice": 25,
+      "maximumPrice": 3150,
+      "averageStackPrice": 1057,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 67 welkynar legs",
+    "displayName": "Crafting Motif 67: Welkynar Legs",
+    "values": {
+      "commonRange": "5,000 - 9,039",
+      "averagePrice": 7432,
+      "minimumPrice": 3000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 7432,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

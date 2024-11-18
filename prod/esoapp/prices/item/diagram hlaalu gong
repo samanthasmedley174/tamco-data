@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram hlaalu gong",
+    "displayName": "Diagram: Hlaalu Gong",
+    "values": {
+      "commonRange": "54,446 - 80,000",
+      "averagePrice": 63631,
+      "minimumPrice": 50045,
+      "maximumPrice": 87045,
+      "averageStackPrice": 63631,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

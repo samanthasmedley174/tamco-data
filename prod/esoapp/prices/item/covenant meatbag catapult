@@ -1,0 +1,18 @@
+[
+  {
+    "name": "covenant meatbag catapult",
+    "displayName": "Covenant Meatbag Catapult",
+    "values": {
+      "commonRange": "100 - 500",
+      "averagePrice": 228,
+      "minimumPrice": 50,
+      "maximumPrice": 500,
+      "averageStackPrice": 228,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Siege Equipment",
+    "date": "10/01/2024",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Covenant_Meatbag_Catapult.png"
+  }
+]

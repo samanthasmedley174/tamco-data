@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 102 sul xan style",
+    "displayName": "Crafting Motif 102: Sul-Xan Style",
+    "values": {
+      "commonRange": "299,990 - 4,000,000",
+      "averagePrice": 1449998,
+      "minimumPrice": 299990,
+      "maximumPrice": 4000000,
+      "averageStackPrice": 1449998,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "11/21/2023",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

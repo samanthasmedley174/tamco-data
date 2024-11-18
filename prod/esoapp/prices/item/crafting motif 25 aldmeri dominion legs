@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 25 aldmeri dominion legs",
+    "displayName": "Crafting Motif 25: Aldmeri Dominion Legs",
+    "values": {
+      "commonRange": "1,750 - 5,000",
+      "averagePrice": 3735,
+      "minimumPrice": 1000,
+      "maximumPrice": 7545,
+      "averageStackPrice": 3735,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint alinor bed canopy full",
+    "displayName": "Blueprint: Alinor Bed, Canopy Full",
+    "values": {
+      "commonRange": "16,800 - 35,543",
+      "averagePrice": 28603,
+      "minimumPrice": 15039,
+      "maximumPrice": 36000,
+      "averageStackPrice": 28603,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint breton dresser knotwork",
+    "displayName": "Blueprint: Breton Dresser, Knotwork",
+    "values": {
+      "commonRange": "14,000 - 50,000",
+      "averagePrice": 23525,
+      "minimumPrice": 13963,
+      "maximumPrice": 50000,
+      "averageStackPrice": 23525,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

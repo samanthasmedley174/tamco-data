@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 93 ancestral breton shoulders",
+    "displayName": "Crafting Motif 93: Ancestral Breton Shoulders",
+    "values": {
+      "commonRange": "22,000 - 36,139",
+      "averagePrice": 28847,
+      "minimumPrice": 15000,
+      "maximumPrice": 42000,
+      "averageStackPrice": 28847,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

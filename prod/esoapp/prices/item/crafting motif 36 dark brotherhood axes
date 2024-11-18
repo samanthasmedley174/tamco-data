@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 36 dark brotherhood axes",
+    "displayName": "Crafting Motif 36: Dark Brotherhood Axes",
+    "values": {
+      "commonRange": "6,037 - 10,037",
+      "averagePrice": 9766,
+      "minimumPrice": 5000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9766,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

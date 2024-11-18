@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crusty sweetroll",
+    "displayName": "Crusty Sweetroll",
+    "values": {
+      "commonRange": "6 - 26",
+      "averagePrice": 12,
+      "minimumPrice": 6,
+      "maximumPrice": 30,
+      "averageStackPrice": 12,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "11/05/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/crusty_sweetroll.png"
+  }
+]

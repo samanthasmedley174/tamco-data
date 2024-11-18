@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of the swift",
+    "displayName": "Dagger of the Swift",
+    "values": {
+      "commonRange": "1,000 - 10,153",
+      "averagePrice": 5668,
+      "minimumPrice": 850,
+      "maximumPrice": 12500,
+      "averageStackPrice": 5668,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arkays charity bow",
+    "displayName": "Arkay's Charity Bow",
+    "values": {
+      "commonRange": "330 - 2,518",
+      "averagePrice": 1355,
+      "minimumPrice": 240,
+      "maximumPrice": 9240,
+      "averageStackPrice": 1355,
+      "commonStackSize": 1,
+      "salesRecorded": 71
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

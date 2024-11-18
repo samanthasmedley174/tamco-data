@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor table setting complete",
+    "displayName": "Alinor Table Setting, Complete",
+    "values": {
+      "commonRange": "1,650 - 5,150",
+      "averagePrice": 3563,
+      "minimumPrice": 150,
+      "maximumPrice": 12000,
+      "averageStackPrice": 3563,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

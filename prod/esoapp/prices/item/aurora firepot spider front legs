@@ -1,0 +1,18 @@
+[
+  {
+    "name": "aurora firepot spider front legs",
+    "displayName": "Aurora Firepot Spider: Front Legs",
+    "values": {
+      "commonRange": "330 - 1,000",
+      "averagePrice": 883,
+      "minimumPrice": 100,
+      "maximumPrice": 3000,
+      "averageStackPrice": 883,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Fragments",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

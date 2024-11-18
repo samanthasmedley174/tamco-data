@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 17 xivkyn shields",
+    "displayName": "Crafting Motif 17: Xivkyn Shields",
+    "values": {
+      "commonRange": "4,000 - 8,000",
+      "averagePrice": 5699,
+      "minimumPrice": 2000,
+      "maximumPrice": 12007,
+      "averageStackPrice": 5699,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

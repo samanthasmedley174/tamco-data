@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian mat reed",
+    "displayName": "Argonian Mat, Reed",
+    "values": {
+      "commonRange": "500 - 1,085",
+      "averagePrice": 853,
+      "minimumPrice": 260,
+      "maximumPrice": 2200,
+      "averageStackPrice": 853,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "04/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

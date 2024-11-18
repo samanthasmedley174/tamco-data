@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha wall ramped book stacks",
+    "displayName": "Apocrypha Wall, Ramped Book Stacks",
+    "values": {
+      "commonRange": "6,583 - 13,995",
+      "averagePrice": 10472,
+      "minimumPrice": 5000,
+      "maximumPrice": 14995,
+      "averageStackPrice": 20944,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

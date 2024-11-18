@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude wardrobe noble",
+    "displayName": "Blueprint: Solitude Wardrobe, Noble",
+    "values": {
+      "commonRange": "24,000 - 28,402",
+      "averagePrice": 26402,
+      "minimumPrice": 22000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 26402,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

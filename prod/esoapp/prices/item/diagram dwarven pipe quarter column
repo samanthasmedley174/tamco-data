@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven pipe quarter column",
+    "displayName": "Diagram: Dwarven Pipe, Quarter Column",
+    "values": {
+      "commonRange": "40,000 - 55,410",
+      "averagePrice": 44390,
+      "minimumPrice": 3030,
+      "maximumPrice": 65000,
+      "averageStackPrice": 44390,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint argonian trunk painted",
+    "displayName": "Blueprint: Argonian Trunk, Painted",
+    "values": {
+      "commonRange": "14,274 - 16,136",
+      "averagePrice": 14985,
+      "minimumPrice": 9000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 14985,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

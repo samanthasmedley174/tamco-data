@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint orcish shelves braced",
+    "displayName": "Blueprint: Orcish Shelves, Braced",
+    "values": {
+      "commonRange": "100 - 227",
+      "averagePrice": 155,
+      "minimumPrice": 59,
+      "maximumPrice": 420,
+      "averageStackPrice": 155,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

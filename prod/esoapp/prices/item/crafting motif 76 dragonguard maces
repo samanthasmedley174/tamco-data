@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 76 dragonguard maces",
+    "displayName": "Crafting Motif 76: Dragonguard Maces",
+    "values": {
+      "commonRange": "4,000 - 6,326",
+      "averagePrice": 5190,
+      "minimumPrice": 3000,
+      "maximumPrice": 7000,
+      "averageStackPrice": 5190,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard bookcase full",
+    "displayName": "Blueprint: Redguard Bookcase, Full",
+    "values": {
+      "commonRange": "50,000 - 80,000",
+      "averagePrice": 69993,
+      "minimumPrice": 40000,
+      "maximumPrice": 99950,
+      "averageStackPrice": 69993,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

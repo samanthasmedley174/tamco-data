@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor potted plant twin saplings",
+    "displayName": "Alinor Potted Plant, Twin Saplings",
+    "values": {
+      "commonRange": "4,150 - 10,150",
+      "averagePrice": 6657,
+      "minimumPrice": 3000,
+      "maximumPrice": 13900,
+      "averageStackPrice": 6657,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

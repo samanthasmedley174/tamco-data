@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram leyawiin chandelier brass",
+    "displayName": "Diagram: Leyawiin Chandelier, Brass",
+    "values": {
+      "commonRange": "30,039 - 38,000",
+      "averagePrice": 33354,
+      "minimumPrice": 30039,
+      "maximumPrice": 38443,
+      "averageStackPrice": 33354,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

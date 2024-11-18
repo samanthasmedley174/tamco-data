@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 98 house hexos bows",
+    "displayName": "Crafting Motif 98: House Hexos Bows",
+    "values": {
+      "commonRange": "7,000 - 29,969",
+      "averagePrice": 13983,
+      "minimumPrice": 5000,
+      "maximumPrice": 29969,
+      "averageStackPrice": 13983,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

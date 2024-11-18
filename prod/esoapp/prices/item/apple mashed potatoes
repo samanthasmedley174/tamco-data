@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apple mashed potatoes",
+    "displayName": "Apple Mashed Potatoes",
+    "values": {
+      "commonRange": "9 - 9",
+      "averagePrice": 19,
+      "minimumPrice": 9,
+      "maximumPrice": 39,
+      "averageStackPrice": 1900,
+      "commonStackSize": 100,
+      "salesRecorded": 3
+    },
+    "type": "Food & Drinks",
+    "date": "08/24/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/apple_mashed_potatoes.png"
+  }
+]

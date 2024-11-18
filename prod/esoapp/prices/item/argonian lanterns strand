@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian lanterns strand",
+    "displayName": "Argonian Lanterns, Strand",
+    "values": {
+      "commonRange": "7,371 - 8,242",
+      "averagePrice": 7461,
+      "minimumPrice": 4000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 14922,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

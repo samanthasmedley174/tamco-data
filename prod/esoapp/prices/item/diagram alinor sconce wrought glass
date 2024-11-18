@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram alinor sconce wrought glass",
+    "displayName": "Diagram: Alinor Sconce, Wrought Glass",
+    "values": {
+      "commonRange": "21,605 - 26,569",
+      "averagePrice": 24199,
+      "minimumPrice": 21000,
+      "maximumPrice": 28000,
+      "averageStackPrice": 24199,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

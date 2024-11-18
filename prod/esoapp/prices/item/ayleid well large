@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid well large",
+    "displayName": "Ayleid Well, Large",
+    "values": {
+      "commonRange": "21,778 - 55,778",
+      "averagePrice": 40568,
+      "minimumPrice": 12000,
+      "maximumPrice": 74000,
+      "averageStackPrice": 40568,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

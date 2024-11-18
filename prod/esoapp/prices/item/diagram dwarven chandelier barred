@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven chandelier barred",
+    "displayName": "Diagram: Dwarven Chandelier, Barred",
+    "values": {
+      "commonRange": "295,000 - 900,000",
+      "averagePrice": 749287,
+      "minimumPrice": 77000,
+      "maximumPrice": 2200000,
+      "averageStackPrice": 749287,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

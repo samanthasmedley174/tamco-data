@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bird feeder post",
+    "displayName": "Bird Feeder, Post",
+    "values": {
+      "commonRange": "4,400 - 7,305",
+      "averagePrice": 5830,
+      "minimumPrice": 2500,
+      "maximumPrice": 7500,
+      "averageStackPrice": 5830,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

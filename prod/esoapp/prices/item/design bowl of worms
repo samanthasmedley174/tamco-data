@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design bowl of worms",
+    "displayName": "Design: Bowl of Worms",
+    "values": {
+      "commonRange": "8,000 - 11,000",
+      "averagePrice": 9545,
+      "minimumPrice": 4000,
+      "maximumPrice": 11380,
+      "averageStackPrice": 9545,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

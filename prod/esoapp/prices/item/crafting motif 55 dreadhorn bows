@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 55 dreadhorn bows",
+    "displayName": "Crafting Motif 55: Dreadhorn Bows",
+    "values": {
+      "commonRange": "3,526 - 5,526",
+      "averagePrice": 4808,
+      "minimumPrice": 3000,
+      "maximumPrice": 5699,
+      "averageStackPrice": 4808,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

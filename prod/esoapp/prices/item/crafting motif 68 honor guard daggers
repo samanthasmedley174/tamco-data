@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 68 honor guard daggers",
+    "displayName": "Crafting Motif 68: Honor Guard Daggers",
+    "values": {
+      "commonRange": "8,000 - 16,560",
+      "averagePrice": 11945,
+      "minimumPrice": 5000,
+      "maximumPrice": 16560,
+      "averageStackPrice": 11945,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

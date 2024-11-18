@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 67 welkynar gloves",
+    "displayName": "Crafting Motif 67: Welkynar Gloves",
+    "values": {
+      "commonRange": "4,000 - 9,018",
+      "averagePrice": 7235,
+      "minimumPrice": 4000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 7235,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

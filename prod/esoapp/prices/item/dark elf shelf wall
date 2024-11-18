@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf shelf wall",
+    "displayName": "Dark Elf Shelf, Wall",
+    "values": {
+      "commonRange": "392 - 1,000",
+      "averagePrice": 793,
+      "minimumPrice": 110,
+      "maximumPrice": 3029,
+      "averageStackPrice": 793,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

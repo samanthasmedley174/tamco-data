@@ -1,0 +1,18 @@
+[
+  {
+    "name": "afflicted mace",
+    "displayName": "Afflicted Mace",
+    "values": {
+      "commonRange": "3,999 - 7,150",
+      "averagePrice": 5069,
+      "minimumPrice": 1153,
+      "maximumPrice": 8888,
+      "averageStackPrice": 5069,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

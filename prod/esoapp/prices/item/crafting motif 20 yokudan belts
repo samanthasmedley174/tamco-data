@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 20 yokudan belts",
+    "displayName": "Crafting Motif 20: Yokudan Belts",
+    "values": {
+      "commonRange": "5,000 - 20,315",
+      "averagePrice": 14032,
+      "minimumPrice": 4900,
+      "maximumPrice": 25000,
+      "averageStackPrice": 14032,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

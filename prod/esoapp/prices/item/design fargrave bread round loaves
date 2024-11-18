@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design fargrave bread round loaves",
+    "displayName": "Design: Fargrave Bread, Round Loaves",
+    "values": {
+      "commonRange": "230 - 5,485",
+      "averagePrice": 4243,
+      "minimumPrice": 90,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4243,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

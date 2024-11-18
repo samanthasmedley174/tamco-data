@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 26 daggerfall covenant legs",
+    "displayName": "Crafting Motif 26: Daggerfall Covenant Legs",
+    "values": {
+      "commonRange": "3,000 - 8,000",
+      "averagePrice": 4448,
+      "minimumPrice": 250,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4448,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

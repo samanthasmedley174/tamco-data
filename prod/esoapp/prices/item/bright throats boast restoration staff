@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bright throats boast restoration staff",
+    "displayName": "Bright-Throat's Boast Restoration Staff",
+    "values": {
+      "commonRange": "1,100 - 6,210",
+      "averagePrice": 3556,
+      "minimumPrice": 300,
+      "maximumPrice": 9042,
+      "averageStackPrice": 3556,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

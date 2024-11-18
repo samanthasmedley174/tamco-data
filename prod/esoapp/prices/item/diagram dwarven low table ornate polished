@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven low table ornate polished",
+    "displayName": "Diagram: Dwarven Low Table, Ornate Polished",
+    "values": {
+      "commonRange": "38,000 - 44,834",
+      "averagePrice": 40739,
+      "minimumPrice": 35000,
+      "maximumPrice": 45396,
+      "averageStackPrice": 40739,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

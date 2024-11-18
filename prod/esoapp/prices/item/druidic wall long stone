@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic wall long stone",
+    "displayName": "Druidic Wall, Long Stone",
+    "values": {
+      "commonRange": "2,000 - 9,000",
+      "averagePrice": 5340,
+      "minimumPrice": 1000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 5340,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

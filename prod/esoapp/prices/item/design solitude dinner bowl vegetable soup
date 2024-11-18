@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design solitude dinner bowl vegetable soup",
+    "displayName": "Design: Solitude Dinner Bowl, Vegetable Soup",
+    "values": {
+      "commonRange": "6,308 - 7,008",
+      "averagePrice": 6763,
+      "minimumPrice": 6000,
+      "maximumPrice": 7008,
+      "averageStackPrice": 6763,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

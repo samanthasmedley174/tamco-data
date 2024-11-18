@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 68 honor guard belts",
+    "displayName": "Crafting Motif 68: Honor Guard Belts",
+    "values": {
+      "commonRange": "6,500 - 10,039",
+      "averagePrice": 8678,
+      "minimumPrice": 5000,
+      "maximumPrice": 10944,
+      "averageStackPrice": 8678,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

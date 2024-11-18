@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cuirass of the wyrd tree",
+    "displayName": "Cuirass of the Wyrd Tree",
+    "values": {
+      "commonRange": "180 - 2,374",
+      "averagePrice": 906,
+      "minimumPrice": 108,
+      "maximumPrice": 2999,
+      "averageStackPrice": 906,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

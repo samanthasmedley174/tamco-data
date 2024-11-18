@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha bookcase tall marble filled",
+    "displayName": "Apocrypha Bookcase, Tall Marble Filled",
+    "values": {
+      "commonRange": "4,000 - 15,000",
+      "averagePrice": 10576,
+      "minimumPrice": 4000,
+      "maximumPrice": 16300,
+      "averageStackPrice": 10576,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cowl of the chronicle",
+    "displayName": "Cowl of the Chronicle",
+    "values": {
+      "commonRange": "150 - 600",
+      "averagePrice": 700,
+      "minimumPrice": 150,
+      "maximumPrice": 1900,
+      "averageStackPrice": 700,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 20 yokudan style",
+    "displayName": "Crafting Motif 20: Yokudan Style",
+    "values": {
+      "commonRange": "495,000 - 1,500,000",
+      "averagePrice": 912857,
+      "minimumPrice": 495000,
+      "maximumPrice": 1500000,
+      "averageStackPrice": 912857,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Motifs",
+    "date": "04/20/2021",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

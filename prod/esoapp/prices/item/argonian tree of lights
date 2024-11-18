@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian tree of lights",
+    "displayName": "Argonian Tree of Lights",
+    "values": {
+      "commonRange": "4,820 - 8,700",
+      "averagePrice": 7114,
+      "minimumPrice": 3300,
+      "maximumPrice": 9800,
+      "averageStackPrice": 7114,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

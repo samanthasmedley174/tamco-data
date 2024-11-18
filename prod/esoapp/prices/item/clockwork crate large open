@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork crate large open",
+    "displayName": "Clockwork Crate, Large Open",
+    "values": {
+      "commonRange": "500 - 3,060",
+      "averagePrice": 2697,
+      "minimumPrice": 210,
+      "maximumPrice": 10860,
+      "averageStackPrice": 2697,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

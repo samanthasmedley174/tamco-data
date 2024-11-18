@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian chandelier grapes",
+    "displayName": "Colovian Chandelier, Grapes",
+    "values": {
+      "commonRange": "15,000 - 33,000",
+      "averagePrice": 21434,
+      "minimumPrice": 13675,
+      "maximumPrice": 33000,
+      "averageStackPrice": 21434,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

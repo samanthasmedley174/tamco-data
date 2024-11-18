@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian rug oval leaf",
+    "displayName": "Colovian Rug, Oval Leaf",
+    "values": {
+      "commonRange": "1,000 - 3,540",
+      "averagePrice": 2572,
+      "minimumPrice": 611,
+      "maximumPrice": 3750,
+      "averageStackPrice": 2572,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

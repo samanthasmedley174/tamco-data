@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram orcish chest buckled",
+    "displayName": "Diagram: Orcish Chest, Buckled",
+    "values": {
+      "commonRange": "12,983 - 16,544",
+      "averagePrice": 13967,
+      "minimumPrice": 12000,
+      "maximumPrice": 19000,
+      "averageStackPrice": 13967,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

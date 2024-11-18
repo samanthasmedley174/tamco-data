@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 27 ebonheart pact bows",
+    "displayName": "Crafting Motif 27: Ebonheart Pact Bows",
+    "values": {
+      "commonRange": "2,743 - 5,000",
+      "averagePrice": 4058,
+      "minimumPrice": 2000,
+      "maximumPrice": 6332,
+      "averageStackPrice": 4058,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

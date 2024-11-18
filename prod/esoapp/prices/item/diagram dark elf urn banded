@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dark elf urn banded",
+    "displayName": "Diagram: Dark Elf Urn, Banded",
+    "values": {
+      "commonRange": "27 - 200",
+      "averagePrice": 103,
+      "minimumPrice": 26,
+      "maximumPrice": 227,
+      "averageStackPrice": 103,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

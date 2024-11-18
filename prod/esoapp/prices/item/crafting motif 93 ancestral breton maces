@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 93 ancestral breton maces",
+    "displayName": "Crafting Motif 93: Ancestral Breton Maces",
+    "values": {
+      "commonRange": "15,000 - 22,000",
+      "averagePrice": 17933,
+      "minimumPrice": 10000,
+      "maximumPrice": 24094,
+      "averageStackPrice": 17933,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

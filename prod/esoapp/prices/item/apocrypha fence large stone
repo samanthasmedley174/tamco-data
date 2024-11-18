@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha fence large stone",
+    "displayName": "Apocrypha Fence, Large Stone",
+    "values": {
+      "commonRange": "6,250 - 9,000",
+      "averagePrice": 7631,
+      "minimumPrice": 6000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 7631,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

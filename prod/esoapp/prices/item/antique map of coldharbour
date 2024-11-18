@@ -1,0 +1,18 @@
+[
+  {
+    "name": "antique map of coldharbour",
+    "displayName": "Antique Map of Coldharbour",
+    "values": {
+      "commonRange": "300 - 9,000",
+      "averagePrice": 4205,
+      "minimumPrice": 300,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4205,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

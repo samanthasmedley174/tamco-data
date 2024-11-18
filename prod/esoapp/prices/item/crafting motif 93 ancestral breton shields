@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 93 ancestral breton shields",
+    "displayName": "Crafting Motif 93: Ancestral Breton Shields",
+    "values": {
+      "commonRange": "8,000 - 45,950",
+      "averagePrice": 29102,
+      "minimumPrice": 7000,
+      "maximumPrice": 50039,
+      "averageStackPrice": 29102,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

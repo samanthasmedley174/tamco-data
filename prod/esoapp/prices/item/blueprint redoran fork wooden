@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redoran fork wooden",
+    "displayName": "Blueprint: Redoran Fork, Wooden",
+    "values": {
+      "commonRange": "3,000 - 7,000",
+      "averagePrice": 4719,
+      "minimumPrice": 3000,
+      "maximumPrice": 7684,
+      "averageStackPrice": 4719,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

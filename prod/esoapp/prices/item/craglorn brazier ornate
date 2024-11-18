@@ -1,0 +1,18 @@
+[
+  {
+    "name": "craglorn brazier ornate",
+    "displayName": "Craglorn Brazier, Ornate",
+    "values": {
+      "commonRange": "5,871 - 15,000",
+      "averagePrice": 9957,
+      "minimumPrice": 1000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9957,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/21/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

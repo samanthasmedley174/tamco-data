@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram leyawiin lantern stationary",
+    "displayName": "Diagram: Leyawiin Lantern, Stationary",
+    "values": {
+      "commonRange": "500 - 2,027",
+      "averagePrice": 1101,
+      "minimumPrice": 500,
+      "maximumPrice": 2366,
+      "averageStackPrice": 1101,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

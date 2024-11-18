@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian tarp sturdy",
+    "displayName": "Argonian Tarp, Sturdy",
+    "values": {
+      "commonRange": "100 - 1,360",
+      "averagePrice": 870,
+      "minimumPrice": 60,
+      "maximumPrice": 3000,
+      "averageStackPrice": 870,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/28/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

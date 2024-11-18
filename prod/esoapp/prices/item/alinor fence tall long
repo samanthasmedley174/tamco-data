@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor fence tall long",
+    "displayName": "Alinor Fence, Tall Long",
+    "values": {
+      "commonRange": "2,756 - 4,750",
+      "averagePrice": 4042,
+      "minimumPrice": 2550,
+      "maximumPrice": 4957,
+      "averageStackPrice": 4042,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

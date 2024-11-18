@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha wardrobe spiked",
+    "displayName": "Apocrypha Wardrobe, Spiked",
+    "values": {
+      "commonRange": "11,953 - 24,900",
+      "averagePrice": 18798,
+      "minimumPrice": 9900,
+      "maximumPrice": 24900,
+      "averageStackPrice": 18798,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

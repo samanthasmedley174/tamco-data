@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha plant crimson succulent",
+    "displayName": "Apocrypha Plant, Crimson Succulent",
+    "values": {
+      "commonRange": "500 - 5,520",
+      "averagePrice": 3872,
+      "minimumPrice": 500,
+      "maximumPrice": 6620,
+      "averageStackPrice": 3872,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 37 ebony boots",
+    "displayName": "Crafting Motif 37: Ebony Boots",
+    "values": {
+      "commonRange": "12,039 - 24,990",
+      "averagePrice": 20015,
+      "minimumPrice": 12000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 20015,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

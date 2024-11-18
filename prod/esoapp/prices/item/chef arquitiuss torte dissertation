@@ -1,0 +1,18 @@
+[
+  {
+    "name": "chef arquitiuss torte dissertation",
+    "displayName": "Chef Arquitius's Torte Dissertation",
+    "values": {
+      "commonRange": "950,000 - 1,047,388",
+      "averagePrice": 1005024,
+      "minimumPrice": 950000,
+      "maximumPrice": 1100000,
+      "averageStackPrice": 1005024,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Miscellaneous",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Miscellaneous/Chef_Arquitius's_Torte_Dissertation.png"
+  }
+]

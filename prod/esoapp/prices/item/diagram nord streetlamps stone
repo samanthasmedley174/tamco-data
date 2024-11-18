@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram nord streetlamps stone",
+    "displayName": "Diagram: Nord Streetlamps, Stone",
+    "values": {
+      "commonRange": "10,870 - 11,976",
+      "averagePrice": 11940,
+      "minimumPrice": 10000,
+      "maximumPrice": 18000,
+      "averageStackPrice": 11940,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

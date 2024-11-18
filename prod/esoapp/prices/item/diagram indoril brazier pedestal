@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram indoril brazier pedestal",
+    "displayName": "Diagram: Indoril Brazier, Pedestal",
+    "values": {
+      "commonRange": "25,000 - 36,535",
+      "averagePrice": 34157,
+      "minimumPrice": 22000,
+      "maximumPrice": 55039,
+      "averageStackPrice": 34157,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 91 hazardous alchemy boots",
+    "displayName": "Crafting Motif 91: Hazardous Alchemy Boots",
+    "values": {
+      "commonRange": "15,954 - 40,000",
+      "averagePrice": 24732,
+      "minimumPrice": 14000,
+      "maximumPrice": 50039,
+      "averageStackPrice": 24732,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

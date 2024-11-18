@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 97 wayward guardian daggers",
+    "displayName": "Crafting Motif 97: Wayward Guardian Daggers",
+    "values": {
+      "commonRange": "7,000 - 21,489",
+      "averagePrice": 14817,
+      "minimumPrice": 5000,
+      "maximumPrice": 22000,
+      "averageStackPrice": 14817,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

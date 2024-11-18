@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin bench cushioned wide",
+    "displayName": "Blueprint: Leyawiin Bench, Cushioned Wide",
+    "values": {
+      "commonRange": "28,500 - 34,990",
+      "averagePrice": 28878,
+      "minimumPrice": 9000,
+      "maximumPrice": 39698,
+      "averageStackPrice": 28878,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

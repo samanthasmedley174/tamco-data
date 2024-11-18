@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram high elf pot hanging",
+    "displayName": "Diagram: High Elf Pot, Hanging",
+    "values": {
+      "commonRange": "13,000 - 15,000",
+      "averagePrice": 14219,
+      "minimumPrice": 11584,
+      "maximumPrice": 15584,
+      "averageStackPrice": 14219,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude display shelf noble filled",
+    "displayName": "Blueprint: Solitude Display Shelf, Noble Filled",
+    "values": {
+      "commonRange": "29,000 - 30,000",
+      "averagePrice": 29362,
+      "minimumPrice": 28994,
+      "maximumPrice": 30000,
+      "averageStackPrice": 29362,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

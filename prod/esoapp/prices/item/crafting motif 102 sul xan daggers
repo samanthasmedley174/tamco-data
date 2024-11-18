@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 102 sul xan daggers",
+    "displayName": "Crafting Motif 102: Sul-Xan Daggers",
+    "values": {
+      "commonRange": "3,500 - 6,000",
+      "averagePrice": 4880,
+      "minimumPrice": 3300,
+      "maximumPrice": 7700,
+      "averageStackPrice": 4880,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

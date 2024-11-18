@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ancient dragonguards cuirass",
+    "displayName": "Ancient Dragonguard's Cuirass",
+    "values": {
+      "commonRange": "78,189 - 78,189",
+      "averagePrice": 78189,
+      "minimumPrice": 78189,
+      "maximumPrice": 78189,
+      "averageStackPrice": 78189,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

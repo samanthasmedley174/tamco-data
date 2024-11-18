@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 23 malacath staves",
+    "displayName": "Crafting Motif 23: Malacath Staves",
+    "values": {
+      "commonRange": "14,761 - 22,300",
+      "averagePrice": 19475,
+      "minimumPrice": 6000,
+      "maximumPrice": 23000,
+      "averageStackPrice": 19475,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

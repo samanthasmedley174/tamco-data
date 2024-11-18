@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 18 akaviri boots",
+    "displayName": "Crafting Motif 18: Akaviri Boots",
+    "values": {
+      "commonRange": "5,432 - 9,504",
+      "averagePrice": 7529,
+      "minimumPrice": 5432,
+      "maximumPrice": 9504,
+      "averageStackPrice": 7529,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

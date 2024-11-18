@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ancient leel vestment",
+    "displayName": "Ancient Leel Vestment",
+    "values": {
+      "commonRange": "202 - 580",
+      "averagePrice": 450,
+      "minimumPrice": 180,
+      "maximumPrice": 750,
+      "averageStackPrice": 450,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

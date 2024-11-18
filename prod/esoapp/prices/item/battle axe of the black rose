@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the black rose",
+    "displayName": "Battle Axe of the Black Rose",
+    "values": {
+      "commonRange": "2,999 - 35,000",
+      "averagePrice": 19000,
+      "minimumPrice": 2999,
+      "maximumPrice": 35000,
+      "averageStackPrice": 19000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

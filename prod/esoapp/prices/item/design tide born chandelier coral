@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design tide born chandelier coral",
+    "displayName": "Design: Tide-Born Chandelier, Coral",
+    "values": {
+      "commonRange": "150,000 - 300,000",
+      "averagePrice": 222322,
+      "minimumPrice": 150000,
+      "maximumPrice": 310688,
+      "averageStackPrice": 222322,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

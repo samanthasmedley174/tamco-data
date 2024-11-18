@@ -1,0 +1,18 @@
+[
+  {
+    "name": "chicken and biscuits",
+    "displayName": "Chicken and Biscuits",
+    "values": {
+      "commonRange": "8 - 9",
+      "averagePrice": 8,
+      "minimumPrice": 7,
+      "maximumPrice": 9,
+      "averageStackPrice": 8,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "01/26/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/chicken_and_biscuits.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven chandelier caged",
+    "displayName": "Diagram: Dwarven Chandelier, Caged",
+    "values": {
+      "commonRange": "700,000 - 1,250,000",
+      "averagePrice": 983504,
+      "minimumPrice": 325000,
+      "maximumPrice": 2200000,
+      "averageStackPrice": 983504,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "07/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

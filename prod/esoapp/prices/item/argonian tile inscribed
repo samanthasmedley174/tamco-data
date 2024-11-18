@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian tile inscribed",
+    "displayName": "Argonian Tile, Inscribed",
+    "values": {
+      "commonRange": "3,000 - 7,300",
+      "averagePrice": 5435,
+      "minimumPrice": 2300,
+      "maximumPrice": 14000,
+      "averageStackPrice": 5435,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

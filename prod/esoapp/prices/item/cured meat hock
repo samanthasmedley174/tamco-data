@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cured meat hock",
+    "displayName": "Cured Meat Hock",
+    "values": {
+      "commonRange": "1,150 - 3,529",
+      "averagePrice": 2650,
+      "minimumPrice": 1000,
+      "maximumPrice": 3719,
+      "averageStackPrice": 2650,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

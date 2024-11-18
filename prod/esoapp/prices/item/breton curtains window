@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton curtains window",
+    "displayName": "Breton Curtains, Window",
+    "values": {
+      "commonRange": "3,300 - 7,300",
+      "averagePrice": 5952,
+      "minimumPrice": 3200,
+      "maximumPrice": 10500,
+      "averageStackPrice": 5952,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

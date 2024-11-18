@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint argonian bookcase sturdy",
+    "displayName": "Blueprint: Argonian Bookcase, Sturdy",
+    "values": {
+      "commonRange": "400 - 1,100",
+      "averagePrice": 737,
+      "minimumPrice": 300,
+      "maximumPrice": 1162,
+      "averageStackPrice": 737,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

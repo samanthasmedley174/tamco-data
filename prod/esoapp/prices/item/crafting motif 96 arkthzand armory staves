@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 96 arkthzand armory staves",
+    "displayName": "Crafting Motif 96: Arkthzand Armory Staves",
+    "values": {
+      "commonRange": "13,015 - 22,500",
+      "averagePrice": 18346,
+      "minimumPrice": 12516,
+      "maximumPrice": 24775,
+      "averageStackPrice": 18346,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

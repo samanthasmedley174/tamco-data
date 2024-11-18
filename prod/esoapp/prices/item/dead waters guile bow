@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dead waters guile bow",
+    "displayName": "Dead-Water's Guile Bow",
+    "values": {
+      "commonRange": "330 - 3,000",
+      "averagePrice": 1534,
+      "minimumPrice": 330,
+      "maximumPrice": 4540,
+      "averageStackPrice": 1534,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

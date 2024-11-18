@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint breton cart covered open",
+    "displayName": "Blueprint: Breton Cart, Covered Open",
+    "values": {
+      "commonRange": "497 - 871",
+      "averagePrice": 612,
+      "minimumPrice": 130,
+      "maximumPrice": 1000,
+      "averageStackPrice": 612,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

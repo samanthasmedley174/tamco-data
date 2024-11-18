@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 135 black soul gem shoulders",
+    "displayName": "Crafting Motif 135: Black Soul Gem Shoulders",
+    "values": {
+      "commonRange": "60,000 - 88,000",
+      "averagePrice": 76376,
+      "minimumPrice": 49999,
+      "maximumPrice": 90000,
+      "averageStackPrice": 76376,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

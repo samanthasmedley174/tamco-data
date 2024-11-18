@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 130 exiles revenge belts",
+    "displayName": "Crafting Motif 130: Exile's Revenge Belts",
+    "values": {
+      "commonRange": "53,000 - 80,000",
+      "averagePrice": 59610,
+      "minimumPrice": 50000,
+      "maximumPrice": 80001,
+      "averageStackPrice": 59610,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

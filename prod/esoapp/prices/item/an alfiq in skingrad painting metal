@@ -1,0 +1,18 @@
+[
+  {
+    "name": "an alfiq in skingrad painting metal",
+    "displayName": "An Alfiq in Skingrad Painting, Metal",
+    "values": {
+      "commonRange": "50,000 - 59,848",
+      "averagePrice": 55255,
+      "minimumPrice": 30713,
+      "maximumPrice": 75000,
+      "averageStackPrice": 55255,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

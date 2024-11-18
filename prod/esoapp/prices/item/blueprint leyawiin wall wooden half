@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin wall wooden half",
+    "displayName": "Blueprint: Leyawiin Wall, Wooden Half",
+    "values": {
+      "commonRange": "22,000 - 30,425",
+      "averagePrice": 26970,
+      "minimumPrice": 20000,
+      "maximumPrice": 30425,
+      "averageStackPrice": 26970,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

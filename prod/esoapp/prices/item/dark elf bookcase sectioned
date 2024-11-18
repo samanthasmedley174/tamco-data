@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf bookcase sectioned",
+    "displayName": "Dark Elf Bookcase, Sectioned",
+    "values": {
+      "commonRange": "1,500 - 2,950",
+      "averagePrice": 2315,
+      "minimumPrice": 1500,
+      "maximumPrice": 3200,
+      "averageStackPrice": 2315,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

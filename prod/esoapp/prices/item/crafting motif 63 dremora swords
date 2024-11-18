@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 63 dremora swords",
+    "displayName": "Crafting Motif 63: Dremora Swords",
+    "values": {
+      "commonRange": "1,186 - 10,000",
+      "averagePrice": 3889,
+      "minimumPrice": 786,
+      "maximumPrice": 10000,
+      "averageStackPrice": 3889,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of the withered hand",
+    "displayName": "Breeches of the Withered Hand",
+    "values": {
+      "commonRange": "180 - 1,390",
+      "averagePrice": 699,
+      "minimumPrice": 126,
+      "maximumPrice": 2374,
+      "averageStackPrice": 699,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

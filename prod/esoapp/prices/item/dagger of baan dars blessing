@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of baan dars blessing",
+    "displayName": "Dagger of Baan Dar's Blessing",
+    "values": {
+      "commonRange": "500 - 2,000",
+      "averagePrice": 2818,
+      "minimumPrice": 300,
+      "maximumPrice": 10144,
+      "averageStackPrice": 2818,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

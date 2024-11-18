@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design redoran cup empty",
+    "displayName": "Design: Redoran Cup, Empty",
+    "values": {
+      "commonRange": "20,000 - 29,131",
+      "averagePrice": 27706,
+      "minimumPrice": 20000,
+      "maximumPrice": 55039,
+      "averageStackPrice": 27706,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

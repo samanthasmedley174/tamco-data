@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 97 wayward guardian gloves",
+    "displayName": "Crafting Motif 97: Wayward Guardian Gloves",
+    "values": {
+      "commonRange": "5,000 - 40,000",
+      "averagePrice": 25996,
+      "minimumPrice": 2000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 25996,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

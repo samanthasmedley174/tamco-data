@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 75 sunspire belts",
+    "displayName": "Crafting Motif 75: Sunspire Belts",
+    "values": {
+      "commonRange": "4,000 - 6,000",
+      "averagePrice": 5031,
+      "minimumPrice": 3000,
+      "maximumPrice": 9423,
+      "averageStackPrice": 5031,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

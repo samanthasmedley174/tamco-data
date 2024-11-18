@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redoran table formal turtle",
+    "displayName": "Blueprint: Redoran Table, Formal Turtle",
+    "values": {
+      "commonRange": "33,000 - 35,000",
+      "averagePrice": 35595,
+      "minimumPrice": 30000,
+      "maximumPrice": 55051,
+      "averageStackPrice": 35595,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "camlorn sweet brown ale",
+    "displayName": "Camlorn Sweet Brown Ale",
+    "values": {
+      "commonRange": "35 - 100",
+      "averagePrice": 72,
+      "minimumPrice": 25,
+      "maximumPrice": 100,
+      "averageStackPrice": 72,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "03/08/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/camlorn_sweet_brown_ale.png"
+  }
+]

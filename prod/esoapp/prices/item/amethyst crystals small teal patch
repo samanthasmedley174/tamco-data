@@ -1,0 +1,18 @@
+[
+  {
+    "name": "amethyst crystals small teal patch",
+    "displayName": "Amethyst Crystals, Small Teal Patch",
+    "values": {
+      "commonRange": "12,000 - 15,000",
+      "averagePrice": 17825,
+      "minimumPrice": 9300,
+      "maximumPrice": 35000,
+      "averageStackPrice": 17825,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

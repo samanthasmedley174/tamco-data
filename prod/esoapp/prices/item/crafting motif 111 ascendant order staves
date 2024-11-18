@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 111 ascendant order staves",
+    "displayName": "Crafting Motif 111: Ascendant Order Staves",
+    "values": {
+      "commonRange": "15,000 - 20,602",
+      "averagePrice": 18657,
+      "minimumPrice": 11000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 18657,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

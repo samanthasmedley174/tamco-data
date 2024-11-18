@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 75 sunspire boots",
+    "displayName": "Crafting Motif 75: Sunspire Boots",
+    "values": {
+      "commonRange": "3,000 - 4,902",
+      "averagePrice": 4209,
+      "minimumPrice": 3000,
+      "maximumPrice": 4902,
+      "averageStackPrice": 4209,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

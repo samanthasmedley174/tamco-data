@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 32 abahs watch chests",
+    "displayName": "Crafting Motif 32: Abah's Watch Chests",
+    "values": {
+      "commonRange": "15,000 - 30,000",
+      "averagePrice": 21916,
+      "minimumPrice": 1100,
+      "maximumPrice": 32607,
+      "averageStackPrice": 21916,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

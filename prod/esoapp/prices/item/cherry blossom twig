@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cherry blossom twig",
+    "displayName": "Cherry Blossom Twig",
+    "values": {
+      "commonRange": "12 - 76",
+      "averagePrice": 27,
+      "minimumPrice": 1,
+      "maximumPrice": 79,
+      "averageStackPrice": 27,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Miscellaneous",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Miscellaneous/Cherry_Blossom_Twig.png"
+  }
+]

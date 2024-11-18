@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint tide born wall curved boma",
+    "displayName": "Blueprint: Tide-Born Wall, Curved Boma",
+    "values": {
+      "commonRange": "13,000 - 20,030",
+      "averagePrice": 15754,
+      "minimumPrice": 12000,
+      "maximumPrice": 20030,
+      "averageStackPrice": 15754,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

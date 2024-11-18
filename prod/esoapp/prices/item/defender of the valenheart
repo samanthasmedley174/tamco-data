@@ -1,0 +1,18 @@
+[
+  {
+    "name": "defender of the valenheart",
+    "displayName": "Defender of the Valenheart",
+    "values": {
+      "commonRange": "600 - 640",
+      "averagePrice": 612,
+      "minimumPrice": 440,
+      "maximumPrice": 740,
+      "averageStackPrice": 612,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

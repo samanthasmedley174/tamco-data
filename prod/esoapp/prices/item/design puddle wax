@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design puddle wax",
+    "displayName": "Design: Puddle, Wax",
+    "values": {
+      "commonRange": "600 - 2,000",
+      "averagePrice": 1373,
+      "minimumPrice": 400,
+      "maximumPrice": 2552,
+      "averageStackPrice": 1373,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "common candles pair",
+    "displayName": "Common Candles, Pair",
+    "values": {
+      "commonRange": "160 - 1,060",
+      "averagePrice": 637,
+      "minimumPrice": 60,
+      "maximumPrice": 1085,
+      "averageStackPrice": 637,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Furnishings",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

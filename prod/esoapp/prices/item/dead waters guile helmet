@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dead waters guile helmet",
+    "displayName": "Dead-Water's Guile Helmet",
+    "values": {
+      "commonRange": "353 - 6,200",
+      "averagePrice": 4059,
+      "minimumPrice": 150,
+      "maximumPrice": 15000,
+      "averageStackPrice": 4059,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

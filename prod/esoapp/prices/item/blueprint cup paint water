@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint cup paint water",
+    "displayName": "Blueprint: Cup, Paint Water",
+    "values": {
+      "commonRange": "30,000 - 35,000",
+      "averagePrice": 31403,
+      "minimumPrice": 20000,
+      "maximumPrice": 38661,
+      "averageStackPrice": 31403,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

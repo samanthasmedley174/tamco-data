@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian seat of comfort",
+    "displayName": "Argonian Seat of Comfort",
+    "values": {
+      "commonRange": "4,300 - 5,500",
+      "averagePrice": 6027,
+      "minimumPrice": 4000,
+      "maximumPrice": 16000,
+      "averageStackPrice": 12054,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

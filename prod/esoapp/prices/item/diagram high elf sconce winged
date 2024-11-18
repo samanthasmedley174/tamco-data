@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram high elf sconce winged",
+    "displayName": "Diagram: High Elf Sconce, Winged",
+    "values": {
+      "commonRange": "20,000 - 30,910",
+      "averagePrice": 25800,
+      "minimumPrice": 19900,
+      "maximumPrice": 35000,
+      "averageStackPrice": 25800,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

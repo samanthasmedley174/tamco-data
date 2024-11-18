@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 58 fang lair legs",
+    "displayName": "Crafting Motif 58: Fang Lair Legs",
+    "values": {
+      "commonRange": "7,664 - 8,999",
+      "averagePrice": 8566,
+      "minimumPrice": 7000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 8566,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

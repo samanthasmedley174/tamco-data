@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of cyrodiils light",
+    "displayName": "Breeches of Cyrodiil's Light",
+    "values": {
+      "commonRange": "666 - 2,000",
+      "averagePrice": 1294,
+      "minimumPrice": 250,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1294,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

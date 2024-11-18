@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram worm cult specimen skull",
+    "displayName": "Diagram: Worm Cult Specimen, Skull",
+    "values": {
+      "commonRange": "70,000 - 117,776",
+      "averagePrice": 97688,
+      "minimumPrice": 60000,
+      "maximumPrice": 199000,
+      "averageStackPrice": 97688,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

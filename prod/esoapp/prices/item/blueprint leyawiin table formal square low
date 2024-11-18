@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin table formal square low",
+    "displayName": "Blueprint: Leyawiin Table, Formal Square Low",
+    "values": {
+      "commonRange": "6,238 - 10,000",
+      "averagePrice": 9621,
+      "minimumPrice": 1290,
+      "maximumPrice": 30000,
+      "averageStackPrice": 9621,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

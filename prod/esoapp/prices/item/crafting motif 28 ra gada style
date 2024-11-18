@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 28 ra gada style",
+    "displayName": "Crafting Motif 28: Ra Gada Style",
+    "values": {
+      "commonRange": "180,045 - 2,000,000",
+      "averagePrice": 785372,
+      "minimumPrice": 30000,
+      "maximumPrice": 2000000,
+      "averageStackPrice": 785372,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "04/19/2022",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

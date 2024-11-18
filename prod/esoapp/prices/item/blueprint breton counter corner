@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint breton counter corner",
+    "displayName": "Blueprint: Breton Counter, Corner",
+    "values": {
+      "commonRange": "12,000 - 13,957",
+      "averagePrice": 13113,
+      "minimumPrice": 10000,
+      "maximumPrice": 14481,
+      "averageStackPrice": 13113,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

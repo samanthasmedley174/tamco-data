@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 47 buoyant armiger shields",
+    "displayName": "Crafting Motif 47: Buoyant Armiger Shields",
+    "values": {
+      "commonRange": "111,111 - 150,000",
+      "averagePrice": 130155,
+      "minimumPrice": 6000,
+      "maximumPrice": 215000,
+      "averageStackPrice": 130155,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha stele tentacles",
+    "displayName": "Apocrypha Stele, Tentacles",
+    "values": {
+      "commonRange": "9,820 - 20,300",
+      "averagePrice": 13972,
+      "minimumPrice": 8000,
+      "maximumPrice": 20300,
+      "averageStackPrice": 13972,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint orcish mug horn",
+    "displayName": "Blueprint: Orcish Mug, Horn",
+    "values": {
+      "commonRange": "9,000 - 11,953",
+      "averagePrice": 10391,
+      "minimumPrice": 8222,
+      "maximumPrice": 15000,
+      "averageStackPrice": 10391,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

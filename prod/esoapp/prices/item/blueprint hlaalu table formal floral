@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint hlaalu table formal floral",
+    "displayName": "Blueprint: Hlaalu Table, Formal Floral",
+    "values": {
+      "commonRange": "33,333 - 42,500",
+      "averagePrice": 37651,
+      "minimumPrice": 33000,
+      "maximumPrice": 45462,
+      "averageStackPrice": 37651,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

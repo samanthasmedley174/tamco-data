@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven crystal mechanism",
+    "displayName": "Dwarven Crystal Mechanism",
+    "values": {
+      "commonRange": "37,500 - 60,000",
+      "averagePrice": 49741,
+      "minimumPrice": 33333,
+      "maximumPrice": 82000,
+      "averageStackPrice": 49741,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

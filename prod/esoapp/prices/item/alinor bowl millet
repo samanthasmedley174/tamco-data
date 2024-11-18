@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor bowl millet",
+    "displayName": "Alinor Bowl, Millet",
+    "values": {
+      "commonRange": "200 - 1,060",
+      "averagePrice": 660,
+      "minimumPrice": 200,
+      "maximumPrice": 1060,
+      "averageStackPrice": 660,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Furnishings",
+    "date": "05/30/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cheese wedge",
+    "displayName": "Cheese Wedge",
+    "values": {
+      "commonRange": "1,000 - 2,264",
+      "averagePrice": 1794,
+      "minimumPrice": 1000,
+      "maximumPrice": 2264,
+      "averageStackPrice": 1794,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

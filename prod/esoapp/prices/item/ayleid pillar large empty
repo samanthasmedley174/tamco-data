@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid pillar large empty",
+    "displayName": "Ayleid Pillar, Large Empty",
+    "values": {
+      "commonRange": "5,833 - 8,307",
+      "averagePrice": 6658,
+      "minimumPrice": 3196,
+      "maximumPrice": 9530,
+      "averageStackPrice": 6658,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

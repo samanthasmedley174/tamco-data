@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint breton pew knotwork",
+    "displayName": "Blueprint: Breton Pew, Knotwork",
+    "values": {
+      "commonRange": "500 - 1,200",
+      "averagePrice": 826,
+      "minimumPrice": 230,
+      "maximumPrice": 1200,
+      "averageStackPrice": 826,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

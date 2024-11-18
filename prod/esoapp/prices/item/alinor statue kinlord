@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor statue kinlord",
+    "displayName": "Alinor Statue, Kinlord",
+    "values": {
+      "commonRange": "8,000 - 16,300",
+      "averagePrice": 12464,
+      "minimumPrice": 5000,
+      "maximumPrice": 16351,
+      "averageStackPrice": 12464,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

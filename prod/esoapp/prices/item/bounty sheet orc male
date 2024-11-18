@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bounty sheet orc male",
+    "displayName": "Bounty Sheet: Orc Male",
+    "values": {
+      "commonRange": "5,000 - 7,986",
+      "averagePrice": 6692,
+      "minimumPrice": 5000,
+      "maximumPrice": 9981,
+      "averageStackPrice": 6692,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

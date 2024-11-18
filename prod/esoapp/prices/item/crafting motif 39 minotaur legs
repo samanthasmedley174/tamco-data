@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 39 minotaur legs",
+    "displayName": "Crafting Motif 39: Minotaur Legs",
+    "values": {
+      "commonRange": "33,000 - 70,000",
+      "averagePrice": 46011,
+      "minimumPrice": 33000,
+      "maximumPrice": 110039,
+      "averageStackPrice": 46011,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

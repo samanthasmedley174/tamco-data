@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood decor curved bone",
+    "displayName": "Dawnwood Decor, Curved Bone",
+    "values": {
+      "commonRange": "3,300 - 9,000",
+      "averagePrice": 6895,
+      "minimumPrice": 2500,
+      "maximumPrice": 9000,
+      "averageStackPrice": 13790,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

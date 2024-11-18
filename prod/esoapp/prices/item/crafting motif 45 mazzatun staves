@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 45 mazzatun staves",
+    "displayName": "Crafting Motif 45: Mazzatun Staves",
+    "values": {
+      "commonRange": "12,345 - 25,000",
+      "averagePrice": 19578,
+      "minimumPrice": 10000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 19578,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

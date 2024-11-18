@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian hamper woven",
+    "displayName": "Argonian Hamper, Woven",
+    "values": {
+      "commonRange": "2,300 - 7,000",
+      "averagePrice": 4338,
+      "minimumPrice": 1000,
+      "maximumPrice": 10300,
+      "averageStackPrice": 4338,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Furnishings",
+    "date": "06/08/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

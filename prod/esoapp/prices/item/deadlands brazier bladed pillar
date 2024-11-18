@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands brazier bladed pillar",
+    "displayName": "Deadlands Brazier, Bladed Pillar",
+    "values": {
+      "commonRange": "3,000 - 7,500",
+      "averagePrice": 5975,
+      "minimumPrice": 3000,
+      "maximumPrice": 13000,
+      "averageStackPrice": 5975,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

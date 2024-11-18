@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 63 dremora legs",
+    "displayName": "Crafting Motif 63: Dremora Legs",
+    "values": {
+      "commonRange": "20,119 - 36,225",
+      "averagePrice": 36948,
+      "minimumPrice": 20000,
+      "maximumPrice": 109039,
+      "averageStackPrice": 36948,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 13 primal style",
+    "displayName": "Crafting Motif 13: Primal Style",
+    "values": {
+      "commonRange": "111 - 1,258",
+      "averagePrice": 832,
+      "minimumPrice": 10,
+      "maximumPrice": 3500,
+      "averageStackPrice": 832,
+      "commonStackSize": 1,
+      "salesRecorded": 47
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint hlaalu cupboard open",
+    "displayName": "Blueprint: Hlaalu Cupboard, Open",
+    "values": {
+      "commonRange": "3,999 - 5,813",
+      "averagePrice": 4759,
+      "minimumPrice": 3000,
+      "maximumPrice": 5813,
+      "averageStackPrice": 4759,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

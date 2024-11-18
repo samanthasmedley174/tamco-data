@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bush lush laurel",
+    "displayName": "Bush, Lush Laurel",
+    "values": {
+      "commonRange": "110 - 1,250",
+      "averagePrice": 757,
+      "minimumPrice": 110,
+      "maximumPrice": 1260,
+      "averageStackPrice": 1514,
+      "commonStackSize": 2,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "04/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

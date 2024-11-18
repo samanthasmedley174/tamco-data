@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 91 hazardous alchemy maces",
+    "displayName": "Crafting Motif 91: Hazardous Alchemy Maces",
+    "values": {
+      "commonRange": "9,000 - 22,000",
+      "averagePrice": 14405,
+      "minimumPrice": 5000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 14405,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

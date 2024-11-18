@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic nightstand stone",
+    "displayName": "Druidic Nightstand, Stone",
+    "values": {
+      "commonRange": "1,460 - 7,400",
+      "averagePrice": 3987,
+      "minimumPrice": 1000,
+      "maximumPrice": 8060,
+      "averageStackPrice": 3987,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/28/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

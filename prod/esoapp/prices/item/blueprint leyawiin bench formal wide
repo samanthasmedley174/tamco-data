@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin bench formal wide",
+    "displayName": "Blueprint: Leyawiin Bench, Formal Wide",
+    "values": {
+      "commonRange": "7,000 - 30,000",
+      "averagePrice": 13069,
+      "minimumPrice": 6000,
+      "maximumPrice": 33030,
+      "averageStackPrice": 13069,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

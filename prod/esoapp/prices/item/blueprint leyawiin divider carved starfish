@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin divider carved starfish",
+    "displayName": "Blueprint: Leyawiin Divider, Carved Starfish",
+    "values": {
+      "commonRange": "44,000 - 52,000",
+      "averagePrice": 47273,
+      "minimumPrice": 40383,
+      "maximumPrice": 60000,
+      "averageStackPrice": 47273,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

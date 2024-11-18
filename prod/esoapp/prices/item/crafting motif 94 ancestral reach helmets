@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 94 ancestral reach helmets",
+    "displayName": "Crafting Motif 94: Ancestral Reach Helmets",
+    "values": {
+      "commonRange": "12,000 - 18,039",
+      "averagePrice": 14657,
+      "minimumPrice": 8000,
+      "maximumPrice": 22944,
+      "averageStackPrice": 14657,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

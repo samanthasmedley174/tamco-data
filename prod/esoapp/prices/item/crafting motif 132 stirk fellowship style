@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 132 stirk fellowship style",
+    "displayName": "Crafting Motif 132: Stirk Fellowship Style",
+    "values": {
+      "commonRange": "200,000 - 3,000,069",
+      "averagePrice": 1600035,
+      "minimumPrice": 200000,
+      "maximumPrice": 3000069,
+      "averageStackPrice": 1600035,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Motifs",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor divider noble",
+    "displayName": "Alinor Divider, Noble",
+    "values": {
+      "commonRange": "8,300 - 18,500",
+      "averagePrice": 16410,
+      "minimumPrice": 5434,
+      "maximumPrice": 20000,
+      "averageStackPrice": 16410,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "09/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

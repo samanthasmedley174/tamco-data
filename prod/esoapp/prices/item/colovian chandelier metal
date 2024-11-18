@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian chandelier metal",
+    "displayName": "Colovian Chandelier, Metal",
+    "values": {
+      "commonRange": "1,625 - 4,300",
+      "averagePrice": 3216,
+      "minimumPrice": 1625,
+      "maximumPrice": 13000,
+      "averageStackPrice": 3216,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram khajiit brazier claw",
+    "displayName": "Diagram: Khajiit Brazier, Claw",
+    "values": {
+      "commonRange": "330 - 2,105",
+      "averagePrice": 1198,
+      "minimumPrice": 130,
+      "maximumPrice": 2105,
+      "averageStackPrice": 1198,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram clockwork furnace socketed",
+    "displayName": "Diagram: Clockwork Furnace, Socketed",
+    "values": {
+      "commonRange": "55,000 - 105,768",
+      "averagePrice": 74493,
+      "minimumPrice": 15000,
+      "maximumPrice": 126577,
+      "averageStackPrice": 74493,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

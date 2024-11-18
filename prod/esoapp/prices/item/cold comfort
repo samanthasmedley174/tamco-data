@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cold comfort",
+    "displayName": "Cold Comfort",
+    "values": {
+      "commonRange": "380 - 1,000",
+      "averagePrice": 1289,
+      "minimumPrice": 240,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1289,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

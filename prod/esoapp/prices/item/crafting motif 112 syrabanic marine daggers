@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 112 syrabanic marine daggers",
+    "displayName": "Crafting Motif 112: Syrabanic Marine Daggers",
+    "values": {
+      "commonRange": "5,000 - 10,039",
+      "averagePrice": 7404,
+      "minimumPrice": 5000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 7404,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

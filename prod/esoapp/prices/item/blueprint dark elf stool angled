@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint dark elf stool angled",
+    "displayName": "Blueprint: Dark Elf Stool, Angled",
+    "values": {
+      "commonRange": "500 - 1,059",
+      "averagePrice": 957,
+      "minimumPrice": 330,
+      "maximumPrice": 2000,
+      "averageStackPrice": 957,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 55 dreadhorn style",
+    "displayName": "Crafting Motif 55: Dreadhorn Style",
+    "values": {
+      "commonRange": "1,633,363 - 1,900,045",
+      "averagePrice": 1633363,
+      "minimumPrice": 1000000,
+      "maximumPrice": 2000045,
+      "averageStackPrice": 1633363,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Motifs",
+    "date": "11/07/2023",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

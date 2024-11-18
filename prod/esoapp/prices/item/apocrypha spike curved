@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha spike curved",
+    "displayName": "Apocrypha Spike, Curved",
+    "values": {
+      "commonRange": "300 - 1,019",
+      "averagePrice": 752,
+      "minimumPrice": 154,
+      "maximumPrice": 1019,
+      "averageStackPrice": 752,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boulder horizontal sandstone",
+    "displayName": "Boulder, Horizontal Sandstone",
+    "values": {
+      "commonRange": "1,100 - 1,837",
+      "averagePrice": 1305,
+      "minimumPrice": 1100,
+      "maximumPrice": 1848,
+      "averageStackPrice": 1305,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

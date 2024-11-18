@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 20 yokudan staves",
+    "displayName": "Crafting Motif 20: Yokudan Staves",
+    "values": {
+      "commonRange": "2,000 - 50,763",
+      "averagePrice": 37601,
+      "minimumPrice": 1000,
+      "maximumPrice": 99999,
+      "averageStackPrice": 37601,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

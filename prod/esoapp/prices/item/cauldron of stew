@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cauldron of stew",
+    "displayName": "Cauldron of Stew",
+    "values": {
+      "commonRange": "450 - 2,500",
+      "averagePrice": 1585,
+      "minimumPrice": 350,
+      "maximumPrice": 2750,
+      "averageStackPrice": 1585,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

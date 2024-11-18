@@ -1,0 +1,18 @@
+[
+  {
+    "name": "curse eating bow",
+    "displayName": "Curse-Eating Bow",
+    "values": {
+      "commonRange": "3,000 - 5,000",
+      "averagePrice": 5086,
+      "minimumPrice": 2600,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5086,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

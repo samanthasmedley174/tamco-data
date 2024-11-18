@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the withered hand",
+    "displayName": "Battle Axe of the Withered Hand",
+    "values": {
+      "commonRange": "234 - 750",
+      "averagePrice": 738,
+      "minimumPrice": 99,
+      "maximumPrice": 2234,
+      "averageStackPrice": 738,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

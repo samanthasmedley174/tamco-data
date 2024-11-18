@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cured meat pile",
+    "displayName": "Cured Meat Pile",
+    "values": {
+      "commonRange": "450 - 5,000",
+      "averagePrice": 2988,
+      "minimumPrice": 300,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2988,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

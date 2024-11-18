@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnstar suns dusk chowder",
+    "displayName": "Dawnstar Sun's Dusk Chowder",
+    "values": {
+      "commonRange": "12 - 161",
+      "averagePrice": 66,
+      "minimumPrice": 11,
+      "maximumPrice": 161,
+      "averageStackPrice": 6600,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "04/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/dawnstar_sun's_dusk_chowder.png"
+  }
+]

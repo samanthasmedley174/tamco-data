@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bruma jugged rabbit",
+    "displayName": "Bruma Jugged Rabbit",
+    "values": {
+      "commonRange": "1 - 21",
+      "averagePrice": 12,
+      "minimumPrice": 1,
+      "maximumPrice": 21,
+      "averageStackPrice": 1200,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "11/22/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/bruma_jugged_rabbit.png"
+  }
+]

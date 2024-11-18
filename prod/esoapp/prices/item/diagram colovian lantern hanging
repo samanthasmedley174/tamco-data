@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram colovian lantern hanging",
+    "displayName": "Diagram: Colovian Lantern, Hanging",
+    "values": {
+      "commonRange": "12,030 - 20,000",
+      "averagePrice": 16734,
+      "minimumPrice": 10000,
+      "maximumPrice": 21807,
+      "averageStackPrice": 16734,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

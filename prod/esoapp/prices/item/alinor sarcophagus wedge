@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor sarcophagus wedge",
+    "displayName": "Alinor Sarcophagus, Wedge",
+    "values": {
+      "commonRange": "5,300 - 18,000",
+      "averagePrice": 12554,
+      "minimumPrice": 5250,
+      "maximumPrice": 23185,
+      "averageStackPrice": 12554,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

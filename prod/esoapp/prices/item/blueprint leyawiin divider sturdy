@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin divider sturdy",
+    "displayName": "Blueprint: Leyawiin Divider, Sturdy",
+    "values": {
+      "commonRange": "2,000 - 5,037",
+      "averagePrice": 3512,
+      "minimumPrice": 1227,
+      "maximumPrice": 5229,
+      "averageStackPrice": 3512,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

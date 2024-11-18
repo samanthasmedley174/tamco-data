@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 126 shardborn gloves",
+    "displayName": "Crafting Motif 126: Shardborn Gloves",
+    "values": {
+      "commonRange": "3,000 - 9,000",
+      "averagePrice": 5491,
+      "minimumPrice": 3000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5491,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

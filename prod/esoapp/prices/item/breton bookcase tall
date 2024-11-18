@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton bookcase tall",
+    "displayName": "Breton Bookcase, Tall",
+    "values": {
+      "commonRange": "800 - 2,060",
+      "averagePrice": 1340,
+      "minimumPrice": 500,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1340,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

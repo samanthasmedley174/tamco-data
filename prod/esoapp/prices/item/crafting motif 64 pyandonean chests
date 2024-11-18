@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 64 pyandonean chests",
+    "displayName": "Crafting Motif 64: Pyandonean Chests",
+    "values": {
+      "commonRange": "22,000 - 25,039",
+      "averagePrice": 23669,
+      "minimumPrice": 20039,
+      "maximumPrice": 25554,
+      "averageStackPrice": 23669,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

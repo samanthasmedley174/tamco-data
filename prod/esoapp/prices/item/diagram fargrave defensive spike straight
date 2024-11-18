@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram fargrave defensive spike straight",
+    "displayName": "Diagram: Fargrave Defensive Spike, Straight",
+    "values": {
+      "commonRange": "1,000 - 4,047",
+      "averagePrice": 3596,
+      "minimumPrice": 1000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 3596,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

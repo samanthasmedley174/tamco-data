@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid sconce caged",
+    "displayName": "Ayleid Sconce, Caged",
+    "values": {
+      "commonRange": "3,850 - 6,496",
+      "averagePrice": 5494,
+      "minimumPrice": 2500,
+      "maximumPrice": 7500,
+      "averageStackPrice": 5494,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

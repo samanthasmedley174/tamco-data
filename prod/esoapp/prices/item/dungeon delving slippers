@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dungeon delving slippers",
+    "displayName": "Dungeon-Delving Slippers",
+    "values": {
+      "commonRange": "100 - 434",
+      "averagePrice": 280,
+      "minimumPrice": 84,
+      "maximumPrice": 484,
+      "averageStackPrice": 280,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

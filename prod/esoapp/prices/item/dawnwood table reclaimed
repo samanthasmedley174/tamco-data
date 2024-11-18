@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood table reclaimed",
+    "displayName": "Dawnwood Table, Reclaimed",
+    "values": {
+      "commonRange": "2,500 - 7,300",
+      "averagePrice": 5156,
+      "minimumPrice": 2113,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5156,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

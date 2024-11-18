@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the sentry",
+    "displayName": "Battle Axe of the Sentry",
+    "values": {
+      "commonRange": "1,945 - 4,000",
+      "averagePrice": 3269,
+      "minimumPrice": 1130,
+      "maximumPrice": 6230,
+      "averageStackPrice": 3269,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

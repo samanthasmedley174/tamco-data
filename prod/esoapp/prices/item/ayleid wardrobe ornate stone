@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid wardrobe ornate stone",
+    "displayName": "Ayleid Wardrobe, Ornate Stone",
+    "values": {
+      "commonRange": "7,300 - 16,000",
+      "averagePrice": 12280,
+      "minimumPrice": 7000,
+      "maximumPrice": 22000,
+      "averageStackPrice": 12280,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

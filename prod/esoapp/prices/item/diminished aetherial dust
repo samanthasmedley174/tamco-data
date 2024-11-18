@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diminished aetherial dust",
+    "displayName": "Diminished Aetherial Dust",
+    "values": {
+      "commonRange": "28,900 - 38,210",
+      "averagePrice": 31843,
+      "minimumPrice": 10000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 31843,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Provisioning Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

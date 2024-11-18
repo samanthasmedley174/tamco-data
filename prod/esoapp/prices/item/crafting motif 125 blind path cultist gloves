@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 125 blind path cultist gloves",
+    "displayName": "Crafting Motif 125: Blind Path Cultist Gloves",
+    "values": {
+      "commonRange": "30,395 - 38,500",
+      "averagePrice": 36484,
+      "minimumPrice": 29999,
+      "maximumPrice": 55000,
+      "averageStackPrice": 36484,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

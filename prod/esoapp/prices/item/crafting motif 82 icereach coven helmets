@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 82 icereach coven helmets",
+    "displayName": "Crafting Motif 82: Icereach Coven Helmets",
+    "values": {
+      "commonRange": "11,474 - 25,039",
+      "averagePrice": 21118,
+      "minimumPrice": 10000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 21118,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

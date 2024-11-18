@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 22 trinimac shoulders",
+    "displayName": "Crafting Motif 22: Trinimac Shoulders",
+    "values": {
+      "commonRange": "15,000 - 25,500",
+      "averagePrice": 22256,
+      "minimumPrice": 6000,
+      "maximumPrice": 45000,
+      "averageStackPrice": 22256,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

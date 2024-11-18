@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design solitude urn ceramic",
+    "displayName": "Design: Solitude Urn, Ceramic",
+    "values": {
+      "commonRange": "500 - 5,000",
+      "averagePrice": 2307,
+      "minimumPrice": 110,
+      "maximumPrice": 5027,
+      "averageStackPrice": 2307,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

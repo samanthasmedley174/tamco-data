@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 56 apostle shields",
+    "displayName": "Crafting Motif 56: Apostle Shields",
+    "values": {
+      "commonRange": "2,000 - 5,000",
+      "averagePrice": 3461,
+      "minimumPrice": 2000,
+      "maximumPrice": 5039,
+      "averageStackPrice": 3461,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

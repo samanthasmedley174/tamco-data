@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic platform stone edge",
+    "displayName": "Druidic Platform, Stone Edge",
+    "values": {
+      "commonRange": "3,000 - 8,000",
+      "averagePrice": 6442,
+      "minimumPrice": 111,
+      "maximumPrice": 16000,
+      "averageStackPrice": 6442,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

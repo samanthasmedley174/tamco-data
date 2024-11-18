@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blackwood treasure map iii",
+    "displayName": "Blackwood Treasure Map III",
+    "values": {
+      "commonRange": "55 - 5,000",
+      "averagePrice": 2822,
+      "minimumPrice": 50,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2822,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

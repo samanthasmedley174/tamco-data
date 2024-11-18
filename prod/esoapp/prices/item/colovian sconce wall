@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian sconce wall",
+    "displayName": "Colovian Sconce, Wall",
+    "values": {
+      "commonRange": "550 - 2,089",
+      "averagePrice": 1251,
+      "minimumPrice": 500,
+      "maximumPrice": 4350,
+      "averageStackPrice": 3753,
+      "commonStackSize": 3,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

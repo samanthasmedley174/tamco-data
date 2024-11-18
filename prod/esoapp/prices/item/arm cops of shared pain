@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arm cops of shared pain",
+    "displayName": "Arm Cops of Shared Pain",
+    "values": {
+      "commonRange": "544 - 3,153",
+      "averagePrice": 1520,
+      "minimumPrice": 499,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1520,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "adamant lurker bow",
+    "displayName": "Adamant Lurker Bow",
+    "values": {
+      "commonRange": "140 - 2,000",
+      "averagePrice": 678,
+      "minimumPrice": 100,
+      "maximumPrice": 2200,
+      "averageStackPrice": 678,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

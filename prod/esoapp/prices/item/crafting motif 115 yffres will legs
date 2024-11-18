@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 115 yffres will legs",
+    "displayName": "Crafting Motif 115: Y'ffre's Will Legs",
+    "values": {
+      "commonRange": "32,700 - 65,000",
+      "averagePrice": 52519,
+      "minimumPrice": 20039,
+      "maximumPrice": 69297,
+      "averageStackPrice": 52519,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

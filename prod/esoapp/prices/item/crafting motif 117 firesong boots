@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 117 firesong boots",
+    "displayName": "Crafting Motif 117: Firesong Boots",
+    "values": {
+      "commonRange": "7,900 - 22,039",
+      "averagePrice": 11670,
+      "minimumPrice": 5000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 11670,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

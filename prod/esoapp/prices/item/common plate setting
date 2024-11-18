@@ -1,0 +1,18 @@
+[
+  {
+    "name": "common plate setting",
+    "displayName": "Common Plate, Setting",
+    "values": {
+      "commonRange": "150 - 550",
+      "averagePrice": 359,
+      "minimumPrice": 96,
+      "maximumPrice": 700,
+      "averageStackPrice": 718,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian canopy skull",
+    "displayName": "Argonian Canopy, Skull",
+    "values": {
+      "commonRange": "4,362 - 9,900",
+      "averagePrice": 6558,
+      "minimumPrice": 3260,
+      "maximumPrice": 15000,
+      "averageStackPrice": 6558,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/26/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

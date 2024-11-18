@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram minecart track sloped down",
+    "displayName": "Diagram: Minecart Track, Sloped Down",
+    "values": {
+      "commonRange": "669 - 1,800",
+      "averagePrice": 1258,
+      "minimumPrice": 500,
+      "maximumPrice": 3252,
+      "averageStackPrice": 1258,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

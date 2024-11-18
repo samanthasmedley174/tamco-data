@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian shelves full",
+    "displayName": "Argonian Shelves, Full",
+    "values": {
+      "commonRange": "509 - 1,000",
+      "averagePrice": 630,
+      "minimumPrice": 100,
+      "maximumPrice": 1000,
+      "averageStackPrice": 630,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

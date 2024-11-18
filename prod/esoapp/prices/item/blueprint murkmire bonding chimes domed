@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint murkmire bonding chimes domed",
+    "displayName": "Blueprint: Murkmire Bonding Chimes, Domed",
+    "values": {
+      "commonRange": "30,000 - 50,000",
+      "averagePrice": 36930,
+      "minimumPrice": 25000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 36930,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

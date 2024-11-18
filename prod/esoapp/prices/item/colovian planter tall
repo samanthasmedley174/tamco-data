@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian planter tall",
+    "displayName": "Colovian Planter, Tall",
+    "values": {
+      "commonRange": "2,500 - 8,950",
+      "averagePrice": 6651,
+      "minimumPrice": 2000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6651,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

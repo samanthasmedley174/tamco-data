@@ -1,0 +1,18 @@
+[
+  {
+    "name": "champion of the hist axe",
+    "displayName": "Champion of the Hist Axe",
+    "values": {
+      "commonRange": "4,400 - 4,400",
+      "averagePrice": 4300,
+      "minimumPrice": 3500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 4300,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

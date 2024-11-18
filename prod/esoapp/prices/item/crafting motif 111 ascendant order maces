@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 111 ascendant order maces",
+    "displayName": "Crafting Motif 111: Ascendant Order Maces",
+    "values": {
+      "commonRange": "11,000 - 13,022",
+      "averagePrice": 11812,
+      "minimumPrice": 5000,
+      "maximumPrice": 13022,
+      "averageStackPrice": 11812,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

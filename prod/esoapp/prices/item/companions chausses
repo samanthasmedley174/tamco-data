@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions chausses",
+    "displayName": "Companion's Chausses",
+    "values": {
+      "commonRange": "149 - 173",
+      "averagePrice": 173,
+      "minimumPrice": 120,
+      "maximumPrice": 250,
+      "averageStackPrice": 173,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of cyrodiils crest",
+    "displayName": "Dagger of Cyrodiil's Crest",
+    "values": {
+      "commonRange": "1,144 - 16,054",
+      "averagePrice": 9998,
+      "minimumPrice": 150,
+      "maximumPrice": 75000,
+      "averageStackPrice": 9998,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

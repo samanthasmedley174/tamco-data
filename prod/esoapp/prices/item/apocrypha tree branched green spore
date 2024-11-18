@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha tree branched green spore",
+    "displayName": "Apocrypha Tree, Branched Green Spore",
+    "values": {
+      "commonRange": "5,000 - 8,000",
+      "averagePrice": 6345,
+      "minimumPrice": 3750,
+      "maximumPrice": 8000,
+      "averageStackPrice": 6345,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

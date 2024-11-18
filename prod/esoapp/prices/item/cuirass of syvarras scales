@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cuirass of syvarras scales",
+    "displayName": "Cuirass of Syvarra's Scales",
+    "values": {
+      "commonRange": "4,483 - 29,999",
+      "averagePrice": 15618,
+      "minimumPrice": 275,
+      "maximumPrice": 50000,
+      "averageStackPrice": 15618,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

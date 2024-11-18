@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diamond",
+    "displayName": "Diamond",
+    "values": {
+      "commonRange": "5 - 22",
+      "averagePrice": 12,
+      "minimumPrice": 5,
+      "maximumPrice": 29,
+      "averageStackPrice": 24,
+      "commonStackSize": 2,
+      "salesRecorded": 23
+    },
+    "type": "Trait Stones",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Diamond.png"
+  }
+]

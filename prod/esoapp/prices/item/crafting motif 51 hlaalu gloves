@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 51 hlaalu gloves",
+    "displayName": "Crafting Motif 51: Hlaalu Gloves",
+    "values": {
+      "commonRange": "6,000 - 9,039",
+      "averagePrice": 7443,
+      "minimumPrice": 3500,
+      "maximumPrice": 9933,
+      "averageStackPrice": 7443,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

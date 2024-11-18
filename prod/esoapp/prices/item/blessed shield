@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blessed shield",
+    "displayName": "Blessed Shield",
+    "values": {
+      "commonRange": "550 - 700",
+      "averagePrice": 675,
+      "minimumPrice": 300,
+      "maximumPrice": 1100,
+      "averageStackPrice": 675,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

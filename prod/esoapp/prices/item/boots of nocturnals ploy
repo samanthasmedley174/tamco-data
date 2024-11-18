@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boots of nocturnals ploy",
+    "displayName": "Boots of Nocturnal's Ploy",
+    "values": {
+      "commonRange": "490 - 3,693",
+      "averagePrice": 2210,
+      "minimumPrice": 290,
+      "maximumPrice": 4087,
+      "averageStackPrice": 2210,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

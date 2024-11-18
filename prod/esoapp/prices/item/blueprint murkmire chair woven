@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint murkmire chair woven",
+    "displayName": "Blueprint: Murkmire Chair, Woven",
+    "values": {
+      "commonRange": "2,000 - 4,251",
+      "averagePrice": 3028,
+      "minimumPrice": 1330,
+      "maximumPrice": 4251,
+      "averageStackPrice": 3028,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

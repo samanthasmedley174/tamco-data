@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 58 fang lair staves",
+    "displayName": "Crafting Motif 58: Fang Lair Staves",
+    "values": {
+      "commonRange": "10,000 - 15,536",
+      "averagePrice": 11901,
+      "minimumPrice": 8362,
+      "maximumPrice": 17550,
+      "averageStackPrice": 11901,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

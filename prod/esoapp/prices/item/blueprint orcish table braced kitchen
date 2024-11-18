@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint orcish table braced kitchen",
+    "displayName": "Blueprint: Orcish Table, Braced Kitchen",
+    "values": {
+      "commonRange": "27 - 527",
+      "averagePrice": 234,
+      "minimumPrice": 27,
+      "maximumPrice": 730,
+      "averageStackPrice": 234,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of almalexias mercy",
+    "displayName": "Battle Axe of Almalexia's Mercy",
+    "values": {
+      "commonRange": "840 - 10,246",
+      "averagePrice": 5295,
+      "minimumPrice": 540,
+      "maximumPrice": 20000,
+      "averageStackPrice": 5295,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

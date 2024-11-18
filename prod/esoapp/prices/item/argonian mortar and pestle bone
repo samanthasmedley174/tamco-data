@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian mortar and pestle bone",
+    "displayName": "Argonian Mortar and Pestle, Bone",
+    "values": {
+      "commonRange": "5,000 - 27,800",
+      "averagePrice": 13686,
+      "minimumPrice": 1000,
+      "maximumPrice": 27800,
+      "averageStackPrice": 13686,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 112 syrabanic marine legs",
+    "displayName": "Crafting Motif 112: Syrabanic Marine Legs",
+    "values": {
+      "commonRange": "6,141 - 12,000",
+      "averagePrice": 9063,
+      "minimumPrice": 5000,
+      "maximumPrice": 12125,
+      "averageStackPrice": 9063,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

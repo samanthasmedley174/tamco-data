@@ -1,0 +1,18 @@
+[
+  {
+    "name": "chapbook of stendarr",
+    "displayName": "Chapbook of Stendarr",
+    "values": {
+      "commonRange": "5,900 - 30,000",
+      "averagePrice": 18481,
+      "minimumPrice": 4950,
+      "maximumPrice": 33333,
+      "averageStackPrice": 18481,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Miscellaneous",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

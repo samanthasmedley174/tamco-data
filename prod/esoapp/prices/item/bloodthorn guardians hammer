@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bloodthorn guardians hammer",
+    "displayName": "Bloodthorn Guardian's Hammer",
+    "values": {
+      "commonRange": "300 - 400",
+      "averagePrice": 350,
+      "minimumPrice": 300,
+      "maximumPrice": 400,
+      "averageStackPrice": 350,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

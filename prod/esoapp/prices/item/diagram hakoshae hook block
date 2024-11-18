@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram hakoshae hook block",
+    "displayName": "Diagram: Hakoshae Hook, Block",
+    "values": {
+      "commonRange": "5,000 - 7,110",
+      "averagePrice": 5864,
+      "minimumPrice": 2030,
+      "maximumPrice": 7210,
+      "averageStackPrice": 5864,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

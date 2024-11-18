@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battalion defender sword",
+    "displayName": "Battalion Defender Sword",
+    "values": {
+      "commonRange": "1,250 - 60,416",
+      "averagePrice": 30636,
+      "minimumPrice": 1150,
+      "maximumPrice": 150000,
+      "averageStackPrice": 30636,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

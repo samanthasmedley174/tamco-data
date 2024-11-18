@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the shield breaker",
+    "displayName": "Battle Axe of the Shield Breaker",
+    "values": {
+      "commonRange": "30,000 - 50,000",
+      "averagePrice": 42000,
+      "minimumPrice": 30000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 42000,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

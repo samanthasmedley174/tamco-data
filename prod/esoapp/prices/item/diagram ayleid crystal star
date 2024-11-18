@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram ayleid crystal star",
+    "displayName": "Diagram: Ayleid Crystal Star",
+    "values": {
+      "commonRange": "100,000 - 163,273",
+      "averagePrice": 120085,
+      "minimumPrice": 25000,
+      "maximumPrice": 168537,
+      "averageStackPrice": 120085,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

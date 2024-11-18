@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram colovian wine goblet silver",
+    "displayName": "Diagram: Colovian Wine Goblet, Silver",
+    "values": {
+      "commonRange": "4,500 - 10,027",
+      "averagePrice": 6466,
+      "minimumPrice": 4000,
+      "maximumPrice": 10027,
+      "averageStackPrice": 6466,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

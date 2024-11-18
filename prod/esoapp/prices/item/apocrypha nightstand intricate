@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha nightstand intricate",
+    "displayName": "Apocrypha Nightstand, Intricate",
+    "values": {
+      "commonRange": "2,000 - 7,450",
+      "averagePrice": 6288,
+      "minimumPrice": 1150,
+      "maximumPrice": 17000,
+      "averageStackPrice": 6288,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dominion scattershot catapult",
+    "displayName": "Dominion Scattershot Catapult",
+    "values": {
+      "commonRange": "100 - 1,000",
+      "averagePrice": 691,
+      "minimumPrice": 69,
+      "maximumPrice": 2500,
+      "averageStackPrice": 691,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Siege Equipment",
+    "date": "06/14/2022",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Dominion_Scattershot_Catapult.png"
+  }
+]

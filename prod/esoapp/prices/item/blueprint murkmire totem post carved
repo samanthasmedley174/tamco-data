@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint murkmire totem post carved",
+    "displayName": "Blueprint: Murkmire Totem Post, Carved",
+    "values": {
+      "commonRange": "3,108 - 4,780",
+      "averagePrice": 3987,
+      "minimumPrice": 3000,
+      "maximumPrice": 4780,
+      "averageStackPrice": 3987,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

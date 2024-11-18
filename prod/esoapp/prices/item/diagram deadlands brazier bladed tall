@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram deadlands brazier bladed tall",
+    "displayName": "Diagram: Deadlands Brazier, Bladed Tall",
+    "values": {
+      "commonRange": "23,000 - 25,601",
+      "averagePrice": 24894,
+      "minimumPrice": 20000,
+      "maximumPrice": 32610,
+      "averageStackPrice": 24894,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

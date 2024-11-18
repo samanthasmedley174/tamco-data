@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 63 dremora shields",
+    "displayName": "Crafting Motif 63: Dremora Shields",
+    "values": {
+      "commonRange": "100 - 2,000",
+      "averagePrice": 674,
+      "minimumPrice": 39,
+      "maximumPrice": 3039,
+      "averageStackPrice": 674,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

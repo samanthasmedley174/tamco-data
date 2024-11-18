@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 120 scribes of mora daggers",
+    "displayName": "Crafting Motif 120: Scribes of Mora Daggers",
+    "values": {
+      "commonRange": "24,000 - 32,285",
+      "averagePrice": 29430,
+      "minimumPrice": 20039,
+      "maximumPrice": 40000,
+      "averageStackPrice": 29430,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

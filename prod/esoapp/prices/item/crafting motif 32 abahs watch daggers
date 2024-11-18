@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 32 abahs watch daggers",
+    "displayName": "Crafting Motif 32: Abah's Watch Daggers",
+    "values": {
+      "commonRange": "9,182 - 14,553",
+      "averagePrice": 11911,
+      "minimumPrice": 6000,
+      "maximumPrice": 14553,
+      "averageStackPrice": 11911,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

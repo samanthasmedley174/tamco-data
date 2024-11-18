@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha tree spore",
+    "displayName": "Apocrypha Tree, Spore",
+    "values": {
+      "commonRange": "15,675 - 51,051",
+      "averagePrice": 34835,
+      "minimumPrice": 10000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 34835,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Furnishings",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

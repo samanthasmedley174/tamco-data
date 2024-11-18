@@ -1,0 +1,18 @@
+[
+  {
+    "name": "amethyst crystals teal cluster",
+    "displayName": "Amethyst Crystals, Teal Cluster",
+    "values": {
+      "commonRange": "8,000 - 12,000",
+      "averagePrice": 9846,
+      "minimumPrice": 8000,
+      "maximumPrice": 15150,
+      "averageStackPrice": 9846,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

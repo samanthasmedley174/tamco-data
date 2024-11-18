@@ -1,0 +1,18 @@
+[
+  {
+    "name": "champion of the hist greaves",
+    "displayName": "Champion of the Hist Greaves",
+    "values": {
+      "commonRange": "880 - 6,500",
+      "averagePrice": 3153,
+      "minimumPrice": 180,
+      "maximumPrice": 8183,
+      "averageStackPrice": 3153,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

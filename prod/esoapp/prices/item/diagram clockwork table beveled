@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram clockwork table beveled",
+    "displayName": "Diagram: Clockwork Table, Beveled",
+    "values": {
+      "commonRange": "500 - 4,118",
+      "averagePrice": 2101,
+      "minimumPrice": 100,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2101,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boots of the archers mind",
+    "displayName": "Boots of the Archer's Mind",
+    "values": {
+      "commonRange": "290 - 10,000",
+      "averagePrice": 2869,
+      "minimumPrice": 90,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2869,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

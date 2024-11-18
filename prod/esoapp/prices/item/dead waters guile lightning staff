@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dead waters guile lightning staff",
+    "displayName": "Dead-Water's Guile Lightning Staff",
+    "values": {
+      "commonRange": "4,028 - 8,702",
+      "averagePrice": 8703,
+      "minimumPrice": 2173,
+      "maximumPrice": 49246,
+      "averageStackPrice": 8703,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

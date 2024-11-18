@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor windowbox purple wisteria",
+    "displayName": "Alinor Windowbox, Purple Wisteria",
+    "values": {
+      "commonRange": "2,023 - 9,300",
+      "averagePrice": 5201,
+      "minimumPrice": 2000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5201,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

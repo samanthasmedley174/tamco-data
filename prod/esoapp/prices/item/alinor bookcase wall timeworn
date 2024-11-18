@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor bookcase wall timeworn",
+    "displayName": "Alinor Bookcase Wall, Timeworn",
+    "values": {
+      "commonRange": "8,713 - 13,596",
+      "averagePrice": 11295,
+      "minimumPrice": 5539,
+      "maximumPrice": 16000,
+      "averageStackPrice": 11295,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

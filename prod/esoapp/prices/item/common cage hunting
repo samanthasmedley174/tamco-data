@@ -1,0 +1,18 @@
+[
+  {
+    "name": "common cage hunting",
+    "displayName": "Common Cage, Hunting",
+    "values": {
+      "commonRange": "60 - 2,500",
+      "averagePrice": 1034,
+      "minimumPrice": 60,
+      "maximumPrice": 3333,
+      "averageStackPrice": 1034,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

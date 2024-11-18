@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bewitched sugar skulls",
+    "displayName": "Bewitched Sugar Skulls",
+    "values": {
+      "commonRange": "400 - 800",
+      "averagePrice": 566,
+      "minimumPrice": 106,
+      "maximumPrice": 12006,
+      "averageStackPrice": 5660,
+      "commonStackSize": 10,
+      "salesRecorded": 322
+    },
+    "type": "Food & Drinks",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/bewitched_sugar_skulls.png"
+  }
+]

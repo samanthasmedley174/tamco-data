@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint nord table game",
+    "displayName": "Blueprint: Nord Table, Game",
+    "values": {
+      "commonRange": "12,000 - 14,000",
+      "averagePrice": 13298,
+      "minimumPrice": 11469,
+      "maximumPrice": 15000,
+      "averageStackPrice": 13298,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

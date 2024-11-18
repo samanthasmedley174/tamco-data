@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 96 arkthzand armory shoulders",
+    "displayName": "Crafting Motif 96: Arkthzand Armory Shoulders",
+    "values": {
+      "commonRange": "5,000 - 20,528",
+      "averagePrice": 14569,
+      "minimumPrice": 5000,
+      "maximumPrice": 21351,
+      "averageStackPrice": 14569,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "big eared ginger kittens milk saucer",
+    "displayName": "Big-Eared Ginger Kitten's Milk Saucer",
+    "values": {
+      "commonRange": "6,000 - 10,039",
+      "averagePrice": 7788,
+      "minimumPrice": 5800,
+      "maximumPrice": 10039,
+      "averageStackPrice": 7788,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Fragments",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

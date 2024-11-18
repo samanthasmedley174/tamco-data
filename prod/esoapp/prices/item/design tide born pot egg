@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design tide born pot egg",
+    "displayName": "Design: Tide-Born Pot, Egg",
+    "values": {
+      "commonRange": "5,000 - 16,472",
+      "averagePrice": 11447,
+      "minimumPrice": 1027,
+      "maximumPrice": 16472,
+      "averageStackPrice": 11447,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

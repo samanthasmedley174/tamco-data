@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blackfeather flight battle axe",
+    "displayName": "Blackfeather Flight Battle Axe",
+    "values": {
+      "commonRange": "646 - 4,321",
+      "averagePrice": 2915,
+      "minimumPrice": 240,
+      "maximumPrice": 13522,
+      "averageStackPrice": 2915,
+      "commonStackSize": 1,
+      "salesRecorded": 46
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

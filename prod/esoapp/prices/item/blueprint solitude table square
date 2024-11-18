@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude table square",
+    "displayName": "Blueprint: Solitude Table, Square",
+    "values": {
+      "commonRange": "5,000 - 7,200",
+      "averagePrice": 6255,
+      "minimumPrice": 4030,
+      "maximumPrice": 7700,
+      "averageStackPrice": 6255,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 64 pyandonean boots",
+    "displayName": "Crafting Motif 64: Pyandonean Boots",
+    "values": {
+      "commonRange": "5,000 - 16,405",
+      "averagePrice": 11796,
+      "minimumPrice": 3000,
+      "maximumPrice": 16915,
+      "averageStackPrice": 11796,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

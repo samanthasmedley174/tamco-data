@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 89 ancestral high elf shoulders",
+    "displayName": "Crafting Motif 89: Ancestral High Elf Shoulders",
+    "values": {
+      "commonRange": "2,000 - 5,000",
+      "averagePrice": 3882,
+      "minimumPrice": 110,
+      "maximumPrice": 12000,
+      "averageStackPrice": 3882,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

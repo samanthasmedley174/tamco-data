@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic nook wall long stone",
+    "displayName": "Druidic Nook Wall, Long Stone",
+    "values": {
+      "commonRange": "1,650 - 2,420",
+      "averagePrice": 2910,
+      "minimumPrice": 1650,
+      "maximumPrice": 12150,
+      "averageStackPrice": 5820,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

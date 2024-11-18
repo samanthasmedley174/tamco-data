@@ -1,0 +1,18 @@
+[
+  {
+    "name": "champion of the hist gauntlets",
+    "displayName": "Champion of the Hist Gauntlets",
+    "values": {
+      "commonRange": "290 - 6,999",
+      "averagePrice": 3016,
+      "minimumPrice": 187,
+      "maximumPrice": 8997,
+      "averageStackPrice": 3016,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

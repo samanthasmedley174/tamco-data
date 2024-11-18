@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of nights silence",
+    "displayName": "Axe of Night's Silence",
+    "values": {
+      "commonRange": "2,145 - 2,145",
+      "averagePrice": 2145,
+      "minimumPrice": 2145,
+      "maximumPrice": 2145,
+      "averageStackPrice": 2145,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

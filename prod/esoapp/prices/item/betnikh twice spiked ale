@@ -1,0 +1,18 @@
+[
+  {
+    "name": "betnikh twice spiked ale",
+    "displayName": "Betnikh Twice-Spiked Ale",
+    "values": {
+      "commonRange": "40 - 1,000",
+      "averagePrice": 644,
+      "minimumPrice": 3,
+      "maximumPrice": 1000,
+      "averageStackPrice": 3220,
+      "commonStackSize": 5,
+      "salesRecorded": 14
+    },
+    "type": "Food & Drinks",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/betnikh_twice-spiked_ale.png"
+  }
+]

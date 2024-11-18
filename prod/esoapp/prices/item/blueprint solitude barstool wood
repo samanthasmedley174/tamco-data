@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude barstool wood",
+    "displayName": "Blueprint: Solitude Barstool, Wood",
+    "values": {
+      "commonRange": "800 - 2,641",
+      "averagePrice": 1906,
+      "minimumPrice": 250,
+      "maximumPrice": 3281,
+      "averageStackPrice": 1906,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

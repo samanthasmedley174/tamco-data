@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton pew knotwork",
+    "displayName": "Breton Pew, Knotwork",
+    "values": {
+      "commonRange": "1,000 - 2,200",
+      "averagePrice": 1710,
+      "minimumPrice": 1000,
+      "maximumPrice": 3150,
+      "averageStackPrice": 1710,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

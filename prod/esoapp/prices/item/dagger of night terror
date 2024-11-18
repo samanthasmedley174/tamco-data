@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of night terror",
+    "displayName": "Dagger of Night Terror",
+    "values": {
+      "commonRange": "999 - 4,000",
+      "averagePrice": 3073,
+      "minimumPrice": 44,
+      "maximumPrice": 15000,
+      "averageStackPrice": 3073,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

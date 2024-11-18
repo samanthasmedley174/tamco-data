@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darkstride axe",
+    "displayName": "Darkstride Axe",
+    "values": {
+      "commonRange": "150 - 1,100",
+      "averagePrice": 592,
+      "minimumPrice": 150,
+      "maximumPrice": 1150,
+      "averageStackPrice": 592,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

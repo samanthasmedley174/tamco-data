@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 91 hazardous alchemy shields",
+    "displayName": "Crafting Motif 91: Hazardous Alchemy Shields",
+    "values": {
+      "commonRange": "15,000 - 26,500",
+      "averagePrice": 19060,
+      "minimumPrice": 10000,
+      "maximumPrice": 28597,
+      "averageStackPrice": 19060,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

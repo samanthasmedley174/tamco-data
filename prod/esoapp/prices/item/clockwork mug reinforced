@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork mug reinforced",
+    "displayName": "Clockwork Mug, Reinforced",
+    "values": {
+      "commonRange": "2,300 - 5,500",
+      "averagePrice": 4342,
+      "minimumPrice": 2000,
+      "maximumPrice": 5500,
+      "averageStackPrice": 4342,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "03/12/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

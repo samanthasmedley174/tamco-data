@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clarified syrah wine",
+    "displayName": "Clarified Syrah Wine",
+    "values": {
+      "commonRange": "2 - 13",
+      "averagePrice": 7,
+      "minimumPrice": 2,
+      "maximumPrice": 16,
+      "averageStackPrice": 7,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "05/14/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/clarified_syrah_wine.png"
+  }
+]

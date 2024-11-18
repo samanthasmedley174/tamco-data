@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint podium skinning",
+    "displayName": "Blueprint: Podium, Skinning",
+    "values": {
+      "commonRange": "20,000 - 29,718",
+      "averagePrice": 26121,
+      "minimumPrice": 18000,
+      "maximumPrice": 32552,
+      "averageStackPrice": 26121,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 15 dwemer boots",
+    "displayName": "Crafting Motif 15: Dwemer Boots",
+    "values": {
+      "commonRange": "1,000 - 4,017",
+      "averagePrice": 2765,
+      "minimumPrice": 1000,
+      "maximumPrice": 4017,
+      "averageStackPrice": 2765,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

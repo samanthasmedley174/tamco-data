@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork planter brassbloom",
+    "displayName": "Clockwork Planter, Brassbloom",
+    "values": {
+      "commonRange": "10,272 - 12,500",
+      "averagePrice": 10936,
+      "minimumPrice": 8272,
+      "maximumPrice": 12500,
+      "averageStackPrice": 10936,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

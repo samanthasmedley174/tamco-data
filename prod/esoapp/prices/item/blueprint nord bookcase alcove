@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint nord bookcase alcove",
+    "displayName": "Blueprint: Nord Bookcase, Alcove",
+    "values": {
+      "commonRange": "11,062 - 12,176",
+      "averagePrice": 11843,
+      "minimumPrice": 11000,
+      "maximumPrice": 12190,
+      "averageStackPrice": 11843,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

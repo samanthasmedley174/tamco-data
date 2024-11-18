@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design dwarven candlestick orrery",
+    "displayName": "Design: Dwarven Candlestick, Orrery",
+    "values": {
+      "commonRange": "350,000 - 1,000,000",
+      "averagePrice": 653408,
+      "minimumPrice": 4000,
+      "maximumPrice": 1380000,
+      "averageStackPrice": 653408,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/29/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

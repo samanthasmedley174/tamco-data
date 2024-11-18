@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 118 house mornard shields",
+    "displayName": "Crafting Motif 118: House Mornard Shields",
+    "values": {
+      "commonRange": "5,500 - 9,000",
+      "averagePrice": 7644,
+      "minimumPrice": 5000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 7644,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

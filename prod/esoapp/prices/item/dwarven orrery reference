@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven orrery reference",
+    "displayName": "Dwarven Orrery, Reference",
+    "values": {
+      "commonRange": "5,000 - 17,000",
+      "averagePrice": 12382,
+      "minimumPrice": 2500,
+      "maximumPrice": 33000,
+      "averageStackPrice": 12382,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

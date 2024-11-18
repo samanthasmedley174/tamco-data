@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram orcish brazier hanging",
+    "displayName": "Diagram: Orcish Brazier, Hanging",
+    "values": {
+      "commonRange": "12,000 - 15,000",
+      "averagePrice": 12591,
+      "minimumPrice": 4039,
+      "maximumPrice": 15039,
+      "averageStackPrice": 12591,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

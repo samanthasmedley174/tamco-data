@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven pew ornate polished",
+    "displayName": "Diagram: Dwarven Pew, Ornate Polished",
+    "values": {
+      "commonRange": "60,000 - 71,464",
+      "averagePrice": 67886,
+      "minimumPrice": 59000,
+      "maximumPrice": 71464,
+      "averageStackPrice": 67886,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

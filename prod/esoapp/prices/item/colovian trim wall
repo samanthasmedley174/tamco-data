@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian trim wall",
+    "displayName": "Colovian Trim, Wall",
+    "values": {
+      "commonRange": "1,000 - 2,979",
+      "averagePrice": 2242,
+      "minimumPrice": 1000,
+      "maximumPrice": 4060,
+      "averageStackPrice": 4484,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

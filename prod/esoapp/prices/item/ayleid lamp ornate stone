@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid lamp ornate stone",
+    "displayName": "Ayleid Lamp, Ornate Stone",
+    "values": {
+      "commonRange": "7,000 - 18,000",
+      "averagePrice": 11400,
+      "minimumPrice": 5926,
+      "maximumPrice": 20000,
+      "averageStackPrice": 11400,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

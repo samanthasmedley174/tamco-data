@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bushes withered cluster",
+    "displayName": "Bushes, Withered Cluster",
+    "values": {
+      "commonRange": "400 - 1,015",
+      "averagePrice": 610,
+      "minimumPrice": 300,
+      "maximumPrice": 1100,
+      "averageStackPrice": 610,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

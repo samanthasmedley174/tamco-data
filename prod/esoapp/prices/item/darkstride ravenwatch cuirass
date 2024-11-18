@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darkstride ravenwatch cuirass",
+    "displayName": "Darkstride Ravenwatch Cuirass",
+    "values": {
+      "commonRange": "571 - 571",
+      "averagePrice": 571,
+      "minimumPrice": 571,
+      "maximumPrice": 571,
+      "averageStackPrice": 571,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

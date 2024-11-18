@@ -1,0 +1,18 @@
+[
+  {
+    "name": "corpse burned seated",
+    "displayName": "Corpse, Burned Seated",
+    "values": {
+      "commonRange": "8,000 - 13,000",
+      "averagePrice": 10625,
+      "minimumPrice": 5765,
+      "maximumPrice": 19000,
+      "averageStackPrice": 10625,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

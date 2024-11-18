@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 80 shield of senchal boots",
+    "displayName": "Crafting Motif 80: Shield of Senchal Boots",
+    "values": {
+      "commonRange": "4,600 - 10,457",
+      "averagePrice": 8725,
+      "minimumPrice": 4000,
+      "maximumPrice": 11000,
+      "averageStackPrice": 8725,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

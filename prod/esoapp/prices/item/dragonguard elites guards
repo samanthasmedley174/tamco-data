@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dragonguard elites guards",
+    "displayName": "Dragonguard Elite's Guards",
+    "values": {
+      "commonRange": "190 - 2,185",
+      "averagePrice": 1275,
+      "minimumPrice": 180,
+      "maximumPrice": 2583,
+      "averageStackPrice": 1275,
+      "commonStackSize": 1,
+      "salesRecorded": 54
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

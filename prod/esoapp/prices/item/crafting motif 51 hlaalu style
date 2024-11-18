@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 51 hlaalu style",
+    "displayName": "Crafting Motif 51: Hlaalu Style",
+    "values": {
+      "commonRange": "250,000 - 500,000",
+      "averagePrice": 432000,
+      "minimumPrice": 10000,
+      "maximumPrice": 900000,
+      "averageStackPrice": 432000,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Motifs",
+    "date": "03/19/2024",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

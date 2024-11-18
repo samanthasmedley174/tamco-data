@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 41 celestial gloves",
+    "displayName": "Crafting Motif 41: Celestial Gloves",
+    "values": {
+      "commonRange": "15,000 - 50,000",
+      "averagePrice": 27616,
+      "minimumPrice": 1000,
+      "maximumPrice": 50039,
+      "averageStackPrice": 27616,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of the air",
+    "displayName": "Dagger of the Air",
+    "values": {
+      "commonRange": "150 - 1,000",
+      "averagePrice": 718,
+      "minimumPrice": 144,
+      "maximumPrice": 1500,
+      "averageStackPrice": 718,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

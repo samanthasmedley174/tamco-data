@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dead waters guile inferno staff",
+    "displayName": "Dead-Water's Guile Inferno Staff",
+    "values": {
+      "commonRange": "9,570 - 23,658",
+      "averagePrice": 18591,
+      "minimumPrice": 5053,
+      "maximumPrice": 48900,
+      "averageStackPrice": 18591,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 107 annihilarchs chosen axes",
+    "displayName": "Crafting Motif 107: Annihilarch's Chosen Axes",
+    "values": {
+      "commonRange": "7,826 - 19,000",
+      "averagePrice": 14607,
+      "minimumPrice": 5000,
+      "maximumPrice": 28919,
+      "averageStackPrice": 14607,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadly battle axe",
+    "displayName": "Deadly Battle Axe",
+    "values": {
+      "commonRange": "1,246 - 5,600",
+      "averagePrice": 3891,
+      "minimumPrice": 543,
+      "maximumPrice": 25246,
+      "averageStackPrice": 3891,
+      "commonStackSize": 1,
+      "salesRecorded": 97
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 58 fang lair gloves",
+    "displayName": "Crafting Motif 58: Fang Lair Gloves",
+    "values": {
+      "commonRange": "5,000 - 8,562",
+      "averagePrice": 7482,
+      "minimumPrice": 5000,
+      "maximumPrice": 8562,
+      "averageStackPrice": 7482,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf flags hanging",
+    "displayName": "Dark Elf Flags, Hanging",
+    "values": {
+      "commonRange": "500 - 4,000",
+      "averagePrice": 2442,
+      "minimumPrice": 500,
+      "maximumPrice": 5950,
+      "averageStackPrice": 2442,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

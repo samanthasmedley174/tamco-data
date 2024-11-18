@@ -1,0 +1,18 @@
+[
+  {
+    "name": "camonna tong guards",
+    "displayName": "Camonna Tong Guards",
+    "values": {
+      "commonRange": "180 - 2,180",
+      "averagePrice": 1509,
+      "minimumPrice": 25,
+      "maximumPrice": 11183,
+      "averageStackPrice": 1509,
+      "commonStackSize": 1,
+      "salesRecorded": 51
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

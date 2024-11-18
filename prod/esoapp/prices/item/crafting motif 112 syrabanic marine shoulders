@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 112 syrabanic marine shoulders",
+    "displayName": "Crafting Motif 112: Syrabanic Marine Shoulders",
+    "values": {
+      "commonRange": "5,350 - 7,350",
+      "averagePrice": 6685,
+      "minimumPrice": 5055,
+      "maximumPrice": 9000,
+      "averageStackPrice": 6685,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

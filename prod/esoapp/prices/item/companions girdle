@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions girdle",
+    "displayName": "Companion's Girdle",
+    "values": {
+      "commonRange": "115 - 352,771",
+      "averagePrice": 61620,
+      "minimumPrice": 15,
+      "maximumPrice": 1100018,
+      "averageStackPrice": 61620,
+      "commonStackSize": 1,
+      "salesRecorded": 284
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

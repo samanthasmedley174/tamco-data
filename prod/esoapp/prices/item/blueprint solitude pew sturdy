@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude pew sturdy",
+    "displayName": "Blueprint: Solitude Pew, Sturdy",
+    "values": {
+      "commonRange": "5,500 - 16,030",
+      "averagePrice": 11750,
+      "minimumPrice": 3500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 11750,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

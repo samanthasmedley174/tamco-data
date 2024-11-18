@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint orcish counter block",
+    "displayName": "Blueprint: Orcish Counter, Block",
+    "values": {
+      "commonRange": "57 - 141",
+      "averagePrice": 126,
+      "minimumPrice": 27,
+      "maximumPrice": 327,
+      "averageStackPrice": 126,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin plates stack",
+    "displayName": "Blueprint: Leyawiin Plates, Stack",
+    "values": {
+      "commonRange": "5,750 - 8,272",
+      "averagePrice": 7402,
+      "minimumPrice": 5500,
+      "maximumPrice": 9000,
+      "averageStackPrice": 7402,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands assassins boots",
+    "displayName": "Deadlands Assassin's Boots",
+    "values": {
+      "commonRange": "444 - 3,990",
+      "averagePrice": 2317,
+      "minimumPrice": 290,
+      "maximumPrice": 32000,
+      "averageStackPrice": 2317,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of mothers embrace",
+    "displayName": "Belt of Mother's Embrace",
+    "values": {
+      "commonRange": "90 - 4,000",
+      "averagePrice": 1694,
+      "minimumPrice": 87,
+      "maximumPrice": 18000,
+      "averageStackPrice": 1694,
+      "commonStackSize": 1,
+      "salesRecorded": 58
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

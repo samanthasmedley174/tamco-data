@@ -1,0 +1,18 @@
+[
+  {
+    "name": "door dark brotherhood sanctuary",
+    "displayName": "Door, Dark Brotherhood Sanctuary",
+    "values": {
+      "commonRange": "65,973 - 85,973",
+      "averagePrice": 79287,
+      "minimumPrice": 55000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 79287,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

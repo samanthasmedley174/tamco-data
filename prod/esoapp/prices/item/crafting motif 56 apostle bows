@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 56 apostle bows",
+    "displayName": "Crafting Motif 56: Apostle Bows",
+    "values": {
+      "commonRange": "2,500 - 7,564",
+      "averagePrice": 3661,
+      "minimumPrice": 2139,
+      "maximumPrice": 7564,
+      "averageStackPrice": 3661,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

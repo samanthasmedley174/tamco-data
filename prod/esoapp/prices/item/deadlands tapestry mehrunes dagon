@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands tapestry mehrunes dagon",
+    "displayName": "Deadlands Tapestry, Mehrunes Dagon",
+    "values": {
+      "commonRange": "11,000 - 17,000",
+      "averagePrice": 13947,
+      "minimumPrice": 10216,
+      "maximumPrice": 17675,
+      "averageStackPrice": 13947,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 49 militant ordinator helmets",
+    "displayName": "Crafting Motif 49: Militant Ordinator Helmets",
+    "values": {
+      "commonRange": "67,588 - 100,039",
+      "averagePrice": 88365,
+      "minimumPrice": 54163,
+      "maximumPrice": 165000,
+      "averageStackPrice": 88365,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

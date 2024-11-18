@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 86 sea giant gloves",
+    "displayName": "Crafting Motif 86: Sea Giant Gloves",
+    "values": {
+      "commonRange": "3,913 - 6,000",
+      "averagePrice": 5222,
+      "minimumPrice": 3000,
+      "maximumPrice": 6000,
+      "averageStackPrice": 5222,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

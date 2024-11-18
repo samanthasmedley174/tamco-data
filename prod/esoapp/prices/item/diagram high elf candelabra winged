@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram high elf candelabra winged",
+    "displayName": "Diagram: High Elf Candelabra, Winged",
+    "values": {
+      "commonRange": "14,000 - 20,500",
+      "averagePrice": 17333,
+      "minimumPrice": 10000,
+      "maximumPrice": 20629,
+      "averageStackPrice": 17333,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram orcish strongbox buckled",
+    "displayName": "Diagram: Orcish Strongbox, Buckled",
+    "values": {
+      "commonRange": "7,367 - 10,900",
+      "averagePrice": 9325,
+      "minimumPrice": 1839,
+      "maximumPrice": 12367,
+      "averageStackPrice": 9325,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

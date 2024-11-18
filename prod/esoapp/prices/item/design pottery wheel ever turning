@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design pottery wheel ever turning",
+    "displayName": "Design: Pottery Wheel, Ever-Turning",
+    "values": {
+      "commonRange": "42,550 - 100,000",
+      "averagePrice": 68882,
+      "minimumPrice": 40000,
+      "maximumPrice": 120000,
+      "averageStackPrice": 68882,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

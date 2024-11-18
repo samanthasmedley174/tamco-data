@@ -1,0 +1,18 @@
+[
+  {
+    "name": "amber marble",
+    "displayName": "Amber Marble",
+    "values": {
+      "commonRange": "80 - 200",
+      "averagePrice": 167,
+      "minimumPrice": 50,
+      "maximumPrice": 750,
+      "averageStackPrice": 33400,
+      "commonStackSize": 200,
+      "salesRecorded": 13
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Amber_Marble.png"
+  }
+]

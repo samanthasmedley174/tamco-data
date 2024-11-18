@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 90 thorn legion staves",
+    "displayName": "Crafting Motif 90: Thorn Legion Staves",
+    "values": {
+      "commonRange": "5,500 - 24,642",
+      "averagePrice": 18957,
+      "minimumPrice": 5000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 18957,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

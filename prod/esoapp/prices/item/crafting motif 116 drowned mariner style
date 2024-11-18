@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 116 drowned mariner style",
+    "displayName": "Crafting Motif 116: Drowned Mariner Style",
+    "values": {
+      "commonRange": "1,000,000 - 1,100,000",
+      "averagePrice": 1040000,
+      "minimumPrice": 750000,
+      "maximumPrice": 1250000,
+      "averageStackPrice": 1040000,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Motifs",
+    "date": "05/30/2023",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

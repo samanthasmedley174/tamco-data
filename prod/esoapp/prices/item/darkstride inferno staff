@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darkstride inferno staff",
+    "displayName": "Darkstride Inferno Staff",
+    "values": {
+      "commonRange": "640 - 2,246",
+      "averagePrice": 1316,
+      "minimumPrice": 240,
+      "maximumPrice": 4234,
+      "averageStackPrice": 1316,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

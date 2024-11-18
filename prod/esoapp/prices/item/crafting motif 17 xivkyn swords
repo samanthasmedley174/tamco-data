@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 17 xivkyn swords",
+    "displayName": "Crafting Motif 17: Xivkyn Swords",
+    "values": {
+      "commonRange": "3,000 - 12,000",
+      "averagePrice": 7127,
+      "minimumPrice": 3000,
+      "maximumPrice": 13007,
+      "averageStackPrice": 7127,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

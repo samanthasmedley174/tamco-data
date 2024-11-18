@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha plant chromatic succulent",
+    "displayName": "Apocrypha Plant, Chromatic Succulent",
+    "values": {
+      "commonRange": "2,481 - 6,250",
+      "averagePrice": 4648,
+      "minimumPrice": 2481,
+      "maximumPrice": 6500,
+      "averageStackPrice": 4648,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

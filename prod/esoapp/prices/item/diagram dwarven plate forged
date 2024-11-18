@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven plate forged",
+    "displayName": "Diagram: Dwarven Plate, Forged",
+    "values": {
+      "commonRange": "1,000 - 28,000",
+      "averagePrice": 19355,
+      "minimumPrice": 550,
+      "maximumPrice": 30000,
+      "averageStackPrice": 19355,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

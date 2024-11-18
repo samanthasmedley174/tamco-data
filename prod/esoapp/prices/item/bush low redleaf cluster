@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bush low redleaf cluster",
+    "displayName": "Bush, Low Redleaf Cluster",
+    "values": {
+      "commonRange": "263 - 1,100",
+      "averagePrice": 562,
+      "minimumPrice": 214,
+      "maximumPrice": 2060,
+      "averageStackPrice": 562,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram khajiit basin claw",
+    "displayName": "Diagram: Khajiit Basin, Claw",
+    "values": {
+      "commonRange": "300 - 835",
+      "averagePrice": 681,
+      "minimumPrice": 30,
+      "maximumPrice": 1291,
+      "averageStackPrice": 681,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

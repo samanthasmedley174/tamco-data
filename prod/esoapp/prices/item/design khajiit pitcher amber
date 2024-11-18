@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design khajiit pitcher amber",
+    "displayName": "Design: Khajiit Pitcher, Amber",
+    "values": {
+      "commonRange": "100 - 968",
+      "averagePrice": 466,
+      "minimumPrice": 100,
+      "maximumPrice": 999,
+      "averageStackPrice": 466,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

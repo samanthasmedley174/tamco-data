@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 68 honor guard shoulders",
+    "displayName": "Crafting Motif 68: Honor Guard Shoulders",
+    "values": {
+      "commonRange": "10,000 - 55,000",
+      "averagePrice": 30739,
+      "minimumPrice": 7500,
+      "maximumPrice": 98419,
+      "averageStackPrice": 30739,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

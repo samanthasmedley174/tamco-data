@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of dark convergence",
+    "displayName": "Dagger of Dark Convergence",
+    "values": {
+      "commonRange": "2,000 - 12,153",
+      "averagePrice": 6747,
+      "minimumPrice": 1244,
+      "maximumPrice": 74951,
+      "averageStackPrice": 6747,
+      "commonStackSize": 1,
+      "salesRecorded": 49
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

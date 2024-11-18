@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf lantern hanging",
+    "displayName": "Dark Elf Lantern, Hanging",
+    "values": {
+      "commonRange": "1,000 - 4,746",
+      "averagePrice": 2207,
+      "minimumPrice": 500,
+      "maximumPrice": 6800,
+      "averageStackPrice": 2207,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

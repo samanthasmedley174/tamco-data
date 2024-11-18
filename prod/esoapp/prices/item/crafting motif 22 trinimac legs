@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 22 trinimac legs",
+    "displayName": "Crafting Motif 22: Trinimac Legs",
+    "values": {
+      "commonRange": "29,398 - 66,000",
+      "averagePrice": 52491,
+      "minimumPrice": 16878,
+      "maximumPrice": 66000,
+      "averageStackPrice": 52491,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

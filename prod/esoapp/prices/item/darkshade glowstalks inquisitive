@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darkshade glowstalks inquisitive",
+    "displayName": "Darkshade Glowstalks, Inquisitive",
+    "values": {
+      "commonRange": "41,537 - 51,537",
+      "averagePrice": 48576,
+      "minimumPrice": 30000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 48576,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

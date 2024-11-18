@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 65 huntsman chests",
+    "displayName": "Crafting Motif 65: Huntsman Chests",
+    "values": {
+      "commonRange": "12,000 - 15,000",
+      "averagePrice": 14293,
+      "minimumPrice": 9999,
+      "maximumPrice": 24221,
+      "averageStackPrice": 14293,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

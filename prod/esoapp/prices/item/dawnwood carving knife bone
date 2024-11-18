@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood carving knife bone",
+    "displayName": "Dawnwood Carving Knife, Bone",
+    "values": {
+      "commonRange": "2,000 - 8,000",
+      "averagePrice": 5055,
+      "minimumPrice": 500,
+      "maximumPrice": 9000,
+      "averageStackPrice": 5055,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

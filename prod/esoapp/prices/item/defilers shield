@@ -1,0 +1,18 @@
+[
+  {
+    "name": "defilers shield",
+    "displayName": "Defiler's Shield",
+    "values": {
+      "commonRange": "550 - 7,383",
+      "averagePrice": 2681,
+      "minimumPrice": 200,
+      "maximumPrice": 9000,
+      "averageStackPrice": 2681,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of the sentry",
+    "displayName": "Dagger of the Sentry",
+    "values": {
+      "commonRange": "10,000 - 44,283",
+      "averagePrice": 25902,
+      "minimumPrice": 4000,
+      "maximumPrice": 54283,
+      "averageStackPrice": 25902,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

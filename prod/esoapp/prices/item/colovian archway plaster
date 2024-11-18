@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian archway plaster",
+    "displayName": "Colovian Archway, Plaster",
+    "values": {
+      "commonRange": "3,600 - 6,650",
+      "averagePrice": 4751,
+      "minimumPrice": 1100,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4751,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

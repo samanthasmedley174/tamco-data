@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ancient orcish sarcophagus lid",
+    "displayName": "Ancient Orcish Sarcophagus Lid",
+    "values": {
+      "commonRange": "7,000 - 12,730",
+      "averagePrice": 10701,
+      "minimumPrice": 5000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 10701,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

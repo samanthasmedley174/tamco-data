@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battalion defender girdle",
+    "displayName": "Battalion Defender Girdle",
+    "values": {
+      "commonRange": "4,000 - 12,000",
+      "averagePrice": 6413,
+      "minimumPrice": 2990,
+      "maximumPrice": 15090,
+      "averageStackPrice": 6413,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

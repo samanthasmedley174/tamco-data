@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 123 kindreds concord shoulders",
+    "displayName": "Crafting Motif 123: Kindred's Concord Shoulders",
+    "values": {
+      "commonRange": "33,333 - 67,500",
+      "averagePrice": 54301,
+      "minimumPrice": 1139,
+      "maximumPrice": 100000,
+      "averageStackPrice": 54301,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

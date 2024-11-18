@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafty alfiqs mace",
+    "displayName": "Crafty Alfiq's Mace",
+    "values": {
+      "commonRange": "500 - 25,682",
+      "averagePrice": 10830,
+      "minimumPrice": 250,
+      "maximumPrice": 25999,
+      "averageStackPrice": 10830,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

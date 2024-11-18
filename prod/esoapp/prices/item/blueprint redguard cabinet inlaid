@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard cabinet inlaid",
+    "displayName": "Blueprint: Redguard Cabinet, Inlaid",
+    "values": {
+      "commonRange": "995 - 1,999",
+      "averagePrice": 1487,
+      "minimumPrice": 950,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1487,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

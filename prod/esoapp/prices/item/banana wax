@@ -1,0 +1,18 @@
+[
+  {
+    "name": "banana wax",
+    "displayName": "Banana, Wax",
+    "values": {
+      "commonRange": "666 - 3,000",
+      "averagePrice": 1488,
+      "minimumPrice": 500,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1488,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

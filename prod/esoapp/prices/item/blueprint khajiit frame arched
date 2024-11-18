@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint khajiit frame arched",
+    "displayName": "Blueprint: Khajiit Frame, Arched",
+    "values": {
+      "commonRange": "50 - 127",
+      "averagePrice": 102,
+      "minimumPrice": 27,
+      "maximumPrice": 150,
+      "averageStackPrice": 102,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

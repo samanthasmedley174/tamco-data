@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 59 scalecaller helmets",
+    "displayName": "Crafting Motif 59: Scalecaller Helmets",
+    "values": {
+      "commonRange": "6,578 - 10,039",
+      "averagePrice": 8216,
+      "minimumPrice": 6578,
+      "maximumPrice": 15000,
+      "averageStackPrice": 8216,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the valiant",
+    "displayName": "Battle Axe of the Valiant",
+    "values": {
+      "commonRange": "4,240 - 5,370",
+      "averagePrice": 4541,
+      "minimumPrice": 950,
+      "maximumPrice": 6500,
+      "averageStackPrice": 4541,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

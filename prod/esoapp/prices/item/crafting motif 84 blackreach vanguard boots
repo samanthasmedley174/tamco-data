@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 84 blackreach vanguard boots",
+    "displayName": "Crafting Motif 84: Blackreach Vanguard Boots",
+    "values": {
+      "commonRange": "3,000 - 7,810",
+      "averagePrice": 6008,
+      "minimumPrice": 1000,
+      "maximumPrice": 16811,
+      "averageStackPrice": 6008,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

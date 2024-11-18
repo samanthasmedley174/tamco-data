@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bracers of wretched vitality",
+    "displayName": "Bracers of Wretched Vitality",
+    "values": {
+      "commonRange": "18,000 - 20,000",
+      "averagePrice": 18000,
+      "minimumPrice": 4000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 18000,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

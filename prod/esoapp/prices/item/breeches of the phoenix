@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of the phoenix",
+    "displayName": "Breeches of the Phoenix",
+    "values": {
+      "commonRange": "10,000 - 13,329",
+      "averagePrice": 11857,
+      "minimumPrice": 3183,
+      "maximumPrice": 20000,
+      "averageStackPrice": 11857,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

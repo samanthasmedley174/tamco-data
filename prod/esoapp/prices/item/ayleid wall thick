@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid wall thick",
+    "displayName": "Ayleid Wall, Thick",
+    "values": {
+      "commonRange": "4,366 - 19,000",
+      "averagePrice": 9999,
+      "minimumPrice": 3950,
+      "maximumPrice": 19878,
+      "averageStackPrice": 9999,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

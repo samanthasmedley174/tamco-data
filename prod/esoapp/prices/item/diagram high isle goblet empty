@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram high isle goblet empty",
+    "displayName": "Diagram: High Isle Goblet, Empty",
+    "values": {
+      "commonRange": "67 - 600",
+      "averagePrice": 199,
+      "minimumPrice": 27,
+      "maximumPrice": 600,
+      "averageStackPrice": 199,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

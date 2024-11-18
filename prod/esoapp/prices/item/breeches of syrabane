@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of syrabane",
+    "displayName": "Breeches of Syrabane",
+    "values": {
+      "commonRange": "330 - 1,100",
+      "averagePrice": 688,
+      "minimumPrice": 174,
+      "maximumPrice": 1750,
+      "averageStackPrice": 688,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

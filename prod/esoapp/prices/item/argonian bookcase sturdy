@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian bookcase sturdy",
+    "displayName": "Argonian Bookcase, Sturdy",
+    "values": {
+      "commonRange": "960 - 11,800",
+      "averagePrice": 5036,
+      "minimumPrice": 960,
+      "maximumPrice": 11800,
+      "averageStackPrice": 5036,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/22/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

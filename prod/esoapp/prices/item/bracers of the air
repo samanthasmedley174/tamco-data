@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bracers of the air",
+    "displayName": "Bracers of the Air",
+    "values": {
+      "commonRange": "149 - 1,195",
+      "averagePrice": 634,
+      "minimumPrice": 87,
+      "maximumPrice": 3090,
+      "averageStackPrice": 634,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of endurance",
+    "displayName": "Axe of Endurance",
+    "values": {
+      "commonRange": "553 - 3,500",
+      "averagePrice": 1912,
+      "minimumPrice": 300,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1912,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

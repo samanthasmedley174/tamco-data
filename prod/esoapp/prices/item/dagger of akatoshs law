@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of akatoshs law",
+    "displayName": "Dagger of Akatosh's Law",
+    "values": {
+      "commonRange": "1,229 - 3,153",
+      "averagePrice": 2456,
+      "minimumPrice": 1153,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2456,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

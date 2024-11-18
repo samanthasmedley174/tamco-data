@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 37 ebony staves",
+    "displayName": "Crafting Motif 37: Ebony Staves",
+    "values": {
+      "commonRange": "12,039 - 20,000",
+      "averagePrice": 16432,
+      "minimumPrice": 11039,
+      "maximumPrice": 23000,
+      "averageStackPrice": 16432,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

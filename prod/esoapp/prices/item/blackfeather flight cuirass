@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blackfeather flight cuirass",
+    "displayName": "Blackfeather Flight Cuirass",
+    "values": {
+      "commonRange": "250 - 3,183",
+      "averagePrice": 1490,
+      "minimumPrice": 180,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1490,
+      "commonStackSize": 1,
+      "salesRecorded": 104
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

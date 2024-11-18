@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of salvation",
+    "displayName": "Dagger of Salvation",
+    "values": {
+      "commonRange": "682 - 4,153",
+      "averagePrice": 2770,
+      "minimumPrice": 653,
+      "maximumPrice": 9150,
+      "averageStackPrice": 2770,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

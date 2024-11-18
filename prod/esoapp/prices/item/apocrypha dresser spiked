@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha dresser spiked",
+    "displayName": "Apocrypha Dresser, Spiked",
+    "values": {
+      "commonRange": "5,784 - 6,960",
+      "averagePrice": 6307,
+      "minimumPrice": 3000,
+      "maximumPrice": 7342,
+      "averageStackPrice": 6307,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

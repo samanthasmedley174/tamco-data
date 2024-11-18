@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dead waters guile ring",
+    "displayName": "Dead-Water's Guile Ring",
+    "values": {
+      "commonRange": "353 - 1,451",
+      "averagePrice": 974,
+      "minimumPrice": 344,
+      "maximumPrice": 4000,
+      "averageStackPrice": 974,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

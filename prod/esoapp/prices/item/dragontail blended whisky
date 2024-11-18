@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dragontail blended whisky",
+    "displayName": "Dragontail Blended Whisky",
+    "values": {
+      "commonRange": "15 - 90",
+      "averagePrice": 41,
+      "minimumPrice": 15,
+      "maximumPrice": 100,
+      "averageStackPrice": 4100,
+      "commonStackSize": 100,
+      "salesRecorded": 9
+    },
+    "type": "Food & Drinks",
+    "date": "06/22/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/dragontail_blended_whisky.png"
+  }
+]

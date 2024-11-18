@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 37 ebony helmets",
+    "displayName": "Crafting Motif 37: Ebony Helmets",
+    "values": {
+      "commonRange": "12,039 - 20,700",
+      "averagePrice": 15730,
+      "minimumPrice": 12039,
+      "maximumPrice": 28323,
+      "averageStackPrice": 15730,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of the veiled heritance",
+    "displayName": "Dagger of the Veiled Heritance",
+    "values": {
+      "commonRange": "648 - 2,450",
+      "averagePrice": 1715,
+      "minimumPrice": 296,
+      "maximumPrice": 5153,
+      "averageStackPrice": 1715,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

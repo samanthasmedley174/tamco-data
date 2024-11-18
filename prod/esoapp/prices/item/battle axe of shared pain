@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of shared pain",
+    "displayName": "Battle Axe of Shared Pain",
+    "values": {
+      "commonRange": "520 - 2,739",
+      "averagePrice": 1674,
+      "minimumPrice": 240,
+      "maximumPrice": 20000,
+      "averageStackPrice": 1674,
+      "commonStackSize": 1,
+      "salesRecorded": 46
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

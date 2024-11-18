@@ -1,0 +1,18 @@
+[
+  {
+    "name": "afflicted ring",
+    "displayName": "Afflicted Ring",
+    "values": {
+      "commonRange": "5,153 - 15,000",
+      "averagePrice": 10163,
+      "minimumPrice": 499,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10163,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

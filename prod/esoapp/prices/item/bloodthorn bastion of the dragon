@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bloodthorn bastion of the dragon",
+    "displayName": "Bloodthorn Bastion of the Dragon",
+    "values": {
+      "commonRange": "400 - 400",
+      "averagePrice": 622,
+      "minimumPrice": 380,
+      "maximumPrice": 1085,
+      "averageStackPrice": 622,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint stone nest seed doll frog",
+    "displayName": "Blueprint: Stone-Nest Seed Doll, Frog",
+    "values": {
+      "commonRange": "8,439 - 18,000",
+      "averagePrice": 12340,
+      "minimumPrice": 6000,
+      "maximumPrice": 18258,
+      "averageStackPrice": 12340,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

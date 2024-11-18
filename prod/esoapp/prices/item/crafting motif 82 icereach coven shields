@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 82 icereach coven shields",
+    "displayName": "Crafting Motif 82: Icereach Coven Shields",
+    "values": {
+      "commonRange": "36,000 - 73,051",
+      "averagePrice": 48538,
+      "minimumPrice": 22000,
+      "maximumPrice": 98039,
+      "averageStackPrice": 48538,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram breton candelabra formal",
+    "displayName": "Diagram: Breton Candelabra, Formal",
+    "values": {
+      "commonRange": "18,000 - 25,000",
+      "averagePrice": 20092,
+      "minimumPrice": 15000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 20092,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

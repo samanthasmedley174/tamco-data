@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of wretched vitality",
+    "displayName": "Bow of Wretched Vitality",
+    "values": {
+      "commonRange": "150,000 - 150,000",
+      "averagePrice": 150000,
+      "minimumPrice": 150000,
+      "maximumPrice": 150000,
+      "averageStackPrice": 150000,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

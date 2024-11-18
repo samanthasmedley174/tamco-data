@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 34 assassins league swords",
+    "displayName": "Crafting Motif 34: Assassins League Swords",
+    "values": {
+      "commonRange": "10,039 - 21,000",
+      "averagePrice": 21854,
+      "minimumPrice": 9999,
+      "maximumPrice": 75000,
+      "averageStackPrice": 21854,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

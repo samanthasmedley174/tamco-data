@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 50 telvanni style",
+    "displayName": "Crafting Motif 50: Telvanni Style",
+    "values": {
+      "commonRange": "100,000 - 1,100,000",
+      "averagePrice": 663636,
+      "minimumPrice": 100000,
+      "maximumPrice": 1100000,
+      "averageStackPrice": 663636,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/04/2022",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

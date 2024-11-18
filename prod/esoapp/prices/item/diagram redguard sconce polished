@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redguard sconce polished",
+    "displayName": "Diagram: Redguard Sconce, Polished",
+    "values": {
+      "commonRange": "1,000 - 2,500",
+      "averagePrice": 1744,
+      "minimumPrice": 500,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1744,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

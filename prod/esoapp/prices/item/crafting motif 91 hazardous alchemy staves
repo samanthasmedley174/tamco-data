@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 91 hazardous alchemy staves",
+    "displayName": "Crafting Motif 91: Hazardous Alchemy Staves",
+    "values": {
+      "commonRange": "7,000 - 19,535",
+      "averagePrice": 13973,
+      "minimumPrice": 4000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 13973,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

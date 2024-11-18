@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint tide born hut elevated",
+    "displayName": "Blueprint: Tide-Born Hut, Elevated",
+    "values": {
+      "commonRange": "29,498 - 90,000",
+      "averagePrice": 60900,
+      "minimumPrice": 15045,
+      "maximumPrice": 91585,
+      "averageStackPrice": 60900,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cartographers gloves",
+    "displayName": "Cartographer's Gloves",
+    "values": {
+      "commonRange": "4,039 - 5,483",
+      "averagePrice": 4797,
+      "minimumPrice": 2500,
+      "maximumPrice": 5644,
+      "averageStackPrice": 4797,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Fragments",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

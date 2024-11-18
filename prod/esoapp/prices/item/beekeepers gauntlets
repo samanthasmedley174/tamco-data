@@ -1,0 +1,18 @@
+[
+  {
+    "name": "beekeepers gauntlets",
+    "displayName": "Beekeeper's Gauntlets",
+    "values": {
+      "commonRange": "180 - 3,087",
+      "averagePrice": 1187,
+      "minimumPrice": 90,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1187,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

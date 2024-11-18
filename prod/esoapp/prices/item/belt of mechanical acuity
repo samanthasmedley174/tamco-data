@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of mechanical acuity",
+    "displayName": "Belt of Mechanical Acuity",
+    "values": {
+      "commonRange": "33,000 - 33,000",
+      "averagePrice": 33000,
+      "minimumPrice": 33000,
+      "maximumPrice": 33000,
+      "averageStackPrice": 33000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

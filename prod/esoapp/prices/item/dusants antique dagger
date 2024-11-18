@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dusants antique dagger",
+    "displayName": "Dusant's Antique Dagger",
+    "values": {
+      "commonRange": "400 - 400",
+      "averagePrice": 400,
+      "minimumPrice": 400,
+      "maximumPrice": 400,
+      "averageStackPrice": 400,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

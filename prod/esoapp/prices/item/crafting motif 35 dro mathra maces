@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 35 dro mathra maces",
+    "displayName": "Crafting Motif 35: Dro-M'Athra Maces",
+    "values": {
+      "commonRange": "10,624 - 20,000",
+      "averagePrice": 15995,
+      "minimumPrice": 7000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 15995,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

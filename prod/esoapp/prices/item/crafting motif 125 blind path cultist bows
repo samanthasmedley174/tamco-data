@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 125 blind path cultist bows",
+    "displayName": "Crafting Motif 125: Blind Path Cultist Bows",
+    "values": {
+      "commonRange": "22,000 - 37,932",
+      "averagePrice": 32374,
+      "minimumPrice": 18000,
+      "maximumPrice": 65000,
+      "averageStackPrice": 32374,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

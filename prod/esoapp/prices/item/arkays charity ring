@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arkays charity ring",
+    "displayName": "Arkay's Charity Ring",
+    "values": {
+      "commonRange": "350 - 19,270",
+      "averagePrice": 3677,
+      "minimumPrice": 144,
+      "maximumPrice": 23000,
+      "averageStackPrice": 3677,
+      "commonStackSize": 1,
+      "salesRecorded": 35
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

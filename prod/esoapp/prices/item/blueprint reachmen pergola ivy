@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint reachmen pergola ivy",
+    "displayName": "Blueprint: Reachmen Pergola, Ivy",
+    "values": {
+      "commonRange": "5,500 - 10,020",
+      "averagePrice": 7937,
+      "minimumPrice": 2000,
+      "maximumPrice": 10180,
+      "averageStackPrice": 7937,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/31/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint necrom bench elegant",
+    "displayName": "Blueprint: Necrom Bench, Elegant",
+    "values": {
+      "commonRange": "12,299 - 18,039",
+      "averagePrice": 15486,
+      "minimumPrice": 11000,
+      "maximumPrice": 19000,
+      "averageStackPrice": 15486,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

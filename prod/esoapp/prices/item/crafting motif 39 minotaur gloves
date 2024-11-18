@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 39 minotaur gloves",
+    "displayName": "Crafting Motif 39: Minotaur Gloves",
+    "values": {
+      "commonRange": "27,370 - 36,000",
+      "averagePrice": 32444,
+      "minimumPrice": 25000,
+      "maximumPrice": 37000,
+      "averageStackPrice": 32444,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

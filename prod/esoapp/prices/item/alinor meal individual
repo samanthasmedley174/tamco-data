@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor meal individual",
+    "displayName": "Alinor Meal, Individual",
+    "values": {
+      "commonRange": "1,000 - 2,000",
+      "averagePrice": 1546,
+      "minimumPrice": 460,
+      "maximumPrice": 2497,
+      "averageStackPrice": 3092,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 131 militant monk maces",
+    "displayName": "Crafting Motif 131: Militant Monk Maces",
+    "values": {
+      "commonRange": "35,000 - 80,000",
+      "averagePrice": 54949,
+      "minimumPrice": 25359,
+      "maximumPrice": 100000,
+      "averageStackPrice": 54949,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "afflicted greatsword",
+    "displayName": "Afflicted Greatsword",
+    "values": {
+      "commonRange": "3,000 - 7,000",
+      "averagePrice": 11249,
+      "minimumPrice": 3000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 11249,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "brotherhood candelabra floor",
+    "displayName": "Brotherhood Candelabra, Floor",
+    "values": {
+      "commonRange": "8,389 - 12,000",
+      "averagePrice": 10798,
+      "minimumPrice": 8000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 10798,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

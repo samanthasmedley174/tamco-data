@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of the kynmarchers cruelty",
+    "displayName": "Dagger of the Kynmarcher's Cruelty",
+    "values": {
+      "commonRange": "4,625 - 16,250",
+      "averagePrice": 10556,
+      "minimumPrice": 3625,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10556,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

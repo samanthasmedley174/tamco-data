@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood lantern string long",
+    "displayName": "Dawnwood Lantern String, Long",
+    "values": {
+      "commonRange": "6,166 - 8,500",
+      "averagePrice": 7938,
+      "minimumPrice": 5062,
+      "maximumPrice": 9950,
+      "averageStackPrice": 15876,
+      "commonStackSize": 2,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

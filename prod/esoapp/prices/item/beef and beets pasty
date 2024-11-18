@@ -1,0 +1,18 @@
+[
+  {
+    "name": "beef and beets pasty",
+    "displayName": "Beef and Beets Pasty",
+    "values": {
+      "commonRange": "30 - 125",
+      "averagePrice": 76,
+      "minimumPrice": 22,
+      "maximumPrice": 125,
+      "averageStackPrice": 1824,
+      "commonStackSize": 24,
+      "salesRecorded": 9
+    },
+    "type": "Food & Drinks",
+    "date": "02/14/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/beef_and_beets_pasty.png"
+  }
+]

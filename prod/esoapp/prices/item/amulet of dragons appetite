@@ -1,0 +1,18 @@
+[
+  {
+    "name": "amulet of dragons appetite",
+    "displayName": "Amulet of Dragon's Appetite",
+    "values": {
+      "commonRange": "25,000 - 25,000",
+      "averagePrice": 25000,
+      "minimumPrice": 25000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 25000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

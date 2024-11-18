@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian bowl wooden",
+    "displayName": "Argonian Bowl, Wooden",
+    "values": {
+      "commonRange": "550 - 1,000",
+      "averagePrice": 777,
+      "minimumPrice": 60,
+      "maximumPrice": 1500,
+      "averageStackPrice": 777,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/23/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

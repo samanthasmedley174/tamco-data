@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cleansed water",
+    "displayName": "Cleansed Water",
+    "values": {
+      "commonRange": "77 - 110",
+      "averagePrice": 98,
+      "minimumPrice": 74,
+      "maximumPrice": 110,
+      "averageStackPrice": 19600,
+      "commonStackSize": 200,
+      "salesRecorded": 13
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

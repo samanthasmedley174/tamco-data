@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian rug noble long",
+    "displayName": "Colovian Rug, Noble Long",
+    "values": {
+      "commonRange": "4,688 - 13,000",
+      "averagePrice": 7476,
+      "minimumPrice": 3930,
+      "maximumPrice": 18150,
+      "averageStackPrice": 7476,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

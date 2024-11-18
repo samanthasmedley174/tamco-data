@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of a mothers sorrow",
+    "displayName": "Battle Axe of a Mother's Sorrow",
+    "values": {
+      "commonRange": "440 - 2,999",
+      "averagePrice": 1899,
+      "minimumPrice": 234,
+      "maximumPrice": 12000,
+      "averageStackPrice": 1899,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

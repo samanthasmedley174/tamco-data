@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 86 sea giant staves",
+    "displayName": "Crafting Motif 86: Sea Giant Staves",
+    "values": {
+      "commonRange": "4,000 - 9,995",
+      "averagePrice": 7078,
+      "minimumPrice": 3500,
+      "maximumPrice": 23000,
+      "averageStackPrice": 7078,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

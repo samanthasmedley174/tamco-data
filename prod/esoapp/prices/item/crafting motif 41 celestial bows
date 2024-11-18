@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 41 celestial bows",
+    "displayName": "Crafting Motif 41: Celestial Bows",
+    "values": {
+      "commonRange": "19,000 - 30,000",
+      "averagePrice": 23116,
+      "minimumPrice": 7139,
+      "maximumPrice": 30039,
+      "averageStackPrice": 23116,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

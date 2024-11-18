@@ -1,0 +1,18 @@
+[
+  {
+    "name": "aeonstone shard",
+    "displayName": "Aeonstone Shard",
+    "values": {
+      "commonRange": "90 - 209",
+      "averagePrice": 158,
+      "minimumPrice": 66,
+      "maximumPrice": 209,
+      "averageStackPrice": 158,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Aeonstone_Shard.png"
+  }
+]

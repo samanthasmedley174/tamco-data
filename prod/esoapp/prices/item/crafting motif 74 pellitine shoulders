@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 74 pellitine shoulders",
+    "displayName": "Crafting Motif 74: Pellitine Shoulders",
+    "values": {
+      "commonRange": "7,123 - 29,096",
+      "averagePrice": 25934,
+      "minimumPrice": 5185,
+      "maximumPrice": 150000,
+      "averageStackPrice": 25934,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

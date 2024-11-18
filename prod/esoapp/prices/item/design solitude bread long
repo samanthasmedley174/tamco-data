@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design solitude bread long",
+    "displayName": "Design: Solitude Bread, Long",
+    "values": {
+      "commonRange": "3,130 - 10,030",
+      "averagePrice": 9080,
+      "minimumPrice": 900,
+      "maximumPrice": 33030,
+      "averageStackPrice": 9080,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

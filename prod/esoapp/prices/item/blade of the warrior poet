@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blade of the warrior poet",
+    "displayName": "Blade of the Warrior-Poet",
+    "values": {
+      "commonRange": "2,500 - 3,150",
+      "averagePrice": 2770,
+      "minimumPrice": 2000,
+      "maximumPrice": 3200,
+      "averageStackPrice": 2770,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

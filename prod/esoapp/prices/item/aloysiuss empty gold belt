@@ -1,0 +1,18 @@
+[
+  {
+    "name": "aloysiuss empty gold belt",
+    "displayName": "Aloysius's Empty Gold Belt",
+    "values": {
+      "commonRange": "5,500 - 5,500",
+      "averagePrice": 5500,
+      "minimumPrice": 5500,
+      "maximumPrice": 5500,
+      "averageStackPrice": 5500,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

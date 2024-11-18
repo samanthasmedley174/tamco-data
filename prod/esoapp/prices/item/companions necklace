@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions necklace",
+    "displayName": "Companion's Necklace",
+    "values": {
+      "commonRange": "124 - 105,000",
+      "averagePrice": 21728,
+      "minimumPrice": 20,
+      "maximumPrice": 200000,
+      "averageStackPrice": 21728,
+      "commonStackSize": 1,
+      "salesRecorded": 356
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

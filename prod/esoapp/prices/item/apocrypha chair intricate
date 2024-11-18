@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha chair intricate",
+    "displayName": "Apocrypha Chair, Intricate",
+    "values": {
+      "commonRange": "2,800 - 9,805",
+      "averagePrice": 7351,
+      "minimumPrice": 2800,
+      "maximumPrice": 10300,
+      "averageStackPrice": 7351,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

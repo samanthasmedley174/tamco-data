@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude bucket empty",
+    "displayName": "Blueprint: Solitude Bucket, Empty",
+    "values": {
+      "commonRange": "1,000 - 2,995",
+      "averagePrice": 2092,
+      "minimumPrice": 1000,
+      "maximumPrice": 3000,
+      "averageStackPrice": 2092,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

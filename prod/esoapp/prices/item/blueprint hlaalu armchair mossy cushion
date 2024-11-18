@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint hlaalu armchair mossy cushion",
+    "displayName": "Blueprint: Hlaalu Armchair, Mossy Cushion",
+    "values": {
+      "commonRange": "20,000 - 33,333",
+      "averagePrice": 28164,
+      "minimumPrice": 20000,
+      "maximumPrice": 38000,
+      "averageStackPrice": 28164,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

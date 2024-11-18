@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor pot patterned",
+    "displayName": "Alinor Pot, Patterned",
+    "values": {
+      "commonRange": "1,000 - 2,060",
+      "averagePrice": 1715,
+      "minimumPrice": 160,
+      "maximumPrice": 2560,
+      "averageStackPrice": 1715,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/14/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

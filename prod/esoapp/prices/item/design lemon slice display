@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design lemon slice display",
+    "displayName": "Design: Lemon Slice, Display",
+    "values": {
+      "commonRange": "13,417 - 17,817",
+      "averagePrice": 16644,
+      "minimumPrice": 13000,
+      "maximumPrice": 30027,
+      "averageStackPrice": 16644,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

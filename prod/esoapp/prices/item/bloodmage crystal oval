@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bloodmage crystal oval",
+    "displayName": "Bloodmage Crystal, Oval",
+    "values": {
+      "commonRange": "5,000 - 6,383",
+      "averagePrice": 5337,
+      "minimumPrice": 1000,
+      "maximumPrice": 6999,
+      "averageStackPrice": 5337,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

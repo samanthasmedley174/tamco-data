@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram colovian dresser noble",
+    "displayName": "Diagram: Colovian Dresser, Noble",
+    "values": {
+      "commonRange": "8,000 - 9,617",
+      "averagePrice": 8756,
+      "minimumPrice": 5030,
+      "maximumPrice": 10194,
+      "averageStackPrice": 8756,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

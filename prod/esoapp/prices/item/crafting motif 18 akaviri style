@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 18 akaviri style",
+    "displayName": "Crafting Motif 18: Akaviri Style",
+    "values": {
+      "commonRange": "650,000 - 3,000,000",
+      "averagePrice": 1475000,
+      "minimumPrice": 150000,
+      "maximumPrice": 3500000,
+      "averageStackPrice": 1475000,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Motifs",
+    "date": "09/13/2022",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

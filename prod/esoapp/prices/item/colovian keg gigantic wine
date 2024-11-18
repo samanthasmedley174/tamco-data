@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian keg gigantic wine",
+    "displayName": "Colovian Keg, Gigantic Wine",
+    "values": {
+      "commonRange": "16,919 - 24,319",
+      "averagePrice": 19687,
+      "minimumPrice": 15919,
+      "maximumPrice": 25807,
+      "averageStackPrice": 19687,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

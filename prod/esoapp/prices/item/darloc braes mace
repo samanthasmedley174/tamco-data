@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darloc braes mace",
+    "displayName": "Darloc Brae's Mace",
+    "values": {
+      "commonRange": "585 - 1,999",
+      "averagePrice": 2735,
+      "minimumPrice": 500,
+      "maximumPrice": 14999,
+      "averageStackPrice": 2735,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

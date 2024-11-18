@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude table grand noble",
+    "displayName": "Blueprint: Solitude Table, Grand Noble",
+    "values": {
+      "commonRange": "26,000 - 31,000",
+      "averagePrice": 28832,
+      "minimumPrice": 22039,
+      "maximumPrice": 31628,
+      "averageStackPrice": 28832,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

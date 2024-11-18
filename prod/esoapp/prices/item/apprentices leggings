@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apprentices leggings",
+    "displayName": "Apprentice's Leggings",
+    "values": {
+      "commonRange": "1,000 - 1,002",
+      "averagePrice": 1001,
+      "minimumPrice": 1000,
+      "maximumPrice": 1002,
+      "averageStackPrice": 1001,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 133 coldharbour dominator maces",
+    "displayName": "Crafting Motif 133: Coldharbour Dominator Maces",
+    "values": {
+      "commonRange": "60,000 - 77,733",
+      "averagePrice": 68021,
+      "minimumPrice": 20039,
+      "maximumPrice": 77733,
+      "averageStackPrice": 68021,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

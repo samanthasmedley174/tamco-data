@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ashlander platter bread and cheese",
+    "displayName": "Ashlander Platter, Bread and Cheese",
+    "values": {
+      "commonRange": "2,000 - 11,000",
+      "averagePrice": 7598,
+      "minimumPrice": 1800,
+      "maximumPrice": 18500,
+      "averageStackPrice": 7598,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

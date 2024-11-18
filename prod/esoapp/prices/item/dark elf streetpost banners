@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf streetpost banners",
+    "displayName": "Dark Elf Streetpost, Banners",
+    "values": {
+      "commonRange": "200 - 1,060",
+      "averagePrice": 592,
+      "minimumPrice": 200,
+      "maximumPrice": 1170,
+      "averageStackPrice": 592,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "01/18/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

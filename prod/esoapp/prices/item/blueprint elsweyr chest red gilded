@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr chest red gilded",
+    "displayName": "Blueprint: Elsweyr Chest, Red Gilded",
+    "values": {
+      "commonRange": "15,000 - 22,000",
+      "averagePrice": 18315,
+      "minimumPrice": 9039,
+      "maximumPrice": 25180,
+      "averageStackPrice": 18315,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

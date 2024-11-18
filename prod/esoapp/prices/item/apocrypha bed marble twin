@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha bed marble twin",
+    "displayName": "Apocrypha Bed, Marble Twin",
+    "values": {
+      "commonRange": "6,022 - 7,000",
+      "averagePrice": 6541,
+      "minimumPrice": 6022,
+      "maximumPrice": 7265,
+      "averageStackPrice": 6541,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "banana millet muffin",
+    "displayName": "Banana Millet Muffin",
+    "values": {
+      "commonRange": "6 - 16",
+      "averagePrice": 11,
+      "minimumPrice": 6,
+      "maximumPrice": 18,
+      "averageStackPrice": 1100,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "04/12/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/banana_millet_muffin.png"
+  }
+]

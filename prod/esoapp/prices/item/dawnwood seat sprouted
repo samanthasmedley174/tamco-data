@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood seat sprouted",
+    "displayName": "Dawnwood Seat, Sprouted",
+    "values": {
+      "commonRange": "1,650 - 8,650",
+      "averagePrice": 3883,
+      "minimumPrice": 358,
+      "maximumPrice": 10485,
+      "averageStackPrice": 3883,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram common skillet practical",
+    "displayName": "Diagram: Common Skillet, Practical",
+    "values": {
+      "commonRange": "69 - 223",
+      "averagePrice": 129,
+      "minimumPrice": 27,
+      "maximumPrice": 226,
+      "averageStackPrice": 129,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

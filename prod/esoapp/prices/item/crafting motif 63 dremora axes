@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 63 dremora axes",
+    "displayName": "Crafting Motif 63: Dremora Axes",
+    "values": {
+      "commonRange": "150 - 1,039",
+      "averagePrice": 480,
+      "minimumPrice": 125,
+      "maximumPrice": 2000,
+      "averageStackPrice": 480,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

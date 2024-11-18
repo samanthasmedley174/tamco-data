@@ -1,0 +1,18 @@
+[
+  {
+    "name": "candle group",
+    "displayName": "Candle, Group",
+    "values": {
+      "commonRange": "110 - 2,000",
+      "averagePrice": 877,
+      "minimumPrice": 110,
+      "maximumPrice": 4000,
+      "averageStackPrice": 877,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven corner shelf granite",
+    "displayName": "Dwarven Corner Shelf, Granite",
+    "values": {
+      "commonRange": "3,684 - 4,385",
+      "averagePrice": 3774,
+      "minimumPrice": 960,
+      "maximumPrice": 4828,
+      "averageStackPrice": 3774,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

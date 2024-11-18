@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dead waters guile mace",
+    "displayName": "Dead-Water's Guile Mace",
+    "values": {
+      "commonRange": "3,288 - 15,000",
+      "averagePrice": 9802,
+      "minimumPrice": 1000,
+      "maximumPrice": 29153,
+      "averageStackPrice": 9802,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of martial knowledge",
+    "displayName": "Dagger of Martial Knowledge",
+    "values": {
+      "commonRange": "144 - 2,150",
+      "averagePrice": 1101,
+      "minimumPrice": 144,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1101,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 127 west weald legion daggers",
+    "displayName": "Crafting Motif 127: West Weald Legion Daggers",
+    "values": {
+      "commonRange": "10,000 - 20,000",
+      "averagePrice": 13313,
+      "minimumPrice": 7700,
+      "maximumPrice": 20039,
+      "averageStackPrice": 13313,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

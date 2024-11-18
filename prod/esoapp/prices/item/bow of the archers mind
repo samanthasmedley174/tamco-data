@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of the archers mind",
+    "displayName": "Bow of the Archer's Mind",
+    "values": {
+      "commonRange": "52,740 - 52,740",
+      "averagePrice": 86073,
+      "minimumPrice": 5240,
+      "maximumPrice": 200240,
+      "averageStackPrice": 86073,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

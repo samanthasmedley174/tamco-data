@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 124 the recollection style",
+    "displayName": "Crafting Motif 124: The Recollection Style",
+    "values": {
+      "commonRange": "2,000,000 - 2,000,000",
+      "averagePrice": 2216667,
+      "minimumPrice": 1650000,
+      "maximumPrice": 3000000,
+      "averageStackPrice": 2216667,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Motifs",
+    "date": "09/17/2024",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

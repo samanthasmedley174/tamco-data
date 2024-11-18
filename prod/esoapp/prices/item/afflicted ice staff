@@ -1,0 +1,18 @@
+[
+  {
+    "name": "afflicted ice staff",
+    "displayName": "Afflicted Ice Staff",
+    "values": {
+      "commonRange": "3,999 - 4,221",
+      "averagePrice": 3904,
+      "minimumPrice": 2000,
+      "maximumPrice": 4444,
+      "averageStackPrice": 3904,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

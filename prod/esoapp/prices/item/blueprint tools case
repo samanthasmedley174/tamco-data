@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint tools case",
+    "displayName": "Blueprint: Tools, Case",
+    "values": {
+      "commonRange": "30,000 - 35,577",
+      "averagePrice": 30875,
+      "minimumPrice": 20000,
+      "maximumPrice": 37000,
+      "averageStackPrice": 30875,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

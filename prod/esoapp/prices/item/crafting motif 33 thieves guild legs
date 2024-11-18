@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 33 thieves guild legs",
+    "displayName": "Crafting Motif 33: Thieves Guild Legs",
+    "values": {
+      "commonRange": "5,500 - 12,000",
+      "averagePrice": 9795,
+      "minimumPrice": 1100,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9795,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

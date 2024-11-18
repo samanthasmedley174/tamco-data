@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design solitude sconce horn",
+    "displayName": "Design: Solitude Sconce, Horn",
+    "values": {
+      "commonRange": "2,500 - 5,000",
+      "averagePrice": 3419,
+      "minimumPrice": 1127,
+      "maximumPrice": 5786,
+      "averageStackPrice": 3419,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

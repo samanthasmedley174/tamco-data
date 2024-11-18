@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cuirass of the juggernaut",
+    "displayName": "Cuirass of the Juggernaut",
+    "values": {
+      "commonRange": "850 - 9,982",
+      "averagePrice": 6920,
+      "minimumPrice": 183,
+      "maximumPrice": 34000,
+      "averageStackPrice": 6920,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

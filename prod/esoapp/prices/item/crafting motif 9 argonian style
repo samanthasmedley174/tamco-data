@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 9 argonian style",
+    "displayName": "Crafting Motif 9: Argonian Style",
+    "values": {
+      "commonRange": "100 - 800",
+      "averagePrice": 328,
+      "minimumPrice": 99,
+      "maximumPrice": 2251,
+      "averageStackPrice": 328,
+      "commonStackSize": 1,
+      "salesRecorded": 46
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

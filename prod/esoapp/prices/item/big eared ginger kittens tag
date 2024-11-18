@@ -1,0 +1,18 @@
+[
+  {
+    "name": "big eared ginger kittens tag",
+    "displayName": "Big-Eared Ginger Kitten's Tag",
+    "values": {
+      "commonRange": "3,000 - 10,039",
+      "averagePrice": 6654,
+      "minimumPrice": 1014,
+      "maximumPrice": 10796,
+      "averageStackPrice": 6654,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Fragments",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

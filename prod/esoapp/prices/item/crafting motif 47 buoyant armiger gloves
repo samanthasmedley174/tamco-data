@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 47 buoyant armiger gloves",
+    "displayName": "Crafting Motif 47: Buoyant Armiger Gloves",
+    "values": {
+      "commonRange": "30,000 - 85,402",
+      "averagePrice": 67380,
+      "minimumPrice": 15402,
+      "maximumPrice": 118000,
+      "averageStackPrice": 67380,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

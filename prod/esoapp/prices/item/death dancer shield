@@ -1,0 +1,18 @@
+[
+  {
+    "name": "death dancer shield",
+    "displayName": "Death-Dancer Shield",
+    "values": {
+      "commonRange": "200 - 2,150",
+      "averagePrice": 1065,
+      "minimumPrice": 144,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1065,
+      "commonStackSize": 1,
+      "salesRecorded": 73
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

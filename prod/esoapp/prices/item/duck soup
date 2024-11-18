@@ -1,0 +1,18 @@
+[
+  {
+    "name": "duck soup",
+    "displayName": "Duck Soup",
+    "values": {
+      "commonRange": "100 - 161",
+      "averagePrice": 133,
+      "minimumPrice": 15,
+      "maximumPrice": 250,
+      "averageStackPrice": 2660,
+      "commonStackSize": 20,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "02/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/duck_soup.png"
+  }
+]

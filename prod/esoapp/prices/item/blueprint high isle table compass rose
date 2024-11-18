@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle table compass rose",
+    "displayName": "Blueprint: High Isle Table, Compass Rose",
+    "values": {
+      "commonRange": "17,000 - 23,000",
+      "averagePrice": 21144,
+      "minimumPrice": 4500,
+      "maximumPrice": 50000,
+      "averageStackPrice": 21144,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

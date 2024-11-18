@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 69 dead water daggers",
+    "displayName": "Crafting Motif 69: Dead-Water Daggers",
+    "values": {
+      "commonRange": "7,000 - 10,705",
+      "averagePrice": 9526,
+      "minimumPrice": 7000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9526,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

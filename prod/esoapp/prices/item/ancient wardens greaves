@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ancient wardens greaves",
+    "displayName": "Ancient Warden's Greaves",
+    "values": {
+      "commonRange": "91 - 91",
+      "averagePrice": 188,
+      "minimumPrice": 84,
+      "maximumPrice": 388,
+      "averageStackPrice": 188,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

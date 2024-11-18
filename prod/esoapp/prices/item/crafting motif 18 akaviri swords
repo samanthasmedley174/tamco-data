@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 18 akaviri swords",
+    "displayName": "Crafting Motif 18: Akaviri Swords",
+    "values": {
+      "commonRange": "7,000 - 12,500",
+      "averagePrice": 10113,
+      "minimumPrice": 6420,
+      "maximumPrice": 13920,
+      "averageStackPrice": 10113,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

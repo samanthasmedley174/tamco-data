@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint alinor nightstand octagonal",
+    "displayName": "Blueprint: Alinor Nightstand, Octagonal",
+    "values": {
+      "commonRange": "8,000 - 15,030",
+      "averagePrice": 10790,
+      "minimumPrice": 3300,
+      "maximumPrice": 22000,
+      "averageStackPrice": 10790,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 106 silver rose shields",
+    "displayName": "Crafting Motif 106: Silver Rose Shields",
+    "values": {
+      "commonRange": "24,953 - 45,260",
+      "averagePrice": 38352,
+      "minimumPrice": 20000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 38352,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

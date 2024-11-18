@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 92 ancestral akaviri chests",
+    "displayName": "Crafting Motif 92: Ancestral Akaviri Chests",
+    "values": {
+      "commonRange": "60,000 - 75,039",
+      "averagePrice": 64464,
+      "minimumPrice": 11039,
+      "maximumPrice": 85000,
+      "averageStackPrice": 64464,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

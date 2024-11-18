@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 98 house hexos staves",
+    "displayName": "Crafting Motif 98: House Hexos Staves",
+    "values": {
+      "commonRange": "30,000 - 35,324",
+      "averagePrice": 31306,
+      "minimumPrice": 11038,
+      "maximumPrice": 50000,
+      "averageStackPrice": 31306,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

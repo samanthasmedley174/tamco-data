@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bonesplinter",
+    "displayName": "Bonesplinter",
+    "values": {
+      "commonRange": "110 - 110",
+      "averagePrice": 110,
+      "minimumPrice": 78,
+      "maximumPrice": 141,
+      "averageStackPrice": 110,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 47 buoyant armiger boots",
+    "displayName": "Crafting Motif 47: Buoyant Armiger Boots",
+    "values": {
+      "commonRange": "80,000 - 128,000",
+      "averagePrice": 100760,
+      "minimumPrice": 60000,
+      "maximumPrice": 130000,
+      "averageStackPrice": 100760,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

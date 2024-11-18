@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 70 elder argonian axes",
+    "displayName": "Crafting Motif 70: Elder Argonian Axes",
+    "values": {
+      "commonRange": "16,000 - 20,039",
+      "averagePrice": 18478,
+      "minimumPrice": 15000,
+      "maximumPrice": 21000,
+      "averageStackPrice": 18478,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

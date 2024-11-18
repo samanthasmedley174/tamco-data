@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton tablecloth blue",
+    "displayName": "Breton Tablecloth, Blue",
+    "values": {
+      "commonRange": "9,202 - 10,732",
+      "averagePrice": 9960,
+      "minimumPrice": 7300,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9960,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

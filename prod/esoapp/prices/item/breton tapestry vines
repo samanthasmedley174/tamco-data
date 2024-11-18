@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton tapestry vines",
+    "displayName": "Breton Tapestry, Vines",
+    "values": {
+      "commonRange": "2,000 - 6,500",
+      "averagePrice": 4870,
+      "minimumPrice": 1900,
+      "maximumPrice": 7300,
+      "averageStackPrice": 4870,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "direnni hundred year rabbit bisque",
+    "displayName": "Direnni Hundred-Year Rabbit Bisque",
+    "values": {
+      "commonRange": "12 - 125",
+      "averagePrice": 56,
+      "minimumPrice": 12,
+      "maximumPrice": 144,
+      "averageStackPrice": 5600,
+      "commonStackSize": 100,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/direnni_hundred-year_rabbit_bisque.png"
+  }
+]

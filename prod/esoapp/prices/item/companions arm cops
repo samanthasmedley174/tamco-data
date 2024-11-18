@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions arm cops",
+    "displayName": "Companion's Arm Cops",
+    "values": {
+      "commonRange": "100 - 200,000",
+      "averagePrice": 33356,
+      "minimumPrice": 24,
+      "maximumPrice": 550000,
+      "averageStackPrice": 33356,
+      "commonStackSize": 1,
+      "salesRecorded": 251
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "champion of the hist restoration staff",
+    "displayName": "Champion of the Hist Restoration Staff",
+    "values": {
+      "commonRange": "440 - 4,400",
+      "averagePrice": 1858,
+      "minimumPrice": 300,
+      "maximumPrice": 4940,
+      "averageStackPrice": 1858,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

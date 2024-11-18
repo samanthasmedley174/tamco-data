@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dreamers hat",
+    "displayName": "Dreamer's Hat",
+    "values": {
+      "commonRange": "150 - 1,144",
+      "averagePrice": 671,
+      "minimumPrice": 144,
+      "maximumPrice": 3070,
+      "averageStackPrice": 671,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

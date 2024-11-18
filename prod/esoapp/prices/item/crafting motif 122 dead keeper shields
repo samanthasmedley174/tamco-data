@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 122 dead keeper shields",
+    "displayName": "Crafting Motif 122: Dead Keeper Shields",
+    "values": {
+      "commonRange": "8,000 - 11,374",
+      "averagePrice": 9814,
+      "minimumPrice": 7981,
+      "maximumPrice": 13078,
+      "averageStackPrice": 9814,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

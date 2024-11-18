@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian floor dual sided",
+    "displayName": "Blueprint: Colovian Floor, Dual-Sided",
+    "values": {
+      "commonRange": "50,000 - 65,000",
+      "averagePrice": 60390,
+      "minimumPrice": 42638,
+      "maximumPrice": 90000,
+      "averageStackPrice": 60390,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

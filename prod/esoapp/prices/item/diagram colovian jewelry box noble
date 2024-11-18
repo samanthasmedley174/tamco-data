@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram colovian jewelry box noble",
+    "displayName": "Diagram: Colovian Jewelry Box, Noble",
+    "values": {
+      "commonRange": "6,211 - 10,062",
+      "averagePrice": 9287,
+      "minimumPrice": 4000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9287,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

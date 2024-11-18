@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands column heavy",
+    "displayName": "Deadlands Column, Heavy",
+    "values": {
+      "commonRange": "5,150 - 7,700",
+      "averagePrice": 6703,
+      "minimumPrice": 3994,
+      "maximumPrice": 7760,
+      "averageStackPrice": 6703,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

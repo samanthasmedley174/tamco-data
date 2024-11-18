@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian lights branch",
+    "displayName": "Argonian Lights, Branch",
+    "values": {
+      "commonRange": "300 - 4,330",
+      "averagePrice": 2929,
+      "minimumPrice": 300,
+      "maximumPrice": 4330,
+      "averageStackPrice": 2929,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

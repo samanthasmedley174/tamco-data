@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha plant feather fern cluster",
+    "displayName": "Apocrypha Plant, Feather Fern Cluster",
+    "values": {
+      "commonRange": "721 - 2,000",
+      "averagePrice": 1225,
+      "minimumPrice": 635,
+      "maximumPrice": 2500,
+      "averageStackPrice": 1225,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

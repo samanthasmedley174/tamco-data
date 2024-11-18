@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian counter block",
+    "displayName": "Colovian Counter, Block",
+    "values": {
+      "commonRange": "8,107 - 8,347",
+      "averagePrice": 8337,
+      "minimumPrice": 8107,
+      "maximumPrice": 11950,
+      "averageStackPrice": 8337,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Furnishings",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

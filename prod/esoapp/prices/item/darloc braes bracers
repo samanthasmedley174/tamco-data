@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darloc braes bracers",
+    "displayName": "Darloc Brae's Bracers",
+    "values": {
+      "commonRange": "450 - 12,990",
+      "averagePrice": 4163,
+      "minimumPrice": 90,
+      "maximumPrice": 20928,
+      "averageStackPrice": 4163,
+      "commonStackSize": 1,
+      "salesRecorded": 74
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

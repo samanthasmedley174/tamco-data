@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr bookcase short elegant full",
+    "displayName": "Blueprint: Elsweyr Bookcase, Short Elegant Full",
+    "values": {
+      "commonRange": "20,000 - 28,000",
+      "averagePrice": 23085,
+      "minimumPrice": 10039,
+      "maximumPrice": 28200,
+      "averageStackPrice": 23085,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

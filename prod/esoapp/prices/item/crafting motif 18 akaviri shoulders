@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 18 akaviri shoulders",
+    "displayName": "Crafting Motif 18: Akaviri Shoulders",
+    "values": {
+      "commonRange": "6,000 - 11,000",
+      "averagePrice": 8801,
+      "minimumPrice": 3000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 8801,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

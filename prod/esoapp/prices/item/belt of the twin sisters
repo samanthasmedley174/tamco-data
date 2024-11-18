@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of the twin sisters",
+    "displayName": "Belt of the Twin Sisters",
+    "values": {
+      "commonRange": "54 - 2,000",
+      "averagePrice": 604,
+      "minimumPrice": 45,
+      "maximumPrice": 2500,
+      "averageStackPrice": 604,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

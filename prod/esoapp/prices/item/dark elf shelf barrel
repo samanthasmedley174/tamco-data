@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf shelf barrel",
+    "displayName": "Dark Elf Shelf, Barrel",
+    "values": {
+      "commonRange": "250 - 3,150",
+      "averagePrice": 2140,
+      "minimumPrice": 250,
+      "maximumPrice": 3150,
+      "averageStackPrice": 2140,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/06/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

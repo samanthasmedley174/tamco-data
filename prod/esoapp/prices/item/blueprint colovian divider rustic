@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian divider rustic",
+    "displayName": "Blueprint: Colovian Divider, Rustic",
+    "values": {
+      "commonRange": "2,970 - 3,934",
+      "averagePrice": 3476,
+      "minimumPrice": 2900,
+      "maximumPrice": 3934,
+      "averageStackPrice": 3476,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian wine barrel sealed",
+    "displayName": "Blueprint: Colovian Wine Barrel, Sealed",
+    "values": {
+      "commonRange": "2,000 - 4,300",
+      "averagePrice": 3281,
+      "minimumPrice": 1999,
+      "maximumPrice": 4500,
+      "averageStackPrice": 3281,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

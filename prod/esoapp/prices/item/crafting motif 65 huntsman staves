@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 65 huntsman staves",
+    "displayName": "Crafting Motif 65: Huntsman Staves",
+    "values": {
+      "commonRange": "4,678 - 7,104",
+      "averagePrice": 6741,
+      "minimumPrice": 3000,
+      "maximumPrice": 16000,
+      "averageStackPrice": 6741,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

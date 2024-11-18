@@ -1,0 +1,18 @@
+[
+  {
+    "name": "briarheart axe",
+    "displayName": "Briarheart Axe",
+    "values": {
+      "commonRange": "450 - 70,000",
+      "averagePrice": 15714,
+      "minimumPrice": 144,
+      "maximumPrice": 75000,
+      "averageStackPrice": 15714,
+      "commonStackSize": 1,
+      "salesRecorded": 43
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf chest of drawers",
+    "displayName": "Dark Elf Chest of Drawers",
+    "values": {
+      "commonRange": "500 - 2,957",
+      "averagePrice": 1608,
+      "minimumPrice": 300,
+      "maximumPrice": 2957,
+      "averageStackPrice": 1608,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

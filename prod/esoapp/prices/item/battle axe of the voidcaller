@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the voidcaller",
+    "displayName": "Battle Axe of the Voidcaller",
+    "values": {
+      "commonRange": "500 - 999",
+      "averagePrice": 2761,
+      "minimumPrice": 300,
+      "maximumPrice": 9246,
+      "averageStackPrice": 2761,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint murkmire wall straight",
+    "displayName": "Blueprint: Murkmire Wall, Straight",
+    "values": {
+      "commonRange": "3,300 - 8,089",
+      "averagePrice": 6638,
+      "minimumPrice": 2000,
+      "maximumPrice": 9189,
+      "averageStackPrice": 6638,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

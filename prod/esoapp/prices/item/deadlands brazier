@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands brazier",
+    "displayName": "Deadlands Brazier",
+    "values": {
+      "commonRange": "12,500 - 19,000",
+      "averagePrice": 16591,
+      "minimumPrice": 12500,
+      "maximumPrice": 25000,
+      "averageStackPrice": 33182,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/24/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

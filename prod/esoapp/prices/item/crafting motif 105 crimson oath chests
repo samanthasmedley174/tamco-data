@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 105 crimson oath chests",
+    "displayName": "Crafting Motif 105: Crimson Oath Chests",
+    "values": {
+      "commonRange": "210,999 - 450,000",
+      "averagePrice": 362299,
+      "minimumPrice": 15039,
+      "maximumPrice": 1087000,
+      "averageStackPrice": 362299,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

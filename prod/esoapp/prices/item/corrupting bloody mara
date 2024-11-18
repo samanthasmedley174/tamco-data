@@ -1,0 +1,18 @@
+[
+  {
+    "name": "corrupting bloody mara",
+    "displayName": "Corrupting Bloody Mara",
+    "values": {
+      "commonRange": "880 - 1,225",
+      "averagePrice": 1045,
+      "minimumPrice": 21,
+      "maximumPrice": 1306,
+      "averageStackPrice": 8360,
+      "commonStackSize": 8,
+      "salesRecorded": 43
+    },
+    "type": "Food & Drinks",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/corrupting_bloody_mara.png"
+  }
+]

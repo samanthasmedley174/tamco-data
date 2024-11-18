@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of night terror",
+    "displayName": "Belt of Night Terror",
+    "values": {
+      "commonRange": "87 - 2,290",
+      "averagePrice": 837,
+      "minimumPrice": 60,
+      "maximumPrice": 7999,
+      "averageStackPrice": 837,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

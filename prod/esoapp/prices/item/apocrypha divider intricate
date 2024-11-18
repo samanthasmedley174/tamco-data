@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha divider intricate",
+    "displayName": "Apocrypha Divider, Intricate",
+    "values": {
+      "commonRange": "9,198 - 18,919",
+      "averagePrice": 15212,
+      "minimumPrice": 8000,
+      "maximumPrice": 28999,
+      "averageStackPrice": 15212,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/05/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

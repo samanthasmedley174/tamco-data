@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bleakrock garrison plate",
+    "displayName": "Bleakrock Garrison Plate",
+    "values": {
+      "commonRange": "93 - 371",
+      "averagePrice": 295,
+      "minimumPrice": 75,
+      "maximumPrice": 1000,
+      "averageStackPrice": 295,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

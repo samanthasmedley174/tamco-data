@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard shelf bolted",
+    "displayName": "Blueprint: Redguard Shelf, Bolted",
+    "values": {
+      "commonRange": "17,000 - 20,342",
+      "averagePrice": 19290,
+      "minimumPrice": 13963,
+      "maximumPrice": 22039,
+      "averageStackPrice": 19290,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram alinor table setting complete",
+    "displayName": "Diagram: Alinor Table Setting, Complete",
+    "values": {
+      "commonRange": "8,000 - 12,528",
+      "averagePrice": 10170,
+      "minimumPrice": 200,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10170,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

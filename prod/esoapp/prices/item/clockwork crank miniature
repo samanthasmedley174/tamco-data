@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork crank miniature",
+    "displayName": "Clockwork Crank, Miniature",
+    "values": {
+      "commonRange": "960 - 16,625",
+      "averagePrice": 5762,
+      "minimumPrice": 960,
+      "maximumPrice": 16650,
+      "averageStackPrice": 5762,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

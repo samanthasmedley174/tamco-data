@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alyxes rancid pants",
+    "displayName": "Alyxe's Rancid Pants",
+    "values": {
+      "commonRange": "125 - 125",
+      "averagePrice": 125,
+      "minimumPrice": 125,
+      "maximumPrice": 125,
+      "averageStackPrice": 125,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/10/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

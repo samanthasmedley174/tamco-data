@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram leyawiin lamp oil double",
+    "displayName": "Diagram: Leyawiin Lamp, Oil Double",
+    "values": {
+      "commonRange": "24,990 - 30,039",
+      "averagePrice": 28151,
+      "minimumPrice": 24000,
+      "maximumPrice": 38039,
+      "averageStackPrice": 28151,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

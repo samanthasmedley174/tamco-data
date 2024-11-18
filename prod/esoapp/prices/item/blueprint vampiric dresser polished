@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint vampiric dresser polished",
+    "displayName": "Blueprint: Vampiric Dresser, Polished",
+    "values": {
+      "commonRange": "180,039 - 300,000",
+      "averagePrice": 251996,
+      "minimumPrice": 180039,
+      "maximumPrice": 400000,
+      "averageStackPrice": 251996,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

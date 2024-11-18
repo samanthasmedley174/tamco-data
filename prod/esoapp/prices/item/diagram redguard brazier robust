@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redguard brazier robust",
+    "displayName": "Diagram: Redguard Brazier, Robust",
+    "values": {
+      "commonRange": "1,767 - 3,500",
+      "averagePrice": 2507,
+      "minimumPrice": 700,
+      "maximumPrice": 4430,
+      "averageStackPrice": 2507,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

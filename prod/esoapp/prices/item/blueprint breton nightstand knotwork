@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint breton nightstand knotwork",
+    "displayName": "Blueprint: Breton Nightstand, Knotwork",
+    "values": {
+      "commonRange": "14,300 - 14,900",
+      "averagePrice": 14599,
+      "minimumPrice": 13500,
+      "maximumPrice": 16000,
+      "averageStackPrice": 14599,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

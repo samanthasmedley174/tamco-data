@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint orcish candlestick horn",
+    "displayName": "Blueprint: Orcish Candlestick, Horn",
+    "values": {
+      "commonRange": "11,000 - 12,891",
+      "averagePrice": 11810,
+      "minimumPrice": 10000,
+      "maximumPrice": 13089,
+      "averageStackPrice": 11810,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

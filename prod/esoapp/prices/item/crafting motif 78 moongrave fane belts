@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 78 moongrave fane belts",
+    "displayName": "Crafting Motif 78: Moongrave Fane Belts",
+    "values": {
+      "commonRange": "9,191 - 18,000",
+      "averagePrice": 13204,
+      "minimumPrice": 7000,
+      "maximumPrice": 35000,
+      "averageStackPrice": 13204,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

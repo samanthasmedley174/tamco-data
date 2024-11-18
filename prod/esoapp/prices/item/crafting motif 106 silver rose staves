@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 106 silver rose staves",
+    "displayName": "Crafting Motif 106: Silver Rose Staves",
+    "values": {
+      "commonRange": "6,613 - 16,188",
+      "averagePrice": 13076,
+      "minimumPrice": 5434,
+      "maximumPrice": 17039,
+      "averageStackPrice": 13076,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

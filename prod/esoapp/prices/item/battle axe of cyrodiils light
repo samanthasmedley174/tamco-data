@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of cyrodiils light",
+    "displayName": "Battle Axe of Cyrodiil's Light",
+    "values": {
+      "commonRange": "1,246 - 3,240",
+      "averagePrice": 2425,
+      "minimumPrice": 500,
+      "maximumPrice": 7000,
+      "averageStackPrice": 2425,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

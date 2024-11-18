@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf urn banded",
+    "displayName": "Dark Elf Urn, Banded",
+    "values": {
+      "commonRange": "260 - 760",
+      "averagePrice": 451,
+      "minimumPrice": 100,
+      "maximumPrice": 1000,
+      "averageStackPrice": 451,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

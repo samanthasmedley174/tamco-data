@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redoran trestle corridor",
+    "displayName": "Blueprint: Redoran Trestle, Corridor",
+    "values": {
+      "commonRange": "4,000 - 6,000",
+      "averagePrice": 5392,
+      "minimumPrice": 2499,
+      "maximumPrice": 12000,
+      "averageStackPrice": 5392,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

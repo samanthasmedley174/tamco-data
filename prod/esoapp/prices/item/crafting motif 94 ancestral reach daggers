@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 94 ancestral reach daggers",
+    "displayName": "Crafting Motif 94: Ancestral Reach Daggers",
+    "values": {
+      "commonRange": "5,475 - 15,000",
+      "averagePrice": 11967,
+      "minimumPrice": 3000,
+      "maximumPrice": 20039,
+      "averageStackPrice": 11967,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

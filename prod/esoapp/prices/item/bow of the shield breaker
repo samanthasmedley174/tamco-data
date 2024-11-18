@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of the shield breaker",
+    "displayName": "Bow of the Shield Breaker",
+    "values": {
+      "commonRange": "3,246 - 3,246",
+      "averagePrice": 3246,
+      "minimumPrice": 3246,
+      "maximumPrice": 3246,
+      "averageStackPrice": 3246,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/31/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

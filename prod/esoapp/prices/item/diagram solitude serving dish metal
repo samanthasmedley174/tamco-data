@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram solitude serving dish metal",
+    "displayName": "Diagram: Solitude Serving Dish, Metal",
+    "values": {
+      "commonRange": "19,999 - 24,232",
+      "averagePrice": 21643,
+      "minimumPrice": 17500,
+      "maximumPrice": 25000,
+      "averageStackPrice": 21643,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

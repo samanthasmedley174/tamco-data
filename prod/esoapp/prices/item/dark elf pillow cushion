@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf pillow cushion",
+    "displayName": "Dark Elf Pillow, Cushion",
+    "values": {
+      "commonRange": "5,000 - 5,000",
+      "averagePrice": 4900,
+      "minimumPrice": 4000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 9800,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

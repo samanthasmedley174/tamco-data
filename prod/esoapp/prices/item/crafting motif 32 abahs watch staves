@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 32 abahs watch staves",
+    "displayName": "Crafting Motif 32: Abah's Watch Staves",
+    "values": {
+      "commonRange": "5,000 - 14,905",
+      "averagePrice": 9204,
+      "minimumPrice": 4500,
+      "maximumPrice": 17039,
+      "averageStackPrice": 9204,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

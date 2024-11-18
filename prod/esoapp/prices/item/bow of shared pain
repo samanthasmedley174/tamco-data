@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of shared pain",
+    "displayName": "Bow of Shared Pain",
+    "values": {
+      "commonRange": "500 - 3,000",
+      "averagePrice": 1392,
+      "minimumPrice": 240,
+      "maximumPrice": 5253,
+      "averageStackPrice": 1392,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

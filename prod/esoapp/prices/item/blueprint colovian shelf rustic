@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian shelf rustic",
+    "displayName": "Blueprint: Colovian Shelf, Rustic",
+    "values": {
+      "commonRange": "1,000 - 4,027",
+      "averagePrice": 2993,
+      "minimumPrice": 1000,
+      "maximumPrice": 5540,
+      "averageStackPrice": 2993,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

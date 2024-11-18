@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 64 pyandonean style",
+    "displayName": "Crafting Motif 64: Pyandonean Style",
+    "values": {
+      "commonRange": "475,000 - 2,200,039",
+      "averagePrice": 1158346,
+      "minimumPrice": 475000,
+      "maximumPrice": 2200039,
+      "averageStackPrice": 1158346,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Motifs",
+    "date": "10/12/2021",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battalion defender greaves",
+    "displayName": "Battalion Defender Greaves",
+    "values": {
+      "commonRange": "983 - 30,000",
+      "averagePrice": 15674,
+      "minimumPrice": 180,
+      "maximumPrice": 125000,
+      "averageStackPrice": 15674,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

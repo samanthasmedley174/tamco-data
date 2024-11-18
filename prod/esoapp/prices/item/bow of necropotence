@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of necropotence",
+    "displayName": "Bow of Necropotence",
+    "values": {
+      "commonRange": "440 - 1,000",
+      "averagePrice": 762,
+      "minimumPrice": 234,
+      "maximumPrice": 1240,
+      "averageStackPrice": 762,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

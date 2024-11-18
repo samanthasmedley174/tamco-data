@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint breton street post stone",
+    "displayName": "Blueprint: Breton Street Post, Stone",
+    "values": {
+      "commonRange": "57 - 630",
+      "averagePrice": 256,
+      "minimumPrice": 22,
+      "maximumPrice": 977,
+      "averageStackPrice": 256,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

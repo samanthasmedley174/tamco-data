@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arm cops of the night mother",
+    "displayName": "Arm Cops of the Night Mother",
+    "values": {
+      "commonRange": "5,153 - 5,153",
+      "averagePrice": 5153,
+      "minimumPrice": 5153,
+      "maximumPrice": 5153,
+      "averageStackPrice": 5153,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

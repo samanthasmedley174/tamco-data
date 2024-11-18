@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 121 clan dreamcarver chests",
+    "displayName": "Crafting Motif 121: Clan Dreamcarver Chests",
+    "values": {
+      "commonRange": "9,976 - 50,000",
+      "averagePrice": 23546,
+      "minimumPrice": 5000,
+      "maximumPrice": 109000,
+      "averageStackPrice": 23546,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

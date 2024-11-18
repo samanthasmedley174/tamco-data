@@ -1,0 +1,18 @@
+[
+  {
+    "name": "big eared ginger kittens feather toy",
+    "displayName": "Big-Eared Ginger Kitten's Feather Toy",
+    "values": {
+      "commonRange": "4,000 - 10,039",
+      "averagePrice": 7573,
+      "minimumPrice": 3000,
+      "maximumPrice": 19939,
+      "averageStackPrice": 7573,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Fragments",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

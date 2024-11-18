@@ -1,0 +1,18 @@
+[
+  {
+    "name": "aelifs shadowband",
+    "displayName": "Aelif's Shadowband",
+    "values": {
+      "commonRange": "150 - 269",
+      "averagePrice": 259,
+      "minimumPrice": 108,
+      "maximumPrice": 500,
+      "averageStackPrice": 259,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

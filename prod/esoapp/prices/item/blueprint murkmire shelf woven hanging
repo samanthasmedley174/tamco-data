@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint murkmire shelf woven hanging",
+    "displayName": "Blueprint: Murkmire Shelf, Woven Hanging",
+    "values": {
+      "commonRange": "27,000 - 34,277",
+      "averagePrice": 31164,
+      "minimumPrice": 25000,
+      "maximumPrice": 35000,
+      "averageStackPrice": 31164,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

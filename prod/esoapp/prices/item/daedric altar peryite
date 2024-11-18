@@ -1,0 +1,18 @@
+[
+  {
+    "name": "daedric altar peryite",
+    "displayName": "Daedric Altar, Peryite",
+    "values": {
+      "commonRange": "30,000 - 45,749",
+      "averagePrice": 40382,
+      "minimumPrice": 10000,
+      "maximumPrice": 49422,
+      "averageStackPrice": 40382,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

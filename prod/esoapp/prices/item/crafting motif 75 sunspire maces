@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 75 sunspire maces",
+    "displayName": "Crafting Motif 75: Sunspire Maces",
+    "values": {
+      "commonRange": "4,486 - 6,486",
+      "averagePrice": 5719,
+      "minimumPrice": 3000,
+      "maximumPrice": 6486,
+      "averageStackPrice": 5719,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

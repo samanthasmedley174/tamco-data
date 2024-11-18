@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 118 house mornard helmets",
+    "displayName": "Crafting Motif 118: House Mornard Helmets",
+    "values": {
+      "commonRange": "9,000 - 12,500",
+      "averagePrice": 10174,
+      "minimumPrice": 6500,
+      "maximumPrice": 15000,
+      "averageStackPrice": 10174,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

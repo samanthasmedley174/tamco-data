@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 66 silver dawn helmets",
+    "displayName": "Crafting Motif 66: Silver Dawn Helmets",
+    "values": {
+      "commonRange": "15,000 - 50,000",
+      "averagePrice": 34747,
+      "minimumPrice": 15000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 34747,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint alinor divider noble",
+    "displayName": "Blueprint: Alinor Divider, Noble",
+    "values": {
+      "commonRange": "29,000 - 34,000",
+      "averagePrice": 31487,
+      "minimumPrice": 28000,
+      "maximumPrice": 39500,
+      "averageStackPrice": 31487,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

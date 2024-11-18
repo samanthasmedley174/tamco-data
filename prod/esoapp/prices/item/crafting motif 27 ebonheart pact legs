@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 27 ebonheart pact legs",
+    "displayName": "Crafting Motif 27: Ebonheart Pact Legs",
+    "values": {
+      "commonRange": "2,500 - 6,263",
+      "averagePrice": 4549,
+      "minimumPrice": 2000,
+      "maximumPrice": 8500,
+      "averageStackPrice": 4549,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

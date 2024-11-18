@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 36 dark brotherhood style",
+    "displayName": "Crafting Motif 36: Dark Brotherhood Style",
+    "values": {
+      "commonRange": "1,200,045 - 1,200,045",
+      "averagePrice": 1150015,
+      "minimumPrice": 1000000,
+      "maximumPrice": 1250000,
+      "averageStackPrice": 1150015,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Motifs",
+    "date": "05/03/2022",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

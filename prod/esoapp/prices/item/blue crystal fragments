@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blue crystal fragments",
+    "displayName": "Blue Crystal Fragments",
+    "values": {
+      "commonRange": "5,000 - 15,000",
+      "averagePrice": 11076,
+      "minimumPrice": 5000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 11076,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

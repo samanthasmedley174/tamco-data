@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr nightstand elegant wooden",
+    "displayName": "Blueprint: Elsweyr Nightstand, Elegant Wooden",
+    "values": {
+      "commonRange": "15,994 - 20,039",
+      "averagePrice": 17875,
+      "minimumPrice": 14000,
+      "maximumPrice": 20039,
+      "averageStackPrice": 17875,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

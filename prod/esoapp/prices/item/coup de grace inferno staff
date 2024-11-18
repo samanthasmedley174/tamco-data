@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coup de grace inferno staff",
+    "displayName": "Coup De Grace Inferno Staff",
+    "values": {
+      "commonRange": "555 - 9,056",
+      "averagePrice": 4117,
+      "minimumPrice": 180,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4117,
+      "commonStackSize": 1,
+      "salesRecorded": 87
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

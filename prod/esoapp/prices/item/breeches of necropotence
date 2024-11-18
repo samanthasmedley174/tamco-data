@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of necropotence",
+    "displayName": "Breeches of Necropotence",
+    "values": {
+      "commonRange": "374 - 30,000",
+      "averagePrice": 11130,
+      "minimumPrice": 180,
+      "maximumPrice": 100000,
+      "averageStackPrice": 11130,
+      "commonStackSize": 1,
+      "salesRecorded": 49
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

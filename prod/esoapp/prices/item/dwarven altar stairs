@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven altar stairs",
+    "displayName": "Dwarven Altar, Stairs",
+    "values": {
+      "commonRange": "3,000 - 28,500",
+      "averagePrice": 16880,
+      "minimumPrice": 2300,
+      "maximumPrice": 30300,
+      "averageStackPrice": 16880,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Furnishings",
+    "date": "10/11/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dark elf pot banded",
+    "displayName": "Diagram: Dark Elf Pot, Banded",
+    "values": {
+      "commonRange": "300 - 730",
+      "averagePrice": 541,
+      "minimumPrice": 200,
+      "maximumPrice": 1030,
+      "averageStackPrice": 541,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

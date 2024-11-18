@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr wall rough wooden",
+    "displayName": "Blueprint: Elsweyr Wall, Rough Wooden",
+    "values": {
+      "commonRange": "163 - 381",
+      "averagePrice": 309,
+      "minimumPrice": 100,
+      "maximumPrice": 627,
+      "averageStackPrice": 309,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

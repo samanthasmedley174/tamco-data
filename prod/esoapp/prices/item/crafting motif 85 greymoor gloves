@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 85 greymoor gloves",
+    "displayName": "Crafting Motif 85: Greymoor Gloves",
+    "values": {
+      "commonRange": "5,500 - 15,000",
+      "averagePrice": 10074,
+      "minimumPrice": 5000,
+      "maximumPrice": 17983,
+      "averageStackPrice": 10074,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

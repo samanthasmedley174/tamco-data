@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands demolishers battle axe",
+    "displayName": "Deadlands Demolisher's Battle Axe",
+    "values": {
+      "commonRange": "2,445 - 2,445",
+      "averagePrice": 2445,
+      "minimumPrice": 2445,
+      "maximumPrice": 2445,
+      "averageStackPrice": 2445,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

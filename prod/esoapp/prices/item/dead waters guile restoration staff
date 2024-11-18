@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dead waters guile restoration staff",
+    "displayName": "Dead-Water's Guile Restoration Staff",
+    "values": {
+      "commonRange": "340 - 6,508",
+      "averagePrice": 3144,
+      "minimumPrice": 234,
+      "maximumPrice": 19246,
+      "averageStackPrice": 3144,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

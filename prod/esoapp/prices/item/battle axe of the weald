@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the weald",
+    "displayName": "Battle Axe of the Weald",
+    "values": {
+      "commonRange": "446 - 2,396",
+      "averagePrice": 1939,
+      "minimumPrice": 440,
+      "maximumPrice": 22000,
+      "averageStackPrice": 1939,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

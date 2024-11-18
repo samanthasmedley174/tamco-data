@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bloodthorn breeches",
+    "displayName": "Bloodthorn Breeches",
+    "values": {
+      "commonRange": "200 - 880",
+      "averagePrice": 626,
+      "minimumPrice": 180,
+      "maximumPrice": 4183,
+      "averageStackPrice": 626,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

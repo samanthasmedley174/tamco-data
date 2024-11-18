@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 21 ancient orc daggers",
+    "displayName": "Crafting Motif 21: Ancient Orc Daggers",
+    "values": {
+      "commonRange": "17,165 - 30,000",
+      "averagePrice": 23596,
+      "minimumPrice": 3300,
+      "maximumPrice": 30000,
+      "averageStackPrice": 23596,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

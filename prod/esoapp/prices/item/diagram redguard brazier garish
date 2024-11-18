@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redguard brazier garish",
+    "displayName": "Diagram: Redguard Brazier, Garish",
+    "values": {
+      "commonRange": "29,000 - 80,000",
+      "averagePrice": 58703,
+      "minimumPrice": 25973,
+      "maximumPrice": 100502,
+      "averageStackPrice": 58703,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

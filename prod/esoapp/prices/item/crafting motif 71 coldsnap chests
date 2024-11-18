@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 71 coldsnap chests",
+    "displayName": "Crafting Motif 71: Coldsnap Chests",
+    "values": {
+      "commonRange": "150,000 - 185,000",
+      "averagePrice": 169099,
+      "minimumPrice": 130500,
+      "maximumPrice": 200000,
+      "averageStackPrice": 169099,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

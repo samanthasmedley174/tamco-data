@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 102 sul xan staves",
+    "displayName": "Crafting Motif 102: Sul-Xan Staves",
+    "values": {
+      "commonRange": "4,200 - 8,000",
+      "averagePrice": 6566,
+      "minimumPrice": 4000,
+      "maximumPrice": 17000,
+      "averageStackPrice": 6566,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

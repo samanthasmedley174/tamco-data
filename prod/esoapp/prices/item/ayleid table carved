@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid table carved",
+    "displayName": "Ayleid Table, Carved",
+    "values": {
+      "commonRange": "4,400 - 7,700",
+      "averagePrice": 6400,
+      "minimumPrice": 3000,
+      "maximumPrice": 8800,
+      "averageStackPrice": 6400,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

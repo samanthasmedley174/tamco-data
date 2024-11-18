@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions gauntlets",
+    "displayName": "Companion's Gauntlets",
+    "values": {
+      "commonRange": "215 - 350,000",
+      "averagePrice": 56019,
+      "minimumPrice": 15,
+      "maximumPrice": 600018,
+      "averageStackPrice": 56019,
+      "commonStackSize": 1,
+      "salesRecorded": 267
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton bed full",
+    "displayName": "Breton Bed, Full",
+    "values": {
+      "commonRange": "1,987 - 2,500",
+      "averagePrice": 2146,
+      "minimumPrice": 500,
+      "maximumPrice": 4050,
+      "averageStackPrice": 2146,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

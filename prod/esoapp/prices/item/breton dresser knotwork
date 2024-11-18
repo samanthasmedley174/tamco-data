@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton dresser knotwork",
+    "displayName": "Breton Dresser, Knotwork",
+    "values": {
+      "commonRange": "2,800 - 13,800",
+      "averagePrice": 8110,
+      "minimumPrice": 2800,
+      "maximumPrice": 18500,
+      "averageStackPrice": 8110,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/09/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

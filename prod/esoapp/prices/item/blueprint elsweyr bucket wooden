@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr bucket wooden",
+    "displayName": "Blueprint: Elsweyr Bucket, Wooden",
+    "values": {
+      "commonRange": "125 - 500",
+      "averagePrice": 242,
+      "minimumPrice": 100,
+      "maximumPrice": 642,
+      "averageStackPrice": 242,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

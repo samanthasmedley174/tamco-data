@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram vampiric mirror standing",
+    "displayName": "Diagram: Vampiric Mirror, Standing",
+    "values": {
+      "commonRange": "350,000 - 400,173",
+      "averagePrice": 375676,
+      "minimumPrice": 300000,
+      "maximumPrice": 400173,
+      "averageStackPrice": 375676,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

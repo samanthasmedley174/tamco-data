@@ -1,0 +1,18 @@
+[
+  {
+    "name": "adamant lurker maul",
+    "displayName": "Adamant Lurker Maul",
+    "values": {
+      "commonRange": "485 - 1,200",
+      "averagePrice": 1007,
+      "minimumPrice": 240,
+      "maximumPrice": 2240,
+      "averageStackPrice": 1007,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint necrom wardrobe elegant",
+    "displayName": "Blueprint: Necrom Wardrobe, Elegant",
+    "values": {
+      "commonRange": "4,000 - 8,000",
+      "averagePrice": 5402,
+      "minimumPrice": 30,
+      "maximumPrice": 11000,
+      "averageStackPrice": 5402,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

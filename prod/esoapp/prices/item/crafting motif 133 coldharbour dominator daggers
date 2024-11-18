@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 133 coldharbour dominator daggers",
+    "displayName": "Crafting Motif 133: Coldharbour Dominator Daggers",
+    "values": {
+      "commonRange": "80,039 - 109,985",
+      "averagePrice": 97297,
+      "minimumPrice": 70000,
+      "maximumPrice": 114080,
+      "averageStackPrice": 97297,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

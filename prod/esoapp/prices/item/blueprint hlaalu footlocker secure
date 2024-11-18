@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint hlaalu footlocker secure",
+    "displayName": "Blueprint: Hlaalu Footlocker, Secure",
+    "values": {
+      "commonRange": "24,000 - 55,457",
+      "averagePrice": 32361,
+      "minimumPrice": 22000,
+      "maximumPrice": 55956,
+      "averageStackPrice": 32361,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

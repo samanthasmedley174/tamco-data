@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design leyawiin gravy boat silver",
+    "displayName": "Design: Leyawiin Gravy Boat, Silver",
+    "values": {
+      "commonRange": "3,000 - 8,464",
+      "averagePrice": 6380,
+      "minimumPrice": 1100,
+      "maximumPrice": 16342,
+      "averageStackPrice": 6380,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

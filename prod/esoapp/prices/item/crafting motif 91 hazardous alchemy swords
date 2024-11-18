@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 91 hazardous alchemy swords",
+    "displayName": "Crafting Motif 91: Hazardous Alchemy Swords",
+    "values": {
+      "commonRange": "8,000 - 17,868",
+      "averagePrice": 13897,
+      "minimumPrice": 5000,
+      "maximumPrice": 18010,
+      "averageStackPrice": 13897,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "brotherhood tapestry",
+    "displayName": "Brotherhood Tapestry",
+    "values": {
+      "commonRange": "10,000 - 20,000",
+      "averagePrice": 14501,
+      "minimumPrice": 9900,
+      "maximumPrice": 22000,
+      "averageStackPrice": 14501,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design redguard pot sealed",
+    "displayName": "Design: Redguard Pot, Sealed",
+    "values": {
+      "commonRange": "125 - 592",
+      "averagePrice": 363,
+      "minimumPrice": 111,
+      "maximumPrice": 1100,
+      "averageStackPrice": 363,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

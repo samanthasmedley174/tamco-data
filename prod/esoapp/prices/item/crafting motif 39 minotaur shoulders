@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 39 minotaur shoulders",
+    "displayName": "Crafting Motif 39: Minotaur Shoulders",
+    "values": {
+      "commonRange": "67,420 - 82,000",
+      "averagePrice": 70555,
+      "minimumPrice": 3539,
+      "maximumPrice": 112000,
+      "averageStackPrice": 70555,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

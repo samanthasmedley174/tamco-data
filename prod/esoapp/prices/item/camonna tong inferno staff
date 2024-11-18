@@ -1,0 +1,18 @@
+[
+  {
+    "name": "camonna tong inferno staff",
+    "displayName": "Camonna Tong Inferno Staff",
+    "values": {
+      "commonRange": "200 - 3,000",
+      "averagePrice": 1494,
+      "minimumPrice": 100,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1494,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 83 pyre watch maces",
+    "displayName": "Crafting Motif 83: Pyre Watch Maces",
+    "values": {
+      "commonRange": "6,963 - 10,527",
+      "averagePrice": 9233,
+      "minimumPrice": 5963,
+      "maximumPrice": 11000,
+      "averageStackPrice": 9233,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

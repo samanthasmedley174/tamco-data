@@ -1,0 +1,18 @@
+[
+  {
+    "name": "branch forked burnt",
+    "displayName": "Branch, Forked Burnt",
+    "values": {
+      "commonRange": "21 - 116",
+      "averagePrice": 89,
+      "minimumPrice": 20,
+      "maximumPrice": 160,
+      "averageStackPrice": 89,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

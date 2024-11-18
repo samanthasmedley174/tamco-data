@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design solitude serving pot hearty stew",
+    "displayName": "Design: Solitude Serving Pot, Hearty Stew",
+    "values": {
+      "commonRange": "20,000 - 25,039",
+      "averagePrice": 21186,
+      "minimumPrice": 19000,
+      "maximumPrice": 26039,
+      "averageStackPrice": 21186,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

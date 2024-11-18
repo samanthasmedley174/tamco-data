@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 104 ancient daedric chests",
+    "displayName": "Crafting Motif 104: Ancient Daedric Chests",
+    "values": {
+      "commonRange": "50,000 - 79,000",
+      "averagePrice": 64973,
+      "minimumPrice": 45000,
+      "maximumPrice": 85840,
+      "averageStackPrice": 64973,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high elf shelf short",
+    "displayName": "Blueprint: High Elf Shelf, Short",
+    "values": {
+      "commonRange": "57 - 227",
+      "averagePrice": 140,
+      "minimumPrice": 27,
+      "maximumPrice": 250,
+      "averageStackPrice": 140,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton lamp oil",
+    "displayName": "Breton Lamp, Oil",
+    "values": {
+      "commonRange": "3,300 - 8,030",
+      "averagePrice": 5536,
+      "minimumPrice": 300,
+      "maximumPrice": 9300,
+      "averageStackPrice": 5536,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

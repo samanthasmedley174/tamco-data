@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint dark elf sofa angled",
+    "displayName": "Blueprint: Dark Elf Sofa, Angled",
+    "values": {
+      "commonRange": "11,000 - 15,185",
+      "averagePrice": 13668,
+      "minimumPrice": 10000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 13668,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

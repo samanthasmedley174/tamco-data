@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design colovian meal poultry",
+    "displayName": "Design: Colovian Meal, Poultry",
+    "values": {
+      "commonRange": "7,000 - 12,000",
+      "averagePrice": 9592,
+      "minimumPrice": 5692,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9592,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

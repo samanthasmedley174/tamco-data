@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 127 west weald legion shoulders",
+    "displayName": "Crafting Motif 127: West Weald Legion Shoulders",
+    "values": {
+      "commonRange": "11,263 - 15,000",
+      "averagePrice": 12922,
+      "minimumPrice": 9000,
+      "maximumPrice": 16151,
+      "averageStackPrice": 12922,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

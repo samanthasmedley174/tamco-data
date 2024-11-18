@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cuirass of the radiant bastion",
+    "displayName": "Cuirass of the Radiant Bastion",
+    "values": {
+      "commonRange": "180 - 10,500",
+      "averagePrice": 4344,
+      "minimumPrice": 180,
+      "maximumPrice": 12000,
+      "averageStackPrice": 4344,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

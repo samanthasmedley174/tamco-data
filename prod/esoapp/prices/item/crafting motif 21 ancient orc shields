@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 21 ancient orc shields",
+    "displayName": "Crafting Motif 21: Ancient Orc Shields",
+    "values": {
+      "commonRange": "29,999 - 70,000",
+      "averagePrice": 53263,
+      "minimumPrice": 28000,
+      "maximumPrice": 75039,
+      "averageStackPrice": 53263,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

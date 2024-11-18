@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high elf bed bunk",
+    "displayName": "Blueprint: High Elf Bed, Bunk",
+    "values": {
+      "commonRange": "100 - 300",
+      "averagePrice": 209,
+      "minimumPrice": 27,
+      "maximumPrice": 300,
+      "averageStackPrice": 209,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

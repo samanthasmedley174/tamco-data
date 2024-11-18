@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 45 mazzatun maces",
+    "displayName": "Crafting Motif 45: Mazzatun Maces",
+    "values": {
+      "commonRange": "5,000 - 20,000",
+      "averagePrice": 15789,
+      "minimumPrice": 5000,
+      "maximumPrice": 99000,
+      "averageStackPrice": 15789,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

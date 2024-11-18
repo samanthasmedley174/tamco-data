@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of necropotence",
+    "displayName": "Axe of Necropotence",
+    "values": {
+      "commonRange": "500 - 9,999",
+      "averagePrice": 3440,
+      "minimumPrice": 150,
+      "maximumPrice": 15150,
+      "averageStackPrice": 3440,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

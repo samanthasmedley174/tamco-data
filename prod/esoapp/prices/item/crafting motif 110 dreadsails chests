@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 110 dreadsails chests",
+    "displayName": "Crafting Motif 110: Dreadsails Chests",
+    "values": {
+      "commonRange": "25,000 - 100,000",
+      "averagePrice": 53526,
+      "minimumPrice": 24000,
+      "maximumPrice": 110000,
+      "averageStackPrice": 53526,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

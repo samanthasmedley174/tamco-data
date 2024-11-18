@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr table long wooden",
+    "displayName": "Blueprint: Elsweyr Table, Long Wooden",
+    "values": {
+      "commonRange": "15,861 - 18,600",
+      "averagePrice": 17631,
+      "minimumPrice": 15000,
+      "maximumPrice": 20039,
+      "averageStackPrice": 17631,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

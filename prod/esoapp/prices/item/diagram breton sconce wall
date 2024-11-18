@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram breton sconce wall",
+    "displayName": "Diagram: Breton Sconce, Wall",
+    "values": {
+      "commonRange": "20,000 - 43,039",
+      "averagePrice": 31689,
+      "minimumPrice": 14000,
+      "maximumPrice": 49990,
+      "averageStackPrice": 31689,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

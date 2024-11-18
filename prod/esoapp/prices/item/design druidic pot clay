@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design druidic pot clay",
+    "displayName": "Design: Druidic Pot, Clay",
+    "values": {
+      "commonRange": "4,000 - 7,311",
+      "averagePrice": 5579,
+      "minimumPrice": 3030,
+      "maximumPrice": 9000,
+      "averageStackPrice": 5579,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

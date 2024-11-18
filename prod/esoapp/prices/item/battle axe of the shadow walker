@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the shadow walker",
+    "displayName": "Battle Axe of The Shadow Walker",
+    "values": {
+      "commonRange": "1,246 - 5,000",
+      "averagePrice": 5213,
+      "minimumPrice": 1246,
+      "maximumPrice": 22000,
+      "averageStackPrice": 5213,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

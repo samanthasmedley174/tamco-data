@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 86 sea giant daggers",
+    "displayName": "Crafting Motif 86: Sea Giant Daggers",
+    "values": {
+      "commonRange": "4,000 - 5,025",
+      "averagePrice": 4570,
+      "minimumPrice": 2881,
+      "maximumPrice": 5025,
+      "averageStackPrice": 4570,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

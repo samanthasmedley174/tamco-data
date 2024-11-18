@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint murkmire plate charger",
+    "displayName": "Blueprint: Murkmire Plate, Charger",
+    "values": {
+      "commonRange": "3,980 - 8,327",
+      "averagePrice": 8249,
+      "minimumPrice": 3444,
+      "maximumPrice": 27356,
+      "averageStackPrice": 8249,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

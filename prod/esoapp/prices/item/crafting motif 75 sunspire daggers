@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 75 sunspire daggers",
+    "displayName": "Crafting Motif 75: Sunspire Daggers",
+    "values": {
+      "commonRange": "4,232 - 6,000",
+      "averagePrice": 5136,
+      "minimumPrice": 3912,
+      "maximumPrice": 6000,
+      "averageStackPrice": 5136,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

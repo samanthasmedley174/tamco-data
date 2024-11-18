@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude cabinet ornate wall",
+    "displayName": "Blueprint: Solitude Cabinet, Ornate Wall",
+    "values": {
+      "commonRange": "7,500 - 20,000",
+      "averagePrice": 11341,
+      "minimumPrice": 3500,
+      "maximumPrice": 20030,
+      "averageStackPrice": 11341,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

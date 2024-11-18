@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 39 minotaur daggers",
+    "displayName": "Crafting Motif 39: Minotaur Daggers",
+    "values": {
+      "commonRange": "20,000 - 50,000",
+      "averagePrice": 33328,
+      "minimumPrice": 20000,
+      "maximumPrice": 54100,
+      "averageStackPrice": 33328,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

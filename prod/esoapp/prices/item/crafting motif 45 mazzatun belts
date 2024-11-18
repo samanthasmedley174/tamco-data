@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 45 mazzatun belts",
+    "displayName": "Crafting Motif 45: Mazzatun Belts",
+    "values": {
+      "commonRange": "7,000 - 20,000",
+      "averagePrice": 15231,
+      "minimumPrice": 5000,
+      "maximumPrice": 23131,
+      "averageStackPrice": 15231,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

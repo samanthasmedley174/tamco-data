@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 96 arkthzand armory daggers",
+    "displayName": "Crafting Motif 96: Arkthzand Armory Daggers",
+    "values": {
+      "commonRange": "5,939 - 11,000",
+      "averagePrice": 8361,
+      "minimumPrice": 2000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 8361,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

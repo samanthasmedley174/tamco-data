@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram indoril cannister trinket",
+    "displayName": "Diagram: Indoril Cannister, Trinket",
+    "values": {
+      "commonRange": "20,039 - 33,239",
+      "averagePrice": 28707,
+      "minimumPrice": 20000,
+      "maximumPrice": 44000,
+      "averageStackPrice": 28707,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

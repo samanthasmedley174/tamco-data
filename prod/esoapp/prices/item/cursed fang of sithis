@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cursed fang of sithis",
+    "displayName": "Cursed Fang of Sithis",
+    "values": {
+      "commonRange": "3,225 - 5,000",
+      "averagePrice": 4379,
+      "minimumPrice": 1141,
+      "maximumPrice": 8151,
+      "averageStackPrice": 4379,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

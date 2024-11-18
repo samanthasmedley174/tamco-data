@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin divider octopus",
+    "displayName": "Blueprint: Leyawiin Divider, Octopus",
+    "values": {
+      "commonRange": "31,994 - 35,000",
+      "averagePrice": 33353,
+      "minimumPrice": 30000,
+      "maximumPrice": 35000,
+      "averageStackPrice": 33353,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

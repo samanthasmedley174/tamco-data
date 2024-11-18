@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alchemy station",
+    "displayName": "Alchemy Station",
+    "values": {
+      "commonRange": "24,000 - 31,137",
+      "averagePrice": 28714,
+      "minimumPrice": 20000,
+      "maximumPrice": 31137,
+      "averageStackPrice": 28714,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Furnishings",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

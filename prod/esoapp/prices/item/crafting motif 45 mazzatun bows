@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 45 mazzatun bows",
+    "displayName": "Crafting Motif 45: Mazzatun Bows",
+    "values": {
+      "commonRange": "8,000 - 12,039",
+      "averagePrice": 10409,
+      "minimumPrice": 6500,
+      "maximumPrice": 22000,
+      "averageStackPrice": 10409,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

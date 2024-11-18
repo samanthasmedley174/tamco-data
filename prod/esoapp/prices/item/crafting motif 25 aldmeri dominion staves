@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 25 aldmeri dominion staves",
+    "displayName": "Crafting Motif 25: Aldmeri Dominion Staves",
+    "values": {
+      "commonRange": "2,000 - 6,039",
+      "averagePrice": 3870,
+      "minimumPrice": 1000,
+      "maximumPrice": 7039,
+      "averageStackPrice": 3870,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

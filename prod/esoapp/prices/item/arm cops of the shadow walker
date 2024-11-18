@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arm cops of the shadow walker",
+    "displayName": "Arm Cops of The Shadow Walker",
+    "values": {
+      "commonRange": "753 - 3,150",
+      "averagePrice": 1950,
+      "minimumPrice": 299,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1950,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

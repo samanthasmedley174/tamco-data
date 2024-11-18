@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of the powerful assault",
+    "displayName": "Bow of the Powerful Assault",
+    "values": {
+      "commonRange": "4,000 - 14,000",
+      "averagePrice": 11590,
+      "minimumPrice": 3297,
+      "maximumPrice": 299995,
+      "averageStackPrice": 11590,
+      "commonStackSize": 1,
+      "salesRecorded": 71
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

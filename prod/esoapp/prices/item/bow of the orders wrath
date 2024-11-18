@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of the orders wrath",
+    "displayName": "Bow of the Order's Wrath",
+    "values": {
+      "commonRange": "12,000 - 77,952",
+      "averagePrice": 41580,
+      "minimumPrice": 8246,
+      "maximumPrice": 78900,
+      "averageStackPrice": 41580,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

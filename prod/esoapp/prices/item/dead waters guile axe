@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dead waters guile axe",
+    "displayName": "Dead-Water's Guile Axe",
+    "values": {
+      "commonRange": "3,400 - 4,400",
+      "averagePrice": 3900,
+      "minimumPrice": 3400,
+      "maximumPrice": 4400,
+      "averageStackPrice": 3900,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

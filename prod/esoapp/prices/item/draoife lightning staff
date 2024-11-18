@@ -1,0 +1,18 @@
+[
+  {
+    "name": "draoife lightning staff",
+    "displayName": "Draoife Lightning Staff",
+    "values": {
+      "commonRange": "2,000 - 3,240",
+      "averagePrice": 2382,
+      "minimumPrice": 1049,
+      "maximumPrice": 3240,
+      "averageStackPrice": 2382,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

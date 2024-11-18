@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 112 syrabanic marine chests",
+    "displayName": "Crafting Motif 112: Syrabanic Marine Chests",
+    "values": {
+      "commonRange": "7,500 - 15,000",
+      "averagePrice": 10607,
+      "minimumPrice": 7000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10607,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Motifs",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

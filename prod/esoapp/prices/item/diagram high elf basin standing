@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram high elf basin standing",
+    "displayName": "Diagram: High Elf Basin, Standing",
+    "values": {
+      "commonRange": "13,000 - 19,000",
+      "averagePrice": 13797,
+      "minimumPrice": 4939,
+      "maximumPrice": 20000,
+      "averageStackPrice": 13797,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

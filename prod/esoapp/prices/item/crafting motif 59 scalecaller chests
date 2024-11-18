@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 59 scalecaller chests",
+    "displayName": "Crafting Motif 59: Scalecaller Chests",
+    "values": {
+      "commonRange": "12,794 - 50,000",
+      "averagePrice": 25203,
+      "minimumPrice": 12794,
+      "maximumPrice": 60000,
+      "averageStackPrice": 25203,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

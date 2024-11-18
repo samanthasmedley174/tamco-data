@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design breton pottery lid",
+    "displayName": "Design: Breton Pottery, Lid",
+    "values": {
+      "commonRange": "430 - 1,443",
+      "averagePrice": 919,
+      "minimumPrice": 308,
+      "maximumPrice": 2902,
+      "averageStackPrice": 919,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

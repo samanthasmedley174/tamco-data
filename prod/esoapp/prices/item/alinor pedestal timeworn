@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor pedestal timeworn",
+    "displayName": "Alinor Pedestal, Timeworn",
+    "values": {
+      "commonRange": "900 - 2,788",
+      "averagePrice": 1710,
+      "minimumPrice": 250,
+      "maximumPrice": 3500,
+      "averageStackPrice": 1710,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

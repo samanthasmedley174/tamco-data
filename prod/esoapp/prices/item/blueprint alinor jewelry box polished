@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint alinor jewelry box polished",
+    "displayName": "Blueprint: Alinor Jewelry Box, Polished",
+    "values": {
+      "commonRange": "6,000 - 9,000",
+      "averagePrice": 7540,
+      "minimumPrice": 4000,
+      "maximumPrice": 9105,
+      "averageStackPrice": 7540,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafty alfiqs epaulets",
+    "displayName": "Crafty Alfiq's Epaulets",
+    "values": {
+      "commonRange": "300 - 5,000",
+      "averagePrice": 2022,
+      "minimumPrice": 144,
+      "maximumPrice": 12990,
+      "averageStackPrice": 2022,
+      "commonStackSize": 1,
+      "salesRecorded": 58
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

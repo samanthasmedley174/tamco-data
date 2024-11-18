@@ -1,0 +1,18 @@
+[
+  {
+    "name": "banner boethiah standard",
+    "displayName": "Banner, Boethiah Standard",
+    "values": {
+      "commonRange": "8,800 - 16,719",
+      "averagePrice": 11819,
+      "minimumPrice": 7000,
+      "maximumPrice": 18500,
+      "averageStackPrice": 11819,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/12/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

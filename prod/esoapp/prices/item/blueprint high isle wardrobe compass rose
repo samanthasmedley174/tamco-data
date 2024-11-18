@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle wardrobe compass rose",
+    "displayName": "Blueprint: High Isle Wardrobe, Compass Rose",
+    "values": {
+      "commonRange": "20,457 - 27,000",
+      "averagePrice": 23533,
+      "minimumPrice": 20000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 23533,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

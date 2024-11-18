@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 50 telvanni daggers",
+    "displayName": "Crafting Motif 50: Telvanni Daggers",
+    "values": {
+      "commonRange": "5,000 - 11,000",
+      "averagePrice": 7655,
+      "minimumPrice": 5000,
+      "maximumPrice": 11000,
+      "averageStackPrice": 7655,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

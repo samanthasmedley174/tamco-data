@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian basket closed",
+    "displayName": "Argonian Basket, Closed",
+    "values": {
+      "commonRange": "800 - 2,000",
+      "averagePrice": 1325,
+      "minimumPrice": 150,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1325,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/06/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

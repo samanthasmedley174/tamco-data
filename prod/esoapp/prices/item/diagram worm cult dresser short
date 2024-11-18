@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram worm cult dresser short",
+    "displayName": "Diagram: Worm Cult Dresser, Short",
+    "values": {
+      "commonRange": "60,000 - 100,000",
+      "averagePrice": 76660,
+      "minimumPrice": 60000,
+      "maximumPrice": 130467,
+      "averageStackPrice": 76660,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

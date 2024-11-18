@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clam shell large",
+    "displayName": "Clam Shell, Large",
+    "values": {
+      "commonRange": "4,349 - 10,150",
+      "averagePrice": 6502,
+      "minimumPrice": 3875,
+      "maximumPrice": 10150,
+      "averageStackPrice": 6502,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

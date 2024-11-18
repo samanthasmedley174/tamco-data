@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 89 ancestral high elf staves",
+    "displayName": "Crafting Motif 89: Ancestral High Elf Staves",
+    "values": {
+      "commonRange": "7,000 - 43,480",
+      "averagePrice": 16043,
+      "minimumPrice": 3900,
+      "maximumPrice": 43480,
+      "averageStackPrice": 16043,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

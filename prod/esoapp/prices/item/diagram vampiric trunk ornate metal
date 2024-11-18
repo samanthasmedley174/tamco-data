@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram vampiric trunk ornate metal",
+    "displayName": "Diagram: Vampiric Trunk, Ornate Metal",
+    "values": {
+      "commonRange": "3,014 - 4,030",
+      "averagePrice": 3572,
+      "minimumPrice": 2900,
+      "maximumPrice": 5514,
+      "averageStackPrice": 3572,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

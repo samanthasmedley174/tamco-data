@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid chandelier metal tiered",
+    "displayName": "Ayleid Chandelier, Metal Tiered",
+    "values": {
+      "commonRange": "7,300 - 22,000",
+      "averagePrice": 16398,
+      "minimumPrice": 6800,
+      "maximumPrice": 55000,
+      "averageStackPrice": 16398,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "daedric sarcophagus metal",
+    "displayName": "Daedric Sarcophagus, Metal",
+    "values": {
+      "commonRange": "40,000 - 76,500",
+      "averagePrice": 60203,
+      "minimumPrice": 30000,
+      "maximumPrice": 78708,
+      "averageStackPrice": 60203,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

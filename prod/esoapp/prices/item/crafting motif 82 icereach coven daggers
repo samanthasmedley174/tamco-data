@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 82 icereach coven daggers",
+    "displayName": "Crafting Motif 82: Icereach Coven Daggers",
+    "values": {
+      "commonRange": "15,000 - 50,000",
+      "averagePrice": 31525,
+      "minimumPrice": 5434,
+      "maximumPrice": 60000,
+      "averageStackPrice": 31525,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

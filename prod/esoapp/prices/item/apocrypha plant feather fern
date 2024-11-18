@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha plant feather fern",
+    "displayName": "Apocrypha Plant, Feather Fern",
+    "values": {
+      "commonRange": "5,000 - 6,000",
+      "averagePrice": 5209,
+      "minimumPrice": 2200,
+      "maximumPrice": 6500,
+      "averageStackPrice": 5209,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

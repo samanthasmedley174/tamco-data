@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor wardrobe polished",
+    "displayName": "Alinor Wardrobe, Polished",
+    "values": {
+      "commonRange": "8,500 - 14,267",
+      "averagePrice": 13306,
+      "minimumPrice": 6750,
+      "maximumPrice": 29300,
+      "averageStackPrice": 13306,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

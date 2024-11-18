@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 57 ebonshadow chests",
+    "displayName": "Crafting Motif 57: Ebonshadow Chests",
+    "values": {
+      "commonRange": "2,500 - 5,000",
+      "averagePrice": 3677,
+      "minimumPrice": 1000,
+      "maximumPrice": 5039,
+      "averageStackPrice": 3677,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

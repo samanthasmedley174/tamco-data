@@ -1,0 +1,18 @@
+[
+  {
+    "name": "baron soricks pauldrons",
+    "displayName": "Baron Sorick's Pauldrons",
+    "values": {
+      "commonRange": "600 - 600",
+      "averagePrice": 600,
+      "minimumPrice": 600,
+      "maximumPrice": 600,
+      "averageStackPrice": 600,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

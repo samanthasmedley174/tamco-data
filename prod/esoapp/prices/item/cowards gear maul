@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cowards gear maul",
+    "displayName": "Coward's Gear Maul",
+    "values": {
+      "commonRange": "1,391 - 2,200",
+      "averagePrice": 1835,
+      "minimumPrice": 246,
+      "maximumPrice": 3500,
+      "averageStackPrice": 1835,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

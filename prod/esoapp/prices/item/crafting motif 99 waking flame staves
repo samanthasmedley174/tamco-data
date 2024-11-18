@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 99 waking flame staves",
+    "displayName": "Crafting Motif 99: Waking Flame Staves",
+    "values": {
+      "commonRange": "8,500 - 11,209",
+      "averagePrice": 11516,
+      "minimumPrice": 8000,
+      "maximumPrice": 26648,
+      "averageStackPrice": 11516,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

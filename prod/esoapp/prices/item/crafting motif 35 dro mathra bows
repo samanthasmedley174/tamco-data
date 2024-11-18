@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 35 dro mathra bows",
+    "displayName": "Crafting Motif 35: Dro-M'Athra Bows",
+    "values": {
+      "commonRange": "10,394 - 33,000",
+      "averagePrice": 22833,
+      "minimumPrice": 2039,
+      "maximumPrice": 60000,
+      "averageStackPrice": 22833,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

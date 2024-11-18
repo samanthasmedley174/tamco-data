@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 54 bloodforge staves",
+    "displayName": "Crafting Motif 54: Bloodforge Staves",
+    "values": {
+      "commonRange": "9,000 - 19,972",
+      "averagePrice": 13535,
+      "minimumPrice": 7000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 13535,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

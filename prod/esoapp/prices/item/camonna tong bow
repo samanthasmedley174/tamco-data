@@ -1,0 +1,18 @@
+[
+  {
+    "name": "camonna tong bow",
+    "displayName": "Camonna Tong Bow",
+    "values": {
+      "commonRange": "246 - 10,593",
+      "averagePrice": 10351,
+      "minimumPrice": 235,
+      "maximumPrice": 153000,
+      "averageStackPrice": 10351,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

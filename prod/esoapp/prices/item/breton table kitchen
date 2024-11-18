@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton table kitchen",
+    "displayName": "Breton Table, Kitchen",
+    "values": {
+      "commonRange": "1,000 - 7,000",
+      "averagePrice": 3698,
+      "minimumPrice": 1000,
+      "maximumPrice": 7000,
+      "averageStackPrice": 3698,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

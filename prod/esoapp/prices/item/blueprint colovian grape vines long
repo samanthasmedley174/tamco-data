@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian grape vines long",
+    "displayName": "Blueprint: Colovian Grape Vines, Long",
+    "values": {
+      "commonRange": "5,030 - 20,400",
+      "averagePrice": 13111,
+      "minimumPrice": 250,
+      "maximumPrice": 24000,
+      "averageStackPrice": 13111,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

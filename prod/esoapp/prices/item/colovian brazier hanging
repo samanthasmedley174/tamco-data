@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian brazier hanging",
+    "displayName": "Colovian Brazier, Hanging",
+    "values": {
+      "commonRange": "750 - 1,062",
+      "averagePrice": 868,
+      "minimumPrice": 750,
+      "maximumPrice": 1092,
+      "averageStackPrice": 5208,
+      "commonStackSize": 6,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

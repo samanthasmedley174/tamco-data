@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design dawnwood meal delicacy",
+    "displayName": "Design: Dawnwood Meal, Delicacy",
+    "values": {
+      "commonRange": "2,843 - 16,800",
+      "averagePrice": 11031,
+      "minimumPrice": 327,
+      "maximumPrice": 20027,
+      "averageStackPrice": 11031,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

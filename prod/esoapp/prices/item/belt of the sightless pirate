@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of the sightless pirate",
+    "displayName": "Belt of the Sightless Pirate",
+    "values": {
+      "commonRange": "2,384 - 2,384",
+      "averagePrice": 2384,
+      "minimumPrice": 2384,
+      "maximumPrice": 2384,
+      "averageStackPrice": 2384,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

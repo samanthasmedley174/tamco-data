@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard couch bolted",
+    "displayName": "Blueprint: Redguard Couch, Bolted",
+    "values": {
+      "commonRange": "138 - 299",
+      "averagePrice": 224,
+      "minimumPrice": 90,
+      "maximumPrice": 357,
+      "averageStackPrice": 224,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

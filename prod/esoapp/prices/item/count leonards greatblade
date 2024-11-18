@@ -1,0 +1,18 @@
+[
+  {
+    "name": "count leonards greatblade",
+    "displayName": "Count Leonard's Greatblade",
+    "values": {
+      "commonRange": "697 - 1,000",
+      "averagePrice": 1057,
+      "minimumPrice": 240,
+      "maximumPrice": 2500,
+      "averageStackPrice": 1057,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design tide born art flame lily",
+    "displayName": "Design: Tide-Born Art, Flame Lily",
+    "values": {
+      "commonRange": "100,000 - 200,000",
+      "averagePrice": 153728,
+      "minimumPrice": 39,
+      "maximumPrice": 200477,
+      "averageStackPrice": 153728,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

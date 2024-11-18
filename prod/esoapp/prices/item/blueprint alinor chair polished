@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint alinor chair polished",
+    "displayName": "Blueprint: Alinor Chair, Polished",
+    "values": {
+      "commonRange": "6,500 - 8,605",
+      "averagePrice": 7569,
+      "minimumPrice": 3425,
+      "maximumPrice": 8605,
+      "averageStackPrice": 7569,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

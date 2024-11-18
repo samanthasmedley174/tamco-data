@@ -1,0 +1,18 @@
+[
+  {
+    "name": "affix script enervation",
+    "displayName": "Affix Script: Enervation",
+    "values": {
+      "commonRange": "30,000 - 80,000",
+      "averagePrice": 51923,
+      "minimumPrice": 25000,
+      "maximumPrice": 120000,
+      "averageStackPrice": 51923,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Scripts",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Affix_Script:_Enervation.png"
+  }
+]

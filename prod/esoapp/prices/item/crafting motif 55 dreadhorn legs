@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 55 dreadhorn legs",
+    "displayName": "Crafting Motif 55: Dreadhorn Legs",
+    "values": {
+      "commonRange": "5,000 - 8,900",
+      "averagePrice": 7316,
+      "minimumPrice": 3260,
+      "maximumPrice": 10039,
+      "averageStackPrice": 7316,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

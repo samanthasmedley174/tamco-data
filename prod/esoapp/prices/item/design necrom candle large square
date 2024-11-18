@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design necrom candle large square",
+    "displayName": "Design: Necrom Candle, Large Square",
+    "values": {
+      "commonRange": "750 - 1,045",
+      "averagePrice": 932,
+      "minimumPrice": 639,
+      "maximumPrice": 1100,
+      "averageStackPrice": 932,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 72 meridian legs",
+    "displayName": "Crafting Motif 72: Meridian Legs",
+    "values": {
+      "commonRange": "11,039 - 18,000",
+      "averagePrice": 15996,
+      "minimumPrice": 11000,
+      "maximumPrice": 18000,
+      "averageStackPrice": 15996,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

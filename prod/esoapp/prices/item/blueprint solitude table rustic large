@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude table rustic large",
+    "displayName": "Blueprint: Solitude Table, Rustic Large",
+    "values": {
+      "commonRange": "4,000 - 6,412",
+      "averagePrice": 5212,
+      "minimumPrice": 1050,
+      "maximumPrice": 7500,
+      "averageStackPrice": 5212,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 126 shardborn belts",
+    "displayName": "Crafting Motif 126: Shardborn Belts",
+    "values": {
+      "commonRange": "4,039 - 30,000",
+      "averagePrice": 8119,
+      "minimumPrice": 3000,
+      "maximumPrice": 40039,
+      "averageStackPrice": 8119,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

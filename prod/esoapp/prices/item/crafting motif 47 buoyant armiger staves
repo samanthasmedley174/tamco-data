@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 47 buoyant armiger staves",
+    "displayName": "Crafting Motif 47: Buoyant Armiger Staves",
+    "values": {
+      "commonRange": "40,000 - 100,000",
+      "averagePrice": 80706,
+      "minimumPrice": 20000,
+      "maximumPrice": 158000,
+      "averageStackPrice": 80706,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 135 black soul gem shields",
+    "displayName": "Crafting Motif 135: Black Soul Gem Shields",
+    "values": {
+      "commonRange": "60,000 - 79,164",
+      "averagePrice": 70000,
+      "minimumPrice": 50000,
+      "maximumPrice": 85668,
+      "averageStackPrice": 70000,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

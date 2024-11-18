@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 51 hlaalu daggers",
+    "displayName": "Crafting Motif 51: Hlaalu Daggers",
+    "values": {
+      "commonRange": "4,000 - 10,000",
+      "averagePrice": 7108,
+      "minimumPrice": 3526,
+      "maximumPrice": 10000,
+      "averageStackPrice": 7108,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

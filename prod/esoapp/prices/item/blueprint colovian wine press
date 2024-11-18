@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian wine press",
+    "displayName": "Blueprint: Colovian Wine Press",
+    "values": {
+      "commonRange": "37,500 - 64,566",
+      "averagePrice": 51413,
+      "minimumPrice": 35000,
+      "maximumPrice": 64566,
+      "averageStackPrice": 51413,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

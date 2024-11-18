@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin wagon covered",
+    "displayName": "Blueprint: Leyawiin Wagon, Covered",
+    "values": {
+      "commonRange": "22,710 - 27,000",
+      "averagePrice": 25884,
+      "minimumPrice": 21000,
+      "maximumPrice": 32906,
+      "averageStackPrice": 25884,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

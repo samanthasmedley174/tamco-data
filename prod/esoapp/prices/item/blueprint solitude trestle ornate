@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude trestle ornate",
+    "displayName": "Blueprint: Solitude Trestle, Ornate",
+    "values": {
+      "commonRange": "5,000 - 8,000",
+      "averagePrice": 6934,
+      "minimumPrice": 4500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6934,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

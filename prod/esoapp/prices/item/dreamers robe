@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dreamers robe",
+    "displayName": "Dreamer's Robe",
+    "values": {
+      "commonRange": "180 - 583",
+      "averagePrice": 284,
+      "minimumPrice": 174,
+      "maximumPrice": 980,
+      "averageStackPrice": 284,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

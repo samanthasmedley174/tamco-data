@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin table sturdy grand",
+    "displayName": "Blueprint: Leyawiin Table, Sturdy Grand",
+    "values": {
+      "commonRange": "5,900 - 15,000",
+      "averagePrice": 9708,
+      "minimumPrice": 4030,
+      "maximumPrice": 16308,
+      "averageStackPrice": 9708,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

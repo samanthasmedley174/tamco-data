@@ -1,0 +1,18 @@
+[
+  {
+    "name": "damage health poison i",
+    "displayName": "Damage Health Poison I",
+    "values": {
+      "commonRange": "12 - 15",
+      "averagePrice": 15,
+      "minimumPrice": 12,
+      "maximumPrice": 15,
+      "averageStackPrice": 15000,
+      "commonStackSize": 1000,
+      "salesRecorded": 18
+    },
+    "type": "Potions & Poisons",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

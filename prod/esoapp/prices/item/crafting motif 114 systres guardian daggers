@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 114 systres guardian daggers",
+    "displayName": "Crafting Motif 114: Systres Guardian Daggers",
+    "values": {
+      "commonRange": "7,000 - 11,700",
+      "averagePrice": 9127,
+      "minimumPrice": 5000,
+      "maximumPrice": 11703,
+      "averageStackPrice": 9127,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

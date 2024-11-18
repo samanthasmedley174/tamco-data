@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor bed levitating",
+    "displayName": "Alinor Bed, Levitating",
+    "values": {
+      "commonRange": "14,868 - 25,000",
+      "averagePrice": 20715,
+      "minimumPrice": 10575,
+      "maximumPrice": 39675,
+      "averageStackPrice": 20715,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

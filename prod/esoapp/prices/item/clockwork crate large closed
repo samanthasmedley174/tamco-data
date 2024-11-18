@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork crate large closed",
+    "displayName": "Clockwork Crate, Large Closed",
+    "values": {
+      "commonRange": "500 - 4,000",
+      "averagePrice": 2134,
+      "minimumPrice": 100,
+      "maximumPrice": 4060,
+      "averageStackPrice": 2134,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/13/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

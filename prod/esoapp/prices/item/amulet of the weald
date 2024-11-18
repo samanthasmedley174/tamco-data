@@ -1,0 +1,18 @@
+[
+  {
+    "name": "amulet of the weald",
+    "displayName": "Amulet of the Weald",
+    "values": {
+      "commonRange": "685 - 2,051",
+      "averagePrice": 1217,
+      "minimumPrice": 500,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1217,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

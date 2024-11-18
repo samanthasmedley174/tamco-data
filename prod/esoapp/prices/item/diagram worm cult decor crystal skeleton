@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram worm cult decor crystal skeleton",
+    "displayName": "Diagram: Worm Cult Decor, Crystal Skeleton",
+    "values": {
+      "commonRange": "1,000,000 - 1,150,000",
+      "averagePrice": 1061111,
+      "minimumPrice": 950000,
+      "maximumPrice": 1200000,
+      "averageStackPrice": 1061111,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

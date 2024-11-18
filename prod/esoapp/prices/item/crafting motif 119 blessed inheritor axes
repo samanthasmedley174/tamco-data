@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 119 blessed inheritor axes",
+    "displayName": "Crafting Motif 119: Blessed Inheritor Axes",
+    "values": {
+      "commonRange": "22,223 - 35,263",
+      "averagePrice": 28938,
+      "minimumPrice": 22000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 28938,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

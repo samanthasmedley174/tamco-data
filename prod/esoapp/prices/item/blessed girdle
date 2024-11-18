@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blessed girdle",
+    "displayName": "Blessed Girdle",
+    "values": {
+      "commonRange": "272 - 999",
+      "averagePrice": 834,
+      "minimumPrice": 200,
+      "maximumPrice": 4090,
+      "averageStackPrice": 834,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

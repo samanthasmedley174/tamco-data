@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands window sulfurglass",
+    "displayName": "Deadlands Window, Sulfurglass",
+    "values": {
+      "commonRange": "27,500 - 39,904",
+      "averagePrice": 32453,
+      "minimumPrice": 20000,
+      "maximumPrice": 41867,
+      "averageStackPrice": 32453,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 119 blessed inheritor chests",
+    "displayName": "Crafting Motif 119: Blessed Inheritor Chests",
+    "values": {
+      "commonRange": "53,966 - 75,000",
+      "averagePrice": 63267,
+      "minimumPrice": 11039,
+      "maximumPrice": 110000,
+      "averageStackPrice": 63267,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

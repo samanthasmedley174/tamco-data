@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 55 dreadhorn helmets",
+    "displayName": "Crafting Motif 55: Dreadhorn Helmets",
+    "values": {
+      "commonRange": "4,539 - 5,990",
+      "averagePrice": 5383,
+      "minimumPrice": 4000,
+      "maximumPrice": 5995,
+      "averageStackPrice": 5383,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

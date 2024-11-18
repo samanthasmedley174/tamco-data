@@ -1,0 +1,18 @@
+[
+  {
+    "name": "brotherhood stained glass window",
+    "displayName": "Brotherhood Stained Glass Window",
+    "values": {
+      "commonRange": "96,000 - 150,000",
+      "averagePrice": 111085,
+      "minimumPrice": 96000,
+      "maximumPrice": 150000,
+      "averageStackPrice": 111085,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

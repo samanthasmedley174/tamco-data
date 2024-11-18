@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 74 pellitine helmets",
+    "displayName": "Crafting Motif 74: Pellitine Helmets",
+    "values": {
+      "commonRange": "5,000 - 15,000",
+      "averagePrice": 9780,
+      "minimumPrice": 5000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9780,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

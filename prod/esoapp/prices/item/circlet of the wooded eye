@@ -1,0 +1,18 @@
+[
+  {
+    "name": "circlet of the wooded eye",
+    "displayName": "Circlet of the Wooded Eye",
+    "values": {
+      "commonRange": "141 - 1,141",
+      "averagePrice": 641,
+      "minimumPrice": 141,
+      "maximumPrice": 1141,
+      "averageStackPrice": 641,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

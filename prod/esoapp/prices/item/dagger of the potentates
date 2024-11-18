@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of the potentates",
+    "displayName": "Dagger of the Potentates",
+    "values": {
+      "commonRange": "844 - 25,000",
+      "averagePrice": 11472,
+      "minimumPrice": 153,
+      "maximumPrice": 79950,
+      "averageStackPrice": 11472,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

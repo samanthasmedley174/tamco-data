@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven engine turbine",
+    "displayName": "Dwarven Engine, Turbine",
+    "values": {
+      "commonRange": "11,500 - 28,000",
+      "averagePrice": 22875,
+      "minimumPrice": 10000,
+      "maximumPrice": 55000,
+      "averageStackPrice": 22875,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "08/30/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design elsweyr sconce candle engraved",
+    "displayName": "Design: Elsweyr Sconce, Candle Engraved",
+    "values": {
+      "commonRange": "2,950 - 3,280",
+      "averagePrice": 2963,
+      "minimumPrice": 1000,
+      "maximumPrice": 3280,
+      "averageStackPrice": 2963,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

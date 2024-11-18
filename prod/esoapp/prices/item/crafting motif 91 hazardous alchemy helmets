@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 91 hazardous alchemy helmets",
+    "displayName": "Crafting Motif 91: Hazardous Alchemy Helmets",
+    "values": {
+      "commonRange": "20,000 - 26,301",
+      "averagePrice": 23074,
+      "minimumPrice": 19899,
+      "maximumPrice": 29500,
+      "averageStackPrice": 23074,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

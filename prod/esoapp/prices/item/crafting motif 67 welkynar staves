@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 67 welkynar staves",
+    "displayName": "Crafting Motif 67: Welkynar Staves",
+    "values": {
+      "commonRange": "5,366 - 15,776",
+      "averagePrice": 9241,
+      "minimumPrice": 5000,
+      "maximumPrice": 17366,
+      "averageStackPrice": 9241,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

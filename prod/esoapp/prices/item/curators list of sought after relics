@@ -1,0 +1,18 @@
+[
+  {
+    "name": "curators list of sought after relics",
+    "displayName": "Curator's List of Sought-After Relics",
+    "values": {
+      "commonRange": "100 - 2,500",
+      "averagePrice": 922,
+      "minimumPrice": 60,
+      "maximumPrice": 3000,
+      "averageStackPrice": 922,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Miscellaneous",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Miscellaneous/Curator's_List_of_Sought-after_Relics.png"
+  }
+]

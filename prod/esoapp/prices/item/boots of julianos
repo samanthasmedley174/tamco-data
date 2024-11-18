@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boots of julianos",
+    "displayName": "Boots of Julianos",
+    "values": {
+      "commonRange": "899 - 1,000",
+      "averagePrice": 950,
+      "minimumPrice": 899,
+      "maximumPrice": 1000,
+      "averageStackPrice": 950,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

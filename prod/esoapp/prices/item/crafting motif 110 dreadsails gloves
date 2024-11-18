@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 110 dreadsails gloves",
+    "displayName": "Crafting Motif 110: Dreadsails Gloves",
+    "values": {
+      "commonRange": "11,831 - 35,000",
+      "averagePrice": 20507,
+      "minimumPrice": 8831,
+      "maximumPrice": 40000,
+      "averageStackPrice": 20507,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

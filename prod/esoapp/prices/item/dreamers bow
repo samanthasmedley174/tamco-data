@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dreamers bow",
+    "displayName": "Dreamer's Bow",
+    "values": {
+      "commonRange": "240 - 799",
+      "averagePrice": 522,
+      "minimumPrice": 234,
+      "maximumPrice": 2000,
+      "averageStackPrice": 522,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bangkorai treasure map v",
+    "displayName": "Bangkorai Treasure Map V",
+    "values": {
+      "commonRange": "99 - 223",
+      "averagePrice": 132,
+      "minimumPrice": 99,
+      "maximumPrice": 250,
+      "averageStackPrice": 132,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

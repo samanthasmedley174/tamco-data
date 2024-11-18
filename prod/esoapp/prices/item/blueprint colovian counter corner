@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian counter corner",
+    "displayName": "Blueprint: Colovian Counter, Corner",
+    "values": {
+      "commonRange": "8,000 - 15,000",
+      "averagePrice": 10092,
+      "minimumPrice": 1030,
+      "maximumPrice": 22000,
+      "averageStackPrice": 10092,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

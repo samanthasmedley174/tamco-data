@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian dried leaves",
+    "displayName": "Argonian Dried Leaves",
+    "values": {
+      "commonRange": "310 - 1,000",
+      "averagePrice": 746,
+      "minimumPrice": 300,
+      "maximumPrice": 2060,
+      "averageStackPrice": 746,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/04/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

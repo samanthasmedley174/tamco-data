@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha specimen jar leech",
+    "displayName": "Apocrypha Specimen Jar, Leech",
+    "values": {
+      "commonRange": "999 - 2,332",
+      "averagePrice": 1563,
+      "minimumPrice": 300,
+      "maximumPrice": 3300,
+      "averageStackPrice": 1563,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 69 dead water style",
+    "displayName": "Crafting Motif 69: Dead-Water Style",
+    "values": {
+      "commonRange": "575,000 - 815,211",
+      "averagePrice": 695106,
+      "minimumPrice": 575000,
+      "maximumPrice": 815211,
+      "averageStackPrice": 695106,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Motifs",
+    "date": "04/12/2022",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

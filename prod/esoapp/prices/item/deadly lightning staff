@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadly lightning staff",
+    "displayName": "Deadly Lightning Staff",
+    "values": {
+      "commonRange": "5,000 - 76,556",
+      "averagePrice": 24318,
+      "minimumPrice": 934,
+      "maximumPrice": 299995,
+      "averageStackPrice": 24318,
+      "commonStackSize": 1,
+      "salesRecorded": 121
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

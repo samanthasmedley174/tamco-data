@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 92 ancestral akaviri staves",
+    "displayName": "Crafting Motif 92: Ancestral Akaviri Staves",
+    "values": {
+      "commonRange": "28,000 - 31,423",
+      "averagePrice": 30274,
+      "minimumPrice": 26000,
+      "maximumPrice": 32000,
+      "averageStackPrice": 30274,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

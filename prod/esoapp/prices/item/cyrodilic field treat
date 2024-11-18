@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cyrodilic field treat",
+    "displayName": "Cyrodilic Field Treat",
+    "values": {
+      "commonRange": "100 - 172",
+      "averagePrice": 150,
+      "minimumPrice": 55,
+      "maximumPrice": 500,
+      "averageStackPrice": 150,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Food & Drinks",
+    "date": "05/02/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/cyrodilic_field_treat.png"
+  }
+]

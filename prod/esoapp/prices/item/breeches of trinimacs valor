@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of trinimacs valor",
+    "displayName": "Breeches of Trinimac's Valor",
+    "values": {
+      "commonRange": "180 - 1,702",
+      "averagePrice": 1062,
+      "minimumPrice": 174,
+      "maximumPrice": 3983,
+      "averageStackPrice": 1062,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

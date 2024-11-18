@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deteri",
+    "displayName": "Deteri",
+    "values": {
+      "commonRange": "5 - 25",
+      "averagePrice": 19,
+      "minimumPrice": 3,
+      "maximumPrice": 28,
+      "averageStackPrice": 3800,
+      "commonStackSize": 200,
+      "salesRecorded": 10
+    },
+    "type": "Enchanting Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Deteri.png"
+  }
+]

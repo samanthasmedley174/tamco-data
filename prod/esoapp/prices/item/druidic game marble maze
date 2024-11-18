@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic game marble maze",
+    "displayName": "Druidic Game, Marble Maze",
+    "values": {
+      "commonRange": "5,500 - 11,000",
+      "averagePrice": 9145,
+      "minimumPrice": 5000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9145,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

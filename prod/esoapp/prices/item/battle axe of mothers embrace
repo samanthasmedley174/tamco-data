@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of mothers embrace",
+    "displayName": "Battle Axe of Mother's Embrace",
+    "values": {
+      "commonRange": "234 - 4,969",
+      "averagePrice": 1790,
+      "minimumPrice": 168,
+      "maximumPrice": 12946,
+      "averageStackPrice": 1790,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

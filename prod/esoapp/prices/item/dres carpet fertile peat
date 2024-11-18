@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dres carpet fertile peat",
+    "displayName": "Dres Carpet, Fertile Peat",
+    "values": {
+      "commonRange": "1,150 - 6,150",
+      "averagePrice": 4640,
+      "minimumPrice": 1150,
+      "maximumPrice": 9150,
+      "averageStackPrice": 4640,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

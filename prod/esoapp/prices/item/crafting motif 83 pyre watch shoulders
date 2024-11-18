@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 83 pyre watch shoulders",
+    "displayName": "Crafting Motif 83: Pyre Watch Shoulders",
+    "values": {
+      "commonRange": "9,000 - 14,759",
+      "averagePrice": 12750,
+      "minimumPrice": 8000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 12750,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

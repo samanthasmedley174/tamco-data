@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands post short wall",
+    "displayName": "Deadlands Post, Short Wall",
+    "values": {
+      "commonRange": "160 - 4,125",
+      "averagePrice": 1670,
+      "minimumPrice": 160,
+      "maximumPrice": 4125,
+      "averageStackPrice": 1670,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/01/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

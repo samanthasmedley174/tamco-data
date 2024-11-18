@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven ingot",
+    "displayName": "Dwarven Ingot",
+    "values": {
+      "commonRange": "11 - 30",
+      "averagePrice": 20,
+      "minimumPrice": 7,
+      "maximumPrice": 52,
+      "averageStackPrice": 4000,
+      "commonStackSize": 200,
+      "salesRecorded": 39
+    },
+    "type": "Blacksmithing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

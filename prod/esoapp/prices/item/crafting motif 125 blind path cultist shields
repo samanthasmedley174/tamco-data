@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 125 blind path cultist shields",
+    "displayName": "Crafting Motif 125: Blind Path Cultist Shields",
+    "values": {
+      "commonRange": "31,259 - 94,581",
+      "averagePrice": 52106,
+      "minimumPrice": 30892,
+      "maximumPrice": 125000,
+      "averageStackPrice": 52106,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

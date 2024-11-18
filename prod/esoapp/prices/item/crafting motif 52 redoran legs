@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 52 redoran legs",
+    "displayName": "Crafting Motif 52: Redoran Legs",
+    "values": {
+      "commonRange": "7,000 - 11,800",
+      "averagePrice": 8764,
+      "minimumPrice": 6000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 8764,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

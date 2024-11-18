@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 60 worm cult legs",
+    "displayName": "Crafting Motif 60: Worm Cult Legs",
+    "values": {
+      "commonRange": "6,000 - 19,172",
+      "averagePrice": 10289,
+      "minimumPrice": 6000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10289,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

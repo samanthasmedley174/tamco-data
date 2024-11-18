@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid refuge ring",
+    "displayName": "Ayleid Refuge Ring",
+    "values": {
+      "commonRange": "350 - 3,150",
+      "averagePrice": 2420,
+      "minimumPrice": 144,
+      "maximumPrice": 15156,
+      "averageStackPrice": 2420,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

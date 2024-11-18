@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 65 huntsman gloves",
+    "displayName": "Crafting Motif 65: Huntsman Gloves",
+    "values": {
+      "commonRange": "5,000 - 9,573",
+      "averagePrice": 7615,
+      "minimumPrice": 5000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 7615,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

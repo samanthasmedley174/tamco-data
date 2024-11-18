@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 26 daggerfall covenant maces",
+    "displayName": "Crafting Motif 26: Daggerfall Covenant Maces",
+    "values": {
+      "commonRange": "2,000 - 4,039",
+      "averagePrice": 2926,
+      "minimumPrice": 500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2926,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

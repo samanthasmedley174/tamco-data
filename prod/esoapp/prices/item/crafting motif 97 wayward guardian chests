@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 97 wayward guardian chests",
+    "displayName": "Crafting Motif 97: Wayward Guardian Chests",
+    "values": {
+      "commonRange": "25,000 - 90,000",
+      "averagePrice": 55880,
+      "minimumPrice": 20039,
+      "maximumPrice": 100000,
+      "averageStackPrice": 55880,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

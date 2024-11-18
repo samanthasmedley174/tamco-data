@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork illuminator spot",
+    "displayName": "Clockwork Illuminator, Spot",
+    "values": {
+      "commonRange": "22,000 - 26,039",
+      "averagePrice": 23322,
+      "minimumPrice": 22000,
+      "maximumPrice": 26039,
+      "averageStackPrice": 23322,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Furnishings",
+    "date": "02/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

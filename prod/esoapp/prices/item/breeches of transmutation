@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of transmutation",
+    "displayName": "Breeches of Transmutation",
+    "values": {
+      "commonRange": "2,180 - 10,000",
+      "averagePrice": 6441,
+      "minimumPrice": 550,
+      "maximumPrice": 30183,
+      "averageStackPrice": 6441,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

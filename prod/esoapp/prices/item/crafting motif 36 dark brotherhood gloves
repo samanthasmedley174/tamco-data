@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 36 dark brotherhood gloves",
+    "displayName": "Crafting Motif 36: Dark Brotherhood Gloves",
+    "values": {
+      "commonRange": "6,000 - 12,000",
+      "averagePrice": 9200,
+      "minimumPrice": 4000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 9200,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

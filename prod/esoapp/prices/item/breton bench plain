@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton bench plain",
+    "displayName": "Breton Bench, Plain",
+    "values": {
+      "commonRange": "1,000 - 1,600",
+      "averagePrice": 1298,
+      "minimumPrice": 60,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1298,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "craglorn treasure map v",
+    "displayName": "Craglorn Treasure Map V",
+    "values": {
+      "commonRange": "52 - 250",
+      "averagePrice": 140,
+      "minimumPrice": 50,
+      "maximumPrice": 252,
+      "averageStackPrice": 140,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

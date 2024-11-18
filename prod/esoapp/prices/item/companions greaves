@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions greaves",
+    "displayName": "Companion's Greaves",
+    "values": {
+      "commonRange": "130 - 412,657",
+      "averagePrice": 65725,
+      "minimumPrice": 20,
+      "maximumPrice": 900039,
+      "averageStackPrice": 65725,
+      "commonStackSize": 1,
+      "salesRecorded": 280
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

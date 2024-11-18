@@ -1,0 +1,18 @@
+[
+  {
+    "name": "draoife ring",
+    "displayName": "Draoife Ring",
+    "values": {
+      "commonRange": "150 - 1,000",
+      "averagePrice": 490,
+      "minimumPrice": 81,
+      "maximumPrice": 1369,
+      "averageStackPrice": 490,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

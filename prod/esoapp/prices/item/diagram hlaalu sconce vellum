@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram hlaalu sconce vellum",
+    "displayName": "Diagram: Hlaalu Sconce, Vellum",
+    "values": {
+      "commonRange": "70,000 - 108,889",
+      "averagePrice": 84289,
+      "minimumPrice": 60000,
+      "maximumPrice": 110000,
+      "averageStackPrice": 84289,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

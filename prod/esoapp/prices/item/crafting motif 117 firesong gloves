@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 117 firesong gloves",
+    "displayName": "Crafting Motif 117: Firesong Gloves",
+    "values": {
+      "commonRange": "5,999 - 30,000",
+      "averagePrice": 13048,
+      "minimumPrice": 5000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 13048,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 20 yokudan bows",
+    "displayName": "Crafting Motif 20: Yokudan Bows",
+    "values": {
+      "commonRange": "11,000 - 25,425",
+      "averagePrice": 19700,
+      "minimumPrice": 2800,
+      "maximumPrice": 40000,
+      "averageStackPrice": 19700,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

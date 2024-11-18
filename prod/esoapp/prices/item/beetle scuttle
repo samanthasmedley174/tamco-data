@@ -1,0 +1,18 @@
+[
+  {
+    "name": "beetle scuttle",
+    "displayName": "Beetle Scuttle",
+    "values": {
+      "commonRange": "27 - 55",
+      "averagePrice": 41,
+      "minimumPrice": 6,
+      "maximumPrice": 100,
+      "averageStackPrice": 8200,
+      "commonStackSize": 200,
+      "salesRecorded": 44
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

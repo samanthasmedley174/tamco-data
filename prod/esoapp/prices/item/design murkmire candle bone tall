@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design murkmire candle bone tall",
+    "displayName": "Design: Murkmire Candle, Bone Tall",
+    "values": {
+      "commonRange": "6,000 - 12,500",
+      "averagePrice": 9822,
+      "minimumPrice": 5500,
+      "maximumPrice": 12796,
+      "averageStackPrice": 9822,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

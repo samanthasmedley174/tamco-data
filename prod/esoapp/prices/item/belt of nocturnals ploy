@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of nocturnals ploy",
+    "displayName": "Belt of Nocturnal's Ploy",
+    "values": {
+      "commonRange": "1,190 - 3,000",
+      "averagePrice": 3269,
+      "minimumPrice": 600,
+      "maximumPrice": 16290,
+      "averageStackPrice": 3269,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha crescent",
+    "displayName": "Apocrypha Crescent",
+    "values": {
+      "commonRange": "500 - 2,677",
+      "averagePrice": 2154,
+      "minimumPrice": 500,
+      "maximumPrice": 2700,
+      "averageStackPrice": 2154,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

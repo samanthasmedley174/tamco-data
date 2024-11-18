@@ -1,0 +1,18 @@
+[
+  {
+    "name": "defilers belt",
+    "displayName": "Defiler's Belt",
+    "values": {
+      "commonRange": "87 - 9,820",
+      "averagePrice": 3139,
+      "minimumPrice": 25,
+      "maximumPrice": 49993,
+      "averageStackPrice": 3139,
+      "commonStackSize": 1,
+      "salesRecorded": 114
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

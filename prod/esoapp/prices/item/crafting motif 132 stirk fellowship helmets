@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 132 stirk fellowship helmets",
+    "displayName": "Crafting Motif 132: Stirk Fellowship Helmets",
+    "values": {
+      "commonRange": "650 - 13,423",
+      "averagePrice": 4634,
+      "minimumPrice": 139,
+      "maximumPrice": 21087,
+      "averageStackPrice": 4634,
+      "commonStackSize": 1,
+      "salesRecorded": 43
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

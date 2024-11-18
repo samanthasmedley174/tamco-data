@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 68 honor guard style",
+    "displayName": "Crafting Motif 68: Honor Guard Style",
+    "values": {
+      "commonRange": "995,000 - 995,000",
+      "averagePrice": 1008333,
+      "minimumPrice": 30000,
+      "maximumPrice": 2000000,
+      "averageStackPrice": 1008333,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Motifs",
+    "date": "08/24/2021",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

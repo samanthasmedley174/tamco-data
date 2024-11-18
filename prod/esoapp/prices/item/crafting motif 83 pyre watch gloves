@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 83 pyre watch gloves",
+    "displayName": "Crafting Motif 83: Pyre Watch Gloves",
+    "values": {
+      "commonRange": "5,500 - 10,492",
+      "averagePrice": 8328,
+      "minimumPrice": 5000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 8328,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

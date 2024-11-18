@@ -1,0 +1,18 @@
+[
+  {
+    "name": "briarheart arm cops",
+    "displayName": "Briarheart Arm Cops",
+    "values": {
+      "commonRange": "550 - 55,956",
+      "averagePrice": 11317,
+      "minimumPrice": 144,
+      "maximumPrice": 100000,
+      "averageStackPrice": 11317,
+      "commonStackSize": 1,
+      "salesRecorded": 119
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

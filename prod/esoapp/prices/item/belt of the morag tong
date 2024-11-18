@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of the morag tong",
+    "displayName": "Belt of the Morag Tong",
+    "values": {
+      "commonRange": "90 - 1,999",
+      "averagePrice": 1087,
+      "minimumPrice": 90,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1087,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

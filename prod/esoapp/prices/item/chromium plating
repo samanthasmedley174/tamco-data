@@ -1,0 +1,18 @@
+[
+  {
+    "name": "chromium plating",
+    "displayName": "Chromium Plating",
+    "values": {
+      "commonRange": "4,501 - 6,100",
+      "averagePrice": 5252,
+      "minimumPrice": 3250,
+      "maximumPrice": 11045,
+      "averageStackPrice": 42016,
+      "commonStackSize": 8,
+      "salesRecorded": 1263
+    },
+    "type": "Jewelry Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Jewelry_Materials/Chromium_Plating.png"
+  }
+]

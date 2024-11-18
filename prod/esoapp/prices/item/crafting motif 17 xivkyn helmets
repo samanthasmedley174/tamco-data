@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 17 xivkyn helmets",
+    "displayName": "Crafting Motif 17: Xivkyn Helmets",
+    "values": {
+      "commonRange": "3,000 - 12,007",
+      "averagePrice": 6783,
+      "minimumPrice": 1000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 6783,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

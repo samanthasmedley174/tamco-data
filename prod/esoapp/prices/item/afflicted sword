@@ -1,0 +1,18 @@
+[
+  {
+    "name": "afflicted sword",
+    "displayName": "Afflicted Sword",
+    "values": {
+      "commonRange": "5,000 - 5,000",
+      "averagePrice": 6050,
+      "minimumPrice": 4000,
+      "maximumPrice": 9150,
+      "averageStackPrice": 6050,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

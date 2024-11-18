@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint paint palette wooden",
+    "displayName": "Blueprint: Paint Palette, Wooden",
+    "values": {
+      "commonRange": "40,030 - 123,456",
+      "averagePrice": 77423,
+      "minimumPrice": 130,
+      "maximumPrice": 126035,
+      "averageStackPrice": 77423,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

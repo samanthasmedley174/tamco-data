@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redoran incense pot beastly",
+    "displayName": "Diagram: Redoran Incense Pot, Beastly",
+    "values": {
+      "commonRange": "35,000 - 50,000",
+      "averagePrice": 39179,
+      "minimumPrice": 33000,
+      "maximumPrice": 54555,
+      "averageStackPrice": 39179,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "adamantite",
+    "displayName": "Adamantite",
+    "values": {
+      "commonRange": "9 - 18",
+      "averagePrice": 14,
+      "minimumPrice": 3,
+      "maximumPrice": 30,
+      "averageStackPrice": 14,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Style Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Adamantite.png"
+  }
+]

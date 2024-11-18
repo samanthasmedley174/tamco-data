@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 17 xivkyn axes",
+    "displayName": "Crafting Motif 17: Xivkyn Axes",
+    "values": {
+      "commonRange": "3,000 - 7,000",
+      "averagePrice": 4956,
+      "minimumPrice": 2001,
+      "maximumPrice": 7777,
+      "averageStackPrice": 4956,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

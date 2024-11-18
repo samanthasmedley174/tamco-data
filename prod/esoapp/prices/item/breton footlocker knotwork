@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton footlocker knotwork",
+    "displayName": "Breton Footlocker, Knotwork",
+    "values": {
+      "commonRange": "4,000 - 6,000",
+      "averagePrice": 4594,
+      "minimumPrice": 1000,
+      "maximumPrice": 8300,
+      "averageStackPrice": 4594,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/14/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

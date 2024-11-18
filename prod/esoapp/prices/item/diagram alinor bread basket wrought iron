@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram alinor bread basket wrought iron",
+    "displayName": "Diagram: Alinor Bread Basket, Wrought Iron",
+    "values": {
+      "commonRange": "5,000 - 7,500",
+      "averagePrice": 6395,
+      "minimumPrice": 4749,
+      "maximumPrice": 7500,
+      "averageStackPrice": 6395,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

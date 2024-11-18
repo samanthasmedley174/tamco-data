@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton rack barrel",
+    "displayName": "Breton Rack, Barrel",
+    "values": {
+      "commonRange": "250 - 1,060",
+      "averagePrice": 1046,
+      "minimumPrice": 60,
+      "maximumPrice": 3300,
+      "averageStackPrice": 1046,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/17/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

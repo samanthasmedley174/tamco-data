@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of salvation",
+    "displayName": "Bow of Salvation",
+    "values": {
+      "commonRange": "240 - 1,000",
+      "averagePrice": 738,
+      "minimumPrice": 234,
+      "maximumPrice": 2200,
+      "averageStackPrice": 738,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr wardrobe elegant wooden",
+    "displayName": "Blueprint: Elsweyr Wardrobe, Elegant Wooden",
+    "values": {
+      "commonRange": "19,000 - 24,000",
+      "averagePrice": 20807,
+      "minimumPrice": 15000,
+      "maximumPrice": 30039,
+      "averageStackPrice": 20807,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

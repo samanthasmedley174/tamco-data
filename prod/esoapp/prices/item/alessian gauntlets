@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alessian gauntlets",
+    "displayName": "Alessian Gauntlets",
+    "values": {
+      "commonRange": "1,366 - 9,090",
+      "averagePrice": 6465,
+      "minimumPrice": 700,
+      "maximumPrice": 22093,
+      "averageStackPrice": 6465,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

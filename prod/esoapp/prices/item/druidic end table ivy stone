@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic end table ivy stone",
+    "displayName": "Druidic End Table, Ivy Stone",
+    "values": {
+      "commonRange": "8,000 - 19,000",
+      "averagePrice": 11274,
+      "minimumPrice": 5000,
+      "maximumPrice": 20784,
+      "averageStackPrice": 11274,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

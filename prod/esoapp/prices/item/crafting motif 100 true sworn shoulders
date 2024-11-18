@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 100 true sworn shoulders",
+    "displayName": "Crafting Motif 100: True-Sworn Shoulders",
+    "values": {
+      "commonRange": "10,000 - 30,000",
+      "averagePrice": 17258,
+      "minimumPrice": 10000,
+      "maximumPrice": 33000,
+      "averageStackPrice": 17258,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

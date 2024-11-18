@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands assassins mace",
+    "displayName": "Deadlands Assassin's Mace",
+    "values": {
+      "commonRange": "550 - 3,367",
+      "averagePrice": 2477,
+      "minimumPrice": 344,
+      "maximumPrice": 8144,
+      "averageStackPrice": 2477,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

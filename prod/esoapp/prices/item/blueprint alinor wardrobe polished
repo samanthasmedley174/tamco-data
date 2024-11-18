@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint alinor wardrobe polished",
+    "displayName": "Blueprint: Alinor Wardrobe, Polished",
+    "values": {
+      "commonRange": "24,700 - 32,000",
+      "averagePrice": 28507,
+      "minimumPrice": 20039,
+      "maximumPrice": 34000,
+      "averageStackPrice": 28507,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/23/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

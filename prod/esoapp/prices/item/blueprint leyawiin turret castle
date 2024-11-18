@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin turret castle",
+    "displayName": "Blueprint: Leyawiin Turret, Castle",
+    "values": {
+      "commonRange": "6,539 - 20,000",
+      "averagePrice": 12764,
+      "minimumPrice": 5000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 12764,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

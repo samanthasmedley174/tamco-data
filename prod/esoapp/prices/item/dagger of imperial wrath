@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of imperial wrath",
+    "displayName": "Dagger of Imperial Wrath",
+    "values": {
+      "commonRange": "1,500 - 9,579",
+      "averagePrice": 4397,
+      "minimumPrice": 153,
+      "maximumPrice": 15392,
+      "averageStackPrice": 4397,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

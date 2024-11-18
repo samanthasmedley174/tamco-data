@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clever alchemist maul",
+    "displayName": "Clever Alchemist Maul",
+    "values": {
+      "commonRange": "6,000 - 6,000",
+      "averagePrice": 6000,
+      "minimumPrice": 6000,
+      "maximumPrice": 6000,
+      "averageStackPrice": 6000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

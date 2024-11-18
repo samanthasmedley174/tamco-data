@@ -1,0 +1,18 @@
+[
+  {
+    "name": "artists palette pigment",
+    "displayName": "Artist's Palette, Pigment",
+    "values": {
+      "commonRange": "22,651 - 23,651",
+      "averagePrice": 22252,
+      "minimumPrice": 12000,
+      "maximumPrice": 23952,
+      "averageStackPrice": 22252,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

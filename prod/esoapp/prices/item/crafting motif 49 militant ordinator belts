@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 49 militant ordinator belts",
+    "displayName": "Crafting Motif 49: Militant Ordinator Belts",
+    "values": {
+      "commonRange": "19,999 - 37,165",
+      "averagePrice": 31053,
+      "minimumPrice": 19999,
+      "maximumPrice": 49039,
+      "averageStackPrice": 31053,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

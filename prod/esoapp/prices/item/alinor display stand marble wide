@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor display stand marble wide",
+    "displayName": "Alinor Display Stand, Marble Wide",
+    "values": {
+      "commonRange": "5,050 - 15,990",
+      "averagePrice": 9182,
+      "minimumPrice": 4150,
+      "maximumPrice": 24000,
+      "averageStackPrice": 9182,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

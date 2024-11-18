@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint orcish cupboards peaked",
+    "displayName": "Blueprint: Orcish Cupboards, Peaked",
+    "values": {
+      "commonRange": "12,084 - 20,000",
+      "averagePrice": 14040,
+      "minimumPrice": 11000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 14040,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

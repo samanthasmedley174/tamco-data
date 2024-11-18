@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram alinor urn bronze",
+    "displayName": "Diagram: Alinor Urn, Bronze",
+    "values": {
+      "commonRange": "6,000 - 11,030",
+      "averagePrice": 8758,
+      "minimumPrice": 1030,
+      "maximumPrice": 15000,
+      "averageStackPrice": 8758,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

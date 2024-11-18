@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 131 militant monk shoulders",
+    "displayName": "Crafting Motif 131: Militant Monk Shoulders",
+    "values": {
+      "commonRange": "45,000 - 75,000",
+      "averagePrice": 57934,
+      "minimumPrice": 45000,
+      "maximumPrice": 75039,
+      "averageStackPrice": 57934,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

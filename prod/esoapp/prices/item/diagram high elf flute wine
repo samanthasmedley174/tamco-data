@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram high elf flute wine",
+    "displayName": "Diagram: High Elf Flute, Wine",
+    "values": {
+      "commonRange": "335 - 1,000",
+      "averagePrice": 925,
+      "minimumPrice": 200,
+      "maximumPrice": 4030,
+      "averageStackPrice": 925,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

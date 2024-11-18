@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 99 waking flame belts",
+    "displayName": "Crafting Motif 99: Waking Flame Belts",
+    "values": {
+      "commonRange": "5,000 - 7,000",
+      "averagePrice": 6369,
+      "minimumPrice": 4000,
+      "maximumPrice": 13809,
+      "averageStackPrice": 6369,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

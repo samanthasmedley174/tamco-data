@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 36 dark brotherhood belts",
+    "displayName": "Crafting Motif 36: Dark Brotherhood Belts",
+    "values": {
+      "commonRange": "7,935 - 12,935",
+      "averagePrice": 10114,
+      "minimumPrice": 1000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 10114,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

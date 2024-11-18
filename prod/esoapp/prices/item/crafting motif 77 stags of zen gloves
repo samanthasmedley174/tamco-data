@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 77 stags of zen gloves",
+    "displayName": "Crafting Motif 77: Stags of Z'en Gloves",
+    "values": {
+      "commonRange": "11,000 - 40,000",
+      "averagePrice": 19667,
+      "minimumPrice": 8800,
+      "maximumPrice": 50000,
+      "averageStackPrice": 19667,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

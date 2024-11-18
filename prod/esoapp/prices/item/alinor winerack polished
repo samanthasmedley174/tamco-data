@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor winerack polished",
+    "displayName": "Alinor Winerack, Polished",
+    "values": {
+      "commonRange": "5,000 - 9,150",
+      "averagePrice": 7740,
+      "minimumPrice": 5000,
+      "maximumPrice": 11150,
+      "averageStackPrice": 7740,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

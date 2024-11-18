@@ -1,0 +1,18 @@
+[
+  {
+    "name": "band of woven fates",
+    "displayName": "Band of Woven Fates",
+    "values": {
+      "commonRange": "121 - 141",
+      "averagePrice": 196,
+      "minimumPrice": 100,
+      "maximumPrice": 421,
+      "averageStackPrice": 196,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

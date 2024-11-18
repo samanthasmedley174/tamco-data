@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 52 redoran daggers",
+    "displayName": "Crafting Motif 52: Redoran Daggers",
+    "values": {
+      "commonRange": "4,719 - 16,339",
+      "averagePrice": 7821,
+      "minimumPrice": 2719,
+      "maximumPrice": 20000,
+      "averageStackPrice": 7821,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

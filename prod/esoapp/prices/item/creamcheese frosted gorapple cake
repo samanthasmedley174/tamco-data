@@ -1,0 +1,18 @@
+[
+  {
+    "name": "creamcheese frosted gorapple cake",
+    "displayName": "Creamcheese Frosted Gorapple Cake",
+    "values": {
+      "commonRange": "1,000 - 1,000",
+      "averagePrice": 1000,
+      "minimumPrice": 1000,
+      "maximumPrice": 1000,
+      "averageStackPrice": 1000,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Food & Drinks",
+    "date": "09/24/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/creamcheese_frosted_gorapple_cake.png"
+  }
+]

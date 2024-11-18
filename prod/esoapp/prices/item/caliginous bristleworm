@@ -1,0 +1,18 @@
+[
+  {
+    "name": "caliginous bristleworm",
+    "displayName": "Caliginous Bristleworm",
+    "values": {
+      "commonRange": "110 - 118",
+      "averagePrice": 126,
+      "minimumPrice": 102,
+      "maximumPrice": 250,
+      "averageStackPrice": 25200,
+      "commonStackSize": 200,
+      "salesRecorded": 9
+    },
+    "type": "Fishing",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Caliginous_Bristleworm.png"
+  }
+]

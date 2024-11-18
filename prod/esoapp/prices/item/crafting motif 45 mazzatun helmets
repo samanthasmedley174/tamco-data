@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 45 mazzatun helmets",
+    "displayName": "Crafting Motif 45: Mazzatun Helmets",
+    "values": {
+      "commonRange": "23,000 - 40,000",
+      "averagePrice": 31415,
+      "minimumPrice": 15000,
+      "maximumPrice": 40039,
+      "averageStackPrice": 31415,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

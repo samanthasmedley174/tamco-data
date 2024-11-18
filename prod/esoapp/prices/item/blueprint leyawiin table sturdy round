@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin table sturdy round",
+    "displayName": "Blueprint: Leyawiin Table, Sturdy Round",
+    "values": {
+      "commonRange": "1,289 - 4,995",
+      "averagePrice": 3176,
+      "minimumPrice": 1000,
+      "maximumPrice": 5982,
+      "averageStackPrice": 3176,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/23/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

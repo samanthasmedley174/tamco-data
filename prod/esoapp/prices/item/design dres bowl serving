@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design dres bowl serving",
+    "displayName": "Design: Dres Bowl, Serving",
+    "values": {
+      "commonRange": "400 - 3,000",
+      "averagePrice": 1283,
+      "minimumPrice": 127,
+      "maximumPrice": 3750,
+      "averageStackPrice": 1283,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

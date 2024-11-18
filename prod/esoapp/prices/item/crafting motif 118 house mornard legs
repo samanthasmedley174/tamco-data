@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 118 house mornard legs",
+    "displayName": "Crafting Motif 118: House Mornard Legs",
+    "values": {
+      "commonRange": "8,000 - 10,639",
+      "averagePrice": 10178,
+      "minimumPrice": 5000,
+      "maximumPrice": 20639,
+      "averageStackPrice": 10178,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

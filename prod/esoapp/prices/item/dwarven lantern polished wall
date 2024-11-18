@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven lantern polished wall",
+    "displayName": "Dwarven Lantern, Polished Wall",
+    "values": {
+      "commonRange": "3,500 - 19,500",
+      "averagePrice": 10123,
+      "minimumPrice": 3333,
+      "maximumPrice": 19500,
+      "averageStackPrice": 20246,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/13/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

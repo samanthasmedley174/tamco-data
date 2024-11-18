@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 84 blackreach vanguard shoulders",
+    "displayName": "Crafting Motif 84: Blackreach Vanguard Shoulders",
+    "values": {
+      "commonRange": "4,000 - 5,957",
+      "averagePrice": 4995,
+      "minimumPrice": 3527,
+      "maximumPrice": 6000,
+      "averageStackPrice": 4995,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

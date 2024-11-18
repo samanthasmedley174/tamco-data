@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of martial knowledge",
+    "displayName": "Battle Axe of Martial Knowledge",
+    "values": {
+      "commonRange": "740 - 1,995",
+      "averagePrice": 1161,
+      "minimumPrice": 740,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1161,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design solitude pot large ceramic",
+    "displayName": "Design: Solitude Pot, Large Ceramic",
+    "values": {
+      "commonRange": "5,000 - 6,792",
+      "averagePrice": 6092,
+      "minimumPrice": 5000,
+      "maximumPrice": 7230,
+      "averageStackPrice": 6092,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

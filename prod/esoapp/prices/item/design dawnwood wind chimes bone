@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design dawnwood wind chimes bone",
+    "displayName": "Design: Dawnwood Wind Chimes, Bone",
+    "values": {
+      "commonRange": "6,000 - 15,000",
+      "averagePrice": 9983,
+      "minimumPrice": 5000,
+      "maximumPrice": 20030,
+      "averageStackPrice": 9983,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

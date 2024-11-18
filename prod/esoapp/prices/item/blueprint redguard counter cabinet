@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard counter cabinet",
+    "displayName": "Blueprint: Redguard Counter, Cabinet",
+    "values": {
+      "commonRange": "600 - 1,500",
+      "averagePrice": 1209,
+      "minimumPrice": 500,
+      "maximumPrice": 1533,
+      "averageStackPrice": 1209,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

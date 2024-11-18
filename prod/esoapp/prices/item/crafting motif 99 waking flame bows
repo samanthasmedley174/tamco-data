@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 99 waking flame bows",
+    "displayName": "Crafting Motif 99: Waking Flame Bows",
+    "values": {
+      "commonRange": "5,000 - 7,803",
+      "averagePrice": 7961,
+      "minimumPrice": 5000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 7961,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf cauldron banded",
+    "displayName": "Dark Elf Cauldron, Banded",
+    "values": {
+      "commonRange": "550 - 4,850",
+      "averagePrice": 3158,
+      "minimumPrice": 200,
+      "maximumPrice": 11800,
+      "averageStackPrice": 3158,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude nightstand rustic shelves",
+    "displayName": "Blueprint: Solitude Nightstand, Rustic Shelves",
+    "values": {
+      "commonRange": "2,000 - 5,027",
+      "averagePrice": 3113,
+      "minimumPrice": 1900,
+      "maximumPrice": 5478,
+      "averageStackPrice": 3113,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

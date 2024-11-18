@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design basket of corn",
+    "displayName": "Design: Basket of Corn",
+    "values": {
+      "commonRange": "100 - 1,821",
+      "averagePrice": 844,
+      "minimumPrice": 62,
+      "maximumPrice": 3300,
+      "averageStackPrice": 844,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint alinor trunk noble",
+    "displayName": "Blueprint: Alinor Trunk, Noble",
+    "values": {
+      "commonRange": "18,000 - 23,307",
+      "averagePrice": 21293,
+      "minimumPrice": 18000,
+      "maximumPrice": 26000,
+      "averageStackPrice": 21293,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

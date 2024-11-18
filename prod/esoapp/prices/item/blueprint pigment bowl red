@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint pigment bowl red",
+    "displayName": "Blueprint: Pigment Bowl, Red",
+    "values": {
+      "commonRange": "8,000 - 12,219",
+      "averagePrice": 10839,
+      "minimumPrice": 8000,
+      "maximumPrice": 14000,
+      "averageStackPrice": 10839,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

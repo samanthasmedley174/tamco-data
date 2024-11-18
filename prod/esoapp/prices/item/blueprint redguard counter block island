@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard counter block island",
+    "displayName": "Blueprint: Redguard Counter, Block Island",
+    "values": {
+      "commonRange": "40,000 - 41,658",
+      "averagePrice": 40930,
+      "minimumPrice": 39900,
+      "maximumPrice": 44800,
+      "averageStackPrice": 40930,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

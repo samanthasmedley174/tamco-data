@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alessian lightning staff",
+    "displayName": "Alessian Lightning Staff",
+    "values": {
+      "commonRange": "2,234 - 12,448",
+      "averagePrice": 11845,
+      "minimumPrice": 840,
+      "maximumPrice": 90000,
+      "averageStackPrice": 11845,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design redguard vase lacquered",
+    "displayName": "Design: Redguard Vase, Lacquered",
+    "values": {
+      "commonRange": "800 - 1,250",
+      "averagePrice": 1029,
+      "minimumPrice": 130,
+      "maximumPrice": 1273,
+      "averageStackPrice": 1029,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

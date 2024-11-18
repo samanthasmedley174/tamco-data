@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bush vibrant barberry",
+    "displayName": "Bush, Vibrant Barberry",
+    "values": {
+      "commonRange": "600 - 975",
+      "averagePrice": 814,
+      "minimumPrice": 83,
+      "maximumPrice": 1287,
+      "averageStackPrice": 1628,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

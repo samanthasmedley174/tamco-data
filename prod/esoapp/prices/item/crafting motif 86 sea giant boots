@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 86 sea giant boots",
+    "displayName": "Crafting Motif 86: Sea Giant Boots",
+    "values": {
+      "commonRange": "4,000 - 8,000",
+      "averagePrice": 5708,
+      "minimumPrice": 4000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5708,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

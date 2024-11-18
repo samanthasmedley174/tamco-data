@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bloodthorn inferno staff",
+    "displayName": "Bloodthorn Inferno Staff",
+    "values": {
+      "commonRange": "650 - 4,948",
+      "averagePrice": 2898,
+      "minimumPrice": 246,
+      "maximumPrice": 9246,
+      "averageStackPrice": 2898,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 48 ashlander swords",
+    "displayName": "Crafting Motif 48: Ashlander Swords",
+    "values": {
+      "commonRange": "1,250 - 8,500",
+      "averagePrice": 6105,
+      "minimumPrice": 1250,
+      "maximumPrice": 28777,
+      "averageStackPrice": 6105,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

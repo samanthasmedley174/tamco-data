@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram worm cult chandelier caged cold flame",
+    "displayName": "Diagram: Worm Cult Chandelier, Caged Cold-Flame",
+    "values": {
+      "commonRange": "40,000 - 90,000",
+      "averagePrice": 66497,
+      "minimumPrice": 10030,
+      "maximumPrice": 97000,
+      "averageStackPrice": 66497,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

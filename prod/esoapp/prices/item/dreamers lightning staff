@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dreamers lightning staff",
+    "displayName": "Dreamer's Lightning Staff",
+    "values": {
+      "commonRange": "234 - 1,272",
+      "averagePrice": 649,
+      "minimumPrice": 234,
+      "maximumPrice": 1446,
+      "averageStackPrice": 649,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

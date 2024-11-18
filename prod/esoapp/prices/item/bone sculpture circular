@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bone sculpture circular",
+    "displayName": "Bone Sculpture, Circular",
+    "values": {
+      "commonRange": "2,400 - 5,400",
+      "averagePrice": 3973,
+      "minimumPrice": 1100,
+      "maximumPrice": 5400,
+      "averageStackPrice": 3973,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

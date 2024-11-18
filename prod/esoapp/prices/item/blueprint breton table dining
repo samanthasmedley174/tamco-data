@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint breton table dining",
+    "displayName": "Blueprint: Breton Table, Dining",
+    "values": {
+      "commonRange": "57 - 227",
+      "averagePrice": 148,
+      "minimumPrice": 27,
+      "maximumPrice": 527,
+      "averageStackPrice": 148,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redguard censer hanging bell",
+    "displayName": "Diagram: Redguard Censer, Hanging Bell",
+    "values": {
+      "commonRange": "649,903 - 999,999",
+      "averagePrice": 854554,
+      "minimumPrice": 500000,
+      "maximumPrice": 1090039,
+      "averageStackPrice": 854554,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

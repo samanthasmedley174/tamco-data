@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude desk ornate",
+    "displayName": "Blueprint: Solitude Desk, Ornate",
+    "values": {
+      "commonRange": "26,927 - 30,088",
+      "averagePrice": 28516,
+      "minimumPrice": 26000,
+      "maximumPrice": 30088,
+      "averageStackPrice": 28516,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

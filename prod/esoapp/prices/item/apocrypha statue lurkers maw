@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha statue lurkers maw",
+    "displayName": "Apocrypha Statue, Lurker's Maw",
+    "values": {
+      "commonRange": "20,232 - 28,000",
+      "averagePrice": 25199,
+      "minimumPrice": 15000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 25199,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

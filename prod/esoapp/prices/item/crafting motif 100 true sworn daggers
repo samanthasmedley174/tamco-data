@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 100 true sworn daggers",
+    "displayName": "Crafting Motif 100: True-Sworn Daggers",
+    "values": {
+      "commonRange": "5,357 - 12,443",
+      "averagePrice": 11356,
+      "minimumPrice": 5000,
+      "maximumPrice": 29000,
+      "averageStackPrice": 11356,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

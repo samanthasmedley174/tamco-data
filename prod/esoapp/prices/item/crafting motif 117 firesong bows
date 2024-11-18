@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 117 firesong bows",
+    "displayName": "Crafting Motif 117: Firesong Bows",
+    "values": {
+      "commonRange": "8,900 - 20,000",
+      "averagePrice": 14611,
+      "minimumPrice": 8000,
+      "maximumPrice": 25039,
+      "averageStackPrice": 14611,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 30 morag tong style",
+    "displayName": "Crafting Motif 30: Morag Tong Style",
+    "values": {
+      "commonRange": "450,000 - 800,000",
+      "averagePrice": 620000,
+      "minimumPrice": 350000,
+      "maximumPrice": 1000000,
+      "averageStackPrice": 620000,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Motifs",
+    "date": "04/06/2021",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

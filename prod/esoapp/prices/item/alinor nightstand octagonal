@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor nightstand octagonal",
+    "displayName": "Alinor Nightstand, Octagonal",
+    "values": {
+      "commonRange": "4,150 - 11,950",
+      "averagePrice": 8585,
+      "minimumPrice": 2000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 8585,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

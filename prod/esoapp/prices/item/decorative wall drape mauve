@@ -1,0 +1,18 @@
+[
+  {
+    "name": "decorative wall drape mauve",
+    "displayName": "Decorative Wall Drape, Mauve",
+    "values": {
+      "commonRange": "5,500 - 10,553",
+      "averagePrice": 8671,
+      "minimumPrice": 5002,
+      "maximumPrice": 10553,
+      "averageStackPrice": 8671,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

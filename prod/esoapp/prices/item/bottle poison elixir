@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bottle poison elixir",
+    "displayName": "Bottle, Poison Elixir",
+    "values": {
+      "commonRange": "5,000 - 7,975",
+      "averagePrice": 5948,
+      "minimumPrice": 5000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5948,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

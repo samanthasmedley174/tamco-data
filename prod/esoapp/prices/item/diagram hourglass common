@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram hourglass common",
+    "displayName": "Diagram: Hourglass, Common",
+    "values": {
+      "commonRange": "280,000 - 320,000",
+      "averagePrice": 300500,
+      "minimumPrice": 280000,
+      "maximumPrice": 325000,
+      "averageStackPrice": 300500,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

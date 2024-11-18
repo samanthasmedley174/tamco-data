@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arm cops of the powerful assault",
+    "displayName": "Arm Cops of the Powerful Assault",
+    "values": {
+      "commonRange": "3,900 - 11,917",
+      "averagePrice": 7268,
+      "minimumPrice": 3639,
+      "maximumPrice": 25000,
+      "averageStackPrice": 7268,
+      "commonStackSize": 1,
+      "salesRecorded": 55
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

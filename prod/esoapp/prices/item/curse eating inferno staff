@@ -1,0 +1,18 @@
+[
+  {
+    "name": "curse eating inferno staff",
+    "displayName": "Curse-Eating Inferno Staff",
+    "values": {
+      "commonRange": "30,000 - 173,662",
+      "averagePrice": 101831,
+      "minimumPrice": 30000,
+      "maximumPrice": 173662,
+      "averageStackPrice": 101831,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

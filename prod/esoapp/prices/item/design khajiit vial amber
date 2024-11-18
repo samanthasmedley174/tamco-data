@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design khajiit vial amber",
+    "displayName": "Design: Khajiit Vial, Amber",
+    "values": {
+      "commonRange": "5,000 - 10,039",
+      "averagePrice": 8033,
+      "minimumPrice": 2998,
+      "maximumPrice": 11039,
+      "averageStackPrice": 8033,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

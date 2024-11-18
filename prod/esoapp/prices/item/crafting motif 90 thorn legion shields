@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 90 thorn legion shields",
+    "displayName": "Crafting Motif 90: Thorn Legion Shields",
+    "values": {
+      "commonRange": "8,039 - 39,999",
+      "averagePrice": 30485,
+      "minimumPrice": 8000,
+      "maximumPrice": 90000,
+      "averageStackPrice": 30485,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

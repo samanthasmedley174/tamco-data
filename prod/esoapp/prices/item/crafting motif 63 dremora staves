@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 63 dremora staves",
+    "displayName": "Crafting Motif 63: Dremora Staves",
+    "values": {
+      "commonRange": "207 - 2,000",
+      "averagePrice": 703,
+      "minimumPrice": 105,
+      "maximumPrice": 3000,
+      "averageStackPrice": 703,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

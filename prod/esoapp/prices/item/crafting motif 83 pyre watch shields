@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 83 pyre watch shields",
+    "displayName": "Crafting Motif 83: Pyre Watch Shields",
+    "values": {
+      "commonRange": "7,000 - 18,283",
+      "averagePrice": 9820,
+      "minimumPrice": 3500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9820,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

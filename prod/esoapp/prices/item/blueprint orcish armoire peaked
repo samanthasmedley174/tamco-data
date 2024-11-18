@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint orcish armoire peaked",
+    "displayName": "Blueprint: Orcish Armoire, Peaked",
+    "values": {
+      "commonRange": "10,706 - 14,000",
+      "averagePrice": 12493,
+      "minimumPrice": 10460,
+      "maximumPrice": 14000,
+      "averageStackPrice": 12493,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

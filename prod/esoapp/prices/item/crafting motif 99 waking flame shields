@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 99 waking flame shields",
+    "displayName": "Crafting Motif 99: Waking Flame Shields",
+    "values": {
+      "commonRange": "4,999 - 9,039",
+      "averagePrice": 6963,
+      "minimumPrice": 2000,
+      "maximumPrice": 25496,
+      "averageStackPrice": 6963,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

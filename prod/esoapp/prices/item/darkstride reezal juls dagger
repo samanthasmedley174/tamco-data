@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darkstride reezal juls dagger",
+    "displayName": "Darkstride Reezal-Jul's Dagger",
+    "values": {
+      "commonRange": "1,150 - 1,361",
+      "averagePrice": 1361,
+      "minimumPrice": 894,
+      "maximumPrice": 2038,
+      "averageStackPrice": 1361,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

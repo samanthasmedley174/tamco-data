@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 58 fang lair belts",
+    "displayName": "Crafting Motif 58: Fang Lair Belts",
+    "values": {
+      "commonRange": "5,018 - 7,818",
+      "averagePrice": 6907,
+      "minimumPrice": 5000,
+      "maximumPrice": 8818,
+      "averageStackPrice": 6907,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

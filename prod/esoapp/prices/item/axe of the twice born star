@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of the twice born star",
+    "displayName": "Axe of the Twice-Born Star",
+    "values": {
+      "commonRange": "110,156 - 110,156",
+      "averagePrice": 110156,
+      "minimumPrice": 110156,
+      "maximumPrice": 110156,
+      "averageStackPrice": 110156,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

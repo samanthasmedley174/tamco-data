@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 86 sea giant axes",
+    "displayName": "Crafting Motif 86: Sea Giant Axes",
+    "values": {
+      "commonRange": "4,000 - 6,520",
+      "averagePrice": 5667,
+      "minimumPrice": 3200,
+      "maximumPrice": 11000,
+      "averageStackPrice": 5667,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "curse eating ring",
+    "displayName": "Curse-Eating Ring",
+    "values": {
+      "commonRange": "2,150 - 15,156",
+      "averagePrice": 7482,
+      "minimumPrice": 1144,
+      "maximumPrice": 22156,
+      "averageStackPrice": 7482,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

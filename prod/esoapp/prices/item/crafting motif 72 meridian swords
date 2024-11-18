@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 72 meridian swords",
+    "displayName": "Crafting Motif 72: Meridian Swords",
+    "values": {
+      "commonRange": "13,997 - 20,000",
+      "averagePrice": 16109,
+      "minimumPrice": 12000,
+      "maximumPrice": 20269,
+      "averageStackPrice": 16109,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

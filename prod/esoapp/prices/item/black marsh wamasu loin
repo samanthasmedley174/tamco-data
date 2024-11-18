@@ -1,0 +1,18 @@
+[
+  {
+    "name": "black marsh wamasu loin",
+    "displayName": "Black Marsh Wamasu Loin",
+    "values": {
+      "commonRange": "50 - 200",
+      "averagePrice": 125,
+      "minimumPrice": 12,
+      "maximumPrice": 412,
+      "averageStackPrice": 1500,
+      "commonStackSize": 12,
+      "salesRecorded": 8
+    },
+    "type": "Food & Drinks",
+    "date": "07/26/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/black_marsh_wamasu_loin.png"
+  }
+]

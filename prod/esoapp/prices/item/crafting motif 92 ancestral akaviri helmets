@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 92 ancestral akaviri helmets",
+    "displayName": "Crafting Motif 92: Ancestral Akaviri Helmets",
+    "values": {
+      "commonRange": "15,000 - 55,000",
+      "averagePrice": 37414,
+      "minimumPrice": 10000,
+      "maximumPrice": 58638,
+      "averageStackPrice": 37414,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

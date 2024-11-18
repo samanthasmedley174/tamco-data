@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 79 refabricated boots",
+    "displayName": "Crafting Motif 79: Refabricated Boots",
+    "values": {
+      "commonRange": "9,062 - 11,522",
+      "averagePrice": 9807,
+      "minimumPrice": 2500,
+      "maximumPrice": 12127,
+      "averageStackPrice": 9807,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

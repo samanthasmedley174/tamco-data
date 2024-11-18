@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf column lantern",
+    "displayName": "Dark Elf Column Lantern",
+    "values": {
+      "commonRange": "100 - 1,000",
+      "averagePrice": 528,
+      "minimumPrice": 100,
+      "maximumPrice": 1000,
+      "averageStackPrice": 528,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

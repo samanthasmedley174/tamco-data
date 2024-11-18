@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dreamers cobweb laced trousers",
+    "displayName": "Dreamer's Cobweb-Laced Trousers",
+    "values": {
+      "commonRange": "700 - 700",
+      "averagePrice": 700,
+      "minimumPrice": 700,
+      "maximumPrice": 700,
+      "averageStackPrice": 700,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battlefield acrobat boots",
+    "displayName": "Battlefield Acrobat Boots",
+    "values": {
+      "commonRange": "528 - 1,999",
+      "averagePrice": 1099,
+      "minimumPrice": 390,
+      "maximumPrice": 1999,
+      "averageStackPrice": 1099,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

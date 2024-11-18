@@ -1,0 +1,18 @@
+[
+  {
+    "name": "briarheart shield",
+    "displayName": "Briarheart Shield",
+    "values": {
+      "commonRange": "1,000 - 15,000",
+      "averagePrice": 6121,
+      "minimumPrice": 144,
+      "maximumPrice": 70000,
+      "averageStackPrice": 6121,
+      "commonStackSize": 1,
+      "salesRecorded": 54
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

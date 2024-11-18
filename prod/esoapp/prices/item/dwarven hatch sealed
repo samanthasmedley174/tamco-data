@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven hatch sealed",
+    "displayName": "Dwarven Hatch, Sealed",
+    "values": {
+      "commonRange": "3,000 - 18,000",
+      "averagePrice": 10645,
+      "minimumPrice": 450,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10645,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

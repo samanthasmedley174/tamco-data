@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram ayleid brazier fiery",
+    "displayName": "Diagram: Ayleid Brazier, Fiery",
+    "values": {
+      "commonRange": "1,700,000 - 2,700,000",
+      "averagePrice": 2035004,
+      "minimumPrice": 1200000,
+      "maximumPrice": 3000000,
+      "averageStackPrice": 2035004,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "04/18/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

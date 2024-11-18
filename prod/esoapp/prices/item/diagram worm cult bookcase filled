@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram worm cult bookcase filled",
+    "displayName": "Diagram: Worm Cult Bookcase, Filled",
+    "values": {
+      "commonRange": "70,000 - 99,018",
+      "averagePrice": 82339,
+      "minimumPrice": 65000,
+      "maximumPrice": 102800,
+      "averageStackPrice": 82339,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

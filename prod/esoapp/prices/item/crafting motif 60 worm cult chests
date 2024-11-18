@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 60 worm cult chests",
+    "displayName": "Crafting Motif 60: Worm Cult Chests",
+    "values": {
+      "commonRange": "5,000 - 16,733",
+      "averagePrice": 11773,
+      "minimumPrice": 2000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 11773,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

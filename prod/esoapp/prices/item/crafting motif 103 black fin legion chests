@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 103 black fin legion chests",
+    "displayName": "Crafting Motif 103: Black Fin Legion Chests",
+    "values": {
+      "commonRange": "40,000 - 55,348",
+      "averagePrice": 52060,
+      "minimumPrice": 15000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 52060,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

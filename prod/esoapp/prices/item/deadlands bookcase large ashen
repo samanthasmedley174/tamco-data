@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands bookcase large ashen",
+    "displayName": "Deadlands Bookcase, Large Ashen",
+    "values": {
+      "commonRange": "5,300 - 20,000",
+      "averagePrice": 12940,
+      "minimumPrice": 5000,
+      "maximumPrice": 22000,
+      "averageStackPrice": 12940,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/29/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

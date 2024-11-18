@@ -1,0 +1,18 @@
+[
+  {
+    "name": "adamant lurker helm",
+    "displayName": "Adamant Lurker Helm",
+    "values": {
+      "commonRange": "50 - 2,996",
+      "averagePrice": 1153,
+      "minimumPrice": 25,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1153,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

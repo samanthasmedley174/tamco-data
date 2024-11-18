@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design high isle crab steamed",
+    "displayName": "Design: High Isle Crab, Steamed",
+    "values": {
+      "commonRange": "1,030 - 6,000",
+      "averagePrice": 4565,
+      "minimumPrice": 925,
+      "maximumPrice": 8999,
+      "averageStackPrice": 4565,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

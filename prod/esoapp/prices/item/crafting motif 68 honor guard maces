@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 68 honor guard maces",
+    "displayName": "Crafting Motif 68: Honor Guard Maces",
+    "values": {
+      "commonRange": "10,000 - 15,000",
+      "averagePrice": 11886,
+      "minimumPrice": 6500,
+      "maximumPrice": 15510,
+      "averageStackPrice": 11886,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

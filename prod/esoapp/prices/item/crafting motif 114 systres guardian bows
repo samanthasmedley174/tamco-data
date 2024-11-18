@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 114 systres guardian bows",
+    "displayName": "Crafting Motif 114: Systres Guardian Bows",
+    "values": {
+      "commonRange": "6,500 - 10,000",
+      "averagePrice": 8027,
+      "minimumPrice": 5000,
+      "maximumPrice": 13000,
+      "averageStackPrice": 8027,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

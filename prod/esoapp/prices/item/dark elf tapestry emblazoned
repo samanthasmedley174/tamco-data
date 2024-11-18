@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf tapestry emblazoned",
+    "displayName": "Dark Elf Tapestry, Emblazoned",
+    "values": {
+      "commonRange": "791 - 1,400",
+      "averagePrice": 1216,
+      "minimumPrice": 270,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1216,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

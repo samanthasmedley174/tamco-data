@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha ink bottle black",
+    "displayName": "Apocrypha Ink Bottle, Black",
+    "values": {
+      "commonRange": "450 - 903",
+      "averagePrice": 730,
+      "minimumPrice": 330,
+      "maximumPrice": 1000,
+      "averageStackPrice": 730,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

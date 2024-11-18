@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor platter scalloped",
+    "displayName": "Alinor Platter, Scalloped",
+    "values": {
+      "commonRange": "650 - 4,000",
+      "averagePrice": 2780,
+      "minimumPrice": 550,
+      "maximumPrice": 8000,
+      "averageStackPrice": 2780,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

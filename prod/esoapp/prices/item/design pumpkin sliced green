@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design pumpkin sliced green",
+    "displayName": "Design: Pumpkin, Sliced Green",
+    "values": {
+      "commonRange": "137 - 420",
+      "averagePrice": 287,
+      "minimumPrice": 119,
+      "maximumPrice": 838,
+      "averageStackPrice": 287,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

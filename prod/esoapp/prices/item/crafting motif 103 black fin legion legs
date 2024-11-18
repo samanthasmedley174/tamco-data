@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 103 black fin legion legs",
+    "displayName": "Crafting Motif 103: Black Fin Legion Legs",
+    "values": {
+      "commonRange": "25,000 - 50,000",
+      "averagePrice": 37927,
+      "minimumPrice": 20000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 37927,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

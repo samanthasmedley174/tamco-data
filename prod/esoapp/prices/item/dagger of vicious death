@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of vicious death",
+    "displayName": "Dagger of Vicious Death",
+    "values": {
+      "commonRange": "2,000 - 30,000",
+      "averagePrice": 11514,
+      "minimumPrice": 753,
+      "maximumPrice": 60153,
+      "averageStackPrice": 11514,
+      "commonStackSize": 1,
+      "salesRecorded": 83
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

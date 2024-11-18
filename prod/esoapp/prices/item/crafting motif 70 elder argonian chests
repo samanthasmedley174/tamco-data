@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 70 elder argonian chests",
+    "displayName": "Crafting Motif 70: Elder Argonian Chests",
+    "values": {
+      "commonRange": "5,000 - 149,039",
+      "averagePrice": 72022,
+      "minimumPrice": 3000,
+      "maximumPrice": 150000,
+      "averageStackPrice": 72022,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

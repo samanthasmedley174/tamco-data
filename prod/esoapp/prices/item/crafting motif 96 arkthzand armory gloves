@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 96 arkthzand armory gloves",
+    "displayName": "Crafting Motif 96: Arkthzand Armory Gloves",
+    "values": {
+      "commonRange": "6,847 - 17,500",
+      "averagePrice": 12177,
+      "minimumPrice": 5000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 12177,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

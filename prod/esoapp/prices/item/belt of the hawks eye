@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of the hawks eye",
+    "displayName": "Belt of the Hawk's Eye",
+    "values": {
+      "commonRange": "300 - 10,090",
+      "averagePrice": 3179,
+      "minimumPrice": 90,
+      "maximumPrice": 10090,
+      "averageStackPrice": 3179,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

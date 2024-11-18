@@ -1,0 +1,18 @@
+[
+  {
+    "name": "afflicted cuirass",
+    "displayName": "Afflicted Cuirass",
+    "values": {
+      "commonRange": "1,764 - 4,174",
+      "averagePrice": 2684,
+      "minimumPrice": 1000,
+      "maximumPrice": 5121,
+      "averageStackPrice": 2684,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

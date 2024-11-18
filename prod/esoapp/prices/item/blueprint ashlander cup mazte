@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint ashlander cup mazte",
+    "displayName": "Blueprint: Ashlander Cup, Mazte",
+    "values": {
+      "commonRange": "2,700 - 4,000",
+      "averagePrice": 3068,
+      "minimumPrice": 1999,
+      "maximumPrice": 4000,
+      "averageStackPrice": 3068,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

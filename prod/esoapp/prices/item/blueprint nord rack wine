@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint nord rack wine",
+    "displayName": "Blueprint: Nord Rack, Wine",
+    "values": {
+      "commonRange": "230 - 1,000",
+      "averagePrice": 654,
+      "minimumPrice": 200,
+      "maximumPrice": 1105,
+      "averageStackPrice": 654,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

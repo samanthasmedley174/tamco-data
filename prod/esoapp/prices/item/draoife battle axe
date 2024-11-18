@@ -1,0 +1,18 @@
+[
+  {
+    "name": "draoife battle axe",
+    "displayName": "Draoife Battle Axe",
+    "values": {
+      "commonRange": "240 - 240",
+      "averagePrice": 907,
+      "minimumPrice": 240,
+      "maximumPrice": 2240,
+      "averageStackPrice": 907,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

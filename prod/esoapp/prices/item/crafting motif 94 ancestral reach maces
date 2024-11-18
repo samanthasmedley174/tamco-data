@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 94 ancestral reach maces",
+    "displayName": "Crafting Motif 94: Ancestral Reach Maces",
+    "values": {
+      "commonRange": "8,000 - 13,000",
+      "averagePrice": 10352,
+      "minimumPrice": 6939,
+      "maximumPrice": 15000,
+      "averageStackPrice": 10352,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

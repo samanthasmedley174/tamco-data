@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arkays charity restoration staff",
+    "displayName": "Arkay's Charity Restoration Staff",
+    "values": {
+      "commonRange": "329 - 5,440",
+      "averagePrice": 2095,
+      "minimumPrice": 240,
+      "maximumPrice": 15240,
+      "averageStackPrice": 2095,
+      "commonStackSize": 1,
+      "salesRecorded": 64
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

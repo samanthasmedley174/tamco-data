@@ -1,0 +1,18 @@
+[
+  {
+    "name": "affix script courage",
+    "displayName": "Affix Script: Courage",
+    "values": {
+      "commonRange": "290,000 - 1,000,000",
+      "averagePrice": 896749,
+      "minimumPrice": 110000,
+      "maximumPrice": 3900000,
+      "averageStackPrice": 896749,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Scripts",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Affix_Script:_Courage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 28 ra gada shoulders",
+    "displayName": "Crafting Motif 28: Ra Gada Shoulders",
+    "values": {
+      "commonRange": "1,644 - 5,500",
+      "averagePrice": 3515,
+      "minimumPrice": 1139,
+      "maximumPrice": 6000,
+      "averageStackPrice": 3515,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

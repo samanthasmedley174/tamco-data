@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven bowl forged serving",
+    "displayName": "Diagram: Dwarven Bowl, Forged Serving",
+    "values": {
+      "commonRange": "30,000 - 40,030",
+      "averagePrice": 37032,
+      "minimumPrice": 30000,
+      "maximumPrice": 51089,
+      "averageStackPrice": 37032,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

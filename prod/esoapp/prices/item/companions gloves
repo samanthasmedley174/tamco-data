@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions gloves",
+    "displayName": "Companion's Gloves",
+    "values": {
+      "commonRange": "65 - 92,068",
+      "averagePrice": 18651,
+      "minimumPrice": 15,
+      "maximumPrice": 440018,
+      "averageStackPrice": 18651,
+      "commonStackSize": 1,
+      "salesRecorded": 229
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

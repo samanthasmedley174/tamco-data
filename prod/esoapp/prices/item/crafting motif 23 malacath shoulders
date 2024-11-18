@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 23 malacath shoulders",
+    "displayName": "Crafting Motif 23: Malacath Shoulders",
+    "values": {
+      "commonRange": "10,000 - 23,000",
+      "averagePrice": 18033,
+      "minimumPrice": 4900,
+      "maximumPrice": 28000,
+      "averageStackPrice": 18033,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

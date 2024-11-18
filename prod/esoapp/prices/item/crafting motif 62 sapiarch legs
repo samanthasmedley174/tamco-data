@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 62 sapiarch legs",
+    "displayName": "Crafting Motif 62: Sapiarch Legs",
+    "values": {
+      "commonRange": "430 - 5,000",
+      "averagePrice": 2672,
+      "minimumPrice": 430,
+      "maximumPrice": 5526,
+      "averageStackPrice": 2672,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

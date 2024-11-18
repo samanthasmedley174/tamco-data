@@ -1,0 +1,18 @@
+[
+  {
+    "name": "daedric chain segment",
+    "displayName": "Daedric Chain, Segment",
+    "values": {
+      "commonRange": "1,100 - 6,274",
+      "averagePrice": 4122,
+      "minimumPrice": 500,
+      "maximumPrice": 6274,
+      "averageStackPrice": 4122,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

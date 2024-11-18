@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dres lamp portable",
+    "displayName": "Dres Lamp, Portable",
+    "values": {
+      "commonRange": "100 - 735",
+      "averagePrice": 541,
+      "minimumPrice": 70,
+      "maximumPrice": 1060,
+      "averageStackPrice": 541,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

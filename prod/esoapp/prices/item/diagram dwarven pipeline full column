@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven pipeline full column",
+    "displayName": "Diagram: Dwarven Pipeline, Full Column",
+    "values": {
+      "commonRange": "700,000 - 1,500,000",
+      "averagePrice": 1173500,
+      "minimumPrice": 600000,
+      "maximumPrice": 3330000,
+      "averageStackPrice": 1173500,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "09/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

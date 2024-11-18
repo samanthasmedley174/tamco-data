@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darkstride greatsword",
+    "displayName": "Darkstride Greatsword",
+    "values": {
+      "commonRange": "999 - 999",
+      "averagePrice": 1318,
+      "minimumPrice": 755,
+      "maximumPrice": 2200,
+      "averageStackPrice": 1318,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

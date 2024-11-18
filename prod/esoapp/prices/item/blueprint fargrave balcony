@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint fargrave balcony",
+    "displayName": "Blueprint: Fargrave Balcony",
+    "values": {
+      "commonRange": "20,030 - 30,817",
+      "averagePrice": 26205,
+      "minimumPrice": 10000,
+      "maximumPrice": 31681,
+      "averageStackPrice": 26205,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood bench sprouted",
+    "displayName": "Dawnwood Bench, Sprouted",
+    "values": {
+      "commonRange": "2,000 - 13,850",
+      "averagePrice": 6033,
+      "minimumPrice": 1467,
+      "maximumPrice": 14995,
+      "averageStackPrice": 12066,
+      "commonStackSize": 2,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

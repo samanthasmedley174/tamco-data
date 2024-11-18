@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian lamp glass",
+    "displayName": "Colovian Lamp, Glass",
+    "values": {
+      "commonRange": "5,000 - 11,900",
+      "averagePrice": 7493,
+      "minimumPrice": 1715,
+      "maximumPrice": 15300,
+      "averageStackPrice": 7493,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Furnishings",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

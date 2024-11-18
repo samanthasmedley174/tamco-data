@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint keg",
+    "displayName": "Blueprint: Keg",
+    "values": {
+      "commonRange": "200 - 1,200",
+      "averagePrice": 934,
+      "minimumPrice": 40,
+      "maximumPrice": 1202,
+      "averageStackPrice": 934,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

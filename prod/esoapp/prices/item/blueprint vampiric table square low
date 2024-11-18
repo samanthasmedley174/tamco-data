@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint vampiric table square low",
+    "displayName": "Blueprint: Vampiric Table, Square Low",
+    "values": {
+      "commonRange": "911 - 1,711",
+      "averagePrice": 1523,
+      "minimumPrice": 711,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1523,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

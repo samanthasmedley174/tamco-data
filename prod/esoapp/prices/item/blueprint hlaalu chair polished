@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint hlaalu chair polished",
+    "displayName": "Blueprint: Hlaalu Chair, Polished",
+    "values": {
+      "commonRange": "3,000 - 8,000",
+      "averagePrice": 5142,
+      "minimumPrice": 2500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5142,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

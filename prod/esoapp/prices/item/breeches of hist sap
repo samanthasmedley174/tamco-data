@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of hist sap",
+    "displayName": "Breeches of Hist Sap",
+    "values": {
+      "commonRange": "275 - 2,000",
+      "averagePrice": 1023,
+      "minimumPrice": 183,
+      "maximumPrice": 5995,
+      "averageStackPrice": 1023,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

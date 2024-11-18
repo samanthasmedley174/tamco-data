@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bitterblade mining helmet",
+    "displayName": "Bitterblade Mining Helmet",
+    "values": {
+      "commonRange": "330 - 541",
+      "averagePrice": 742,
+      "minimumPrice": 141,
+      "maximumPrice": 2200,
+      "averageStackPrice": 742,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

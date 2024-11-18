@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr couch elegant wooden",
+    "displayName": "Blueprint: Elsweyr Couch, Elegant Wooden",
+    "values": {
+      "commonRange": "14,000 - 21,780",
+      "averagePrice": 17079,
+      "minimumPrice": 2939,
+      "maximumPrice": 22039,
+      "averageStackPrice": 17079,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design carrots wax",
+    "displayName": "Design: Carrots, Wax",
+    "values": {
+      "commonRange": "117 - 327",
+      "averagePrice": 206,
+      "minimumPrice": 100,
+      "maximumPrice": 527,
+      "averageStackPrice": 206,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 18 akaviri chests",
+    "displayName": "Crafting Motif 18: Akaviri Chests",
+    "values": {
+      "commonRange": "12,000 - 29,413",
+      "averagePrice": 23767,
+      "minimumPrice": 11200,
+      "maximumPrice": 39413,
+      "averageStackPrice": 23767,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor table runner coiled",
+    "displayName": "Alinor Table Runner, Coiled",
+    "values": {
+      "commonRange": "1,000,000 - 1,000,000",
+      "averagePrice": 1033333,
+      "minimumPrice": 1000000,
+      "maximumPrice": 1100000,
+      "averageStackPrice": 1033333,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Furnishings",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

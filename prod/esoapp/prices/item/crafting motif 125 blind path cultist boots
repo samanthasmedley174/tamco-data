@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 125 blind path cultist boots",
+    "displayName": "Crafting Motif 125: Blind Path Cultist Boots",
+    "values": {
+      "commonRange": "35,000 - 70,000",
+      "averagePrice": 49652,
+      "minimumPrice": 29806,
+      "maximumPrice": 90000,
+      "averageStackPrice": 49652,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design indoril candelabra temple chamber",
+    "displayName": "Design: Indoril Candelabra, Temple Chamber",
+    "values": {
+      "commonRange": "29,000 - 38,000",
+      "averagePrice": 33978,
+      "minimumPrice": 25000,
+      "maximumPrice": 38955,
+      "averageStackPrice": 33978,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alessian battle axe",
+    "displayName": "Alessian Battle Axe",
+    "values": {
+      "commonRange": "5,000 - 9,246",
+      "averagePrice": 7787,
+      "minimumPrice": 4000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 7787,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

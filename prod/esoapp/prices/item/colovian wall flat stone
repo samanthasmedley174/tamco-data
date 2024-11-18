@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian wall flat stone",
+    "displayName": "Colovian Wall, Flat Stone",
+    "values": {
+      "commonRange": "3,260 - 6,960",
+      "averagePrice": 5075,
+      "minimumPrice": 2000,
+      "maximumPrice": 6960,
+      "averageStackPrice": 10150,
+      "commonStackSize": 2,
+      "salesRecorded": 16
+    },
+    "type": "Furnishings",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

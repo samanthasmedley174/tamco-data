@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven nightstand granite",
+    "displayName": "Dwarven Nightstand, Granite",
+    "values": {
+      "commonRange": "1,085 - 6,000",
+      "averagePrice": 4536,
+      "minimumPrice": 1085,
+      "maximumPrice": 7950,
+      "averageStackPrice": 4536,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

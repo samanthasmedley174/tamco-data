@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 119 blessed inheritor belts",
+    "displayName": "Crafting Motif 119: Blessed Inheritor Belts",
+    "values": {
+      "commonRange": "20,000 - 40,132",
+      "averagePrice": 28150,
+      "minimumPrice": 20000,
+      "maximumPrice": 45220,
+      "averageStackPrice": 28150,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

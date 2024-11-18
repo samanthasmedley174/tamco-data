@@ -1,0 +1,18 @@
+[
+  {
+    "name": "archmage macanos mace of the beekeeper",
+    "displayName": "Archmage Macano's Mace of the Beekeeper",
+    "values": {
+      "commonRange": "750 - 4,000",
+      "averagePrice": 2364,
+      "minimumPrice": 550,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2364,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

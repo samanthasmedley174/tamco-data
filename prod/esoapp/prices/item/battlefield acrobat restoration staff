@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battlefield acrobat restoration staff",
+    "displayName": "Battlefield Acrobat Restoration Staff",
+    "values": {
+      "commonRange": "1,450 - 3,250",
+      "averagePrice": 2160,
+      "minimumPrice": 850,
+      "maximumPrice": 3250,
+      "averageStackPrice": 2160,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

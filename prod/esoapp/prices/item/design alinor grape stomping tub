@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design alinor grape stomping tub",
+    "displayName": "Design: Alinor Grape Stomping Tub",
+    "values": {
+      "commonRange": "50,000 - 67,287",
+      "averagePrice": 58918,
+      "minimumPrice": 40045,
+      "maximumPrice": 80000,
+      "averageStackPrice": 58918,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

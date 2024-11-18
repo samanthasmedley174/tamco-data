@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands assassins arm cops",
+    "displayName": "Deadlands Assassin's Arm Cops",
+    "values": {
+      "commonRange": "600 - 3,999",
+      "averagePrice": 1959,
+      "minimumPrice": 550,
+      "maximumPrice": 6999,
+      "averageStackPrice": 1959,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

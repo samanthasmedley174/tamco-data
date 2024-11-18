@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude nightstand noble cabinet",
+    "displayName": "Blueprint: Solitude Nightstand, Noble Cabinet",
+    "values": {
+      "commonRange": "5,000 - 11,338",
+      "averagePrice": 10114,
+      "minimumPrice": 2030,
+      "maximumPrice": 20030,
+      "averageStackPrice": 10114,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

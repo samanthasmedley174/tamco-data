@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bright throats boast shoes",
+    "displayName": "Bright-Throat's Boast Shoes",
+    "values": {
+      "commonRange": "390 - 17,766",
+      "averagePrice": 5517,
+      "minimumPrice": 290,
+      "maximumPrice": 29900,
+      "averageStackPrice": 5517,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

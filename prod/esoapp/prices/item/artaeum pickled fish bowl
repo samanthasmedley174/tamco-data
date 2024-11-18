@@ -1,0 +1,18 @@
+[
+  {
+    "name": "artaeum pickled fish bowl",
+    "displayName": "Artaeum Pickled Fish Bowl",
+    "values": {
+      "commonRange": "550 - 900",
+      "averagePrice": 807,
+      "minimumPrice": 550,
+      "maximumPrice": 900,
+      "averageStackPrice": 8070,
+      "commonStackSize": 10,
+      "salesRecorded": 32
+    },
+    "type": "Food & Drinks",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/artaeum_pickled_fish_bowl.png"
+  }
+]

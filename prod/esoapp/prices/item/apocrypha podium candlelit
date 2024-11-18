@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha podium candlelit",
+    "displayName": "Apocrypha Podium, Candlelit",
+    "values": {
+      "commonRange": "18,000 - 33,000",
+      "averagePrice": 25309,
+      "minimumPrice": 14977,
+      "maximumPrice": 43210,
+      "averageStackPrice": 25309,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

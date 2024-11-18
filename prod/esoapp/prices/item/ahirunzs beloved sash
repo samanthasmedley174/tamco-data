@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ahirunzs beloved sash",
+    "displayName": "Ahirunz's Beloved Sash",
+    "values": {
+      "commonRange": "284 - 584",
+      "averagePrice": 434,
+      "minimumPrice": 284,
+      "maximumPrice": 584,
+      "averageStackPrice": 434,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

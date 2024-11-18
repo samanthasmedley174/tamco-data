@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian bounty painting wood",
+    "displayName": "Colovian Bounty Painting, Wood",
+    "values": {
+      "commonRange": "20,300 - 40,000",
+      "averagePrice": 32999,
+      "minimumPrice": 20000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 32999,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

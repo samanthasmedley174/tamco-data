@@ -1,0 +1,18 @@
+[
+  {
+    "name": "camonna tong maul",
+    "displayName": "Camonna Tong Maul",
+    "values": {
+      "commonRange": "800 - 2,240",
+      "averagePrice": 1240,
+      "minimumPrice": 200,
+      "maximumPrice": 2500,
+      "averageStackPrice": 1240,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic chair wood",
+    "displayName": "Druidic Chair, Wood",
+    "values": {
+      "commonRange": "2,112 - 6,000",
+      "averagePrice": 4116,
+      "minimumPrice": 160,
+      "maximumPrice": 9000,
+      "averageStackPrice": 4116,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

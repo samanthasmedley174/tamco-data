@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cowards gear ring",
+    "displayName": "Coward's Gear Ring",
+    "values": {
+      "commonRange": "350 - 5,195",
+      "averagePrice": 2407,
+      "minimumPrice": 144,
+      "maximumPrice": 15687,
+      "averageStackPrice": 2407,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

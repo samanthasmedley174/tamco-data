@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redoran tray floral",
+    "displayName": "Diagram: Redoran Tray, Floral",
+    "values": {
+      "commonRange": "24,000 - 30,844",
+      "averagePrice": 27302,
+      "minimumPrice": 20039,
+      "maximumPrice": 31680,
+      "averageStackPrice": 27302,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

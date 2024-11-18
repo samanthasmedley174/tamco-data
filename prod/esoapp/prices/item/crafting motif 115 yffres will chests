@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 115 yffres will chests",
+    "displayName": "Crafting Motif 115: Y'ffre's Will Chests",
+    "values": {
+      "commonRange": "179,863 - 250,000",
+      "averagePrice": 195599,
+      "minimumPrice": 100000,
+      "maximumPrice": 250000,
+      "averageStackPrice": 195599,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

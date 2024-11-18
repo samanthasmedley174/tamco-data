@@ -1,0 +1,18 @@
+[
+  {
+    "name": "desert grass patch",
+    "displayName": "Desert Grass, Patch",
+    "values": {
+      "commonRange": "500 - 833",
+      "averagePrice": 750,
+      "minimumPrice": 65,
+      "maximumPrice": 2015,
+      "averageStackPrice": 7500,
+      "commonStackSize": 10,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 55 dreadhorn staves",
+    "displayName": "Crafting Motif 55: Dreadhorn Staves",
+    "values": {
+      "commonRange": "5,000 - 9,781",
+      "averagePrice": 7283,
+      "minimumPrice": 4810,
+      "maximumPrice": 14794,
+      "averageStackPrice": 7283,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

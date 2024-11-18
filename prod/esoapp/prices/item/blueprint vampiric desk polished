@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint vampiric desk polished",
+    "displayName": "Blueprint: Vampiric Desk, Polished",
+    "values": {
+      "commonRange": "200,000 - 325,000",
+      "averagePrice": 284919,
+      "minimumPrice": 200000,
+      "maximumPrice": 380000,
+      "averageStackPrice": 284919,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

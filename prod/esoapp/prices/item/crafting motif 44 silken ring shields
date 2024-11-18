@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 44 silken ring shields",
+    "displayName": "Crafting Motif 44: Silken Ring Shields",
+    "values": {
+      "commonRange": "7,804 - 13,013",
+      "averagePrice": 10612,
+      "minimumPrice": 7804,
+      "maximumPrice": 13013,
+      "averageStackPrice": 10612,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

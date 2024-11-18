@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafty alfiqs shoes",
+    "displayName": "Crafty Alfiq's Shoes",
+    "values": {
+      "commonRange": "190 - 11,515",
+      "averagePrice": 4605,
+      "minimumPrice": 87,
+      "maximumPrice": 25000,
+      "averageStackPrice": 4605,
+      "commonStackSize": 1,
+      "salesRecorded": 77
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

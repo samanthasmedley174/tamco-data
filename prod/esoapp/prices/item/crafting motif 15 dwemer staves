@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 15 dwemer staves",
+    "displayName": "Crafting Motif 15: Dwemer Staves",
+    "values": {
+      "commonRange": "3,000 - 5,000",
+      "averagePrice": 4183,
+      "minimumPrice": 3000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 4183,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

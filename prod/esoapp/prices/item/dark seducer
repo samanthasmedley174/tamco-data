@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark seducer",
+    "displayName": "Dark Seducer",
+    "values": {
+      "commonRange": "2 - 2",
+      "averagePrice": 2,
+      "minimumPrice": 2,
+      "maximumPrice": 2,
+      "averageStackPrice": 146,
+      "commonStackSize": 73,
+      "salesRecorded": 1
+    },
+    "type": "Food & Drinks",
+    "date": "06/28/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/dark_seducer.png"
+  }
+]

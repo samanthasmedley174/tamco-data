@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design fargrave fish pile deadlands trout",
+    "displayName": "Design: Fargrave Fish Pile, Deadlands Trout",
+    "values": {
+      "commonRange": "86 - 500",
+      "averagePrice": 271,
+      "minimumPrice": 86,
+      "maximumPrice": 986,
+      "averageStackPrice": 271,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

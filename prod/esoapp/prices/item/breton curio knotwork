@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton curio knotwork",
+    "displayName": "Breton Curio, Knotwork",
+    "values": {
+      "commonRange": "4,000 - 8,000",
+      "averagePrice": 6270,
+      "minimumPrice": 3300,
+      "maximumPrice": 9900,
+      "averageStackPrice": 6270,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

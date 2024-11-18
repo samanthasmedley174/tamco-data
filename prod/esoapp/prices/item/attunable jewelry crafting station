@@ -1,0 +1,18 @@
+[
+  {
+    "name": "attunable jewelry crafting station",
+    "displayName": "Attunable Jewelry Crafting Station",
+    "values": {
+      "commonRange": "150,000 - 170,000",
+      "averagePrice": 153939,
+      "minimumPrice": 145000,
+      "maximumPrice": 180000,
+      "averageStackPrice": 153939,
+      "commonStackSize": 1,
+      "salesRecorded": 99
+    },
+    "type": "Furnishings",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

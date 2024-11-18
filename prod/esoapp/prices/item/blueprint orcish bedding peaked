@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint orcish bedding peaked",
+    "displayName": "Blueprint: Orcish Bedding, Peaked",
+    "values": {
+      "commonRange": "600 - 1,034",
+      "averagePrice": 886,
+      "minimumPrice": 230,
+      "maximumPrice": 1500,
+      "averageStackPrice": 886,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/31/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle counter sturdy",
+    "displayName": "Blueprint: High Isle Counter, Sturdy",
+    "values": {
+      "commonRange": "2,000 - 7,566",
+      "averagePrice": 5183,
+      "minimumPrice": 1110,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5183,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

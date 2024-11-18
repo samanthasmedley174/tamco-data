@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha wall book stacks",
+    "displayName": "Apocrypha Wall, Book Stacks",
+    "values": {
+      "commonRange": "7,650 - 30,000",
+      "averagePrice": 17257,
+      "minimumPrice": 6666,
+      "maximumPrice": 30000,
+      "averageStackPrice": 17257,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

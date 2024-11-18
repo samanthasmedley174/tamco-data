@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 117 firesong legs",
+    "displayName": "Crafting Motif 117: Firesong Legs",
+    "values": {
+      "commonRange": "5,039 - 17,500",
+      "averagePrice": 13636,
+      "minimumPrice": 5000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 13636,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

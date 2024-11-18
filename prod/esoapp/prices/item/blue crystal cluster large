@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blue crystal cluster large",
+    "displayName": "Blue Crystal Cluster, Large",
+    "values": {
+      "commonRange": "15,000 - 30,000",
+      "averagePrice": 19733,
+      "minimumPrice": 2000,
+      "maximumPrice": 33333,
+      "averageStackPrice": 19733,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

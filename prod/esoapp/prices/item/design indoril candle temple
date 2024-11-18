@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design indoril candle temple",
+    "displayName": "Design: Indoril Candle, Temple",
+    "values": {
+      "commonRange": "26,000 - 33,333",
+      "averagePrice": 31611,
+      "minimumPrice": 24000,
+      "maximumPrice": 44000,
+      "averageStackPrice": 31611,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

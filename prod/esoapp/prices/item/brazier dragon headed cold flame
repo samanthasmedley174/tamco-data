@@ -1,0 +1,18 @@
+[
+  {
+    "name": "brazier dragon headed cold flame",
+    "displayName": "Brazier, Dragon-Headed Cold-Flame",
+    "values": {
+      "commonRange": "20,000 - 61,287",
+      "averagePrice": 34115,
+      "minimumPrice": 20000,
+      "maximumPrice": 62422,
+      "averageStackPrice": 34115,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

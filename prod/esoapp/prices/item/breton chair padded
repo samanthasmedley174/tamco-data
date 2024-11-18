@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton chair padded",
+    "displayName": "Breton Chair, Padded",
+    "values": {
+      "commonRange": "4,000 - 9,900",
+      "averagePrice": 7530,
+      "minimumPrice": 4000,
+      "maximumPrice": 9900,
+      "averageStackPrice": 7530,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram velothi brazier temple",
+    "displayName": "Diagram: Velothi Brazier, Temple",
+    "values": {
+      "commonRange": "38,000 - 64,000",
+      "averagePrice": 52445,
+      "minimumPrice": 29999,
+      "maximumPrice": 65039,
+      "averageStackPrice": 52445,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

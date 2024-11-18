@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design snail bowl display",
+    "displayName": "Design: Snail Bowl, Display",
+    "values": {
+      "commonRange": "18,000 - 20,566",
+      "averagePrice": 19316,
+      "minimumPrice": 14000,
+      "maximumPrice": 23000,
+      "averageStackPrice": 19316,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

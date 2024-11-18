@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 115 yffres will axes",
+    "displayName": "Crafting Motif 115: Y'ffre's Will Axes",
+    "values": {
+      "commonRange": "22,739 - 34,621",
+      "averagePrice": 27643,
+      "minimumPrice": 20000,
+      "maximumPrice": 47443,
+      "averageStackPrice": 27643,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

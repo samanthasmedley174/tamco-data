@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands column heavy roofed",
+    "displayName": "Deadlands Column, Heavy Roofed",
+    "values": {
+      "commonRange": "4,150 - 9,450",
+      "averagePrice": 7657,
+      "minimumPrice": 3801,
+      "maximumPrice": 10000,
+      "averageStackPrice": 30628,
+      "commonStackSize": 4,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

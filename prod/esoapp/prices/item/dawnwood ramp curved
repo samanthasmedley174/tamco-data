@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood ramp curved",
+    "displayName": "Dawnwood Ramp, Curved",
+    "values": {
+      "commonRange": "9,216 - 30,000",
+      "averagePrice": 15519,
+      "minimumPrice": 8175,
+      "maximumPrice": 40000,
+      "averageStackPrice": 15519,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

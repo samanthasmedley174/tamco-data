@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 11 ancient elf style",
+    "displayName": "Crafting Motif 11: Ancient Elf Style",
+    "values": {
+      "commonRange": "100 - 2,500",
+      "averagePrice": 1170,
+      "minimumPrice": 100,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1170,
+      "commonStackSize": 1,
+      "salesRecorded": 35
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

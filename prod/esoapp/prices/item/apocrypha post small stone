@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha post small stone",
+    "displayName": "Apocrypha Post, Small Stone",
+    "values": {
+      "commonRange": "8,000 - 11,202",
+      "averagePrice": 10802,
+      "minimumPrice": 7000,
+      "maximumPrice": 19750,
+      "averageStackPrice": 21604,
+      "commonStackSize": 2,
+      "salesRecorded": 6
+    },
+    "type": "Furnishings",
+    "date": "06/04/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

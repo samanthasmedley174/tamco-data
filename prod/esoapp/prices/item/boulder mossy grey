@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boulder mossy grey",
+    "displayName": "Boulder, Mossy Grey",
+    "values": {
+      "commonRange": "15 - 1,015",
+      "averagePrice": 338,
+      "minimumPrice": 15,
+      "maximumPrice": 1515,
+      "averageStackPrice": 338,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

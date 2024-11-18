@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 133 coldharbour dominator swords",
+    "displayName": "Crafting Motif 133: Coldharbour Dominator Swords",
+    "values": {
+      "commonRange": "60,000 - 109,907",
+      "averagePrice": 92845,
+      "minimumPrice": 55000,
+      "maximumPrice": 110000,
+      "averageStackPrice": 92845,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

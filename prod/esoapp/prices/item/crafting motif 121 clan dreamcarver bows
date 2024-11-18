@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 121 clan dreamcarver bows",
+    "displayName": "Crafting Motif 121: Clan Dreamcarver Bows",
+    "values": {
+      "commonRange": "4,000 - 9,252",
+      "averagePrice": 5570,
+      "minimumPrice": 3900,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5570,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha ink pestle black",
+    "displayName": "Apocrypha Ink Pestle, Black",
+    "values": {
+      "commonRange": "360 - 702",
+      "averagePrice": 564,
+      "minimumPrice": 250,
+      "maximumPrice": 750,
+      "averageStackPrice": 564,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

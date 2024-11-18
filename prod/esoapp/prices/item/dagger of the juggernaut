@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of the juggernaut",
+    "displayName": "Dagger of the Juggernaut",
+    "values": {
+      "commonRange": "2,153 - 11,213",
+      "averagePrice": 9383,
+      "minimumPrice": 153,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9383,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha bridge large curling",
+    "displayName": "Apocrypha Bridge, Large Curling",
+    "values": {
+      "commonRange": "20,000 - 30,000",
+      "averagePrice": 24969,
+      "minimumPrice": 20000,
+      "maximumPrice": 34631,
+      "averageStackPrice": 24969,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

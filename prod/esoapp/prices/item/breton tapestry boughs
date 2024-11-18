@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton tapestry boughs",
+    "displayName": "Breton Tapestry, Boughs",
+    "values": {
+      "commonRange": "1,999 - 4,400",
+      "averagePrice": 3133,
+      "minimumPrice": 1000,
+      "maximumPrice": 5500,
+      "averageStackPrice": 3133,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

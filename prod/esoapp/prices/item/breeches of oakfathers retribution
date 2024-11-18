@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of oakfathers retribution",
+    "displayName": "Breeches of Oakfather's Retribution",
+    "values": {
+      "commonRange": "2,580 - 12,000",
+      "averagePrice": 8775,
+      "minimumPrice": 1174,
+      "maximumPrice": 70000,
+      "averageStackPrice": 8775,
+      "commonStackSize": 1,
+      "salesRecorded": 51
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

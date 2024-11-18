@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battalion defender restoration staff",
+    "displayName": "Battalion Defender Restoration Staff",
+    "values": {
+      "commonRange": "2,000 - 15,000",
+      "averagePrice": 8964,
+      "minimumPrice": 850,
+      "maximumPrice": 19240,
+      "averageStackPrice": 8964,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

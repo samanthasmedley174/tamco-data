@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram high isle sconce ornate",
+    "displayName": "Diagram: High Isle Sconce, Ornate",
+    "values": {
+      "commonRange": "18,000 - 22,000",
+      "averagePrice": 20133,
+      "minimumPrice": 17000,
+      "maximumPrice": 22939,
+      "averageStackPrice": 20133,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

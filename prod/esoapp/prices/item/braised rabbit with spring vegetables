@@ -1,0 +1,18 @@
+[
+  {
+    "name": "braised rabbit with spring vegetables",
+    "displayName": "Braised Rabbit with Spring Vegetables",
+    "values": {
+      "commonRange": "15 - 35",
+      "averagePrice": 31,
+      "minimumPrice": 15,
+      "maximumPrice": 110,
+      "averageStackPrice": 3100,
+      "commonStackSize": 100,
+      "salesRecorded": 14
+    },
+    "type": "Food & Drinks",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/braised_rabbit_with_spring_vegetables.png"
+  }
+]

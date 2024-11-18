@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boots of mechanical acuity",
+    "displayName": "Boots of Mechanical Acuity",
+    "values": {
+      "commonRange": "33,000 - 33,000",
+      "averagePrice": 40698,
+      "minimumPrice": 20000,
+      "maximumPrice": 69093,
+      "averageStackPrice": 40698,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

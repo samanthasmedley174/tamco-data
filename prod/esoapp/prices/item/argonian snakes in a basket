@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian snakes in a basket",
+    "displayName": "Argonian Snakes in a Basket",
+    "values": {
+      "commonRange": "575 - 11,800",
+      "averagePrice": 5403,
+      "minimumPrice": 450,
+      "maximumPrice": 11800,
+      "averageStackPrice": 5403,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/08/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

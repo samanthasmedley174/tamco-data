@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of the footman",
+    "displayName": "Axe of the Footman",
+    "values": {
+      "commonRange": "20,000 - 20,000",
+      "averagePrice": 26717,
+      "minimumPrice": 20000,
+      "maximumPrice": 40150,
+      "averageStackPrice": 26717,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

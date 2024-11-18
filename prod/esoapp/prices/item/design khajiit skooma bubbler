@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design khajiit skooma bubbler",
+    "displayName": "Design: Khajiit Skooma Bubbler",
+    "values": {
+      "commonRange": "75,000 - 99,352",
+      "averagePrice": 83292,
+      "minimumPrice": 40000,
+      "maximumPrice": 105553,
+      "averageStackPrice": 83292,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

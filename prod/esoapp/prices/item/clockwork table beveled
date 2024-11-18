@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork table beveled",
+    "displayName": "Clockwork Table, Beveled",
+    "values": {
+      "commonRange": "3,500 - 8,150",
+      "averagePrice": 5285,
+      "minimumPrice": 400,
+      "maximumPrice": 11000,
+      "averageStackPrice": 5285,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

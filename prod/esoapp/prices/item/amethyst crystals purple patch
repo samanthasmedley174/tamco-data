@@ -1,0 +1,18 @@
+[
+  {
+    "name": "amethyst crystals purple patch",
+    "displayName": "Amethyst Crystals, Purple Patch",
+    "values": {
+      "commonRange": "8,800 - 9,300",
+      "averagePrice": 9525,
+      "minimumPrice": 8000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 9525,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

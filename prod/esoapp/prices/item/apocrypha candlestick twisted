@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha candlestick twisted",
+    "displayName": "Apocrypha Candlestick, Twisted",
+    "values": {
+      "commonRange": "2,002 - 13,000",
+      "averagePrice": 7279,
+      "minimumPrice": 1816,
+      "maximumPrice": 18000,
+      "averageStackPrice": 7279,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

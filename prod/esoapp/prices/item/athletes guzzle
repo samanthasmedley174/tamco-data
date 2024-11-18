@@ -1,0 +1,18 @@
+[
+  {
+    "name": "athletes guzzle",
+    "displayName": "Athlete's Guzzle",
+    "values": {
+      "commonRange": "9 - 15",
+      "averagePrice": 44,
+      "minimumPrice": 2,
+      "maximumPrice": 150,
+      "averageStackPrice": 1100,
+      "commonStackSize": 25,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "08/24/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/athlete's_guzzle.png"
+  }
+]

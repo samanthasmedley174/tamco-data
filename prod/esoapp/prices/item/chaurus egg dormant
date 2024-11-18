@@ -1,0 +1,18 @@
+[
+  {
+    "name": "chaurus egg dormant",
+    "displayName": "Chaurus Egg, Dormant",
+    "values": {
+      "commonRange": "8,000 - 13,990",
+      "averagePrice": 10356,
+      "minimumPrice": 5300,
+      "maximumPrice": 13990,
+      "averageStackPrice": 10356,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

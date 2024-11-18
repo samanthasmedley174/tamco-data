@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 31 skinchanger maces",
+    "displayName": "Crafting Motif 31: Skinchanger Maces",
+    "values": {
+      "commonRange": "3,096 - 7,539",
+      "averagePrice": 4968,
+      "minimumPrice": 500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4968,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

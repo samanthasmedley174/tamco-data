@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint vampiric lectern polished",
+    "displayName": "Blueprint: Vampiric Lectern, Polished",
+    "values": {
+      "commonRange": "2,500 - 3,864",
+      "averagePrice": 3353,
+      "minimumPrice": 2500,
+      "maximumPrice": 4000,
+      "averageStackPrice": 3353,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

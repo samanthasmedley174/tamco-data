@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deregulated mushroom stew",
+    "displayName": "Deregulated Mushroom Stew",
+    "values": {
+      "commonRange": "60 - 150",
+      "averagePrice": 129,
+      "minimumPrice": 30,
+      "maximumPrice": 150,
+      "averageStackPrice": 1032,
+      "commonStackSize": 8,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "07/18/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/deregulated_mushroom_stew.png"
+  }
+]

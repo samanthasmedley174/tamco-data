@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bright throats boast axe",
+    "displayName": "Bright-Throat's Boast Axe",
+    "values": {
+      "commonRange": "1,668 - 2,668",
+      "averagePrice": 2468,
+      "minimumPrice": 300,
+      "maximumPrice": 5555,
+      "averageStackPrice": 2468,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

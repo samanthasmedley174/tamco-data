@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 28 ra gada swords",
+    "displayName": "Crafting Motif 28: Ra Gada Swords",
+    "values": {
+      "commonRange": "1,500 - 5,000",
+      "averagePrice": 3197,
+      "minimumPrice": 1338,
+      "maximumPrice": 7420,
+      "averageStackPrice": 3197,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

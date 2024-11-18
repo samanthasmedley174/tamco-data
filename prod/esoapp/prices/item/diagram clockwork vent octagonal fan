@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram clockwork vent octagonal fan",
+    "displayName": "Diagram: Clockwork Vent, Octagonal Fan",
+    "values": {
+      "commonRange": "3,000 - 5,940",
+      "averagePrice": 4665,
+      "minimumPrice": 1000,
+      "maximumPrice": 9940,
+      "averageStackPrice": 4665,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

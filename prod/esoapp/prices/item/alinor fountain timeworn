@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor fountain timeworn",
+    "displayName": "Alinor Fountain, Timeworn",
+    "values": {
+      "commonRange": "8,500 - 16,850",
+      "averagePrice": 11029,
+      "minimumPrice": 6000,
+      "maximumPrice": 17150,
+      "averageStackPrice": 11029,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

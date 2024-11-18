@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 45 mazzatun style",
+    "displayName": "Crafting Motif 45: Mazzatun Style",
+    "values": {
+      "commonRange": "1,000,000 - 2,000,000",
+      "averagePrice": 1500000,
+      "minimumPrice": 1000000,
+      "maximumPrice": 2000000,
+      "averageStackPrice": 1500000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Motifs",
+    "date": "01/26/2021",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

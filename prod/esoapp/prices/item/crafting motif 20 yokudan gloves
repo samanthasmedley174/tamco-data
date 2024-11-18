@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 20 yokudan gloves",
+    "displayName": "Crafting Motif 20: Yokudan Gloves",
+    "values": {
+      "commonRange": "9,700 - 45,000",
+      "averagePrice": 20239,
+      "minimumPrice": 5000,
+      "maximumPrice": 55661,
+      "averageStackPrice": 20239,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

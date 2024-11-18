@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 17 xivkyn style",
+    "displayName": "Crafting Motif 17: Xivkyn Style",
+    "values": {
+      "commonRange": "223,180 - 600,000",
+      "averagePrice": 489255,
+      "minimumPrice": 150000,
+      "maximumPrice": 999006,
+      "averageStackPrice": 489255,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

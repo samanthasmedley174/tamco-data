@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clasp of the dragon",
+    "displayName": "Clasp of the Dragon",
+    "values": {
+      "commonRange": "278 - 278",
+      "averagePrice": 278,
+      "minimumPrice": 278,
+      "maximumPrice": 278,
+      "averageStackPrice": 278,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

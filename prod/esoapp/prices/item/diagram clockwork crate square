@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram clockwork crate square",
+    "displayName": "Diagram: Clockwork Crate, Square",
+    "values": {
+      "commonRange": "1,000 - 2,515",
+      "averagePrice": 1717,
+      "minimumPrice": 127,
+      "maximumPrice": 2985,
+      "averageStackPrice": 1717,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

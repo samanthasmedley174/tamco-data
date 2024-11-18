@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands archway large",
+    "displayName": "Deadlands Archway, Large",
+    "values": {
+      "commonRange": "6,997 - 10,511",
+      "averagePrice": 9395,
+      "minimumPrice": 5150,
+      "maximumPrice": 13950,
+      "averageStackPrice": 9395,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

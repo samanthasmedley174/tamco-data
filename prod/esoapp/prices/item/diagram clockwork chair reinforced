@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram clockwork chair reinforced",
+    "displayName": "Diagram: Clockwork Chair, Reinforced",
+    "values": {
+      "commonRange": "20,039 - 27,747",
+      "averagePrice": 23571,
+      "minimumPrice": 20000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 23571,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

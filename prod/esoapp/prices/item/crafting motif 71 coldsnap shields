@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 71 coldsnap shields",
+    "displayName": "Crafting Motif 71: Coldsnap Shields",
+    "values": {
+      "commonRange": "66,000 - 235,000",
+      "averagePrice": 136980,
+      "minimumPrice": 10000,
+      "maximumPrice": 236000,
+      "averageStackPrice": 136980,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

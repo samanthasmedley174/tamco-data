@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram nord candleholder cup",
+    "displayName": "Diagram: Nord Candleholder, Cup",
+    "values": {
+      "commonRange": "30 - 131",
+      "averagePrice": 93,
+      "minimumPrice": 27,
+      "maximumPrice": 200,
+      "averageStackPrice": 93,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

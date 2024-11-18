@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven device deactivated",
+    "displayName": "Dwarven Device, Deactivated",
+    "values": {
+      "commonRange": "18,000 - 20,000",
+      "averagePrice": 18236,
+      "minimumPrice": 15000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 18236,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

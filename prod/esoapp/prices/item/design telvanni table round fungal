@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design telvanni table round fungal",
+    "displayName": "Design: Telvanni Table, Round Fungal",
+    "values": {
+      "commonRange": "9,000 - 20,000",
+      "averagePrice": 11228,
+      "minimumPrice": 30,
+      "maximumPrice": 28886,
+      "averageStackPrice": 11228,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

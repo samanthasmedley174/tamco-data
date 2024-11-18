@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 111 ascendant order boots",
+    "displayName": "Crafting Motif 111: Ascendant Order Boots",
+    "values": {
+      "commonRange": "9,500 - 15,000",
+      "averagePrice": 13037,
+      "minimumPrice": 8000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 13037,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design leyawiin kylix silver",
+    "displayName": "Design: Leyawiin Kylix, Silver",
+    "values": {
+      "commonRange": "1,030 - 6,932",
+      "averagePrice": 4844,
+      "minimumPrice": 1000,
+      "maximumPrice": 7000,
+      "averageStackPrice": 4844,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

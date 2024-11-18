@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands assassins bow",
+    "displayName": "Deadlands Assassin's Bow",
+    "values": {
+      "commonRange": "240 - 8,000",
+      "averagePrice": 6732,
+      "minimumPrice": 190,
+      "maximumPrice": 45000,
+      "averageStackPrice": 6732,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

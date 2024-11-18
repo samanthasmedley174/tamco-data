@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ashwalkers boots",
+    "displayName": "Ashwalker's Boots",
+    "values": {
+      "commonRange": "45 - 45",
+      "averagePrice": 45,
+      "minimumPrice": 45,
+      "maximumPrice": 45,
+      "averageStackPrice": 45,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

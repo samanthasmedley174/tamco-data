@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor jewelry box noble",
+    "displayName": "Alinor Jewelry Box, Noble",
+    "values": {
+      "commonRange": "7,000 - 10,000",
+      "averagePrice": 8228,
+      "minimumPrice": 5000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 8228,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/03/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

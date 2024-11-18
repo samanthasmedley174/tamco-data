@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr meal whole roasted chicken",
+    "displayName": "Blueprint: Elsweyr Meal, Whole Roasted Chicken",
+    "values": {
+      "commonRange": "12,000 - 18,039",
+      "averagePrice": 13774,
+      "minimumPrice": 10000,
+      "maximumPrice": 19039,
+      "averageStackPrice": 13774,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

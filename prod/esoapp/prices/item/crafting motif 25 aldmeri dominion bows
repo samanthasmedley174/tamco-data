@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 25 aldmeri dominion bows",
+    "displayName": "Crafting Motif 25: Aldmeri Dominion Bows",
+    "values": {
+      "commonRange": "2,039 - 5,000",
+      "averagePrice": 3495,
+      "minimumPrice": 350,
+      "maximumPrice": 10039,
+      "averageStackPrice": 3495,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

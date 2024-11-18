@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands stairway wide",
+    "displayName": "Deadlands Stairway, Wide",
+    "values": {
+      "commonRange": "5,464 - 10,420",
+      "averagePrice": 8873,
+      "minimumPrice": 3947,
+      "maximumPrice": 18000,
+      "averageStackPrice": 8873,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

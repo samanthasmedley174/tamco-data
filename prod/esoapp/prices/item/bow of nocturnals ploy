@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of nocturnals ploy",
+    "displayName": "Bow of Nocturnal's Ploy",
+    "values": {
+      "commonRange": "946 - 946",
+      "averagePrice": 1046,
+      "minimumPrice": 946,
+      "maximumPrice": 1246,
+      "averageStackPrice": 1046,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

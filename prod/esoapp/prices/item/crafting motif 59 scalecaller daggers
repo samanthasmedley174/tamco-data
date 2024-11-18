@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 59 scalecaller daggers",
+    "displayName": "Crafting Motif 59: Scalecaller Daggers",
+    "values": {
+      "commonRange": "5,039 - 8,888",
+      "averagePrice": 7227,
+      "minimumPrice": 5000,
+      "maximumPrice": 8961,
+      "averageStackPrice": 7227,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

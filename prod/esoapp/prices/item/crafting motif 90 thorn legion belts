@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 90 thorn legion belts",
+    "displayName": "Crafting Motif 90: Thorn Legion Belts",
+    "values": {
+      "commonRange": "5,000 - 17,307",
+      "averagePrice": 12602,
+      "minimumPrice": 4000,
+      "maximumPrice": 17307,
+      "averageStackPrice": 12602,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

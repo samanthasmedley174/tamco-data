@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 19 mercenary style",
+    "displayName": "Crafting Motif 19: Mercenary Style",
+    "values": {
+      "commonRange": "1,450,000 - 1,500,000",
+      "averagePrice": 1537500,
+      "minimumPrice": 1200000,
+      "maximumPrice": 2000000,
+      "averageStackPrice": 1537500,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Motifs",
+    "date": "11/16/2021",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

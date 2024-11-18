@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 22 trinimac axes",
+    "displayName": "Crafting Motif 22: Trinimac Axes",
+    "values": {
+      "commonRange": "18,000 - 22,481",
+      "averagePrice": 22077,
+      "minimumPrice": 14064,
+      "maximumPrice": 45000,
+      "averageStackPrice": 22077,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

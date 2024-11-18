@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram clockwork surveyors tripod calibrated",
+    "displayName": "Diagram: Clockwork Surveyor's Tripod, Calibrated",
+    "values": {
+      "commonRange": "2,000 - 4,508",
+      "averagePrice": 3511,
+      "minimumPrice": 2000,
+      "maximumPrice": 5583,
+      "averageStackPrice": 3511,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

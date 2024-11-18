@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor table decorative marble",
+    "displayName": "Alinor Table, Decorative Marble",
+    "values": {
+      "commonRange": "4,000 - 14,950",
+      "averagePrice": 8508,
+      "minimumPrice": 4000,
+      "maximumPrice": 18950,
+      "averageStackPrice": 8508,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

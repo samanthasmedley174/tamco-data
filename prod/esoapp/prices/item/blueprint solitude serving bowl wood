@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude serving bowl wood",
+    "displayName": "Blueprint: Solitude Serving Bowl, Wood",
+    "values": {
+      "commonRange": "1,156 - 2,500",
+      "averagePrice": 1986,
+      "minimumPrice": 400,
+      "maximumPrice": 2653,
+      "averageStackPrice": 1986,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

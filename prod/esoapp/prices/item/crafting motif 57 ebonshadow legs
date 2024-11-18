@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 57 ebonshadow legs",
+    "displayName": "Crafting Motif 57: Ebonshadow Legs",
+    "values": {
+      "commonRange": "3,500 - 5,250",
+      "averagePrice": 4719,
+      "minimumPrice": 3000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4719,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of salvation",
+    "displayName": "Battle Axe of Salvation",
+    "values": {
+      "commonRange": "534 - 3,850",
+      "averagePrice": 1913,
+      "minimumPrice": 330,
+      "maximumPrice": 4240,
+      "averageStackPrice": 1913,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

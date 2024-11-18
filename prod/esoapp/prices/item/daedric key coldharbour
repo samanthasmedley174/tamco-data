@@ -1,0 +1,18 @@
+[
+  {
+    "name": "daedric key coldharbour",
+    "displayName": "Daedric Key, Coldharbour",
+    "values": {
+      "commonRange": "12,098 - 20,000",
+      "averagePrice": 15190,
+      "minimumPrice": 5500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 15190,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "banner transmute small",
+    "displayName": "Banner, Transmute Small",
+    "values": {
+      "commonRange": "3,004 - 8,749",
+      "averagePrice": 6385,
+      "minimumPrice": 3004,
+      "maximumPrice": 15000,
+      "averageStackPrice": 6385,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 24 outlaw bows",
+    "displayName": "Crafting Motif 24: Outlaw Bows",
+    "values": {
+      "commonRange": "5,000 - 30,000",
+      "averagePrice": 17311,
+      "minimumPrice": 5000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 17311,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

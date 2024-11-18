@@ -1,0 +1,18 @@
+[
+  {
+    "name": "adept riders helm",
+    "displayName": "Adept Rider's Helm",
+    "values": {
+      "commonRange": "2,997 - 2,997",
+      "averagePrice": 2997,
+      "minimumPrice": 2997,
+      "maximumPrice": 2997,
+      "averageStackPrice": 2997,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

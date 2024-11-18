@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands brazier bladed cage",
+    "displayName": "Deadlands Brazier, Bladed Cage",
+    "values": {
+      "commonRange": "3,000 - 7,500",
+      "averagePrice": 4963,
+      "minimumPrice": 2500,
+      "maximumPrice": 7500,
+      "averageStackPrice": 4963,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

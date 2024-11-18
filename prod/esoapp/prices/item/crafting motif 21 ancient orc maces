@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 21 ancient orc maces",
+    "displayName": "Crafting Motif 21: Ancient Orc Maces",
+    "values": {
+      "commonRange": "10,000 - 22,000",
+      "averagePrice": 16502,
+      "minimumPrice": 2039,
+      "maximumPrice": 27000,
+      "averageStackPrice": 16502,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

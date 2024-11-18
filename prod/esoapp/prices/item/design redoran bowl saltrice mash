@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design redoran bowl saltrice mash",
+    "displayName": "Design: Redoran Bowl, Saltrice Mash",
+    "values": {
+      "commonRange": "2,288 - 4,200",
+      "averagePrice": 3096,
+      "minimumPrice": 1088,
+      "maximumPrice": 4200,
+      "averageStackPrice": 3096,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

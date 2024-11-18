@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian trellis open",
+    "displayName": "Blueprint: Colovian Trellis, Open",
+    "values": {
+      "commonRange": "7,000 - 9,068",
+      "averagePrice": 7785,
+      "minimumPrice": 3850,
+      "maximumPrice": 10000,
+      "averageStackPrice": 7785,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

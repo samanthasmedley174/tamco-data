@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 123 kindreds concord chests",
+    "displayName": "Crafting Motif 123: Kindred's Concord Chests",
+    "values": {
+      "commonRange": "110,000 - 160,000",
+      "averagePrice": 127204,
+      "minimumPrice": 5000,
+      "maximumPrice": 161410,
+      "averageStackPrice": 127204,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

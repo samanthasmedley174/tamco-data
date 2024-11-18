@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha archway book stacks",
+    "displayName": "Apocrypha Archway, Book Stacks",
+    "values": {
+      "commonRange": "5,000 - 36,990",
+      "averagePrice": 27286,
+      "minimumPrice": 5000,
+      "maximumPrice": 36990,
+      "averageStackPrice": 27286,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

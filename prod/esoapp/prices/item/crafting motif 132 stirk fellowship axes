@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 132 stirk fellowship axes",
+    "displayName": "Crafting Motif 132: Stirk Fellowship Axes",
+    "values": {
+      "commonRange": "500 - 5,564",
+      "averagePrice": 3025,
+      "minimumPrice": 500,
+      "maximumPrice": 11909,
+      "averageStackPrice": 3025,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

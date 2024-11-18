@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dreamers ring",
+    "displayName": "Dreamer's Ring",
+    "values": {
+      "commonRange": "144 - 3,153",
+      "averagePrice": 2375,
+      "minimumPrice": 130,
+      "maximumPrice": 30156,
+      "averageStackPrice": 2375,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

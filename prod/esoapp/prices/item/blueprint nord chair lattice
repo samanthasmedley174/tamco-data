@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint nord chair lattice",
+    "displayName": "Blueprint: Nord Chair, Lattice",
+    "values": {
+      "commonRange": "9,000 - 12,503",
+      "averagePrice": 11331,
+      "minimumPrice": 4886,
+      "maximumPrice": 19999,
+      "averageStackPrice": 11331,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood meal delicacy",
+    "displayName": "Dawnwood Meal, Delicacy",
+    "values": {
+      "commonRange": "1,560 - 3,000",
+      "averagePrice": 2278,
+      "minimumPrice": 1060,
+      "maximumPrice": 4460,
+      "averageStackPrice": 2278,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

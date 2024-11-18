@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dungeon delving brigandine",
+    "displayName": "Dungeon-Delving Brigandine",
+    "values": {
+      "commonRange": "199 - 199",
+      "averagePrice": 199,
+      "minimumPrice": 199,
+      "maximumPrice": 199,
+      "averageStackPrice": 199,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

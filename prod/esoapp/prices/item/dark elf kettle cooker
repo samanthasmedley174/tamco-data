@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf kettle cooker",
+    "displayName": "Dark Elf Kettle Cooker",
+    "values": {
+      "commonRange": "5,040 - 5,653",
+      "averagePrice": 5302,
+      "minimumPrice": 5000,
+      "maximumPrice": 5678,
+      "averageStackPrice": 5302,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

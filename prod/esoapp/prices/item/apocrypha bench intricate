@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha bench intricate",
+    "displayName": "Apocrypha Bench, Intricate",
+    "values": {
+      "commonRange": "10,629 - 24,019",
+      "averagePrice": 17027,
+      "minimumPrice": 9800,
+      "maximumPrice": 26100,
+      "averageStackPrice": 17027,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

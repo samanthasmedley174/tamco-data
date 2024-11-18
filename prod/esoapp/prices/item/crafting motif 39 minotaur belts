@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 39 minotaur belts",
+    "displayName": "Crafting Motif 39: Minotaur Belts",
+    "values": {
+      "commonRange": "30,000 - 43,000",
+      "averagePrice": 35598,
+      "minimumPrice": 30000,
+      "maximumPrice": 43000,
+      "averageStackPrice": 35598,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

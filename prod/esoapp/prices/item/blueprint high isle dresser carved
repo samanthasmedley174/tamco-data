@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle dresser carved",
+    "displayName": "Blueprint: High Isle Dresser, Carved",
+    "values": {
+      "commonRange": "21,800 - 26,039",
+      "averagePrice": 24254,
+      "minimumPrice": 20000,
+      "maximumPrice": 26652,
+      "averageStackPrice": 24254,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

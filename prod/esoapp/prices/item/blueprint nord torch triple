@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint nord torch triple",
+    "displayName": "Blueprint: Nord Torch, Triple",
+    "values": {
+      "commonRange": "30 - 1,091",
+      "averagePrice": 317,
+      "minimumPrice": 25,
+      "maximumPrice": 1153,
+      "averageStackPrice": 317,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

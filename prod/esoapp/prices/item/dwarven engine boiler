@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven engine boiler",
+    "displayName": "Dwarven Engine, Boiler",
+    "values": {
+      "commonRange": "4,900 - 20,000",
+      "averagePrice": 11863,
+      "minimumPrice": 2500,
+      "maximumPrice": 20150,
+      "averageStackPrice": 11863,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

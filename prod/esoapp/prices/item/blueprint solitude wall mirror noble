@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude wall mirror noble",
+    "displayName": "Blueprint: Solitude Wall Mirror, Noble",
+    "values": {
+      "commonRange": "22,000 - 27,039",
+      "averagePrice": 25300,
+      "minimumPrice": 22000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 25300,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

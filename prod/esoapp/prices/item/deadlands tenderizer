@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands tenderizer",
+    "displayName": "Deadlands Tenderizer",
+    "values": {
+      "commonRange": "3,000 - 4,830",
+      "averagePrice": 4074,
+      "minimumPrice": 500,
+      "maximumPrice": 10950,
+      "averageStackPrice": 4074,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

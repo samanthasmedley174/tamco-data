@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 88 ancestral orc boots",
+    "displayName": "Crafting Motif 88: Ancestral Orc Boots",
+    "values": {
+      "commonRange": "2,181 - 5,434",
+      "averagePrice": 4460,
+      "minimumPrice": 2000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 4460,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

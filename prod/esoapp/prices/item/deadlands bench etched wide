@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands bench etched wide",
+    "displayName": "Deadlands Bench, Etched Wide",
+    "values": {
+      "commonRange": "4,160 - 5,950",
+      "averagePrice": 4843,
+      "minimumPrice": 3150,
+      "maximumPrice": 6950,
+      "averageStackPrice": 4843,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

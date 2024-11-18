@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian basket woven",
+    "displayName": "Argonian Basket, Woven",
+    "values": {
+      "commonRange": "800 - 3,000",
+      "averagePrice": 1954,
+      "minimumPrice": 200,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1954,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

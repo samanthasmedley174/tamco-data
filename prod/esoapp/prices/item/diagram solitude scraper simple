@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram solitude scraper simple",
+    "displayName": "Diagram: Solitude Scraper, Simple",
+    "values": {
+      "commonRange": "220 - 2,500",
+      "averagePrice": 1466,
+      "minimumPrice": 100,
+      "maximumPrice": 5027,
+      "averageStackPrice": 1466,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

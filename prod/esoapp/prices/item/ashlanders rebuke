@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ashlanders rebuke",
+    "displayName": "Ashlander's Rebuke",
+    "values": {
+      "commonRange": "330 - 2,450",
+      "averagePrice": 10107,
+      "minimumPrice": 250,
+      "maximumPrice": 65000,
+      "averageStackPrice": 10107,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darloc braes boots",
+    "displayName": "Darloc Brae's Boots",
+    "values": {
+      "commonRange": "99 - 5,500",
+      "averagePrice": 2418,
+      "minimumPrice": 87,
+      "maximumPrice": 14999,
+      "averageStackPrice": 2418,
+      "commonStackSize": 1,
+      "salesRecorded": 58
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

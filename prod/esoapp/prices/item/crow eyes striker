@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crow eyes striker",
+    "displayName": "Crow-Eye's Striker",
+    "values": {
+      "commonRange": "240 - 440",
+      "averagePrice": 340,
+      "minimumPrice": 240,
+      "maximumPrice": 440,
+      "averageStackPrice": 340,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

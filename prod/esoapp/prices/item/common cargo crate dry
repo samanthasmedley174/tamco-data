@@ -1,0 +1,18 @@
+[
+  {
+    "name": "common cargo crate dry",
+    "displayName": "Common Cargo Crate, Dry",
+    "values": {
+      "commonRange": "60 - 500",
+      "averagePrice": 280,
+      "minimumPrice": 60,
+      "maximumPrice": 500,
+      "averageStackPrice": 280,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Furnishings",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram alinor streetlight wrought iron",
+    "displayName": "Diagram: Alinor Streetlight, Wrought Iron",
+    "values": {
+      "commonRange": "20,000 - 28,000",
+      "averagePrice": 25303,
+      "minimumPrice": 20000,
+      "maximumPrice": 35039,
+      "averageStackPrice": 25303,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "aleetos alchemy gloves",
+    "displayName": "Aleeto's Alchemy Gloves",
+    "values": {
+      "commonRange": "184 - 184",
+      "averagePrice": 184,
+      "minimumPrice": 184,
+      "maximumPrice": 184,
+      "averageStackPrice": 184,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

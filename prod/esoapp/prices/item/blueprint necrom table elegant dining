@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint necrom table elegant dining",
+    "displayName": "Blueprint: Necrom Table, Elegant Dining",
+    "values": {
+      "commonRange": "5,000 - 6,200",
+      "averagePrice": 5636,
+      "minimumPrice": 1030,
+      "maximumPrice": 9999,
+      "averageStackPrice": 5636,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

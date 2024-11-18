@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 131 militant monk axes",
+    "displayName": "Crafting Motif 131: Militant Monk Axes",
+    "values": {
+      "commonRange": "45,721 - 60,721",
+      "averagePrice": 55612,
+      "minimumPrice": 40000,
+      "maximumPrice": 85000,
+      "averageStackPrice": 55612,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

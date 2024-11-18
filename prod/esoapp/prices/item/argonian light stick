@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian light stick",
+    "displayName": "Argonian Light, Stick",
+    "values": {
+      "commonRange": "1,300 - 3,300",
+      "averagePrice": 2327,
+      "minimumPrice": 910,
+      "maximumPrice": 3500,
+      "averageStackPrice": 2327,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

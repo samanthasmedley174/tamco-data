@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 24 outlaw daggers",
+    "displayName": "Crafting Motif 24: Outlaw Daggers",
+    "values": {
+      "commonRange": "4,961 - 14,500",
+      "averagePrice": 7093,
+      "minimumPrice": 2500,
+      "maximumPrice": 15000,
+      "averageStackPrice": 7093,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

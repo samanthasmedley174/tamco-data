@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 104 ancient daedric daggers",
+    "displayName": "Crafting Motif 104: Ancient Daedric Daggers",
+    "values": {
+      "commonRange": "35,000 - 50,000",
+      "averagePrice": 42278,
+      "minimumPrice": 35000,
+      "maximumPrice": 55000,
+      "averageStackPrice": 42278,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

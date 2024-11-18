@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the hatchlings shell",
+    "displayName": "Battle Axe of the Hatchling's Shell",
+    "values": {
+      "commonRange": "440 - 440",
+      "averagePrice": 373,
+      "minimumPrice": 240,
+      "maximumPrice": 440,
+      "averageStackPrice": 373,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude bookcase rustic cabinet",
+    "displayName": "Blueprint: Solitude Bookcase, Rustic Cabinet",
+    "values": {
+      "commonRange": "1,197 - 2,315",
+      "averagePrice": 1823,
+      "minimumPrice": 900,
+      "maximumPrice": 2315,
+      "averageStackPrice": 1823,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

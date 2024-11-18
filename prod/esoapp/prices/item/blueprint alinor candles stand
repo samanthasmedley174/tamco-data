@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint alinor candles stand",
+    "displayName": "Blueprint: Alinor Candles, Stand",
+    "values": {
+      "commonRange": "6,000 - 8,200",
+      "averagePrice": 7024,
+      "minimumPrice": 1030,
+      "maximumPrice": 9030,
+      "averageStackPrice": 7024,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

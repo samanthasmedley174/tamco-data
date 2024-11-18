@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor wall stone",
+    "displayName": "Alinor Wall, Stone",
+    "values": {
+      "commonRange": "1,454 - 3,500",
+      "averagePrice": 2727,
+      "minimumPrice": 1060,
+      "maximumPrice": 7000,
+      "averageStackPrice": 5454,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

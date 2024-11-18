@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the dragon",
+    "displayName": "Battle Axe of the Dragon",
+    "values": {
+      "commonRange": "485 - 1,369",
+      "averagePrice": 781,
+      "minimumPrice": 440,
+      "maximumPrice": 1369,
+      "averageStackPrice": 781,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

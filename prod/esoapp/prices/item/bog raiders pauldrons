@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bog raiders pauldrons",
+    "displayName": "Bog Raider's Pauldrons",
+    "values": {
+      "commonRange": "244 - 5,000",
+      "averagePrice": 1404,
+      "minimumPrice": 144,
+      "maximumPrice": 8000,
+      "averageStackPrice": 1404,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

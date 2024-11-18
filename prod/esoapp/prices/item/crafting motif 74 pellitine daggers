@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 74 pellitine daggers",
+    "displayName": "Crafting Motif 74: Pellitine Daggers",
+    "values": {
+      "commonRange": "3,000 - 8,000",
+      "averagePrice": 5744,
+      "minimumPrice": 139,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5744,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

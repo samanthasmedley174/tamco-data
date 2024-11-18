@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dibellas kiss tea",
+    "displayName": "Dibella's Kiss Tea",
+    "values": {
+      "commonRange": "90 - 90",
+      "averagePrice": 90,
+      "minimumPrice": 90,
+      "maximumPrice": 90,
+      "averageStackPrice": 900,
+      "commonStackSize": 10,
+      "salesRecorded": 1
+    },
+    "type": "Food & Drinks",
+    "date": "10/25/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/dibella's_kiss_tea.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 90 thorn legion style",
+    "displayName": "Crafting Motif 90: Thorn Legion Style",
+    "values": {
+      "commonRange": "1,499,999 - 2,720,000",
+      "averagePrice": 1905714,
+      "minimumPrice": 1499999,
+      "maximumPrice": 2720000,
+      "averageStackPrice": 1905714,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Motifs",
+    "date": "01/25/2022",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

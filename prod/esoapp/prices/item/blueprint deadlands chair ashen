@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint deadlands chair ashen",
+    "displayName": "Blueprint: Deadlands Chair, Ashen",
+    "values": {
+      "commonRange": "12,361 - 25,000",
+      "averagePrice": 16934,
+      "minimumPrice": 12361,
+      "maximumPrice": 30000,
+      "averageStackPrice": 16934,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

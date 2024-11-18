@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram indoril platter floral",
+    "displayName": "Diagram: Indoril Platter, Floral",
+    "values": {
+      "commonRange": "22,000 - 30,000",
+      "averagePrice": 29008,
+      "minimumPrice": 20039,
+      "maximumPrice": 55039,
+      "averageStackPrice": 29008,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

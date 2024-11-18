@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton pew windowed",
+    "displayName": "Breton Pew, Windowed",
+    "values": {
+      "commonRange": "160 - 1,060",
+      "averagePrice": 695,
+      "minimumPrice": 150,
+      "maximumPrice": 1500,
+      "averageStackPrice": 695,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor sarcophagus open",
+    "displayName": "Alinor Sarcophagus, Open",
+    "values": {
+      "commonRange": "8,000 - 11,100",
+      "averagePrice": 9393,
+      "minimumPrice": 2450,
+      "maximumPrice": 15500,
+      "averageStackPrice": 9393,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

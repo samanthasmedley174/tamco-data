@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram solitude lantern table",
+    "displayName": "Diagram: Solitude Lantern, Table",
+    "values": {
+      "commonRange": "6,000 - 7,900",
+      "averagePrice": 6813,
+      "minimumPrice": 2000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 6813,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

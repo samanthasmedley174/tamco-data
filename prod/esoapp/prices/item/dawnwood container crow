@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood container crow",
+    "displayName": "Dawnwood Container, Crow",
+    "values": {
+      "commonRange": "6,000 - 10,000",
+      "averagePrice": 9526,
+      "minimumPrice": 5300,
+      "maximumPrice": 28560,
+      "averageStackPrice": 9526,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

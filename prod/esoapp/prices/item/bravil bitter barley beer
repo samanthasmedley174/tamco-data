@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bravil bitter barley beer",
+    "displayName": "Bravil Bitter Barley Beer",
+    "values": {
+      "commonRange": "15 - 100",
+      "averagePrice": 55,
+      "minimumPrice": 7,
+      "maximumPrice": 100,
+      "averageStackPrice": 5500,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "11/07/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/bravil_bitter_barley_beer.png"
+  }
+]

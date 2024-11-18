@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven bench forged",
+    "displayName": "Dwarven Bench, Forged",
+    "values": {
+      "commonRange": "7,622 - 15,435",
+      "averagePrice": 11341,
+      "minimumPrice": 1500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 11341,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/25/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

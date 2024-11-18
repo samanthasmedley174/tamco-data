@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design argonian skull lizard",
+    "displayName": "Design: Argonian Skull, Lizard",
+    "values": {
+      "commonRange": "10,000 - 14,000",
+      "averagePrice": 11947,
+      "minimumPrice": 5000,
+      "maximumPrice": 15591,
+      "averageStackPrice": 11947,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

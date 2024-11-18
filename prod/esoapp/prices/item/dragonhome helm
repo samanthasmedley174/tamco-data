@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dragonhome helm",
+    "displayName": "Dragonhome Helm",
+    "values": {
+      "commonRange": "141 - 4,000",
+      "averagePrice": 2071,
+      "minimumPrice": 141,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2071,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

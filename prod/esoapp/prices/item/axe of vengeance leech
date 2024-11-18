@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of vengeance leech",
+    "displayName": "Axe of Vengeance Leech",
+    "values": {
+      "commonRange": "900 - 22,000",
+      "averagePrice": 8963,
+      "minimumPrice": 344,
+      "maximumPrice": 22153,
+      "averageStackPrice": 8963,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

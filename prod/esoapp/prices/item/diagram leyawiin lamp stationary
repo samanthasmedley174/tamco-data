@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram leyawiin lamp stationary",
+    "displayName": "Diagram: Leyawiin Lamp, Stationary",
+    "values": {
+      "commonRange": "3,030 - 7,456",
+      "averagePrice": 7399,
+      "minimumPrice": 2300,
+      "maximumPrice": 25000,
+      "averageStackPrice": 7399,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

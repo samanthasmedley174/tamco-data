@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 86 sea giant style",
+    "displayName": "Crafting Motif 86: Sea Giant Style",
+    "values": {
+      "commonRange": "100,000 - 1,500,000",
+      "averagePrice": 961545,
+      "minimumPrice": 88000,
+      "maximumPrice": 2000000,
+      "averageStackPrice": 961545,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "10/24/2023",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

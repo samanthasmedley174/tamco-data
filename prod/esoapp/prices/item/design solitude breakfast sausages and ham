@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design solitude breakfast sausages and ham",
+    "displayName": "Design: Solitude Breakfast, Sausages and Ham",
+    "values": {
+      "commonRange": "4,500 - 20,000",
+      "averagePrice": 9893,
+      "minimumPrice": 500,
+      "maximumPrice": 20030,
+      "averageStackPrice": 9893,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

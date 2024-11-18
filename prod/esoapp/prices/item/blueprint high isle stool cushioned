@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle stool cushioned",
+    "displayName": "Blueprint: High Isle Stool, Cushioned",
+    "values": {
+      "commonRange": "15,000 - 21,000",
+      "averagePrice": 17542,
+      "minimumPrice": 4000,
+      "maximumPrice": 21450,
+      "averageStackPrice": 17542,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

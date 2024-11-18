@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 134 tide born daggers",
+    "displayName": "Crafting Motif 134: Tide-Born Daggers",
+    "values": {
+      "commonRange": "5,000 - 7,250",
+      "averagePrice": 6808,
+      "minimumPrice": 2200,
+      "maximumPrice": 18295,
+      "averageStackPrice": 6808,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

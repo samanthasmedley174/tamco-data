@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian relic small serpent",
+    "displayName": "Argonian Relic, Small Serpent",
+    "values": {
+      "commonRange": "1,000 - 6,670",
+      "averagePrice": 4337,
+      "minimumPrice": 1000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 4337,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

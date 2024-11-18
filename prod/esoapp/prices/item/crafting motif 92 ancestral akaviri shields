@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 92 ancestral akaviri shields",
+    "displayName": "Crafting Motif 92: Ancestral Akaviri Shields",
+    "values": {
+      "commonRange": "25,000 - 44,617",
+      "averagePrice": 35596,
+      "minimumPrice": 20000,
+      "maximumPrice": 45000,
+      "averageStackPrice": 35596,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

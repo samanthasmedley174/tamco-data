@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 119 blessed inheritor shoulders",
+    "displayName": "Crafting Motif 119: Blessed Inheritor Shoulders",
+    "values": {
+      "commonRange": "27,000 - 35,000",
+      "averagePrice": 34290,
+      "minimumPrice": 25000,
+      "maximumPrice": 80000,
+      "averageStackPrice": 34290,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

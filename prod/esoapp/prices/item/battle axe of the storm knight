@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the storm knight",
+    "displayName": "Battle Axe of the Storm Knight",
+    "values": {
+      "commonRange": "1,240 - 1,240",
+      "averagePrice": 1240,
+      "minimumPrice": 1240,
+      "maximumPrice": 1240,
+      "averageStackPrice": 1240,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

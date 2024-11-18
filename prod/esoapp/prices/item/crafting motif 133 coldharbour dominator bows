@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 133 coldharbour dominator bows",
+    "displayName": "Crafting Motif 133: Coldharbour Dominator Bows",
+    "values": {
+      "commonRange": "65,000 - 86,217",
+      "averagePrice": 75998,
+      "minimumPrice": 60000,
+      "maximumPrice": 90000,
+      "averageStackPrice": 75998,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

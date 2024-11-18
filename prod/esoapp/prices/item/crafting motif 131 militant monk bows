@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 131 militant monk bows",
+    "displayName": "Crafting Motif 131: Militant Monk Bows",
+    "values": {
+      "commonRange": "50,000 - 80,000",
+      "averagePrice": 64006,
+      "minimumPrice": 42934,
+      "maximumPrice": 80039,
+      "averageStackPrice": 64006,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

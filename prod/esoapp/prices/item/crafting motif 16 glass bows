@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 16 glass bows",
+    "displayName": "Crafting Motif 16: Glass Bows",
+    "values": {
+      "commonRange": "1,000 - 7,717",
+      "averagePrice": 5019,
+      "minimumPrice": 1000,
+      "maximumPrice": 12500,
+      "averageStackPrice": 5019,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

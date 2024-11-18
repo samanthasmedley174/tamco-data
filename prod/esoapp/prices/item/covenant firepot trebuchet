@@ -1,0 +1,18 @@
+[
+  {
+    "name": "covenant firepot trebuchet",
+    "displayName": "Covenant Firepot Trebuchet",
+    "values": {
+      "commonRange": "23 - 374",
+      "averagePrice": 347,
+      "minimumPrice": 20,
+      "maximumPrice": 2200,
+      "averageStackPrice": 694,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Siege Equipment",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Covenant_Firepot_Trebuchet.png"
+  }
+]

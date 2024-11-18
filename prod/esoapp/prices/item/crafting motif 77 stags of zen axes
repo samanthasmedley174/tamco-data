@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 77 stags of zen axes",
+    "displayName": "Crafting Motif 77: Stags of Z'en Axes",
+    "values": {
+      "commonRange": "9,000 - 16,081",
+      "averagePrice": 15585,
+      "minimumPrice": 4000,
+      "maximumPrice": 35039,
+      "averageStackPrice": 15585,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

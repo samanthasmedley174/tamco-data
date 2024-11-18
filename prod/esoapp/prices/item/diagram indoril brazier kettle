@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram indoril brazier kettle",
+    "displayName": "Diagram: Indoril Brazier, Kettle",
+    "values": {
+      "commonRange": "29,999 - 41,080",
+      "averagePrice": 36624,
+      "minimumPrice": 24000,
+      "maximumPrice": 43000,
+      "averageStackPrice": 36624,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

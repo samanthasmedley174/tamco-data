@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 94 ancestral reach axes",
+    "displayName": "Crafting Motif 94: Ancestral Reach Axes",
+    "values": {
+      "commonRange": "9,000 - 10,873",
+      "averagePrice": 9851,
+      "minimumPrice": 8072,
+      "maximumPrice": 11000,
+      "averageStackPrice": 9851,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

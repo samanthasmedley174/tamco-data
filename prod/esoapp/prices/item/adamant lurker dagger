@@ -1,0 +1,18 @@
+[
+  {
+    "name": "adamant lurker dagger",
+    "displayName": "Adamant Lurker Dagger",
+    "values": {
+      "commonRange": "1,000 - 1,399",
+      "averagePrice": 1287,
+      "minimumPrice": 550,
+      "maximumPrice": 2200,
+      "averageStackPrice": 1287,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

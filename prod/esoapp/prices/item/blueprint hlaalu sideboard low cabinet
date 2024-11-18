@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint hlaalu sideboard low cabinet",
+    "displayName": "Blueprint: Hlaalu Sideboard, Low Cabinet",
+    "values": {
+      "commonRange": "29,000 - 32,000",
+      "averagePrice": 30404,
+      "minimumPrice": 24999,
+      "maximumPrice": 32039,
+      "averageStackPrice": 30404,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

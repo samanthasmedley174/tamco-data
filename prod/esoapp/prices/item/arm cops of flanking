@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arm cops of flanking",
+    "displayName": "Arm Cops of Flanking",
+    "values": {
+      "commonRange": "350 - 3,153",
+      "averagePrice": 1976,
+      "minimumPrice": 200,
+      "maximumPrice": 12000,
+      "averageStackPrice": 1976,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

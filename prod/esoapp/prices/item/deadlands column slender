@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands column slender",
+    "displayName": "Deadlands Column, Slender",
+    "values": {
+      "commonRange": "5,000 - 7,459",
+      "averagePrice": 6161,
+      "minimumPrice": 3000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 12322,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

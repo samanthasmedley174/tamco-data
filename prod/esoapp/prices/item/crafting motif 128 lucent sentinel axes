@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 128 lucent sentinel axes",
+    "displayName": "Crafting Motif 128: Lucent Sentinel Axes",
+    "values": {
+      "commonRange": "5,000 - 6,000",
+      "averagePrice": 5627,
+      "minimumPrice": 2039,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5627,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

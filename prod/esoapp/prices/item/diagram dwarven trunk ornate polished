@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven trunk ornate polished",
+    "displayName": "Diagram: Dwarven Trunk, Ornate Polished",
+    "values": {
+      "commonRange": "30,000 - 60,000",
+      "averagePrice": 49054,
+      "minimumPrice": 22000,
+      "maximumPrice": 61357,
+      "averageStackPrice": 49054,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redguard goblet empty",
+    "displayName": "Diagram: Redguard Goblet, Empty",
+    "values": {
+      "commonRange": "1,000 - 2,000",
+      "averagePrice": 1340,
+      "minimumPrice": 800,
+      "maximumPrice": 3068,
+      "averageStackPrice": 1340,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

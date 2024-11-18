@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram deadlands portcullis",
+    "displayName": "Diagram: Deadlands Portcullis",
+    "values": {
+      "commonRange": "45,236 - 150,000",
+      "averagePrice": 88760,
+      "minimumPrice": 40000,
+      "maximumPrice": 150000,
+      "averageStackPrice": 88760,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

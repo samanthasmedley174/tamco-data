@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton divider folded knotwork",
+    "displayName": "Breton Divider, Folded Knotwork",
+    "values": {
+      "commonRange": "4,500 - 9,880",
+      "averagePrice": 6736,
+      "minimumPrice": 4000,
+      "maximumPrice": 10300,
+      "averageStackPrice": 6736,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

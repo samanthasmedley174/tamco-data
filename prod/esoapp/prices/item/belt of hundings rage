@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of hundings rage",
+    "displayName": "Belt of Hunding's Rage",
+    "values": {
+      "commonRange": "10,000 - 74,093",
+      "averagePrice": 32686,
+      "minimumPrice": 899,
+      "maximumPrice": 100000,
+      "averageStackPrice": 32686,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

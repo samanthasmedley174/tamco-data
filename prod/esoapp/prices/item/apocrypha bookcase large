@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha bookcase large",
+    "displayName": "Apocrypha Bookcase, Large",
+    "values": {
+      "commonRange": "7,150 - 13,980",
+      "averagePrice": 11070,
+      "minimumPrice": 4150,
+      "maximumPrice": 16850,
+      "averageStackPrice": 11070,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

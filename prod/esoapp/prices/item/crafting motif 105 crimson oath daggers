@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 105 crimson oath daggers",
+    "displayName": "Crafting Motif 105: Crimson Oath Daggers",
+    "values": {
+      "commonRange": "9,427 - 45,409",
+      "averagePrice": 21536,
+      "minimumPrice": 9373,
+      "maximumPrice": 80039,
+      "averageStackPrice": 21536,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

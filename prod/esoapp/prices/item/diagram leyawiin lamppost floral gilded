@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram leyawiin lamppost floral gilded",
+    "displayName": "Diagram: Leyawiin Lamppost, Floral Gilded",
+    "values": {
+      "commonRange": "49,000 - 52,039",
+      "averagePrice": 51198,
+      "minimumPrice": 46039,
+      "maximumPrice": 60039,
+      "averageStackPrice": 51198,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

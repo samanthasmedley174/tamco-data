@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crunchy spider skewer",
+    "displayName": "Crunchy Spider Skewer",
+    "values": {
+      "commonRange": "10 - 553",
+      "averagePrice": 170,
+      "minimumPrice": 3,
+      "maximumPrice": 553,
+      "averageStackPrice": 680,
+      "commonStackSize": 4,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/crunchy_spider_skewer.png"
+  }
+]

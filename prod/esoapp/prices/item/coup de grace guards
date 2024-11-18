@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coup de grace guards",
+    "displayName": "Coup De Grace Guards",
+    "values": {
+      "commonRange": "250 - 4,000",
+      "averagePrice": 1517,
+      "minimumPrice": 180,
+      "maximumPrice": 15180,
+      "averageStackPrice": 1517,
+      "commonStackSize": 1,
+      "salesRecorded": 130
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

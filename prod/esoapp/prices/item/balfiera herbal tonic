@@ -1,0 +1,18 @@
+[
+  {
+    "name": "balfiera herbal tonic",
+    "displayName": "Balfiera Herbal Tonic",
+    "values": {
+      "commonRange": "15 - 35",
+      "averagePrice": 27,
+      "minimumPrice": 14,
+      "maximumPrice": 45,
+      "averageStackPrice": 2700,
+      "commonStackSize": 100,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "11/29/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/balfiera_herbal_tonic.png"
+  }
+]

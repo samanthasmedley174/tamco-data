@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 55 dreadhorn belts",
+    "displayName": "Crafting Motif 55: Dreadhorn Belts",
+    "values": {
+      "commonRange": "5,000 - 7,087",
+      "averagePrice": 6096,
+      "minimumPrice": 5000,
+      "maximumPrice": 7087,
+      "averageStackPrice": 6096,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

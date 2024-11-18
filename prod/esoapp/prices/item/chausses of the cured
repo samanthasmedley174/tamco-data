@@ -1,0 +1,18 @@
+[
+  {
+    "name": "chausses of the cured",
+    "displayName": "Chausses of the Cured",
+    "values": {
+      "commonRange": "171 - 171",
+      "averagePrice": 171,
+      "minimumPrice": 171,
+      "maximumPrice": 171,
+      "averageStackPrice": 171,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

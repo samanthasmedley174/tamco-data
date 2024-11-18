@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dragons bile",
+    "displayName": "Dragon's Bile",
+    "values": {
+      "commonRange": "94 - 233",
+      "averagePrice": 170,
+      "minimumPrice": 27,
+      "maximumPrice": 484,
+      "averageStackPrice": 34000,
+      "commonStackSize": 200,
+      "salesRecorded": 41
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

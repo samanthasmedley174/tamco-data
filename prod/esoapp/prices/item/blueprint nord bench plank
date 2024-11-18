@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint nord bench plank",
+    "displayName": "Blueprint: Nord Bench, Plank",
+    "values": {
+      "commonRange": "500 - 1,000",
+      "averagePrice": 839,
+      "minimumPrice": 476,
+      "maximumPrice": 2030,
+      "averageStackPrice": 839,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

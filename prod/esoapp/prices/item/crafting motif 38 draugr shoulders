@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 38 draugr shoulders",
+    "displayName": "Crafting Motif 38: Draugr Shoulders",
+    "values": {
+      "commonRange": "1,000 - 3,804",
+      "averagePrice": 2933,
+      "minimumPrice": 500,
+      "maximumPrice": 8039,
+      "averageStackPrice": 2933,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

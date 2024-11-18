@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint rough platform stage",
+    "displayName": "Blueprint: Rough Platform, Stage",
+    "values": {
+      "commonRange": "15 - 100",
+      "averagePrice": 72,
+      "minimumPrice": 15,
+      "maximumPrice": 100,
+      "averageStackPrice": 72,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

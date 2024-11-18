@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram high elf flask gilded",
+    "displayName": "Diagram: High Elf Flask, Gilded",
+    "values": {
+      "commonRange": "100 - 126",
+      "averagePrice": 125,
+      "minimumPrice": 100,
+      "maximumPrice": 227,
+      "averageStackPrice": 125,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

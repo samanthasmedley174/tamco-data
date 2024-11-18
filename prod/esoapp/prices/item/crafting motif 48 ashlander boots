@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 48 ashlander boots",
+    "displayName": "Crafting Motif 48: Ashlander Boots",
+    "values": {
+      "commonRange": "3,000 - 5,148",
+      "averagePrice": 4730,
+      "minimumPrice": 3000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4730,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

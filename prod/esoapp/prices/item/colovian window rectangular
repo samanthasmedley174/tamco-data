@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian window rectangular",
+    "displayName": "Colovian Window, Rectangular",
+    "values": {
+      "commonRange": "5,000 - 6,950",
+      "averagePrice": 5585,
+      "minimumPrice": 3750,
+      "maximumPrice": 6950,
+      "averageStackPrice": 11170,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

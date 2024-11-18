@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork sequence spool single",
+    "displayName": "Clockwork Sequence Spool, Single",
+    "values": {
+      "commonRange": "5,537 - 22,000",
+      "averagePrice": 12008,
+      "minimumPrice": 350,
+      "maximumPrice": 22000,
+      "averageStackPrice": 12008,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

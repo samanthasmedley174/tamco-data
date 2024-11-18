@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude table circular ornate",
+    "displayName": "Blueprint: Solitude Table, Circular Ornate",
+    "values": {
+      "commonRange": "23,000 - 28,206",
+      "averagePrice": 26628,
+      "minimumPrice": 22000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 26628,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

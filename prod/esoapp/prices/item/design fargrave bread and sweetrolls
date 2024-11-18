@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design fargrave bread and sweetrolls",
+    "displayName": "Design: Fargrave Bread and Sweetrolls",
+    "values": {
+      "commonRange": "25,000 - 32,803",
+      "averagePrice": 30084,
+      "minimumPrice": 25000,
+      "maximumPrice": 33300,
+      "averageStackPrice": 30084,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

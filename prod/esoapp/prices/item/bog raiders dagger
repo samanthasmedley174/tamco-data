@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bog raiders dagger",
+    "displayName": "Bog Raider's Dagger",
+    "values": {
+      "commonRange": "455 - 760",
+      "averagePrice": 664,
+      "minimumPrice": 150,
+      "maximumPrice": 1500,
+      "averageStackPrice": 664,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

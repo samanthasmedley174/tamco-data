@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint argonian cage bird",
+    "displayName": "Blueprint: Argonian Cage, Bird",
+    "values": {
+      "commonRange": "259 - 720",
+      "averagePrice": 539,
+      "minimumPrice": 200,
+      "maximumPrice": 1000,
+      "averageStackPrice": 539,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

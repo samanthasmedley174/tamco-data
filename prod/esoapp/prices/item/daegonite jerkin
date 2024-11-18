@@ -1,0 +1,18 @@
+[
+  {
+    "name": "daegonite jerkin",
+    "displayName": "Daegonite Jerkin",
+    "values": {
+      "commonRange": "200 - 200",
+      "averagePrice": 267,
+      "minimumPrice": 200,
+      "maximumPrice": 400,
+      "averageStackPrice": 267,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian table noble",
+    "displayName": "Blueprint: Colovian Table, Noble",
+    "values": {
+      "commonRange": "4,644 - 18,000",
+      "averagePrice": 13446,
+      "minimumPrice": 3030,
+      "maximumPrice": 26000,
+      "averageStackPrice": 13446,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

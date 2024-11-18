@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bright throats boast breeches",
+    "displayName": "Bright-Throat's Boast Breeches",
+    "values": {
+      "commonRange": "380 - 6,000",
+      "averagePrice": 2874,
+      "minimumPrice": 100,
+      "maximumPrice": 9800,
+      "averageStackPrice": 2874,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

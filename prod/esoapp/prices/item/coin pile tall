@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coin pile tall",
+    "displayName": "Coin Pile, Tall",
+    "values": {
+      "commonRange": "1,000,000 - 1,900,300",
+      "averagePrice": 1186700,
+      "minimumPrice": 20000,
+      "maximumPrice": 1999900,
+      "averageStackPrice": 1186700,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Furnishings",
+    "date": "05/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

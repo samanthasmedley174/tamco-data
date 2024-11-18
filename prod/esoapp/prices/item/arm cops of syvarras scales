@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arm cops of syvarras scales",
+    "displayName": "Arm Cops of Syvarra's Scales",
+    "values": {
+      "commonRange": "453 - 19,999",
+      "averagePrice": 10429,
+      "minimumPrice": 140,
+      "maximumPrice": 34999,
+      "averageStackPrice": 10429,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

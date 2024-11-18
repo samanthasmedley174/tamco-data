@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint vampiric wardrobe ornate",
+    "displayName": "Blueprint: Vampiric Wardrobe, Ornate",
+    "values": {
+      "commonRange": "40,000 - 210,000",
+      "averagePrice": 156249,
+      "minimumPrice": 10000,
+      "maximumPrice": 300000,
+      "averageStackPrice": 156249,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

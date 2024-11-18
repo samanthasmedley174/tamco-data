@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ancient orcish counterweight",
+    "displayName": "Ancient Orcish Counterweight",
+    "values": {
+      "commonRange": "8,000 - 12,980",
+      "averagePrice": 10389,
+      "minimumPrice": 5000,
+      "maximumPrice": 13000,
+      "averageStackPrice": 10389,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

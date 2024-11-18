@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 64 pyandonean daggers",
+    "displayName": "Crafting Motif 64: Pyandonean Daggers",
+    "values": {
+      "commonRange": "12,000 - 19,000",
+      "averagePrice": 15280,
+      "minimumPrice": 10000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 15280,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

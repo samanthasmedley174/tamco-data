@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood orange lights sprouted arch",
+    "displayName": "Dawnwood Orange Lights, Sprouted Arch",
+    "values": {
+      "commonRange": "3,937 - 8,850",
+      "averagePrice": 5517,
+      "minimumPrice": 3000,
+      "maximumPrice": 8850,
+      "averageStackPrice": 5517,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "calcinium ore",
+    "displayName": "Calcinium Ore",
+    "values": {
+      "commonRange": "6 - 40",
+      "averagePrice": 18,
+      "minimumPrice": 6,
+      "maximumPrice": 42,
+      "averageStackPrice": 126,
+      "commonStackSize": 7,
+      "salesRecorded": 10
+    },
+    "type": "Blacksmithing Materials",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

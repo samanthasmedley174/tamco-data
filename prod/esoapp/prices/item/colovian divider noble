@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian divider noble",
+    "displayName": "Colovian Divider, Noble",
+    "values": {
+      "commonRange": "2,100 - 5,150",
+      "averagePrice": 2945,
+      "minimumPrice": 1023,
+      "maximumPrice": 5750,
+      "averageStackPrice": 5890,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

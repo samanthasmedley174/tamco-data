@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram solitude cauldron hanging",
+    "displayName": "Diagram: Solitude Cauldron, Hanging",
+    "values": {
+      "commonRange": "227 - 4,000",
+      "averagePrice": 2387,
+      "minimumPrice": 27,
+      "maximumPrice": 4105,
+      "averageStackPrice": 2387,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

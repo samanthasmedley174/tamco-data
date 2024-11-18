@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 111 ascendant order style",
+    "displayName": "Crafting Motif 111: Ascendant Order Style",
+    "values": {
+      "commonRange": "1,100,000 - 1,100,000",
+      "averagePrice": 1100000,
+      "minimumPrice": 1100000,
+      "maximumPrice": 1100000,
+      "averageStackPrice": 1100000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Motifs",
+    "date": "09/17/2024",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

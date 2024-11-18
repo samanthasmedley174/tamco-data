@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arkays charity battle axe",
+    "displayName": "Arkay's Charity Battle Axe",
+    "values": {
+      "commonRange": "696 - 4,000",
+      "averagePrice": 2267,
+      "minimumPrice": 340,
+      "maximumPrice": 5446,
+      "averageStackPrice": 2267,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

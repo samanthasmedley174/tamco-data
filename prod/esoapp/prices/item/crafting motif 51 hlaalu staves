@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 51 hlaalu staves",
+    "displayName": "Crafting Motif 51: Hlaalu Staves",
+    "values": {
+      "commonRange": "6,471 - 13,000",
+      "averagePrice": 10898,
+      "minimumPrice": 3500,
+      "maximumPrice": 23369,
+      "averageStackPrice": 10898,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

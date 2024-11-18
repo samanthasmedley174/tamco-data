@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deepswamp staff of hist sap",
+    "displayName": "Deepswamp Staff of Hist Sap",
+    "values": {
+      "commonRange": "114 - 114",
+      "averagePrice": 114,
+      "minimumPrice": 114,
+      "maximumPrice": 114,
+      "averageStackPrice": 114,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

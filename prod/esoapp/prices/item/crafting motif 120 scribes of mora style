@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 120 scribes of mora style",
+    "displayName": "Crafting Motif 120: Scribes of Mora Style",
+    "values": {
+      "commonRange": "2,000,000 - 2,000,000",
+      "averagePrice": 1766667,
+      "minimumPrice": 800000,
+      "maximumPrice": 2500000,
+      "averageStackPrice": 1766667,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Motifs",
+    "date": "04/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

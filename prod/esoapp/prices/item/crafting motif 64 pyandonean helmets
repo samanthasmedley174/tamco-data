@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 64 pyandonean helmets",
+    "displayName": "Crafting Motif 64: Pyandonean Helmets",
+    "values": {
+      "commonRange": "14,900 - 18,832",
+      "averagePrice": 17218,
+      "minimumPrice": 9575,
+      "maximumPrice": 25000,
+      "averageStackPrice": 17218,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

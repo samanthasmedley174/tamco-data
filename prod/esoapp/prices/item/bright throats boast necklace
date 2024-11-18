@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bright throats boast necklace",
+    "displayName": "Bright-Throat's Boast Necklace",
+    "values": {
+      "commonRange": "776 - 7,051",
+      "averagePrice": 4643,
+      "minimumPrice": 350,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4643,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

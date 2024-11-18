@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 96 arkthzand armory legs",
+    "displayName": "Crafting Motif 96: Arkthzand Armory Legs",
+    "values": {
+      "commonRange": "7,000 - 17,000",
+      "averagePrice": 14162,
+      "minimumPrice": 7000,
+      "maximumPrice": 18000,
+      "averageStackPrice": 14162,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

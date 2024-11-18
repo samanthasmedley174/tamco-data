@@ -1,0 +1,18 @@
+[
+  {
+    "name": "afflicted maul",
+    "displayName": "Afflicted Maul",
+    "values": {
+      "commonRange": "3,000 - 9,946",
+      "averagePrice": 7801,
+      "minimumPrice": 2999,
+      "maximumPrice": 20000,
+      "averageStackPrice": 7801,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

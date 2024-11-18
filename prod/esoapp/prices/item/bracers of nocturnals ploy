@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bracers of nocturnals ploy",
+    "displayName": "Bracers of Nocturnal's Ploy",
+    "values": {
+      "commonRange": "590 - 8,000",
+      "averagePrice": 3327,
+      "minimumPrice": 387,
+      "maximumPrice": 10090,
+      "averageStackPrice": 3327,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

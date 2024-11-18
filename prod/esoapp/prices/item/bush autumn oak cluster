@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bush autumn oak cluster",
+    "displayName": "Bush, Autumn Oak Cluster",
+    "values": {
+      "commonRange": "500 - 1,333",
+      "averagePrice": 689,
+      "minimumPrice": 388,
+      "maximumPrice": 1333,
+      "averageStackPrice": 1378,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian trunk painted",
+    "displayName": "Argonian Trunk, Painted",
+    "values": {
+      "commonRange": "3,500 - 12,300",
+      "averagePrice": 8587,
+      "minimumPrice": 2000,
+      "maximumPrice": 15990,
+      "averageStackPrice": 8587,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

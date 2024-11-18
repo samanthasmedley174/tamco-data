@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint murkmire ramp reed",
+    "displayName": "Blueprint: Murkmire Ramp, Reed",
+    "values": {
+      "commonRange": "1,030 - 16,000",
+      "averagePrice": 12099,
+      "minimumPrice": 1030,
+      "maximumPrice": 17500,
+      "averageStackPrice": 12099,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

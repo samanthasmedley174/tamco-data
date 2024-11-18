@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven goblet forged",
+    "displayName": "Diagram: Dwarven Goblet, Forged",
+    "values": {
+      "commonRange": "22,390 - 35,000",
+      "averagePrice": 27778,
+      "minimumPrice": 11000,
+      "maximumPrice": 55000,
+      "averageStackPrice": 27778,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

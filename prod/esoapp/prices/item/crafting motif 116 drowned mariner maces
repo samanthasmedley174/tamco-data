@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 116 drowned mariner maces",
+    "displayName": "Crafting Motif 116: Drowned Mariner Maces",
+    "values": {
+      "commonRange": "30,000 - 40,000",
+      "averagePrice": 32777,
+      "minimumPrice": 28000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 32777,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

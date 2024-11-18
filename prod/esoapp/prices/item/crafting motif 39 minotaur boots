@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 39 minotaur boots",
+    "displayName": "Crafting Motif 39: Minotaur Boots",
+    "values": {
+      "commonRange": "20,000 - 39,130",
+      "averagePrice": 29084,
+      "minimumPrice": 1750,
+      "maximumPrice": 40000,
+      "averageStackPrice": 29084,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

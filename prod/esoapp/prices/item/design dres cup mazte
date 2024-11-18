@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design dres cup mazte",
+    "displayName": "Design: Dres Cup, Mazte",
+    "values": {
+      "commonRange": "500 - 1,042",
+      "averagePrice": 1013,
+      "minimumPrice": 400,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1013,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

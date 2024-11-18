@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coursers boots",
+    "displayName": "Courser's Boots",
+    "values": {
+      "commonRange": "319 - 380",
+      "averagePrice": 469,
+      "minimumPrice": 84,
+      "maximumPrice": 1094,
+      "averageStackPrice": 469,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

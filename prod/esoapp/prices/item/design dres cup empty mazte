@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design dres cup empty mazte",
+    "displayName": "Design: Dres Cup, Empty Mazte",
+    "values": {
+      "commonRange": "500 - 1,027",
+      "averagePrice": 737,
+      "minimumPrice": 227,
+      "maximumPrice": 1127,
+      "averageStackPrice": 737,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

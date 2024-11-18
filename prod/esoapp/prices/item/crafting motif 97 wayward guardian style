@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 97 wayward guardian style",
+    "displayName": "Crafting Motif 97: Wayward Guardian Style",
+    "values": {
+      "commonRange": "870,000 - 870,000",
+      "averagePrice": 870000,
+      "minimumPrice": 870000,
+      "maximumPrice": 870000,
+      "averageStackPrice": 870000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Motifs",
+    "date": "05/25/2021",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

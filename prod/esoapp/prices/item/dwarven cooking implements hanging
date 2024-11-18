@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven cooking implements hanging",
+    "displayName": "Dwarven Cooking Implements, Hanging",
+    "values": {
+      "commonRange": "3,150 - 8,800",
+      "averagePrice": 5532,
+      "minimumPrice": 3000,
+      "maximumPrice": 8800,
+      "averageStackPrice": 5532,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

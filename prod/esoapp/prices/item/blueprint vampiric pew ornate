@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint vampiric pew ornate",
+    "displayName": "Blueprint: Vampiric Pew, Ornate",
+    "values": {
+      "commonRange": "200,000 - 300,000",
+      "averagePrice": 258372,
+      "minimumPrice": 200000,
+      "maximumPrice": 350000,
+      "averageStackPrice": 258372,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

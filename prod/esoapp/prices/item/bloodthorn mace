@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bloodthorn mace",
+    "displayName": "Bloodthorn Mace",
+    "values": {
+      "commonRange": "544 - 1,749",
+      "averagePrice": 1438,
+      "minimumPrice": 300,
+      "maximumPrice": 5153,
+      "averageStackPrice": 1438,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

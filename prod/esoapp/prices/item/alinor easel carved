@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor easel carved",
+    "displayName": "Alinor Easel, Carved",
+    "values": {
+      "commonRange": "20,000 - 24,330",
+      "averagePrice": 21969,
+      "minimumPrice": 15000,
+      "maximumPrice": 24363,
+      "averageStackPrice": 21969,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

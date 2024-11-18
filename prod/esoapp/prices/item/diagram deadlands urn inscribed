@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram deadlands urn inscribed",
+    "displayName": "Diagram: Deadlands Urn, Inscribed",
+    "values": {
+      "commonRange": "9,206 - 31,852",
+      "averagePrice": 26513,
+      "minimumPrice": 7000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 26513,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

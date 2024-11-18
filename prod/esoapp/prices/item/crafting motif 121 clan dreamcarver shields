@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 121 clan dreamcarver shields",
+    "displayName": "Crafting Motif 121: Clan Dreamcarver Shields",
+    "values": {
+      "commonRange": "6,000 - 16,513",
+      "averagePrice": 8950,
+      "minimumPrice": 1000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 8950,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

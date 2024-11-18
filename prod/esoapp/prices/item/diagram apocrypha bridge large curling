@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram apocrypha bridge large curling",
+    "displayName": "Diagram: Apocrypha Bridge, Large Curling",
+    "values": {
+      "commonRange": "300,000 - 579,993",
+      "averagePrice": 479306,
+      "minimumPrice": 225000,
+      "maximumPrice": 861357,
+      "averageStackPrice": 479306,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

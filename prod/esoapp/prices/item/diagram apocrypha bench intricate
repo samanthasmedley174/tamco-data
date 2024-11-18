@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram apocrypha bench intricate",
+    "displayName": "Diagram: Apocrypha Bench, Intricate",
+    "values": {
+      "commonRange": "4,000 - 6,845",
+      "averagePrice": 5578,
+      "minimumPrice": 3000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5578,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

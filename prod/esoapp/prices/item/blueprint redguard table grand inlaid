@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard table grand inlaid",
+    "displayName": "Blueprint: Redguard Table, Grand Inlaid",
+    "values": {
+      "commonRange": "35,000 - 40,276",
+      "averagePrice": 37756,
+      "minimumPrice": 30000,
+      "maximumPrice": 40276,
+      "averageStackPrice": 37756,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

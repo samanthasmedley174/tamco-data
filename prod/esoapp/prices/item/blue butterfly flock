@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blue butterfly flock",
+    "displayName": "Blue Butterfly Flock",
+    "values": {
+      "commonRange": "35,000 - 75,000",
+      "averagePrice": 49257,
+      "minimumPrice": 10000,
+      "maximumPrice": 90000,
+      "averageStackPrice": 49257,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

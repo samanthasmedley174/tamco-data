@@ -1,0 +1,18 @@
+[
+  {
+    "name": "afflicted shield",
+    "displayName": "Afflicted Shield",
+    "values": {
+      "commonRange": "2,243 - 3,150",
+      "averagePrice": 2470,
+      "minimumPrice": 1153,
+      "maximumPrice": 3333,
+      "averageStackPrice": 2470,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

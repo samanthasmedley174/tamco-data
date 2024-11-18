@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian mortar bone",
+    "displayName": "Argonian Mortar, Bone",
+    "values": {
+      "commonRange": "7,300 - 7,300",
+      "averagePrice": 7300,
+      "minimumPrice": 7300,
+      "maximumPrice": 7300,
+      "averageStackPrice": 7300,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Furnishings",
+    "date": "01/16/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

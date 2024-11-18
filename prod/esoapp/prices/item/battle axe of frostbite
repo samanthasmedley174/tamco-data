@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of frostbite",
+    "displayName": "Battle Axe of Frostbite",
+    "values": {
+      "commonRange": "1,200 - 20,000",
+      "averagePrice": 9119,
+      "minimumPrice": 1200,
+      "maximumPrice": 32459,
+      "averageStackPrice": 9119,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

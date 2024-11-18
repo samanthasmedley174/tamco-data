@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 73 anequina belts",
+    "displayName": "Crafting Motif 73: Anequina Belts",
+    "values": {
+      "commonRange": "2,500 - 6,000",
+      "averagePrice": 4148,
+      "minimumPrice": 2039,
+      "maximumPrice": 6000,
+      "averageStackPrice": 4148,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

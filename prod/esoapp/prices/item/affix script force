@@ -1,0 +1,18 @@
+[
+  {
+    "name": "affix script force",
+    "displayName": "Affix Script: Force",
+    "values": {
+      "commonRange": "700,000 - 1,000,000",
+      "averagePrice": 875623,
+      "minimumPrice": 700000,
+      "maximumPrice": 1496977,
+      "averageStackPrice": 875623,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Scripts",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Affix_Script:_Force.png"
+  }
+]

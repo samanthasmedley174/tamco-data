@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design basket of apples full",
+    "displayName": "Design: Basket of Apples, Full",
+    "values": {
+      "commonRange": "359 - 1,000",
+      "averagePrice": 652,
+      "minimumPrice": 200,
+      "maximumPrice": 1000,
+      "averageStackPrice": 652,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

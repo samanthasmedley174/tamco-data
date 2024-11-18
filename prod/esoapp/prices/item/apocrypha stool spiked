@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha stool spiked",
+    "displayName": "Apocrypha Stool, Spiked",
+    "values": {
+      "commonRange": "3,999 - 10,560",
+      "averagePrice": 8011,
+      "minimumPrice": 3400,
+      "maximumPrice": 11060,
+      "averageStackPrice": 16022,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

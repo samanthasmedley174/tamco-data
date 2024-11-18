@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint argonian dresser sturdy",
+    "displayName": "Blueprint: Argonian Dresser, Sturdy",
+    "values": {
+      "commonRange": "500 - 1,310",
+      "averagePrice": 983,
+      "minimumPrice": 130,
+      "maximumPrice": 1310,
+      "averageStackPrice": 983,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high elf wagon covered",
+    "displayName": "Blueprint: High Elf Wagon, Covered",
+    "values": {
+      "commonRange": "9,000 - 12,157",
+      "averagePrice": 10439,
+      "minimumPrice": 7711,
+      "maximumPrice": 12157,
+      "averageStackPrice": 10439,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

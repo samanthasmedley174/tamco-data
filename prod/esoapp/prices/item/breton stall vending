@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton stall vending",
+    "displayName": "Breton Stall, Vending",
+    "values": {
+      "commonRange": "2,500 - 6,000",
+      "averagePrice": 4270,
+      "minimumPrice": 500,
+      "maximumPrice": 7325,
+      "averageStackPrice": 4270,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

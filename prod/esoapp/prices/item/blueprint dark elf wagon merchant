@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint dark elf wagon merchant",
+    "displayName": "Blueprint: Dark Elf Wagon, Merchant",
+    "values": {
+      "commonRange": "154 - 600",
+      "averagePrice": 486,
+      "minimumPrice": 130,
+      "maximumPrice": 1000,
+      "averageStackPrice": 486,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

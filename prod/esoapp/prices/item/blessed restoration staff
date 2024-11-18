@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blessed restoration staff",
+    "displayName": "Blessed Restoration Staff",
+    "values": {
+      "commonRange": "946 - 6,208",
+      "averagePrice": 6959,
+      "minimumPrice": 440,
+      "maximumPrice": 20240,
+      "averageStackPrice": 6959,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

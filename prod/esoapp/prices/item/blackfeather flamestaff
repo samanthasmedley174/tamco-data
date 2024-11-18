@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blackfeather flamestaff",
+    "displayName": "Blackfeather Flamestaff",
+    "values": {
+      "commonRange": "240 - 888",
+      "averagePrice": 598,
+      "minimumPrice": 240,
+      "maximumPrice": 1240,
+      "averageStackPrice": 598,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

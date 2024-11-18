@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 16 glass daggers",
+    "displayName": "Crafting Motif 16: Glass Daggers",
+    "values": {
+      "commonRange": "5,000 - 10,000",
+      "averagePrice": 7862,
+      "minimumPrice": 5000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 7862,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

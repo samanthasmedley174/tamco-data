@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 116 drowned mariner gloves",
+    "displayName": "Crafting Motif 116: Drowned Mariner Gloves",
+    "values": {
+      "commonRange": "48,059 - 75,000",
+      "averagePrice": 57548,
+      "minimumPrice": 33039,
+      "maximumPrice": 102000,
+      "averageStackPrice": 57548,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

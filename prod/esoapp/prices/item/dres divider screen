@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dres divider screen",
+    "displayName": "Dres Divider, Screen",
+    "values": {
+      "commonRange": "4,500 - 12,000",
+      "averagePrice": 7400,
+      "minimumPrice": 2200,
+      "maximumPrice": 14000,
+      "averageStackPrice": 7400,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/28/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

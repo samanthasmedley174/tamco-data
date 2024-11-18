@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bracers of imperial physique",
+    "displayName": "Bracers of Imperial Physique",
+    "values": {
+      "commonRange": "90 - 90",
+      "averagePrice": 90,
+      "minimumPrice": 90,
+      "maximumPrice": 90,
+      "averageStackPrice": 90,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "common barrel sealed",
+    "displayName": "Common Barrel, Sealed",
+    "values": {
+      "commonRange": "247 - 750",
+      "averagePrice": 441,
+      "minimumPrice": 60,
+      "maximumPrice": 833,
+      "averageStackPrice": 441,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

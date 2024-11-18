@@ -1,0 +1,18 @@
+[
+  {
+    "name": "autumn on the gold road painting wood",
+    "displayName": "Autumn on the Gold Road Painting, Wood",
+    "values": {
+      "commonRange": "11,000 - 20,000",
+      "averagePrice": 15213,
+      "minimumPrice": 10000,
+      "maximumPrice": 21929,
+      "averageStackPrice": 15213,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

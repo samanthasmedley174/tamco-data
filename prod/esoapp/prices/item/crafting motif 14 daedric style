@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 14 daedric style",
+    "displayName": "Crafting Motif 14: Daedric Style",
+    "values": {
+      "commonRange": "499 - 5,000",
+      "averagePrice": 2183,
+      "minimumPrice": 100,
+      "maximumPrice": 8081,
+      "averageStackPrice": 2183,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

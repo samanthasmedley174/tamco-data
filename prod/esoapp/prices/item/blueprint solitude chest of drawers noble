@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude chest of drawers noble",
+    "displayName": "Blueprint: Solitude Chest of Drawers, Noble",
+    "values": {
+      "commonRange": "22,000 - 28,688",
+      "averagePrice": 26543,
+      "minimumPrice": 20000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 26543,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

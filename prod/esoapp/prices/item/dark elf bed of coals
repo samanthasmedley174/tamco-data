@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf bed of coals",
+    "displayName": "Dark Elf Bed of Coals",
+    "values": {
+      "commonRange": "139,945 - 200,000",
+      "averagePrice": 155995,
+      "minimumPrice": 110000,
+      "maximumPrice": 200000,
+      "averageStackPrice": 155995,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

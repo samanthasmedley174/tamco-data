@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude bookcase rustic filled",
+    "displayName": "Blueprint: Solitude Bookcase, Rustic Filled",
+    "values": {
+      "commonRange": "4,200 - 7,300",
+      "averagePrice": 5591,
+      "minimumPrice": 1000,
+      "maximumPrice": 8400,
+      "averageStackPrice": 5591,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

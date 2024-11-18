@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cage elevated",
+    "displayName": "Cage, Elevated",
+    "values": {
+      "commonRange": "3,215 - 6,000",
+      "averagePrice": 4493,
+      "minimumPrice": 3000,
+      "maximumPrice": 6600,
+      "averageStackPrice": 4493,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

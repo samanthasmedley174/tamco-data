@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of akatoshs law",
+    "displayName": "Bow of Akatosh's Law",
+    "values": {
+      "commonRange": "1,246 - 4,234",
+      "averagePrice": 3516,
+      "minimumPrice": 500,
+      "maximumPrice": 12000,
+      "averageStackPrice": 3516,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

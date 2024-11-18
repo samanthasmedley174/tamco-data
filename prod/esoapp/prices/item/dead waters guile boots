@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dead waters guile boots",
+    "displayName": "Dead-Water's Guile Boots",
+    "values": {
+      "commonRange": "190 - 3,676",
+      "averagePrice": 2314,
+      "minimumPrice": 90,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2314,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arm cops of kagrenacs hope",
+    "displayName": "Arm Cops of Kagrenac's Hope",
+    "values": {
+      "commonRange": "1,153 - 1,153",
+      "averagePrice": 1153,
+      "minimumPrice": 1153,
+      "maximumPrice": 1153,
+      "averageStackPrice": 1153,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

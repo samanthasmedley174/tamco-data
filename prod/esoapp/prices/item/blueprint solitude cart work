@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude cart work",
+    "displayName": "Blueprint: Solitude Cart, Work",
+    "values": {
+      "commonRange": "3,800 - 5,918",
+      "averagePrice": 4817,
+      "minimumPrice": 2000,
+      "maximumPrice": 6250,
+      "averageStackPrice": 4817,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

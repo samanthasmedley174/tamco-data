@@ -1,0 +1,18 @@
+[
+  {
+    "name": "display case specimen",
+    "displayName": "Display Case, Specimen",
+    "values": {
+      "commonRange": "15,200 - 25,137",
+      "averagePrice": 18945,
+      "minimumPrice": 10000,
+      "maximumPrice": 26471,
+      "averageStackPrice": 18945,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

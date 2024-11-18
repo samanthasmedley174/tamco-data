@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha tree teal spiral",
+    "displayName": "Apocrypha Tree, Teal Spiral",
+    "values": {
+      "commonRange": "6,000 - 11,210",
+      "averagePrice": 8735,
+      "minimumPrice": 5500,
+      "maximumPrice": 11210,
+      "averageStackPrice": 8735,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

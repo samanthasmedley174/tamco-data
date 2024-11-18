@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork charging station animo core",
+    "displayName": "Clockwork Charging Station, Animo Core",
+    "values": {
+      "commonRange": "6,300 - 10,280",
+      "averagePrice": 9123,
+      "minimumPrice": 6000,
+      "maximumPrice": 13280,
+      "averageStackPrice": 9123,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

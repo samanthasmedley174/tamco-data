@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dominion cold fire ballista",
+    "displayName": "Dominion Cold Fire Ballista",
+    "values": {
+      "commonRange": "5,026 - 13,000",
+      "averagePrice": 8390,
+      "minimumPrice": 1000,
+      "maximumPrice": 17000,
+      "averageStackPrice": 8390,
+      "commonStackSize": 1,
+      "salesRecorded": 109
+    },
+    "type": "Siege Equipment",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Dominion_Cold_Fire_Ballista.png"
+  }
+]

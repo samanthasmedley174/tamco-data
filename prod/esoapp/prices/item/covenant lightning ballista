@@ -1,0 +1,18 @@
+[
+  {
+    "name": "covenant lightning ballista",
+    "displayName": "Covenant Lightning Ballista",
+    "values": {
+      "commonRange": "100 - 100",
+      "averagePrice": 116,
+      "minimumPrice": 16,
+      "maximumPrice": 312,
+      "averageStackPrice": 116,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Siege Equipment",
+    "date": "12/27/2022",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Covenant_Lightning_Ballista.png"
+  }
+]

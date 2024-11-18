@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 115 yffres will shoulders",
+    "displayName": "Crafting Motif 115: Y'ffre's Will Shoulders",
+    "values": {
+      "commonRange": "27,377 - 40,000",
+      "averagePrice": 33850,
+      "minimumPrice": 20000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 33850,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

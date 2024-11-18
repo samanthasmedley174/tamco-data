@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 125 blind path cultist daggers",
+    "displayName": "Crafting Motif 125: Blind Path Cultist Daggers",
+    "values": {
+      "commonRange": "23,000 - 60,000",
+      "averagePrice": 38637,
+      "minimumPrice": 18039,
+      "maximumPrice": 98000,
+      "averageStackPrice": 38637,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

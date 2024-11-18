@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork piston miniature",
+    "displayName": "Clockwork Piston, Miniature",
+    "values": {
+      "commonRange": "150 - 12,002",
+      "averagePrice": 3953,
+      "minimumPrice": 150,
+      "maximumPrice": 16650,
+      "averageStackPrice": 3953,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

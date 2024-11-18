@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 70 elder argonian legs",
+    "displayName": "Crafting Motif 70: Elder Argonian Legs",
+    "values": {
+      "commonRange": "20,000 - 35,420",
+      "averagePrice": 27862,
+      "minimumPrice": 18854,
+      "maximumPrice": 35854,
+      "averageStackPrice": 27862,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

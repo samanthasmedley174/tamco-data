@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram necrom hanging flowers elegant",
+    "displayName": "Diagram: Necrom Hanging Flowers, Elegant",
+    "values": {
+      "commonRange": "9,069 - 22,000",
+      "averagePrice": 12736,
+      "minimumPrice": 2150,
+      "maximumPrice": 25039,
+      "averageStackPrice": 12736,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

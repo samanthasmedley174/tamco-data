@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian rug fallen leaves",
+    "displayName": "Colovian Rug, Fallen Leaves",
+    "values": {
+      "commonRange": "2,500 - 8,950",
+      "averagePrice": 5087,
+      "minimumPrice": 2150,
+      "maximumPrice": 8950,
+      "averageStackPrice": 5087,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

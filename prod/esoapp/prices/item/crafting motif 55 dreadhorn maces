@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 55 dreadhorn maces",
+    "displayName": "Crafting Motif 55: Dreadhorn Maces",
+    "values": {
+      "commonRange": "3,500 - 4,729",
+      "averagePrice": 4137,
+      "minimumPrice": 3300,
+      "maximumPrice": 5000,
+      "averageStackPrice": 4137,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

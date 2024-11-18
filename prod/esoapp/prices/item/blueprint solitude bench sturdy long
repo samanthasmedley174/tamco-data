@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude bench sturdy long",
+    "displayName": "Blueprint: Solitude Bench, Sturdy Long",
+    "values": {
+      "commonRange": "1,000 - 2,027",
+      "averagePrice": 1565,
+      "minimumPrice": 1000,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1565,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

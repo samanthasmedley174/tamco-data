@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic bench ivy curved stone",
+    "displayName": "Druidic Bench, Ivy Curved Stone",
+    "values": {
+      "commonRange": "10,300 - 15,000",
+      "averagePrice": 12869,
+      "minimumPrice": 8300,
+      "maximumPrice": 18399,
+      "averageStackPrice": 12869,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

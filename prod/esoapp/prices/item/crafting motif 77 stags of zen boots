@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 77 stags of zen boots",
+    "displayName": "Crafting Motif 77: Stags of Z'en Boots",
+    "values": {
+      "commonRange": "24,525 - 35,235",
+      "averagePrice": 29294,
+      "minimumPrice": 20000,
+      "maximumPrice": 37550,
+      "averageStackPrice": 29294,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

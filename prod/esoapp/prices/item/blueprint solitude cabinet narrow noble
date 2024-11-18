@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude cabinet narrow noble",
+    "displayName": "Blueprint: Solitude Cabinet, Narrow Noble",
+    "values": {
+      "commonRange": "7,200 - 9,011",
+      "averagePrice": 8450,
+      "minimumPrice": 900,
+      "maximumPrice": 19000,
+      "averageStackPrice": 8450,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint vampiric bookcase arched",
+    "displayName": "Blueprint: Vampiric Bookcase, Arched",
+    "values": {
+      "commonRange": "2,000 - 2,627",
+      "averagePrice": 2277,
+      "minimumPrice": 2000,
+      "maximumPrice": 2700,
+      "averageStackPrice": 2277,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

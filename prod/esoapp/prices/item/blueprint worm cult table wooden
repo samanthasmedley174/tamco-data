@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint worm cult table wooden",
+    "displayName": "Blueprint: Worm Cult Table, Wooden",
+    "values": {
+      "commonRange": "50,000 - 102,644",
+      "averagePrice": 83332,
+      "minimumPrice": 37811,
+      "maximumPrice": 107162,
+      "averageStackPrice": 83332,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

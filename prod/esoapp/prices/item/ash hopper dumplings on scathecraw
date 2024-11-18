@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ash hopper dumplings on scathecraw",
+    "displayName": "Ash-Hopper Dumplings on Scathecraw",
+    "values": {
+      "commonRange": "10 - 12",
+      "averagePrice": 19,
+      "minimumPrice": 10,
+      "maximumPrice": 60,
+      "averageStackPrice": 1900,
+      "commonStackSize": 100,
+      "salesRecorded": 6
+    },
+    "type": "Food & Drinks",
+    "date": "12/01/2020",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/ash-hopper_dumplings_on_scathecraw.png"
+  }
+]

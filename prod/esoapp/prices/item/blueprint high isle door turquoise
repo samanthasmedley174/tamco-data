@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle door turquoise",
+    "displayName": "Blueprint: High Isle Door, Turquoise",
+    "values": {
+      "commonRange": "1,000 - 4,000",
+      "averagePrice": 3061,
+      "minimumPrice": 1000,
+      "maximumPrice": 7030,
+      "averageStackPrice": 3061,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

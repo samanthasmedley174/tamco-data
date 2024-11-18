@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork telescope stargazers",
+    "displayName": "Clockwork Telescope, Stargazers",
+    "values": {
+      "commonRange": "87,700 - 125,000",
+      "averagePrice": 107743,
+      "minimumPrice": 85709,
+      "maximumPrice": 125000,
+      "averageStackPrice": 107743,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

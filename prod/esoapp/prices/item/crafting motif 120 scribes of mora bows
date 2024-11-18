@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 120 scribes of mora bows",
+    "displayName": "Crafting Motif 120: Scribes of Mora Bows",
+    "values": {
+      "commonRange": "22,000 - 35,000",
+      "averagePrice": 29388,
+      "minimumPrice": 20000,
+      "maximumPrice": 40039,
+      "averageStackPrice": 29388,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

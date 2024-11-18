@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 80 shield of senchal chests",
+    "displayName": "Crafting Motif 80: Shield of Senchal Chests",
+    "values": {
+      "commonRange": "25,232 - 45,000",
+      "averagePrice": 37594,
+      "minimumPrice": 23000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 37594,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

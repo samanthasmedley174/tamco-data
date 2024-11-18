@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint khajiit signpost fortified",
+    "displayName": "Blueprint: Khajiit Signpost, Fortified",
+    "values": {
+      "commonRange": "56 - 227",
+      "averagePrice": 127,
+      "minimumPrice": 27,
+      "maximumPrice": 227,
+      "averageStackPrice": 127,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

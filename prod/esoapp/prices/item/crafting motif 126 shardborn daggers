@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 126 shardborn daggers",
+    "displayName": "Crafting Motif 126: Shardborn Daggers",
+    "values": {
+      "commonRange": "3,000 - 8,142",
+      "averagePrice": 5158,
+      "minimumPrice": 1050,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5158,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

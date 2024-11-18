@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor shrine magnus",
+    "displayName": "Alinor Shrine, Magnus",
+    "values": {
+      "commonRange": "40,000 - 80,172",
+      "averagePrice": 64151,
+      "minimumPrice": 30000,
+      "maximumPrice": 84319,
+      "averageStackPrice": 64151,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton carpet green",
+    "displayName": "Breton Carpet, Green",
+    "values": {
+      "commonRange": "100 - 1,500",
+      "averagePrice": 843,
+      "minimumPrice": 60,
+      "maximumPrice": 2000,
+      "averageStackPrice": 843,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

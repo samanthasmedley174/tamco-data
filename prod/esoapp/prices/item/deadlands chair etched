@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands chair etched",
+    "displayName": "Deadlands Chair, Etched",
+    "values": {
+      "commonRange": "4,000 - 7,700",
+      "averagePrice": 5516,
+      "minimumPrice": 2200,
+      "maximumPrice": 9000,
+      "averageStackPrice": 5516,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "05/07/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

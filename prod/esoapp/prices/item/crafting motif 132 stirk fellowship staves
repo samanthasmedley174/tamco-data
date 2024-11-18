@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 132 stirk fellowship staves",
+    "displayName": "Crafting Motif 132: Stirk Fellowship Staves",
+    "values": {
+      "commonRange": "650 - 3,000",
+      "averagePrice": 2583,
+      "minimumPrice": 600,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2583,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

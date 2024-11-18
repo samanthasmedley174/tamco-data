@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood sconce wall",
+    "displayName": "Dawnwood Sconce, Wall",
+    "values": {
+      "commonRange": "4,285 - 8,150",
+      "averagePrice": 7060,
+      "minimumPrice": 3455,
+      "maximumPrice": 20000,
+      "averageStackPrice": 14120,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

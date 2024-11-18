@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 118 house mornard boots",
+    "displayName": "Crafting Motif 118: House Mornard Boots",
+    "values": {
+      "commonRange": "5,000 - 7,500",
+      "averagePrice": 7405,
+      "minimumPrice": 5000,
+      "maximumPrice": 19939,
+      "averageStackPrice": 7405,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

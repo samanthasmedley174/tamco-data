@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 26 daggerfall covenant swords",
+    "displayName": "Crafting Motif 26: Daggerfall Covenant Swords",
+    "values": {
+      "commonRange": "3,376 - 5,000",
+      "averagePrice": 3936,
+      "minimumPrice": 2000,
+      "maximumPrice": 7039,
+      "averageStackPrice": 3936,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

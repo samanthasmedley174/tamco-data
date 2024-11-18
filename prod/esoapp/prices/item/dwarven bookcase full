@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven bookcase full",
+    "displayName": "Dwarven Bookcase, Full",
+    "values": {
+      "commonRange": "16,000 - 30,000",
+      "averagePrice": 22258,
+      "minimumPrice": 12500,
+      "maximumPrice": 30000,
+      "averageStackPrice": 22258,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/03/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

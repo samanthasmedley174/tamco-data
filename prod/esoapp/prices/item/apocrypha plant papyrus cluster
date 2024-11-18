@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha plant papyrus cluster",
+    "displayName": "Apocrypha Plant, Papyrus Cluster",
+    "values": {
+      "commonRange": "3,500 - 6,000",
+      "averagePrice": 4952,
+      "minimumPrice": 3125,
+      "maximumPrice": 7000,
+      "averageStackPrice": 4952,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

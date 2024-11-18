@@ -1,0 +1,18 @@
+[
+  {
+    "name": "a study in structure painting wood",
+    "displayName": "A Study in Structure Painting, Wood",
+    "values": {
+      "commonRange": "17,555 - 39,743",
+      "averagePrice": 26140,
+      "minimumPrice": 1300,
+      "maximumPrice": 45000,
+      "averageStackPrice": 26140,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

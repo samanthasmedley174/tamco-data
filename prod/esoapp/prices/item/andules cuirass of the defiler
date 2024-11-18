@@ -1,0 +1,18 @@
+[
+  {
+    "name": "andules cuirass of the defiler",
+    "displayName": "Andule's Cuirass of the Defiler",
+    "values": {
+      "commonRange": "3,500 - 3,549",
+      "averagePrice": 3539,
+      "minimumPrice": 983,
+      "maximumPrice": 6115,
+      "averageStackPrice": 3539,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

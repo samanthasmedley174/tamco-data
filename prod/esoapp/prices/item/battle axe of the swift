@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the swift",
+    "displayName": "Battle Axe of the Swift",
+    "values": {
+      "commonRange": "1,246 - 2,999",
+      "averagePrice": 6344,
+      "minimumPrice": 1130,
+      "maximumPrice": 20000,
+      "averageStackPrice": 6344,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "display case large",
+    "displayName": "Display Case, Large",
+    "values": {
+      "commonRange": "15,000 - 25,000",
+      "averagePrice": 20000,
+      "minimumPrice": 15000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 20000,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

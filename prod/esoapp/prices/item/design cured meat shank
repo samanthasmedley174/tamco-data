@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design cured meat shank",
+    "displayName": "Design: Cured Meat Shank",
+    "values": {
+      "commonRange": "400 - 1,000",
+      "averagePrice": 682,
+      "minimumPrice": 200,
+      "maximumPrice": 1000,
+      "averageStackPrice": 682,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

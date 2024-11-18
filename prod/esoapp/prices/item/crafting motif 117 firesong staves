@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 117 firesong staves",
+    "displayName": "Crafting Motif 117: Firesong Staves",
+    "values": {
+      "commonRange": "34,000 - 50,000",
+      "averagePrice": 39391,
+      "minimumPrice": 28000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 39391,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

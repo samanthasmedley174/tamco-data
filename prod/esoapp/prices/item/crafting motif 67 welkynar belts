@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 67 welkynar belts",
+    "displayName": "Crafting Motif 67: Welkynar Belts",
+    "values": {
+      "commonRange": "5,000 - 8,096",
+      "averagePrice": 6717,
+      "minimumPrice": 4000,
+      "maximumPrice": 9437,
+      "averageStackPrice": 6717,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

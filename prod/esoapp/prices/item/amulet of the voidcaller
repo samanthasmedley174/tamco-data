@@ -1,0 +1,18 @@
+[
+  {
+    "name": "amulet of the voidcaller",
+    "displayName": "Amulet of the Voidcaller",
+    "values": {
+      "commonRange": "145 - 1,044",
+      "averagePrice": 525,
+      "minimumPrice": 144,
+      "maximumPrice": 3999,
+      "averageStackPrice": 525,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

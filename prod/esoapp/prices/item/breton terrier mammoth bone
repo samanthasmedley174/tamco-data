@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton terrier mammoth bone",
+    "displayName": "Breton Terrier Mammoth Bone",
+    "values": {
+      "commonRange": "3 - 50",
+      "averagePrice": 21,
+      "minimumPrice": 1,
+      "maximumPrice": 138,
+      "averageStackPrice": 210,
+      "commonStackSize": 10,
+      "salesRecorded": 94
+    },
+    "type": "Fragments",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

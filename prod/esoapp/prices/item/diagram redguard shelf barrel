@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redguard shelf barrel",
+    "displayName": "Diagram: Redguard Shelf, Barrel",
+    "values": {
+      "commonRange": "500 - 3,000",
+      "averagePrice": 1719,
+      "minimumPrice": 230,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1719,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

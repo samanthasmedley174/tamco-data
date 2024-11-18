@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design fish small",
+    "displayName": "Design: Fish, Small",
+    "values": {
+      "commonRange": "150 - 812",
+      "averagePrice": 508,
+      "minimumPrice": 145,
+      "maximumPrice": 1000,
+      "averageStackPrice": 508,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/31/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

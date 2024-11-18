@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cyrodilic field bar",
+    "displayName": "Cyrodilic Field Bar",
+    "values": {
+      "commonRange": "62 - 150",
+      "averagePrice": 128,
+      "minimumPrice": 16,
+      "maximumPrice": 306,
+      "averageStackPrice": 128,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Food & Drinks",
+    "date": "02/07/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/cyrodilic_field_bar.png"
+  }
+]

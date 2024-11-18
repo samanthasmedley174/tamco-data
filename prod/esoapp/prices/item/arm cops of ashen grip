@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arm cops of ashen grip",
+    "displayName": "Arm Cops of Ashen Grip",
+    "values": {
+      "commonRange": "1,000 - 2,341",
+      "averagePrice": 2015,
+      "minimumPrice": 934,
+      "maximumPrice": 5153,
+      "averageStackPrice": 2015,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

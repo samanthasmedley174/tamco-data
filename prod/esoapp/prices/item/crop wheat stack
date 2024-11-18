@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crop wheat stack",
+    "displayName": "Crop, Wheat Stack",
+    "values": {
+      "commonRange": "100 - 417",
+      "averagePrice": 324,
+      "minimumPrice": 70,
+      "maximumPrice": 1403,
+      "averageStackPrice": 324,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arm cops of bahrahas curse",
+    "displayName": "Arm Cops of Bahraha's Curse",
+    "values": {
+      "commonRange": "350 - 5,150",
+      "averagePrice": 2744,
+      "minimumPrice": 149,
+      "maximumPrice": 7000,
+      "averageStackPrice": 2744,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 81 new moon priest gloves",
+    "displayName": "Crafting Motif 81: New Moon Priest Gloves",
+    "values": {
+      "commonRange": "399 - 2,039",
+      "averagePrice": 839,
+      "minimumPrice": 217,
+      "maximumPrice": 2039,
+      "averageStackPrice": 839,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

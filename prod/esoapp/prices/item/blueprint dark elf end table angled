@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint dark elf end table angled",
+    "displayName": "Blueprint: Dark Elf End Table, Angled",
+    "values": {
+      "commonRange": "500 - 959",
+      "averagePrice": 777,
+      "minimumPrice": 230,
+      "maximumPrice": 1048,
+      "averageStackPrice": 777,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

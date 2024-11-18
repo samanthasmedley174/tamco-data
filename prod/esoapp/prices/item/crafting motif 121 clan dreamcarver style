@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 121 clan dreamcarver style",
+    "displayName": "Crafting Motif 121: Clan Dreamcarver Style",
+    "values": {
+      "commonRange": "2,000,000 - 2,000,000",
+      "averagePrice": 1700000,
+      "minimumPrice": 900000,
+      "maximumPrice": 2200000,
+      "averageStackPrice": 1700000,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Motifs",
+    "date": "10/03/2023",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

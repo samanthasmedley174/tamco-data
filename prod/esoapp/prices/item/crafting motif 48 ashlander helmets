@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 48 ashlander helmets",
+    "displayName": "Crafting Motif 48: Ashlander Helmets",
+    "values": {
+      "commonRange": "2,039 - 8,000",
+      "averagePrice": 5050,
+      "minimumPrice": 1800,
+      "maximumPrice": 9000,
+      "averageStackPrice": 5050,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

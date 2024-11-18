@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian wind chimes",
+    "displayName": "Argonian Wind Chimes",
+    "values": {
+      "commonRange": "450 - 2,500",
+      "averagePrice": 1633,
+      "minimumPrice": 150,
+      "maximumPrice": 2555,
+      "averageStackPrice": 1633,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/22/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bracers of ashen grip",
+    "displayName": "Bracers of Ashen Grip",
+    "values": {
+      "commonRange": "590 - 3,707",
+      "averagePrice": 3009,
+      "minimumPrice": 390,
+      "maximumPrice": 7690,
+      "averageStackPrice": 3009,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

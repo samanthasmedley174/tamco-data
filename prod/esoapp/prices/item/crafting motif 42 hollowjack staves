@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 42 hollowjack staves",
+    "displayName": "Crafting Motif 42: Hollowjack Staves",
+    "values": {
+      "commonRange": "1,100 - 5,039",
+      "averagePrice": 3729,
+      "minimumPrice": 500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 3729,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

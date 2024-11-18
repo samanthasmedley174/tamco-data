@@ -1,0 +1,18 @@
+[
+  {
+    "name": "corkscrew metal",
+    "displayName": "Corkscrew, Metal",
+    "values": {
+      "commonRange": "1,650 - 7,200",
+      "averagePrice": 5024,
+      "minimumPrice": 1000,
+      "maximumPrice": 7300,
+      "averageStackPrice": 5024,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

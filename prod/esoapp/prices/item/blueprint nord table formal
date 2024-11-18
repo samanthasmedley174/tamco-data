@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint nord table formal",
+    "displayName": "Blueprint: Nord Table, Formal",
+    "values": {
+      "commonRange": "9,900 - 13,963",
+      "averagePrice": 12195,
+      "minimumPrice": 9182,
+      "maximumPrice": 20000,
+      "averageStackPrice": 12195,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

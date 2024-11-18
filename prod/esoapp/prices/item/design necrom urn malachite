@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design necrom urn malachite",
+    "displayName": "Design: Necrom Urn, Malachite",
+    "values": {
+      "commonRange": "4,661 - 5,782",
+      "averagePrice": 5185,
+      "minimumPrice": 2999,
+      "maximumPrice": 6167,
+      "averageStackPrice": 5185,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

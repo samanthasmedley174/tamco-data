@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 116 drowned mariner axes",
+    "displayName": "Crafting Motif 116: Drowned Mariner Axes",
+    "values": {
+      "commonRange": "26,466 - 66,000",
+      "averagePrice": 40096,
+      "minimumPrice": 26039,
+      "maximumPrice": 70000,
+      "averageStackPrice": 40096,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

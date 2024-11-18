@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 130 exiles revenge chests",
+    "displayName": "Crafting Motif 130: Exile's Revenge Chests",
+    "values": {
+      "commonRange": "93,622 - 104,259",
+      "averagePrice": 99390,
+      "minimumPrice": 90000,
+      "maximumPrice": 110039,
+      "averageStackPrice": 99390,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

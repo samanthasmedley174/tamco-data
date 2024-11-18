@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian dresser noble",
+    "displayName": "Colovian Dresser, Noble",
+    "values": {
+      "commonRange": "3,000 - 8,629",
+      "averagePrice": 5437,
+      "minimumPrice": 1195,
+      "maximumPrice": 11150,
+      "averageStackPrice": 5437,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

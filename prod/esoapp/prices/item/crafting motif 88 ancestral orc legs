@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 88 ancestral orc legs",
+    "displayName": "Crafting Motif 88: Ancestral Orc Legs",
+    "values": {
+      "commonRange": "2,200 - 5,000",
+      "averagePrice": 3490,
+      "minimumPrice": 39,
+      "maximumPrice": 6451,
+      "averageStackPrice": 3490,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

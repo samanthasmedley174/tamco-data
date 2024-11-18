@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram minecart track sloped right",
+    "displayName": "Diagram: Minecart Track, Sloped Right",
+    "values": {
+      "commonRange": "1,200 - 8,475",
+      "averagePrice": 6029,
+      "minimumPrice": 30,
+      "maximumPrice": 8500,
+      "averageStackPrice": 6029,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

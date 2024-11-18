@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin armchair backless",
+    "displayName": "Blueprint: Leyawiin Armchair, Backless",
+    "values": {
+      "commonRange": "5,000 - 5,928",
+      "averagePrice": 5205,
+      "minimumPrice": 3500,
+      "maximumPrice": 5994,
+      "averageStackPrice": 5205,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

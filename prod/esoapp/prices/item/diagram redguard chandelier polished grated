@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redguard chandelier polished grated",
+    "displayName": "Diagram: Redguard Chandelier, Polished Grated",
+    "values": {
+      "commonRange": "29,000 - 33,000",
+      "averagePrice": 30832,
+      "minimumPrice": 29000,
+      "maximumPrice": 35000,
+      "averageStackPrice": 30832,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram leyawiin wall mirror lacquered frame",
+    "displayName": "Diagram: Leyawiin Wall Mirror, Lacquered Frame",
+    "values": {
+      "commonRange": "9,000 - 16,308",
+      "averagePrice": 13409,
+      "minimumPrice": 8300,
+      "maximumPrice": 25030,
+      "averageStackPrice": 13409,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

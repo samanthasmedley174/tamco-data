@@ -1,0 +1,18 @@
+[
+  {
+    "name": "chef arquitiuss lost thesis",
+    "displayName": "Chef Arquitius's Lost Thesis",
+    "values": {
+      "commonRange": "4,750,000 - 4,750,000",
+      "averagePrice": 4750000,
+      "minimumPrice": 4750000,
+      "maximumPrice": 4750000,
+      "averageStackPrice": 4750000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Miscellaneous",
+    "date": "02/16/2021",
+    "image": "https://data.tamrielsavings.com/D/Miscellaneous/Chef_Arquitius's_Lost_Thesis.png"
+  }
+]

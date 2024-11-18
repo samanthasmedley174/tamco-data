@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude bookcase narrow rustic",
+    "displayName": "Blueprint: Solitude Bookcase, Narrow Rustic",
+    "values": {
+      "commonRange": "1,101 - 2,326",
+      "averagePrice": 1947,
+      "minimumPrice": 1000,
+      "maximumPrice": 3189,
+      "averageStackPrice": 1947,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

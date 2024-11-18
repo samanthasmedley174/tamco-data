@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design druidic oven stone",
+    "displayName": "Design: Druidic Oven, Stone",
+    "values": {
+      "commonRange": "50,000 - 78,281",
+      "averagePrice": 62313,
+      "minimumPrice": 49000,
+      "maximumPrice": 78900,
+      "averageStackPrice": 62313,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

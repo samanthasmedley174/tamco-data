@@ -1,0 +1,18 @@
+[
+  {
+    "name": "artificers vestments",
+    "displayName": "Artificer's Vestments",
+    "values": {
+      "commonRange": "171 - 171",
+      "averagePrice": 171,
+      "minimumPrice": 171,
+      "maximumPrice": 171,
+      "averageStackPrice": 171,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint dres sideboard display",
+    "displayName": "Blueprint: Dres Sideboard, Display",
+    "values": {
+      "commonRange": "8,000 - 15,000",
+      "averagePrice": 9968,
+      "minimumPrice": 6000,
+      "maximumPrice": 15194,
+      "averageStackPrice": 9968,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

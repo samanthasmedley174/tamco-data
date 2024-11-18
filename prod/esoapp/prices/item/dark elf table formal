@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf table formal",
+    "displayName": "Dark Elf Table, Formal",
+    "values": {
+      "commonRange": "978 - 1,764",
+      "averagePrice": 1242,
+      "minimumPrice": 500,
+      "maximumPrice": 2260,
+      "averageStackPrice": 1242,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

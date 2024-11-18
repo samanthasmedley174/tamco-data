@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian paddle wooden",
+    "displayName": "Argonian Paddle, Wooden",
+    "values": {
+      "commonRange": "5,000 - 14,860",
+      "averagePrice": 19211,
+      "minimumPrice": 4860,
+      "maximumPrice": 100150,
+      "averageStackPrice": 19211,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

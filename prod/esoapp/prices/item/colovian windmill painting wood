@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian windmill painting wood",
+    "displayName": "Colovian Windmill Painting, Wood",
+    "values": {
+      "commonRange": "3,000 - 27,817",
+      "averagePrice": 17856,
+      "minimumPrice": 300,
+      "maximumPrice": 27817,
+      "averageStackPrice": 17856,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

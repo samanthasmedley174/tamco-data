@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven bookcase granite filled",
+    "displayName": "Dwarven Bookcase, Granite Filled",
+    "values": {
+      "commonRange": "20,000 - 30,000",
+      "averagePrice": 22602,
+      "minimumPrice": 2244,
+      "maximumPrice": 32187,
+      "averageStackPrice": 22602,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

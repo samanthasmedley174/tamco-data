@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 113 steadfast society belts",
+    "displayName": "Crafting Motif 113: Steadfast Society Belts",
+    "values": {
+      "commonRange": "4,939 - 6,647",
+      "averagePrice": 5753,
+      "minimumPrice": 2000,
+      "maximumPrice": 7000,
+      "averageStackPrice": 5753,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

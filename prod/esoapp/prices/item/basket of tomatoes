@@ -1,0 +1,18 @@
+[
+  {
+    "name": "basket of tomatoes",
+    "displayName": "Basket of Tomatoes",
+    "values": {
+      "commonRange": "1,500 - 4,300",
+      "averagePrice": 2626,
+      "minimumPrice": 560,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2626,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

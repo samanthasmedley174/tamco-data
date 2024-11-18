@@ -1,0 +1,18 @@
+[
+  {
+    "name": "daedric drinking bowl ritual",
+    "displayName": "Daedric Drinking Bowl, Ritual",
+    "values": {
+      "commonRange": "1,000 - 3,560",
+      "averagePrice": 1877,
+      "minimumPrice": 1000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1877,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

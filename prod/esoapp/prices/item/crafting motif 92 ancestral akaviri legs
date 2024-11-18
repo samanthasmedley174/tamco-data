@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 92 ancestral akaviri legs",
+    "displayName": "Crafting Motif 92: Ancestral Akaviri Legs",
+    "values": {
+      "commonRange": "21,740 - 36,509",
+      "averagePrice": 28966,
+      "minimumPrice": 20500,
+      "maximumPrice": 39509,
+      "averageStackPrice": 28966,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design plums bunch",
+    "displayName": "Design: Plums, Bunch",
+    "values": {
+      "commonRange": "700 - 1,514",
+      "averagePrice": 1069,
+      "minimumPrice": 650,
+      "maximumPrice": 1648,
+      "averageStackPrice": 1069,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

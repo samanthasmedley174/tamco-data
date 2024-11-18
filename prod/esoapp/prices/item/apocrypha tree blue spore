@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha tree blue spore",
+    "displayName": "Apocrypha Tree, Blue Spore",
+    "values": {
+      "commonRange": "22,000 - 31,999",
+      "averagePrice": 26080,
+      "minimumPrice": 5000,
+      "maximumPrice": 35000,
+      "averageStackPrice": 26080,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

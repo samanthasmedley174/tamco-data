@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood basket antlers",
+    "displayName": "Dawnwood Basket, Antlers",
+    "values": {
+      "commonRange": "4,466 - 5,108",
+      "averagePrice": 4814,
+      "minimumPrice": 2000,
+      "maximumPrice": 7201,
+      "averageStackPrice": 4814,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of vicious death",
+    "displayName": "Breeches of Vicious Death",
+    "values": {
+      "commonRange": "3,000 - 50,000",
+      "averagePrice": 15931,
+      "minimumPrice": 1000,
+      "maximumPrice": 120000,
+      "averageStackPrice": 15931,
+      "commonStackSize": 1,
+      "salesRecorded": 109
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

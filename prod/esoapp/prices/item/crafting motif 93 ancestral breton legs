@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 93 ancestral breton legs",
+    "displayName": "Crafting Motif 93: Ancestral Breton Legs",
+    "values": {
+      "commonRange": "30,000 - 55,000",
+      "averagePrice": 40353,
+      "minimumPrice": 30000,
+      "maximumPrice": 66000,
+      "averageStackPrice": 40353,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

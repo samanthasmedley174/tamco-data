@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dais bloodmage crystal",
+    "displayName": "Dais, Bloodmage Crystal",
+    "values": {
+      "commonRange": "110,000 - 184,716",
+      "averagePrice": 162846,
+      "minimumPrice": 100000,
+      "maximumPrice": 275000,
+      "averageStackPrice": 162846,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

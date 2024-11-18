@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard cupboard sturdy",
+    "displayName": "Blueprint: Redguard Cupboard, Sturdy",
+    "values": {
+      "commonRange": "10,039 - 23,878",
+      "averagePrice": 19390,
+      "minimumPrice": 8330,
+      "maximumPrice": 26950,
+      "averageStackPrice": 19390,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

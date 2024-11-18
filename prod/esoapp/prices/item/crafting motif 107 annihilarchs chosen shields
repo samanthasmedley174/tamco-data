@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 107 annihilarchs chosen shields",
+    "displayName": "Crafting Motif 107: Annihilarch's Chosen Shields",
+    "values": {
+      "commonRange": "23,500 - 33,755",
+      "averagePrice": 27637,
+      "minimumPrice": 20000,
+      "maximumPrice": 34500,
+      "averageStackPrice": 27637,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

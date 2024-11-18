@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 18 akaviri legs",
+    "displayName": "Crafting Motif 18: Akaviri Legs",
+    "values": {
+      "commonRange": "4,711 - 12,000",
+      "averagePrice": 7664,
+      "minimumPrice": 4000,
+      "maximumPrice": 32000,
+      "averageStackPrice": 7664,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork wall machinery arched",
+    "displayName": "Clockwork Wall Machinery, Arched",
+    "values": {
+      "commonRange": "5,300 - 12,000",
+      "averagePrice": 9054,
+      "minimumPrice": 5300,
+      "maximumPrice": 12631,
+      "averageStackPrice": 9054,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

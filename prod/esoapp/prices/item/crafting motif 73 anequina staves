@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 73 anequina staves",
+    "displayName": "Crafting Motif 73: Anequina Staves",
+    "values": {
+      "commonRange": "3,000 - 7,600",
+      "averagePrice": 5314,
+      "minimumPrice": 3000,
+      "maximumPrice": 8500,
+      "averageStackPrice": 5314,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

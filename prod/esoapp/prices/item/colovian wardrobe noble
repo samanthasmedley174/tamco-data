@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian wardrobe noble",
+    "displayName": "Colovian Wardrobe, Noble",
+    "values": {
+      "commonRange": "3,471 - 5,471",
+      "averagePrice": 4774,
+      "minimumPrice": 3300,
+      "maximumPrice": 5500,
+      "averageStackPrice": 4774,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

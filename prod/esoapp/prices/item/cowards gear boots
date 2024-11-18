@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cowards gear boots",
+    "displayName": "Coward's Gear Boots",
+    "values": {
+      "commonRange": "330 - 4,087",
+      "averagePrice": 1897,
+      "minimumPrice": 187,
+      "maximumPrice": 6500,
+      "averageStackPrice": 1897,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

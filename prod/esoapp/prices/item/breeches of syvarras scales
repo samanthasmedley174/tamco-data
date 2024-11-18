@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of syvarras scales",
+    "displayName": "Breeches of Syvarra's Scales",
+    "values": {
+      "commonRange": "2,374 - 9,999",
+      "averagePrice": 6483,
+      "minimumPrice": 500,
+      "maximumPrice": 15000,
+      "averageStackPrice": 6483,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

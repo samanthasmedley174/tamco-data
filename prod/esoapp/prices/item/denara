@@ -1,0 +1,18 @@
+[
+  {
+    "name": "denara",
+    "displayName": "Denara",
+    "values": {
+      "commonRange": "115 - 150",
+      "averagePrice": 132,
+      "minimumPrice": 20,
+      "maximumPrice": 175,
+      "averageStackPrice": 26400,
+      "commonStackSize": 200,
+      "salesRecorded": 11
+    },
+    "type": "Enchanting Materials",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Denara.png"
+  }
+]

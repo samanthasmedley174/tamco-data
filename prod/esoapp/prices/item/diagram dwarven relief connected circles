@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven relief connected circles",
+    "displayName": "Diagram: Dwarven Relief, Connected Circles",
+    "values": {
+      "commonRange": "31,991 - 42,676",
+      "averagePrice": 37629,
+      "minimumPrice": 23000,
+      "maximumPrice": 48121,
+      "averageStackPrice": 37629,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

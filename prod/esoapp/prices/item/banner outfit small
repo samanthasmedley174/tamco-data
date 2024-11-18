@@ -1,0 +1,18 @@
+[
+  {
+    "name": "banner outfit small",
+    "displayName": "Banner, Outfit Small",
+    "values": {
+      "commonRange": "5,149 - 12,200",
+      "averagePrice": 10353,
+      "minimumPrice": 5149,
+      "maximumPrice": 19000,
+      "averageStackPrice": 10353,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

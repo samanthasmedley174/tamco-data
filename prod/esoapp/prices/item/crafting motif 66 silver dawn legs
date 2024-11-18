@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 66 silver dawn legs",
+    "displayName": "Crafting Motif 66: Silver Dawn Legs",
+    "values": {
+      "commonRange": "14,092 - 30,000",
+      "averagePrice": 20795,
+      "minimumPrice": 8000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 20795,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

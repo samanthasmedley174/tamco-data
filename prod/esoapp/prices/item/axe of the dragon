@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of the dragon",
+    "displayName": "Axe of the Dragon",
+    "values": {
+      "commonRange": "644 - 5,000",
+      "averagePrice": 2175,
+      "minimumPrice": 553,
+      "maximumPrice": 8000,
+      "averageStackPrice": 2175,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

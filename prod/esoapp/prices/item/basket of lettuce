@@ -1,0 +1,18 @@
+[
+  {
+    "name": "basket of lettuce",
+    "displayName": "Basket of Lettuce",
+    "values": {
+      "commonRange": "1,000 - 2,922",
+      "averagePrice": 1862,
+      "minimumPrice": 1000,
+      "maximumPrice": 2922,
+      "averageStackPrice": 1862,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

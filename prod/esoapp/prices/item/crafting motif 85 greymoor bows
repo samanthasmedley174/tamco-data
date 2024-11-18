@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 85 greymoor bows",
+    "displayName": "Crafting Motif 85: Greymoor Bows",
+    "values": {
+      "commonRange": "4,500 - 7,062",
+      "averagePrice": 5845,
+      "minimumPrice": 3500,
+      "maximumPrice": 7062,
+      "averageStackPrice": 5845,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

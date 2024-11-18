@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid constellation stele the thief",
+    "displayName": "Ayleid Constellation Stele, The Thief",
+    "values": {
+      "commonRange": "18,000 - 26,500",
+      "averagePrice": 21962,
+      "minimumPrice": 15000,
+      "maximumPrice": 27117,
+      "averageStackPrice": 21962,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

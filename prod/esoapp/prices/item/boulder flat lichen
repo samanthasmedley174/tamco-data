@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boulder flat lichen",
+    "displayName": "Boulder, Flat Lichen",
+    "values": {
+      "commonRange": "100 - 800",
+      "averagePrice": 422,
+      "minimumPrice": 100,
+      "maximumPrice": 831,
+      "averageStackPrice": 422,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Furnishings",
+    "date": "02/09/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

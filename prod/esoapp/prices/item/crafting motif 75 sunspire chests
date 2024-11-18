@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 75 sunspire chests",
+    "displayName": "Crafting Motif 75: Sunspire Chests",
+    "values": {
+      "commonRange": "11,066 - 14,066",
+      "averagePrice": 12711,
+      "minimumPrice": 11000,
+      "maximumPrice": 14141,
+      "averageStackPrice": 12711,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

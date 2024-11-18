@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint coffin lid",
+    "displayName": "Blueprint: Coffin, Lid",
+    "values": {
+      "commonRange": "997 - 2,015",
+      "averagePrice": 1731,
+      "minimumPrice": 900,
+      "maximumPrice": 3891,
+      "averageStackPrice": 1731,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

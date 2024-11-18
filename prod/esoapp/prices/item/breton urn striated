@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton urn striated",
+    "displayName": "Breton Urn, Striated",
+    "values": {
+      "commonRange": "6,300 - 11,000",
+      "averagePrice": 8360,
+      "minimumPrice": 6000,
+      "maximumPrice": 12300,
+      "averageStackPrice": 8360,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/17/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

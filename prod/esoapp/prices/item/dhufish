@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dhufish",
+    "displayName": "Dhufish",
+    "values": {
+      "commonRange": "470 - 503",
+      "averagePrice": 496,
+      "minimumPrice": 375,
+      "maximumPrice": 653,
+      "averageStackPrice": 8432,
+      "commonStackSize": 17,
+      "salesRecorded": 12
+    },
+    "type": "Fishing",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Dhufish.png"
+  }
+]

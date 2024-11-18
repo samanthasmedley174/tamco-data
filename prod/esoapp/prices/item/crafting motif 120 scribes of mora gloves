@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 120 scribes of mora gloves",
+    "displayName": "Crafting Motif 120: Scribes of Mora Gloves",
+    "values": {
+      "commonRange": "22,000 - 44,000",
+      "averagePrice": 27976,
+      "minimumPrice": 20644,
+      "maximumPrice": 50000,
+      "averageStackPrice": 27976,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

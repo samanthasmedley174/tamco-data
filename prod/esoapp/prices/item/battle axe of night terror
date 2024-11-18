@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of night terror",
+    "displayName": "Battle Axe of Night Terror",
+    "values": {
+      "commonRange": "746 - 746",
+      "averagePrice": 611,
+      "minimumPrice": 240,
+      "maximumPrice": 846,
+      "averageStackPrice": 611,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

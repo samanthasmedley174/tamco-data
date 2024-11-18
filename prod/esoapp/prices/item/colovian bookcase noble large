@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian bookcase noble large",
+    "displayName": "Colovian Bookcase, Noble Large",
+    "values": {
+      "commonRange": "4,500 - 15,900",
+      "averagePrice": 10720,
+      "minimumPrice": 3750,
+      "maximumPrice": 15900,
+      "averageStackPrice": 10720,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

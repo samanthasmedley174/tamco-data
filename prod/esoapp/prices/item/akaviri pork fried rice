@@ -1,0 +1,18 @@
+[
+  {
+    "name": "akaviri pork fried rice",
+    "displayName": "Akaviri Pork Fried Rice",
+    "values": {
+      "commonRange": "2 - 14",
+      "averagePrice": 12,
+      "minimumPrice": 2,
+      "maximumPrice": 45,
+      "averageStackPrice": 48,
+      "commonStackSize": 4,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "07/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/akaviri_pork_fried_rice.png"
+  }
+]

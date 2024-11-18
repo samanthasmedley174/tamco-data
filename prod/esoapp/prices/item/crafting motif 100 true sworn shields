@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 100 true sworn shields",
+    "displayName": "Crafting Motif 100: True-Sworn Shields",
+    "values": {
+      "commonRange": "25,000 - 33,507",
+      "averagePrice": 31999,
+      "minimumPrice": 20000,
+      "maximumPrice": 70468,
+      "averageStackPrice": 31999,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

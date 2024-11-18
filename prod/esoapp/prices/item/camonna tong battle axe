@@ -1,0 +1,18 @@
+[
+  {
+    "name": "camonna tong battle axe",
+    "displayName": "Camonna Tong Battle Axe",
+    "values": {
+      "commonRange": "100 - 1,500",
+      "averagePrice": 823,
+      "minimumPrice": 100,
+      "maximumPrice": 3245,
+      "averageStackPrice": 823,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

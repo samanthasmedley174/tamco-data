@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven chandelier polished braced",
+    "displayName": "Dwarven Chandelier, Polished Braced",
+    "values": {
+      "commonRange": "6,000 - 9,000",
+      "averagePrice": 7571,
+      "minimumPrice": 4500,
+      "maximumPrice": 9000,
+      "averageStackPrice": 7571,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Furnishings",
+    "date": "01/12/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

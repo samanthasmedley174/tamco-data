@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coldharbours favorite robe",
+    "displayName": "Coldharbour's Favorite Robe",
+    "values": {
+      "commonRange": "3,183 - 3,183",
+      "averagePrice": 3183,
+      "minimumPrice": 3183,
+      "maximumPrice": 3183,
+      "averageStackPrice": 3183,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

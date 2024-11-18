@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bounty sheet imperial man",
+    "displayName": "Bounty Sheet: Imperial Man",
+    "values": {
+      "commonRange": "5,347 - 7,500",
+      "averagePrice": 6380,
+      "minimumPrice": 5000,
+      "maximumPrice": 7500,
+      "averageStackPrice": 6380,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

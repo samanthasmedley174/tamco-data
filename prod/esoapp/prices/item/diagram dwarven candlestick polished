@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven candlestick polished",
+    "displayName": "Diagram: Dwarven Candlestick, Polished",
+    "values": {
+      "commonRange": "100 - 1,000",
+      "averagePrice": 606,
+      "minimumPrice": 100,
+      "maximumPrice": 1779,
+      "averageStackPrice": 606,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

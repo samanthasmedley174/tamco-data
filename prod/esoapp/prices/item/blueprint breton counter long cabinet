@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint breton counter long cabinet",
+    "displayName": "Blueprint: Breton Counter, Long Cabinet",
+    "values": {
+      "commonRange": "550 - 1,200",
+      "averagePrice": 931,
+      "minimumPrice": 500,
+      "maximumPrice": 1229,
+      "averageStackPrice": 931,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven chair ornate polished",
+    "displayName": "Dwarven Chair, Ornate Polished",
+    "values": {
+      "commonRange": "1,333 - 4,360",
+      "averagePrice": 2786,
+      "minimumPrice": 1329,
+      "maximumPrice": 4360,
+      "averageStackPrice": 2786,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

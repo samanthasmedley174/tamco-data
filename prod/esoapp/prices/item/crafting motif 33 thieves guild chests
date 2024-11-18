@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 33 thieves guild chests",
+    "displayName": "Crafting Motif 33: Thieves Guild Chests",
+    "values": {
+      "commonRange": "15,000 - 21,213",
+      "averagePrice": 17307,
+      "minimumPrice": 15000,
+      "maximumPrice": 21213,
+      "averageStackPrice": 17307,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

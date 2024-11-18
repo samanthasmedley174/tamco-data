@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint alinor winerack polished",
+    "displayName": "Blueprint: Alinor Winerack, Polished",
+    "values": {
+      "commonRange": "2,000 - 7,799",
+      "averagePrice": 5748,
+      "minimumPrice": 900,
+      "maximumPrice": 10030,
+      "averageStackPrice": 5748,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

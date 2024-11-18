@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 52 redoran shoulders",
+    "displayName": "Crafting Motif 52: Redoran Shoulders",
+    "values": {
+      "commonRange": "7,999 - 9,999",
+      "averagePrice": 8570,
+      "minimumPrice": 7989,
+      "maximumPrice": 10800,
+      "averageStackPrice": 8570,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

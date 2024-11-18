@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr writing desk elegant wooden",
+    "displayName": "Blueprint: Elsweyr Writing Desk, Elegant Wooden",
+    "values": {
+      "commonRange": "15,000 - 20,039",
+      "averagePrice": 18348,
+      "minimumPrice": 15000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 18348,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

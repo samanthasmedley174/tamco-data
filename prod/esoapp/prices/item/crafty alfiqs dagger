@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafty alfiqs dagger",
+    "displayName": "Crafty Alfiq's Dagger",
+    "values": {
+      "commonRange": "500 - 9,453",
+      "averagePrice": 3466,
+      "minimumPrice": 144,
+      "maximumPrice": 9999,
+      "averageStackPrice": 3466,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

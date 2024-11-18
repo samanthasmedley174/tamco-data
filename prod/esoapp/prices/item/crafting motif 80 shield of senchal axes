@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 80 shield of senchal axes",
+    "displayName": "Crafting Motif 80: Shield of Senchal Axes",
+    "values": {
+      "commonRange": "6,000 - 15,511",
+      "averagePrice": 10349,
+      "minimumPrice": 5039,
+      "maximumPrice": 19950,
+      "averageStackPrice": 10349,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of soulshine",
+    "displayName": "Battle Axe of Soulshine",
+    "values": {
+      "commonRange": "1,169 - 2,600",
+      "averagePrice": 2336,
+      "minimumPrice": 1169,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2336,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

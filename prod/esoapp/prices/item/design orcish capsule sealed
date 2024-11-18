@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design orcish capsule sealed",
+    "displayName": "Design: Orcish Capsule, Sealed",
+    "values": {
+      "commonRange": "12,000 - 13,284",
+      "averagePrice": 12762,
+      "minimumPrice": 10000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 12762,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

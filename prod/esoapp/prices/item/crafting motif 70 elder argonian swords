@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 70 elder argonian swords",
+    "displayName": "Crafting Motif 70: Elder Argonian Swords",
+    "values": {
+      "commonRange": "11,959 - 22,000",
+      "averagePrice": 15836,
+      "minimumPrice": 11000,
+      "maximumPrice": 24171,
+      "averageStackPrice": 15836,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

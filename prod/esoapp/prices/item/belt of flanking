@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of flanking",
+    "displayName": "Belt of Flanking",
+    "values": {
+      "commonRange": "288 - 5,090",
+      "averagePrice": 1830,
+      "minimumPrice": 90,
+      "maximumPrice": 15090,
+      "averageStackPrice": 1830,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram elsweyr gate masterwork",
+    "displayName": "Diagram: Elsweyr Gate, Masterwork",
+    "values": {
+      "commonRange": "25,000 - 113,167",
+      "averagePrice": 70453,
+      "minimumPrice": 20000,
+      "maximumPrice": 113167,
+      "averageStackPrice": 70453,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

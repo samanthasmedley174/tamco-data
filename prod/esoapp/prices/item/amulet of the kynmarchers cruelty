@@ -1,0 +1,18 @@
+[
+  {
+    "name": "amulet of the kynmarchers cruelty",
+    "displayName": "Amulet of the Kynmarcher's Cruelty",
+    "values": {
+      "commonRange": "500 - 2,150",
+      "averagePrice": 1642,
+      "minimumPrice": 500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1642,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

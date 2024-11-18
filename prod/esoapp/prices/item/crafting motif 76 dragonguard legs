@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 76 dragonguard legs",
+    "displayName": "Crafting Motif 76: Dragonguard Legs",
+    "values": {
+      "commonRange": "9,300 - 22,290",
+      "averagePrice": 14784,
+      "minimumPrice": 6039,
+      "maximumPrice": 38341,
+      "averageStackPrice": 14784,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

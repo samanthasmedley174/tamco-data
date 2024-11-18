@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darkstride bow",
+    "displayName": "Darkstride Bow",
+    "values": {
+      "commonRange": "290 - 1,500",
+      "averagePrice": 819,
+      "minimumPrice": 170,
+      "maximumPrice": 1500,
+      "averageStackPrice": 819,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

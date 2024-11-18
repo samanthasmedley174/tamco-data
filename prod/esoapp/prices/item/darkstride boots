@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darkstride boots",
+    "displayName": "Darkstride Boots",
+    "values": {
+      "commonRange": "190 - 2,000",
+      "averagePrice": 1074,
+      "minimumPrice": 90,
+      "maximumPrice": 9990,
+      "averageStackPrice": 1074,
+      "commonStackSize": 1,
+      "salesRecorded": 47
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

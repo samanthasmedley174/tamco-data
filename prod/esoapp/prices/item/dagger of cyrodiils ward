@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of cyrodiils ward",
+    "displayName": "Dagger of Cyrodiil's Ward",
+    "values": {
+      "commonRange": "400 - 6,000",
+      "averagePrice": 4142,
+      "minimumPrice": 244,
+      "maximumPrice": 7000,
+      "averageStackPrice": 4142,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 114 systres guardian swords",
+    "displayName": "Crafting Motif 114: Systres Guardian Swords",
+    "values": {
+      "commonRange": "8,000 - 11,176",
+      "averagePrice": 9986,
+      "minimumPrice": 7000,
+      "maximumPrice": 11176,
+      "averageStackPrice": 9986,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

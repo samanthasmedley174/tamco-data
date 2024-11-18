@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf nightstand angled",
+    "displayName": "Dark Elf Nightstand, Angled",
+    "values": {
+      "commonRange": "5,000 - 16,000",
+      "averagePrice": 7164,
+      "minimumPrice": 800,
+      "maximumPrice": 16000,
+      "averageStackPrice": 7164,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 25 aldmeri dominion axes",
+    "displayName": "Crafting Motif 25: Aldmeri Dominion Axes",
+    "values": {
+      "commonRange": "2,039 - 6,000",
+      "averagePrice": 3581,
+      "minimumPrice": 1750,
+      "maximumPrice": 8456,
+      "averageStackPrice": 3581,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

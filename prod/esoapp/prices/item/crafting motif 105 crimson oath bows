@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 105 crimson oath bows",
+    "displayName": "Crafting Motif 105: Crimson Oath Bows",
+    "values": {
+      "commonRange": "8,000 - 10,655",
+      "averagePrice": 9652,
+      "minimumPrice": 5500,
+      "maximumPrice": 10692,
+      "averageStackPrice": 9652,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

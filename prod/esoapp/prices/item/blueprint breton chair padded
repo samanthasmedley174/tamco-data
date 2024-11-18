@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint breton chair padded",
+    "displayName": "Blueprint: Breton Chair, Padded",
+    "values": {
+      "commonRange": "11,000 - 20,300",
+      "averagePrice": 17361,
+      "minimumPrice": 10000,
+      "maximumPrice": 22039,
+      "averageStackPrice": 17361,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

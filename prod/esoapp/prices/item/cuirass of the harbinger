@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cuirass of the harbinger",
+    "displayName": "Cuirass of the Harbinger",
+    "values": {
+      "commonRange": "5,000 - 40,000",
+      "averagePrice": 22813,
+      "minimumPrice": 5000,
+      "maximumPrice": 120000,
+      "averageStackPrice": 22813,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork city treasure map ii",
+    "displayName": "Clockwork City Treasure Map II",
+    "values": {
+      "commonRange": "72 - 372",
+      "averagePrice": 189,
+      "minimumPrice": 12,
+      "maximumPrice": 1000,
+      "averageStackPrice": 189,
+      "commonStackSize": 1,
+      "salesRecorded": 78
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

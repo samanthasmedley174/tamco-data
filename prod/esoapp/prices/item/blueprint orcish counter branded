@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint orcish counter branded",
+    "displayName": "Blueprint: Orcish Counter, Branded",
+    "values": {
+      "commonRange": "500 - 2,000",
+      "averagePrice": 1031,
+      "minimumPrice": 400,
+      "maximumPrice": 2030,
+      "averageStackPrice": 1031,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

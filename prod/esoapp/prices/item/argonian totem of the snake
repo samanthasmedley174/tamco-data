@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian totem of the snake",
+    "displayName": "Argonian Totem of the Snake",
+    "values": {
+      "commonRange": "4,500 - 7,000",
+      "averagePrice": 5921,
+      "minimumPrice": 1400,
+      "maximumPrice": 13100,
+      "averageStackPrice": 5921,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/12/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

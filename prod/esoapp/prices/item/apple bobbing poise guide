@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apple bobbing poise guide",
+    "displayName": "Apple-Bobbing Poise Guide",
+    "values": {
+      "commonRange": "3,039 - 9,999",
+      "averagePrice": 6640,
+      "minimumPrice": 539,
+      "maximumPrice": 14999,
+      "averageStackPrice": 6640,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Fragments",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

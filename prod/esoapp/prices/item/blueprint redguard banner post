@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard banner post",
+    "displayName": "Blueprint: Redguard Banner, Post",
+    "values": {
+      "commonRange": "90 - 151",
+      "averagePrice": 131,
+      "minimumPrice": 70,
+      "maximumPrice": 336,
+      "averageStackPrice": 131,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

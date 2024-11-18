@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arenthian brandy",
+    "displayName": "Arenthian Brandy",
+    "values": {
+      "commonRange": "11 - 12",
+      "averagePrice": 37,
+      "minimumPrice": 3,
+      "maximumPrice": 120,
+      "averageStackPrice": 37,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "04/20/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/arenthian_brandy.png"
+  }
+]

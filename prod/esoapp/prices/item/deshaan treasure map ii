@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deshaan treasure map ii",
+    "displayName": "Deshaan Treasure Map II",
+    "values": {
+      "commonRange": "100 - 1,100",
+      "averagePrice": 375,
+      "minimumPrice": 99,
+      "maximumPrice": 2000,
+      "averageStackPrice": 375,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

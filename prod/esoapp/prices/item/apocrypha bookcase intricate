@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha bookcase intricate",
+    "displayName": "Apocrypha Bookcase, Intricate",
+    "values": {
+      "commonRange": "6,000 - 21,110",
+      "averagePrice": 15543,
+      "minimumPrice": 5150,
+      "maximumPrice": 33000,
+      "averageStackPrice": 15543,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "10/22/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

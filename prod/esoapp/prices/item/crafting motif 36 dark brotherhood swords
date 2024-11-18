@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 36 dark brotherhood swords",
+    "displayName": "Crafting Motif 36: Dark Brotherhood Swords",
+    "values": {
+      "commonRange": "9,000 - 12,703",
+      "averagePrice": 11578,
+      "minimumPrice": 4703,
+      "maximumPrice": 12703,
+      "averageStackPrice": 11578,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

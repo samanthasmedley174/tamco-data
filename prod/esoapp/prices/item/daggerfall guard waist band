@@ -1,0 +1,18 @@
+[
+  {
+    "name": "daggerfall guard waist band",
+    "displayName": "Daggerfall Guard Waist Band",
+    "values": {
+      "commonRange": "500 - 1,000",
+      "averagePrice": 923,
+      "minimumPrice": 154,
+      "maximumPrice": 2000,
+      "averageStackPrice": 923,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

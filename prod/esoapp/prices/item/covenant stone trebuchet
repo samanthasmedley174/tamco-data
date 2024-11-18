@@ -1,0 +1,18 @@
+[
+  {
+    "name": "covenant stone trebuchet",
+    "displayName": "Covenant Stone Trebuchet",
+    "values": {
+      "commonRange": "100 - 1,000",
+      "averagePrice": 528,
+      "minimumPrice": 100,
+      "maximumPrice": 1000,
+      "averageStackPrice": 528,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Siege Equipment",
+    "date": "10/31/2023",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Covenant_Stone_Trebuchet.png"
+  }
+]

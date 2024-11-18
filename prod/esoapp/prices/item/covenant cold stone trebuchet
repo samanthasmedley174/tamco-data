@@ -1,0 +1,18 @@
+[
+  {
+    "name": "covenant cold stone trebuchet",
+    "displayName": "Covenant Cold Stone Trebuchet",
+    "values": {
+      "commonRange": "31 - 335",
+      "averagePrice": 269,
+      "minimumPrice": 25,
+      "maximumPrice": 467,
+      "averageStackPrice": 269,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Siege Equipment",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Covenant_Cold_Stone_Trebuchet.png"
+  }
+]

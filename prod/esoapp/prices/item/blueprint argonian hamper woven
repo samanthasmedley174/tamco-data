@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint argonian hamper woven",
+    "displayName": "Blueprint: Argonian Hamper, Woven",
+    "values": {
+      "commonRange": "8,169 - 10,432",
+      "averagePrice": 9394,
+      "minimumPrice": 7925,
+      "maximumPrice": 10432,
+      "averageStackPrice": 9394,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

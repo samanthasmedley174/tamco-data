@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton candelabra formal",
+    "displayName": "Breton Candelabra, Formal",
+    "values": {
+      "commonRange": "1,500 - 4,300",
+      "averagePrice": 3036,
+      "minimumPrice": 1300,
+      "maximumPrice": 4300,
+      "averageStackPrice": 3036,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

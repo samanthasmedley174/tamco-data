@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dragonguard elites belt",
+    "displayName": "Dragonguard Elite's Belt",
+    "values": {
+      "commonRange": "90 - 2,090",
+      "averagePrice": 897,
+      "minimumPrice": 90,
+      "maximumPrice": 5000,
+      "averageStackPrice": 897,
+      "commonStackSize": 1,
+      "salesRecorded": 57
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

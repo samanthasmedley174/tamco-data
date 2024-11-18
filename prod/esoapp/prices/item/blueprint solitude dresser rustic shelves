@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude dresser rustic shelves",
+    "displayName": "Blueprint: Solitude Dresser, Rustic Shelves",
+    "values": {
+      "commonRange": "500 - 1,533",
+      "averagePrice": 1317,
+      "minimumPrice": 110,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1317,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian bench noble",
+    "displayName": "Colovian Bench, Noble",
+    "values": {
+      "commonRange": "6,786 - 11,300",
+      "averagePrice": 7639,
+      "minimumPrice": 2300,
+      "maximumPrice": 11300,
+      "averageStackPrice": 7639,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

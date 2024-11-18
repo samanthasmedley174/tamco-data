@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint worm cult stool wooden",
+    "displayName": "Blueprint: Worm Cult Stool, Wooden",
+    "values": {
+      "commonRange": "69,000 - 95,000",
+      "averagePrice": 80826,
+      "minimumPrice": 60000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 80826,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

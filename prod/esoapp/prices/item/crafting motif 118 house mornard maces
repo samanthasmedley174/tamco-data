@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 118 house mornard maces",
+    "displayName": "Crafting Motif 118: House Mornard Maces",
+    "values": {
+      "commonRange": "5,001 - 8,051",
+      "averagePrice": 6916,
+      "minimumPrice": 5000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 6916,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

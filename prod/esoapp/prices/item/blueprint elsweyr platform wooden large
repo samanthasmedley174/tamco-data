@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr platform wooden large",
+    "displayName": "Blueprint: Elsweyr Platform, Wooden Large",
+    "values": {
+      "commonRange": "100 - 527",
+      "averagePrice": 364,
+      "minimumPrice": 99,
+      "maximumPrice": 1027,
+      "averageStackPrice": 364,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

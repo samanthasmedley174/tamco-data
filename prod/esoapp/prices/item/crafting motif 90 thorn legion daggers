@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 90 thorn legion daggers",
+    "displayName": "Crafting Motif 90: Thorn Legion Daggers",
+    "values": {
+      "commonRange": "11,000 - 13,578",
+      "averagePrice": 12156,
+      "minimumPrice": 11000,
+      "maximumPrice": 18000,
+      "averageStackPrice": 12156,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

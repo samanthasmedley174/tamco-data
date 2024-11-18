@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram worm cult table grand",
+    "displayName": "Diagram: Worm Cult Table, Grand",
+    "values": {
+      "commonRange": "1,500,000 - 1,500,000",
+      "averagePrice": 1500000,
+      "minimumPrice": 1500000,
+      "maximumPrice": 1500000,
+      "averageStackPrice": 1500000,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishing Plans",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian staircase eastern landing",
+    "displayName": "Blueprint: Colovian Staircase, Eastern Landing",
+    "values": {
+      "commonRange": "25,000 - 30,250",
+      "averagePrice": 27729,
+      "minimumPrice": 25000,
+      "maximumPrice": 30250,
+      "averageStackPrice": 27729,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

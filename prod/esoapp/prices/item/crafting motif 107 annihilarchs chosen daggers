@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 107 annihilarchs chosen daggers",
+    "displayName": "Crafting Motif 107: Annihilarch's Chosen Daggers",
+    "values": {
+      "commonRange": "13,000 - 27,300",
+      "averagePrice": 21919,
+      "minimumPrice": 5039,
+      "maximumPrice": 34800,
+      "averageStackPrice": 21919,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

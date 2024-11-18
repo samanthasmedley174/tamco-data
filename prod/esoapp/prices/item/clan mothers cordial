@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clan mothers cordial",
+    "displayName": "Clan Mother's Cordial",
+    "values": {
+      "commonRange": "50 - 50",
+      "averagePrice": 50,
+      "minimumPrice": 50,
+      "maximumPrice": 50,
+      "averageStackPrice": 50,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Food & Drinks",
+    "date": "03/05/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/clan_mother's_cordial.png"
+  }
+]

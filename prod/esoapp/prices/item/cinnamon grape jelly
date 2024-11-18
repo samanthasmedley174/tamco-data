@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cinnamon grape jelly",
+    "displayName": "Cinnamon Grape Jelly",
+    "values": {
+      "commonRange": "90 - 126",
+      "averagePrice": 281,
+      "minimumPrice": 9,
+      "maximumPrice": 900,
+      "averageStackPrice": 281,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "07/26/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/cinnamon_grape_jelly.png"
+  }
+]

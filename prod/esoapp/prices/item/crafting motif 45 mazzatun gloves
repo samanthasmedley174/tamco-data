@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 45 mazzatun gloves",
+    "displayName": "Crafting Motif 45: Mazzatun Gloves",
+    "values": {
+      "commonRange": "5,000 - 10,000",
+      "averagePrice": 8637,
+      "minimumPrice": 5000,
+      "maximumPrice": 10095,
+      "averageStackPrice": 8637,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

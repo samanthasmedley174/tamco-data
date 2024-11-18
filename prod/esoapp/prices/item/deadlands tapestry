@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands tapestry",
+    "displayName": "Deadlands Tapestry",
+    "values": {
+      "commonRange": "3,974 - 9,693",
+      "averagePrice": 6417,
+      "minimumPrice": 2150,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6417,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

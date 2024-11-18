@@ -1,0 +1,18 @@
+[
+  {
+    "name": "briarheart bracers",
+    "displayName": "Briarheart Bracers",
+    "values": {
+      "commonRange": "900 - 25,000",
+      "averagePrice": 9129,
+      "minimumPrice": 90,
+      "maximumPrice": 100000,
+      "averageStackPrice": 9129,
+      "commonStackSize": 1,
+      "salesRecorded": 153
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

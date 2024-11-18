@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork illuminator solitary capsule",
+    "displayName": "Clockwork Illuminator, Solitary Capsule",
+    "values": {
+      "commonRange": "2,000 - 6,000",
+      "averagePrice": 3806,
+      "minimumPrice": 1891,
+      "maximumPrice": 6347,
+      "averageStackPrice": 3806,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

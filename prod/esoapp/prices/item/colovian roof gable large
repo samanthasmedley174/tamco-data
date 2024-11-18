@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian roof gable large",
+    "displayName": "Colovian Roof Gable, Large",
+    "values": {
+      "commonRange": "2,500 - 6,666",
+      "averagePrice": 5068,
+      "minimumPrice": 550,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5068,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork micrometer handheld",
+    "displayName": "Clockwork Micrometer, Handheld",
+    "values": {
+      "commonRange": "4,000 - 5,725",
+      "averagePrice": 5091,
+      "minimumPrice": 3300,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5091,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/26/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dragonguard elites ice staff",
+    "displayName": "Dragonguard Elite's Ice Staff",
+    "values": {
+      "commonRange": "246 - 2,246",
+      "averagePrice": 1491,
+      "minimumPrice": 240,
+      "maximumPrice": 10246,
+      "averageStackPrice": 1491,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

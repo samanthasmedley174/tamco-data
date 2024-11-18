@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 44 silken ring staves",
+    "displayName": "Crafting Motif 44: Silken Ring Staves",
+    "values": {
+      "commonRange": "4,000 - 17,000",
+      "averagePrice": 9660,
+      "minimumPrice": 1039,
+      "maximumPrice": 23000,
+      "averageStackPrice": 9660,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

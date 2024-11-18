@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha mirror spiked",
+    "displayName": "Apocrypha Mirror, Spiked",
+    "values": {
+      "commonRange": "7,000 - 19,000",
+      "averagePrice": 12732,
+      "minimumPrice": 7000,
+      "maximumPrice": 20311,
+      "averageStackPrice": 12732,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/28/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

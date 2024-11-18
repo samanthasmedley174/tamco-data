@@ -1,0 +1,18 @@
+[
+  {
+    "name": "corking hammer metal",
+    "displayName": "Corking Hammer, Metal",
+    "values": {
+      "commonRange": "4,000 - 5,000",
+      "averagePrice": 4072,
+      "minimumPrice": 1000,
+      "maximumPrice": 5060,
+      "averageStackPrice": 4072,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

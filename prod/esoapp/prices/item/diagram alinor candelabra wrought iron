@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram alinor candelabra wrought iron",
+    "displayName": "Diagram: Alinor Candelabra, Wrought Iron",
+    "values": {
+      "commonRange": "24,900 - 30,000",
+      "averagePrice": 27257,
+      "minimumPrice": 20000,
+      "maximumPrice": 35039,
+      "averageStackPrice": 27257,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/23/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

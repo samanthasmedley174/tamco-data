@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid refuge shield",
+    "displayName": "Ayleid Refuge Shield",
+    "values": {
+      "commonRange": "850 - 4,000",
+      "averagePrice": 2593,
+      "minimumPrice": 500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 2593,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

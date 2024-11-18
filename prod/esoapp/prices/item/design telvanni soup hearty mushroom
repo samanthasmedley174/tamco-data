@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design telvanni soup hearty mushroom",
+    "displayName": "Design: Telvanni Soup, Hearty Mushroom",
+    "values": {
+      "commonRange": "199 - 800",
+      "averagePrice": 487,
+      "minimumPrice": 148,
+      "maximumPrice": 1000,
+      "averageStackPrice": 487,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

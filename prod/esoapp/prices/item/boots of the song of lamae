@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boots of the song of lamae",
+    "displayName": "Boots of the Song of Lamae",
+    "values": {
+      "commonRange": "81 - 81",
+      "averagePrice": 81,
+      "minimumPrice": 81,
+      "maximumPrice": 81,
+      "averageStackPrice": 81,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

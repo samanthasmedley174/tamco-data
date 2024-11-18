@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 23 malacath style",
+    "displayName": "Crafting Motif 23: Malacath Style",
+    "values": {
+      "commonRange": "500,000 - 1,250,000",
+      "averagePrice": 814286,
+      "minimumPrice": 150000,
+      "maximumPrice": 1400000,
+      "averageStackPrice": 814286,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Motifs",
+    "date": "01/10/2023",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint telvanni chair fungal",
+    "displayName": "Blueprint: Telvanni Chair, Fungal",
+    "values": {
+      "commonRange": "5,000 - 9,000",
+      "averagePrice": 6741,
+      "minimumPrice": 4669,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6741,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

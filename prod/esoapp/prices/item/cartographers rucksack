@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cartographers rucksack",
+    "displayName": "Cartographer's Rucksack",
+    "values": {
+      "commonRange": "4,000 - 8,000",
+      "averagePrice": 6478,
+      "minimumPrice": 4000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 6478,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Fragments",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint argonian chair woven",
+    "displayName": "Blueprint: Argonian Chair, Woven",
+    "values": {
+      "commonRange": "500 - 2,000",
+      "averagePrice": 1061,
+      "minimumPrice": 300,
+      "maximumPrice": 3030,
+      "averageStackPrice": 1061,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

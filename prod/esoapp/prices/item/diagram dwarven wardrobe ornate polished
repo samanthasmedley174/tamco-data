@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven wardrobe ornate polished",
+    "displayName": "Diagram: Dwarven Wardrobe, Ornate Polished",
+    "values": {
+      "commonRange": "38,339 - 60,000",
+      "averagePrice": 44701,
+      "minimumPrice": 2150,
+      "maximumPrice": 61522,
+      "averageStackPrice": 44701,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint murkmire totem wolf lizard",
+    "displayName": "Blueprint: Murkmire Totem, Wolf-Lizard",
+    "values": {
+      "commonRange": "3,500 - 8,794",
+      "averagePrice": 5682,
+      "minimumPrice": 3000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5682,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

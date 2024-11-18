@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 19 mercenary swords",
+    "displayName": "Crafting Motif 19: Mercenary Swords",
+    "values": {
+      "commonRange": "16,329 - 35,000",
+      "averagePrice": 26437,
+      "minimumPrice": 10000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 26437,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

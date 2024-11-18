@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ashes of remorse",
+    "displayName": "Ashes of Remorse",
+    "values": {
+      "commonRange": "100 - 385",
+      "averagePrice": 234,
+      "minimumPrice": 46,
+      "maximumPrice": 385,
+      "averageStackPrice": 468,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Style Materials",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Ashes_of_Remorse.png"
+  }
+]

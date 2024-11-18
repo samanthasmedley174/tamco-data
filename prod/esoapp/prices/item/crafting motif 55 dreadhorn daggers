@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 55 dreadhorn daggers",
+    "displayName": "Crafting Motif 55: Dreadhorn Daggers",
+    "values": {
+      "commonRange": "5,000 - 8,915",
+      "averagePrice": 7138,
+      "minimumPrice": 5000,
+      "maximumPrice": 18000,
+      "averageStackPrice": 7138,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

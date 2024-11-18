@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions jack",
+    "displayName": "Companion's Jack",
+    "values": {
+      "commonRange": "108 - 245,039",
+      "averagePrice": 42024,
+      "minimumPrice": 20,
+      "maximumPrice": 790415,
+      "averageStackPrice": 42024,
+      "commonStackSize": 1,
+      "salesRecorded": 242
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

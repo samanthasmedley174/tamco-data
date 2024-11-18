@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alessian ring",
+    "displayName": "Alessian Ring",
+    "values": {
+      "commonRange": "3,153 - 10,153",
+      "averagePrice": 6034,
+      "minimumPrice": 2000,
+      "maximumPrice": 10153,
+      "averageStackPrice": 6034,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

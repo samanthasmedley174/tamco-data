@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint hlaalu bookcase empty",
+    "displayName": "Blueprint: Hlaalu Bookcase, Empty",
+    "values": {
+      "commonRange": "4,638 - 7,638",
+      "averagePrice": 5723,
+      "minimumPrice": 4600,
+      "maximumPrice": 9115,
+      "averageStackPrice": 5723,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arm cops of the sentry",
+    "displayName": "Arm Cops of the Sentry",
+    "values": {
+      "commonRange": "1,000 - 3,144",
+      "averagePrice": 2030,
+      "minimumPrice": 953,
+      "maximumPrice": 4047,
+      "averageStackPrice": 2030,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

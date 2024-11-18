@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dominion iceball trebuchet",
+    "displayName": "Dominion Iceball Trebuchet",
+    "values": {
+      "commonRange": "100 - 200",
+      "averagePrice": 150,
+      "minimumPrice": 100,
+      "maximumPrice": 200,
+      "averageStackPrice": 150,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Siege Equipment",
+    "date": "06/22/2021",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Dominion_Iceball_Trebuchet.png"
+  }
+]

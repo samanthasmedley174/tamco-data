@@ -1,0 +1,18 @@
+[
+  {
+    "name": "common firepit outdoor",
+    "displayName": "Common Firepit, Outdoor",
+    "values": {
+      "commonRange": "1,060 - 49,000",
+      "averagePrice": 25030,
+      "minimumPrice": 1060,
+      "maximumPrice": 49000,
+      "averageStackPrice": 25030,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Furnishings",
+    "date": "02/07/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

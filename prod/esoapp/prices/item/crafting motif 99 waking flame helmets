@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 99 waking flame helmets",
+    "displayName": "Crafting Motif 99: Waking Flame Helmets",
+    "values": {
+      "commonRange": "5,000 - 7,001",
+      "averagePrice": 6292,
+      "minimumPrice": 4000,
+      "maximumPrice": 7001,
+      "averageStackPrice": 6292,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 62 sapiarch maces",
+    "displayName": "Crafting Motif 62: Sapiarch Maces",
+    "values": {
+      "commonRange": "1,239 - 5,000",
+      "averagePrice": 2587,
+      "minimumPrice": 1239,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2587,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

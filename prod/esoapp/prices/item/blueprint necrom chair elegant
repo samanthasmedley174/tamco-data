@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint necrom chair elegant",
+    "displayName": "Blueprint: Necrom Chair, Elegant",
+    "values": {
+      "commonRange": "2,030 - 6,521",
+      "averagePrice": 5124,
+      "minimumPrice": 2000,
+      "maximumPrice": 6548,
+      "averageStackPrice": 5124,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

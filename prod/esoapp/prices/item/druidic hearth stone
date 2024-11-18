@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic hearth stone",
+    "displayName": "Druidic Hearth, Stone",
+    "values": {
+      "commonRange": "10,922 - 20,000",
+      "averagePrice": 14046,
+      "minimumPrice": 9000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 14046,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

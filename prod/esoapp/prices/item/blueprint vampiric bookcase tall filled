@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint vampiric bookcase tall filled",
+    "displayName": "Blueprint: Vampiric Bookcase, Tall Filled",
+    "values": {
+      "commonRange": "163,039 - 285,626",
+      "averagePrice": 212819,
+      "minimumPrice": 10000,
+      "maximumPrice": 320000,
+      "averageStackPrice": 212819,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

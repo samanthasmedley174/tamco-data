@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic throne yffres bloom",
+    "displayName": "Druidic Throne, Y'ffre's Bloom",
+    "values": {
+      "commonRange": "8,341 - 28,000",
+      "averagePrice": 14987,
+      "minimumPrice": 7418,
+      "maximumPrice": 28000,
+      "averageStackPrice": 14987,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

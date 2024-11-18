@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darkstride lightning staff",
+    "displayName": "Darkstride Lightning Staff",
+    "values": {
+      "commonRange": "240 - 999",
+      "averagePrice": 588,
+      "minimumPrice": 217,
+      "maximumPrice": 1846,
+      "averageStackPrice": 588,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

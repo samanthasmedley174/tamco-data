@@ -1,0 +1,18 @@
+[
+  {
+    "name": "draoife bow",
+    "displayName": "Draoife Bow",
+    "values": {
+      "commonRange": "250 - 850",
+      "averagePrice": 717,
+      "minimumPrice": 132,
+      "maximumPrice": 1945,
+      "averageStackPrice": 717,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

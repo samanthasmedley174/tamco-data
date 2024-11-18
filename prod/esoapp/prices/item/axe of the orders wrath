@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of the orders wrath",
+    "displayName": "Axe of the Order's Wrath",
+    "values": {
+      "commonRange": "15,000 - 80,000",
+      "averagePrice": 48014,
+      "minimumPrice": 2150,
+      "maximumPrice": 123456,
+      "averageStackPrice": 48014,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

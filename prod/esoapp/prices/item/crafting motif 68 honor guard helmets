@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 68 honor guard helmets",
+    "displayName": "Crafting Motif 68: Honor Guard Helmets",
+    "values": {
+      "commonRange": "18,511 - 30,000",
+      "averagePrice": 27205,
+      "minimumPrice": 12039,
+      "maximumPrice": 59462,
+      "averageStackPrice": 27205,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

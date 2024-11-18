@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of fasallas guile",
+    "displayName": "Battle Axe of Fasalla's Guile",
+    "values": {
+      "commonRange": "3,000 - 4,940",
+      "averagePrice": 4036,
+      "minimumPrice": 2000,
+      "maximumPrice": 7000,
+      "averageStackPrice": 4036,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

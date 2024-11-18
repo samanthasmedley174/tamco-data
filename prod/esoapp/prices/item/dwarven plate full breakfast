@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven plate full breakfast",
+    "displayName": "Dwarven Plate, Full Breakfast",
+    "values": {
+      "commonRange": "3,150 - 5,950",
+      "averagePrice": 4518,
+      "minimumPrice": 1647,
+      "maximumPrice": 6883,
+      "averageStackPrice": 4518,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

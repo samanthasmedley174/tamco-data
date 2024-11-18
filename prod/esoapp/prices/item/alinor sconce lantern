@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor sconce lantern",
+    "displayName": "Alinor Sconce, Lantern",
+    "values": {
+      "commonRange": "3,000 - 6,000",
+      "averagePrice": 4807,
+      "minimumPrice": 1000,
+      "maximumPrice": 6108,
+      "averageStackPrice": 4807,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of syvarras scales",
+    "displayName": "Belt of Syvarra's Scales",
+    "values": {
+      "commonRange": "1,090 - 20,000",
+      "averagePrice": 10076,
+      "minimumPrice": 990,
+      "maximumPrice": 69093,
+      "averageStackPrice": 10076,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

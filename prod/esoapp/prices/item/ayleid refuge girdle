@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid refuge girdle",
+    "displayName": "Ayleid Refuge Girdle",
+    "values": {
+      "commonRange": "1,126 - 4,750",
+      "averagePrice": 2919,
+      "minimumPrice": 687,
+      "maximumPrice": 7700,
+      "averageStackPrice": 2919,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

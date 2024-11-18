@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian end table woven",
+    "displayName": "Argonian End Table, Woven",
+    "values": {
+      "commonRange": "4,000 - 11,800",
+      "averagePrice": 8790,
+      "minimumPrice": 2150,
+      "maximumPrice": 11800,
+      "averageStackPrice": 8790,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/19/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "champions cuirass",
+    "displayName": "Champion's Cuirass",
+    "values": {
+      "commonRange": "1,171 - 1,171",
+      "averagePrice": 1171,
+      "minimumPrice": 1171,
+      "maximumPrice": 1171,
+      "averageStackPrice": 1171,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

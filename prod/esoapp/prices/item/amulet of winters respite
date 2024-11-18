@@ -1,0 +1,18 @@
+[
+  {
+    "name": "amulet of winters respite",
+    "displayName": "Amulet of Winter's Respite",
+    "values": {
+      "commonRange": "144 - 3,544",
+      "averagePrice": 1616,
+      "minimumPrice": 115,
+      "maximumPrice": 7999,
+      "averageStackPrice": 1616,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

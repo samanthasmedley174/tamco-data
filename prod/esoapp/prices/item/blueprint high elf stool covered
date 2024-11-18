@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high elf stool covered",
+    "displayName": "Blueprint: High Elf Stool, Covered",
+    "values": {
+      "commonRange": "10,900 - 11,956",
+      "averagePrice": 11405,
+      "minimumPrice": 10000,
+      "maximumPrice": 11956,
+      "averageStackPrice": 11405,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

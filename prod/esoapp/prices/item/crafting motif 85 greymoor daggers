@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 85 greymoor daggers",
+    "displayName": "Crafting Motif 85: Greymoor Daggers",
+    "values": {
+      "commonRange": "4,784 - 14,243",
+      "averagePrice": 6880,
+      "minimumPrice": 4500,
+      "maximumPrice": 15698,
+      "averageStackPrice": 6880,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

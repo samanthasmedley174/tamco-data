@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven bookcase granite",
+    "displayName": "Dwarven Bookcase, Granite",
+    "values": {
+      "commonRange": "5,000 - 6,000",
+      "averagePrice": 5572,
+      "minimumPrice": 1150,
+      "maximumPrice": 10950,
+      "averageStackPrice": 5572,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

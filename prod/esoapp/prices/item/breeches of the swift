@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of the swift",
+    "displayName": "Breeches of the Swift",
+    "values": {
+      "commonRange": "783 - 10,000",
+      "averagePrice": 5066,
+      "minimumPrice": 180,
+      "maximumPrice": 11183,
+      "averageStackPrice": 5066,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

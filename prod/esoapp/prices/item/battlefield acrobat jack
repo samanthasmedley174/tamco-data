@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battlefield acrobat jack",
+    "displayName": "Battlefield Acrobat Jack",
+    "values": {
+      "commonRange": "680 - 3,500",
+      "averagePrice": 2686,
+      "minimumPrice": 583,
+      "maximumPrice": 10180,
+      "averageStackPrice": 2686,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

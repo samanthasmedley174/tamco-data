@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 98 house hexos style",
+    "displayName": "Crafting Motif 98: House Hexos Style",
+    "values": {
+      "commonRange": "2,000,000 - 2,400,000",
+      "averagePrice": 2359464,
+      "minimumPrice": 2000000,
+      "maximumPrice": 3700000,
+      "averageStackPrice": 2359464,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Motifs",
+    "date": "04/12/2022",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

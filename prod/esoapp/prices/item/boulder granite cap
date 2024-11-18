@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boulder granite cap",
+    "displayName": "Boulder, Granite Cap",
+    "values": {
+      "commonRange": "483 - 3,300",
+      "averagePrice": 1666,
+      "minimumPrice": 395,
+      "maximumPrice": 4816,
+      "averageStackPrice": 1666,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/19/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf carpet ashen",
+    "displayName": "Dark Elf Carpet, Ashen",
+    "values": {
+      "commonRange": "750 - 2,150",
+      "averagePrice": 1270,
+      "minimumPrice": 200,
+      "maximumPrice": 2555,
+      "averageStackPrice": 1270,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

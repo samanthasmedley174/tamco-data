@@ -1,0 +1,18 @@
+[
+  {
+    "name": "covenant battering ram",
+    "displayName": "Covenant Battering Ram",
+    "values": {
+      "commonRange": "25 - 240",
+      "averagePrice": 308,
+      "minimumPrice": 25,
+      "maximumPrice": 2200,
+      "averageStackPrice": 616,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Siege Equipment",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Covenant_Battering_Ram.png"
+  }
+]

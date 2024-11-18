@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian staircase straight",
+    "displayName": "Colovian Staircase, Straight",
+    "values": {
+      "commonRange": "5,500 - 12,150",
+      "averagePrice": 8503,
+      "minimumPrice": 5500,
+      "maximumPrice": 13000,
+      "averageStackPrice": 8503,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude stall merchant",
+    "displayName": "Blueprint: Solitude Stall, Merchant",
+    "values": {
+      "commonRange": "1,827 - 10,000",
+      "averagePrice": 5455,
+      "minimumPrice": 927,
+      "maximumPrice": 15000,
+      "averageStackPrice": 5455,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor trellis blue wisteria",
+    "displayName": "Alinor Trellis, Blue Wisteria",
+    "values": {
+      "commonRange": "10,898 - 30,000",
+      "averagePrice": 18120,
+      "minimumPrice": 10898,
+      "maximumPrice": 30004,
+      "averageStackPrice": 18120,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

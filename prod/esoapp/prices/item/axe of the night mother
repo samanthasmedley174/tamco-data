@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of the night mother",
+    "displayName": "Axe of the Night Mother",
+    "values": {
+      "commonRange": "79,156 - 108,156",
+      "averagePrice": 93656,
+      "minimumPrice": 79156,
+      "maximumPrice": 108156,
+      "averageStackPrice": 93656,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

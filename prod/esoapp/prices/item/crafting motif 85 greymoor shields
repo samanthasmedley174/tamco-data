@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 85 greymoor shields",
+    "displayName": "Crafting Motif 85: Greymoor Shields",
+    "values": {
+      "commonRange": "4,000 - 11,000",
+      "averagePrice": 7998,
+      "minimumPrice": 4000,
+      "maximumPrice": 20039,
+      "averageStackPrice": 7998,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

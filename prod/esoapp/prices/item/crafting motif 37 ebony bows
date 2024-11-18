@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 37 ebony bows",
+    "displayName": "Crafting Motif 37: Ebony Bows",
+    "values": {
+      "commonRange": "11,000 - 15,039",
+      "averagePrice": 12062,
+      "minimumPrice": 4939,
+      "maximumPrice": 17000,
+      "averageStackPrice": 12062,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

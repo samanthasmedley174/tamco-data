@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven pipe cap bolted",
+    "displayName": "Dwarven Pipe Cap, Bolted",
+    "values": {
+      "commonRange": "400 - 1,135",
+      "averagePrice": 806,
+      "minimumPrice": 400,
+      "maximumPrice": 1135,
+      "averageStackPrice": 806,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/03/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint orcish cabinet engraved",
+    "displayName": "Blueprint: Orcish Cabinet, Engraved",
+    "values": {
+      "commonRange": "12,000 - 19,999",
+      "averagePrice": 14547,
+      "minimumPrice": 11646,
+      "maximumPrice": 20039,
+      "averageStackPrice": 14547,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

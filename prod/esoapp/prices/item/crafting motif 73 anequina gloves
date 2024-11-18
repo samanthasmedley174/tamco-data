@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 73 anequina gloves",
+    "displayName": "Crafting Motif 73: Anequina Gloves",
+    "values": {
+      "commonRange": "3,000 - 6,000",
+      "averagePrice": 5035,
+      "minimumPrice": 2739,
+      "maximumPrice": 7039,
+      "averageStackPrice": 5035,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven pipe full column",
+    "displayName": "Dwarven Pipe, Full Column",
+    "values": {
+      "commonRange": "2,445 - 27,200",
+      "averagePrice": 10153,
+      "minimumPrice": 1871,
+      "maximumPrice": 27200,
+      "averageStackPrice": 10153,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/06/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle divider ornate",
+    "displayName": "Blueprint: High Isle Divider, Ornate",
+    "values": {
+      "commonRange": "19,000 - 38,000",
+      "averagePrice": 29827,
+      "minimumPrice": 15000,
+      "maximumPrice": 41000,
+      "averageStackPrice": 29827,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton lightpost single",
+    "displayName": "Breton Lightpost, Single",
+    "values": {
+      "commonRange": "400 - 570",
+      "averagePrice": 520,
+      "minimumPrice": 250,
+      "maximumPrice": 1060,
+      "averageStackPrice": 520,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

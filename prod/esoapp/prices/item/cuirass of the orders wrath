@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cuirass of the orders wrath",
+    "displayName": "Cuirass of the Order's Wrath",
+    "values": {
+      "commonRange": "6,180 - 65,220",
+      "averagePrice": 21016,
+      "minimumPrice": 1165,
+      "maximumPrice": 78189,
+      "averageStackPrice": 21016,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

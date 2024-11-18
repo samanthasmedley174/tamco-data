@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint common cargo reinforced",
+    "displayName": "Blueprint: Common Cargo, Reinforced",
+    "values": {
+      "commonRange": "27 - 160",
+      "averagePrice": 89,
+      "minimumPrice": 27,
+      "maximumPrice": 170,
+      "averageStackPrice": 89,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Furnishing Plans",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

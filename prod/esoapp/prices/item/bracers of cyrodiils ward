@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bracers of cyrodiils ward",
+    "displayName": "Bracers of Cyrodiil's Ward",
+    "values": {
+      "commonRange": "587 - 1,339",
+      "averagePrice": 1253,
+      "minimumPrice": 300,
+      "maximumPrice": 5042,
+      "averageStackPrice": 1253,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

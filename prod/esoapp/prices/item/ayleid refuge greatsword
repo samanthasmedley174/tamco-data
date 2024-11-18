@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid refuge greatsword",
+    "displayName": "Ayleid Refuge Greatsword",
+    "values": {
+      "commonRange": "240 - 850",
+      "averagePrice": 592,
+      "minimumPrice": 240,
+      "maximumPrice": 1000,
+      "averageStackPrice": 592,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

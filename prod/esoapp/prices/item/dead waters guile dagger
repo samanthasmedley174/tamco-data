@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dead waters guile dagger",
+    "displayName": "Dead-Water's Guile Dagger",
+    "values": {
+      "commonRange": "260 - 9,900",
+      "averagePrice": 5398,
+      "minimumPrice": 180,
+      "maximumPrice": 9900,
+      "averageStackPrice": 5398,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

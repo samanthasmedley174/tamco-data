@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of alteration mastery",
+    "displayName": "Axe of Alteration Mastery",
+    "values": {
+      "commonRange": "3,999 - 8,500",
+      "averagePrice": 5663,
+      "minimumPrice": 153,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5663,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/31/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

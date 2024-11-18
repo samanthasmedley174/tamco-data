@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint argonian cage rat",
+    "displayName": "Blueprint: Argonian Cage, Rat",
+    "values": {
+      "commonRange": "500 - 900",
+      "averagePrice": 729,
+      "minimumPrice": 500,
+      "maximumPrice": 1000,
+      "averageStackPrice": 729,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

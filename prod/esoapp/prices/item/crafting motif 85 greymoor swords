@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 85 greymoor swords",
+    "displayName": "Crafting Motif 85: Greymoor Swords",
+    "values": {
+      "commonRange": "4,000 - 8,072",
+      "averagePrice": 6313,
+      "minimumPrice": 4000,
+      "maximumPrice": 8087,
+      "averageStackPrice": 6313,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

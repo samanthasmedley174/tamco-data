@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 38 draugr maces",
+    "displayName": "Crafting Motif 38: Draugr Maces",
+    "values": {
+      "commonRange": "1,100 - 3,459",
+      "averagePrice": 2471,
+      "minimumPrice": 138,
+      "maximumPrice": 7991,
+      "averageStackPrice": 2471,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

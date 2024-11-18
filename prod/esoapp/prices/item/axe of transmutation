@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of transmutation",
+    "displayName": "Axe of Transmutation",
+    "values": {
+      "commonRange": "1,000 - 27,153",
+      "averagePrice": 8891,
+      "minimumPrice": 153,
+      "maximumPrice": 30153,
+      "averageStackPrice": 8891,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

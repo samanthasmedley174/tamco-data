@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design redguard urn mural",
+    "displayName": "Design: Redguard Urn, Mural",
+    "values": {
+      "commonRange": "1,050 - 3,000",
+      "averagePrice": 2082,
+      "minimumPrice": 750,
+      "maximumPrice": 3412,
+      "averageStackPrice": 2082,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

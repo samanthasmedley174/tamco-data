@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid refuge restoration staff",
+    "displayName": "Ayleid Refuge Restoration Staff",
+    "values": {
+      "commonRange": "340 - 1,969",
+      "averagePrice": 1309,
+      "minimumPrice": 340,
+      "maximumPrice": 3246,
+      "averageStackPrice": 1309,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

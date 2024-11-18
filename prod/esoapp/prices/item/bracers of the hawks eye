@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bracers of the hawks eye",
+    "displayName": "Bracers of the Hawk's Eye",
+    "values": {
+      "commonRange": "690 - 4,990",
+      "averagePrice": 2633,
+      "minimumPrice": 500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2633,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

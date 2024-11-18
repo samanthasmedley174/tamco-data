@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor bench verdant",
+    "displayName": "Alinor Bench, Verdant",
+    "values": {
+      "commonRange": "5,500 - 10,000",
+      "averagePrice": 8877,
+      "minimumPrice": 4727,
+      "maximumPrice": 23425,
+      "averageStackPrice": 8877,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design dwarven serving dish vegetable soup",
+    "displayName": "Design: Dwarven Serving Dish, Vegetable Soup",
+    "values": {
+      "commonRange": "29,000 - 49,828",
+      "averagePrice": 36934,
+      "minimumPrice": 1290,
+      "maximumPrice": 50000,
+      "averageStackPrice": 36934,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

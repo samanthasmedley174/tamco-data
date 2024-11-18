@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 39 minotaur shields",
+    "displayName": "Crafting Motif 39: Minotaur Shields",
+    "values": {
+      "commonRange": "29,987 - 65,000",
+      "averagePrice": 38350,
+      "minimumPrice": 25000,
+      "maximumPrice": 68000,
+      "averageStackPrice": 38350,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

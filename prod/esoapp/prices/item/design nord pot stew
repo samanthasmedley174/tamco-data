@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design nord pot stew",
+    "displayName": "Design: Nord Pot, Stew",
+    "values": {
+      "commonRange": "100 - 446",
+      "averagePrice": 207,
+      "minimumPrice": 99,
+      "maximumPrice": 500,
+      "averageStackPrice": 207,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

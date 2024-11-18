@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bracers of the ranger",
+    "displayName": "Bracers of the Ranger",
+    "values": {
+      "commonRange": "90 - 1,500",
+      "averagePrice": 581,
+      "minimumPrice": 87,
+      "maximumPrice": 1850,
+      "averageStackPrice": 581,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint wood carving strider",
+    "displayName": "Blueprint: Wood Carving, Strider",
+    "values": {
+      "commonRange": "2,039 - 5,000",
+      "averagePrice": 3331,
+      "minimumPrice": 1000,
+      "maximumPrice": 5039,
+      "averageStackPrice": 3331,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

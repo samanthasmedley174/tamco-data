@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian staircase western landing",
+    "displayName": "Blueprint: Colovian Staircase, Western Landing",
+    "values": {
+      "commonRange": "25,000 - 43,000",
+      "averagePrice": 38910,
+      "minimumPrice": 10000,
+      "maximumPrice": 99930,
+      "averageStackPrice": 38910,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

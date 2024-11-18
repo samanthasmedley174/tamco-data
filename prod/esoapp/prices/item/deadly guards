@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadly guards",
+    "displayName": "Deadly Guards",
+    "values": {
+      "commonRange": "4,400 - 120,000",
+      "averagePrice": 26211,
+      "minimumPrice": 483,
+      "maximumPrice": 120000,
+      "averageStackPrice": 26211,
+      "commonStackSize": 1,
+      "salesRecorded": 126
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

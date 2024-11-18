@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 38 draugr daggers",
+    "displayName": "Crafting Motif 38: Draugr Daggers",
+    "values": {
+      "commonRange": "2,039 - 4,146",
+      "averagePrice": 3109,
+      "minimumPrice": 1000,
+      "maximumPrice": 7500,
+      "averageStackPrice": 3109,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

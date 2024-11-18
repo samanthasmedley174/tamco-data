@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands assassins sword",
+    "displayName": "Deadlands Assassin's Sword",
+    "values": {
+      "commonRange": "950 - 7,790",
+      "averagePrice": 4397,
+      "minimumPrice": 550,
+      "maximumPrice": 7790,
+      "averageStackPrice": 4397,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

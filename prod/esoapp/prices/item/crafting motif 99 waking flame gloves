@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 99 waking flame gloves",
+    "displayName": "Crafting Motif 99: Waking Flame Gloves",
+    "values": {
+      "commonRange": "8,000 - 10,565",
+      "averagePrice": 10813,
+      "minimumPrice": 5000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 10813,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

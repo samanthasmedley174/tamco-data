@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design basket of tomatoes",
+    "displayName": "Design: Basket of Tomatoes",
+    "values": {
+      "commonRange": "600 - 770",
+      "averagePrice": 715,
+      "minimumPrice": 300,
+      "maximumPrice": 885,
+      "averageStackPrice": 715,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

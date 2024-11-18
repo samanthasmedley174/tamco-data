@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven candles cup",
+    "displayName": "Dwarven Candles, Cup",
+    "values": {
+      "commonRange": "150 - 1,500",
+      "averagePrice": 1095,
+      "minimumPrice": 110,
+      "maximumPrice": 2572,
+      "averageStackPrice": 1095,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram necrom planter hanging round",
+    "displayName": "Diagram: Necrom Planter, Hanging Round",
+    "values": {
+      "commonRange": "12,816 - 20,039",
+      "averagePrice": 17589,
+      "minimumPrice": 10039,
+      "maximumPrice": 20043,
+      "averageStackPrice": 17589,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

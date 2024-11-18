@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cactus desert vine",
+    "displayName": "Cactus, Desert Vine",
+    "values": {
+      "commonRange": "500 - 1,400",
+      "averagePrice": 934,
+      "minimumPrice": 250,
+      "maximumPrice": 1438,
+      "averageStackPrice": 934,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coral formation bulwark",
+    "displayName": "Coral Formation, Bulwark",
+    "values": {
+      "commonRange": "750 - 1,000",
+      "averagePrice": 914,
+      "minimumPrice": 715,
+      "maximumPrice": 1000,
+      "averageStackPrice": 914,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

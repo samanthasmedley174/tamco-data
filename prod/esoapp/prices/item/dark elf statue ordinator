@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf statue ordinator",
+    "displayName": "Dark Elf Statue, Ordinator",
+    "values": {
+      "commonRange": "32,000 - 40,000",
+      "averagePrice": 35734,
+      "minimumPrice": 25000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 35734,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

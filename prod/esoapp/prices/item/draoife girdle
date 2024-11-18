@@ -1,0 +1,18 @@
+[
+  {
+    "name": "draoife girdle",
+    "displayName": "Draoife Girdle",
+    "values": {
+      "commonRange": "90 - 1,325",
+      "averagePrice": 748,
+      "minimumPrice": 90,
+      "maximumPrice": 5090,
+      "averageStackPrice": 748,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "champion of the hist pauldron",
+    "displayName": "Champion of the Hist Pauldron",
+    "values": {
+      "commonRange": "320 - 1,100",
+      "averagePrice": 729,
+      "minimumPrice": 290,
+      "maximumPrice": 1153,
+      "averageStackPrice": 729,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

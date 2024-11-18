@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design miniature garden bottled",
+    "displayName": "Design: Miniature Garden, Bottled",
+    "values": {
+      "commonRange": "46,973 - 64,000",
+      "averagePrice": 55613,
+      "minimumPrice": 43973,
+      "maximumPrice": 65000,
+      "averageStackPrice": 55613,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

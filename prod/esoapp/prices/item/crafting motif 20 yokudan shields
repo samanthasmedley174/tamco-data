@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 20 yokudan shields",
+    "displayName": "Crafting Motif 20: Yokudan Shields",
+    "values": {
+      "commonRange": "15,000 - 40,000",
+      "averagePrice": 28724,
+      "minimumPrice": 2999,
+      "maximumPrice": 41366,
+      "averageStackPrice": 28724,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven brazier square polished",
+    "displayName": "Dwarven Brazier, Square Polished",
+    "values": {
+      "commonRange": "1,500 - 12,000",
+      "averagePrice": 7718,
+      "minimumPrice": 1500,
+      "maximumPrice": 12900,
+      "averageStackPrice": 7718,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "03/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 69 dead water gloves",
+    "displayName": "Crafting Motif 69: Dead-Water Gloves",
+    "values": {
+      "commonRange": "5,500 - 15,000",
+      "averagePrice": 10602,
+      "minimumPrice": 5000,
+      "maximumPrice": 18000,
+      "averageStackPrice": 10602,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

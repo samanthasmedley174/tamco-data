@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram clockwork drafting table flat",
+    "displayName": "Diagram: Clockwork Drafting Table, Flat",
+    "values": {
+      "commonRange": "3,030 - 4,400",
+      "averagePrice": 3931,
+      "minimumPrice": 3000,
+      "maximumPrice": 4400,
+      "averageStackPrice": 3931,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

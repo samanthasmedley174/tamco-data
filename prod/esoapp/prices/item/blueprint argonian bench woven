@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint argonian bench woven",
+    "displayName": "Blueprint: Argonian Bench, Woven",
+    "values": {
+      "commonRange": "100 - 1,073",
+      "averagePrice": 761,
+      "minimumPrice": 30,
+      "maximumPrice": 1100,
+      "averageStackPrice": 761,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

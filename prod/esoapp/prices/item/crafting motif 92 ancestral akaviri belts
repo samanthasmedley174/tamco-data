@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 92 ancestral akaviri belts",
+    "displayName": "Crafting Motif 92: Ancestral Akaviri Belts",
+    "values": {
+      "commonRange": "20,000 - 36,758",
+      "averagePrice": 28076,
+      "minimumPrice": 5000,
+      "maximumPrice": 37991,
+      "averageStackPrice": 28076,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

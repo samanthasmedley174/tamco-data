@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alliance banner bearers emblem",
+    "displayName": "Alliance Banner-Bearer's Emblem",
+    "values": {
+      "commonRange": "3,000 - 11,351",
+      "averagePrice": 7554,
+      "minimumPrice": 3000,
+      "maximumPrice": 15811,
+      "averageStackPrice": 7554,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Miscellaneous",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

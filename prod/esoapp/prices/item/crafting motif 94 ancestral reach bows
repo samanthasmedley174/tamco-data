@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 94 ancestral reach bows",
+    "displayName": "Crafting Motif 94: Ancestral Reach Bows",
+    "values": {
+      "commonRange": "6,000 - 11,000",
+      "averagePrice": 10024,
+      "minimumPrice": 6000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10024,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

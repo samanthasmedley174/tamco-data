@@ -1,0 +1,18 @@
+[
+  {
+    "name": "auric tusk",
+    "displayName": "Auric Tusk",
+    "values": {
+      "commonRange": "139 - 170",
+      "averagePrice": 171,
+      "minimumPrice": 112,
+      "maximumPrice": 399,
+      "averageStackPrice": 171,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Auric_Tusk.png"
+  }
+]

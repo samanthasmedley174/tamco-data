@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 98 house hexos swords",
+    "displayName": "Crafting Motif 98: House Hexos Swords",
+    "values": {
+      "commonRange": "9,999 - 20,000",
+      "averagePrice": 14225,
+      "minimumPrice": 3039,
+      "maximumPrice": 29969,
+      "averageStackPrice": 14225,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

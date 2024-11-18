@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram necrom ossuary plated",
+    "displayName": "Diagram: Necrom Ossuary, Plated",
+    "values": {
+      "commonRange": "8,700 - 12,000",
+      "averagePrice": 10318,
+      "minimumPrice": 8000,
+      "maximumPrice": 12839,
+      "averageStackPrice": 10318,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

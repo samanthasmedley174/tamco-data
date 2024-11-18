@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic platform stone",
+    "displayName": "Druidic Platform, Stone",
+    "values": {
+      "commonRange": "4,740 - 6,800",
+      "averagePrice": 5523,
+      "minimumPrice": 2877,
+      "maximumPrice": 7000,
+      "averageStackPrice": 5523,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

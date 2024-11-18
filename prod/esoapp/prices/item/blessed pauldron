@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blessed pauldron",
+    "displayName": "Blessed Pauldron",
+    "values": {
+      "commonRange": "300 - 1,454",
+      "averagePrice": 1063,
+      "minimumPrice": 153,
+      "maximumPrice": 3033,
+      "averageStackPrice": 1063,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 131 militant monk swords",
+    "displayName": "Crafting Motif 131: Militant Monk Swords",
+    "values": {
+      "commonRange": "50,000 - 85,000",
+      "averagePrice": 69652,
+      "minimumPrice": 44000,
+      "maximumPrice": 90317,
+      "averageStackPrice": 69652,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

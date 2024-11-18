@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint murkmire bed carved",
+    "displayName": "Blueprint: Murkmire Bed, Carved",
+    "values": {
+      "commonRange": "5,700 - 9,000",
+      "averagePrice": 7100,
+      "minimumPrice": 5500,
+      "maximumPrice": 9000,
+      "averageStackPrice": 7100,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid refuge amulet",
+    "displayName": "Ayleid Refuge Amulet",
+    "values": {
+      "commonRange": "400 - 1,153",
+      "averagePrice": 904,
+      "minimumPrice": 353,
+      "maximumPrice": 4500,
+      "averageStackPrice": 904,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

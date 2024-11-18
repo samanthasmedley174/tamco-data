@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redguard brazier enchanted",
+    "displayName": "Diagram: Redguard Brazier, Enchanted",
+    "values": {
+      "commonRange": "30,000 - 55,000",
+      "averagePrice": 43819,
+      "minimumPrice": 25000,
+      "maximumPrice": 80000,
+      "averageStackPrice": 43819,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of syvarras scales",
+    "displayName": "Bow of Syvarra's Scales",
+    "values": {
+      "commonRange": "526 - 30,000",
+      "averagePrice": 6984,
+      "minimumPrice": 239,
+      "maximumPrice": 78252,
+      "averageStackPrice": 6984,
+      "commonStackSize": 1,
+      "salesRecorded": 57
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

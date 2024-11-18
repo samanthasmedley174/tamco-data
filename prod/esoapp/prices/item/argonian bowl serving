@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian bowl serving",
+    "displayName": "Argonian Bowl, Serving",
+    "values": {
+      "commonRange": "150 - 2,000",
+      "averagePrice": 1141,
+      "minimumPrice": 150,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1141,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Furnishings",
+    "date": "03/07/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

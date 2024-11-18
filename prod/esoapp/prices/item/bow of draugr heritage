@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of draugr heritage",
+    "displayName": "Bow of Draugr Heritage",
+    "values": {
+      "commonRange": "240 - 1,254",
+      "averagePrice": 598,
+      "minimumPrice": 168,
+      "maximumPrice": 1646,
+      "averageStackPrice": 598,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

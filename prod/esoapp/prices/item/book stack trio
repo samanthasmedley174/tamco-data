@@ -1,0 +1,18 @@
+[
+  {
+    "name": "book stack trio",
+    "displayName": "Book Stack, Trio",
+    "values": {
+      "commonRange": "5,524 - 8,000",
+      "averagePrice": 7305,
+      "minimumPrice": 5000,
+      "maximumPrice": 16060,
+      "averageStackPrice": 7305,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

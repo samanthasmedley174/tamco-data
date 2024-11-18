@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bog raiders mace",
+    "displayName": "Bog Raider's Mace",
+    "values": {
+      "commonRange": "2,150 - 5,500",
+      "averagePrice": 3411,
+      "minimumPrice": 750,
+      "maximumPrice": 5500,
+      "averageStackPrice": 3411,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

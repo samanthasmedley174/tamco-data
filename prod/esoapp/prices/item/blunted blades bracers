@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blunted blades bracers",
+    "displayName": "Blunted Blades Bracers",
+    "values": {
+      "commonRange": "1,000 - 1,090",
+      "averagePrice": 1208,
+      "minimumPrice": 980,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1208,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

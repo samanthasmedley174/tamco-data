@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 93 ancestral breton helmets",
+    "displayName": "Crafting Motif 93: Ancestral Breton Helmets",
+    "values": {
+      "commonRange": "11,000 - 38,826",
+      "averagePrice": 31077,
+      "minimumPrice": 10000,
+      "maximumPrice": 41156,
+      "averageStackPrice": 31077,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

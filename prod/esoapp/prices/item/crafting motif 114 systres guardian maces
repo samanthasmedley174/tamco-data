@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 114 systres guardian maces",
+    "displayName": "Crafting Motif 114: Systres Guardian Maces",
+    "values": {
+      "commonRange": "7,909 - 10,039",
+      "averagePrice": 9262,
+      "minimumPrice": 7000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 9262,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

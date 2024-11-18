@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design leyawiin platter seafood",
+    "displayName": "Design: Leyawiin Platter, Seafood",
+    "values": {
+      "commonRange": "5,025 - 10,632",
+      "averagePrice": 11212,
+      "minimumPrice": 4000,
+      "maximumPrice": 50030,
+      "averageStackPrice": 11212,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

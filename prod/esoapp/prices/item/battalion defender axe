@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battalion defender axe",
+    "displayName": "Battalion Defender Axe",
+    "values": {
+      "commonRange": "450 - 25,000",
+      "averagePrice": 13769,
+      "minimumPrice": 330,
+      "maximumPrice": 30000,
+      "averageStackPrice": 13769,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

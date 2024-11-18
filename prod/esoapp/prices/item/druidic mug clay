@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic mug clay",
+    "displayName": "Druidic Mug, Clay",
+    "values": {
+      "commonRange": "1,625 - 4,060",
+      "averagePrice": 2940,
+      "minimumPrice": 1060,
+      "maximumPrice": 4850,
+      "averageStackPrice": 5880,
+      "commonStackSize": 2,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "02/21/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

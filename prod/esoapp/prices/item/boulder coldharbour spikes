@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boulder coldharbour spikes",
+    "displayName": "Boulder, Coldharbour Spikes",
+    "values": {
+      "commonRange": "304 - 1,500",
+      "averagePrice": 773,
+      "minimumPrice": 200,
+      "maximumPrice": 1500,
+      "averageStackPrice": 773,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

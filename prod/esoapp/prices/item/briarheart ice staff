@@ -1,0 +1,18 @@
+[
+  {
+    "name": "briarheart ice staff",
+    "displayName": "Briarheart Ice Staff",
+    "values": {
+      "commonRange": "1,240 - 18,800",
+      "averagePrice": 9653,
+      "minimumPrice": 240,
+      "maximumPrice": 49952,
+      "averageStackPrice": 9653,
+      "commonStackSize": 1,
+      "salesRecorded": 41
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

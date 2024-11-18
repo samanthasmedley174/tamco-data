@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard table sturdy",
+    "displayName": "Blueprint: Redguard Table, Sturdy",
+    "values": {
+      "commonRange": "100 - 701",
+      "averagePrice": 258,
+      "minimumPrice": 50,
+      "maximumPrice": 727,
+      "averageStackPrice": 258,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

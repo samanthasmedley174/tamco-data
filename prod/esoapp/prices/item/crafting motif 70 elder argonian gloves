@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 70 elder argonian gloves",
+    "displayName": "Crafting Motif 70: Elder Argonian Gloves",
+    "values": {
+      "commonRange": "25,000 - 31,000",
+      "averagePrice": 27566,
+      "minimumPrice": 3000,
+      "maximumPrice": 39846,
+      "averageStackPrice": 27566,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

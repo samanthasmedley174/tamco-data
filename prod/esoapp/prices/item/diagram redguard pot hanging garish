@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redguard pot hanging garish",
+    "displayName": "Diagram: Redguard Pot, Hanging Garish",
+    "values": {
+      "commonRange": "24,167 - 26,909",
+      "averagePrice": 25655,
+      "minimumPrice": 22000,
+      "maximumPrice": 33000,
+      "averageStackPrice": 25655,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

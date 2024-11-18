@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 12 barbaric style",
+    "displayName": "Crafting Motif 12: Barbaric Style",
+    "values": {
+      "commonRange": "100 - 1,600",
+      "averagePrice": 844,
+      "minimumPrice": 90,
+      "maximumPrice": 5000,
+      "averageStackPrice": 844,
+      "commonStackSize": 1,
+      "salesRecorded": 41
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

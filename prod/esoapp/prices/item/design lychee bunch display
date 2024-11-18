@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design lychee bunch display",
+    "displayName": "Design: Lychee Bunch, Display",
+    "values": {
+      "commonRange": "7,000 - 10,943",
+      "averagePrice": 9254,
+      "minimumPrice": 6000,
+      "maximumPrice": 10943,
+      "averageStackPrice": 9254,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

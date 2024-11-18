@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle walkway balcony",
+    "displayName": "Blueprint: High Isle Walkway, Balcony",
+    "values": {
+      "commonRange": "2,000 - 3,700",
+      "averagePrice": 3285,
+      "minimumPrice": 2000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 3285,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood meal flan",
+    "displayName": "Dawnwood Meal, Flan",
+    "values": {
+      "commonRange": "1,650 - 5,100",
+      "averagePrice": 2936,
+      "minimumPrice": 1650,
+      "maximumPrice": 5212,
+      "averageStackPrice": 5872,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

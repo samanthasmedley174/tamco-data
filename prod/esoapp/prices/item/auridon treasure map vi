@@ -1,0 +1,18 @@
+[
+  {
+    "name": "auridon treasure map vi",
+    "displayName": "Auridon Treasure Map VI",
+    "values": {
+      "commonRange": "68 - 168",
+      "averagePrice": 114,
+      "minimumPrice": 20,
+      "maximumPrice": 168,
+      "averageStackPrice": 114,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

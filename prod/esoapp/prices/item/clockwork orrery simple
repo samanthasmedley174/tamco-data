@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork orrery simple",
+    "displayName": "Clockwork Orrery, Simple",
+    "values": {
+      "commonRange": "20,000 - 40,000",
+      "averagePrice": 29986,
+      "minimumPrice": 20000,
+      "maximumPrice": 42723,
+      "averageStackPrice": 29986,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

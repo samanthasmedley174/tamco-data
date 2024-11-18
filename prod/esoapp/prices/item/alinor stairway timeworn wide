@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor stairway timeworn wide",
+    "displayName": "Alinor Stairway, Timeworn Wide",
+    "values": {
+      "commonRange": "4,000 - 10,900",
+      "averagePrice": 6179,
+      "minimumPrice": 3450,
+      "maximumPrice": 12150,
+      "averageStackPrice": 6179,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

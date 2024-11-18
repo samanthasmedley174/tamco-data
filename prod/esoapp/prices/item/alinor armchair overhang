@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor armchair overhang",
+    "displayName": "Alinor Armchair, Overhang",
+    "values": {
+      "commonRange": "2,800 - 12,130",
+      "averagePrice": 9598,
+      "minimumPrice": 1500,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9598,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

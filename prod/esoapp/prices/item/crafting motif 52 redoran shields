@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 52 redoran shields",
+    "displayName": "Crafting Motif 52: Redoran Shields",
+    "values": {
+      "commonRange": "3,000 - 8,000",
+      "averagePrice": 6978,
+      "minimumPrice": 1039,
+      "maximumPrice": 16000,
+      "averageStackPrice": 6978,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

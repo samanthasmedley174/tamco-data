@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alabaster honey rum",
+    "displayName": "Alabaster Honey Rum",
+    "values": {
+      "commonRange": "9 - 33",
+      "averagePrice": 23,
+      "minimumPrice": 9,
+      "maximumPrice": 55,
+      "averageStackPrice": 23,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Food & Drinks",
+    "date": "07/20/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/alabaster_honey_rum.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "betnikh treasure map ii",
+    "displayName": "Betnikh Treasure Map II",
+    "values": {
+      "commonRange": "64 - 500",
+      "averagePrice": 160,
+      "minimumPrice": 14,
+      "maximumPrice": 800,
+      "averageStackPrice": 160,
+      "commonStackSize": 1,
+      "salesRecorded": 60
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

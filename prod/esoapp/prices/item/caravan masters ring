@@ -1,0 +1,18 @@
+[
+  {
+    "name": "caravan masters ring",
+    "displayName": "Caravan Master's Ring",
+    "values": {
+      "commonRange": "141 - 141",
+      "averagePrice": 261,
+      "minimumPrice": 141,
+      "maximumPrice": 500,
+      "averageStackPrice": 261,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

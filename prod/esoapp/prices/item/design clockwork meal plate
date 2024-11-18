@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design clockwork meal plate",
+    "displayName": "Design: Clockwork Meal, Plate",
+    "values": {
+      "commonRange": "1,000 - 2,690",
+      "averagePrice": 2054,
+      "minimumPrice": 300,
+      "maximumPrice": 2716,
+      "averageStackPrice": 2054,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

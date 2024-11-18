@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 16 glass axes",
+    "displayName": "Crafting Motif 16: Glass Axes",
+    "values": {
+      "commonRange": "5,000 - 9,780",
+      "averagePrice": 6647,
+      "minimumPrice": 4420,
+      "maximumPrice": 9780,
+      "averageStackPrice": 6647,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

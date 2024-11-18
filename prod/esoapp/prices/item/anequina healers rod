@@ -1,0 +1,18 @@
+[
+  {
+    "name": "anequina healers rod",
+    "displayName": "Anequina Healer's Rod",
+    "values": {
+      "commonRange": "1,400 - 1,400",
+      "averagePrice": 1408,
+      "minimumPrice": 325,
+      "maximumPrice": 2500,
+      "averageStackPrice": 1408,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

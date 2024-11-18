@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 25 aldmeri dominion boots",
+    "displayName": "Crafting Motif 25: Aldmeri Dominion Boots",
+    "values": {
+      "commonRange": "1,000 - 4,086",
+      "averagePrice": 3173,
+      "minimumPrice": 450,
+      "maximumPrice": 5086,
+      "averageStackPrice": 3173,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

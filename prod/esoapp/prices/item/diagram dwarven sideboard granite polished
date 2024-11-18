@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven sideboard granite polished",
+    "displayName": "Diagram: Dwarven Sideboard, Granite Polished",
+    "values": {
+      "commonRange": "50,000 - 66,441",
+      "averagePrice": 61052,
+      "minimumPrice": 40000,
+      "maximumPrice": 73500,
+      "averageStackPrice": 61052,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

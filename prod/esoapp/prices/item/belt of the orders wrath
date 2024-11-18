@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of the orders wrath",
+    "displayName": "Belt of the Order's Wrath",
+    "values": {
+      "commonRange": "9,299 - 51,000",
+      "averagePrice": 28542,
+      "minimumPrice": 5090,
+      "maximumPrice": 80093,
+      "averageStackPrice": 28542,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

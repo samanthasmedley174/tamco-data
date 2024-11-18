@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bounty sheet colovian man",
+    "displayName": "Bounty Sheet: Colovian Man",
+    "values": {
+      "commonRange": "7,000 - 8,627",
+      "averagePrice": 7893,
+      "minimumPrice": 5558,
+      "maximumPrice": 10000,
+      "averageStackPrice": 7893,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint khajiit end table faded",
+    "displayName": "Blueprint: Khajiit End Table, Faded",
+    "values": {
+      "commonRange": "100 - 227",
+      "averagePrice": 142,
+      "minimumPrice": 97,
+      "maximumPrice": 227,
+      "averageStackPrice": 142,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

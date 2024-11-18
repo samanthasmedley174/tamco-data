@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 120 scribes of mora legs",
+    "displayName": "Crafting Motif 120: Scribes of Mora Legs",
+    "values": {
+      "commonRange": "20,000 - 30,100",
+      "averagePrice": 32171,
+      "minimumPrice": 19000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 32171,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

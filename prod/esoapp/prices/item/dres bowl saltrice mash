@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dres bowl saltrice mash",
+    "displayName": "Dres Bowl, Saltrice Mash",
+    "values": {
+      "commonRange": "700 - 6,000",
+      "averagePrice": 3020,
+      "minimumPrice": 150,
+      "maximumPrice": 6450,
+      "averageStackPrice": 3020,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/15/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

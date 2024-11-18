@@ -1,0 +1,18 @@
+[
+  {
+    "name": "daring corsairs cuirass",
+    "displayName": "Daring Corsair's Cuirass",
+    "values": {
+      "commonRange": "74,990 - 74,990",
+      "averagePrice": 74990,
+      "minimumPrice": 74990,
+      "maximumPrice": 74990,
+      "averageStackPrice": 74990,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

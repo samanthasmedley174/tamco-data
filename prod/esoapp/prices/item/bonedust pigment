@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bonedust pigment",
+    "displayName": "Bonedust Pigment",
+    "values": {
+      "commonRange": "1,000 - 4,800",
+      "averagePrice": 3554,
+      "minimumPrice": 900,
+      "maximumPrice": 18000,
+      "averageStackPrice": 35540,
+      "commonStackSize": 10,
+      "salesRecorded": 16
+    },
+    "type": "Furnishings",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

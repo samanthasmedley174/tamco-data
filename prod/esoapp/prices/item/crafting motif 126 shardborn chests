@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 126 shardborn chests",
+    "displayName": "Crafting Motif 126: Shardborn Chests",
+    "values": {
+      "commonRange": "9,000 - 18,000",
+      "averagePrice": 12829,
+      "minimumPrice": 8039,
+      "maximumPrice": 20039,
+      "averageStackPrice": 12829,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

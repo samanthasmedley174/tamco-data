@@ -1,0 +1,18 @@
+[
+  {
+    "name": "chromatic reservoir tapestry",
+    "displayName": "Chromatic Reservoir Tapestry",
+    "values": {
+      "commonRange": "900 - 4,000",
+      "averagePrice": 1911,
+      "minimumPrice": 350,
+      "maximumPrice": 4926,
+      "averageStackPrice": 1911,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

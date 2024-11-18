@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bal foyen treasure map i",
+    "displayName": "Bal Foyen Treasure Map I",
+    "values": {
+      "commonRange": "50 - 400",
+      "averagePrice": 179,
+      "minimumPrice": 20,
+      "maximumPrice": 1100,
+      "averageStackPrice": 179,
+      "commonStackSize": 1,
+      "salesRecorded": 55
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

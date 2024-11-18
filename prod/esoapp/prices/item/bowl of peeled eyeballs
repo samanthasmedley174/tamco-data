@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bowl of peeled eyeballs",
+    "displayName": "Bowl of Peeled Eyeballs",
+    "values": {
+      "commonRange": "3 - 58",
+      "averagePrice": 33,
+      "minimumPrice": 3,
+      "maximumPrice": 58,
+      "averageStackPrice": 99,
+      "commonStackSize": 3,
+      "salesRecorded": 13
+    },
+    "type": "Food & Drinks",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/bowl_of_peeled_eyeballs.png"
+  }
+]

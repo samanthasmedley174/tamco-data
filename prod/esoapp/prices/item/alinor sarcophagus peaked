@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor sarcophagus peaked",
+    "displayName": "Alinor Sarcophagus, Peaked",
+    "values": {
+      "commonRange": "5,300 - 33,300",
+      "averagePrice": 18333,
+      "minimumPrice": 5300,
+      "maximumPrice": 33300,
+      "averageStackPrice": 18333,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/12/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

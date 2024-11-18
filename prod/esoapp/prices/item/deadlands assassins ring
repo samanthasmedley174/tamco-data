@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands assassins ring",
+    "displayName": "Deadlands Assassin's Ring",
+    "values": {
+      "commonRange": "650 - 8,000",
+      "averagePrice": 4167,
+      "minimumPrice": 500,
+      "maximumPrice": 35156,
+      "averageStackPrice": 4167,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

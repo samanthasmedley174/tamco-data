@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crystaljack cocoon dormant",
+    "displayName": "Crystaljack Cocoon, Dormant",
+    "values": {
+      "commonRange": "2,000 - 6,323",
+      "averagePrice": 4064,
+      "minimumPrice": 1500,
+      "maximumPrice": 6323,
+      "averageStackPrice": 4064,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

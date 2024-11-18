@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design wood elf bowl striped",
+    "displayName": "Design: Wood Elf Bowl, Striped",
+    "values": {
+      "commonRange": "550 - 890",
+      "averagePrice": 788,
+      "minimumPrice": 400,
+      "maximumPrice": 1812,
+      "averageStackPrice": 788,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

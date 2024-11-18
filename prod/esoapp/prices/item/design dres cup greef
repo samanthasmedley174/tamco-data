@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design dres cup greef",
+    "displayName": "Design: Dres Cup, Greef",
+    "values": {
+      "commonRange": "1,200 - 3,500",
+      "averagePrice": 2771,
+      "minimumPrice": 650,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2771,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

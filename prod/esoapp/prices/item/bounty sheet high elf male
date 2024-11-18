@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bounty sheet high elf male",
+    "displayName": "Bounty Sheet: High Elf Male",
+    "values": {
+      "commonRange": "3,000 - 7,777",
+      "averagePrice": 5891,
+      "minimumPrice": 1675,
+      "maximumPrice": 16300,
+      "averageStackPrice": 5891,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

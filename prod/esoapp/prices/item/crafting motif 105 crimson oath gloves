@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 105 crimson oath gloves",
+    "displayName": "Crafting Motif 105: Crimson Oath Gloves",
+    "values": {
+      "commonRange": "11,225 - 35,000",
+      "averagePrice": 20691,
+      "minimumPrice": 5000,
+      "maximumPrice": 35119,
+      "averageStackPrice": 20691,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

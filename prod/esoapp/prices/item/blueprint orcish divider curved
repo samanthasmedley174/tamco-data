@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint orcish divider curved",
+    "displayName": "Blueprint: Orcish Divider, Curved",
+    "values": {
+      "commonRange": "11,600 - 15,189",
+      "averagePrice": 13890,
+      "minimumPrice": 11000,
+      "maximumPrice": 16000,
+      "averageStackPrice": 13890,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

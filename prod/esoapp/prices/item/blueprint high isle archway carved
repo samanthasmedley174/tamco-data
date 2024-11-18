@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle archway carved",
+    "displayName": "Blueprint: High Isle Archway, Carved",
+    "values": {
+      "commonRange": "4,000 - 4,942",
+      "averagePrice": 4354,
+      "minimumPrice": 3500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 4354,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

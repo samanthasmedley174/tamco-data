@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram redguard chalice full",
+    "displayName": "Diagram: Redguard Chalice, Full",
+    "values": {
+      "commonRange": "12,000 - 14,389",
+      "averagePrice": 14166,
+      "minimumPrice": 11953,
+      "maximumPrice": 20574,
+      "averageStackPrice": 14166,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

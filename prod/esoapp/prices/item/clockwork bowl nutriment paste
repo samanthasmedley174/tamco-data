@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork bowl nutriment paste",
+    "displayName": "Clockwork Bowl, Nutriment Paste",
+    "values": {
+      "commonRange": "550 - 4,000",
+      "averagePrice": 2469,
+      "minimumPrice": 500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2469,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/19/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

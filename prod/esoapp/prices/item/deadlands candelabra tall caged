@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands candelabra tall caged",
+    "displayName": "Deadlands Candelabra, Tall Caged",
+    "values": {
+      "commonRange": "4,470 - 8,300",
+      "averagePrice": 6511,
+      "minimumPrice": 4470,
+      "maximumPrice": 14400,
+      "averageStackPrice": 13022,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

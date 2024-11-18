@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bright throats boast sash",
+    "displayName": "Bright-Throat's Boast Sash",
+    "values": {
+      "commonRange": "499 - 5,000",
+      "averagePrice": 3039,
+      "minimumPrice": 90,
+      "maximumPrice": 10903,
+      "averageStackPrice": 3039,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

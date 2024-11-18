@@ -1,0 +1,18 @@
+[
+  {
+    "name": "curse eating shield",
+    "displayName": "Curse-Eating Shield",
+    "values": {
+      "commonRange": "153 - 15,000",
+      "averagePrice": 7173,
+      "minimumPrice": 153,
+      "maximumPrice": 35650,
+      "averageStackPrice": 7173,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork orrery intricate",
+    "displayName": "Clockwork Orrery, Intricate",
+    "values": {
+      "commonRange": "90,000 - 125,394",
+      "averagePrice": 108017,
+      "minimumPrice": 79394,
+      "maximumPrice": 135500,
+      "averageStackPrice": 108017,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

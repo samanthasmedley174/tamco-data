@@ -1,0 +1,18 @@
+[
+  {
+    "name": "affix script brutality and sorcery",
+    "displayName": "Affix Script: Brutality and Sorcery",
+    "values": {
+      "commonRange": "300,000 - 600,000",
+      "averagePrice": 707015,
+      "minimumPrice": 280000,
+      "maximumPrice": 3901607,
+      "averageStackPrice": 707015,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Scripts",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

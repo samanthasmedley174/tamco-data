@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of the trainee",
+    "displayName": "Breeches of the Trainee",
+    "values": {
+      "commonRange": "174 - 2,300",
+      "averagePrice": 971,
+      "minimumPrice": 174,
+      "maximumPrice": 7180,
+      "averageStackPrice": 971,
+      "commonStackSize": 1,
+      "salesRecorded": 35
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

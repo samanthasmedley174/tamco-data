@@ -1,0 +1,18 @@
+[
+  {
+    "name": "curse eating restoration staff",
+    "displayName": "Curse-Eating Restoration Staff",
+    "values": {
+      "commonRange": "900 - 10,000",
+      "averagePrice": 5226,
+      "minimumPrice": 246,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5226,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 16 glass style",
+    "displayName": "Crafting Motif 16: Glass Style",
+    "values": {
+      "commonRange": "99,900 - 250,000",
+      "averagePrice": 146527,
+      "minimumPrice": 26999,
+      "maximumPrice": 250000,
+      "averageStackPrice": 146527,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

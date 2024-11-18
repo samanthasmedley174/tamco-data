@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint argonian table formal",
+    "displayName": "Blueprint: Argonian Table, Formal",
+    "values": {
+      "commonRange": "430 - 1,486",
+      "averagePrice": 1045,
+      "minimumPrice": 230,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1045,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

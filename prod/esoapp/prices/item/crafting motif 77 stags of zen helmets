@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 77 stags of zen helmets",
+    "displayName": "Crafting Motif 77: Stags of Z'en Helmets",
+    "values": {
+      "commonRange": "30,000 - 50,000",
+      "averagePrice": 39774,
+      "minimumPrice": 30000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 39774,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

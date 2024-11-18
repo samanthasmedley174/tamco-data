@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 57 ebonshadow gloves",
+    "displayName": "Crafting Motif 57: Ebonshadow Gloves",
+    "values": {
+      "commonRange": "2,000 - 5,039",
+      "averagePrice": 4151,
+      "minimumPrice": 1000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4151,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

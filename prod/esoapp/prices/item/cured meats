@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cured meats",
+    "displayName": "Cured Meats",
+    "values": {
+      "commonRange": "669 - 3,665",
+      "averagePrice": 2563,
+      "minimumPrice": 550,
+      "maximumPrice": 9850,
+      "averageStackPrice": 2563,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

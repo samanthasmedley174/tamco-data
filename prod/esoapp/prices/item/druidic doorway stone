@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic doorway stone",
+    "displayName": "Druidic Doorway, Stone",
+    "values": {
+      "commonRange": "1,400 - 2,150",
+      "averagePrice": 1795,
+      "minimumPrice": 1400,
+      "maximumPrice": 3050,
+      "averageStackPrice": 3590,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

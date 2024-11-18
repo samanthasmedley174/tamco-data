@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf urn bronze burial",
+    "displayName": "Dark Elf Urn, Bronze Burial",
+    "values": {
+      "commonRange": "14,000 - 17,231",
+      "averagePrice": 15760,
+      "minimumPrice": 12000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 15760,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

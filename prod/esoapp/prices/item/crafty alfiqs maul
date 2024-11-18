@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafty alfiqs maul",
+    "displayName": "Crafty Alfiq's Maul",
+    "values": {
+      "commonRange": "340 - 3,240",
+      "averagePrice": 1879,
+      "minimumPrice": 240,
+      "maximumPrice": 8000,
+      "averageStackPrice": 1879,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

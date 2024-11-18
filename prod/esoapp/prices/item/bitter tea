@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bitter tea",
+    "displayName": "Bitter Tea",
+    "values": {
+      "commonRange": "3 - 3",
+      "averagePrice": 4,
+      "minimumPrice": 3,
+      "maximumPrice": 15,
+      "averageStackPrice": 400,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "03/01/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/bitter_tea.png"
+  }
+]

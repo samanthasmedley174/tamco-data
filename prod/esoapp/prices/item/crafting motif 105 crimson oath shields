@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 105 crimson oath shields",
+    "displayName": "Crafting Motif 105: Crimson Oath Shields",
+    "values": {
+      "commonRange": "12,363 - 20,775",
+      "averagePrice": 16533,
+      "minimumPrice": 12000,
+      "maximumPrice": 20775,
+      "averageStackPrice": 16533,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

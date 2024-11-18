@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin cabinet sturdy",
+    "displayName": "Blueprint: Leyawiin Cabinet, Sturdy",
+    "values": {
+      "commonRange": "6,000 - 6,530",
+      "averagePrice": 6289,
+      "minimumPrice": 5257,
+      "maximumPrice": 6969,
+      "averageStackPrice": 6289,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

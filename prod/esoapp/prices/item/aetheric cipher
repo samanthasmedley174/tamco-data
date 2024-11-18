@@ -1,0 +1,18 @@
+[
+  {
+    "name": "aetheric cipher",
+    "displayName": "Aetheric Cipher",
+    "values": {
+      "commonRange": "425,000 - 500,000",
+      "averagePrice": 472000,
+      "minimumPrice": 400000,
+      "maximumPrice": 700000,
+      "averageStackPrice": 472000,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Miscellaneous",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Miscellaneous/Aetheric_Cipher.png"
+  }
+]

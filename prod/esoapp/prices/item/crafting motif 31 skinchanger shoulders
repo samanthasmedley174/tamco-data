@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 31 skinchanger shoulders",
+    "displayName": "Crafting Motif 31: Skinchanger Shoulders",
+    "values": {
+      "commonRange": "5,000 - 8,060",
+      "averagePrice": 7931,
+      "minimumPrice": 3000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 7931,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

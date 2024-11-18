@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 52 redoran chests",
+    "displayName": "Crafting Motif 52: Redoran Chests",
+    "values": {
+      "commonRange": "8,816 - 14,039",
+      "averagePrice": 11673,
+      "minimumPrice": 8039,
+      "maximumPrice": 15000,
+      "averageStackPrice": 11673,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

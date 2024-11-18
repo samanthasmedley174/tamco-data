@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram high isle censer metal",
+    "displayName": "Diagram: High Isle Censer, Metal",
+    "values": {
+      "commonRange": "20,000 - 32,500",
+      "averagePrice": 25270,
+      "minimumPrice": 19000,
+      "maximumPrice": 33522,
+      "averageStackPrice": 25270,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

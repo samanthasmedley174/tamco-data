@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood bedding skins",
+    "displayName": "Dawnwood Bedding, Skins",
+    "values": {
+      "commonRange": "3,000 - 7,700",
+      "averagePrice": 5497,
+      "minimumPrice": 2650,
+      "maximumPrice": 8150,
+      "averageStackPrice": 5497,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

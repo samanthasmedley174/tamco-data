@@ -1,0 +1,18 @@
+[
+  {
+    "name": "big eared ginger kittens bait mouse",
+    "displayName": "Big-Eared Ginger Kitten's Bait Mouse",
+    "values": {
+      "commonRange": "5,000 - 8,682",
+      "averagePrice": 6796,
+      "minimumPrice": 539,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6796,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Fragments",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

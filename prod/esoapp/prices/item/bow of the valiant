@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of the valiant",
+    "displayName": "Bow of the Valiant",
+    "values": {
+      "commonRange": "666 - 5,000",
+      "averagePrice": 2728,
+      "minimumPrice": 246,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2728,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

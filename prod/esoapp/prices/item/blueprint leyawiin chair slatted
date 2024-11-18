@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin chair slatted",
+    "displayName": "Blueprint: Leyawiin Chair, Slatted",
+    "values": {
+      "commonRange": "500 - 3,999",
+      "averagePrice": 2231,
+      "minimumPrice": 227,
+      "maximumPrice": 4352,
+      "averageStackPrice": 2231,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

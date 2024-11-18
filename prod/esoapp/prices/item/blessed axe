@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blessed axe",
+    "displayName": "Blessed Axe",
+    "values": {
+      "commonRange": "2,400 - 3,000",
+      "averagePrice": 2538,
+      "minimumPrice": 600,
+      "maximumPrice": 4150,
+      "averageStackPrice": 2538,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

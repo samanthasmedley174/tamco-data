@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the night mother",
+    "displayName": "Battle Axe of the Night Mother",
+    "values": {
+      "commonRange": "109,252 - 109,252",
+      "averagePrice": 109252,
+      "minimumPrice": 109252,
+      "maximumPrice": 109252,
+      "averageStackPrice": 109252,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

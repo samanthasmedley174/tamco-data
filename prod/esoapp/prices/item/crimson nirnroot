@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crimson nirnroot",
+    "displayName": "Crimson Nirnroot",
+    "values": {
+      "commonRange": "250 - 337",
+      "averagePrice": 295,
+      "minimumPrice": 234,
+      "maximumPrice": 342,
+      "averageStackPrice": 59000,
+      "commonStackSize": 200,
+      "salesRecorded": 12
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

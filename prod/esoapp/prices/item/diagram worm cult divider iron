@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram worm cult divider iron",
+    "displayName": "Diagram: Worm Cult Divider, Iron",
+    "values": {
+      "commonRange": "826,225 - 900,000",
+      "averagePrice": 846854,
+      "minimumPrice": 630000,
+      "maximumPrice": 999900,
+      "averageStackPrice": 846854,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Furnishing Plans",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

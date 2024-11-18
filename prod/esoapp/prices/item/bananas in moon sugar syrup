@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bananas in moon sugar syrup",
+    "displayName": "Bananas in Moon-Sugar Syrup",
+    "values": {
+      "commonRange": "15 - 35",
+      "averagePrice": 20,
+      "minimumPrice": 15,
+      "maximumPrice": 45,
+      "averageStackPrice": 2000,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "11/09/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/bananas_in_moon-sugar_syrup.png"
+  }
+]

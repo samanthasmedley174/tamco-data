@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 97 wayward guardian legs",
+    "displayName": "Crafting Motif 97: Wayward Guardian Legs",
+    "values": {
+      "commonRange": "20,000 - 50,039",
+      "averagePrice": 29422,
+      "minimumPrice": 19776,
+      "maximumPrice": 70039,
+      "averageStackPrice": 29422,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

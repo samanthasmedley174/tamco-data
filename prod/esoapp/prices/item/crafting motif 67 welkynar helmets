@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 67 welkynar helmets",
+    "displayName": "Crafting Motif 67: Welkynar Helmets",
+    "values": {
+      "commonRange": "5,000 - 9,128",
+      "averagePrice": 8197,
+      "minimumPrice": 5000,
+      "maximumPrice": 9128,
+      "averageStackPrice": 8197,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

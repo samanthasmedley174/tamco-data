@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor fountain four way timeworn",
+    "displayName": "Alinor Fountain, Four-Way Timeworn",
+    "values": {
+      "commonRange": "12,300 - 20,000",
+      "averagePrice": 16200,
+      "minimumPrice": 10300,
+      "maximumPrice": 20000,
+      "averageStackPrice": 16200,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

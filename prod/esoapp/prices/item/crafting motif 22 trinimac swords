@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 22 trinimac swords",
+    "displayName": "Crafting Motif 22: Trinimac Swords",
+    "values": {
+      "commonRange": "31,000 - 40,768",
+      "averagePrice": 35626,
+      "minimumPrice": 30995,
+      "maximumPrice": 41608,
+      "averageStackPrice": 35626,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

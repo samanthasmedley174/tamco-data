@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 69 dead water legs",
+    "displayName": "Crafting Motif 69: Dead-Water Legs",
+    "values": {
+      "commonRange": "9,642 - 18,000",
+      "averagePrice": 12402,
+      "minimumPrice": 5000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 12402,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

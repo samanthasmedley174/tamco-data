@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bog raiders cuirass",
+    "displayName": "Bog Raider's Cuirass",
+    "values": {
+      "commonRange": "580 - 6,445",
+      "averagePrice": 3076,
+      "minimumPrice": 380,
+      "maximumPrice": 13183,
+      "averageStackPrice": 3076,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

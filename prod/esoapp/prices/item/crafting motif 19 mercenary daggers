@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 19 mercenary daggers",
+    "displayName": "Crafting Motif 19: Mercenary Daggers",
+    "values": {
+      "commonRange": "9,000 - 10,014",
+      "averagePrice": 9310,
+      "minimumPrice": 4000,
+      "maximumPrice": 10510,
+      "averageStackPrice": 9310,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

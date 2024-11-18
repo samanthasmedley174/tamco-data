@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 17 xivkyn legs",
+    "displayName": "Crafting Motif 17: Xivkyn Legs",
+    "values": {
+      "commonRange": "6,000 - 17,007",
+      "averagePrice": 9940,
+      "minimumPrice": 5000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9940,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

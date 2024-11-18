@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 123 kindreds concord maces",
+    "displayName": "Crafting Motif 123: Kindred's Concord Maces",
+    "values": {
+      "commonRange": "35,000 - 45,000",
+      "averagePrice": 42794,
+      "minimumPrice": 30000,
+      "maximumPrice": 70039,
+      "averageStackPrice": 42794,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

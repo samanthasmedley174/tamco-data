@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint orcish stein horn",
+    "displayName": "Blueprint: Orcish Stein, Horn",
+    "values": {
+      "commonRange": "11,953 - 15,774",
+      "averagePrice": 13806,
+      "minimumPrice": 11953,
+      "maximumPrice": 18000,
+      "averageStackPrice": 13806,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

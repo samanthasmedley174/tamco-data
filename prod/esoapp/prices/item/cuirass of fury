@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cuirass of fury",
+    "displayName": "Cuirass of Fury",
+    "values": {
+      "commonRange": "500 - 10,180",
+      "averagePrice": 4295,
+      "minimumPrice": 390,
+      "maximumPrice": 10183,
+      "averageStackPrice": 4295,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

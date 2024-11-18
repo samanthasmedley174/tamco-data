@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dark elf cauldron ringed",
+    "displayName": "Diagram: Dark Elf Cauldron, Ringed",
+    "values": {
+      "commonRange": "9,000 - 13,277",
+      "averagePrice": 11686,
+      "minimumPrice": 8000,
+      "maximumPrice": 13703,
+      "averageStackPrice": 11686,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

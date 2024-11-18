@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude nightstand round",
+    "displayName": "Blueprint: Solitude Nightstand, Round",
+    "values": {
+      "commonRange": "800 - 3,000",
+      "averagePrice": 1923,
+      "minimumPrice": 110,
+      "maximumPrice": 5595,
+      "averageStackPrice": 1923,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

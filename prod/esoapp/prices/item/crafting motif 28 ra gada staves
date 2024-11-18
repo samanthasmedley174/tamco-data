@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 28 ra gada staves",
+    "displayName": "Crafting Motif 28: Ra Gada Staves",
+    "values": {
+      "commonRange": "1,086 - 6,420",
+      "averagePrice": 3213,
+      "minimumPrice": 999,
+      "maximumPrice": 10039,
+      "averageStackPrice": 3213,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

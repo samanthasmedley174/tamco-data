@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian lamp brass",
+    "displayName": "Colovian Lamp, Brass",
+    "values": {
+      "commonRange": "4,800 - 11,900",
+      "averagePrice": 8223,
+      "minimumPrice": 4250,
+      "maximumPrice": 14900,
+      "averageStackPrice": 8223,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

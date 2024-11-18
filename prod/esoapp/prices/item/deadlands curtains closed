@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands curtains closed",
+    "displayName": "Deadlands Curtains, Closed",
+    "values": {
+      "commonRange": "1,859 - 6,650",
+      "averagePrice": 4454,
+      "minimumPrice": 200,
+      "maximumPrice": 10950,
+      "averageStackPrice": 4454,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic nook wall stone",
+    "displayName": "Druidic Nook Wall, Stone",
+    "values": {
+      "commonRange": "1,650 - 5,000",
+      "averagePrice": 2809,
+      "minimumPrice": 1650,
+      "maximumPrice": 5500,
+      "averageStackPrice": 5618,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

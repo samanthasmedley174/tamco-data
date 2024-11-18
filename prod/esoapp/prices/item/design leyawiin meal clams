@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design leyawiin meal clams",
+    "displayName": "Design: Leyawiin Meal, Clams",
+    "values": {
+      "commonRange": "5,000 - 21,738",
+      "averagePrice": 12874,
+      "minimumPrice": 5000,
+      "maximumPrice": 40030,
+      "averageStackPrice": 12874,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

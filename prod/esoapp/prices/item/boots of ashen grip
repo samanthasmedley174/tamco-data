@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boots of ashen grip",
+    "displayName": "Boots of Ashen Grip",
+    "values": {
+      "commonRange": "890 - 3,487",
+      "averagePrice": 2803,
+      "minimumPrice": 269,
+      "maximumPrice": 6000,
+      "averageStackPrice": 2803,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

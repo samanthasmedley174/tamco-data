@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 101 ivory brigade staves",
+    "displayName": "Crafting Motif 101: Ivory Brigade Staves",
+    "values": {
+      "commonRange": "6,000 - 7,610",
+      "averagePrice": 6882,
+      "minimumPrice": 5610,
+      "maximumPrice": 7839,
+      "averageStackPrice": 6882,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

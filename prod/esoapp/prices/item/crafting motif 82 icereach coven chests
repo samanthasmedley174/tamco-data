@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 82 icereach coven chests",
+    "displayName": "Crafting Motif 82: Icereach Coven Chests",
+    "values": {
+      "commonRange": "34,540 - 80,000",
+      "averagePrice": 56076,
+      "minimumPrice": 33540,
+      "maximumPrice": 90000,
+      "averageStackPrice": 56076,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

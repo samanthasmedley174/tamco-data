@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian gate fortified",
+    "displayName": "Colovian Gate, Fortified",
+    "values": {
+      "commonRange": "17,000 - 30,000",
+      "averagePrice": 22681,
+      "minimumPrice": 14666,
+      "maximumPrice": 33000,
+      "averageStackPrice": 22681,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

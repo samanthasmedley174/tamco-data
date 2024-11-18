@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 128 lucent sentinel legs",
+    "displayName": "Crafting Motif 128: Lucent Sentinel Legs",
+    "values": {
+      "commonRange": "6,457 - 8,700",
+      "averagePrice": 7280,
+      "minimumPrice": 3139,
+      "maximumPrice": 9000,
+      "averageStackPrice": 7280,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

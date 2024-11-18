@@ -1,0 +1,18 @@
+[
+  {
+    "name": "black marsh cucumber",
+    "displayName": "Black Marsh Cucumber",
+    "values": {
+      "commonRange": "50 - 108",
+      "averagePrice": 109,
+      "minimumPrice": 3,
+      "maximumPrice": 299,
+      "averageStackPrice": 1090,
+      "commonStackSize": 10,
+      "salesRecorded": 16
+    },
+    "type": "Fishing",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Black_Marsh_Cucumber.png"
+  }
+]

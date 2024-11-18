@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin counter corner",
+    "displayName": "Blueprint: Leyawiin Counter, Corner",
+    "values": {
+      "commonRange": "4,686 - 6,994",
+      "averagePrice": 6562,
+      "minimumPrice": 3966,
+      "maximumPrice": 20000,
+      "averageStackPrice": 6562,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 81 new moon priest boots",
+    "displayName": "Crafting Motif 81: New Moon Priest Boots",
+    "values": {
+      "commonRange": "600 - 1,300",
+      "averagePrice": 942,
+      "minimumPrice": 300,
+      "maximumPrice": 2000,
+      "averageStackPrice": 942,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

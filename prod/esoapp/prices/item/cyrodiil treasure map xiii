@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cyrodiil treasure map xiii",
+    "displayName": "Cyrodiil Treasure Map XIII",
+    "values": {
+      "commonRange": "100 - 400",
+      "averagePrice": 215,
+      "minimumPrice": 100,
+      "maximumPrice": 496,
+      "averageStackPrice": 215,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Treasure Maps",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

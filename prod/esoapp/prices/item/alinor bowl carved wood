@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor bowl carved wood",
+    "displayName": "Alinor Bowl, Carved Wood",
+    "values": {
+      "commonRange": "1,000 - 1,250",
+      "averagePrice": 1035,
+      "minimumPrice": 500,
+      "maximumPrice": 1500,
+      "averageStackPrice": 1035,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/22/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

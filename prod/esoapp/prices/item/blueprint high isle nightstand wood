@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle nightstand wood",
+    "displayName": "Blueprint: High Isle Nightstand, Wood",
+    "values": {
+      "commonRange": "500 - 2,669",
+      "averagePrice": 2075,
+      "minimumPrice": 300,
+      "maximumPrice": 2669,
+      "averageStackPrice": 2075,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

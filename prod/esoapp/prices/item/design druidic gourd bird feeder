@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design druidic gourd bird feeder",
+    "displayName": "Design: Druidic Gourd Bird Feeder",
+    "values": {
+      "commonRange": "2,000 - 3,226",
+      "averagePrice": 2403,
+      "minimumPrice": 1000,
+      "maximumPrice": 3226,
+      "averageStackPrice": 2403,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

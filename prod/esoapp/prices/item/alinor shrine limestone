@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor shrine limestone",
+    "displayName": "Alinor Shrine, Limestone",
+    "values": {
+      "commonRange": "3,150 - 6,150",
+      "averagePrice": 5312,
+      "minimumPrice": 2000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5312,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

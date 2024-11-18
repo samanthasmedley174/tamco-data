@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battlefield acrobat greatsword",
+    "displayName": "Battlefield Acrobat Greatsword",
+    "values": {
+      "commonRange": "2,999 - 2,999",
+      "averagePrice": 3331,
+      "minimumPrice": 2999,
+      "maximumPrice": 3995,
+      "averageStackPrice": 3331,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

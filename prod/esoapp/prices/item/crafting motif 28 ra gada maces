@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 28 ra gada maces",
+    "displayName": "Crafting Motif 28: Ra Gada Maces",
+    "values": {
+      "commonRange": "1,000 - 3,000",
+      "averagePrice": 2321,
+      "minimumPrice": 149,
+      "maximumPrice": 3039,
+      "averageStackPrice": 2321,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

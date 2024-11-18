@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of the sentry",
+    "displayName": "Belt of the Sentry",
+    "values": {
+      "commonRange": "1,500 - 8,250",
+      "averagePrice": 4799,
+      "minimumPrice": 300,
+      "maximumPrice": 15000,
+      "averageStackPrice": 4799,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

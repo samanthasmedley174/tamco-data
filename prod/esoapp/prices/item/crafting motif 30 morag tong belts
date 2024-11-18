@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 30 morag tong belts",
+    "displayName": "Crafting Motif 30: Morag Tong Belts",
+    "values": {
+      "commonRange": "5,000 - 7,668",
+      "averagePrice": 6875,
+      "minimumPrice": 4000,
+      "maximumPrice": 10367,
+      "averageStackPrice": 6875,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

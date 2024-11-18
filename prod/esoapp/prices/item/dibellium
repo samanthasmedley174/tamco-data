@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dibellium",
+    "displayName": "Dibellium",
+    "values": {
+      "commonRange": "4,000 - 7,000",
+      "averagePrice": 5546,
+      "minimumPrice": 3000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 5546,
+      "commonStackSize": 1,
+      "salesRecorded": 126
+    },
+    "type": "Trait Stones",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Dibellium.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of soulshine",
+    "displayName": "Bow of Soulshine",
+    "values": {
+      "commonRange": "246 - 706",
+      "averagePrice": 453,
+      "minimumPrice": 100,
+      "maximumPrice": 1000,
+      "averageStackPrice": 453,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "affix script uncertainty",
+    "displayName": "Affix Script: Uncertainty",
+    "values": {
+      "commonRange": "13,300 - 55,000",
+      "averagePrice": 25450,
+      "minimumPrice": 13300,
+      "maximumPrice": 65000,
+      "averageStackPrice": 25450,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Scripts",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Affix_Script:_Uncertainty.png"
+  }
+]

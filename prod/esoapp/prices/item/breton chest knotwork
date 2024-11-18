@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton chest knotwork",
+    "displayName": "Breton Chest, Knotwork",
+    "values": {
+      "commonRange": "3,000 - 10,099",
+      "averagePrice": 5561,
+      "minimumPrice": 1150,
+      "maximumPrice": 10299,
+      "averageStackPrice": 5561,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/03/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "auridon treasure map iii",
+    "displayName": "Auridon Treasure Map III",
+    "values": {
+      "commonRange": "100 - 141",
+      "averagePrice": 119,
+      "minimumPrice": 99,
+      "maximumPrice": 175,
+      "averageStackPrice": 119,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Treasure Maps",
+    "date": "02/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

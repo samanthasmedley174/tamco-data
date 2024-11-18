@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid doorway tall arched",
+    "displayName": "Ayleid Doorway, Tall Arched",
+    "values": {
+      "commonRange": "20,000 - 50,000",
+      "averagePrice": 32665,
+      "minimumPrice": 16000,
+      "maximumPrice": 74000,
+      "averageStackPrice": 32665,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint tide born gateway boma",
+    "displayName": "Blueprint: Tide-Born Gateway, Boma",
+    "values": {
+      "commonRange": "7,008 - 16,014",
+      "averagePrice": 12657,
+      "minimumPrice": 3030,
+      "maximumPrice": 16211,
+      "averageStackPrice": 12657,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

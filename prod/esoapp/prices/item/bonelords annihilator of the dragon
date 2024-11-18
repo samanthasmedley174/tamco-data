@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bonelords annihilator of the dragon",
+    "displayName": "Bonelord's Annihilator of the Dragon",
+    "values": {
+      "commonRange": "250 - 250",
+      "averagePrice": 250,
+      "minimumPrice": 250,
+      "maximumPrice": 250,
+      "averageStackPrice": 250,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 16 glass gloves",
+    "displayName": "Crafting Motif 16: Glass Gloves",
+    "values": {
+      "commonRange": "6,000 - 10,000",
+      "averagePrice": 9263,
+      "minimumPrice": 4000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9263,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

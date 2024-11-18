@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design alinor amphora embossed",
+    "displayName": "Design: Alinor Amphora, Embossed",
+    "values": {
+      "commonRange": "3,484 - 8,530",
+      "averagePrice": 5657,
+      "minimumPrice": 3000,
+      "maximumPrice": 8530,
+      "averageStackPrice": 5657,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

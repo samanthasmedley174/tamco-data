@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard candleholder polished",
+    "displayName": "Blueprint: Redguard Candleholder, Polished",
+    "values": {
+      "commonRange": "330 - 2,000",
+      "averagePrice": 1231,
+      "minimumPrice": 230,
+      "maximumPrice": 2063,
+      "averageStackPrice": 1231,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

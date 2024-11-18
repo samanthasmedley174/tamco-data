@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven gyroscope masterwork",
+    "displayName": "Dwarven Gyroscope, Masterwork",
+    "values": {
+      "commonRange": "16,029 - 35,000",
+      "averagePrice": 27401,
+      "minimumPrice": 10000,
+      "maximumPrice": 35000,
+      "averageStackPrice": 27401,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

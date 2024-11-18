@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of the storm knight",
+    "displayName": "Dagger of the Storm Knight",
+    "values": {
+      "commonRange": "150 - 250",
+      "averagePrice": 300,
+      "minimumPrice": 150,
+      "maximumPrice": 650,
+      "averageStackPrice": 300,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

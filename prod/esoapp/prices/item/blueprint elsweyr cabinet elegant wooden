@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr cabinet elegant wooden",
+    "displayName": "Blueprint: Elsweyr Cabinet, Elegant Wooden",
+    "values": {
+      "commonRange": "1,200 - 4,000",
+      "averagePrice": 2293,
+      "minimumPrice": 1137,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2293,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design pie dish display",
+    "displayName": "Design: Pie Dish, Display",
+    "values": {
+      "commonRange": "4,000 - 10,000",
+      "averagePrice": 5446,
+      "minimumPrice": 4000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5446,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

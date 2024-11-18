@@ -1,0 +1,18 @@
+[
+  {
+    "name": "camonna tong lightning staff",
+    "displayName": "Camonna Tong Lightning Staff",
+    "values": {
+      "commonRange": "1,000 - 1,500",
+      "averagePrice": 1252,
+      "minimumPrice": 434,
+      "maximumPrice": 1500,
+      "averageStackPrice": 1252,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

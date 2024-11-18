@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clever alchemist greaves",
+    "displayName": "Clever Alchemist Greaves",
+    "values": {
+      "commonRange": "20,000 - 78,189",
+      "averagePrice": 45419,
+      "minimumPrice": 1000,
+      "maximumPrice": 80000,
+      "averageStackPrice": 45419,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

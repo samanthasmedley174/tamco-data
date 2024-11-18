@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of the shield breaker",
+    "displayName": "Belt of the Shield Breaker",
+    "values": {
+      "commonRange": "3,000 - 3,090",
+      "averagePrice": 3074,
+      "minimumPrice": 2190,
+      "maximumPrice": 3999,
+      "averageStackPrice": 3074,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

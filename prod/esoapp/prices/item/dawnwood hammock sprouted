@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood hammock sprouted",
+    "displayName": "Dawnwood Hammock, Sprouted",
+    "values": {
+      "commonRange": "5,000 - 12,681",
+      "averagePrice": 8807,
+      "minimumPrice": 3200,
+      "maximumPrice": 15500,
+      "averageStackPrice": 8807,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blue crystal spire large",
+    "displayName": "Blue Crystal Spire, Large",
+    "values": {
+      "commonRange": "24,000 - 25,183",
+      "averagePrice": 24688,
+      "minimumPrice": 23850,
+      "maximumPrice": 27000,
+      "averageStackPrice": 24688,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

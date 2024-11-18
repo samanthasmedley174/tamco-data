@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian bench rustic",
+    "displayName": "Colovian Bench, Rustic",
+    "values": {
+      "commonRange": "2,000 - 7,960",
+      "averagePrice": 4194,
+      "minimumPrice": 1200,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4194,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

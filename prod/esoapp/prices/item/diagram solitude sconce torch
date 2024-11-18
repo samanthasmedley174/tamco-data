@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram solitude sconce torch",
+    "displayName": "Diagram: Solitude Sconce, Torch",
+    "values": {
+      "commonRange": "2,000 - 13,699",
+      "averagePrice": 10308,
+      "minimumPrice": 1000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10308,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

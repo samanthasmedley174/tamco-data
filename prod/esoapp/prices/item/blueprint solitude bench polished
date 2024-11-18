@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude bench polished",
+    "displayName": "Blueprint: Solitude Bench, Polished",
+    "values": {
+      "commonRange": "8,000 - 9,681",
+      "averagePrice": 8850,
+      "minimumPrice": 7500,
+      "maximumPrice": 9681,
+      "averageStackPrice": 8850,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of bahrahas curse",
+    "displayName": "Belt of Bahraha's Curse",
+    "values": {
+      "commonRange": "190 - 3,000",
+      "averagePrice": 1396,
+      "minimumPrice": 85,
+      "maximumPrice": 4090,
+      "averageStackPrice": 1396,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

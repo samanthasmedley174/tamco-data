@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of the valiant",
+    "displayName": "Dagger of the Valiant",
+    "values": {
+      "commonRange": "1,153 - 4,995",
+      "averagePrice": 3555,
+      "minimumPrice": 1150,
+      "maximumPrice": 7881,
+      "averageStackPrice": 3555,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

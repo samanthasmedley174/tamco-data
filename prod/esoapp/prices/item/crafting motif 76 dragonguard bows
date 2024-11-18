@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 76 dragonguard bows",
+    "displayName": "Crafting Motif 76: Dragonguard Bows",
+    "values": {
+      "commonRange": "3,744 - 5,048",
+      "averagePrice": 4286,
+      "minimumPrice": 3000,
+      "maximumPrice": 5178,
+      "averageStackPrice": 4286,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

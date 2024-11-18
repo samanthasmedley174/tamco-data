@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven chandelier framework",
+    "displayName": "Dwarven Chandelier, Framework",
+    "values": {
+      "commonRange": "1,150 - 2,790",
+      "averagePrice": 2247,
+      "minimumPrice": 700,
+      "maximumPrice": 3450,
+      "averageStackPrice": 2247,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

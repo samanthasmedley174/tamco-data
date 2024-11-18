@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bog raiders helm",
+    "displayName": "Bog Raider's Helm",
+    "values": {
+      "commonRange": "379 - 5,000",
+      "averagePrice": 1864,
+      "minimumPrice": 144,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1864,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

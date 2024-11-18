@@ -1,0 +1,18 @@
+[
+  {
+    "name": "champion of the hist inferno staff",
+    "displayName": "Champion of the Hist Inferno Staff",
+    "values": {
+      "commonRange": "334 - 3,100",
+      "averagePrice": 2280,
+      "minimumPrice": 246,
+      "maximumPrice": 6000,
+      "averageStackPrice": 2280,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

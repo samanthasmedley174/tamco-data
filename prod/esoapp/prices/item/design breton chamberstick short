@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design breton chamberstick short",
+    "displayName": "Design: Breton Chamberstick, Short",
+    "values": {
+      "commonRange": "230 - 1,995",
+      "averagePrice": 957,
+      "minimumPrice": 100,
+      "maximumPrice": 2000,
+      "averageStackPrice": 957,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

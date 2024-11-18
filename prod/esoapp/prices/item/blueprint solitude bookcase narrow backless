@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude bookcase narrow backless",
+    "displayName": "Blueprint: Solitude Bookcase, Narrow Backless",
+    "values": {
+      "commonRange": "5,000 - 10,349",
+      "averagePrice": 8914,
+      "minimumPrice": 4000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 8914,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin bookcase grand filled",
+    "displayName": "Blueprint: Leyawiin Bookcase, Grand Filled",
+    "values": {
+      "commonRange": "42,000 - 100,000",
+      "averagePrice": 62530,
+      "minimumPrice": 39999,
+      "maximumPrice": 108700,
+      "averageStackPrice": 62530,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

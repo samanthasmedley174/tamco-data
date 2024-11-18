@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 61 psijic belts",
+    "displayName": "Crafting Motif 61: Psijic Belts",
+    "values": {
+      "commonRange": "4,000 - 6,190",
+      "averagePrice": 6033,
+      "minimumPrice": 2500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 6033,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

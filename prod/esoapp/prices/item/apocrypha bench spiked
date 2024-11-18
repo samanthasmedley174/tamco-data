@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha bench spiked",
+    "displayName": "Apocrypha Bench, Spiked",
+    "values": {
+      "commonRange": "3,297 - 7,299",
+      "averagePrice": 4480,
+      "minimumPrice": 2060,
+      "maximumPrice": 7960,
+      "averageStackPrice": 4480,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

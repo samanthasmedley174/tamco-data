@@ -1,0 +1,18 @@
+[
+  {
+    "name": "draoife shield",
+    "displayName": "Draoife Shield",
+    "values": {
+      "commonRange": "1,000 - 3,144",
+      "averagePrice": 2409,
+      "minimumPrice": 953,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2409,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude pew ornate long",
+    "displayName": "Blueprint: Solitude Pew, Ornate Long",
+    "values": {
+      "commonRange": "28,000 - 30,956",
+      "averagePrice": 30011,
+      "minimumPrice": 28000,
+      "maximumPrice": 32000,
+      "averageStackPrice": 30011,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

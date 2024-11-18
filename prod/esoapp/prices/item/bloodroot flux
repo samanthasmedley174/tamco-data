@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bloodroot flux",
+    "displayName": "Bloodroot Flux",
+    "values": {
+      "commonRange": "113 - 330",
+      "averagePrice": 294,
+      "minimumPrice": 3,
+      "maximumPrice": 1003,
+      "averageStackPrice": 1470,
+      "commonStackSize": 5,
+      "salesRecorded": 10
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Bloodroot_Flux.png"
+  }
+]

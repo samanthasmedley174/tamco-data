@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian ginger beer",
+    "displayName": "Colovian Ginger Beer",
+    "values": {
+      "commonRange": "15 - 55",
+      "averagePrice": 65,
+      "minimumPrice": 5,
+      "maximumPrice": 204,
+      "averageStackPrice": 1625,
+      "commonStackSize": 25,
+      "salesRecorded": 5
+    },
+    "type": "Food & Drinks",
+    "date": "09/07/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/colovian_ginger_beer.png"
+  }
+]

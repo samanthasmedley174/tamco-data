@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design fargrave tomato bunch",
+    "displayName": "Design: Fargrave Tomato Bunch",
+    "values": {
+      "commonRange": "1,500 - 9,999",
+      "averagePrice": 4403,
+      "minimumPrice": 1030,
+      "maximumPrice": 9999,
+      "averageStackPrice": 4403,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

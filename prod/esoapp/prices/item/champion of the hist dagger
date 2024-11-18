@@ -1,0 +1,18 @@
+[
+  {
+    "name": "champion of the hist dagger",
+    "displayName": "Champion of the Hist Dagger",
+    "values": {
+      "commonRange": "5,678 - 6,625",
+      "averagePrice": 5814,
+      "minimumPrice": 2000,
+      "maximumPrice": 7250,
+      "averageStackPrice": 5814,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ambritts iceflame",
+    "displayName": "Ambritt's Iceflame",
+    "values": {
+      "commonRange": "150 - 1,000",
+      "averagePrice": 2116,
+      "minimumPrice": 95,
+      "maximumPrice": 10150,
+      "averageStackPrice": 2116,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

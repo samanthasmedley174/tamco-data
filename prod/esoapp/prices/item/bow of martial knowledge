@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of martial knowledge",
+    "displayName": "Bow of Martial Knowledge",
+    "values": {
+      "commonRange": "240 - 910",
+      "averagePrice": 690,
+      "minimumPrice": 234,
+      "maximumPrice": 5500,
+      "averageStackPrice": 690,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

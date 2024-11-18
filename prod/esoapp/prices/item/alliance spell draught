@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alliance spell draught",
+    "displayName": "Alliance Spell Draught",
+    "values": {
+      "commonRange": "71 - 100",
+      "averagePrice": 86,
+      "minimumPrice": 71,
+      "maximumPrice": 100,
+      "averageStackPrice": 17200,
+      "commonStackSize": 200,
+      "salesRecorded": 15
+    },
+    "type": "Potions & Poisons",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Potions_&_Poisons/Alliance_Spell_Draught.png"
+  }
+]

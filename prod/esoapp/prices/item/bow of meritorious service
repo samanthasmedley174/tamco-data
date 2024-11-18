@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of meritorious service",
+    "displayName": "Bow of Meritorious Service",
+    "values": {
+      "commonRange": "4,000 - 7,246",
+      "averagePrice": 5364,
+      "minimumPrice": 1246,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5364,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

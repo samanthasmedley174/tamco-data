@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 55 dreadhorn gloves",
+    "displayName": "Crafting Motif 55: Dreadhorn Gloves",
+    "values": {
+      "commonRange": "2,039 - 8,791",
+      "averagePrice": 5469,
+      "minimumPrice": 2000,
+      "maximumPrice": 13391,
+      "averageStackPrice": 5469,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

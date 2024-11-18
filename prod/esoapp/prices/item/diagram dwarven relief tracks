@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven relief tracks",
+    "displayName": "Diagram: Dwarven Relief, Tracks",
+    "values": {
+      "commonRange": "2,000 - 4,000",
+      "averagePrice": 2980,
+      "minimumPrice": 500,
+      "maximumPrice": 5703,
+      "averageStackPrice": 2980,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

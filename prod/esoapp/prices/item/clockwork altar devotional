@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork altar devotional",
+    "displayName": "Clockwork Altar, Devotional",
+    "values": {
+      "commonRange": "17,995 - 38,047",
+      "averagePrice": 28068,
+      "minimumPrice": 17568,
+      "maximumPrice": 38284,
+      "averageStackPrice": 28068,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

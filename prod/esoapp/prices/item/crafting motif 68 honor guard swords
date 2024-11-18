@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 68 honor guard swords",
+    "displayName": "Crafting Motif 68: Honor Guard Swords",
+    "values": {
+      "commonRange": "5,466 - 17,066",
+      "averagePrice": 12479,
+      "minimumPrice": 5000,
+      "maximumPrice": 26156,
+      "averageStackPrice": 12479,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

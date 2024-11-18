@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude mirror noble full length",
+    "displayName": "Blueprint: Solitude Mirror, Noble Full-Length",
+    "values": {
+      "commonRange": "20,000 - 33,039",
+      "averagePrice": 27138,
+      "minimumPrice": 19000,
+      "maximumPrice": 45000,
+      "averageStackPrice": 27138,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

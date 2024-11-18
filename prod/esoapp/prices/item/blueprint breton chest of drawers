@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint breton chest of drawers",
+    "displayName": "Blueprint: Breton Chest of Drawers",
+    "values": {
+      "commonRange": "750 - 2,000",
+      "averagePrice": 1592,
+      "minimumPrice": 500,
+      "maximumPrice": 6030,
+      "averageStackPrice": 1592,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

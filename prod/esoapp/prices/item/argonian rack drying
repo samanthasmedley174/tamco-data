@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian rack drying",
+    "displayName": "Argonian Rack, Drying",
+    "values": {
+      "commonRange": "150 - 22,159",
+      "averagePrice": 7599,
+      "minimumPrice": 150,
+      "maximumPrice": 22159,
+      "averageStackPrice": 7599,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/06/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

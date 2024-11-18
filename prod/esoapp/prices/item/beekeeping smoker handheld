@@ -1,0 +1,18 @@
+[
+  {
+    "name": "beekeeping smoker handheld",
+    "displayName": "Beekeeping Smoker, Handheld",
+    "values": {
+      "commonRange": "12,150 - 22,000",
+      "averagePrice": 17858,
+      "minimumPrice": 12000,
+      "maximumPrice": 22580,
+      "averageStackPrice": 17858,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

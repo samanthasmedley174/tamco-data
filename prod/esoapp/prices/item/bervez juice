@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bervez juice",
+    "displayName": "Bervez Juice",
+    "values": {
+      "commonRange": "36 - 300",
+      "averagePrice": 106,
+      "minimumPrice": 3,
+      "maximumPrice": 1336,
+      "averageStackPrice": 21200,
+      "commonStackSize": 200,
+      "salesRecorded": 91
+    },
+    "type": "Provisioning Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "chicken breast",
+    "displayName": "Chicken Breast",
+    "values": {
+      "commonRange": "3 - 31",
+      "averagePrice": 15,
+      "minimumPrice": 1,
+      "maximumPrice": 100,
+      "averageStackPrice": 1500,
+      "commonStackSize": 100,
+      "salesRecorded": 22
+    },
+    "type": "Food & Drinks",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/chicken_breast.png"
+  }
+]

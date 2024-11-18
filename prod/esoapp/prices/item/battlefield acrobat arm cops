@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battlefield acrobat arm cops",
+    "displayName": "Battlefield Acrobat Arm Cops",
+    "values": {
+      "commonRange": "550 - 4,567",
+      "averagePrice": 2288,
+      "minimumPrice": 300,
+      "maximumPrice": 4567,
+      "averageStackPrice": 2288,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

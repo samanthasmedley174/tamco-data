@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ancient orcish sarcophagus peaked",
+    "displayName": "Ancient Orcish Sarcophagus, Peaked",
+    "values": {
+      "commonRange": "750 - 11,106",
+      "averagePrice": 6281,
+      "minimumPrice": 515,
+      "maximumPrice": 11106,
+      "averageStackPrice": 6281,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

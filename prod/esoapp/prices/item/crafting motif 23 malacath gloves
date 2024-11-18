@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 23 malacath gloves",
+    "displayName": "Crafting Motif 23: Malacath Gloves",
+    "values": {
+      "commonRange": "8,800 - 29,054",
+      "averagePrice": 15565,
+      "minimumPrice": 8000,
+      "maximumPrice": 30039,
+      "averageStackPrice": 15565,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

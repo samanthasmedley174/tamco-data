@@ -1,0 +1,18 @@
+[
+  {
+    "name": "adamant lurker mace",
+    "displayName": "Adamant Lurker Mace",
+    "values": {
+      "commonRange": "400 - 444",
+      "averagePrice": 546,
+      "minimumPrice": 400,
+      "maximumPrice": 1085,
+      "averageStackPrice": 546,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

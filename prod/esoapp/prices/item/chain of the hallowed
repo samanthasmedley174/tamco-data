@@ -1,0 +1,18 @@
+[
+  {
+    "name": "chain of the hallowed",
+    "displayName": "Chain of the Hallowed",
+    "values": {
+      "commonRange": "141 - 141",
+      "averagePrice": 141,
+      "minimumPrice": 141,
+      "maximumPrice": 141,
+      "averageStackPrice": 141,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

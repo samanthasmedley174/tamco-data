@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of ancient grace",
+    "displayName": "Battle Axe of Ancient Grace",
+    "values": {
+      "commonRange": "750 - 6,000",
+      "averagePrice": 3787,
+      "minimumPrice": 246,
+      "maximumPrice": 10000,
+      "averageStackPrice": 3787,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

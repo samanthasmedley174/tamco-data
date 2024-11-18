@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the potentates",
+    "displayName": "Battle Axe of the Potentates",
+    "values": {
+      "commonRange": "999 - 10,246",
+      "averagePrice": 6265,
+      "minimumPrice": 334,
+      "maximumPrice": 10246,
+      "averageStackPrice": 6265,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

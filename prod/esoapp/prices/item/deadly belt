@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadly belt",
+    "displayName": "Deadly Belt",
+    "values": {
+      "commonRange": "3,000 - 110,000",
+      "averagePrice": 24115,
+      "minimumPrice": 360,
+      "maximumPrice": 120000,
+      "averageStackPrice": 24115,
+      "commonStackSize": 1,
+      "salesRecorded": 138
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

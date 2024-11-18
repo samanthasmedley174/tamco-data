@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork illuminator personal desk",
+    "displayName": "Clockwork Illuminator, Personal Desk",
+    "values": {
+      "commonRange": "2,800 - 12,000",
+      "averagePrice": 7604,
+      "minimumPrice": 700,
+      "maximumPrice": 14000,
+      "averageStackPrice": 7604,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

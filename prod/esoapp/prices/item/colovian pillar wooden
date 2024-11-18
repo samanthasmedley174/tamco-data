@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian pillar wooden",
+    "displayName": "Colovian Pillar, Wooden",
+    "values": {
+      "commonRange": "1,150 - 7,500",
+      "averagePrice": 4880,
+      "minimumPrice": 1000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 9760,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

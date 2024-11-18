@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven candlestick orrery",
+    "displayName": "Dwarven Candlestick, Orrery",
+    "values": {
+      "commonRange": "2,000 - 3,000",
+      "averagePrice": 2871,
+      "minimumPrice": 1900,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2871,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

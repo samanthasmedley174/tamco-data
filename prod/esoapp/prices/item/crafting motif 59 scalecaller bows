@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 59 scalecaller bows",
+    "displayName": "Crafting Motif 59: Scalecaller Bows",
+    "values": {
+      "commonRange": "6,000 - 9,291",
+      "averagePrice": 9805,
+      "minimumPrice": 5000,
+      "maximumPrice": 34500,
+      "averageStackPrice": 9805,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

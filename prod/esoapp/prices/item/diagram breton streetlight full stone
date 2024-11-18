@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram breton streetlight full stone",
+    "displayName": "Diagram: Breton Streetlight, Full Stone",
+    "values": {
+      "commonRange": "10,597 - 21,039",
+      "averagePrice": 14056,
+      "minimumPrice": 5000,
+      "maximumPrice": 22000,
+      "averageStackPrice": 14056,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

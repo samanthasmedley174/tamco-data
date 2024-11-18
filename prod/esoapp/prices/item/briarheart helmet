@@ -1,0 +1,18 @@
+[
+  {
+    "name": "briarheart helmet",
+    "displayName": "Briarheart Helmet",
+    "values": {
+      "commonRange": "150 - 60,000",
+      "averagePrice": 9261,
+      "minimumPrice": 144,
+      "maximumPrice": 100000,
+      "averageStackPrice": 9261,
+      "commonStackSize": 1,
+      "salesRecorded": 89
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

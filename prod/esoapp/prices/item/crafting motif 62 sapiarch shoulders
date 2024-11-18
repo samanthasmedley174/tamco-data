@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 62 sapiarch shoulders",
+    "displayName": "Crafting Motif 62: Sapiarch Shoulders",
+    "values": {
+      "commonRange": "1,554 - 4,039",
+      "averagePrice": 2764,
+      "minimumPrice": 500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2764,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

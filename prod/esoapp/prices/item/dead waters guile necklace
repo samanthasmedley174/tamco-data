@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dead waters guile necklace",
+    "displayName": "Dead-Water's Guile Necklace",
+    "values": {
+      "commonRange": "700 - 5,153",
+      "averagePrice": 2260,
+      "minimumPrice": 610,
+      "maximumPrice": 7000,
+      "averageStackPrice": 2260,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

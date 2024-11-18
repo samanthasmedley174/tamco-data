@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 33 thieves guild belts",
+    "displayName": "Crafting Motif 33: Thieves Guild Belts",
+    "values": {
+      "commonRange": "7,000 - 10,000",
+      "averagePrice": 8241,
+      "minimumPrice": 1100,
+      "maximumPrice": 10000,
+      "averageStackPrice": 8241,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

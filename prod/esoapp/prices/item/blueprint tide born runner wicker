@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint tide born runner wicker",
+    "displayName": "Blueprint: Tide-Born Runner, Wicker",
+    "values": {
+      "commonRange": "16,000 - 23,393",
+      "averagePrice": 21124,
+      "minimumPrice": 14000,
+      "maximumPrice": 26000,
+      "averageStackPrice": 21124,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

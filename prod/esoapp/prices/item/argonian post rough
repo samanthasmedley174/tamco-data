@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian post rough",
+    "displayName": "Argonian Post, Rough",
+    "values": {
+      "commonRange": "151 - 560",
+      "averagePrice": 331,
+      "minimumPrice": 100,
+      "maximumPrice": 960,
+      "averageStackPrice": 331,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf candle claw base",
+    "displayName": "Dark Elf Candle, Claw Base",
+    "values": {
+      "commonRange": "300 - 1,028",
+      "averagePrice": 742,
+      "minimumPrice": 260,
+      "maximumPrice": 1085,
+      "averageStackPrice": 742,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

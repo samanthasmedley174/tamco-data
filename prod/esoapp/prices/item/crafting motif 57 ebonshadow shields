@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 57 ebonshadow shields",
+    "displayName": "Crafting Motif 57: Ebonshadow Shields",
+    "values": {
+      "commonRange": "2,800 - 8,039",
+      "averagePrice": 4044,
+      "minimumPrice": 2135,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4044,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

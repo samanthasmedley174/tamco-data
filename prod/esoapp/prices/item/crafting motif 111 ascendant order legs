@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 111 ascendant order legs",
+    "displayName": "Crafting Motif 111: Ascendant Order Legs",
+    "values": {
+      "commonRange": "18,765 - 25,472",
+      "averagePrice": 22583,
+      "minimumPrice": 17197,
+      "maximumPrice": 30000,
+      "averageStackPrice": 22583,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

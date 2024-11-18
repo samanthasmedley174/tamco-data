@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude trough empty",
+    "displayName": "Blueprint: Solitude Trough, Empty",
+    "values": {
+      "commonRange": "2,556 - 5,000",
+      "averagePrice": 4653,
+      "minimumPrice": 2000,
+      "maximumPrice": 13500,
+      "averageStackPrice": 4653,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

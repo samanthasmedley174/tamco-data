@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 97 wayward guardian axes",
+    "displayName": "Crafting Motif 97: Wayward Guardian Axes",
+    "values": {
+      "commonRange": "12,039 - 19,828",
+      "averagePrice": 15691,
+      "minimumPrice": 5539,
+      "maximumPrice": 20000,
+      "averageStackPrice": 15691,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

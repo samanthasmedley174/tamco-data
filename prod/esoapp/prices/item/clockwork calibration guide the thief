@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork calibration guide the thief",
+    "displayName": "Clockwork Calibration Guide, The Thief",
+    "values": {
+      "commonRange": "42,000 - 75,000",
+      "averagePrice": 55431,
+      "minimumPrice": 36100,
+      "maximumPrice": 82520,
+      "averageStackPrice": 55431,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

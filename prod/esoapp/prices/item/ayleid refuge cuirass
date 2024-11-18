@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid refuge cuirass",
+    "displayName": "Ayleid Refuge Cuirass",
+    "values": {
+      "commonRange": "501 - 5,703",
+      "averagePrice": 2923,
+      "minimumPrice": 450,
+      "maximumPrice": 5703,
+      "averageStackPrice": 2923,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 31 skinchanger axes",
+    "displayName": "Crafting Motif 31: Skinchanger Axes",
+    "values": {
+      "commonRange": "750 - 5,356",
+      "averagePrice": 3882,
+      "minimumPrice": 200,
+      "maximumPrice": 5356,
+      "averageStackPrice": 3882,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

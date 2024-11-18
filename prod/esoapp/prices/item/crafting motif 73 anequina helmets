@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 73 anequina helmets",
+    "displayName": "Crafting Motif 73: Anequina Helmets",
+    "values": {
+      "commonRange": "4,500 - 7,500",
+      "averagePrice": 5712,
+      "minimumPrice": 4039,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5712,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

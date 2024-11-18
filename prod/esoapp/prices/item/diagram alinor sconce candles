@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram alinor sconce candles",
+    "displayName": "Diagram: Alinor Sconce, Candles",
+    "values": {
+      "commonRange": "628 - 3,547",
+      "averagePrice": 2566,
+      "minimumPrice": 300,
+      "maximumPrice": 5261,
+      "averageStackPrice": 2566,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

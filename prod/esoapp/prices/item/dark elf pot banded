@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf pot banded",
+    "displayName": "Dark Elf Pot, Banded",
+    "values": {
+      "commonRange": "550 - 2,739",
+      "averagePrice": 2309,
+      "minimumPrice": 450,
+      "maximumPrice": 7700,
+      "averageStackPrice": 2309,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

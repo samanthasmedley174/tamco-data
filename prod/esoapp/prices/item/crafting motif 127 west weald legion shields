@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 127 west weald legion shields",
+    "displayName": "Crafting Motif 127: West Weald Legion Shields",
+    "values": {
+      "commonRange": "5,939 - 18,713",
+      "averagePrice": 10656,
+      "minimumPrice": 5520,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10656,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

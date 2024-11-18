@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha light diffuser stalk",
+    "displayName": "Apocrypha Light Diffuser, Stalk",
+    "values": {
+      "commonRange": "20,884 - 30,675",
+      "averagePrice": 26995,
+      "minimumPrice": 19000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 26995,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

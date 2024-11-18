@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 135 black soul gem legs",
+    "displayName": "Crafting Motif 135: Black Soul Gem Legs",
+    "values": {
+      "commonRange": "60,000 - 80,000",
+      "averagePrice": 68681,
+      "minimumPrice": 50000,
+      "maximumPrice": 80210,
+      "averageStackPrice": 68681,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

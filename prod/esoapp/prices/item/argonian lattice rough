@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian lattice rough",
+    "displayName": "Argonian Lattice, Rough",
+    "values": {
+      "commonRange": "349 - 1,500",
+      "averagePrice": 926,
+      "minimumPrice": 310,
+      "maximumPrice": 2150,
+      "averageStackPrice": 926,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

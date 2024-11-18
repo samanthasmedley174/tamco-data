@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bloodthorn ring",
+    "displayName": "Bloodthorn Ring",
+    "values": {
+      "commonRange": "144 - 984",
+      "averagePrice": 600,
+      "minimumPrice": 144,
+      "maximumPrice": 2173,
+      "averageStackPrice": 600,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

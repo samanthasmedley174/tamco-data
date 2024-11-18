@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram clockwork coffer robust",
+    "displayName": "Diagram: Clockwork Coffer, Robust",
+    "values": {
+      "commonRange": "1,000 - 3,584",
+      "averagePrice": 2838,
+      "minimumPrice": 1000,
+      "maximumPrice": 7847,
+      "averageStackPrice": 2838,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

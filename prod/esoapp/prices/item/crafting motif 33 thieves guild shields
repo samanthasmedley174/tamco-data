@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 33 thieves guild shields",
+    "displayName": "Crafting Motif 33: Thieves Guild Shields",
+    "values": {
+      "commonRange": "6,000 - 10,000",
+      "averagePrice": 7776,
+      "minimumPrice": 1100,
+      "maximumPrice": 10000,
+      "averageStackPrice": 7776,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bright throats boast greatsword",
+    "displayName": "Bright-Throat's Boast Greatsword",
+    "values": {
+      "commonRange": "7,999 - 12,620",
+      "averagePrice": 11439,
+      "minimumPrice": 5240,
+      "maximumPrice": 20000,
+      "averageStackPrice": 11439,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha plant ink grass",
+    "displayName": "Apocrypha Plant, Ink-Grass",
+    "values": {
+      "commonRange": "1,000 - 1,162",
+      "averagePrice": 1074,
+      "minimumPrice": 725,
+      "maximumPrice": 1165,
+      "averageStackPrice": 1074,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

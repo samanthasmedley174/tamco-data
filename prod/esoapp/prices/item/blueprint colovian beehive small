@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian beehive small",
+    "displayName": "Blueprint: Colovian Beehive, Small",
+    "values": {
+      "commonRange": "5,788 - 30,000",
+      "averagePrice": 23059,
+      "minimumPrice": 1000,
+      "maximumPrice": 34990,
+      "averageStackPrice": 23059,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 133 coldharbour dominator helmets",
+    "displayName": "Crafting Motif 133: Coldharbour Dominator Helmets",
+    "values": {
+      "commonRange": "100,000 - 131,047",
+      "averagePrice": 113838,
+      "minimumPrice": 14039,
+      "maximumPrice": 150000,
+      "averageStackPrice": 113838,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

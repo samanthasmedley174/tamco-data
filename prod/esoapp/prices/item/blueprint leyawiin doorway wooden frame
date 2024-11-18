@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin doorway wooden frame",
+    "displayName": "Blueprint: Leyawiin Doorway, Wooden Frame",
+    "values": {
+      "commonRange": "15,500 - 23,000",
+      "averagePrice": 18480,
+      "minimumPrice": 500,
+      "maximumPrice": 38000,
+      "averageStackPrice": 18480,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

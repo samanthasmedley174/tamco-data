@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 22 trinimac style",
+    "displayName": "Crafting Motif 22: Trinimac Style",
+    "values": {
+      "commonRange": "820,045 - 1,500,000",
+      "averagePrice": 1105011,
+      "minimumPrice": 820045,
+      "maximumPrice": 1500000,
+      "averageStackPrice": 1105011,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Motifs",
+    "date": "01/11/2022",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

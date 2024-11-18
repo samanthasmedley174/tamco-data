@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boulder swampy growth",
+    "displayName": "Boulder, Swampy Growth",
+    "values": {
+      "commonRange": "235 - 1,500",
+      "averagePrice": 1213,
+      "minimumPrice": 200,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1213,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

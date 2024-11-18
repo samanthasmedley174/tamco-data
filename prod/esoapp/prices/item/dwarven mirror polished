@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven mirror polished",
+    "displayName": "Dwarven Mirror, Polished",
+    "values": {
+      "commonRange": "5,200 - 12,000",
+      "averagePrice": 8906,
+      "minimumPrice": 3000,
+      "maximumPrice": 12629,
+      "averageStackPrice": 8906,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "artificers coat of the war maiden",
+    "displayName": "Artificer's Coat of the War Maiden",
+    "values": {
+      "commonRange": "171 - 2,171",
+      "averagePrice": 1111,
+      "minimumPrice": 171,
+      "maximumPrice": 3171,
+      "averageStackPrice": 1111,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

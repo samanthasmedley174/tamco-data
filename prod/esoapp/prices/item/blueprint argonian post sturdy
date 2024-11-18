@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint argonian post sturdy",
+    "displayName": "Blueprint: Argonian Post, Sturdy",
+    "values": {
+      "commonRange": "53 - 225",
+      "averagePrice": 144,
+      "minimumPrice": 27,
+      "maximumPrice": 527,
+      "averageStackPrice": 144,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

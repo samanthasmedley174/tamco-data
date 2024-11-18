@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 71 coldsnap daggers",
+    "displayName": "Crafting Motif 71: Coldsnap Daggers",
+    "values": {
+      "commonRange": "54,000 - 72,493",
+      "averagePrice": 61517,
+      "minimumPrice": 20000,
+      "maximumPrice": 75000,
+      "averageStackPrice": 61517,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

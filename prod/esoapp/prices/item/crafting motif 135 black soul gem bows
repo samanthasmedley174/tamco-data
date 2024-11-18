@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 135 black soul gem bows",
+    "displayName": "Crafting Motif 135: Black Soul Gem Bows",
+    "values": {
+      "commonRange": "65,000 - 83,000",
+      "averagePrice": 72900,
+      "minimumPrice": 60000,
+      "maximumPrice": 83168,
+      "averageStackPrice": 72900,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

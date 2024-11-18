@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 113 steadfast society gloves",
+    "displayName": "Crafting Motif 113: Steadfast Society Gloves",
+    "values": {
+      "commonRange": "5,050 - 8,000",
+      "averagePrice": 7300,
+      "minimumPrice": 5000,
+      "maximumPrice": 15039,
+      "averageStackPrice": 7300,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

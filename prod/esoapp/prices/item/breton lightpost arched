@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton lightpost arched",
+    "displayName": "Breton Lightpost, Arched",
+    "values": {
+      "commonRange": "250 - 550",
+      "averagePrice": 455,
+      "minimumPrice": 200,
+      "maximumPrice": 1000,
+      "averageStackPrice": 455,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

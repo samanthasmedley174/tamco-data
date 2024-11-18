@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dragon scute",
+    "displayName": "Dragon Scute",
+    "values": {
+      "commonRange": "20 - 120",
+      "averagePrice": 83,
+      "minimumPrice": 3,
+      "maximumPrice": 120,
+      "averageStackPrice": 83,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Materials",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Dragon_Scute.png"
+  }
+]

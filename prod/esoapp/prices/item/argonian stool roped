@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian stool roped",
+    "displayName": "Argonian Stool, Roped",
+    "values": {
+      "commonRange": "60 - 1,000",
+      "averagePrice": 581,
+      "minimumPrice": 60,
+      "maximumPrice": 1060,
+      "averageStackPrice": 581,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/14/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

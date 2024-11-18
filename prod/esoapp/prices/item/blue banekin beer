@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blue banekin beer",
+    "displayName": "Blue Banekin Beer",
+    "values": {
+      "commonRange": "15 - 15",
+      "averagePrice": 15,
+      "minimumPrice": 15,
+      "maximumPrice": 15,
+      "averageStackPrice": 1200,
+      "commonStackSize": 80,
+      "salesRecorded": 1
+    },
+    "type": "Food & Drinks",
+    "date": "12/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/blue_banekin_beer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian chair rough",
+    "displayName": "Argonian Chair, Rough",
+    "values": {
+      "commonRange": "100 - 560",
+      "averagePrice": 419,
+      "minimumPrice": 60,
+      "maximumPrice": 1060,
+      "averageStackPrice": 419,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "09/13/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

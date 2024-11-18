@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint necrom ramp wood",
+    "displayName": "Blueprint: Necrom Ramp, Wood",
+    "values": {
+      "commonRange": "1,000 - 2,000",
+      "averagePrice": 1682,
+      "minimumPrice": 1000,
+      "maximumPrice": 2022,
+      "averageStackPrice": 1682,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

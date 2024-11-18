@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dres candles meditation",
+    "displayName": "Dres Candles, Meditation",
+    "values": {
+      "commonRange": "1,000 - 2,010",
+      "averagePrice": 1605,
+      "minimumPrice": 1000,
+      "maximumPrice": 2304,
+      "averageStackPrice": 1605,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

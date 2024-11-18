@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 86 sea giant maces",
+    "displayName": "Crafting Motif 86: Sea Giant Maces",
+    "values": {
+      "commonRange": "5,000 - 6,727",
+      "averagePrice": 6022,
+      "minimumPrice": 5000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6022,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

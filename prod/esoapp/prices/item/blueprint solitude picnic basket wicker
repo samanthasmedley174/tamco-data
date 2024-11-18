@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude picnic basket wicker",
+    "displayName": "Blueprint: Solitude Picnic Basket, Wicker",
+    "values": {
+      "commonRange": "5,000 - 15,000",
+      "averagePrice": 7445,
+      "minimumPrice": 4250,
+      "maximumPrice": 15000,
+      "averageStackPrice": 7445,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

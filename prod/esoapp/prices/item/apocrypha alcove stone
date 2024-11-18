@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha alcove stone",
+    "displayName": "Apocrypha Alcove, Stone",
+    "values": {
+      "commonRange": "10,000 - 29,900",
+      "averagePrice": 22726,
+      "minimumPrice": 2100,
+      "maximumPrice": 29900,
+      "averageStackPrice": 22726,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 22 trinimac daggers",
+    "displayName": "Crafting Motif 22: Trinimac Daggers",
+    "values": {
+      "commonRange": "27,984 - 31,322",
+      "averagePrice": 34170,
+      "minimumPrice": 15000,
+      "maximumPrice": 90000,
+      "averageStackPrice": 34170,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

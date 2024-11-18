@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ashlander platter ceramic",
+    "displayName": "Ashlander Platter, Ceramic",
+    "values": {
+      "commonRange": "2,000 - 2,000",
+      "averagePrice": 2238,
+      "minimumPrice": 1800,
+      "maximumPrice": 3150,
+      "averageStackPrice": 2238,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "11/01/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint paintbrush angled",
+    "displayName": "Blueprint: Paintbrush, Angled",
+    "values": {
+      "commonRange": "45,000 - 90,000",
+      "averagePrice": 66185,
+      "minimumPrice": 45000,
+      "maximumPrice": 92400,
+      "averageStackPrice": 66185,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

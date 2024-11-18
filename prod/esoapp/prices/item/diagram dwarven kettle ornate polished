@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven kettle ornate polished",
+    "displayName": "Diagram: Dwarven Kettle, Ornate Polished",
+    "values": {
+      "commonRange": "80,000 - 220,000",
+      "averagePrice": 135480,
+      "minimumPrice": 75000,
+      "maximumPrice": 224803,
+      "averageStackPrice": 135480,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

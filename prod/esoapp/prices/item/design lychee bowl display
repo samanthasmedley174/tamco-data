@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design lychee bowl display",
+    "displayName": "Design: Lychee Bowl, Display",
+    "values": {
+      "commonRange": "11,000 - 15,575",
+      "averagePrice": 13186,
+      "minimumPrice": 10000,
+      "maximumPrice": 15575,
+      "averageStackPrice": 13186,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

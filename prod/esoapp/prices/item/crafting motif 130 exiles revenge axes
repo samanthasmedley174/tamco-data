@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 130 exiles revenge axes",
+    "displayName": "Crafting Motif 130: Exile's Revenge Axes",
+    "values": {
+      "commonRange": "64,229 - 75,400",
+      "averagePrice": 68027,
+      "minimumPrice": 60000,
+      "maximumPrice": 76000,
+      "averageStackPrice": 68027,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

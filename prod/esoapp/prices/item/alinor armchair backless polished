@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor armchair backless polished",
+    "displayName": "Alinor Armchair, Backless Polished",
+    "values": {
+      "commonRange": "3,150 - 11,000",
+      "averagePrice": 5604,
+      "minimumPrice": 450,
+      "maximumPrice": 11000,
+      "averageStackPrice": 5604,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

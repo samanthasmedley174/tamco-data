@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battalion defender ice staff",
+    "displayName": "Battalion Defender Ice Staff",
+    "values": {
+      "commonRange": "20,000 - 82,685",
+      "averagePrice": 61964,
+      "minimumPrice": 16246,
+      "maximumPrice": 150000,
+      "averageStackPrice": 61964,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

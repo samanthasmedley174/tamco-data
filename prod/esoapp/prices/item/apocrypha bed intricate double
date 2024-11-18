@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha bed intricate double",
+    "displayName": "Apocrypha Bed, Intricate Double",
+    "values": {
+      "commonRange": "12,000 - 20,000",
+      "averagePrice": 17759,
+      "minimumPrice": 11000,
+      "maximumPrice": 20897,
+      "averageStackPrice": 17759,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of the shield breaker",
+    "displayName": "Axe of the Shield Breaker",
+    "values": {
+      "commonRange": "5,555 - 5,555",
+      "averagePrice": 6518,
+      "minimumPrice": 3999,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6518,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

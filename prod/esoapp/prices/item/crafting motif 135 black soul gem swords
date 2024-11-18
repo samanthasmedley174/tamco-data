@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 135 black soul gem swords",
+    "displayName": "Crafting Motif 135: Black Soul Gem Swords",
+    "values": {
+      "commonRange": "50,000 - 70,515",
+      "averagePrice": 63212,
+      "minimumPrice": 40000,
+      "maximumPrice": 75000,
+      "averageStackPrice": 63212,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

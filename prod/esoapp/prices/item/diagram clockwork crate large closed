@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram clockwork crate large closed",
+    "displayName": "Diagram: Clockwork Crate, Large Closed",
+    "values": {
+      "commonRange": "900 - 1,800",
+      "averagePrice": 1339,
+      "minimumPrice": 882,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1339,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

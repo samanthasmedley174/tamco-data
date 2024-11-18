@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude armchair wicker",
+    "displayName": "Blueprint: Solitude Armchair, Wicker",
+    "values": {
+      "commonRange": "5,000 - 8,000",
+      "averagePrice": 6351,
+      "minimumPrice": 3995,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6351,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

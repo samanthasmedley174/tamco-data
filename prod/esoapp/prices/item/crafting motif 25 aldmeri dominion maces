@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 25 aldmeri dominion maces",
+    "displayName": "Crafting Motif 25: Aldmeri Dominion Maces",
+    "values": {
+      "commonRange": "2,500 - 4,500",
+      "averagePrice": 3247,
+      "minimumPrice": 1800,
+      "maximumPrice": 5000,
+      "averageStackPrice": 3247,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 45 mazzatun axes",
+    "displayName": "Crafting Motif 45: Mazzatun Axes",
+    "values": {
+      "commonRange": "7,500 - 18,472",
+      "averagePrice": 15399,
+      "minimumPrice": 7000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 15399,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 124 the recollection swords",
+    "displayName": "Crafting Motif 124: The Recollection Swords",
+    "values": {
+      "commonRange": "40,000 - 50,000",
+      "averagePrice": 44202,
+      "minimumPrice": 40000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 44202,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

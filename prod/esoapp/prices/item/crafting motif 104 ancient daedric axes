@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 104 ancient daedric axes",
+    "displayName": "Crafting Motif 104: Ancient Daedric Axes",
+    "values": {
+      "commonRange": "12,000 - 50,000",
+      "averagePrice": 34653,
+      "minimumPrice": 10000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 34653,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

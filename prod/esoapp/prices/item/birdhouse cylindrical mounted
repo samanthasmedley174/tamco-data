@@ -1,0 +1,18 @@
+[
+  {
+    "name": "birdhouse cylindrical mounted",
+    "displayName": "Birdhouse, Cylindrical Mounted",
+    "values": {
+      "commonRange": "7,700 - 12,000",
+      "averagePrice": 10901,
+      "minimumPrice": 5003,
+      "maximumPrice": 25000,
+      "averageStackPrice": 10901,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "acai dry mazte",
+    "displayName": "Acai Dry Mazte",
+    "values": {
+      "commonRange": "6 - 12",
+      "averagePrice": 17,
+      "minimumPrice": 5,
+      "maximumPrice": 60,
+      "averageStackPrice": 1700,
+      "commonStackSize": 100,
+      "salesRecorded": 6
+    },
+    "type": "Food & Drinks",
+    "date": "01/19/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/acai_dry_mazte.png"
+  }
+]

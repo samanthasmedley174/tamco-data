@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven pew refined",
+    "displayName": "Diagram: Dwarven Pew, Refined",
+    "values": {
+      "commonRange": "999,999 - 1,850,000",
+      "averagePrice": 1282821,
+      "minimumPrice": 1000,
+      "maximumPrice": 2000000,
+      "averageStackPrice": 1282821,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

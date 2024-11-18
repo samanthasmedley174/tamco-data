@@ -1,0 +1,18 @@
+[
+  {
+    "name": "death dancer bracers",
+    "displayName": "Death-Dancer Bracers",
+    "values": {
+      "commonRange": "100 - 3,090",
+      "averagePrice": 1343,
+      "minimumPrice": 87,
+      "maximumPrice": 20000,
+      "averageStackPrice": 1343,
+      "commonStackSize": 1,
+      "salesRecorded": 66
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clean pelt",
+    "displayName": "Clean Pelt",
+    "values": {
+      "commonRange": "14 - 30",
+      "averagePrice": 20,
+      "minimumPrice": 10,
+      "maximumPrice": 48,
+      "averageStackPrice": 4000,
+      "commonStackSize": 200,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

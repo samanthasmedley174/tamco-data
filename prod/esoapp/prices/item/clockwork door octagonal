@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork door octagonal",
+    "displayName": "Clockwork Door, Octagonal",
+    "values": {
+      "commonRange": "34,475 - 45,000",
+      "averagePrice": 39275,
+      "minimumPrice": 34475,
+      "maximumPrice": 52000,
+      "averageStackPrice": 39275,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

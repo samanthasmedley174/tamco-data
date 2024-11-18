@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design dres bowl empty",
+    "displayName": "Design: Dres Bowl, Empty",
+    "values": {
+      "commonRange": "2,000 - 5,000",
+      "averagePrice": 3063,
+      "minimumPrice": 1506,
+      "maximumPrice": 5106,
+      "averageStackPrice": 3063,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

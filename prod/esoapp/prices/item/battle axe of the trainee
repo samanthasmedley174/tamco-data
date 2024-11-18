@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the trainee",
+    "displayName": "Battle Axe of the Trainee",
+    "values": {
+      "commonRange": "246 - 2,999",
+      "averagePrice": 1483,
+      "minimumPrice": 140,
+      "maximumPrice": 10240,
+      "averageStackPrice": 1483,
+      "commonStackSize": 1,
+      "salesRecorded": 55
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

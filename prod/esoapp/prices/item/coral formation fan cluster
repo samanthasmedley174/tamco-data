@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coral formation fan cluster",
+    "displayName": "Coral Formation, Fan Cluster",
+    "values": {
+      "commonRange": "750 - 1,025",
+      "averagePrice": 1001,
+      "minimumPrice": 525,
+      "maximumPrice": 1999,
+      "averageStackPrice": 1001,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

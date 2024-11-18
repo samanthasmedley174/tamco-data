@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions bow",
+    "displayName": "Companion's Bow",
+    "values": {
+      "commonRange": "30 - 25,000",
+      "averagePrice": 5645,
+      "minimumPrice": 20,
+      "maximumPrice": 98829,
+      "averageStackPrice": 5645,
+      "commonStackSize": 1,
+      "salesRecorded": 220
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

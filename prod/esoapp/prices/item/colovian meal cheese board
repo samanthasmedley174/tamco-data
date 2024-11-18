@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian meal cheese board",
+    "displayName": "Colovian Meal, Cheese Board",
+    "values": {
+      "commonRange": "3,000 - 9,850",
+      "averagePrice": 8365,
+      "minimumPrice": 1700,
+      "maximumPrice": 10000,
+      "averageStackPrice": 8365,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

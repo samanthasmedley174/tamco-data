@@ -1,0 +1,18 @@
+[
+  {
+    "name": "a simple five claw life painting gold",
+    "displayName": "A Simple Five-Claw Life Painting, Gold",
+    "values": {
+      "commonRange": "25,000 - 37,000",
+      "averagePrice": 29838,
+      "minimumPrice": 1000,
+      "maximumPrice": 45695,
+      "averageStackPrice": 29838,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

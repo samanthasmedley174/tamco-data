@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions boots",
+    "displayName": "Companion's Boots",
+    "values": {
+      "commonRange": "115 - 167,503",
+      "averagePrice": 52102,
+      "minimumPrice": 15,
+      "maximumPrice": 2100000,
+      "averageStackPrice": 52102,
+      "commonStackSize": 1,
+      "salesRecorded": 266
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

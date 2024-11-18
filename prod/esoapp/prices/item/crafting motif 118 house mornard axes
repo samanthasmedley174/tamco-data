@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 118 house mornard axes",
+    "displayName": "Crafting Motif 118: House Mornard Axes",
+    "values": {
+      "commonRange": "4,411 - 7,000",
+      "averagePrice": 5726,
+      "minimumPrice": 4000,
+      "maximumPrice": 7500,
+      "averageStackPrice": 5726,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

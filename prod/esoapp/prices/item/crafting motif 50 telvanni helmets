@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 50 telvanni helmets",
+    "displayName": "Crafting Motif 50: Telvanni Helmets",
+    "values": {
+      "commonRange": "6,000 - 16,339",
+      "averagePrice": 14328,
+      "minimumPrice": 4000,
+      "maximumPrice": 50039,
+      "averageStackPrice": 14328,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

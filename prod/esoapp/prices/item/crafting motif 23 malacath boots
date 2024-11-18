@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 23 malacath boots",
+    "displayName": "Crafting Motif 23: Malacath Boots",
+    "values": {
+      "commonRange": "10,039 - 32,250",
+      "averagePrice": 16505,
+      "minimumPrice": 6000,
+      "maximumPrice": 32348,
+      "averageStackPrice": 16505,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

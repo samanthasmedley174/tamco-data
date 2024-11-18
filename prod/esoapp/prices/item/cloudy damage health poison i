@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cloudy damage health poison i",
+    "displayName": "Cloudy Damage Health Poison I",
+    "values": {
+      "commonRange": "9 - 15",
+      "averagePrice": 12,
+      "minimumPrice": 5,
+      "maximumPrice": 18,
+      "averageStackPrice": 12,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Potions & Poisons",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

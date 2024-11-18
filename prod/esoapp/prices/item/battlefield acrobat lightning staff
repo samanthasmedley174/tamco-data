@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battlefield acrobat lightning staff",
+    "displayName": "Battlefield Acrobat Lightning Staff",
+    "values": {
+      "commonRange": "334 - 4,900",
+      "averagePrice": 2663,
+      "minimumPrice": 240,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2663,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

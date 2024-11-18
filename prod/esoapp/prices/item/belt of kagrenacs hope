@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of kagrenacs hope",
+    "displayName": "Belt of Kagrenac's Hope",
+    "values": {
+      "commonRange": "790 - 1,090",
+      "averagePrice": 940,
+      "minimumPrice": 790,
+      "maximumPrice": 1090,
+      "averageStackPrice": 940,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

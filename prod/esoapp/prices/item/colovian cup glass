@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian cup glass",
+    "displayName": "Colovian Cup, Glass",
+    "values": {
+      "commonRange": "1,000 - 4,061",
+      "averagePrice": 2844,
+      "minimumPrice": 500,
+      "maximumPrice": 5375,
+      "averageStackPrice": 5688,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

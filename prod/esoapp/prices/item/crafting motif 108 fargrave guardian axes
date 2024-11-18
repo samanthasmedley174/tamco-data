@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 108 fargrave guardian axes",
+    "displayName": "Crafting Motif 108: Fargrave Guardian Axes",
+    "values": {
+      "commonRange": "7,700 - 14,073",
+      "averagePrice": 11001,
+      "minimumPrice": 7402,
+      "maximumPrice": 19000,
+      "averageStackPrice": 11001,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

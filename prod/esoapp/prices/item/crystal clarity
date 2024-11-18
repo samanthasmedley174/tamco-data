@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crystal clarity",
+    "displayName": "Crystal Clarity",
+    "values": {
+      "commonRange": "9 - 60",
+      "averagePrice": 28,
+      "minimumPrice": 3,
+      "maximumPrice": 60,
+      "averageStackPrice": 56,
+      "commonStackSize": 2,
+      "salesRecorded": 5
+    },
+    "type": "Food & Drinks",
+    "date": "04/06/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/crystal_clarity.png"
+  }
+]

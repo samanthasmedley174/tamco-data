@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram solitude frying pan trivet",
+    "displayName": "Diagram: Solitude Frying Pan, Trivet",
+    "values": {
+      "commonRange": "6,000 - 11,142",
+      "averagePrice": 9046,
+      "minimumPrice": 6000,
+      "maximumPrice": 11142,
+      "averageStackPrice": 9046,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

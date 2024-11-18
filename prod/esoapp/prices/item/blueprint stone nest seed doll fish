@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint stone nest seed doll fish",
+    "displayName": "Blueprint: Stone-Nest Seed Doll, Fish",
+    "values": {
+      "commonRange": "9,911 - 16,942",
+      "averagePrice": 12966,
+      "minimumPrice": 1000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 12966,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

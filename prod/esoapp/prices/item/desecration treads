@@ -1,0 +1,18 @@
+[
+  {
+    "name": "desecration treads",
+    "displayName": "Desecration Treads",
+    "values": {
+      "commonRange": "384 - 1,000",
+      "averagePrice": 692,
+      "minimumPrice": 384,
+      "maximumPrice": 1000,
+      "averageStackPrice": 692,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint necrom bookcase elegant grand filled",
+    "displayName": "Blueprint: Necrom Bookcase, Elegant Grand Filled",
+    "values": {
+      "commonRange": "18,000 - 23,965",
+      "averagePrice": 20304,
+      "minimumPrice": 15200,
+      "maximumPrice": 25000,
+      "averageStackPrice": 20304,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

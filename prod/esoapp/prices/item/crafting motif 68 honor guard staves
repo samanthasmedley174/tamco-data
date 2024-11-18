@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 68 honor guard staves",
+    "displayName": "Crafting Motif 68: Honor Guard Staves",
+    "values": {
+      "commonRange": "5,000 - 12,000",
+      "averagePrice": 10199,
+      "minimumPrice": 5000,
+      "maximumPrice": 20118,
+      "averageStackPrice": 10199,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

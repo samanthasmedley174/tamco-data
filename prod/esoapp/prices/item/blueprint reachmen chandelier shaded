@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint reachmen chandelier shaded",
+    "displayName": "Blueprint: Reachmen Chandelier, Shaded",
+    "values": {
+      "commonRange": "2,391 - 7,005",
+      "averagePrice": 4220,
+      "minimumPrice": 2000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4220,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

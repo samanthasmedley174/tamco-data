@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 107 annihilarchs chosen helmets",
+    "displayName": "Crafting Motif 107: Annihilarch's Chosen Helmets",
+    "values": {
+      "commonRange": "33,382 - 100,000",
+      "averagePrice": 69977,
+      "minimumPrice": 5000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 69977,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

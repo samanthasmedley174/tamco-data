@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design necrom incense mushroom offering",
+    "displayName": "Design: Necrom Incense, Mushroom Offering",
+    "values": {
+      "commonRange": "8,700 - 12,900",
+      "averagePrice": 10900,
+      "minimumPrice": 8700,
+      "maximumPrice": 14189,
+      "averageStackPrice": 10900,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

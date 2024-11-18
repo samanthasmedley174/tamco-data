@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint breton armchair padded",
+    "displayName": "Blueprint: Breton Armchair, Padded",
+    "values": {
+      "commonRange": "19,039 - 22,000",
+      "averagePrice": 20622,
+      "minimumPrice": 18500,
+      "maximumPrice": 25000,
+      "averageStackPrice": 20622,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

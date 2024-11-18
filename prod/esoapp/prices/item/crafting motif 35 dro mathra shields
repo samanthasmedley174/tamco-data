@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 35 dro mathra shields",
+    "displayName": "Crafting Motif 35: Dro-M'Athra Shields",
+    "values": {
+      "commonRange": "28,000 - 50,000",
+      "averagePrice": 39458,
+      "minimumPrice": 26000,
+      "maximumPrice": 65993,
+      "averageStackPrice": 39458,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

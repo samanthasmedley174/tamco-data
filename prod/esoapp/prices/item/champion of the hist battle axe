@@ -1,0 +1,18 @@
+[
+  {
+    "name": "champion of the hist battle axe",
+    "displayName": "Champion of the Hist Battle Axe",
+    "values": {
+      "commonRange": "1,995 - 8,900",
+      "averagePrice": 6098,
+      "minimumPrice": 440,
+      "maximumPrice": 13155,
+      "averageStackPrice": 6098,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

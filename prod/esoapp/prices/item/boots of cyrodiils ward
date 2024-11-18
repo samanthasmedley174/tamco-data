@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boots of cyrodiils ward",
+    "displayName": "Boots of Cyrodiil's Ward",
+    "values": {
+      "commonRange": "733 - 1,190",
+      "averagePrice": 900,
+      "minimumPrice": 587,
+      "maximumPrice": 1190,
+      "averageStackPrice": 900,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

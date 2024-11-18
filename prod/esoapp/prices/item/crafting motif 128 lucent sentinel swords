@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 128 lucent sentinel swords",
+    "displayName": "Crafting Motif 128: Lucent Sentinel Swords",
+    "values": {
+      "commonRange": "4,257 - 6,257",
+      "averagePrice": 5987,
+      "minimumPrice": 4257,
+      "maximumPrice": 10201,
+      "averageStackPrice": 5987,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

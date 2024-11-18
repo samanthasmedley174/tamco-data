@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 122 dead keeper maces",
+    "displayName": "Crafting Motif 122: Dead Keeper Maces",
+    "values": {
+      "commonRange": "4,000 - 7,771",
+      "averagePrice": 5818,
+      "minimumPrice": 1000,
+      "maximumPrice": 7885,
+      "averageStackPrice": 5818,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

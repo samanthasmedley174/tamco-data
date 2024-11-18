@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blackfeather flight amulet",
+    "displayName": "Blackfeather Flight Amulet",
+    "values": {
+      "commonRange": "250 - 9,956",
+      "averagePrice": 3222,
+      "minimumPrice": 244,
+      "maximumPrice": 23156,
+      "averageStackPrice": 3222,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 17 xivkyn bows",
+    "displayName": "Crafting Motif 17: Xivkyn Bows",
+    "values": {
+      "commonRange": "5,805 - 6,229",
+      "averagePrice": 5939,
+      "minimumPrice": 5000,
+      "maximumPrice": 6229,
+      "averageStackPrice": 5939,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

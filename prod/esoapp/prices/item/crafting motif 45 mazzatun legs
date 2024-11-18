@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 45 mazzatun legs",
+    "displayName": "Crafting Motif 45: Mazzatun Legs",
+    "values": {
+      "commonRange": "15,000 - 35,000",
+      "averagePrice": 22118,
+      "minimumPrice": 10000,
+      "maximumPrice": 39039,
+      "averageStackPrice": 22118,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

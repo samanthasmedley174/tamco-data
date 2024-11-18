@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadly ice staff",
+    "displayName": "Deadly Ice Staff",
+    "values": {
+      "commonRange": "2,000 - 8,400",
+      "averagePrice": 4303,
+      "minimumPrice": 534,
+      "maximumPrice": 20246,
+      "averageStackPrice": 4303,
+      "commonStackSize": 1,
+      "salesRecorded": 100
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

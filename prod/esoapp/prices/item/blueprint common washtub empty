@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint common washtub empty",
+    "displayName": "Blueprint: Common Washtub, Empty",
+    "values": {
+      "commonRange": "27 - 136",
+      "averagePrice": 101,
+      "minimumPrice": 26,
+      "maximumPrice": 225,
+      "averageStackPrice": 101,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Plans",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

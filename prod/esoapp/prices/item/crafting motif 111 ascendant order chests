@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 111 ascendant order chests",
+    "displayName": "Crafting Motif 111: Ascendant Order Chests",
+    "values": {
+      "commonRange": "15,000 - 40,000",
+      "averagePrice": 28436,
+      "minimumPrice": 15000,
+      "maximumPrice": 40326,
+      "averageStackPrice": 28436,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

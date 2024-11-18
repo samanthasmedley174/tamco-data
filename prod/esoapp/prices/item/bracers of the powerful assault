@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bracers of the powerful assault",
+    "displayName": "Bracers of the Powerful Assault",
+    "values": {
+      "commonRange": "4,500 - 16,177",
+      "averagePrice": 9894,
+      "minimumPrice": 3090,
+      "maximumPrice": 55000,
+      "averageStackPrice": 9894,
+      "commonStackSize": 1,
+      "salesRecorded": 75
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

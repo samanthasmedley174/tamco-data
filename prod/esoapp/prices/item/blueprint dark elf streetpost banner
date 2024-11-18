@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint dark elf streetpost banner",
+    "displayName": "Blueprint: Dark Elf Streetpost, Banner",
+    "values": {
+      "commonRange": "35 - 250",
+      "averagePrice": 137,
+      "minimumPrice": 27,
+      "maximumPrice": 327,
+      "averageStackPrice": 137,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

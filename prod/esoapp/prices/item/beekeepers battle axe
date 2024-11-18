@@ -1,0 +1,18 @@
+[
+  {
+    "name": "beekeepers battle axe",
+    "displayName": "Beekeeper's Battle Axe",
+    "values": {
+      "commonRange": "440 - 440",
+      "averagePrice": 440,
+      "minimumPrice": 440,
+      "maximumPrice": 440,
+      "averageStackPrice": 440,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

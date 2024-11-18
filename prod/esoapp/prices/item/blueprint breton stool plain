@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint breton stool plain",
+    "displayName": "Blueprint: Breton Stool, Plain",
+    "values": {
+      "commonRange": "400 - 1,000",
+      "averagePrice": 640,
+      "minimumPrice": 230,
+      "maximumPrice": 1083,
+      "averageStackPrice": 640,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram clockwork mug reinforced",
+    "displayName": "Diagram: Clockwork Mug, Reinforced",
+    "values": {
+      "commonRange": "16,000 - 19,000",
+      "averagePrice": 17602,
+      "minimumPrice": 9500,
+      "maximumPrice": 22000,
+      "averageStackPrice": 17602,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

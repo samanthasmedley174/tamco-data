@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 108 fargrave guardian swords",
+    "displayName": "Crafting Motif 108: Fargrave Guardian Swords",
+    "values": {
+      "commonRange": "15,000 - 20,348",
+      "averagePrice": 17559,
+      "minimumPrice": 9000,
+      "maximumPrice": 22000,
+      "averageStackPrice": 17559,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

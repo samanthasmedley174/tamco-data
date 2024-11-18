@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bridge and milegate repair kit",
+    "displayName": "Bridge and Milegate Repair Kit",
+    "values": {
+      "commonRange": "8 - 10",
+      "averagePrice": 9,
+      "minimumPrice": 8,
+      "maximumPrice": 10,
+      "averageStackPrice": 900,
+      "commonStackSize": 100,
+      "salesRecorded": 5
+    },
+    "type": "Miscellaneous",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

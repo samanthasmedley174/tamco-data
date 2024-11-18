@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 31 skinchanger gloves",
+    "displayName": "Crafting Motif 31: Skinchanger Gloves",
+    "values": {
+      "commonRange": "2,000 - 15,405",
+      "averagePrice": 6558,
+      "minimumPrice": 1000,
+      "maximumPrice": 16332,
+      "averageStackPrice": 6558,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

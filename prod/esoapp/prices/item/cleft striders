@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cleft striders",
+    "displayName": "Cleft Striders",
+    "values": {
+      "commonRange": "1,150 - 1,150",
+      "averagePrice": 1447,
+      "minimumPrice": 1090,
+      "maximumPrice": 2100,
+      "averageStackPrice": 1447,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

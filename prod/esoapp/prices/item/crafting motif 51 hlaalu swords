@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 51 hlaalu swords",
+    "displayName": "Crafting Motif 51: Hlaalu Swords",
+    "values": {
+      "commonRange": "5,900 - 7,000",
+      "averagePrice": 6723,
+      "minimumPrice": 5000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6723,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

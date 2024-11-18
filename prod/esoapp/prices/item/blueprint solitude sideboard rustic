@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude sideboard rustic",
+    "displayName": "Blueprint: Solitude Sideboard, Rustic",
+    "values": {
+      "commonRange": "750 - 1,604",
+      "averagePrice": 1283,
+      "minimumPrice": 750,
+      "maximumPrice": 1604,
+      "averageStackPrice": 1283,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

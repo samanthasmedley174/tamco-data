@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian counter bar",
+    "displayName": "Blueprint: Colovian Counter, Bar",
+    "values": {
+      "commonRange": "24,219 - 44,880",
+      "averagePrice": 33997,
+      "minimumPrice": 15000,
+      "maximumPrice": 49990,
+      "averageStackPrice": 33997,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

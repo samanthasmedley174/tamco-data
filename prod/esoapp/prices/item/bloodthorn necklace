@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bloodthorn necklace",
+    "displayName": "Bloodthorn Necklace",
+    "values": {
+      "commonRange": "144 - 1,453",
+      "averagePrice": 814,
+      "minimumPrice": 144,
+      "maximumPrice": 9153,
+      "averageStackPrice": 814,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

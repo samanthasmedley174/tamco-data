@@ -1,0 +1,18 @@
+[
+  {
+    "name": "afflicted helm",
+    "displayName": "Afflicted Helm",
+    "values": {
+      "commonRange": "450 - 3,153",
+      "averagePrice": 1516,
+      "minimumPrice": 250,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1516,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

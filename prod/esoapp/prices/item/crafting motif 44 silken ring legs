@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 44 silken ring legs",
+    "displayName": "Crafting Motif 44: Silken Ring Legs",
+    "values": {
+      "commonRange": "9,000 - 18,000",
+      "averagePrice": 15082,
+      "minimumPrice": 1039,
+      "maximumPrice": 40000,
+      "averageStackPrice": 15082,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

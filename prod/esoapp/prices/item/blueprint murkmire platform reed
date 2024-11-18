@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint murkmire platform reed",
+    "displayName": "Blueprint: Murkmire Platform, Reed",
+    "values": {
+      "commonRange": "60,000 - 90,000",
+      "averagePrice": 78030,
+      "minimumPrice": 50000,
+      "maximumPrice": 100039,
+      "averageStackPrice": 78030,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

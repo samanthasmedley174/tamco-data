@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of bahrahas curse",
+    "displayName": "Battle Axe of Bahraha's Curse",
+    "values": {
+      "commonRange": "1,000 - 3,340",
+      "averagePrice": 2245,
+      "minimumPrice": 840,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2245,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

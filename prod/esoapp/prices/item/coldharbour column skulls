@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coldharbour column skulls",
+    "displayName": "Coldharbour Column, Skulls",
+    "values": {
+      "commonRange": "14,681 - 25,000",
+      "averagePrice": 20371,
+      "minimumPrice": 10000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 20371,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

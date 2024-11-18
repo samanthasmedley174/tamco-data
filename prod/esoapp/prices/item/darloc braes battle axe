@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darloc braes battle axe",
+    "displayName": "Darloc Brae's Battle Axe",
+    "values": {
+      "commonRange": "1,999 - 4,666",
+      "averagePrice": 3522,
+      "minimumPrice": 500,
+      "maximumPrice": 5500,
+      "averageStackPrice": 3522,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

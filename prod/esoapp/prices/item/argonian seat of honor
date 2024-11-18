@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian seat of honor",
+    "displayName": "Argonian Seat of Honor",
+    "values": {
+      "commonRange": "7,300 - 15,000",
+      "averagePrice": 13693,
+      "minimumPrice": 4999,
+      "maximumPrice": 55300,
+      "averageStackPrice": 13693,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/07/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

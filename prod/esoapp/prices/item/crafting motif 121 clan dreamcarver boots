@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 121 clan dreamcarver boots",
+    "displayName": "Crafting Motif 121: Clan Dreamcarver Boots",
+    "values": {
+      "commonRange": "5,039 - 8,278",
+      "averagePrice": 7011,
+      "minimumPrice": 5000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 7011,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

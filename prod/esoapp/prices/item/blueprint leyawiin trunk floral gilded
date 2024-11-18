@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin trunk floral gilded",
+    "displayName": "Blueprint: Leyawiin Trunk, Floral Gilded",
+    "values": {
+      "commonRange": "23,039 - 29,999",
+      "averagePrice": 27439,
+      "minimumPrice": 21000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 27439,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

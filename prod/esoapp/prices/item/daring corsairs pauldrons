@@ -1,0 +1,18 @@
+[
+  {
+    "name": "daring corsairs pauldrons",
+    "displayName": "Daring Corsair's Pauldrons",
+    "values": {
+      "commonRange": "74,990 - 79,156",
+      "averagePrice": 77073,
+      "minimumPrice": 74990,
+      "maximumPrice": 79156,
+      "averageStackPrice": 77073,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the desert rose",
+    "displayName": "Battle Axe of the Desert Rose",
+    "values": {
+      "commonRange": "3,456 - 5,246",
+      "averagePrice": 4426,
+      "minimumPrice": 3000,
+      "maximumPrice": 6000,
+      "averageStackPrice": 4426,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design clockwork paste dispenser empty",
+    "displayName": "Design: Clockwork Paste Dispenser, Empty",
+    "values": {
+      "commonRange": "27,500 - 33,000",
+      "averagePrice": 30345,
+      "minimumPrice": 20000,
+      "maximumPrice": 38000,
+      "averageStackPrice": 30345,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

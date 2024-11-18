@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude armchair high backed noble",
+    "displayName": "Blueprint: Solitude Armchair, High-Backed Noble",
+    "values": {
+      "commonRange": "28,039 - 35,098",
+      "averagePrice": 32304,
+      "minimumPrice": 27000,
+      "maximumPrice": 35098,
+      "averageStackPrice": 32304,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

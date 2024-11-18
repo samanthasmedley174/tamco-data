@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha mirror intricate",
+    "displayName": "Apocrypha Mirror, Intricate",
+    "values": {
+      "commonRange": "11,556 - 24,975",
+      "averagePrice": 18074,
+      "minimumPrice": 10675,
+      "maximumPrice": 25000,
+      "averageStackPrice": 18074,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

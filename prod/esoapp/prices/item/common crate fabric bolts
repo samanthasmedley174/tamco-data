@@ -1,0 +1,18 @@
+[
+  {
+    "name": "common crate fabric bolts",
+    "displayName": "Common Crate, Fabric Bolts",
+    "values": {
+      "commonRange": "4,000 - 6,855",
+      "averagePrice": 5161,
+      "minimumPrice": 1000,
+      "maximumPrice": 7500,
+      "averageStackPrice": 5161,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

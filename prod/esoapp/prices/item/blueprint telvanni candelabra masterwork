@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint telvanni candelabra masterwork",
+    "displayName": "Blueprint: Telvanni Candelabra, Masterwork",
+    "values": {
+      "commonRange": "50,000 - 81,543",
+      "averagePrice": 62814,
+      "minimumPrice": 40000,
+      "maximumPrice": 81543,
+      "averageStackPrice": 62814,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

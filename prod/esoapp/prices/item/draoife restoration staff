@@ -1,0 +1,18 @@
+[
+  {
+    "name": "draoife restoration staff",
+    "displayName": "Draoife Restoration Staff",
+    "values": {
+      "commonRange": "540 - 540",
+      "averagePrice": 540,
+      "minimumPrice": 540,
+      "maximumPrice": 540,
+      "averageStackPrice": 540,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

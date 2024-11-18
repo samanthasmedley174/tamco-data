@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint worm cult mill grinding",
+    "displayName": "Blueprint: Worm Cult Mill, Grinding",
+    "values": {
+      "commonRange": "400,000 - 800,000",
+      "averagePrice": 522972,
+      "minimumPrice": 25039,
+      "maximumPrice": 1000000,
+      "averageStackPrice": 522972,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Furnishing Plans",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

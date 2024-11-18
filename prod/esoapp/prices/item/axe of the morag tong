@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of the morag tong",
+    "displayName": "Axe of the Morag Tong",
+    "values": {
+      "commonRange": "1,153 - 3,999",
+      "averagePrice": 2838,
+      "minimumPrice": 200,
+      "maximumPrice": 6000,
+      "averageStackPrice": 2838,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

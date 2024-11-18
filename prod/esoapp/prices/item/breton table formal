@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton table formal",
+    "displayName": "Breton Table, Formal",
+    "values": {
+      "commonRange": "3,000 - 9,900",
+      "averagePrice": 6335,
+      "minimumPrice": 1500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6335,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/02/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

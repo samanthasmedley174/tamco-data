@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian divider noble",
+    "displayName": "Blueprint: Colovian Divider, Noble",
+    "values": {
+      "commonRange": "15,683 - 20,567",
+      "averagePrice": 19204,
+      "minimumPrice": 15683,
+      "maximumPrice": 30000,
+      "averageStackPrice": 19204,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

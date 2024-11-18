@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork chair reinforced",
+    "displayName": "Clockwork Chair, Reinforced",
+    "values": {
+      "commonRange": "2,500 - 4,000",
+      "averagePrice": 3122,
+      "minimumPrice": 2300,
+      "maximumPrice": 4097,
+      "averageStackPrice": 6244,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

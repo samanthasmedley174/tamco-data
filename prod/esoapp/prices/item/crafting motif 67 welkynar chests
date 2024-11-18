@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 67 welkynar chests",
+    "displayName": "Crafting Motif 67: Welkynar Chests",
+    "values": {
+      "commonRange": "40,443 - 75,000",
+      "averagePrice": 51691,
+      "minimumPrice": 20000,
+      "maximumPrice": 75000,
+      "averageStackPrice": 51691,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

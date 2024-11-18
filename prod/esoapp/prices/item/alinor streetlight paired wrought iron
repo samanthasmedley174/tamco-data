@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor streetlight paired wrought iron",
+    "displayName": "Alinor Streetlight, Paired Wrought Iron",
+    "values": {
+      "commonRange": "3,000 - 11,000",
+      "averagePrice": 6353,
+      "minimumPrice": 3000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 6353,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

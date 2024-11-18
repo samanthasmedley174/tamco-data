@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redoran incense holder curved",
+    "displayName": "Blueprint: Redoran Incense Holder, Curved",
+    "values": {
+      "commonRange": "59,217 - 120,000",
+      "averagePrice": 72180,
+      "minimumPrice": 25055,
+      "maximumPrice": 120000,
+      "averageStackPrice": 72180,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

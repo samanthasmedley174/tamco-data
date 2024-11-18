@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands bookcase etched",
+    "displayName": "Deadlands Bookcase, Etched",
+    "values": {
+      "commonRange": "3,000 - 12,000",
+      "averagePrice": 7302,
+      "minimumPrice": 1250,
+      "maximumPrice": 15000,
+      "averageStackPrice": 7302,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/02/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

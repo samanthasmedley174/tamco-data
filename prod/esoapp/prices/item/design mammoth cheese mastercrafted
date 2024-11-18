@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design mammoth cheese mastercrafted",
+    "displayName": "Design: Mammoth Cheese, Mastercrafted",
+    "values": {
+      "commonRange": "37,000 - 50,000",
+      "averagePrice": 44524,
+      "minimumPrice": 30000,
+      "maximumPrice": 53031,
+      "averageStackPrice": 44524,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

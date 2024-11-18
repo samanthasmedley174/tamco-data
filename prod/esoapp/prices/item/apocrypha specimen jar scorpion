@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha specimen jar scorpion",
+    "displayName": "Apocrypha Specimen Jar, Scorpion",
+    "values": {
+      "commonRange": "1,200 - 3,300",
+      "averagePrice": 1959,
+      "minimumPrice": 1047,
+      "maximumPrice": 3400,
+      "averageStackPrice": 1959,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

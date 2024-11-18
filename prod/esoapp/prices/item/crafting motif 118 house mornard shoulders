@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 118 house mornard shoulders",
+    "displayName": "Crafting Motif 118: House Mornard Shoulders",
+    "values": {
+      "commonRange": "5,439 - 15,000",
+      "averagePrice": 10019,
+      "minimumPrice": 5039,
+      "maximumPrice": 15500,
+      "averageStackPrice": 10019,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

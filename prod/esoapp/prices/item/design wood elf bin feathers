@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design wood elf bin feathers",
+    "displayName": "Design: Wood Elf Bin, Feathers",
+    "values": {
+      "commonRange": "8,039 - 10,967",
+      "averagePrice": 10260,
+      "minimumPrice": 2000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10260,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

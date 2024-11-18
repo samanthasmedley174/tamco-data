@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram alinor plate embossed",
+    "displayName": "Diagram: Alinor Plate, Embossed",
+    "values": {
+      "commonRange": "200 - 1,905",
+      "averagePrice": 1275,
+      "minimumPrice": 77,
+      "maximumPrice": 1905,
+      "averageStackPrice": 1275,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

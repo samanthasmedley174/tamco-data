@@ -1,0 +1,18 @@
+[
+  {
+    "name": "champion of the hist maul",
+    "displayName": "Champion of the Hist Maul",
+    "values": {
+      "commonRange": "16,300 - 16,300",
+      "averagePrice": 12210,
+      "minimumPrice": 330,
+      "maximumPrice": 20000,
+      "averageStackPrice": 12210,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

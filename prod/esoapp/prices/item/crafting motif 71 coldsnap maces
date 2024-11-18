@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 71 coldsnap maces",
+    "displayName": "Crafting Motif 71: Coldsnap Maces",
+    "values": {
+      "commonRange": "44,000 - 50,000",
+      "averagePrice": 49745,
+      "minimumPrice": 35000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 49745,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

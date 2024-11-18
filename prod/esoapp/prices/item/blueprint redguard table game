@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard table game",
+    "displayName": "Blueprint: Redguard Table, Game",
+    "values": {
+      "commonRange": "20,000 - 30,000",
+      "averagePrice": 24450,
+      "minimumPrice": 20000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 24450,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

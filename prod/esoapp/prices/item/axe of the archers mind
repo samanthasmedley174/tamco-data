@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of the archers mind",
+    "displayName": "Axe of the Archer's Mind",
+    "values": {
+      "commonRange": "11,000 - 11,000",
+      "averagePrice": 38667,
+      "minimumPrice": 5000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 38667,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

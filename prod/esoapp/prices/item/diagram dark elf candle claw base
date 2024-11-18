@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dark elf candle claw base",
+    "displayName": "Diagram: Dark Elf Candle, Claw Base",
+    "values": {
+      "commonRange": "27 - 300",
+      "averagePrice": 144,
+      "minimumPrice": 27,
+      "maximumPrice": 341,
+      "averageStackPrice": 144,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

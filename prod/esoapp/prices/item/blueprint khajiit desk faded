@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint khajiit desk faded",
+    "displayName": "Blueprint: Khajiit Desk, Faded",
+    "values": {
+      "commonRange": "27 - 225",
+      "averagePrice": 113,
+      "minimumPrice": 27,
+      "maximumPrice": 250,
+      "averageStackPrice": 113,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

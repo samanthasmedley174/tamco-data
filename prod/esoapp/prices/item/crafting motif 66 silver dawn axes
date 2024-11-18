@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 66 silver dawn axes",
+    "displayName": "Crafting Motif 66: Silver Dawn Axes",
+    "values": {
+      "commonRange": "7,958 - 18,000",
+      "averagePrice": 10663,
+      "minimumPrice": 5000,
+      "maximumPrice": 23000,
+      "averageStackPrice": 10663,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

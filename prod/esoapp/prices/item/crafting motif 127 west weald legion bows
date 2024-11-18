@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 127 west weald legion bows",
+    "displayName": "Crafting Motif 127: West Weald Legion Bows",
+    "values": {
+      "commonRange": "6,000 - 12,440",
+      "averagePrice": 9767,
+      "minimumPrice": 5000,
+      "maximumPrice": 12440,
+      "averageStackPrice": 9767,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high elf table sturdy kitchen",
+    "displayName": "Blueprint: High Elf Table, Sturdy Kitchen",
+    "values": {
+      "commonRange": "69 - 179",
+      "averagePrice": 138,
+      "minimumPrice": 27,
+      "maximumPrice": 300,
+      "averageStackPrice": 138,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

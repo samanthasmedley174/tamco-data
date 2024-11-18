@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of julianos",
+    "displayName": "Bow of Julianos",
+    "values": {
+      "commonRange": "750 - 750",
+      "averagePrice": 26134,
+      "minimumPrice": 699,
+      "maximumPrice": 76952,
+      "averageStackPrice": 26134,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 65 huntsman legs",
+    "displayName": "Crafting Motif 65: Huntsman Legs",
+    "values": {
+      "commonRange": "11,000 - 17,707",
+      "averagePrice": 16060,
+      "minimumPrice": 8000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 16060,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

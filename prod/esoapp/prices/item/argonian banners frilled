@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian banners frilled",
+    "displayName": "Argonian Banners, Frilled",
+    "values": {
+      "commonRange": "1,336 - 7,500",
+      "averagePrice": 4837,
+      "minimumPrice": 1000,
+      "maximumPrice": 9380,
+      "averageStackPrice": 4837,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "11/01/2020",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands table etched",
+    "displayName": "Deadlands Table, Etched",
+    "values": {
+      "commonRange": "300 - 4,000",
+      "averagePrice": 2995,
+      "minimumPrice": 210,
+      "maximumPrice": 5950,
+      "averageStackPrice": 2995,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

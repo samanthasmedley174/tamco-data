@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 98 house hexos boots",
+    "displayName": "Crafting Motif 98: House Hexos Boots",
+    "values": {
+      "commonRange": "15,000 - 26,000",
+      "averagePrice": 18301,
+      "minimumPrice": 12000,
+      "maximumPrice": 27008,
+      "averageStackPrice": 18301,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

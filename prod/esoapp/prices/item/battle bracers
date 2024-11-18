@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle bracers",
+    "displayName": "Battle Bracers",
+    "values": {
+      "commonRange": "250 - 585",
+      "averagePrice": 373,
+      "minimumPrice": 218,
+      "maximumPrice": 600,
+      "averageStackPrice": 373,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

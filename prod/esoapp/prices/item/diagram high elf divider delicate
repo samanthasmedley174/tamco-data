@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram high elf divider delicate",
+    "displayName": "Diagram: High Elf Divider, Delicate",
+    "values": {
+      "commonRange": "30,000 - 64,986",
+      "averagePrice": 43005,
+      "minimumPrice": 20000,
+      "maximumPrice": 71820,
+      "averageStackPrice": 43005,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

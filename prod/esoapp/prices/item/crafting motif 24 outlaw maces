@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 24 outlaw maces",
+    "displayName": "Crafting Motif 24: Outlaw Maces",
+    "values": {
+      "commonRange": "5,999 - 25,000",
+      "averagePrice": 15451,
+      "minimumPrice": 5000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 15451,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

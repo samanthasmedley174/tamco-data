@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of the pariah",
+    "displayName": "Bow of the Pariah",
+    "values": {
+      "commonRange": "240 - 9,234",
+      "averagePrice": 3628,
+      "minimumPrice": 234,
+      "maximumPrice": 29246,
+      "averageStackPrice": 3628,
+      "commonStackSize": 1,
+      "salesRecorded": 47
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

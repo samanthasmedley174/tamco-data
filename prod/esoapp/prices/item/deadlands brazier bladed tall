@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands brazier bladed tall",
+    "displayName": "Deadlands Brazier, Bladed Tall",
+    "values": {
+      "commonRange": "4,000 - 7,805",
+      "averagePrice": 6061,
+      "minimumPrice": 1500,
+      "maximumPrice": 7805,
+      "averageStackPrice": 6061,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

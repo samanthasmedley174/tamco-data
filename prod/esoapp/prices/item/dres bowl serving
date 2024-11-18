@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dres bowl serving",
+    "displayName": "Dres Bowl, Serving",
+    "values": {
+      "commonRange": "360 - 3,460",
+      "averagePrice": 2233,
+      "minimumPrice": 250,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2233,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/19/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

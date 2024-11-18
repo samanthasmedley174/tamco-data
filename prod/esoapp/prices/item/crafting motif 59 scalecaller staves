@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 59 scalecaller staves",
+    "displayName": "Crafting Motif 59: Scalecaller Staves",
+    "values": {
+      "commonRange": "5,000 - 11,000",
+      "averagePrice": 10234,
+      "minimumPrice": 5000,
+      "maximumPrice": 27000,
+      "averageStackPrice": 10234,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

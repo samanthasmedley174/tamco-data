@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cyrodiil treasure map viii",
+    "displayName": "Cyrodiil Treasure Map VIII",
+    "values": {
+      "commonRange": "60 - 500",
+      "averagePrice": 283,
+      "minimumPrice": 12,
+      "maximumPrice": 723,
+      "averageStackPrice": 283,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Treasure Maps",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

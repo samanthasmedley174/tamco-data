@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cartographers mask",
+    "displayName": "Cartographer's Mask",
+    "values": {
+      "commonRange": "5,000 - 8,039",
+      "averagePrice": 6077,
+      "minimumPrice": 4000,
+      "maximumPrice": 13058,
+      "averageStackPrice": 6077,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Fragments",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

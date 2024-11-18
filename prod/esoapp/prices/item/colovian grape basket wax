@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian grape basket wax",
+    "displayName": "Colovian Grape Basket, Wax",
+    "values": {
+      "commonRange": "4,400 - 15,000",
+      "averagePrice": 10466,
+      "minimumPrice": 3300,
+      "maximumPrice": 16000,
+      "averageStackPrice": 10466,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

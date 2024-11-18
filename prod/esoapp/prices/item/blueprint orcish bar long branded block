@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint orcish bar long branded block",
+    "displayName": "Blueprint: Orcish Bar, Long Branded Block",
+    "values": {
+      "commonRange": "500 - 1,084",
+      "averagePrice": 972,
+      "minimumPrice": 430,
+      "maximumPrice": 1995,
+      "averageStackPrice": 972,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude pew noble long",
+    "displayName": "Blueprint: Solitude Pew, Noble Long",
+    "values": {
+      "commonRange": "25,000 - 28,000",
+      "averagePrice": 25401,
+      "minimumPrice": 10039,
+      "maximumPrice": 29995,
+      "averageStackPrice": 25401,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

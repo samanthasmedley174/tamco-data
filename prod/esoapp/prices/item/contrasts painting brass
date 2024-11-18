@@ -1,0 +1,18 @@
+[
+  {
+    "name": "contrasts painting brass",
+    "displayName": "Contrasts Painting, Brass",
+    "values": {
+      "commonRange": "50,000 - 93,276",
+      "averagePrice": 70571,
+      "minimumPrice": 5330,
+      "maximumPrice": 100000,
+      "averageStackPrice": 70571,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

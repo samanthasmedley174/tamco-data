@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton mirror knotwork",
+    "displayName": "Breton Mirror, Knotwork",
+    "values": {
+      "commonRange": "2,500 - 5,000",
+      "averagePrice": 4370,
+      "minimumPrice": 2300,
+      "maximumPrice": 10300,
+      "averageStackPrice": 4370,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

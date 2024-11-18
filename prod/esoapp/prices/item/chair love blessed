@@ -1,0 +1,18 @@
+[
+  {
+    "name": "chair love blessed",
+    "displayName": "Chair, Love-Blessed",
+    "values": {
+      "commonRange": "500 - 50,000",
+      "averagePrice": 18460,
+      "minimumPrice": 50,
+      "maximumPrice": 87500,
+      "averageStackPrice": 36920,
+      "commonStackSize": 2,
+      "salesRecorded": 70
+    },
+    "type": "Furnishings",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

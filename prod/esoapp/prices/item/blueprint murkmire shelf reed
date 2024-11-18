@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint murkmire shelf reed",
+    "displayName": "Blueprint: Murkmire Shelf, Reed",
+    "values": {
+      "commonRange": "4,000 - 12,715",
+      "averagePrice": 10572,
+      "minimumPrice": 2715,
+      "maximumPrice": 16321,
+      "averageStackPrice": 10572,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 125 blind path cultist style",
+    "displayName": "Crafting Motif 125: Blind Path Cultist Style",
+    "values": {
+      "commonRange": "5,590,000 - 5,590,000",
+      "averagePrice": 5590000,
+      "minimumPrice": 5590000,
+      "maximumPrice": 5590000,
+      "averageStackPrice": 5590000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Motifs",
+    "date": "10/15/2024",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

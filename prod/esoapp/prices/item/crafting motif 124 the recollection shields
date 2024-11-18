@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 124 the recollection shields",
+    "displayName": "Crafting Motif 124: The Recollection Shields",
+    "values": {
+      "commonRange": "50,286 - 103,000",
+      "averagePrice": 78890,
+      "minimumPrice": 44000,
+      "maximumPrice": 108000,
+      "averageStackPrice": 78890,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

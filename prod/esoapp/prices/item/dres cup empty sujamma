@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dres cup empty sujamma",
+    "displayName": "Dres Cup, Empty Sujamma",
+    "values": {
+      "commonRange": "2,200 - 3,500",
+      "averagePrice": 2956,
+      "minimumPrice": 1000,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2956,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Furnishings",
+    "date": "11/01/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

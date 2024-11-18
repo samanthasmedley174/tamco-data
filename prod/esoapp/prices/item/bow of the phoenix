@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of the phoenix",
+    "displayName": "Bow of the Phoenix",
+    "values": {
+      "commonRange": "7,000 - 9,000",
+      "averagePrice": 8000,
+      "minimumPrice": 7000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 8000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "02/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dried blood",
+    "displayName": "Dried Blood",
+    "values": {
+      "commonRange": "86 - 389",
+      "averagePrice": 275,
+      "minimumPrice": 68,
+      "maximumPrice": 900,
+      "averageStackPrice": 275,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Materials",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Dried_Blood.png"
+  }
+]

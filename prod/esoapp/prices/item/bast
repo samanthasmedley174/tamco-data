@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bast",
+    "displayName": "Bast",
+    "values": {
+      "commonRange": "75 - 189",
+      "averagePrice": 136,
+      "minimumPrice": 6,
+      "maximumPrice": 200,
+      "averageStackPrice": 27200,
+      "commonStackSize": 200,
+      "salesRecorded": 64
+    },
+    "type": "Furnishing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

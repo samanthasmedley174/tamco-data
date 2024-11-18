@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid refuge sword",
+    "displayName": "Ayleid Refuge Sword",
+    "values": {
+      "commonRange": "985 - 5,698",
+      "averagePrice": 3606,
+      "minimumPrice": 500,
+      "maximumPrice": 40000,
+      "averageStackPrice": 3606,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

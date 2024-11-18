@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 127 west weald legion gloves",
+    "displayName": "Crafting Motif 127: West Weald Legion Gloves",
+    "values": {
+      "commonRange": "8,000 - 9,000",
+      "averagePrice": 9282,
+      "minimumPrice": 8000,
+      "maximumPrice": 18694,
+      "averageStackPrice": 9282,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

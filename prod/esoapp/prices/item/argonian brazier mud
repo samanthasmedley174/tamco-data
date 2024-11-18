@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian brazier mud",
+    "displayName": "Argonian Brazier, Mud",
+    "values": {
+      "commonRange": "800 - 2,000",
+      "averagePrice": 1464,
+      "minimumPrice": 300,
+      "maximumPrice": 2200,
+      "averageStackPrice": 1464,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

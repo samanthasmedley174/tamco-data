@@ -1,0 +1,18 @@
+[
+  {
+    "name": "beet glazed pork",
+    "displayName": "Beet-Glazed Pork",
+    "values": {
+      "commonRange": "6 - 45",
+      "averagePrice": 22,
+      "minimumPrice": 5,
+      "maximumPrice": 56,
+      "averageStackPrice": 2200,
+      "commonStackSize": 100,
+      "salesRecorded": 7
+    },
+    "type": "Food & Drinks",
+    "date": "09/06/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/beet-glazed_pork.png"
+  }
+]

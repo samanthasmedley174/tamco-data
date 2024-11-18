@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha dresser intricate",
+    "displayName": "Apocrypha Dresser, Intricate",
+    "values": {
+      "commonRange": "7,150 - 7,150",
+      "averagePrice": 7183,
+      "minimumPrice": 7150,
+      "maximumPrice": 7250,
+      "averageStackPrice": 7183,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Furnishings",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram indoril box trinket",
+    "displayName": "Diagram: Indoril Box, Trinket",
+    "values": {
+      "commonRange": "25,000 - 30,000",
+      "averagePrice": 28154,
+      "minimumPrice": 24000,
+      "maximumPrice": 39000,
+      "averageStackPrice": 28154,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

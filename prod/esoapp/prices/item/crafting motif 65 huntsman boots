@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 65 huntsman boots",
+    "displayName": "Crafting Motif 65: Huntsman Boots",
+    "values": {
+      "commonRange": "5,000 - 30,000",
+      "averagePrice": 12276,
+      "minimumPrice": 3000,
+      "maximumPrice": 50039,
+      "averageStackPrice": 12276,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

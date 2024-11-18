@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of the arch mage",
+    "displayName": "Axe of the Arch-Mage",
+    "values": {
+      "commonRange": "2,150 - 3,150",
+      "averagePrice": 2402,
+      "minimumPrice": 1153,
+      "maximumPrice": 3153,
+      "averageStackPrice": 2402,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

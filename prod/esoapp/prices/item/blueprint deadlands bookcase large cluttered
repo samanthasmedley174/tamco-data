@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint deadlands bookcase large cluttered",
+    "displayName": "Blueprint: Deadlands Bookcase, Large Cluttered",
+    "values": {
+      "commonRange": "42,000 - 54,827",
+      "averagePrice": 49552,
+      "minimumPrice": 40000,
+      "maximumPrice": 55000,
+      "averageStackPrice": 49552,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

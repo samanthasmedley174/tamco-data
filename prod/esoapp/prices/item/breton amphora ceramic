@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton amphora ceramic",
+    "displayName": "Breton Amphora, Ceramic",
+    "values": {
+      "commonRange": "160 - 3,300",
+      "averagePrice": 1428,
+      "minimumPrice": 62,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1428,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

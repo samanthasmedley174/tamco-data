@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bread round",
+    "displayName": "Bread, Round",
+    "values": {
+      "commonRange": "1,000 - 2,500",
+      "averagePrice": 1946,
+      "minimumPrice": 150,
+      "maximumPrice": 2715,
+      "averageStackPrice": 1946,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

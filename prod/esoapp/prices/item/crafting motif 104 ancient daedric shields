@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 104 ancient daedric shields",
+    "displayName": "Crafting Motif 104: Ancient Daedric Shields",
+    "values": {
+      "commonRange": "40,000 - 70,000",
+      "averagePrice": 51229,
+      "minimumPrice": 30000,
+      "maximumPrice": 70000,
+      "averageStackPrice": 51229,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

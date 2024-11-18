@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 107 annihilarchs chosen shoulders",
+    "displayName": "Crafting Motif 107: Annihilarch's Chosen Shoulders",
+    "values": {
+      "commonRange": "30,000 - 53,000",
+      "averagePrice": 44776,
+      "minimumPrice": 20039,
+      "maximumPrice": 57500,
+      "averageStackPrice": 44776,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

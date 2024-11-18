@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of destruction mastery",
+    "displayName": "Breeches of Destruction Mastery",
+    "values": {
+      "commonRange": "183 - 5,000",
+      "averagePrice": 1514,
+      "minimumPrice": 180,
+      "maximumPrice": 7000,
+      "averageStackPrice": 1514,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

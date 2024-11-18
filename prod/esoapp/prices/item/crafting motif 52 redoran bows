@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 52 redoran bows",
+    "displayName": "Crafting Motif 52: Redoran Bows",
+    "values": {
+      "commonRange": "7,200 - 8,262",
+      "averagePrice": 8368,
+      "minimumPrice": 3400,
+      "maximumPrice": 18000,
+      "averageStackPrice": 8368,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

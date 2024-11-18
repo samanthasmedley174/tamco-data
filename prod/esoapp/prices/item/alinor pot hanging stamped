@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor pot hanging stamped",
+    "displayName": "Alinor Pot, Hanging Stamped",
+    "values": {
+      "commonRange": "160 - 4,000",
+      "averagePrice": 1442,
+      "minimumPrice": 80,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1442,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/03/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of beckoning steel",
+    "displayName": "Dagger of Beckoning Steel",
+    "values": {
+      "commonRange": "3,500 - 11,622",
+      "averagePrice": 7358,
+      "minimumPrice": 2153,
+      "maximumPrice": 21091,
+      "averageStackPrice": 7358,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

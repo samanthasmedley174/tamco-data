@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coldharbour daedrat snacks",
+    "displayName": "Coldharbour Daedrat Snacks",
+    "values": {
+      "commonRange": "15 - 135",
+      "averagePrice": 80,
+      "minimumPrice": 15,
+      "maximumPrice": 135,
+      "averageStackPrice": 8000,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "01/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/coldharbour_daedrat_snacks.png"
+  }
+]

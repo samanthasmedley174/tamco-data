@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ancient sandstone",
+    "displayName": "Ancient Sandstone",
+    "values": {
+      "commonRange": "175 - 582",
+      "averagePrice": 453,
+      "minimumPrice": 50,
+      "maximumPrice": 703,
+      "averageStackPrice": 453,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Style Materials",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Ancient_Sandstone.png"
+  }
+]

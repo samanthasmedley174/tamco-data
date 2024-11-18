@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 18 akaviri staves",
+    "displayName": "Crafting Motif 18: Akaviri Staves",
+    "values": {
+      "commonRange": "6,000 - 11,233",
+      "averagePrice": 8948,
+      "minimumPrice": 4000,
+      "maximumPrice": 13500,
+      "averageStackPrice": 8948,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

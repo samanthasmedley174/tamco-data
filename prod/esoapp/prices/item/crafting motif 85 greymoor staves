@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 85 greymoor staves",
+    "displayName": "Crafting Motif 85: Greymoor Staves",
+    "values": {
+      "commonRange": "5,000 - 6,030",
+      "averagePrice": 13675,
+      "minimumPrice": 4000,
+      "maximumPrice": 87039,
+      "averageStackPrice": 13675,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

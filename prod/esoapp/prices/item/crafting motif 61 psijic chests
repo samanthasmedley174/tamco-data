@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 61 psijic chests",
+    "displayName": "Crafting Motif 61: Psijic Chests",
+    "values": {
+      "commonRange": "6,900 - 10,985",
+      "averagePrice": 8542,
+      "minimumPrice": 2500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 8542,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

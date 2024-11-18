@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 39 minotaur axes",
+    "displayName": "Crafting Motif 39: Minotaur Axes",
+    "values": {
+      "commonRange": "20,241 - 33,000",
+      "averagePrice": 28587,
+      "minimumPrice": 15000,
+      "maximumPrice": 48000,
+      "averageStackPrice": 28587,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

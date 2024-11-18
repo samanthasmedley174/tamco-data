@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint gibbet single",
+    "displayName": "Blueprint: Gibbet, Single",
+    "values": {
+      "commonRange": "445 - 665",
+      "averagePrice": 527,
+      "minimumPrice": 300,
+      "maximumPrice": 999,
+      "averageStackPrice": 527,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

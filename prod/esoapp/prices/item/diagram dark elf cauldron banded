@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dark elf cauldron banded",
+    "displayName": "Diagram: Dark Elf Cauldron, Banded",
+    "values": {
+      "commonRange": "230 - 475",
+      "averagePrice": 390,
+      "minimumPrice": 200,
+      "maximumPrice": 500,
+      "averageStackPrice": 390,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

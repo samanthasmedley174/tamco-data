@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design druidic wind chimes gourd",
+    "displayName": "Design: Druidic Wind Chimes, Gourd",
+    "values": {
+      "commonRange": "15,000 - 27,000",
+      "averagePrice": 22408,
+      "minimumPrice": 13000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 22408,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

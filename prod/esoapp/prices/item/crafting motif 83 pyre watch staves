@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 83 pyre watch staves",
+    "displayName": "Crafting Motif 83: Pyre Watch Staves",
+    "values": {
+      "commonRange": "20,461 - 25,753",
+      "averagePrice": 23933,
+      "minimumPrice": 10000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 23933,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

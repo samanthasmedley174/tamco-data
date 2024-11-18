@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 130 exiles revenge swords",
+    "displayName": "Crafting Motif 130: Exile's Revenge Swords",
+    "values": {
+      "commonRange": "42,000 - 65,000",
+      "averagePrice": 54846,
+      "minimumPrice": 30000,
+      "maximumPrice": 69900,
+      "averageStackPrice": 54846,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

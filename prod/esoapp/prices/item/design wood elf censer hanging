@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design wood elf censer hanging",
+    "displayName": "Design: Wood Elf Censer, Hanging",
+    "values": {
+      "commonRange": "9,000 - 11,600",
+      "averagePrice": 10521,
+      "minimumPrice": 8469,
+      "maximumPrice": 12000,
+      "averageStackPrice": 10521,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

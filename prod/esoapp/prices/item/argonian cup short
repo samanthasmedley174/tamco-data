@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian cup short",
+    "displayName": "Argonian Cup, Short",
+    "values": {
+      "commonRange": "100 - 800",
+      "averagePrice": 461,
+      "minimumPrice": 60,
+      "maximumPrice": 1000,
+      "averageStackPrice": 461,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/17/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

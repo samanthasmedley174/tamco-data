@@ -1,0 +1,18 @@
+[
+  {
+    "name": "brotherhood ledger stand",
+    "displayName": "Brotherhood Ledger Stand",
+    "values": {
+      "commonRange": "6,000 - 19,950",
+      "averagePrice": 9582,
+      "minimumPrice": 4400,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9582,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

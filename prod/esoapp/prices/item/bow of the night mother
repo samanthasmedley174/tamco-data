@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of the night mother",
+    "displayName": "Bow of the Night Mother",
+    "values": {
+      "commonRange": "75,952 - 75,952",
+      "averagePrice": 75952,
+      "minimumPrice": 75952,
+      "maximumPrice": 75952,
+      "averageStackPrice": 75952,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton desk",
+    "displayName": "Breton Desk",
+    "values": {
+      "commonRange": "450 - 5,000",
+      "averagePrice": 1917,
+      "minimumPrice": 60,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1917,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/13/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

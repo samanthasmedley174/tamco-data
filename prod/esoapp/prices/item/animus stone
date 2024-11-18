@@ -1,0 +1,18 @@
+[
+  {
+    "name": "animus stone",
+    "displayName": "Animus Stone",
+    "values": {
+      "commonRange": "29,167 - 35,000",
+      "averagePrice": 35493,
+      "minimumPrice": 20000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 35493,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Materials",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

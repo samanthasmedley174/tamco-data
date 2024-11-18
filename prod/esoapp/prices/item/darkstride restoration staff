@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darkstride restoration staff",
+    "displayName": "Darkstride Restoration Staff",
+    "values": {
+      "commonRange": "254 - 3,340",
+      "averagePrice": 1317,
+      "minimumPrice": 240,
+      "maximumPrice": 4240,
+      "averageStackPrice": 1317,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

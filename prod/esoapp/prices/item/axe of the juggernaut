@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of the juggernaut",
+    "displayName": "Axe of the Juggernaut",
+    "values": {
+      "commonRange": "6,000 - 7,153",
+      "averagePrice": 6461,
+      "minimumPrice": 3999,
+      "maximumPrice": 8153,
+      "averageStackPrice": 6461,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

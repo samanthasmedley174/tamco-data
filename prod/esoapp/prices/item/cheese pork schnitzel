@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cheese pork schnitzel",
+    "displayName": "Cheese Pork Schnitzel",
+    "values": {
+      "commonRange": "9 - 10",
+      "averagePrice": 11,
+      "minimumPrice": 3,
+      "maximumPrice": 27,
+      "averageStackPrice": 1100,
+      "commonStackSize": 100,
+      "salesRecorded": 8
+    },
+    "type": "Food & Drinks",
+    "date": "06/14/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/cheese_pork_schnitzel.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of oakfathers retribution",
+    "displayName": "Axe of Oakfather's Retribution",
+    "values": {
+      "commonRange": "3,000 - 25,000",
+      "averagePrice": 14475,
+      "minimumPrice": 750,
+      "maximumPrice": 120000,
+      "averageStackPrice": 14475,
+      "commonStackSize": 1,
+      "salesRecorded": 51
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 84 blackreach vanguard swords",
+    "displayName": "Crafting Motif 84: Blackreach Vanguard Swords",
+    "values": {
+      "commonRange": "5,452 - 9,452",
+      "averagePrice": 7919,
+      "minimumPrice": 5145,
+      "maximumPrice": 9452,
+      "averageStackPrice": 7919,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

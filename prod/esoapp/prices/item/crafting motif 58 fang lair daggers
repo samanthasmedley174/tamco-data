@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 58 fang lair daggers",
+    "displayName": "Crafting Motif 58: Fang Lair Daggers",
+    "values": {
+      "commonRange": "4,314 - 7,314",
+      "averagePrice": 5668,
+      "minimumPrice": 2039,
+      "maximumPrice": 7314,
+      "averageStackPrice": 5668,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

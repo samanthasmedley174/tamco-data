@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cuirass of cyrodiils crest",
+    "displayName": "Cuirass of Cyrodiil's Crest",
+    "values": {
+      "commonRange": "400 - 14,649",
+      "averagePrice": 8246,
+      "minimumPrice": 183,
+      "maximumPrice": 99999,
+      "averageStackPrice": 8246,
+      "commonStackSize": 1,
+      "salesRecorded": 41
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

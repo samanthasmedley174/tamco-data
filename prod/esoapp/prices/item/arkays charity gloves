@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arkays charity gloves",
+    "displayName": "Arkay's Charity Gloves",
+    "values": {
+      "commonRange": "290 - 3,754",
+      "averagePrice": 1388,
+      "minimumPrice": 90,
+      "maximumPrice": 10090,
+      "averageStackPrice": 1388,
+      "commonStackSize": 1,
+      "salesRecorded": 91
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

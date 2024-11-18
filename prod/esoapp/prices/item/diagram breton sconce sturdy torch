@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram breton sconce sturdy torch",
+    "displayName": "Diagram: Breton Sconce, Sturdy Torch",
+    "values": {
+      "commonRange": "120 - 230",
+      "averagePrice": 154,
+      "minimumPrice": 100,
+      "maximumPrice": 233,
+      "averageStackPrice": 154,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Plans",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

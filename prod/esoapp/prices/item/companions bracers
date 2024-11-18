@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions bracers",
+    "displayName": "Companion's Bracers",
+    "values": {
+      "commonRange": "115 - 164,165",
+      "averagePrice": 41553,
+      "minimumPrice": 15,
+      "maximumPrice": 2700000,
+      "averageStackPrice": 41553,
+      "commonStackSize": 1,
+      "salesRecorded": 252
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton chair windowed",
+    "displayName": "Breton Chair, Windowed",
+    "values": {
+      "commonRange": "710 - 4,400",
+      "averagePrice": 2590,
+      "minimumPrice": 710,
+      "maximumPrice": 4400,
+      "averageStackPrice": 2590,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

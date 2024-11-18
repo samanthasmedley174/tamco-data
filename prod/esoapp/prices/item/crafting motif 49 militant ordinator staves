@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 49 militant ordinator staves",
+    "displayName": "Crafting Motif 49: Militant Ordinator Staves",
+    "values": {
+      "commonRange": "67,341 - 83,088",
+      "averagePrice": 76311,
+      "minimumPrice": 53645,
+      "maximumPrice": 87326,
+      "averageStackPrice": 76311,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

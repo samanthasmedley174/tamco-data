@@ -1,0 +1,18 @@
+[
+  {
+    "name": "drathas epaulettes of the war maiden",
+    "displayName": "Dratha's Epaulettes of the War Maiden",
+    "values": {
+      "commonRange": "1,000 - 1,085",
+      "averagePrice": 1226,
+      "minimumPrice": 184,
+      "maximumPrice": 2635,
+      "averageStackPrice": 1226,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

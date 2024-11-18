@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf basin ringed",
+    "displayName": "Dark Elf Basin, Ringed",
+    "values": {
+      "commonRange": "500 - 500",
+      "averagePrice": 500,
+      "minimumPrice": 500,
+      "maximumPrice": 500,
+      "averageStackPrice": 500,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/31/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

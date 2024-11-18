@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arm cops of the ranger",
+    "displayName": "Arm Cops of the Ranger",
+    "values": {
+      "commonRange": "300 - 1,150",
+      "averagePrice": 688,
+      "minimumPrice": 153,
+      "maximumPrice": 1500,
+      "averageStackPrice": 688,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

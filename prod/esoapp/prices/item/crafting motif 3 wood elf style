@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 3 wood elf style",
+    "displayName": "Crafting Motif 3: Wood Elf Style",
+    "values": {
+      "commonRange": "100 - 800",
+      "averagePrice": 296,
+      "minimumPrice": 50,
+      "maximumPrice": 1100,
+      "averageStackPrice": 296,
+      "commonStackSize": 1,
+      "salesRecorded": 46
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

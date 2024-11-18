@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 23 malacath maces",
+    "displayName": "Crafting Motif 23: Malacath Maces",
+    "values": {
+      "commonRange": "15,000 - 22,534",
+      "averagePrice": 18762,
+      "minimumPrice": 10000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 18762,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

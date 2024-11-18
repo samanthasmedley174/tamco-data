@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian wine press",
+    "displayName": "Colovian Wine Press",
+    "values": {
+      "commonRange": "11,875 - 25,000",
+      "averagePrice": 18004,
+      "minimumPrice": 10000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 18004,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Furnishings",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

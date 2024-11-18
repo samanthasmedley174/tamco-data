@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr room divider elegant",
+    "displayName": "Blueprint: Elsweyr Room-Divider, Elegant",
+    "values": {
+      "commonRange": "19,218 - 22,000",
+      "averagePrice": 20442,
+      "minimumPrice": 15000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 20442,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

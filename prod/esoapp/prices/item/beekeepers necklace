@@ -1,0 +1,18 @@
+[
+  {
+    "name": "beekeepers necklace",
+    "displayName": "Beekeeper's Necklace",
+    "values": {
+      "commonRange": "200 - 950",
+      "averagePrice": 639,
+      "minimumPrice": 153,
+      "maximumPrice": 1450,
+      "averageStackPrice": 639,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

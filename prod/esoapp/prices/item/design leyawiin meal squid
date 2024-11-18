@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design leyawiin meal squid",
+    "displayName": "Design: Leyawiin Meal, Squid",
+    "values": {
+      "commonRange": "8,000 - 12,000",
+      "averagePrice": 10752,
+      "minimumPrice": 7500,
+      "maximumPrice": 22000,
+      "averageStackPrice": 10752,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

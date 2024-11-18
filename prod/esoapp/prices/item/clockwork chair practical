@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork chair practical",
+    "displayName": "Clockwork Chair, Practical",
+    "values": {
+      "commonRange": "1,000 - 5,000",
+      "averagePrice": 2725,
+      "minimumPrice": 250,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2725,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram relic vault impenetrable",
+    "displayName": "Diagram: Relic Vault, Impenetrable",
+    "values": {
+      "commonRange": "40,000 - 52,000",
+      "averagePrice": 50152,
+      "minimumPrice": 38527,
+      "maximumPrice": 80045,
+      "averageStackPrice": 50152,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

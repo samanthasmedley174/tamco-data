@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven table workbench",
+    "displayName": "Diagram: Dwarven Table, Workbench",
+    "values": {
+      "commonRange": "55,000 - 98,000",
+      "averagePrice": 83703,
+      "minimumPrice": 44303,
+      "maximumPrice": 149999,
+      "averageStackPrice": 83703,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

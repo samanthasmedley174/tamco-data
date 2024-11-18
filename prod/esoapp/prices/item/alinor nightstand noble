@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor nightstand noble",
+    "displayName": "Alinor Nightstand, Noble",
+    "values": {
+      "commonRange": "6,000 - 15,000",
+      "averagePrice": 10129,
+      "minimumPrice": 2000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 20258,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

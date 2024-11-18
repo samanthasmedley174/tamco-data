@@ -1,0 +1,18 @@
+[
+  {
+    "name": "daedric throne skulls",
+    "displayName": "Daedric Throne, Skulls",
+    "values": {
+      "commonRange": "150 - 520",
+      "averagePrice": 367,
+      "minimumPrice": 100,
+      "maximumPrice": 1000,
+      "averageStackPrice": 367,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Furnishings",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

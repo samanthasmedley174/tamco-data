@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 130 exiles revenge maces",
+    "displayName": "Crafting Motif 130: Exile's Revenge Maces",
+    "values": {
+      "commonRange": "49,000 - 58,311",
+      "averagePrice": 56253,
+      "minimumPrice": 47911,
+      "maximumPrice": 80000,
+      "averageStackPrice": 56253,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

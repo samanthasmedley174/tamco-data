@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design breton vase glazed",
+    "displayName": "Design: Breton Vase, Glazed",
+    "values": {
+      "commonRange": "830 - 1,200",
+      "averagePrice": 1021,
+      "minimumPrice": 330,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1021,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

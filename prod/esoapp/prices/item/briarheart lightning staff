@@ -1,0 +1,18 @@
+[
+  {
+    "name": "briarheart lightning staff",
+    "displayName": "Briarheart Lightning Staff",
+    "values": {
+      "commonRange": "1,834 - 75,000",
+      "averagePrice": 22709,
+      "minimumPrice": 246,
+      "maximumPrice": 77952,
+      "averageStackPrice": 22709,
+      "commonStackSize": 1,
+      "salesRecorded": 52
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

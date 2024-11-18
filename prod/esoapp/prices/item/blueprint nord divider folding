@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint nord divider folding",
+    "displayName": "Blueprint: Nord Divider, Folding",
+    "values": {
+      "commonRange": "2,000 - 10,400",
+      "averagePrice": 8957,
+      "minimumPrice": 1290,
+      "maximumPrice": 20973,
+      "averageStackPrice": 8957,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

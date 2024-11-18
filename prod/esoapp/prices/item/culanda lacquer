@@ -1,0 +1,18 @@
+[
+  {
+    "name": "culanda lacquer",
+    "displayName": "Culanda Lacquer",
+    "values": {
+      "commonRange": "2,000 - 3,500",
+      "averagePrice": 2735,
+      "minimumPrice": 200,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2735,
+      "commonStackSize": 1,
+      "salesRecorded": 53
+    },
+    "type": "Style Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Culanda_Lacquer.png"
+  }
+]

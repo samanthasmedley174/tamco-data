@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin ox cart sturdy",
+    "displayName": "Blueprint: Leyawiin Ox Cart, Sturdy",
+    "values": {
+      "commonRange": "3,500 - 8,121",
+      "averagePrice": 7514,
+      "minimumPrice": 230,
+      "maximumPrice": 20000,
+      "averageStackPrice": 7514,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

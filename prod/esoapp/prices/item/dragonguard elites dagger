@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dragonguard elites dagger",
+    "displayName": "Dragonguard Elite's Dagger",
+    "values": {
+      "commonRange": "153 - 2,800",
+      "averagePrice": 985,
+      "minimumPrice": 150,
+      "maximumPrice": 3000,
+      "averageStackPrice": 985,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 16 glass shields",
+    "displayName": "Crafting Motif 16: Glass Shields",
+    "values": {
+      "commonRange": "8,000 - 21,415",
+      "averagePrice": 17322,
+      "minimumPrice": 6000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 17322,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

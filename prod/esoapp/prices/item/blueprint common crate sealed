@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint common crate sealed",
+    "displayName": "Blueprint: Common Crate, Sealed",
+    "values": {
+      "commonRange": "100 - 327",
+      "averagePrice": 214,
+      "minimumPrice": 100,
+      "maximumPrice": 327,
+      "averageStackPrice": 214,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

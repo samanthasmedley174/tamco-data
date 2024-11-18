@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard caravan practical",
+    "displayName": "Blueprint: Redguard Caravan, Practical",
+    "values": {
+      "commonRange": "500 - 1,500",
+      "averagePrice": 1032,
+      "minimumPrice": 400,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1032,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

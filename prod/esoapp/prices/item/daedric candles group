@@ -1,0 +1,18 @@
+[
+  {
+    "name": "daedric candles group",
+    "displayName": "Daedric Candles, Group",
+    "values": {
+      "commonRange": "1,100 - 2,951",
+      "averagePrice": 2032,
+      "minimumPrice": 500,
+      "maximumPrice": 3000,
+      "averageStackPrice": 2032,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

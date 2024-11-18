@@ -1,0 +1,18 @@
+[
+  {
+    "name": "copper dust",
+    "displayName": "Copper Dust",
+    "values": {
+      "commonRange": "25 - 70",
+      "averagePrice": 53,
+      "minimumPrice": 6,
+      "maximumPrice": 117,
+      "averageStackPrice": 10600,
+      "commonStackSize": 200,
+      "salesRecorded": 15
+    },
+    "type": "Jewelry Materials",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Jewelry_Materials/Copper_Dust.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 114 systres guardian gloves",
+    "displayName": "Crafting Motif 114: Systres Guardian Gloves",
+    "values": {
+      "commonRange": "10,000 - 52,020",
+      "averagePrice": 29945,
+      "minimumPrice": 10000,
+      "maximumPrice": 69660,
+      "averageStackPrice": 29945,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

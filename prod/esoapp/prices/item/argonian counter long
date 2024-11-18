@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian counter long",
+    "displayName": "Argonian Counter, Long",
+    "values": {
+      "commonRange": "460 - 1,060",
+      "averagePrice": 731,
+      "minimumPrice": 350,
+      "maximumPrice": 1085,
+      "averageStackPrice": 731,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/19/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

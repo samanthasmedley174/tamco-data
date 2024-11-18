@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram cage wild animal",
+    "displayName": "Diagram: Cage, Wild Animal",
+    "values": {
+      "commonRange": "1,200 - 3,400",
+      "averagePrice": 2796,
+      "minimumPrice": 1088,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2796,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

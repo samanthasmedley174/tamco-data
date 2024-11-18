@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 28 ra gada helmets",
+    "displayName": "Crafting Motif 28: Ra Gada Helmets",
+    "values": {
+      "commonRange": "2,000 - 3,152",
+      "averagePrice": 2770,
+      "minimumPrice": 39,
+      "maximumPrice": 5420,
+      "averageStackPrice": 2770,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 35 dro mathra swords",
+    "displayName": "Crafting Motif 35: Dro-M'Athra Swords",
+    "values": {
+      "commonRange": "22,000 - 34,199",
+      "averagePrice": 26615,
+      "minimumPrice": 15491,
+      "maximumPrice": 46898,
+      "averageStackPrice": 26615,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

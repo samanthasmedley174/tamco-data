@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 90 thorn legion legs",
+    "displayName": "Crafting Motif 90: Thorn Legion Legs",
+    "values": {
+      "commonRange": "5,000 - 20,647",
+      "averagePrice": 15044,
+      "minimumPrice": 2039,
+      "maximumPrice": 23021,
+      "averageStackPrice": 15044,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

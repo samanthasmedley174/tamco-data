@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 94 ancestral reach chests",
+    "displayName": "Crafting Motif 94: Ancestral Reach Chests",
+    "values": {
+      "commonRange": "13,000 - 22,000",
+      "averagePrice": 17707,
+      "minimumPrice": 10000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 17707,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

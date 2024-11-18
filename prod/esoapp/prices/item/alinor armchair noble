@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor armchair noble",
+    "displayName": "Alinor Armchair, Noble",
+    "values": {
+      "commonRange": "5,673 - 20,300",
+      "averagePrice": 13048,
+      "minimumPrice": 2800,
+      "maximumPrice": 20300,
+      "averageStackPrice": 26096,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

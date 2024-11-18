@@ -1,0 +1,18 @@
+[
+  {
+    "name": "daedric doorway spiked",
+    "displayName": "Daedric Doorway, Spiked",
+    "values": {
+      "commonRange": "1,000 - 14,000",
+      "averagePrice": 7563,
+      "minimumPrice": 300,
+      "maximumPrice": 15000,
+      "averageStackPrice": 7563,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

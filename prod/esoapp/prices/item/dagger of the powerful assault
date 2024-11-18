@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of the powerful assault",
+    "displayName": "Dagger of the Powerful Assault",
+    "values": {
+      "commonRange": "4,612 - 15,000",
+      "averagePrice": 9826,
+      "minimumPrice": 2144,
+      "maximumPrice": 25000,
+      "averageStackPrice": 9826,
+      "commonStackSize": 1,
+      "salesRecorded": 72
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

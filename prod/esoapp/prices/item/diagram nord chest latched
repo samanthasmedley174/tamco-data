@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram nord chest latched",
+    "displayName": "Diagram: Nord Chest, Latched",
+    "values": {
+      "commonRange": "12,000 - 12,983",
+      "averagePrice": 12557,
+      "minimumPrice": 11000,
+      "maximumPrice": 13623,
+      "averageStackPrice": 12557,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

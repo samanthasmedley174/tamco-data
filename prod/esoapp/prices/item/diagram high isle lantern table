@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram high isle lantern table",
+    "displayName": "Diagram: High Isle Lantern, Table",
+    "values": {
+      "commonRange": "1,500 - 3,803",
+      "averagePrice": 2719,
+      "minimumPrice": 1000,
+      "maximumPrice": 4500,
+      "averageStackPrice": 2719,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

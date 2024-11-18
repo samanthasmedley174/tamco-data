@@ -1,0 +1,18 @@
+[
+  {
+    "name": "auroran dust",
+    "displayName": "Auroran Dust",
+    "values": {
+      "commonRange": "108 - 1,009",
+      "averagePrice": 506,
+      "minimumPrice": 3,
+      "maximumPrice": 2003,
+      "averageStackPrice": 5060,
+      "commonStackSize": 10,
+      "salesRecorded": 13
+    },
+    "type": "Style Materials",
+    "date": "02/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Auroran_Dust.png"
+  }
+]

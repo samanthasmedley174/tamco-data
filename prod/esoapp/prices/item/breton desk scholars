@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton desk scholars",
+    "displayName": "Breton Desk, Scholar's",
+    "values": {
+      "commonRange": "3,000 - 9,900",
+      "averagePrice": 5710,
+      "minimumPrice": 3000,
+      "maximumPrice": 9900,
+      "averageStackPrice": 5710,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/03/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

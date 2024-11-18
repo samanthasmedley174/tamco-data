@@ -1,0 +1,18 @@
+[
+  {
+    "name": "death dancer boots",
+    "displayName": "Death-Dancer Boots",
+    "values": {
+      "commonRange": "200 - 2,995",
+      "averagePrice": 1505,
+      "minimumPrice": 87,
+      "maximumPrice": 25000,
+      "averageStackPrice": 1505,
+      "commonStackSize": 1,
+      "salesRecorded": 95
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

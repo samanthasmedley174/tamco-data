@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 69 dead water axes",
+    "displayName": "Crafting Motif 69: Dead-Water Axes",
+    "values": {
+      "commonRange": "8,039 - 20,000",
+      "averagePrice": 13642,
+      "minimumPrice": 7000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 13642,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

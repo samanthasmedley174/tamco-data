@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard shelf arched",
+    "displayName": "Blueprint: Redguard Shelf, Arched",
+    "values": {
+      "commonRange": "1,200 - 3,000",
+      "averagePrice": 2110,
+      "minimumPrice": 1000,
+      "maximumPrice": 3999,
+      "averageStackPrice": 2110,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

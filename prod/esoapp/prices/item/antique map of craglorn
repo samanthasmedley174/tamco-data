@@ -1,0 +1,18 @@
+[
+  {
+    "name": "antique map of craglorn",
+    "displayName": "Antique Map of Craglorn",
+    "values": {
+      "commonRange": "500 - 4,000",
+      "averagePrice": 2208,
+      "minimumPrice": 100,
+      "maximumPrice": 4454,
+      "averageStackPrice": 2208,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

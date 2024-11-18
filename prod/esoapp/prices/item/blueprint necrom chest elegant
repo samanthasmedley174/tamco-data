@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint necrom chest elegant",
+    "displayName": "Blueprint: Necrom Chest, Elegant",
+    "values": {
+      "commonRange": "5,000 - 9,000",
+      "averagePrice": 6920,
+      "minimumPrice": 4050,
+      "maximumPrice": 11000,
+      "averageStackPrice": 6920,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

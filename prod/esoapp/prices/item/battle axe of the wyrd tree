@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of the wyrd tree",
+    "displayName": "Battle Axe of the Wyrd Tree",
+    "values": {
+      "commonRange": "440 - 946",
+      "averagePrice": 776,
+      "minimumPrice": 246,
+      "maximumPrice": 1500,
+      "averageStackPrice": 776,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 118 house mornard gloves",
+    "displayName": "Crafting Motif 118: House Mornard Gloves",
+    "values": {
+      "commonRange": "9,000 - 12,500",
+      "averagePrice": 10365,
+      "minimumPrice": 8000,
+      "maximumPrice": 12500,
+      "averageStackPrice": 10365,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

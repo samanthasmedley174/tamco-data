@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 103 black fin legion swords",
+    "displayName": "Crafting Motif 103: Black Fin Legion Swords",
+    "values": {
+      "commonRange": "3,500 - 11,000",
+      "averagePrice": 8244,
+      "minimumPrice": 3000,
+      "maximumPrice": 11578,
+      "averageStackPrice": 8244,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

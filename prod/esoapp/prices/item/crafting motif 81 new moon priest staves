@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 81 new moon priest staves",
+    "displayName": "Crafting Motif 81: New Moon Priest Staves",
+    "values": {
+      "commonRange": "300 - 2,039",
+      "averagePrice": 972,
+      "minimumPrice": 217,
+      "maximumPrice": 2997,
+      "averageStackPrice": 972,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint dark elf nightstand angled",
+    "displayName": "Blueprint: Dark Elf Nightstand, Angled",
+    "values": {
+      "commonRange": "9,000 - 11,246",
+      "averagePrice": 10445,
+      "minimumPrice": 9000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 10445,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

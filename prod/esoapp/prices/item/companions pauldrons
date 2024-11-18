@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions pauldrons",
+    "displayName": "Companion's Pauldrons",
+    "values": {
+      "commonRange": "124 - 399,000",
+      "averagePrice": 63351,
+      "minimumPrice": 17,
+      "maximumPrice": 1900000,
+      "averageStackPrice": 63351,
+      "commonStackSize": 1,
+      "salesRecorded": 272
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

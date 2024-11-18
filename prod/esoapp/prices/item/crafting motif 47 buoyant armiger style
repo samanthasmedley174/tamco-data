@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 47 buoyant armiger style",
+    "displayName": "Crafting Motif 47: Buoyant Armiger Style",
+    "values": {
+      "commonRange": "1,800,000 - 1,800,000",
+      "averagePrice": 1700015,
+      "minimumPrice": 1100000,
+      "maximumPrice": 2200045,
+      "averageStackPrice": 1700015,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Motifs",
+    "date": "05/25/2021",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bush summerset spruce",
+    "displayName": "Bush, Summerset Spruce",
+    "values": {
+      "commonRange": "100 - 373",
+      "averagePrice": 293,
+      "minimumPrice": 65,
+      "maximumPrice": 402,
+      "averageStackPrice": 293,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

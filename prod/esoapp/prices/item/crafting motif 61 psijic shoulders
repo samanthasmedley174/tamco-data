@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 61 psijic shoulders",
+    "displayName": "Crafting Motif 61: Psijic Shoulders",
+    "values": {
+      "commonRange": "3,300 - 6,472",
+      "averagePrice": 5505,
+      "minimumPrice": 3000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5505,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

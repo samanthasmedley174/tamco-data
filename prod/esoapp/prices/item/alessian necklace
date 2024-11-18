@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alessian necklace",
+    "displayName": "Alessian Necklace",
+    "values": {
+      "commonRange": "4,374 - 10,153",
+      "averagePrice": 6526,
+      "minimumPrice": 3000,
+      "maximumPrice": 10153,
+      "averageStackPrice": 6526,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

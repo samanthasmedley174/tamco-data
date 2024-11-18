@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork magnifier handheld",
+    "displayName": "Clockwork Magnifier, Handheld",
+    "values": {
+      "commonRange": "3,300 - 25,133",
+      "averagePrice": 14560,
+      "minimumPrice": 550,
+      "maximumPrice": 50000,
+      "averageStackPrice": 14560,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "03/23/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

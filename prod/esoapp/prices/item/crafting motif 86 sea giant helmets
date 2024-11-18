@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 86 sea giant helmets",
+    "displayName": "Crafting Motif 86: Sea Giant Helmets",
+    "values": {
+      "commonRange": "7,500 - 16,515",
+      "averagePrice": 12710,
+      "minimumPrice": 2000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 12710,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

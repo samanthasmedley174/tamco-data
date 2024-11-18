@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard carriage merchant",
+    "displayName": "Blueprint: Redguard Carriage, Merchant",
+    "values": {
+      "commonRange": "1,100 - 2,476",
+      "averagePrice": 1928,
+      "minimumPrice": 230,
+      "maximumPrice": 2700,
+      "averageStackPrice": 1928,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

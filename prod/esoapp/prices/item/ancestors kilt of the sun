@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ancestors kilt of the sun",
+    "displayName": "Ancestor's Kilt of the Sun",
+    "values": {
+      "commonRange": "780 - 780",
+      "averagePrice": 780,
+      "minimumPrice": 780,
+      "maximumPrice": 780,
+      "averageStackPrice": 780,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

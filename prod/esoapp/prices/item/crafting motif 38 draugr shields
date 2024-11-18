@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 38 draugr shields",
+    "displayName": "Crafting Motif 38: Draugr Shields",
+    "values": {
+      "commonRange": "1,591 - 5,039",
+      "averagePrice": 3103,
+      "minimumPrice": 1567,
+      "maximumPrice": 8000,
+      "averageStackPrice": 3103,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

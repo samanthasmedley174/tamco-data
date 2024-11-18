@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design fruit arrangement tide born",
+    "displayName": "Design: Fruit Arrangement, Tide-Born",
+    "values": {
+      "commonRange": "15,045 - 55,000",
+      "averagePrice": 37302,
+      "minimumPrice": 10045,
+      "maximumPrice": 55000,
+      "averageStackPrice": 37302,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

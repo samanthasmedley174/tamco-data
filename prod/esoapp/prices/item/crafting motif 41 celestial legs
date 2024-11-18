@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 41 celestial legs",
+    "displayName": "Crafting Motif 41: Celestial Legs",
+    "values": {
+      "commonRange": "40,000 - 149,039",
+      "averagePrice": 96157,
+      "minimumPrice": 9039,
+      "maximumPrice": 149039,
+      "averageStackPrice": 96157,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

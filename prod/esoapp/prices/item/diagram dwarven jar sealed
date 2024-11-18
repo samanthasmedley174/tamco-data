@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven jar sealed",
+    "displayName": "Diagram: Dwarven Jar, Sealed",
+    "values": {
+      "commonRange": "30,000 - 60,000",
+      "averagePrice": 44281,
+      "minimumPrice": 29900,
+      "maximumPrice": 80000,
+      "averageStackPrice": 44281,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

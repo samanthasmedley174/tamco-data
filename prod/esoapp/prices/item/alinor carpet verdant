@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor carpet verdant",
+    "displayName": "Alinor Carpet, Verdant",
+    "values": {
+      "commonRange": "7,500 - 15,608",
+      "averagePrice": 9857,
+      "minimumPrice": 6300,
+      "maximumPrice": 18439,
+      "averageStackPrice": 9857,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

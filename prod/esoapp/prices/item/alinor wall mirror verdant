@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor wall mirror verdant",
+    "displayName": "Alinor Wall Mirror, Verdant",
+    "values": {
+      "commonRange": "30,000 - 30,000",
+      "averagePrice": 30000,
+      "minimumPrice": 30000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 30000,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Furnishings",
+    "date": "03/12/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

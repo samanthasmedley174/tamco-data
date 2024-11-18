@@ -1,0 +1,18 @@
+[
+  {
+    "name": "curse eating maul",
+    "displayName": "Curse-Eating Maul",
+    "values": {
+      "commonRange": "999 - 14,000",
+      "averagePrice": 7736,
+      "minimumPrice": 246,
+      "maximumPrice": 15500,
+      "averageStackPrice": 7736,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

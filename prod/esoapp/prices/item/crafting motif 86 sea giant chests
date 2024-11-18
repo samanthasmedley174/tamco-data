@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 86 sea giant chests",
+    "displayName": "Crafting Motif 86: Sea Giant Chests",
+    "values": {
+      "commonRange": "5,434 - 12,000",
+      "averagePrice": 9957,
+      "minimumPrice": 5244,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9957,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

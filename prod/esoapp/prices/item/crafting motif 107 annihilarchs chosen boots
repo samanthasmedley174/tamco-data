@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 107 annihilarchs chosen boots",
+    "displayName": "Crafting Motif 107: Annihilarch's Chosen Boots",
+    "values": {
+      "commonRange": "33,000 - 53,887",
+      "averagePrice": 44006,
+      "minimumPrice": 25000,
+      "maximumPrice": 59806,
+      "averageStackPrice": 44006,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of a mothers sorrow",
+    "displayName": "Bow of a Mother's Sorrow",
+    "values": {
+      "commonRange": "234 - 5,000",
+      "averagePrice": 2099,
+      "minimumPrice": 126,
+      "maximumPrice": 27138,
+      "averageStackPrice": 2099,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 27 ebonheart pact axes",
+    "displayName": "Crafting Motif 27: Ebonheart Pact Axes",
+    "values": {
+      "commonRange": "2,500 - 5,000",
+      "averagePrice": 3962,
+      "minimumPrice": 2000,
+      "maximumPrice": 5445,
+      "averageStackPrice": 3962,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

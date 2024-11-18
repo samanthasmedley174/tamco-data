@@ -1,0 +1,18 @@
+[
+  {
+    "name": "draoife cuirass",
+    "displayName": "Draoife Cuirass",
+    "values": {
+      "commonRange": "180 - 1,750",
+      "averagePrice": 715,
+      "minimumPrice": 174,
+      "maximumPrice": 2000,
+      "averageStackPrice": 715,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

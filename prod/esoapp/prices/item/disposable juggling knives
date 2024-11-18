@@ -1,0 +1,18 @@
+[
+  {
+    "name": "disposable juggling knives",
+    "displayName": "Disposable Juggling Knives",
+    "values": {
+      "commonRange": "0 - 2",
+      "averagePrice": 4,
+      "minimumPrice": 1,
+      "maximumPrice": 55,
+      "averageStackPrice": 200,
+      "commonStackSize": 50,
+      "salesRecorded": 16
+    },
+    "type": "Miscellaneous",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Miscellaneous/Disposable_Juggling_Knives.png"
+  }
+]

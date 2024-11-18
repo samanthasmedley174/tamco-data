@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 94 ancestral reach staves",
+    "displayName": "Crafting Motif 94: Ancestral Reach Staves",
+    "values": {
+      "commonRange": "8,000 - 19,041",
+      "averagePrice": 13988,
+      "minimumPrice": 5039,
+      "maximumPrice": 20000,
+      "averageStackPrice": 13988,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

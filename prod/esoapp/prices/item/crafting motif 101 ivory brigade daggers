@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 101 ivory brigade daggers",
+    "displayName": "Crafting Motif 101: Ivory Brigade Daggers",
+    "values": {
+      "commonRange": "4,000 - 7,000",
+      "averagePrice": 5420,
+      "minimumPrice": 4000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 5420,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

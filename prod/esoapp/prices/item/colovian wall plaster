@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian wall plaster",
+    "displayName": "Colovian Wall, Plaster",
+    "values": {
+      "commonRange": "3,000 - 6,960",
+      "averagePrice": 5713,
+      "minimumPrice": 2975,
+      "maximumPrice": 9000,
+      "averageStackPrice": 5713,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

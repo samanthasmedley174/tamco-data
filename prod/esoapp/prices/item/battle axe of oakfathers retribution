@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of oakfathers retribution",
+    "displayName": "Battle Axe of Oakfather's Retribution",
+    "values": {
+      "commonRange": "2,676 - 12,600",
+      "averagePrice": 8098,
+      "minimumPrice": 1246,
+      "maximumPrice": 65000,
+      "averageStackPrice": 8098,
+      "commonStackSize": 1,
+      "salesRecorded": 53
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

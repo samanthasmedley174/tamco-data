@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coffin case",
+    "displayName": "Coffin, Case",
+    "values": {
+      "commonRange": "20 - 3,000",
+      "averagePrice": 1638,
+      "minimumPrice": 5,
+      "maximumPrice": 8000,
+      "averageStackPrice": 1638,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

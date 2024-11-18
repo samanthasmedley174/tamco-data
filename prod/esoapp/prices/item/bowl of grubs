@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bowl of grubs",
+    "displayName": "Bowl of Grubs",
+    "values": {
+      "commonRange": "420 - 1,500",
+      "averagePrice": 1090,
+      "minimumPrice": 420,
+      "maximumPrice": 1500,
+      "averageStackPrice": 1090,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

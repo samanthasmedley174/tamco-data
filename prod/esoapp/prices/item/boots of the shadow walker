@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boots of the shadow walker",
+    "displayName": "Boots of The Shadow Walker",
+    "values": {
+      "commonRange": "900 - 3,090",
+      "averagePrice": 2588,
+      "minimumPrice": 299,
+      "maximumPrice": 9090,
+      "averageStackPrice": 2588,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

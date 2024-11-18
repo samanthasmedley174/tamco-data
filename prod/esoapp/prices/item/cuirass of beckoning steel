@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cuirass of beckoning steel",
+    "displayName": "Cuirass of Beckoning Steel",
+    "values": {
+      "commonRange": "900 - 5,500",
+      "averagePrice": 2903,
+      "minimumPrice": 350,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2903,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

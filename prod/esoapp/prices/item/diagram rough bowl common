@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram rough bowl common",
+    "displayName": "Diagram: Rough Bowl, Common",
+    "values": {
+      "commonRange": "15 - 199",
+      "averagePrice": 120,
+      "minimumPrice": 10,
+      "maximumPrice": 776,
+      "averageStackPrice": 120,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

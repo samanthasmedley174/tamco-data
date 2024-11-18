@@ -1,0 +1,18 @@
+[
+  {
+    "name": "briarheart restoration staff",
+    "displayName": "Briarheart Restoration Staff",
+    "values": {
+      "commonRange": "240 - 5,000",
+      "averagePrice": 2360,
+      "minimumPrice": 234,
+      "maximumPrice": 21599,
+      "averageStackPrice": 2360,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

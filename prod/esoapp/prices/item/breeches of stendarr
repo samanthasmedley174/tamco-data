@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of stendarr",
+    "displayName": "Breeches of Stendarr",
+    "values": {
+      "commonRange": "200 - 4,178",
+      "averagePrice": 3329,
+      "minimumPrice": 175,
+      "maximumPrice": 50000,
+      "averageStackPrice": 3329,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

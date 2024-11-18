@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 63 dremora bows",
+    "displayName": "Crafting Motif 63: Dremora Bows",
+    "values": {
+      "commonRange": "8,151 - 40,000",
+      "averagePrice": 15267,
+      "minimumPrice": 8000,
+      "maximumPrice": 40039,
+      "averageStackPrice": 15267,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

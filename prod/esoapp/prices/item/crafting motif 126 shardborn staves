@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 126 shardborn staves",
+    "displayName": "Crafting Motif 126: Shardborn Staves",
+    "values": {
+      "commonRange": "4,844 - 6,618",
+      "averagePrice": 5940,
+      "minimumPrice": 4000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 5940,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

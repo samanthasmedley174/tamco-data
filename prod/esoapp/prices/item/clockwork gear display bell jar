@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork gear display bell jar",
+    "displayName": "Clockwork Gear Display, Bell Jar",
+    "values": {
+      "commonRange": "1,800 - 8,000",
+      "averagePrice": 4316,
+      "minimumPrice": 1000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4316,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

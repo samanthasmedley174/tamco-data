@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bracers of night terror",
+    "displayName": "Bracers of Night Terror",
+    "values": {
+      "commonRange": "190 - 2,187",
+      "averagePrice": 931,
+      "minimumPrice": 90,
+      "maximumPrice": 3000,
+      "averageStackPrice": 931,
+      "commonStackSize": 1,
+      "salesRecorded": 44
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

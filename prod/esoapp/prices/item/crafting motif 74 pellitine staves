@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 74 pellitine staves",
+    "displayName": "Crafting Motif 74: Pellitine Staves",
+    "values": {
+      "commonRange": "7,777 - 16,000",
+      "averagePrice": 11919,
+      "minimumPrice": 2000,
+      "maximumPrice": 19999,
+      "averageStackPrice": 11919,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

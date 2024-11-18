@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 39 minotaur style",
+    "displayName": "Crafting Motif 39: Minotaur Style",
+    "values": {
+      "commonRange": "1,200,000 - 1,200,000",
+      "averagePrice": 1200000,
+      "minimumPrice": 1200000,
+      "maximumPrice": 1200000,
+      "averageStackPrice": 1200000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Motifs",
+    "date": "08/20/2024",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

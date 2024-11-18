@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf cart merchant",
+    "displayName": "Dark Elf Cart, Merchant",
+    "values": {
+      "commonRange": "400 - 730",
+      "averagePrice": 565,
+      "minimumPrice": 310,
+      "maximumPrice": 760,
+      "averageStackPrice": 565,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

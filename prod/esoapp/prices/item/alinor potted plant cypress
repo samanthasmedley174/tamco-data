@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor potted plant cypress",
+    "displayName": "Alinor Potted Plant, Cypress",
+    "values": {
+      "commonRange": "2,000 - 8,000",
+      "averagePrice": 5940,
+      "minimumPrice": 1500,
+      "maximumPrice": 24500,
+      "averageStackPrice": 11880,
+      "commonStackSize": 2,
+      "salesRecorded": 17
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

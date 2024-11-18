@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design murkmire candles bone group",
+    "displayName": "Design: Murkmire Candles, Bone Group",
+    "values": {
+      "commonRange": "5,000 - 15,000",
+      "averagePrice": 9201,
+      "minimumPrice": 4000,
+      "maximumPrice": 17080,
+      "averageStackPrice": 9201,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

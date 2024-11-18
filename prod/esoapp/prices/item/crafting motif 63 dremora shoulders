@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 63 dremora shoulders",
+    "displayName": "Crafting Motif 63: Dremora Shoulders",
+    "values": {
+      "commonRange": "88 - 3,000",
+      "averagePrice": 886,
+      "minimumPrice": 39,
+      "maximumPrice": 3322,
+      "averageStackPrice": 886,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

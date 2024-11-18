@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of cyrodiils light",
+    "displayName": "Bow of Cyrodiil's Light",
+    "values": {
+      "commonRange": "1,500 - 3,500",
+      "averagePrice": 2822,
+      "minimumPrice": 1400,
+      "maximumPrice": 4400,
+      "averageStackPrice": 2822,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

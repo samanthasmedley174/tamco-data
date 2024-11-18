@@ -1,0 +1,18 @@
+[
+  {
+    "name": "daedric brazier standing",
+    "displayName": "Daedric Brazier, Standing",
+    "values": {
+      "commonRange": "1,675 - 2,574",
+      "averagePrice": 2224,
+      "minimumPrice": 1000,
+      "maximumPrice": 3000,
+      "averageStackPrice": 2224,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

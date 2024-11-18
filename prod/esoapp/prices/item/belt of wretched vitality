@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of wretched vitality",
+    "displayName": "Belt of Wretched Vitality",
+    "values": {
+      "commonRange": "12,500 - 15,000",
+      "averagePrice": 16875,
+      "minimumPrice": 10000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 16875,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

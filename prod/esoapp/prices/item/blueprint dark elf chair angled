@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint dark elf chair angled",
+    "displayName": "Blueprint: Dark Elf Chair, Angled",
+    "values": {
+      "commonRange": "150 - 3,031",
+      "averagePrice": 1914,
+      "minimumPrice": 127,
+      "maximumPrice": 3300,
+      "averageStackPrice": 1914,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

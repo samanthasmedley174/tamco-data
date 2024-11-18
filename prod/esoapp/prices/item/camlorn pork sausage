@@ -1,0 +1,18 @@
+[
+  {
+    "name": "camlorn pork sausage",
+    "displayName": "Camlorn Pork Sausage",
+    "values": {
+      "commonRange": "5 - 14",
+      "averagePrice": 47,
+      "minimumPrice": 1,
+      "maximumPrice": 406,
+      "averageStackPrice": 4700,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "10/22/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/camlorn_pork_sausage.png"
+  }
+]

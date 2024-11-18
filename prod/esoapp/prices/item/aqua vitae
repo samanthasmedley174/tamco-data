@@ -1,0 +1,18 @@
+[
+  {
+    "name": "aqua vitae",
+    "displayName": "Aqua Vitae",
+    "values": {
+      "commonRange": "55 - 200",
+      "averagePrice": 128,
+      "minimumPrice": 55,
+      "maximumPrice": 200,
+      "averageStackPrice": 128,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Food & Drinks",
+    "date": "02/16/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/aqua_vitae.png"
+  }
+]

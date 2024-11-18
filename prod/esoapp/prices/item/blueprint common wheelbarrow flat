@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint common wheelbarrow flat",
+    "displayName": "Blueprint: Common Wheelbarrow, Flat",
+    "values": {
+      "commonRange": "53 - 151",
+      "averagePrice": 109,
+      "minimumPrice": 30,
+      "maximumPrice": 227,
+      "averageStackPrice": 109,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

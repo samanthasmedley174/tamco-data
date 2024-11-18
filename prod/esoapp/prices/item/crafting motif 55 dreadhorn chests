@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 55 dreadhorn chests",
+    "displayName": "Crafting Motif 55: Dreadhorn Chests",
+    "values": {
+      "commonRange": "10,000 - 24,290",
+      "averagePrice": 17275,
+      "minimumPrice": 7500,
+      "maximumPrice": 24290,
+      "averageStackPrice": 17275,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

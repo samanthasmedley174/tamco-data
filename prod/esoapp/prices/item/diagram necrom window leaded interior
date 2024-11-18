@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram necrom window leaded interior",
+    "displayName": "Diagram: Necrom Window, Leaded Interior",
+    "values": {
+      "commonRange": "180,000 - 230,000",
+      "averagePrice": 197953,
+      "minimumPrice": 109790,
+      "maximumPrice": 240000,
+      "averageStackPrice": 197953,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

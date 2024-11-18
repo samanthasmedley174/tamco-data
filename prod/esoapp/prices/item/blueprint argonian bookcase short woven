@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint argonian bookcase short woven",
+    "displayName": "Blueprint: Argonian Bookcase, Short Woven",
+    "values": {
+      "commonRange": "330 - 1,132",
+      "averagePrice": 886,
+      "minimumPrice": 209,
+      "maximumPrice": 1166,
+      "averageStackPrice": 886,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

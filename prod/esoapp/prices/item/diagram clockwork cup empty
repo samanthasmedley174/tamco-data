@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram clockwork cup empty",
+    "displayName": "Diagram: Clockwork Cup, Empty",
+    "values": {
+      "commonRange": "875 - 1,500",
+      "averagePrice": 1098,
+      "minimumPrice": 689,
+      "maximumPrice": 1910,
+      "averageStackPrice": 1098,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

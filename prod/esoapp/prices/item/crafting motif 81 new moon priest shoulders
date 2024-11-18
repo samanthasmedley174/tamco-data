@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 81 new moon priest shoulders",
+    "displayName": "Crafting Motif 81: New Moon Priest Shoulders",
+    "values": {
+      "commonRange": "440 - 2,039",
+      "averagePrice": 1041,
+      "minimumPrice": 381,
+      "maximumPrice": 3281,
+      "averageStackPrice": 1041,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

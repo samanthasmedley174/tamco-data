@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boar totem solitary",
+    "displayName": "Boar Totem, Solitary",
+    "values": {
+      "commonRange": "500 - 1,627",
+      "averagePrice": 1004,
+      "minimumPrice": 460,
+      "maximumPrice": 1627,
+      "averageStackPrice": 1004,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

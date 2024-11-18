@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 19 mercenary shields",
+    "displayName": "Crafting Motif 19: Mercenary Shields",
+    "values": {
+      "commonRange": "15,000 - 18,000",
+      "averagePrice": 16724,
+      "minimumPrice": 10000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 16724,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

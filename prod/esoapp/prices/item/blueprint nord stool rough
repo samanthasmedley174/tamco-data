@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint nord stool rough",
+    "displayName": "Blueprint: Nord Stool, Rough",
+    "values": {
+      "commonRange": "27 - 420",
+      "averagePrice": 155,
+      "minimumPrice": 27,
+      "maximumPrice": 480,
+      "averageStackPrice": 155,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

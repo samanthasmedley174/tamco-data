@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design necrom bowl elegant",
+    "displayName": "Design: Necrom Bowl, Elegant",
+    "values": {
+      "commonRange": "4,000 - 7,628",
+      "averagePrice": 7228,
+      "minimumPrice": 500,
+      "maximumPrice": 30030,
+      "averageStackPrice": 7228,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

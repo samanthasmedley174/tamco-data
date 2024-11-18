@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 77 stags of zen legs",
+    "displayName": "Crafting Motif 77: Stags of Z'en Legs",
+    "values": {
+      "commonRange": "20,000 - 32,000",
+      "averagePrice": 31822,
+      "minimumPrice": 10000,
+      "maximumPrice": 90000,
+      "averageStackPrice": 31822,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

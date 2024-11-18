@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian bed woven",
+    "displayName": "Argonian Bed, Woven",
+    "values": {
+      "commonRange": "1,100 - 5,550",
+      "averagePrice": 3460,
+      "minimumPrice": 1000,
+      "maximumPrice": 8250,
+      "averageStackPrice": 3460,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/27/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 87 ancestral nord chests",
+    "displayName": "Crafting Motif 87: Ancestral Nord Chests",
+    "values": {
+      "commonRange": "3,000 - 5,675",
+      "averagePrice": 4277,
+      "minimumPrice": 2000,
+      "maximumPrice": 6132,
+      "averageStackPrice": 4277,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

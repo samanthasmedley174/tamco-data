@@ -1,0 +1,18 @@
+[
+  {
+    "name": "animo core full",
+    "displayName": "Animo Core, Full",
+    "values": {
+      "commonRange": "5,156 - 11,000",
+      "averagePrice": 7686,
+      "minimumPrice": 5000,
+      "maximumPrice": 11721,
+      "averageStackPrice": 7686,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

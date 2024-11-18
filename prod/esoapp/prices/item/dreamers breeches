@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dreamers breeches",
+    "displayName": "Dreamer's Breeches",
+    "values": {
+      "commonRange": "174 - 1,500",
+      "averagePrice": 618,
+      "minimumPrice": 174,
+      "maximumPrice": 3174,
+      "averageStackPrice": 618,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

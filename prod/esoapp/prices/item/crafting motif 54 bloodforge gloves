@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 54 bloodforge gloves",
+    "displayName": "Crafting Motif 54: Bloodforge Gloves",
+    "values": {
+      "commonRange": "7,000 - 12,070",
+      "averagePrice": 10265,
+      "minimumPrice": 6500,
+      "maximumPrice": 15000,
+      "averageStackPrice": 10265,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

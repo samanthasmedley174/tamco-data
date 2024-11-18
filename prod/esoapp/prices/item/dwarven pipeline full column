@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven pipeline full column",
+    "displayName": "Dwarven Pipeline, Full Column",
+    "values": {
+      "commonRange": "10,000 - 12,000",
+      "averagePrice": 15533,
+      "minimumPrice": 8998,
+      "maximumPrice": 40198,
+      "averageStackPrice": 15533,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Furnishings",
+    "date": "08/15/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

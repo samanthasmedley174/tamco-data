@@ -1,0 +1,18 @@
+[
+  {
+    "name": "chorrol corn on the cob",
+    "displayName": "Chorrol Corn on the Cob",
+    "values": {
+      "commonRange": "125 - 160",
+      "averagePrice": 733,
+      "minimumPrice": 125,
+      "maximumPrice": 3703,
+      "averageStackPrice": 4398,
+      "commonStackSize": 6,
+      "salesRecorded": 6
+    },
+    "type": "Food & Drinks",
+    "date": "12/26/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/chorrol_corn_on_the_cob.png"
+  }
+]

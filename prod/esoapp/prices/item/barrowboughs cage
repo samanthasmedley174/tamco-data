@@ -1,0 +1,18 @@
+[
+  {
+    "name": "barrowboughs cage",
+    "displayName": "Barrowbough's Cage",
+    "values": {
+      "commonRange": "555 - 555",
+      "averagePrice": 555,
+      "minimumPrice": 555,
+      "maximumPrice": 555,
+      "averageStackPrice": 555,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bush mountain scrub",
+    "displayName": "Bush, Mountain Scrub",
+    "values": {
+      "commonRange": "150 - 500",
+      "averagePrice": 412,
+      "minimumPrice": 115,
+      "maximumPrice": 954,
+      "averageStackPrice": 824,
+      "commonStackSize": 2,
+      "salesRecorded": 7
+    },
+    "type": "Furnishings",
+    "date": "03/23/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

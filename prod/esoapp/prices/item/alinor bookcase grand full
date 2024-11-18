@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor bookcase grand full",
+    "displayName": "Alinor Bookcase, Grand Full",
+    "values": {
+      "commonRange": "16,934 - 23,570",
+      "averagePrice": 20438,
+      "minimumPrice": 14000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 20438,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

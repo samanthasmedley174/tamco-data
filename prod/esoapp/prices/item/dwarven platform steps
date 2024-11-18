@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven platform steps",
+    "displayName": "Dwarven Platform, Steps",
+    "values": {
+      "commonRange": "15,000 - 21,000",
+      "averagePrice": 23130,
+      "minimumPrice": 10300,
+      "maximumPrice": 66000,
+      "averageStackPrice": 23130,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/18/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

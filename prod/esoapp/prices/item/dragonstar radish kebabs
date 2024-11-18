@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dragonstar radish kebabs",
+    "displayName": "Dragonstar Radish Kebabs",
+    "values": {
+      "commonRange": "51 - 51",
+      "averagePrice": 61,
+      "minimumPrice": 12,
+      "maximumPrice": 120,
+      "averageStackPrice": 6100,
+      "commonStackSize": 100,
+      "salesRecorded": 3
+    },
+    "type": "Food & Drinks",
+    "date": "08/17/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/dragonstar_radish_kebabs.png"
+  }
+]

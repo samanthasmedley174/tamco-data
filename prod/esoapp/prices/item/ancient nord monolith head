@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ancient nord monolith head",
+    "displayName": "Ancient Nord Monolith, Head",
+    "values": {
+      "commonRange": "14,088 - 19,054",
+      "averagePrice": 16425,
+      "minimumPrice": 3675,
+      "maximumPrice": 22000,
+      "averageStackPrice": 16425,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

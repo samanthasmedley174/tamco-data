@@ -1,0 +1,18 @@
+[
+  {
+    "name": "adept riders jerkin",
+    "displayName": "Adept Rider's Jerkin",
+    "values": {
+      "commonRange": "569 - 569",
+      "averagePrice": 569,
+      "minimumPrice": 569,
+      "maximumPrice": 569,
+      "averageStackPrice": 569,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

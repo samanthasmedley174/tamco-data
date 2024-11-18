@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of the ranger",
+    "displayName": "Dagger of the Ranger",
+    "values": {
+      "commonRange": "150 - 479",
+      "averagePrice": 415,
+      "minimumPrice": 144,
+      "maximumPrice": 650,
+      "averageStackPrice": 415,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

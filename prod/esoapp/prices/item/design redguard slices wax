@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design redguard slices wax",
+    "displayName": "Design: Redguard Slices, Wax",
+    "values": {
+      "commonRange": "15,000 - 30,000",
+      "averagePrice": 22016,
+      "minimumPrice": 1000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 22016,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

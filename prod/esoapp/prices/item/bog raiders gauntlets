@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bog raiders gauntlets",
+    "displayName": "Bog Raider's Gauntlets",
+    "values": {
+      "commonRange": "300 - 3,142",
+      "averagePrice": 1489,
+      "minimumPrice": 90,
+      "maximumPrice": 6142,
+      "averageStackPrice": 1489,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

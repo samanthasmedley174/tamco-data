@@ -1,0 +1,18 @@
+[
+  {
+    "name": "amulet of the orders wrath",
+    "displayName": "Amulet of the Order's Wrath",
+    "values": {
+      "commonRange": "16,000 - 198,765",
+      "averagePrice": 73636,
+      "minimumPrice": 5048,
+      "maximumPrice": 198765,
+      "averageStackPrice": 73636,
+      "commonStackSize": 1,
+      "salesRecorded": 35
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

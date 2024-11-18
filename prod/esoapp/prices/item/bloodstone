@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bloodstone",
+    "displayName": "Bloodstone",
+    "values": {
+      "commonRange": "5 - 13",
+      "averagePrice": 11,
+      "minimumPrice": 5,
+      "maximumPrice": 50,
+      "averageStackPrice": 11,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Trait Stones",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Bloodstone.png"
+  }
+]

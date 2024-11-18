@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint vampiric bookcase short",
+    "displayName": "Blueprint: Vampiric Bookcase, Short",
+    "values": {
+      "commonRange": "2,500 - 4,030",
+      "averagePrice": 3372,
+      "minimumPrice": 2000,
+      "maximumPrice": 4030,
+      "averageStackPrice": 3372,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

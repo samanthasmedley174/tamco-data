@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 70 elder argonian shields",
+    "displayName": "Crafting Motif 70: Elder Argonian Shields",
+    "values": {
+      "commonRange": "20,000 - 27,169",
+      "averagePrice": 22005,
+      "minimumPrice": 10000,
+      "maximumPrice": 29000,
+      "averageStackPrice": 22005,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

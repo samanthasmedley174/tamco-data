@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 123 kindreds concord style",
+    "displayName": "Crafting Motif 123: Kindred's Concord Style",
+    "values": {
+      "commonRange": "1,000,000 - 1,000,000",
+      "averagePrice": 1000000,
+      "minimumPrice": 1000000,
+      "maximumPrice": 1000000,
+      "averageStackPrice": 1000000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Motifs",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

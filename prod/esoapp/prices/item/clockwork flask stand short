@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork flask stand short",
+    "displayName": "Clockwork Flask Stand, Short",
+    "values": {
+      "commonRange": "200 - 4,000",
+      "averagePrice": 1687,
+      "minimumPrice": 200,
+      "maximumPrice": 4400,
+      "averageStackPrice": 1687,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

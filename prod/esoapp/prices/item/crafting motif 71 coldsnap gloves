@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 71 coldsnap gloves",
+    "displayName": "Crafting Motif 71: Coldsnap Gloves",
+    "values": {
+      "commonRange": "51,148 - 90,039",
+      "averagePrice": 75716,
+      "minimumPrice": 44000,
+      "maximumPrice": 155000,
+      "averageStackPrice": 75716,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

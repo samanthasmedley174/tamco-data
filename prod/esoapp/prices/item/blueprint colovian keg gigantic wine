@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian keg gigantic wine",
+    "displayName": "Blueprint: Colovian Keg, Gigantic Wine",
+    "values": {
+      "commonRange": "32,000 - 50,912",
+      "averagePrice": 43396,
+      "minimumPrice": 6200,
+      "maximumPrice": 55000,
+      "averageStackPrice": 43396,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle tea table round wheel",
+    "displayName": "Blueprint: High Isle Tea Table, Round Wheel",
+    "values": {
+      "commonRange": "15,000 - 21,664",
+      "averagePrice": 18789,
+      "minimumPrice": 14000,
+      "maximumPrice": 23664,
+      "averageStackPrice": 18789,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

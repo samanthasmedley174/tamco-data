@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of baan dars blessing",
+    "displayName": "Battle Axe of Baan Dar's Blessing",
+    "values": {
+      "commonRange": "2,623 - 3,246",
+      "averagePrice": 2967,
+      "minimumPrice": 2000,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2967,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

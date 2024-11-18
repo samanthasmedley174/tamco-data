@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 35 dro mathra gloves",
+    "displayName": "Crafting Motif 35: Dro-M'Athra Gloves",
+    "values": {
+      "commonRange": "37,000 - 42,510",
+      "averagePrice": 38879,
+      "minimumPrice": 20000,
+      "maximumPrice": 43974,
+      "averageStackPrice": 38879,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

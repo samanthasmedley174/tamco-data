@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor wall shrine marble",
+    "displayName": "Alinor Wall Shrine, Marble",
+    "values": {
+      "commonRange": "3,000 - 10,950",
+      "averagePrice": 5054,
+      "minimumPrice": 2722,
+      "maximumPrice": 12950,
+      "averageStackPrice": 5054,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

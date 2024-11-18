@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of the weald",
+    "displayName": "Bow of the Weald",
+    "values": {
+      "commonRange": "235 - 2,240",
+      "averagePrice": 1390,
+      "minimumPrice": 190,
+      "maximumPrice": 5240,
+      "averageStackPrice": 1390,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of martial knowledge",
+    "displayName": "Breeches of Martial Knowledge",
+    "values": {
+      "commonRange": "180 - 4,180",
+      "averagePrice": 1378,
+      "minimumPrice": 123,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1378,
+      "commonStackSize": 1,
+      "salesRecorded": 51
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude bookcase narrow open filled",
+    "displayName": "Blueprint: Solitude Bookcase, Narrow Open Filled",
+    "values": {
+      "commonRange": "26,200 - 30,591",
+      "averagePrice": 27483,
+      "minimumPrice": 12039,
+      "maximumPrice": 31591,
+      "averageStackPrice": 27483,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

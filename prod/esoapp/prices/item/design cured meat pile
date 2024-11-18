@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design cured meat pile",
+    "displayName": "Design: Cured Meat Pile",
+    "values": {
+      "commonRange": "300 - 949",
+      "averagePrice": 652,
+      "minimumPrice": 200,
+      "maximumPrice": 1011,
+      "averageStackPrice": 652,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

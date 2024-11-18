@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 16 glass boots",
+    "displayName": "Crafting Motif 16: Glass Boots",
+    "values": {
+      "commonRange": "6,000 - 19,262",
+      "averagePrice": 10485,
+      "minimumPrice": 4000,
+      "maximumPrice": 24000,
+      "averageStackPrice": 10485,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

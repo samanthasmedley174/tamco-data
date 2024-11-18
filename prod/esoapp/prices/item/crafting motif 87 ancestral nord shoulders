@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 87 ancestral nord shoulders",
+    "displayName": "Crafting Motif 87: Ancestral Nord Shoulders",
+    "values": {
+      "commonRange": "3,000 - 6,500",
+      "averagePrice": 4780,
+      "minimumPrice": 2683,
+      "maximumPrice": 7777,
+      "averageStackPrice": 4780,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

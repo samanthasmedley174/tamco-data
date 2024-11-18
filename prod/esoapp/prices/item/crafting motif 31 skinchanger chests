@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 31 skinchanger chests",
+    "displayName": "Crafting Motif 31: Skinchanger Chests",
+    "values": {
+      "commonRange": "5,000 - 28,264",
+      "averagePrice": 13184,
+      "minimumPrice": 3000,
+      "maximumPrice": 31333,
+      "averageStackPrice": 13184,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

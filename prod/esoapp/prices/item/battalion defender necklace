@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battalion defender necklace",
+    "displayName": "Battalion Defender Necklace",
+    "values": {
+      "commonRange": "5,000 - 55,000",
+      "averagePrice": 35970,
+      "minimumPrice": 5000,
+      "maximumPrice": 57728,
+      "averageStackPrice": 35970,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

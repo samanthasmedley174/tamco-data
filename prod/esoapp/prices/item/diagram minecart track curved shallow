@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram minecart track curved shallow",
+    "displayName": "Diagram: Minecart Track, Curved Shallow",
+    "values": {
+      "commonRange": "227 - 1,223",
+      "averagePrice": 862,
+      "minimumPrice": 127,
+      "maximumPrice": 2000,
+      "averageStackPrice": 862,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

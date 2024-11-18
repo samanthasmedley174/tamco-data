@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of bulwark ruination",
+    "displayName": "Breeches of Bulwark Ruination",
+    "values": {
+      "commonRange": "580 - 5,073",
+      "averagePrice": 2608,
+      "minimumPrice": 183,
+      "maximumPrice": 30189,
+      "averageStackPrice": 2608,
+      "commonStackSize": 1,
+      "salesRecorded": 69
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

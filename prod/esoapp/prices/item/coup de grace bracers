@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coup de grace bracers",
+    "displayName": "Coup De Grace Bracers",
+    "values": {
+      "commonRange": "290 - 3,090",
+      "averagePrice": 1444,
+      "minimumPrice": 90,
+      "maximumPrice": 8000,
+      "averageStackPrice": 1444,
+      "commonStackSize": 1,
+      "salesRecorded": 131
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

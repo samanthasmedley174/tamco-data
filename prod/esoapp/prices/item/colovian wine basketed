@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian wine basketed",
+    "displayName": "Colovian Wine, Basketed",
+    "values": {
+      "commonRange": "3,000 - 10,000",
+      "averagePrice": 6135,
+      "minimumPrice": 1650,
+      "maximumPrice": 11000,
+      "averageStackPrice": 6135,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

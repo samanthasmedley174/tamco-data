@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian curtain of smoke",
+    "displayName": "Argonian Curtain of Smoke",
+    "values": {
+      "commonRange": "1,400 - 5,300",
+      "averagePrice": 4110,
+      "minimumPrice": 1200,
+      "maximumPrice": 6000,
+      "averageStackPrice": 4110,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "11/21/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

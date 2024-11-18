@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint druidic chair wood",
+    "displayName": "Blueprint: Druidic Chair, Wood",
+    "values": {
+      "commonRange": "327 - 4,000",
+      "averagePrice": 1588,
+      "minimumPrice": 300,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1588,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "04/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 75 sunspire shields",
+    "displayName": "Crafting Motif 75: Sunspire Shields",
+    "values": {
+      "commonRange": "5,310 - 8,020",
+      "averagePrice": 6971,
+      "minimumPrice": 4000,
+      "maximumPrice": 8250,
+      "averageStackPrice": 6971,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

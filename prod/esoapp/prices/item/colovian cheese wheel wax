@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian cheese wheel wax",
+    "displayName": "Colovian Cheese Wheel, Wax",
+    "values": {
+      "commonRange": "25,000 - 49,395",
+      "averagePrice": 36671,
+      "minimumPrice": 20000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 36671,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

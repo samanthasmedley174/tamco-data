@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 131 militant monk chests",
+    "displayName": "Crafting Motif 131: Militant Monk Chests",
+    "values": {
+      "commonRange": "115,000 - 240,000",
+      "averagePrice": 214677,
+      "minimumPrice": 100000,
+      "maximumPrice": 365000,
+      "averageStackPrice": 214677,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

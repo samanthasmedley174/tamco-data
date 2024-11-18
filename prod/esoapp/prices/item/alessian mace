@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alessian mace",
+    "displayName": "Alessian Mace",
+    "values": {
+      "commonRange": "5,453 - 10,153",
+      "averagePrice": 9225,
+      "minimumPrice": 5150,
+      "maximumPrice": 11500,
+      "averageStackPrice": 9225,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

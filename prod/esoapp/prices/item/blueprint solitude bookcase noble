@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude bookcase noble",
+    "displayName": "Blueprint: Solitude Bookcase, Noble",
+    "values": {
+      "commonRange": "24,000 - 35,000",
+      "averagePrice": 29931,
+      "minimumPrice": 24000,
+      "maximumPrice": 35593,
+      "averageStackPrice": 29931,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

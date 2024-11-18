@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 128 lucent sentinel bows",
+    "displayName": "Crafting Motif 128: Lucent Sentinel Bows",
+    "values": {
+      "commonRange": "4,800 - 6,003",
+      "averagePrice": 5342,
+      "minimumPrice": 4000,
+      "maximumPrice": 7000,
+      "averageStackPrice": 5342,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

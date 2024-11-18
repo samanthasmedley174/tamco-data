@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions maul",
+    "displayName": "Companion's Maul",
+    "values": {
+      "commonRange": "48 - 10,211",
+      "averagePrice": 3300,
+      "minimumPrice": 20,
+      "maximumPrice": 30054,
+      "averageStackPrice": 3300,
+      "commonStackSize": 1,
+      "salesRecorded": 89
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

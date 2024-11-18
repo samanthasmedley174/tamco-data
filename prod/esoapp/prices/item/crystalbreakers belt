@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crystalbreakers belt",
+    "displayName": "Crystalbreaker's Belt",
+    "values": {
+      "commonRange": "80 - 153",
+      "averagePrice": 126,
+      "minimumPrice": 53,
+      "maximumPrice": 290,
+      "averageStackPrice": 126,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

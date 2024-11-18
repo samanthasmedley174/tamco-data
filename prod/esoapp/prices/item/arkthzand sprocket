@@ -1,0 +1,18 @@
+[
+  {
+    "name": "arkthzand sprocket",
+    "displayName": "Arkthzand Sprocket",
+    "values": {
+      "commonRange": "2,000 - 3,550",
+      "averagePrice": 2718,
+      "minimumPrice": 3,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2718,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Style Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Arkthzand_Sprocket.png"
+  }
+]

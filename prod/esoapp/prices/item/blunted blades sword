@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blunted blades sword",
+    "displayName": "Blunted Blades Sword",
+    "values": {
+      "commonRange": "2,400 - 5,153",
+      "averagePrice": 3171,
+      "minimumPrice": 150,
+      "maximumPrice": 5153,
+      "averageStackPrice": 3171,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

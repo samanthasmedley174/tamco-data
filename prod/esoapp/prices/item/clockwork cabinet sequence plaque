@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork cabinet sequence plaque",
+    "displayName": "Clockwork Cabinet, Sequence Plaque",
+    "values": {
+      "commonRange": "3,750 - 9,000",
+      "averagePrice": 5958,
+      "minimumPrice": 3750,
+      "maximumPrice": 10000,
+      "averageStackPrice": 11916,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

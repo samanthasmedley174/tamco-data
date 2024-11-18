@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high elf trunk winged",
+    "displayName": "Blueprint: High Elf Trunk, Winged",
+    "values": {
+      "commonRange": "1,000 - 1,380",
+      "averagePrice": 1187,
+      "minimumPrice": 1000,
+      "maximumPrice": 1380,
+      "averageStackPrice": 1187,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

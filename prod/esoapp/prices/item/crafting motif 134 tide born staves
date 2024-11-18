@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 134 tide born staves",
+    "displayName": "Crafting Motif 134: Tide-Born Staves",
+    "values": {
+      "commonRange": "5,000 - 18,000",
+      "averagePrice": 8857,
+      "minimumPrice": 4000,
+      "maximumPrice": 18000,
+      "averageStackPrice": 8857,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

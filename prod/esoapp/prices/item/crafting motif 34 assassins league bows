@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 34 assassins league bows",
+    "displayName": "Crafting Motif 34: Assassins League Bows",
+    "values": {
+      "commonRange": "10,000 - 14,400",
+      "averagePrice": 12680,
+      "minimumPrice": 2039,
+      "maximumPrice": 24404,
+      "averageStackPrice": 12680,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

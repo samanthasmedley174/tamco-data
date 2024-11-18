@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint druidic bookcase tall wood",
+    "displayName": "Blueprint: Druidic Bookcase, Tall Wood",
+    "values": {
+      "commonRange": "791 - 6,030",
+      "averagePrice": 3981,
+      "minimumPrice": 750,
+      "maximumPrice": 6202,
+      "averageStackPrice": 3981,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

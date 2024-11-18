@@ -1,0 +1,18 @@
+[
+  {
+    "name": "baked potato display",
+    "displayName": "Baked Potato, Display",
+    "values": {
+      "commonRange": "500 - 4,950",
+      "averagePrice": 1947,
+      "minimumPrice": 350,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1947,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

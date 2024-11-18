@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude table round small",
+    "displayName": "Blueprint: Solitude Table, Round Small",
+    "values": {
+      "commonRange": "8,000 - 9,000",
+      "averagePrice": 8371,
+      "minimumPrice": 7000,
+      "maximumPrice": 9019,
+      "averageStackPrice": 8371,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

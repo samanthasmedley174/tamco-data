@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 35 dro mathra helmets",
+    "displayName": "Crafting Motif 35: Dro-M'Athra Helmets",
+    "values": {
+      "commonRange": "22,500 - 39,039",
+      "averagePrice": 31844,
+      "minimumPrice": 10000,
+      "maximumPrice": 90039,
+      "averageStackPrice": 31844,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

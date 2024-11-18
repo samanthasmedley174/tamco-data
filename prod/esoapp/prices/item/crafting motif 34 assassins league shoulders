@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 34 assassins league shoulders",
+    "displayName": "Crafting Motif 34: Assassins League Shoulders",
+    "values": {
+      "commonRange": "16,878 - 72,903",
+      "averagePrice": 27544,
+      "minimumPrice": 16750,
+      "maximumPrice": 75000,
+      "averageStackPrice": 27544,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

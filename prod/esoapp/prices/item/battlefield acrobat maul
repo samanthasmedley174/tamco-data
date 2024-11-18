@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battlefield acrobat maul",
+    "displayName": "Battlefield Acrobat Maul",
+    "values": {
+      "commonRange": "6,999 - 9,500",
+      "averagePrice": 7986,
+      "minimumPrice": 3240,
+      "maximumPrice": 10240,
+      "averageStackPrice": 7986,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

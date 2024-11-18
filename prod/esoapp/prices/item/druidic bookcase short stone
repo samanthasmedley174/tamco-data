@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic bookcase short stone",
+    "displayName": "Druidic Bookcase, Short Stone",
+    "values": {
+      "commonRange": "460 - 6,770",
+      "averagePrice": 3126,
+      "minimumPrice": 160,
+      "maximumPrice": 7770,
+      "averageStackPrice": 3126,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/02/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

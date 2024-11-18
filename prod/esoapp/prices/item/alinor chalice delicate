@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor chalice delicate",
+    "displayName": "Alinor Chalice, Delicate",
+    "values": {
+      "commonRange": "1,100 - 8,300",
+      "averagePrice": 7755,
+      "minimumPrice": 150,
+      "maximumPrice": 31000,
+      "averageStackPrice": 7755,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/19/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

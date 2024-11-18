@@ -1,0 +1,18 @@
+[
+  {
+    "name": "big eared ginger kittens care and feeding guide",
+    "displayName": "Big-Eared Ginger Kitten's Care and Feeding Guide",
+    "values": {
+      "commonRange": "3,000 - 8,739",
+      "averagePrice": 6196,
+      "minimumPrice": 3000,
+      "maximumPrice": 8739,
+      "averageStackPrice": 6196,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Fragments",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

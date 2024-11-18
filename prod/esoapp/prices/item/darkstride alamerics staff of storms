@@ -1,0 +1,18 @@
+[
+  {
+    "name": "darkstride alamerics staff of storms",
+    "displayName": "Darkstride Alameric's Staff of Storms",
+    "values": {
+      "commonRange": "1,240 - 1,240",
+      "averagePrice": 1240,
+      "minimumPrice": 1240,
+      "maximumPrice": 1240,
+      "averageStackPrice": 1240,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/15/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

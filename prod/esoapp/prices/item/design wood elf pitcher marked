@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design wood elf pitcher marked",
+    "displayName": "Design: Wood Elf Pitcher, Marked",
+    "values": {
+      "commonRange": "219 - 715",
+      "averagePrice": 558,
+      "minimumPrice": 100,
+      "maximumPrice": 1530,
+      "averageStackPrice": 558,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

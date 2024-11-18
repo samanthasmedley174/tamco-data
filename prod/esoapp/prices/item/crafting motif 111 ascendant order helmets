@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 111 ascendant order helmets",
+    "displayName": "Crafting Motif 111: Ascendant Order Helmets",
+    "values": {
+      "commonRange": "15,220 - 22,970",
+      "averagePrice": 19910,
+      "minimumPrice": 5000,
+      "maximumPrice": 23999,
+      "averageStackPrice": 19910,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

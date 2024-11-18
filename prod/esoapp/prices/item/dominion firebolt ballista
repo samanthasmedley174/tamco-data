@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dominion firebolt ballista",
+    "displayName": "Dominion Firebolt Ballista",
+    "values": {
+      "commonRange": "50 - 133",
+      "averagePrice": 99,
+      "minimumPrice": 25,
+      "maximumPrice": 133,
+      "averageStackPrice": 198,
+      "commonStackSize": 2,
+      "salesRecorded": 14
+    },
+    "type": "Siege Equipment",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

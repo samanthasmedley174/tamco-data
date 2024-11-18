@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian chair rustic",
+    "displayName": "Colovian Chair, Rustic",
+    "values": {
+      "commonRange": "724 - 4,015",
+      "averagePrice": 3172,
+      "minimumPrice": 500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 12688,
+      "commonStackSize": 4,
+      "salesRecorded": 17
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

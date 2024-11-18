@@ -1,0 +1,18 @@
+[
+  {
+    "name": "briarheart bow",
+    "displayName": "Briarheart Bow",
+    "values": {
+      "commonRange": "1,500 - 56,219",
+      "averagePrice": 18400,
+      "minimumPrice": 234,
+      "maximumPrice": 86219,
+      "averageStackPrice": 18400,
+      "commonStackSize": 1,
+      "salesRecorded": 84
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor table noble grand",
+    "displayName": "Alinor Table, Noble Grand",
+    "values": {
+      "commonRange": "12,261 - 26,995",
+      "averagePrice": 19761,
+      "minimumPrice": 4500,
+      "maximumPrice": 28995,
+      "averageStackPrice": 19761,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

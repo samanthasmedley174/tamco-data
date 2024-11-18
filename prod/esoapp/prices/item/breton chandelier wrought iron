@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton chandelier wrought iron",
+    "displayName": "Breton Chandelier, Wrought Iron",
+    "values": {
+      "commonRange": "3,500 - 8,000",
+      "averagePrice": 6307,
+      "minimumPrice": 3300,
+      "maximumPrice": 13300,
+      "averageStackPrice": 6307,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

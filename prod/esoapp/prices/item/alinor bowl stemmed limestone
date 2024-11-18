@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor bowl stemmed limestone",
+    "displayName": "Alinor Bowl, Stemmed Limestone",
+    "values": {
+      "commonRange": "1,500 - 5,500",
+      "averagePrice": 3966,
+      "minimumPrice": 60,
+      "maximumPrice": 10060,
+      "averageStackPrice": 3966,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

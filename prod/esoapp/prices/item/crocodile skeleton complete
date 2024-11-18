@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crocodile skeleton complete",
+    "displayName": "Crocodile Skeleton, Complete",
+    "values": {
+      "commonRange": "14,000 - 25,000",
+      "averagePrice": 22214,
+      "minimumPrice": 10000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 22214,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

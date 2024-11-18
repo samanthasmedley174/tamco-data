@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boulder volcanic plug",
+    "displayName": "Boulder, Volcanic Plug",
+    "values": {
+      "commonRange": "160 - 1,100",
+      "averagePrice": 601,
+      "minimumPrice": 60,
+      "maximumPrice": 1666,
+      "averageStackPrice": 601,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

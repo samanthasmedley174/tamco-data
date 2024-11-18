@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design telvanni meal fruit breakfast",
+    "displayName": "Design: Telvanni Meal, Fruit Breakfast",
+    "values": {
+      "commonRange": "127 - 823",
+      "averagePrice": 517,
+      "minimumPrice": 100,
+      "maximumPrice": 1000,
+      "averageStackPrice": 517,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

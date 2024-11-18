@@ -1,0 +1,18 @@
+[
+  {
+    "name": "curse eating hat",
+    "displayName": "Curse-Eating Hat",
+    "values": {
+      "commonRange": "280 - 5,000",
+      "averagePrice": 3267,
+      "minimumPrice": 153,
+      "maximumPrice": 5000,
+      "averageStackPrice": 3267,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

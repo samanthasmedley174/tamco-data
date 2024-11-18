@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 48 ashlander axes",
+    "displayName": "Crafting Motif 48: Ashlander Axes",
+    "values": {
+      "commonRange": "2,000 - 5,000",
+      "averagePrice": 3769,
+      "minimumPrice": 1500,
+      "maximumPrice": 7000,
+      "averageStackPrice": 3769,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

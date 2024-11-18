@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram worm cult brazier cold flame",
+    "displayName": "Diagram: Worm Cult Brazier, Cold-Flame",
+    "values": {
+      "commonRange": "85,000 - 150,000",
+      "averagePrice": 114016,
+      "minimumPrice": 80000,
+      "maximumPrice": 199000,
+      "averageStackPrice": 114016,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

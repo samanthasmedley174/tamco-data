@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 32 abahs watch boots",
+    "displayName": "Crafting Motif 32: Abah's Watch Boots",
+    "values": {
+      "commonRange": "13,000 - 19,830",
+      "averagePrice": 16941,
+      "minimumPrice": 1100,
+      "maximumPrice": 20000,
+      "averageStackPrice": 16941,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

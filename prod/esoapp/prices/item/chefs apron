@@ -1,0 +1,18 @@
+[
+  {
+    "name": "chefs apron",
+    "displayName": "Chef's Apron",
+    "values": {
+      "commonRange": "200 - 1,100",
+      "averagePrice": 799,
+      "minimumPrice": 84,
+      "maximumPrice": 2500,
+      "averageStackPrice": 799,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

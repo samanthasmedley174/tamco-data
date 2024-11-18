@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design orcish vessel sealed ceramic",
+    "displayName": "Design: Orcish Vessel, Sealed Ceramic",
+    "values": {
+      "commonRange": "330 - 1,995",
+      "averagePrice": 1144,
+      "minimumPrice": 230,
+      "maximumPrice": 2900,
+      "averageStackPrice": 1144,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

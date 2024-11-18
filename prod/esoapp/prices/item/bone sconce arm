@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bone sconce arm",
+    "displayName": "Bone Sconce, Arm",
+    "values": {
+      "commonRange": "4,900 - 8,000",
+      "averagePrice": 6564,
+      "minimumPrice": 4900,
+      "maximumPrice": 8000,
+      "averageStackPrice": 6564,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Furnishings",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

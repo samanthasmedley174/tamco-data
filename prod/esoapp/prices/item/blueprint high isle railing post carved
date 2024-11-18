@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle railing post carved",
+    "displayName": "Blueprint: High Isle Railing Post, Carved",
+    "values": {
+      "commonRange": "1,999 - 3,000",
+      "averagePrice": 2769,
+      "minimumPrice": 1930,
+      "maximumPrice": 7030,
+      "averageStackPrice": 2769,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

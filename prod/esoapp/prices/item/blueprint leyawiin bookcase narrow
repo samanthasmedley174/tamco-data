@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint leyawiin bookcase narrow",
+    "displayName": "Blueprint: Leyawiin Bookcase, Narrow",
+    "values": {
+      "commonRange": "9,035 - 10,112",
+      "averagePrice": 9884,
+      "minimumPrice": 9000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 9884,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

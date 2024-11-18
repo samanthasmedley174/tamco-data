@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cathartic band",
+    "displayName": "Cathartic Band",
+    "values": {
+      "commonRange": "950 - 950",
+      "averagePrice": 950,
+      "minimumPrice": 950,
+      "maximumPrice": 950,
+      "averageStackPrice": 950,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

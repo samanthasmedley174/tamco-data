@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood decor wrapped bone",
+    "displayName": "Dawnwood Decor, Wrapped Bone",
+    "values": {
+      "commonRange": "3,060 - 9,000",
+      "averagePrice": 6700,
+      "minimumPrice": 1060,
+      "maximumPrice": 9000,
+      "averageStackPrice": 6700,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "12/24/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

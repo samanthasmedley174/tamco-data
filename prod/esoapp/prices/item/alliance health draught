@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alliance health draught",
+    "displayName": "Alliance Health Draught",
+    "values": {
+      "commonRange": "60 - 122",
+      "averagePrice": 102,
+      "minimumPrice": 50,
+      "maximumPrice": 366,
+      "averageStackPrice": 20400,
+      "commonStackSize": 200,
+      "salesRecorded": 10
+    },
+    "type": "Potions & Poisons",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Potions_&_Poisons/Alliance_Health_Draught.png"
+  }
+]

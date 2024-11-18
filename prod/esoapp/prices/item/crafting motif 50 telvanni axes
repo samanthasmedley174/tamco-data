@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 50 telvanni axes",
+    "displayName": "Crafting Motif 50: Telvanni Axes",
+    "values": {
+      "commonRange": "6,900 - 10,000",
+      "averagePrice": 7605,
+      "minimumPrice": 6000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 7605,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 70 elder argonian helmets",
+    "displayName": "Crafting Motif 70: Elder Argonian Helmets",
+    "values": {
+      "commonRange": "20,000 - 33,000",
+      "averagePrice": 27981,
+      "minimumPrice": 19000,
+      "maximumPrice": 33000,
+      "averageStackPrice": 27981,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

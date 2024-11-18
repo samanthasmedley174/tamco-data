@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha sconce spiral",
+    "displayName": "Apocrypha Sconce, Spiral",
+    "values": {
+      "commonRange": "6,000 - 18,256",
+      "averagePrice": 10636,
+      "minimumPrice": 4000,
+      "maximumPrice": 18495,
+      "averageStackPrice": 10636,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 101 ivory brigade shields",
+    "displayName": "Crafting Motif 101: Ivory Brigade Shields",
+    "values": {
+      "commonRange": "4,292 - 6,675",
+      "averagePrice": 6123,
+      "minimumPrice": 4000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6123,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boulder flat weathered",
+    "displayName": "Boulder, Flat Weathered",
+    "values": {
+      "commonRange": "99 - 500",
+      "averagePrice": 236,
+      "minimumPrice": 15,
+      "maximumPrice": 500,
+      "averageStackPrice": 472,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/15/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

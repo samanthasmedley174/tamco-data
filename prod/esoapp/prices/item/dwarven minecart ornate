@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven minecart ornate",
+    "displayName": "Dwarven Minecart, Ornate",
+    "values": {
+      "commonRange": "30,000 - 35,000",
+      "averagePrice": 32066,
+      "minimumPrice": 24000,
+      "maximumPrice": 40100,
+      "averageStackPrice": 32066,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design telvanni planter fungal",
+    "displayName": "Design: Telvanni Planter, Fungal",
+    "values": {
+      "commonRange": "1,030 - 17,644",
+      "averagePrice": 12911,
+      "minimumPrice": 630,
+      "maximumPrice": 19999,
+      "averageStackPrice": 12911,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

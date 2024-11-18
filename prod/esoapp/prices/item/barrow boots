@@ -1,0 +1,18 @@
+[
+  {
+    "name": "barrow boots",
+    "displayName": "Barrow Boots",
+    "values": {
+      "commonRange": "84 - 600",
+      "averagePrice": 660,
+      "minimumPrice": 84,
+      "maximumPrice": 3000,
+      "averageStackPrice": 660,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design ashlander platter bread and cheese",
+    "displayName": "Design: Ashlander Platter, Bread and Cheese",
+    "values": {
+      "commonRange": "4,000 - 6,800",
+      "averagePrice": 5690,
+      "minimumPrice": 2342,
+      "maximumPrice": 7000,
+      "averageStackPrice": 5690,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

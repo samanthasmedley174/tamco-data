@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven bed reach furs canopy",
+    "displayName": "Dwarven Bed, Reach Furs Canopy",
+    "values": {
+      "commonRange": "8,000 - 15,000",
+      "averagePrice": 11474,
+      "minimumPrice": 6200,
+      "maximumPrice": 15000,
+      "averageStackPrice": 11474,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

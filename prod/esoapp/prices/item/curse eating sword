@@ -1,0 +1,18 @@
+[
+  {
+    "name": "curse eating sword",
+    "displayName": "Curse-Eating Sword",
+    "values": {
+      "commonRange": "153 - 4,742",
+      "averagePrice": 4407,
+      "minimumPrice": 153,
+      "maximumPrice": 20000,
+      "averageStackPrice": 4407,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

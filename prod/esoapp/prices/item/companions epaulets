@@ -1,0 +1,18 @@
+[
+  {
+    "name": "companions epaulets",
+    "displayName": "Companion's Epaulets",
+    "values": {
+      "commonRange": "100 - 80,000",
+      "averagePrice": 16982,
+      "minimumPrice": 24,
+      "maximumPrice": 399000,
+      "averageStackPrice": 16982,
+      "commonStackSize": 1,
+      "salesRecorded": 219
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 75 sunspire helmets",
+    "displayName": "Crafting Motif 75: Sunspire Helmets",
+    "values": {
+      "commonRange": "3,000 - 5,039",
+      "averagePrice": 4311,
+      "minimumPrice": 2500,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4311,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design fargrave box of fruit",
+    "displayName": "Design: Fargrave Box of Fruit",
+    "values": {
+      "commonRange": "5,000 - 8,994",
+      "averagePrice": 6912,
+      "minimumPrice": 1500,
+      "maximumPrice": 12000,
+      "averageStackPrice": 6912,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

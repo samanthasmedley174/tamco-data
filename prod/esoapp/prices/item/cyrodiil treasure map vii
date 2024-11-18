@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cyrodiil treasure map vii",
+    "displayName": "Cyrodiil Treasure Map VII",
+    "values": {
+      "commonRange": "100 - 1,000",
+      "averagePrice": 424,
+      "minimumPrice": 100,
+      "maximumPrice": 2000,
+      "averageStackPrice": 424,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Treasure Maps",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

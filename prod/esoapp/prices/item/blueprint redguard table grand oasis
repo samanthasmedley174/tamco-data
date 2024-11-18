@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard table grand oasis",
+    "displayName": "Blueprint: Redguard Table, Grand Oasis",
+    "values": {
+      "commonRange": "2,200 - 3,258",
+      "averagePrice": 2709,
+      "minimumPrice": 1030,
+      "maximumPrice": 3700,
+      "averageStackPrice": 2709,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

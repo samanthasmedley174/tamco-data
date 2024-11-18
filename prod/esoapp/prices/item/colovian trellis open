@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian trellis open",
+    "displayName": "Colovian Trellis, Open",
+    "values": {
+      "commonRange": "4,000 - 8,760",
+      "averagePrice": 5851,
+      "minimumPrice": 1060,
+      "maximumPrice": 13000,
+      "averageStackPrice": 5851,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

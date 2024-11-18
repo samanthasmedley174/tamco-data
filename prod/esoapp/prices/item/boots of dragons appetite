@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boots of dragons appetite",
+    "displayName": "Boots of Dragon's Appetite",
+    "values": {
+      "commonRange": "15,090 - 15,090",
+      "averagePrice": 15090,
+      "minimumPrice": 15090,
+      "maximumPrice": 15090,
+      "averageStackPrice": 15090,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

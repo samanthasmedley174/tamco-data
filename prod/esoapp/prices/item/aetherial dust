@@ -1,0 +1,18 @@
+[
+  {
+    "name": "aetherial dust",
+    "displayName": "Aetherial Dust",
+    "values": {
+      "commonRange": "90,373 - 140,000",
+      "averagePrice": 115505,
+      "minimumPrice": 40000,
+      "maximumPrice": 174000,
+      "averageStackPrice": 115505,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Provisioning Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid brazier fiery",
+    "displayName": "Ayleid Brazier, Fiery",
+    "values": {
+      "commonRange": "2,400 - 6,000",
+      "averagePrice": 4788,
+      "minimumPrice": 2000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4788,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

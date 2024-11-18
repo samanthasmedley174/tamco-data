@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dreamers maul",
+    "displayName": "Dreamer's Maul",
+    "values": {
+      "commonRange": "235 - 235",
+      "averagePrice": 235,
+      "minimumPrice": 220,
+      "maximumPrice": 250,
+      "averageStackPrice": 235,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

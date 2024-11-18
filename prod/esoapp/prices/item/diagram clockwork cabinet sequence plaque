@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram clockwork cabinet sequence plaque",
+    "displayName": "Diagram: Clockwork Cabinet, Sequence Plaque",
+    "values": {
+      "commonRange": "38,000 - 50,000",
+      "averagePrice": 46633,
+      "minimumPrice": 37800,
+      "maximumPrice": 60000,
+      "averageStackPrice": 46633,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 55 dreadhorn shoulders",
+    "displayName": "Crafting Motif 55: Dreadhorn Shoulders",
+    "values": {
+      "commonRange": "5,500 - 9,200",
+      "averagePrice": 7511,
+      "minimumPrice": 5000,
+      "maximumPrice": 9999,
+      "averageStackPrice": 7511,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

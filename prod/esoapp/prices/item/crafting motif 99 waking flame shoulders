@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 99 waking flame shoulders",
+    "displayName": "Crafting Motif 99: Waking Flame Shoulders",
+    "values": {
+      "commonRange": "4,554 - 8,000",
+      "averagePrice": 6107,
+      "minimumPrice": 4000,
+      "maximumPrice": 9164,
+      "averageStackPrice": 6107,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

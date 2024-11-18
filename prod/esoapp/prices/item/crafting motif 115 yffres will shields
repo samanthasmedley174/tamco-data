@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 115 yffres will shields",
+    "displayName": "Crafting Motif 115: Y'ffre's Will Shields",
+    "values": {
+      "commonRange": "20,000 - 88,000",
+      "averagePrice": 51360,
+      "minimumPrice": 20000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 51360,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

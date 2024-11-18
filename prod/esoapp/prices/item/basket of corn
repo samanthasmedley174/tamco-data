@@ -1,0 +1,18 @@
+[
+  {
+    "name": "basket of corn",
+    "displayName": "Basket of Corn",
+    "values": {
+      "commonRange": "1,250 - 6,850",
+      "averagePrice": 2758,
+      "minimumPrice": 650,
+      "maximumPrice": 6950,
+      "averageStackPrice": 2758,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 39 minotaur staves",
+    "displayName": "Crafting Motif 39: Minotaur Staves",
+    "values": {
+      "commonRange": "40,000 - 53,000",
+      "averagePrice": 44495,
+      "minimumPrice": 30039,
+      "maximumPrice": 70000,
+      "averageStackPrice": 44495,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 84 blackreach vanguard gloves",
+    "displayName": "Crafting Motif 84: Blackreach Vanguard Gloves",
+    "values": {
+      "commonRange": "2,000 - 6,000",
+      "averagePrice": 4695,
+      "minimumPrice": 2000,
+      "maximumPrice": 6000,
+      "averageStackPrice": 4695,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 119 blessed inheritor daggers",
+    "displayName": "Crafting Motif 119: Blessed Inheritor Daggers",
+    "values": {
+      "commonRange": "20,000 - 41,000",
+      "averagePrice": 36299,
+      "minimumPrice": 10000,
+      "maximumPrice": 56500,
+      "averageStackPrice": 36299,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design solitude bread partial loaf",
+    "displayName": "Design: Solitude Bread, Partial Loaf",
+    "values": {
+      "commonRange": "1,000 - 1,500",
+      "averagePrice": 1351,
+      "minimumPrice": 1000,
+      "maximumPrice": 1764,
+      "averageStackPrice": 1351,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

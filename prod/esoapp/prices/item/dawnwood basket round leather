@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood basket round leather",
+    "displayName": "Dawnwood Basket, Round Leather",
+    "values": {
+      "commonRange": "1,905 - 2,580",
+      "averagePrice": 2147,
+      "minimumPrice": 1705,
+      "maximumPrice": 2624,
+      "averageStackPrice": 2147,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

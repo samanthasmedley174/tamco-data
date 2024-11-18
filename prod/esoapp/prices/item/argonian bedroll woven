@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian bedroll woven",
+    "displayName": "Argonian Bedroll, Woven",
+    "values": {
+      "commonRange": "3,300 - 6,000",
+      "averagePrice": 5096,
+      "minimumPrice": 2200,
+      "maximumPrice": 10300,
+      "averageStackPrice": 5096,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/02/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

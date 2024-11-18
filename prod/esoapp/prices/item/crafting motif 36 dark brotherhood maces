@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 36 dark brotherhood maces",
+    "displayName": "Crafting Motif 36: Dark Brotherhood Maces",
+    "values": {
+      "commonRange": "8,000 - 13,370",
+      "averagePrice": 10149,
+      "minimumPrice": 7750,
+      "maximumPrice": 15000,
+      "averageStackPrice": 10149,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

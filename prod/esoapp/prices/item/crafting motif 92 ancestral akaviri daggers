@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 92 ancestral akaviri daggers",
+    "displayName": "Crafting Motif 92: Ancestral Akaviri Daggers",
+    "values": {
+      "commonRange": "25,000 - 38,000",
+      "averagePrice": 34965,
+      "minimumPrice": 17939,
+      "maximumPrice": 55569,
+      "averageStackPrice": 34965,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

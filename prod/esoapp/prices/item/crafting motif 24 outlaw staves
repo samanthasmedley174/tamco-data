@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 24 outlaw staves",
+    "displayName": "Crafting Motif 24: Outlaw Staves",
+    "values": {
+      "commonRange": "20,000 - 55,039",
+      "averagePrice": 39510,
+      "minimumPrice": 4400,
+      "maximumPrice": 65000,
+      "averageStackPrice": 39510,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

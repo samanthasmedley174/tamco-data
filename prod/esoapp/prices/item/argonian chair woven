@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian chair woven",
+    "displayName": "Argonian Chair, Woven",
+    "values": {
+      "commonRange": "400 - 1,300",
+      "averagePrice": 810,
+      "minimumPrice": 350,
+      "maximumPrice": 2200,
+      "averageStackPrice": 810,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blunted blades ice staff",
+    "displayName": "Blunted Blades Ice Staff",
+    "values": {
+      "commonRange": "1,250 - 5,240",
+      "averagePrice": 3282,
+      "minimumPrice": 850,
+      "maximumPrice": 5240,
+      "averageStackPrice": 3282,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

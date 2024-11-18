@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 30 morag tong chests",
+    "displayName": "Crafting Motif 30: Morag Tong Chests",
+    "values": {
+      "commonRange": "7,000 - 15,000",
+      "averagePrice": 9638,
+      "minimumPrice": 4500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9638,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

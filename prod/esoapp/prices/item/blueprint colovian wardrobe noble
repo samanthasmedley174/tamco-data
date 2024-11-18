@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian wardrobe noble",
+    "displayName": "Blueprint: Colovian Wardrobe, Noble",
+    "values": {
+      "commonRange": "22,000 - 35,553",
+      "averagePrice": 25975,
+      "minimumPrice": 1450,
+      "maximumPrice": 35879,
+      "averageStackPrice": 25975,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

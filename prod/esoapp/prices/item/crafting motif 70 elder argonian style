@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 70 elder argonian style",
+    "displayName": "Crafting Motif 70: Elder Argonian Style",
+    "values": {
+      "commonRange": "200,000 - 339,000",
+      "averagePrice": 269500,
+      "minimumPrice": 200000,
+      "maximumPrice": 339000,
+      "averageStackPrice": 269500,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Motifs",
+    "date": "06/21/2022",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

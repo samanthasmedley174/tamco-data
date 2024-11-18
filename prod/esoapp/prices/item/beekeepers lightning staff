@@ -1,0 +1,18 @@
+[
+  {
+    "name": "beekeepers lightning staff",
+    "displayName": "Beekeeper's Lightning Staff",
+    "values": {
+      "commonRange": "400 - 5,100",
+      "averagePrice": 3249,
+      "minimumPrice": 240,
+      "maximumPrice": 9995,
+      "averageStackPrice": 3249,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 50 telvanni swords",
+    "displayName": "Crafting Motif 50: Telvanni Swords",
+    "values": {
+      "commonRange": "4,768 - 13,100",
+      "averagePrice": 8718,
+      "minimumPrice": 3000,
+      "maximumPrice": 18539,
+      "averageStackPrice": 8718,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

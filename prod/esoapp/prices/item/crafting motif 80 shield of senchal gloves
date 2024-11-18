@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 80 shield of senchal gloves",
+    "displayName": "Crafting Motif 80: Shield of Senchal Gloves",
+    "values": {
+      "commonRange": "6,000 - 12,065",
+      "averagePrice": 9855,
+      "minimumPrice": 5039,
+      "maximumPrice": 12200,
+      "averageStackPrice": 9855,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

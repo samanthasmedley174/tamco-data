@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bittergreen",
+    "displayName": "Bittergreen",
+    "values": {
+      "commonRange": "5 - 10",
+      "averagePrice": 9,
+      "minimumPrice": 3,
+      "maximumPrice": 25,
+      "averageStackPrice": 1800,
+      "commonStackSize": 200,
+      "salesRecorded": 30
+    },
+    "type": "Provisioning Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

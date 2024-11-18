@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design elsweyr bowl deep ceramic",
+    "displayName": "Design: Elsweyr Bowl, Deep Ceramic",
+    "values": {
+      "commonRange": "1,000 - 2,200",
+      "averagePrice": 1534,
+      "minimumPrice": 440,
+      "maximumPrice": 2230,
+      "averageStackPrice": 1534,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

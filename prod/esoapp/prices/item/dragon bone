@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dragon bone",
+    "displayName": "Dragon Bone",
+    "values": {
+      "commonRange": "1,000 - 1,800",
+      "averagePrice": 1529,
+      "minimumPrice": 400,
+      "maximumPrice": 1831,
+      "averageStackPrice": 7645,
+      "commonStackSize": 5,
+      "salesRecorded": 20
+    },
+    "type": "Style Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Dragon_Bone.png"
+  }
+]

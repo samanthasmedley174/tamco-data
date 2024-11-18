@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bow of kynes kiss",
+    "displayName": "Bow of Kyne's Kiss",
+    "values": {
+      "commonRange": "1,000 - 3,800",
+      "averagePrice": 2143,
+      "minimumPrice": 246,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2143,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

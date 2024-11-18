@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint vampiric trunk polished wood",
+    "displayName": "Blueprint: Vampiric Trunk, Polished Wood",
+    "values": {
+      "commonRange": "2,000 - 2,655",
+      "averagePrice": 2444,
+      "minimumPrice": 2000,
+      "maximumPrice": 3000,
+      "averageStackPrice": 2444,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 119 blessed inheritor bows",
+    "displayName": "Crafting Motif 119: Blessed Inheritor Bows",
+    "values": {
+      "commonRange": "14,892 - 45,000",
+      "averagePrice": 23684,
+      "minimumPrice": 14000,
+      "maximumPrice": 70000,
+      "averageStackPrice": 23684,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

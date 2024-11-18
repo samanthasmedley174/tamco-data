@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint hlaalu bench polished",
+    "displayName": "Blueprint: Hlaalu Bench, Polished",
+    "values": {
+      "commonRange": "3,000 - 6,970",
+      "averagePrice": 5433,
+      "minimumPrice": 3000,
+      "maximumPrice": 10356,
+      "averageStackPrice": 5433,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

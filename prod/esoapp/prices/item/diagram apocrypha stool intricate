@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram apocrypha stool intricate",
+    "displayName": "Diagram: Apocrypha Stool, Intricate",
+    "values": {
+      "commonRange": "3,000 - 8,874",
+      "averagePrice": 4673,
+      "minimumPrice": 400,
+      "maximumPrice": 9264,
+      "averageStackPrice": 4673,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

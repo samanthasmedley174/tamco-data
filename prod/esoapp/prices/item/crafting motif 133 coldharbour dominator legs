@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 133 coldharbour dominator legs",
+    "displayName": "Crafting Motif 133: Coldharbour Dominator Legs",
+    "values": {
+      "commonRange": "90,000 - 114,415",
+      "averagePrice": 105845,
+      "minimumPrice": 70000,
+      "maximumPrice": 116799,
+      "averageStackPrice": 105845,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

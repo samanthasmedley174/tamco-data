@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of frostbite",
+    "displayName": "Breeches of Frostbite",
+    "values": {
+      "commonRange": "500 - 11,000",
+      "averagePrice": 5846,
+      "minimumPrice": 180,
+      "maximumPrice": 30000,
+      "averageStackPrice": 5846,
+      "commonStackSize": 1,
+      "salesRecorded": 64
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

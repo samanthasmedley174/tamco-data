@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint wood carving kwama",
+    "displayName": "Blueprint: Wood Carving, Kwama",
+    "values": {
+      "commonRange": "2,000 - 6,975",
+      "averagePrice": 5138,
+      "minimumPrice": 1420,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5138,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

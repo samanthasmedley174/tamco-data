@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint solitude nightstand drawers",
+    "displayName": "Blueprint: Solitude Nightstand, Drawers",
+    "values": {
+      "commonRange": "1,000 - 3,596",
+      "averagePrice": 1949,
+      "minimumPrice": 827,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1949,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

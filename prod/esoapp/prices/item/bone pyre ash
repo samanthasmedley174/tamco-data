@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bone pyre ash",
+    "displayName": "Bone Pyre Ash",
+    "values": {
+      "commonRange": "400 - 673",
+      "averagePrice": 506,
+      "minimumPrice": 3,
+      "maximumPrice": 800,
+      "averageStackPrice": 5060,
+      "commonStackSize": 10,
+      "salesRecorded": 12
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Bone_Pyre_Ash.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 104 ancient daedric swords",
+    "displayName": "Crafting Motif 104: Ancient Daedric Swords",
+    "values": {
+      "commonRange": "39,829 - 50,000",
+      "averagePrice": 50774,
+      "minimumPrice": 39000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 50774,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

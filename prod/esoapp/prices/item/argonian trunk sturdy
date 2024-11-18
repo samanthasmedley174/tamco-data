@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian trunk sturdy",
+    "displayName": "Argonian Trunk, Sturdy",
+    "values": {
+      "commonRange": "900 - 7,935",
+      "averagePrice": 3134,
+      "minimumPrice": 200,
+      "maximumPrice": 7999,
+      "averageStackPrice": 3134,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

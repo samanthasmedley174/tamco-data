@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 22 trinimac shields",
+    "displayName": "Crafting Motif 22: Trinimac Shields",
+    "values": {
+      "commonRange": "70,000 - 86,670",
+      "averagePrice": 80726,
+      "minimumPrice": 69338,
+      "maximumPrice": 100579,
+      "averageStackPrice": 80726,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

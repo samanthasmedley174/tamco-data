@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 19 mercenary chests",
+    "displayName": "Crafting Motif 19: Mercenary Chests",
+    "values": {
+      "commonRange": "60,000 - 90,000",
+      "averagePrice": 75395,
+      "minimumPrice": 45000,
+      "maximumPrice": 150000,
+      "averageStackPrice": 75395,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

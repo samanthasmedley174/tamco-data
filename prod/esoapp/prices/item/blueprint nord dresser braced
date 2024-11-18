@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint nord dresser braced",
+    "displayName": "Blueprint: Nord Dresser, Braced",
+    "values": {
+      "commonRange": "625 - 1,407",
+      "averagePrice": 1184,
+      "minimumPrice": 550,
+      "maximumPrice": 3691,
+      "averageStackPrice": 1184,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

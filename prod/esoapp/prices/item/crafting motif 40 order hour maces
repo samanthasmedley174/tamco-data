@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 40 order hour maces",
+    "displayName": "Crafting Motif 40: Order Hour Maces",
+    "values": {
+      "commonRange": "15,000 - 27,335",
+      "averagePrice": 18772,
+      "minimumPrice": 14335,
+      "maximumPrice": 30000,
+      "averageStackPrice": 18772,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

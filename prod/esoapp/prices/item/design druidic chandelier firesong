@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design druidic chandelier firesong",
+    "displayName": "Design: Druidic Chandelier, Firesong",
+    "values": {
+      "commonRange": "50,000 - 70,000",
+      "averagePrice": 58410,
+      "minimumPrice": 40221,
+      "maximumPrice": 74366,
+      "averageStackPrice": 58410,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

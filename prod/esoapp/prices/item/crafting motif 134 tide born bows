@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 134 tide born bows",
+    "displayName": "Crafting Motif 134: Tide-Born Bows",
+    "values": {
+      "commonRange": "3,000 - 8,000",
+      "averagePrice": 6328,
+      "minimumPrice": 1751,
+      "maximumPrice": 9000,
+      "averageStackPrice": 6328,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

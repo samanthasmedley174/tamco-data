@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battle axe of agility",
+    "displayName": "Battle Axe of Agility",
+    "values": {
+      "commonRange": "300 - 2,246",
+      "averagePrice": 1194,
+      "minimumPrice": 240,
+      "maximumPrice": 3246,
+      "averageStackPrice": 1194,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

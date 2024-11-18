@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 100 true sworn boots",
+    "displayName": "Crafting Motif 100: True-Sworn Boots",
+    "values": {
+      "commonRange": "10,052 - 20,000",
+      "averagePrice": 20226,
+      "minimumPrice": 10052,
+      "maximumPrice": 80039,
+      "averageStackPrice": 20226,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

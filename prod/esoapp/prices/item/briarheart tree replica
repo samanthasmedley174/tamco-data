@@ -1,0 +1,18 @@
+[
+  {
+    "name": "briarheart tree replica",
+    "displayName": "Briarheart Tree, Replica",
+    "values": {
+      "commonRange": "125,000 - 169,728",
+      "averagePrice": 140196,
+      "minimumPrice": 114893,
+      "maximumPrice": 169728,
+      "averageStackPrice": 140196,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

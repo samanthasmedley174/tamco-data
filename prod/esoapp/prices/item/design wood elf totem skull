@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design wood elf totem skull",
+    "displayName": "Design: Wood Elf Totem, Skull",
+    "values": {
+      "commonRange": "9,041 - 11,141",
+      "averagePrice": 10262,
+      "minimumPrice": 9000,
+      "maximumPrice": 11198,
+      "averageStackPrice": 10262,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 78 moongrave fane gloves",
+    "displayName": "Crafting Motif 78: Moongrave Fane Gloves",
+    "values": {
+      "commonRange": "11,000 - 16,000",
+      "averagePrice": 14334,
+      "minimumPrice": 10000,
+      "maximumPrice": 16039,
+      "averageStackPrice": 14334,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

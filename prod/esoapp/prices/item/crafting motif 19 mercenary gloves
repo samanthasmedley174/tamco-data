@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 19 mercenary gloves",
+    "displayName": "Crafting Motif 19: Mercenary Gloves",
+    "values": {
+      "commonRange": "5,000 - 15,000",
+      "averagePrice": 9912,
+      "minimumPrice": 2000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9912,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

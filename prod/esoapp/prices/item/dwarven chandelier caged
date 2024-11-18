@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven chandelier caged",
+    "displayName": "Dwarven Chandelier, Caged",
+    "values": {
+      "commonRange": "3,300 - 8,900",
+      "averagePrice": 7131,
+      "minimumPrice": 3000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 7131,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

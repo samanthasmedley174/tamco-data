@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 125 blind path cultist shoulders",
+    "displayName": "Crafting Motif 125: Blind Path Cultist Shoulders",
+    "values": {
+      "commonRange": "25,000 - 50,000",
+      "averagePrice": 34512,
+      "minimumPrice": 18000,
+      "maximumPrice": 100039,
+      "averageStackPrice": 34512,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

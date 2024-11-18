@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alchemical apparatus condenser",
+    "displayName": "Alchemical Apparatus, Condenser",
+    "values": {
+      "commonRange": "5,675 - 36,990",
+      "averagePrice": 21088,
+      "minimumPrice": 5675,
+      "maximumPrice": 40000,
+      "averageStackPrice": 21088,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic bookcase tall wood",
+    "displayName": "Druidic Bookcase, Tall Wood",
+    "values": {
+      "commonRange": "5,000 - 6,279",
+      "averagePrice": 5483,
+      "minimumPrice": 450,
+      "maximumPrice": 7500,
+      "averageStackPrice": 5483,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

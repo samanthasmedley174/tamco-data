@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breton desk knotwork",
+    "displayName": "Breton Desk, Knotwork",
+    "values": {
+      "commonRange": "1,000 - 4,150",
+      "averagePrice": 2752,
+      "minimumPrice": 950,
+      "maximumPrice": 5299,
+      "averageStackPrice": 2752,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

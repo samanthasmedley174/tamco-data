@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood lantern table",
+    "displayName": "Dawnwood Lantern, Table",
+    "values": {
+      "commonRange": "2,500 - 2,701",
+      "averagePrice": 2551,
+      "minimumPrice": 2000,
+      "maximumPrice": 2701,
+      "averageStackPrice": 5102,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

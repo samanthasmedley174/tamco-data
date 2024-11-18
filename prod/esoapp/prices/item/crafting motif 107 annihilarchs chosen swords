@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 107 annihilarchs chosen swords",
+    "displayName": "Crafting Motif 107: Annihilarch's Chosen Swords",
+    "values": {
+      "commonRange": "20,000 - 34,074",
+      "averagePrice": 25962,
+      "minimumPrice": 5000,
+      "maximumPrice": 38654,
+      "averageStackPrice": 25962,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

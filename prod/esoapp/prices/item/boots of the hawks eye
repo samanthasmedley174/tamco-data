@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boots of the hawks eye",
+    "displayName": "Boots of the Hawk's Eye",
+    "values": {
+      "commonRange": "387 - 5,087",
+      "averagePrice": 2442,
+      "minimumPrice": 200,
+      "maximumPrice": 16000,
+      "averageStackPrice": 2442,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

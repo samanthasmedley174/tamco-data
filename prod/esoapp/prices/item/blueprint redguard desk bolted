@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard desk bolted",
+    "displayName": "Blueprint: Redguard Desk, Bolted",
+    "values": {
+      "commonRange": "19,000 - 21,753",
+      "averagePrice": 19988,
+      "minimumPrice": 14000,
+      "maximumPrice": 23684,
+      "averageStackPrice": 19988,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

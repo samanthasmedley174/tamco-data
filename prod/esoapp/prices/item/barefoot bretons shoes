@@ -1,0 +1,18 @@
+[
+  {
+    "name": "barefoot bretons shoes",
+    "displayName": "Barefoot Breton's Shoes",
+    "values": {
+      "commonRange": "650 - 5,121",
+      "averagePrice": 3003,
+      "minimumPrice": 84,
+      "maximumPrice": 6157,
+      "averageStackPrice": 3003,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

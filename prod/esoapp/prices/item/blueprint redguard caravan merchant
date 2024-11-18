@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint redguard caravan merchant",
+    "displayName": "Blueprint: Redguard Caravan, Merchant",
+    "values": {
+      "commonRange": "12,595 - 15,595",
+      "averagePrice": 15431,
+      "minimumPrice": 11000,
+      "maximumPrice": 24000,
+      "averageStackPrice": 15431,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 85 greymoor style",
+    "displayName": "Crafting Motif 85: Greymoor Style",
+    "values": {
+      "commonRange": "500,000 - 543,481",
+      "averagePrice": 835870,
+      "minimumPrice": 400000,
+      "maximumPrice": 1900000,
+      "averageStackPrice": 835870,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Motifs",
+    "date": "01/25/2022",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

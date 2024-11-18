@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint murkmire counter low cabinet",
+    "displayName": "Blueprint: Murkmire Counter, Low Cabinet",
+    "values": {
+      "commonRange": "1,000 - 15,000",
+      "averagePrice": 8204,
+      "minimumPrice": 599,
+      "maximumPrice": 40000,
+      "averageStackPrice": 8204,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

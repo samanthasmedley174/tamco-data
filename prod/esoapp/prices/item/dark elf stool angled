@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf stool angled",
+    "displayName": "Dark Elf Stool, Angled",
+    "values": {
+      "commonRange": "1,000 - 4,000",
+      "averagePrice": 2125,
+      "minimumPrice": 225,
+      "maximumPrice": 4150,
+      "averageStackPrice": 2125,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/15/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

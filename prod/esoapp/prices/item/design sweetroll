@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design sweetroll",
+    "displayName": "Design: Sweetroll",
+    "values": {
+      "commonRange": "3,872 - 7,000",
+      "averagePrice": 5011,
+      "minimumPrice": 2367,
+      "maximumPrice": 7500,
+      "averageStackPrice": 5011,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

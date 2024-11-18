@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boulder large mossy limestone",
+    "displayName": "Boulder, Large Mossy Limestone",
+    "values": {
+      "commonRange": "785 - 3,000",
+      "averagePrice": 1463,
+      "minimumPrice": 15,
+      "maximumPrice": 3015,
+      "averageStackPrice": 1463,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/12/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

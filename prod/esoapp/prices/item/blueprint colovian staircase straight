@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian staircase straight",
+    "displayName": "Blueprint: Colovian Staircase, Straight",
+    "values": {
+      "commonRange": "22,000 - 25,000",
+      "averagePrice": 23451,
+      "minimumPrice": 20000,
+      "maximumPrice": 26322,
+      "averageStackPrice": 23451,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

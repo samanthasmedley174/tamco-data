@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork sequence plaque single",
+    "displayName": "Clockwork Sequence Plaque, Single",
+    "values": {
+      "commonRange": "500 - 1,000",
+      "averagePrice": 740,
+      "minimumPrice": 300,
+      "maximumPrice": 1000,
+      "averageStackPrice": 740,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/04/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

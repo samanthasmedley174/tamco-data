@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram necrom lamp post metal",
+    "displayName": "Diagram: Necrom Lamp Post, Metal",
+    "values": {
+      "commonRange": "15,000 - 30,000",
+      "averagePrice": 19372,
+      "minimumPrice": 14750,
+      "maximumPrice": 39000,
+      "averageStackPrice": 19372,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

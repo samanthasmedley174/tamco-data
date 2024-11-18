@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor wall mirror noble",
+    "displayName": "Alinor Wall Mirror, Noble",
+    "values": {
+      "commonRange": "1,000,000 - 1,000,000",
+      "averagePrice": 1000000,
+      "minimumPrice": 1000000,
+      "maximumPrice": 1000000,
+      "averageStackPrice": 1000000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Furnishings",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

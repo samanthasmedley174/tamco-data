@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clockwork surveyors tripod calibrated",
+    "displayName": "Clockwork Surveyor's Tripod, Calibrated",
+    "values": {
+      "commonRange": "2,400 - 7,000",
+      "averagePrice": 5212,
+      "minimumPrice": 2000,
+      "maximumPrice": 10150,
+      "averageStackPrice": 5212,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

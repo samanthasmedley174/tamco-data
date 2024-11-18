@@ -1,0 +1,18 @@
+[
+  {
+    "name": "disposable swallowers sword",
+    "displayName": "Disposable Swallower's Sword",
+    "values": {
+      "commonRange": "0 - 1",
+      "averagePrice": 1,
+      "minimumPrice": 1,
+      "maximumPrice": 2,
+      "averageStackPrice": 50,
+      "commonStackSize": 50,
+      "salesRecorded": 10
+    },
+    "type": "Miscellaneous",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Miscellaneous/Disposable_Swallower's_Sword.png"
+  }
+]

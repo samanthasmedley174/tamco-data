@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian pole split",
+    "displayName": "Argonian Pole, Split",
+    "values": {
+      "commonRange": "420 - 2,238",
+      "averagePrice": 1671,
+      "minimumPrice": 420,
+      "maximumPrice": 6960,
+      "averageStackPrice": 1671,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint wood elf tent frame",
+    "displayName": "Blueprint: Wood Elf Tent, Frame",
+    "values": {
+      "commonRange": "10,000 - 18,000",
+      "averagePrice": 12605,
+      "minimumPrice": 10000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 12605,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

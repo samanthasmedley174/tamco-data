@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 75 sunspire staves",
+    "displayName": "Crafting Motif 75: Sunspire Staves",
+    "values": {
+      "commonRange": "5,000 - 10,000",
+      "averagePrice": 8502,
+      "minimumPrice": 5000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 8502,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

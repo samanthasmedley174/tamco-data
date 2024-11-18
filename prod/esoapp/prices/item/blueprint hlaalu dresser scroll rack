@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint hlaalu dresser scroll rack",
+    "displayName": "Blueprint: Hlaalu Dresser, Scroll Rack",
+    "values": {
+      "commonRange": "4,000 - 9,000",
+      "averagePrice": 6039,
+      "minimumPrice": 4000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 6039,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

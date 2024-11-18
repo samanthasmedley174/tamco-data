@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design beets display",
+    "displayName": "Design: Beets, Display",
+    "values": {
+      "commonRange": "57 - 500",
+      "averagePrice": 289,
+      "minimumPrice": 57,
+      "maximumPrice": 1027,
+      "averageStackPrice": 289,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dreamers jerkin",
+    "displayName": "Dreamer's Jerkin",
+    "values": {
+      "commonRange": "274 - 680",
+      "averagePrice": 537,
+      "minimumPrice": 174,
+      "maximumPrice": 799,
+      "averageStackPrice": 537,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

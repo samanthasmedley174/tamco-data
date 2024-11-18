@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blood groove",
+    "displayName": "Blood Groove",
+    "values": {
+      "commonRange": "1,041 - 1,100",
+      "averagePrice": 1071,
+      "minimumPrice": 1041,
+      "maximumPrice": 1100,
+      "averageStackPrice": 1071,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

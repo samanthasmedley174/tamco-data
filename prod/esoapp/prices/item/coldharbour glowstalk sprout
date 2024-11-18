@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coldharbour glowstalk sprout",
+    "displayName": "Coldharbour Glowstalk, Sprout",
+    "values": {
+      "commonRange": "1,000 - 5,000",
+      "averagePrice": 3616,
+      "minimumPrice": 1000,
+      "maximumPrice": 5999,
+      "averageStackPrice": 3616,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

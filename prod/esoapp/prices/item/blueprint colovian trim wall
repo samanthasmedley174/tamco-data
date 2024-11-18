@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint colovian trim wall",
+    "displayName": "Blueprint: Colovian Trim, Wall",
+    "values": {
+      "commonRange": "200 - 2,010",
+      "averagePrice": 1682,
+      "minimumPrice": 127,
+      "maximumPrice": 3027,
+      "averageStackPrice": 1682,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

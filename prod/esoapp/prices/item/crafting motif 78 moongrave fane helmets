@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 78 moongrave fane helmets",
+    "displayName": "Crafting Motif 78: Moongrave Fane Helmets",
+    "values": {
+      "commonRange": "13,000 - 35,478",
+      "averagePrice": 20403,
+      "minimumPrice": 5000,
+      "maximumPrice": 38000,
+      "averageStackPrice": 20403,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

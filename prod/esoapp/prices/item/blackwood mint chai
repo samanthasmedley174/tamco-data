@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blackwood mint chai",
+    "displayName": "Blackwood Mint Chai",
+    "values": {
+      "commonRange": "5 - 6",
+      "averagePrice": 5,
+      "minimumPrice": 3,
+      "maximumPrice": 6,
+      "averageStackPrice": 500,
+      "commonStackSize": 100,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "09/03/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/blackwood_mint_chai.png"
+  }
+]

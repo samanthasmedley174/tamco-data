@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram minecart track straight short",
+    "displayName": "Diagram: Minecart Track, Straight Short",
+    "values": {
+      "commonRange": "227 - 700",
+      "averagePrice": 693,
+      "minimumPrice": 200,
+      "maximumPrice": 3000,
+      "averageStackPrice": 693,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

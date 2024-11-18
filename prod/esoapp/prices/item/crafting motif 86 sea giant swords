@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 86 sea giant swords",
+    "displayName": "Crafting Motif 86: Sea Giant Swords",
+    "values": {
+      "commonRange": "4,000 - 6,057",
+      "averagePrice": 5322,
+      "minimumPrice": 4000,
+      "maximumPrice": 6507,
+      "averageStackPrice": 5322,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

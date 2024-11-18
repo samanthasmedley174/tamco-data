@@ -1,0 +1,18 @@
+[
+  {
+    "name": "carmine shieldsilk",
+    "displayName": "Carmine Shieldsilk",
+    "values": {
+      "commonRange": "106 - 753",
+      "averagePrice": 352,
+      "minimumPrice": 23,
+      "maximumPrice": 1003,
+      "averageStackPrice": 352,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Materials",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Carmine_Shieldsilk.png"
+  }
+]

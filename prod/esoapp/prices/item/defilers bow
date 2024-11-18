@@ -1,0 +1,18 @@
+[
+  {
+    "name": "defilers bow",
+    "displayName": "Defiler's Bow",
+    "values": {
+      "commonRange": "240 - 10,900",
+      "averagePrice": 7112,
+      "minimumPrice": 50,
+      "maximumPrice": 299995,
+      "averageStackPrice": 7112,
+      "commonStackSize": 1,
+      "salesRecorded": 80
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

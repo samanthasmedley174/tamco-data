@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 20 yokudan shoulders",
+    "displayName": "Crafting Motif 20: Yokudan Shoulders",
+    "values": {
+      "commonRange": "14,534 - 190,000",
+      "averagePrice": 54260,
+      "minimumPrice": 5000,
+      "maximumPrice": 190000,
+      "averageStackPrice": 54260,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

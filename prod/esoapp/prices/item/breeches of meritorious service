@@ -1,0 +1,18 @@
+[
+  {
+    "name": "breeches of meritorious service",
+    "displayName": "Breeches of Meritorious Service",
+    "values": {
+      "commonRange": "5,000 - 8,544",
+      "averagePrice": 6635,
+      "minimumPrice": 2544,
+      "maximumPrice": 8544,
+      "averageStackPrice": 6635,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

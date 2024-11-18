@@ -1,0 +1,18 @@
+[
+  {
+    "name": "alinor pew polished",
+    "displayName": "Alinor Pew, Polished",
+    "values": {
+      "commonRange": "7,250 - 12,000",
+      "averagePrice": 9092,
+      "minimumPrice": 4960,
+      "maximumPrice": 12950,
+      "averageStackPrice": 9092,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

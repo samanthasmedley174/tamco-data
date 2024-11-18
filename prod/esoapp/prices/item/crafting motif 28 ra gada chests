@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 28 ra gada chests",
+    "displayName": "Crafting Motif 28: Ra Gada Chests",
+    "values": {
+      "commonRange": "2,239 - 5,512",
+      "averagePrice": 4058,
+      "minimumPrice": 2039,
+      "maximumPrice": 7000,
+      "averageStackPrice": 4058,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

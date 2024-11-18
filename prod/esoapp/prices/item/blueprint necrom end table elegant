@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint necrom end table elegant",
+    "displayName": "Blueprint: Necrom End Table, Elegant",
+    "values": {
+      "commonRange": "1,242 - 4,063",
+      "averagePrice": 3015,
+      "minimumPrice": 1100,
+      "maximumPrice": 4979,
+      "averageStackPrice": 3015,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

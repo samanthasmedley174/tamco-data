@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design cured meats",
+    "displayName": "Design: Cured Meats",
+    "values": {
+      "commonRange": "230 - 751",
+      "averagePrice": 580,
+      "minimumPrice": 30,
+      "maximumPrice": 951,
+      "averageStackPrice": 580,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

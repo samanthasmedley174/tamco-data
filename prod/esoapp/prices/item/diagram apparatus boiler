@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram apparatus boiler",
+    "displayName": "Diagram: Apparatus, Boiler",
+    "values": {
+      "commonRange": "22,000 - 50,000",
+      "averagePrice": 35023,
+      "minimumPrice": 21740,
+      "maximumPrice": 50045,
+      "averageStackPrice": 35023,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

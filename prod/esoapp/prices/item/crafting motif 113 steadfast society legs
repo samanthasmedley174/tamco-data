@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 113 steadfast society legs",
+    "displayName": "Crafting Motif 113: Steadfast Society Legs",
+    "values": {
+      "commonRange": "3,000 - 9,664",
+      "averagePrice": 10041,
+      "minimumPrice": 3000,
+      "maximumPrice": 50039,
+      "averageStackPrice": 10041,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

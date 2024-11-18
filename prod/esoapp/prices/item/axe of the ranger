@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of the ranger",
+    "displayName": "Axe of the Ranger",
+    "values": {
+      "commonRange": "144 - 144",
+      "averagePrice": 144,
+      "minimumPrice": 144,
+      "maximumPrice": 144,
+      "averageStackPrice": 144,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

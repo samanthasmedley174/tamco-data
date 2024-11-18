@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 55 dreadhorn boots",
+    "displayName": "Crafting Motif 55: Dreadhorn Boots",
+    "values": {
+      "commonRange": "4,000 - 5,801",
+      "averagePrice": 5024,
+      "minimumPrice": 2396,
+      "maximumPrice": 6618,
+      "averageStackPrice": 5024,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

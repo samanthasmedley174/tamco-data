@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram high elf candle winged",
+    "displayName": "Diagram: High Elf Candle, Winged",
+    "values": {
+      "commonRange": "16,300 - 24,877",
+      "averagePrice": 21279,
+      "minimumPrice": 15000,
+      "maximumPrice": 24877,
+      "averageStackPrice": 21279,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

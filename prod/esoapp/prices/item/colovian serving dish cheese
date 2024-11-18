@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian serving dish cheese",
+    "displayName": "Colovian Serving Dish, Cheese",
+    "values": {
+      "commonRange": "4,450 - 12,150",
+      "averagePrice": 7459,
+      "minimumPrice": 1650,
+      "maximumPrice": 14995,
+      "averageStackPrice": 7459,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

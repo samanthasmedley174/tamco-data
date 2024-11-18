@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 76 dragonguard boots",
+    "displayName": "Crafting Motif 76: Dragonguard Boots",
+    "values": {
+      "commonRange": "6,039 - 15,000",
+      "averagePrice": 10183,
+      "minimumPrice": 1200,
+      "maximumPrice": 23702,
+      "averageStackPrice": 10183,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

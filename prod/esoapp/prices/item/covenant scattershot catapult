@@ -1,0 +1,18 @@
+[
+  {
+    "name": "covenant scattershot catapult",
+    "displayName": "Covenant Scattershot Catapult",
+    "values": {
+      "commonRange": "100 - 333",
+      "averagePrice": 621,
+      "minimumPrice": 50,
+      "maximumPrice": 2000,
+      "averageStackPrice": 621,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Siege Equipment",
+    "date": "03/30/2021",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Covenant_Scattershot_Catapult.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 89 ancestral high elf gloves",
+    "displayName": "Crafting Motif 89: Ancestral High Elf Gloves",
+    "values": {
+      "commonRange": "2,500 - 5,656",
+      "averagePrice": 4401,
+      "minimumPrice": 1802,
+      "maximumPrice": 6500,
+      "averageStackPrice": 4401,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

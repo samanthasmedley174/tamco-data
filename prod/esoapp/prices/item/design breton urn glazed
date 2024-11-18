@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design breton urn glazed",
+    "displayName": "Design: Breton Urn, Glazed",
+    "values": {
+      "commonRange": "394 - 900",
+      "averagePrice": 631,
+      "minimumPrice": 50,
+      "maximumPrice": 1000,
+      "averageStackPrice": 631,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

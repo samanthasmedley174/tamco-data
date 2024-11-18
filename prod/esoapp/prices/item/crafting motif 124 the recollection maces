@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 124 the recollection maces",
+    "displayName": "Crafting Motif 124: The Recollection Maces",
+    "values": {
+      "commonRange": "42,000 - 50,000",
+      "averagePrice": 48767,
+      "minimumPrice": 40000,
+      "maximumPrice": 101000,
+      "averageStackPrice": 48767,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

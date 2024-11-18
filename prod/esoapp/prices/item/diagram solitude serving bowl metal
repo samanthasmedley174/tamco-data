@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram solitude serving bowl metal",
+    "displayName": "Diagram: Solitude Serving Bowl, Metal",
+    "values": {
+      "commonRange": "4,000 - 4,826",
+      "averagePrice": 4990,
+      "minimumPrice": 3858,
+      "maximumPrice": 10030,
+      "averageStackPrice": 4990,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

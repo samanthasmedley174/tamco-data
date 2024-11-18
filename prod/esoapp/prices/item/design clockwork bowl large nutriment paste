@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design clockwork bowl large nutriment paste",
+    "displayName": "Design: Clockwork Bowl, Large Nutriment Paste",
+    "values": {
+      "commonRange": "1,536 - 3,000",
+      "averagePrice": 2386,
+      "minimumPrice": 1000,
+      "maximumPrice": 4500,
+      "averageStackPrice": 2386,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

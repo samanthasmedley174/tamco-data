@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 31 skinchanger staves",
+    "displayName": "Crafting Motif 31: Skinchanger Staves",
+    "values": {
+      "commonRange": "3,039 - 6,084",
+      "averagePrice": 5278,
+      "minimumPrice": 2999,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5278,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

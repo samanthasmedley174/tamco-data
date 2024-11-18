@@ -1,0 +1,18 @@
+[
+  {
+    "name": "defenders breastplate",
+    "displayName": "Defender's Breastplate",
+    "values": {
+      "commonRange": "171 - 471",
+      "averagePrice": 327,
+      "minimumPrice": 150,
+      "maximumPrice": 542,
+      "averageStackPrice": 327,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

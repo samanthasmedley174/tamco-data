@@ -1,0 +1,18 @@
+[
+  {
+    "name": "commanders signet of salvation",
+    "displayName": "Commander's Signet of Salvation",
+    "values": {
+      "commonRange": "450 - 450",
+      "averagePrice": 550,
+      "minimumPrice": 450,
+      "maximumPrice": 750,
+      "averageStackPrice": 550,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

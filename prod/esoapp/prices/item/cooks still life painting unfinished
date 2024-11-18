@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cooks still life painting unfinished",
+    "displayName": "Cook's Still Life Painting, Unfinished",
+    "values": {
+      "commonRange": "90,000 - 136,667",
+      "averagePrice": 125350,
+      "minimumPrice": 50000,
+      "maximumPrice": 300000,
+      "averageStackPrice": 125350,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

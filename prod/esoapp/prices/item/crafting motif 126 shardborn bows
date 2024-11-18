@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 126 shardborn bows",
+    "displayName": "Crafting Motif 126: Shardborn Bows",
+    "values": {
+      "commonRange": "4,000 - 8,500",
+      "averagePrice": 5776,
+      "minimumPrice": 3559,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5776,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

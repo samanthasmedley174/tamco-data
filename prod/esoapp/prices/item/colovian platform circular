@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian platform circular",
+    "displayName": "Colovian Platform, Circular",
+    "values": {
+      "commonRange": "4,700 - 13,000",
+      "averagePrice": 9595,
+      "minimumPrice": 2150,
+      "maximumPrice": 13000,
+      "averageStackPrice": 9595,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

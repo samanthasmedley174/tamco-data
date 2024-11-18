@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high isle table ornate",
+    "displayName": "Blueprint: High Isle Table, Ornate",
+    "values": {
+      "commonRange": "3,000 - 9,000",
+      "averagePrice": 5513,
+      "minimumPrice": 2400,
+      "maximumPrice": 12500,
+      "averageStackPrice": 5513,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

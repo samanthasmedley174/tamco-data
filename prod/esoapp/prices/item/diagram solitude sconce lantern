@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram solitude sconce lantern",
+    "displayName": "Diagram: Solitude Sconce, Lantern",
+    "values": {
+      "commonRange": "20,000 - 30,071",
+      "averagePrice": 27618,
+      "minimumPrice": 19999,
+      "maximumPrice": 30725,
+      "averageStackPrice": 27618,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

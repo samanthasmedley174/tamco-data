@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram alinor sconce arched glass",
+    "displayName": "Diagram: Alinor Sconce, Arched Glass",
+    "values": {
+      "commonRange": "28,000 - 31,000",
+      "averagePrice": 29267,
+      "minimumPrice": 25719,
+      "maximumPrice": 32304,
+      "averageStackPrice": 29267,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

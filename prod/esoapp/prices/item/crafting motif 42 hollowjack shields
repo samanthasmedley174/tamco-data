@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 42 hollowjack shields",
+    "displayName": "Crafting Motif 42: Hollowjack Shields",
+    "values": {
+      "commonRange": "375 - 2,500",
+      "averagePrice": 1281,
+      "minimumPrice": 375,
+      "maximumPrice": 3847,
+      "averageStackPrice": 1281,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

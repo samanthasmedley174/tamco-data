@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 60 worm cult gloves",
+    "displayName": "Crafting Motif 60: Worm Cult Gloves",
+    "values": {
+      "commonRange": "6,469 - 9,379",
+      "averagePrice": 7630,
+      "minimumPrice": 6000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 7630,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

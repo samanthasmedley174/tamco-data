@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram orcish knife kitchen",
+    "displayName": "Diagram: Orcish Knife, Kitchen",
+    "values": {
+      "commonRange": "9,544 - 10,039",
+      "averagePrice": 9786,
+      "minimumPrice": 8000,
+      "maximumPrice": 11000,
+      "averageStackPrice": 9786,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "axe of shared pain",
+    "displayName": "Axe of Shared Pain",
+    "values": {
+      "commonRange": "144 - 4,000",
+      "averagePrice": 1775,
+      "minimumPrice": 144,
+      "maximumPrice": 14000,
+      "averageStackPrice": 1775,
+      "commonStackSize": 1,
+      "salesRecorded": 45
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

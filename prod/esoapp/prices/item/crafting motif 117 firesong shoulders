@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 117 firesong shoulders",
+    "displayName": "Crafting Motif 117: Firesong Shoulders",
+    "values": {
+      "commonRange": "9,828 - 14,000",
+      "averagePrice": 11101,
+      "minimumPrice": 8000,
+      "maximumPrice": 17500,
+      "averageStackPrice": 11101,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

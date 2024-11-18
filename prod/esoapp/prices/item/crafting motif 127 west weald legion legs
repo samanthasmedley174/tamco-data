@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 127 west weald legion legs",
+    "displayName": "Crafting Motif 127: West Weald Legion Legs",
+    "values": {
+      "commonRange": "10,999 - 15,000",
+      "averagePrice": 13131,
+      "minimumPrice": 10513,
+      "maximumPrice": 20000,
+      "averageStackPrice": 13131,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

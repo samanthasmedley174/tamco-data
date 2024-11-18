@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint elsweyr trunk peaked embellished",
+    "displayName": "Blueprint: Elsweyr Trunk, Peaked Embellished",
+    "values": {
+      "commonRange": "14,300 - 16,698",
+      "averagePrice": 15942,
+      "minimumPrice": 12500,
+      "maximumPrice": 20039,
+      "averageStackPrice": 15942,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

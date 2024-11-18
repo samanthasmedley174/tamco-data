@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bravil melon salad",
+    "displayName": "Bravil Melon Salad",
+    "values": {
+      "commonRange": "2 - 60",
+      "averagePrice": 19,
+      "minimumPrice": 2,
+      "maximumPrice": 60,
+      "averageStackPrice": 190,
+      "commonStackSize": 10,
+      "salesRecorded": 8
+    },
+    "type": "Food & Drinks",
+    "date": "11/16/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/bravil_melon_salad.png"
+  }
+]

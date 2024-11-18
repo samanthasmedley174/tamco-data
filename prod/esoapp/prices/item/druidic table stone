@@ -1,0 +1,18 @@
+[
+  {
+    "name": "druidic table stone",
+    "displayName": "Druidic Table, Stone",
+    "values": {
+      "commonRange": "2,650 - 5,800",
+      "averagePrice": 6086,
+      "minimumPrice": 2150,
+      "maximumPrice": 19850,
+      "averageStackPrice": 6086,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

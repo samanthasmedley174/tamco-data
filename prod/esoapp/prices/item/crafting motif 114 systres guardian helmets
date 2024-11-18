@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 114 systres guardian helmets",
+    "displayName": "Crafting Motif 114: Systres Guardian Helmets",
+    "values": {
+      "commonRange": "4,039 - 28,305",
+      "averagePrice": 18893,
+      "minimumPrice": 3039,
+      "maximumPrice": 40000,
+      "averageStackPrice": 18893,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clever alchemist sash",
+    "displayName": "Clever Alchemist Sash",
+    "values": {
+      "commonRange": "69,093 - 69,093",
+      "averagePrice": 69093,
+      "minimumPrice": 69093,
+      "maximumPrice": 69093,
+      "averageStackPrice": 69093,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

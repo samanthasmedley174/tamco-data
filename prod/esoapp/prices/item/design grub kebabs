@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design grub kebabs",
+    "displayName": "Design: Grub Kebabs",
+    "values": {
+      "commonRange": "1,327 - 22,627",
+      "averagePrice": 15566,
+      "minimumPrice": 500,
+      "maximumPrice": 30000,
+      "averageStackPrice": 15566,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

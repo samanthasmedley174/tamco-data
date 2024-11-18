@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 38 draugr gloves",
+    "displayName": "Crafting Motif 38: Draugr Gloves",
+    "values": {
+      "commonRange": "2,000 - 3,141",
+      "averagePrice": 2750,
+      "minimumPrice": 550,
+      "maximumPrice": 6000,
+      "averageStackPrice": 2750,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

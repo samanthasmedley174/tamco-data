@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 114 systres guardian axes",
+    "displayName": "Crafting Motif 114: Systres Guardian Axes",
+    "values": {
+      "commonRange": "5,000 - 12,000",
+      "averagePrice": 7726,
+      "minimumPrice": 5000,
+      "maximumPrice": 14000,
+      "averageStackPrice": 7726,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

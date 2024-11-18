@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram common inkwell practical",
+    "displayName": "Diagram: Common Inkwell, Practical",
+    "values": {
+      "commonRange": "1,000 - 2,300",
+      "averagePrice": 1711,
+      "minimumPrice": 527,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1711,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

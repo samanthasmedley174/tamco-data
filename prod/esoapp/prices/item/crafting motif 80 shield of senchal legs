@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 80 shield of senchal legs",
+    "displayName": "Crafting Motif 80: Shield of Senchal Legs",
+    "values": {
+      "commonRange": "8,000 - 11,897",
+      "averagePrice": 10214,
+      "minimumPrice": 8000,
+      "maximumPrice": 12994,
+      "averageStackPrice": 10214,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

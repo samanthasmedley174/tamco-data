@@ -1,0 +1,18 @@
+[
+  {
+    "name": "belt of the ranger",
+    "displayName": "Belt of the Ranger",
+    "values": {
+      "commonRange": "90 - 1,087",
+      "averagePrice": 574,
+      "minimumPrice": 54,
+      "maximumPrice": 2350,
+      "averageStackPrice": 574,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

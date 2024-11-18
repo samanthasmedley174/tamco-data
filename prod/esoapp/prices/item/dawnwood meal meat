@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dawnwood meal meat",
+    "displayName": "Dawnwood Meal, Meat",
+    "values": {
+      "commonRange": "1,000 - 2,602",
+      "averagePrice": 1795,
+      "minimumPrice": 924,
+      "maximumPrice": 2924,
+      "averageStackPrice": 3590,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

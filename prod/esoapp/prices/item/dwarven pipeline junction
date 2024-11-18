@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven pipeline junction",
+    "displayName": "Dwarven Pipeline, Junction",
+    "values": {
+      "commonRange": "3,000 - 3,000",
+      "averagePrice": 2663,
+      "minimumPrice": 1500,
+      "maximumPrice": 3150,
+      "averageStackPrice": 2663,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "04/20/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

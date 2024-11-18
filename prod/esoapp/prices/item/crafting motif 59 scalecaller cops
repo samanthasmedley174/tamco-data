@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 59 scalecaller cops",
+    "displayName": "Crafting Motif 59: Scalecaller Cops",
+    "values": {
+      "commonRange": "7,000 - 11,953",
+      "averagePrice": 9801,
+      "minimumPrice": 5000,
+      "maximumPrice": 13000,
+      "averageStackPrice": 9801,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

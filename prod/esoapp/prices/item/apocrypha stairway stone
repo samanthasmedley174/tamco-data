@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha stairway stone",
+    "displayName": "Apocrypha Stairway, Stone",
+    "values": {
+      "commonRange": "7,604 - 11,696",
+      "averagePrice": 9689,
+      "minimumPrice": 6869,
+      "maximumPrice": 11696,
+      "averageStackPrice": 9689,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "battlefield acrobat bracers",
+    "displayName": "Battlefield Acrobat Bracers",
+    "values": {
+      "commonRange": "590 - 2,090",
+      "averagePrice": 6033,
+      "minimumPrice": 434,
+      "maximumPrice": 60000,
+      "averageStackPrice": 6033,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

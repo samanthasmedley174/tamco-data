@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint high elf bookcase verdant",
+    "displayName": "Blueprint: High Elf Bookcase, Verdant",
+    "values": {
+      "commonRange": "230 - 1,000",
+      "averagePrice": 774,
+      "minimumPrice": 230,
+      "maximumPrice": 2000,
+      "averageStackPrice": 774,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

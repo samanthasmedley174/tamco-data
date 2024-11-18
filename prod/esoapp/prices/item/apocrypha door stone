@@ -1,0 +1,18 @@
+[
+  {
+    "name": "apocrypha door stone",
+    "displayName": "Apocrypha Door, Stone",
+    "values": {
+      "commonRange": "13,500 - 19,960",
+      "averagePrice": 17269,
+      "minimumPrice": 10000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 17269,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

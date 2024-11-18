@@ -1,0 +1,18 @@
+[
+  {
+    "name": "common candle set",
+    "displayName": "Common Candle, Set",
+    "values": {
+      "commonRange": "200 - 700",
+      "averagePrice": 474,
+      "minimumPrice": 60,
+      "maximumPrice": 1000,
+      "averageStackPrice": 474,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

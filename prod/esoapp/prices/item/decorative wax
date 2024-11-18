@@ -1,0 +1,18 @@
+[
+  {
+    "name": "decorative wax",
+    "displayName": "Decorative Wax",
+    "values": {
+      "commonRange": "130 - 210",
+      "averagePrice": 166,
+      "minimumPrice": 15,
+      "maximumPrice": 377,
+      "averageStackPrice": 33200,
+      "commonStackSize": 200,
+      "salesRecorded": 106
+    },
+    "type": "Furnishing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

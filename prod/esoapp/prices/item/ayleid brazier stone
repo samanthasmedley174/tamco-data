@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid brazier stone",
+    "displayName": "Ayleid Brazier, Stone",
+    "values": {
+      "commonRange": "5,000 - 8,000",
+      "averagePrice": 6844,
+      "minimumPrice": 5000,
+      "maximumPrice": 8723,
+      "averageStackPrice": 6844,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

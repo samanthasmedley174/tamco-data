@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of vengeance leech",
+    "displayName": "Dagger of Vengeance Leech",
+    "values": {
+      "commonRange": "1,153 - 17,500",
+      "averagePrice": 7316,
+      "minimumPrice": 750,
+      "maximumPrice": 22000,
+      "averageStackPrice": 7316,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ashbark treads",
+    "displayName": "Ashbark Treads",
+    "values": {
+      "commonRange": "330 - 990",
+      "averagePrice": 654,
+      "minimumPrice": 300,
+      "maximumPrice": 1090,
+      "averageStackPrice": 654,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

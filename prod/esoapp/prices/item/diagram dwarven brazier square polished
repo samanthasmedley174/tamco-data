@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven brazier square polished",
+    "displayName": "Diagram: Dwarven Brazier, Square Polished",
+    "values": {
+      "commonRange": "55,000 - 86,618",
+      "averagePrice": 67301,
+      "minimumPrice": 2150,
+      "maximumPrice": 99000,
+      "averageStackPrice": 67301,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

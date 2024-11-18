@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint breton table kitchen",
+    "displayName": "Blueprint: Breton Table, Kitchen",
+    "values": {
+      "commonRange": "59 - 132",
+      "averagePrice": 107,
+      "minimumPrice": 50,
+      "maximumPrice": 200,
+      "averageStackPrice": 107,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

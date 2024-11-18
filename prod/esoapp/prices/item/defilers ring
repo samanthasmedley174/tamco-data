@@ -1,0 +1,18 @@
+[
+  {
+    "name": "defilers ring",
+    "displayName": "Defiler's Ring",
+    "values": {
+      "commonRange": "144 - 9,900",
+      "averagePrice": 5140,
+      "minimumPrice": 45,
+      "maximumPrice": 92142,
+      "averageStackPrice": 5140,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

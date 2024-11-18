@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dominion battering ram",
+    "displayName": "Dominion Battering Ram",
+    "values": {
+      "commonRange": "50 - 183",
+      "averagePrice": 130,
+      "minimumPrice": 10,
+      "maximumPrice": 250,
+      "averageStackPrice": 260,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Siege Equipment",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Dominion_Battering_Ram.png"
+  }
+]

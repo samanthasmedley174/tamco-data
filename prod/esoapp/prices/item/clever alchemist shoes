@@ -1,0 +1,18 @@
+[
+  {
+    "name": "clever alchemist shoes",
+    "displayName": "Clever Alchemist Shoes",
+    "values": {
+      "commonRange": "67,990 - 67,990",
+      "averagePrice": 65330,
+      "minimumPrice": 60000,
+      "maximumPrice": 67999,
+      "averageStackPrice": 65330,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

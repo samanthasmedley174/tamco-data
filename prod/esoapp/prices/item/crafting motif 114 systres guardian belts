@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 114 systres guardian belts",
+    "displayName": "Crafting Motif 114: Systres Guardian Belts",
+    "values": {
+      "commonRange": "7,638 - 10,656",
+      "averagePrice": 9425,
+      "minimumPrice": 5142,
+      "maximumPrice": 14000,
+      "averageStackPrice": 9425,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

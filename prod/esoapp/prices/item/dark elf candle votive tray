@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dark elf candle votive tray",
+    "displayName": "Dark Elf Candle, Votive Tray",
+    "values": {
+      "commonRange": "2,000 - 5,491",
+      "averagePrice": 4239,
+      "minimumPrice": 2000,
+      "maximumPrice": 6074,
+      "averageStackPrice": 4239,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

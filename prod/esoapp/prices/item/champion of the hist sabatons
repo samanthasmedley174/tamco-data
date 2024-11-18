@@ -1,0 +1,18 @@
+[
+  {
+    "name": "champion of the hist sabatons",
+    "displayName": "Champion of the Hist Sabatons",
+    "values": {
+      "commonRange": "1,000 - 5,373",
+      "averagePrice": 3352,
+      "minimumPrice": 499,
+      "maximumPrice": 8420,
+      "averageStackPrice": 3352,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

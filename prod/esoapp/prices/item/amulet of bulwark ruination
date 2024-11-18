@@ -1,0 +1,18 @@
+[
+  {
+    "name": "amulet of bulwark ruination",
+    "displayName": "Amulet of Bulwark Ruination",
+    "values": {
+      "commonRange": "675 - 6,957",
+      "averagePrice": 2392,
+      "minimumPrice": 353,
+      "maximumPrice": 9998,
+      "averageStackPrice": 2392,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

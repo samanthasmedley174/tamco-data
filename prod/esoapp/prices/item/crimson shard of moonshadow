@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crimson shard of moonshadow",
+    "displayName": "Crimson Shard of Moonshadow",
+    "values": {
+      "commonRange": "200,000 - 255,210",
+      "averagePrice": 226609,
+      "minimumPrice": 154000,
+      "maximumPrice": 255210,
+      "averageStackPrice": 226609,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

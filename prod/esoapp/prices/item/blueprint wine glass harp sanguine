@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint wine glass harp sanguine",
+    "displayName": "Blueprint: Wine Glass Harp, Sanguine",
+    "values": {
+      "commonRange": "200,000 - 233,040",
+      "averagePrice": 212276,
+      "minimumPrice": 165000,
+      "maximumPrice": 327000,
+      "averageStackPrice": 212276,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

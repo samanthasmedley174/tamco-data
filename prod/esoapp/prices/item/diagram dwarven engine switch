@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram dwarven engine switch",
+    "displayName": "Diagram: Dwarven Engine, Switch",
+    "values": {
+      "commonRange": "400,000 - 1,500,039",
+      "averagePrice": 1087753,
+      "minimumPrice": 300000,
+      "maximumPrice": 4000000,
+      "averageStackPrice": 1087753,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "04/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

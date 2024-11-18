@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design dwarven dinner bowl hearty stew",
+    "displayName": "Design: Dwarven Dinner Bowl, Hearty Stew",
+    "values": {
+      "commonRange": "2,000 - 3,159",
+      "averagePrice": 2692,
+      "minimumPrice": 1000,
+      "maximumPrice": 4500,
+      "averageStackPrice": 2692,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

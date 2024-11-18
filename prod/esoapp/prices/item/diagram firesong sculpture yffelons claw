@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram firesong sculpture yffelons claw",
+    "displayName": "Diagram: Firesong Sculpture, Y'ffelon's Claw",
+    "values": {
+      "commonRange": "40,000 - 100,000",
+      "averagePrice": 83869,
+      "minimumPrice": 37500,
+      "maximumPrice": 200000,
+      "averageStackPrice": 83869,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

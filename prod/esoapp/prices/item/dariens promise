@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dariens promise",
+    "displayName": "Darien's Promise",
+    "values": {
+      "commonRange": "5,750 - 11,018",
+      "averagePrice": 6667,
+      "minimumPrice": 1153,
+      "maximumPrice": 11018,
+      "averageStackPrice": 6667,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cuirass of the green pact",
+    "displayName": "Cuirass of the Green Pact",
+    "values": {
+      "commonRange": "180 - 3,380",
+      "averagePrice": 1286,
+      "minimumPrice": 174,
+      "maximumPrice": 9000,
+      "averageStackPrice": 1286,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

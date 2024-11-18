@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design argonian snakes on a rope",
+    "displayName": "Design: Argonian Snakes on a Rope",
+    "values": {
+      "commonRange": "100 - 356",
+      "averagePrice": 166,
+      "minimumPrice": 100,
+      "maximumPrice": 358,
+      "averageStackPrice": 166,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

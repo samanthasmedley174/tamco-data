@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 126 shardborn shoulders",
+    "displayName": "Crafting Motif 126: Shardborn Shoulders",
+    "values": {
+      "commonRange": "4,000 - 6,039",
+      "averagePrice": 5478,
+      "minimumPrice": 2000,
+      "maximumPrice": 11989,
+      "averageStackPrice": 5478,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

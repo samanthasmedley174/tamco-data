@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dagger of the wyrd tree",
+    "displayName": "Dagger of the Wyrd Tree",
+    "values": {
+      "commonRange": "1,000 - 2,150",
+      "averagePrice": 2150,
+      "minimumPrice": 600,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2150,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

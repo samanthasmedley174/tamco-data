@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ayleid constellation stele the serpent",
+    "displayName": "Ayleid Constellation Stele, The Serpent",
+    "values": {
+      "commonRange": "19,000 - 50,000",
+      "averagePrice": 31392,
+      "minimumPrice": 15000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 31392,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

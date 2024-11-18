@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blueprint tide born totem medium",
+    "displayName": "Blueprint: Tide-Born Totem, Medium",
+    "values": {
+      "commonRange": "2,000 - 4,854",
+      "averagePrice": 3216,
+      "minimumPrice": 2000,
+      "maximumPrice": 6000,
+      "averageStackPrice": 3216,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

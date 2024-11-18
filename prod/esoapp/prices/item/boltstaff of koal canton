@@ -1,0 +1,18 @@
+[
+  {
+    "name": "boltstaff of koal canton",
+    "displayName": "Boltstaff of Koal Canton",
+    "values": {
+      "commonRange": "618 - 3,855",
+      "averagePrice": 2948,
+      "minimumPrice": 228,
+      "maximumPrice": 7092,
+      "averageStackPrice": 2948,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

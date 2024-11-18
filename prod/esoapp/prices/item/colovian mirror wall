@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian mirror wall",
+    "displayName": "Colovian Mirror, Wall",
+    "values": {
+      "commonRange": "4,400 - 12,300",
+      "averagePrice": 8088,
+      "minimumPrice": 500,
+      "maximumPrice": 13000,
+      "averageStackPrice": 8088,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

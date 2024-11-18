@@ -1,0 +1,18 @@
+[
+  {
+    "name": "daedric cage hanging",
+    "displayName": "Daedric Cage, Hanging",
+    "values": {
+      "commonRange": "5,000 - 13,000",
+      "averagePrice": 9903,
+      "minimumPrice": 5000,
+      "maximumPrice": 20300,
+      "averageStackPrice": 9903,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/01/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian banister post wooden",
+    "displayName": "Colovian Banister Post, Wooden",
+    "values": {
+      "commonRange": "1,000 - 5,150",
+      "averagePrice": 3040,
+      "minimumPrice": 999,
+      "maximumPrice": 8150,
+      "averageStackPrice": 3040,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

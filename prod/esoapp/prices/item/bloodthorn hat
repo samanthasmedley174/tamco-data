@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bloodthorn hat",
+    "displayName": "Bloodthorn Hat",
+    "values": {
+      "commonRange": "150 - 2,000",
+      "averagePrice": 752,
+      "minimumPrice": 144,
+      "maximumPrice": 2153,
+      "averageStackPrice": 752,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

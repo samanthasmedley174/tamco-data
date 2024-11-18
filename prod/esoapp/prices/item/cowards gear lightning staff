@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cowards gear lightning staff",
+    "displayName": "Coward's Gear Lightning Staff",
+    "values": {
+      "commonRange": "2,246 - 5,366",
+      "averagePrice": 4053,
+      "minimumPrice": 1982,
+      "maximumPrice": 6246,
+      "averageStackPrice": 4053,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bravils best beet risotto",
+    "displayName": "Bravil's Best Beet Risotto",
+    "values": {
+      "commonRange": "9 - 24",
+      "averagePrice": 16,
+      "minimumPrice": 9,
+      "maximumPrice": 46,
+      "averageStackPrice": 16,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/bravil's_best_beet_risotto.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "argonian stool woven",
+    "displayName": "Argonian Stool, Woven",
+    "values": {
+      "commonRange": "542 - 1,550",
+      "averagePrice": 973,
+      "minimumPrice": 200,
+      "maximumPrice": 1650,
+      "averageStackPrice": 973,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/10/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

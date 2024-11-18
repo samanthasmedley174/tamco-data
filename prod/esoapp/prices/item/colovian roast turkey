@@ -1,0 +1,18 @@
+[
+  {
+    "name": "colovian roast turkey",
+    "displayName": "Colovian Roast Turkey",
+    "values": {
+      "commonRange": "9 - 50",
+      "averagePrice": 33,
+      "minimumPrice": 9,
+      "maximumPrice": 155,
+      "averageStackPrice": 33,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "06/27/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/colovian_roast_turkey.png"
+  }
+]

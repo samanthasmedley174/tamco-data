@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 81 new moon priest daggers",
+    "displayName": "Crafting Motif 81: New Moon Priest Daggers",
+    "values": {
+      "commonRange": "300 - 1,500",
+      "averagePrice": 893,
+      "minimumPrice": 217,
+      "maximumPrice": 4000,
+      "averageStackPrice": 893,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Motifs",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "diagram clockwork wardrobe precision engineered",
+    "displayName": "Diagram: Clockwork Wardrobe, Precision Engineered",
+    "values": {
+      "commonRange": "1,500 - 4,000",
+      "averagePrice": 2878,
+      "minimumPrice": 500,
+      "maximumPrice": 4125,
+      "averageStackPrice": 2878,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bright throats boast robe",
+    "displayName": "Bright-Throat's Boast Robe",
+    "values": {
+      "commonRange": "450 - 3,800",
+      "averagePrice": 2807,
+      "minimumPrice": 300,
+      "maximumPrice": 17183,
+      "averageStackPrice": 2807,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

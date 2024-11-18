@@ -1,0 +1,18 @@
+[
+  {
+    "name": "design dres cup sujamma",
+    "displayName": "Design: Dres Cup, Sujamma",
+    "values": {
+      "commonRange": "18,000 - 21,000",
+      "averagePrice": 19827,
+      "minimumPrice": 15000,
+      "maximumPrice": 21000,
+      "averageStackPrice": 19827,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

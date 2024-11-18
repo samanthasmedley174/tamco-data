@@ -1,0 +1,18 @@
+[
+  {
+    "name": "defilers battle axe",
+    "displayName": "Defiler's Battle Axe",
+    "values": {
+      "commonRange": "350 - 5,000",
+      "averagePrice": 1959,
+      "minimumPrice": 100,
+      "maximumPrice": 10240,
+      "averageStackPrice": 1959,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

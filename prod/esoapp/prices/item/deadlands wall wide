@@ -1,0 +1,18 @@
+[
+  {
+    "name": "deadlands wall wide",
+    "displayName": "Deadlands Wall, Wide",
+    "values": {
+      "commonRange": "8,333 - 11,000",
+      "averagePrice": 10698,
+      "minimumPrice": 7142,
+      "maximumPrice": 14900,
+      "averageStackPrice": 21396,
+      "commonStackSize": 2,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

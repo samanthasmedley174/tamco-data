@@ -1,0 +1,18 @@
+[
+  {
+    "name": "coldharbours favorite ring",
+    "displayName": "Coldharbour's Favorite Ring",
+    "values": {
+      "commonRange": "8,153 - 8,153",
+      "averagePrice": 8153,
+      "minimumPrice": 8153,
+      "maximumPrice": 8153,
+      "averageStackPrice": 8153,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "anglers knife set",
+    "displayName": "Angler's Knife Set",
+    "values": {
+      "commonRange": "1,450 - 20,000",
+      "averagePrice": 10057,
+      "minimumPrice": 450,
+      "maximumPrice": 40000,
+      "averageStackPrice": 10057,
+      "commonStackSize": 1,
+      "salesRecorded": 109
+    },
+    "type": "Miscellaneous",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "carved bone medallion",
+    "displayName": "Carved Bone Medallion",
+    "values": {
+      "commonRange": "150 - 150",
+      "averagePrice": 150,
+      "minimumPrice": 150,
+      "maximumPrice": 150,
+      "averageStackPrice": 150,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

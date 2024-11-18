@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 68 honor guard axes",
+    "displayName": "Crafting Motif 68: Honor Guard Axes",
+    "values": {
+      "commonRange": "9,361 - 11,378",
+      "averagePrice": 10907,
+      "minimumPrice": 8500,
+      "maximumPrice": 17361,
+      "averageStackPrice": 10907,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Motifs",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

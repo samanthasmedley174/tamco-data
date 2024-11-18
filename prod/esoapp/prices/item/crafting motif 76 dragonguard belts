@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 76 dragonguard belts",
+    "displayName": "Crafting Motif 76: Dragonguard Belts",
+    "values": {
+      "commonRange": "6,109 - 10,000",
+      "averagePrice": 8039,
+      "minimumPrice": 5707,
+      "maximumPrice": 10900,
+      "averageStackPrice": 8039,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Motifs",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

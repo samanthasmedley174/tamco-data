@@ -1,0 +1,18 @@
+[
+  {
+    "name": "blackfeather flight lightning staff",
+    "displayName": "Blackfeather Flight Lightning Staff",
+    "values": {
+      "commonRange": "440 - 8,240",
+      "averagePrice": 2735,
+      "minimumPrice": 240,
+      "maximumPrice": 14246,
+      "averageStackPrice": 2735,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

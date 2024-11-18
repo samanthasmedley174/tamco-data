@@ -1,0 +1,18 @@
+[
+  {
+    "name": "crafting motif 40 order hour chests",
+    "displayName": "Crafting Motif 40: Order Hour Chests",
+    "values": {
+      "commonRange": "20,000 - 49,999",
+      "averagePrice": 34432,
+      "minimumPrice": 20000,
+      "maximumPrice": 109000,
+      "averageStackPrice": 34432,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Motifs",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Motifs/motifpage.png"
+  }
+]

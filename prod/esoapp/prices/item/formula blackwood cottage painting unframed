@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula blackwood cottage painting unframed",
+    "displayName": "Formula: Blackwood Cottage Painting, Unframed",
+    "values": {
+      "commonRange": "40,000 - 55,000",
+      "averagePrice": 47680,
+      "minimumPrice": 35000,
+      "maximumPrice": 70000,
+      "averageStackPrice": 47680,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

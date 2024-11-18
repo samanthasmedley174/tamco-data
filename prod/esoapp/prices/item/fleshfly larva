@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fleshfly larva",
+    "displayName": "Fleshfly Larva",
+    "values": {
+      "commonRange": "27 - 46",
+      "averagePrice": 37,
+      "minimumPrice": 21,
+      "maximumPrice": 333,
+      "averageStackPrice": 7400,
+      "commonStackSize": 200,
+      "salesRecorded": 105
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

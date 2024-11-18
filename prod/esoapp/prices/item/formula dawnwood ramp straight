@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula dawnwood ramp straight",
+    "displayName": "Formula: Dawnwood Ramp, Straight",
+    "values": {
+      "commonRange": "377,889 - 544,000",
+      "averagePrice": 454106,
+      "minimumPrice": 375000,
+      "maximumPrice": 544000,
+      "averageStackPrice": 454106,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

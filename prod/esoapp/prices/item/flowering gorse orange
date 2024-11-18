@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flowering gorse orange",
+    "displayName": "Flowering Gorse, Orange",
+    "values": {
+      "commonRange": "4,288 - 9,000",
+      "averagePrice": 7401,
+      "minimumPrice": 4000,
+      "maximumPrice": 9497,
+      "averageStackPrice": 7401,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

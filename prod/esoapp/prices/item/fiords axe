@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fiords axe",
+    "displayName": "Fiord's Axe",
+    "values": {
+      "commonRange": "153 - 750",
+      "averagePrice": 719,
+      "minimumPrice": 144,
+      "maximumPrice": 2150,
+      "averageStackPrice": 719,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

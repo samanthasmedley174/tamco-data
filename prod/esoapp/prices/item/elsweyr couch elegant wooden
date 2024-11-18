@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr couch elegant wooden",
+    "displayName": "Elsweyr Couch, Elegant Wooden",
+    "values": {
+      "commonRange": "3,500 - 9,900",
+      "averagePrice": 7039,
+      "minimumPrice": 3000,
+      "maximumPrice": 10832,
+      "averageStackPrice": 7039,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

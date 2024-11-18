@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greaves of the trainee",
+    "displayName": "Greaves of the Trainee",
+    "values": {
+      "commonRange": "174 - 11,600",
+      "averagePrice": 5792,
+      "minimumPrice": 129,
+      "maximumPrice": 80500,
+      "averageStackPrice": 5792,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

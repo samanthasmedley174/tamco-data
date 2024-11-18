@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hedge green short",
+    "displayName": "Hedge, Green Short",
+    "values": {
+      "commonRange": "275 - 3,300",
+      "averagePrice": 1488,
+      "minimumPrice": 275,
+      "maximumPrice": 3500,
+      "averageStackPrice": 1488,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

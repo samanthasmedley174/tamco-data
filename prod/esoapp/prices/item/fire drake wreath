@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fire drake wreath",
+    "displayName": "Fire Drake Wreath",
+    "values": {
+      "commonRange": "20,000 - 42,310",
+      "averagePrice": 35346,
+      "minimumPrice": 20000,
+      "maximumPrice": 45000,
+      "averageStackPrice": 35346,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

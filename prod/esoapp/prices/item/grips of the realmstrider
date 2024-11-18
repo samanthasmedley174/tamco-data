@@ -1,0 +1,18 @@
+[
+  {
+    "name": "grips of the realmstrider",
+    "displayName": "Grips of the Realmstrider",
+    "values": {
+      "commonRange": "500 - 2,084",
+      "averagePrice": 3192,
+      "minimumPrice": 184,
+      "maximumPrice": 10000,
+      "averageStackPrice": 3192,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

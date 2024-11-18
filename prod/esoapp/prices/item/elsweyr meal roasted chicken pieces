@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr meal roasted chicken pieces",
+    "displayName": "Elsweyr Meal, Roasted Chicken Pieces",
+    "values": {
+      "commonRange": "2,462 - 3,639",
+      "averagePrice": 3571,
+      "minimumPrice": 2060,
+      "maximumPrice": 7960,
+      "averageStackPrice": 3571,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "guar stomp skeletal reconstruction",
+    "displayName": "Guar Stomp Skeletal Reconstruction",
+    "values": {
+      "commonRange": "1,800 - 5,434",
+      "averagePrice": 3625,
+      "minimumPrice": 1800,
+      "maximumPrice": 6599,
+      "averageStackPrice": 3625,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Fragments",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

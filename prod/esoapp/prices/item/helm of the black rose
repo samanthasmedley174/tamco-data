@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helm of the black rose",
+    "displayName": "Helm of the Black Rose",
+    "values": {
+      "commonRange": "5,153 - 62,271",
+      "averagePrice": 36939,
+      "minimumPrice": 5000,
+      "maximumPrice": 62271,
+      "averageStackPrice": 36939,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hexos ward amulet",
+    "displayName": "Hexos' Ward Amulet",
+    "values": {
+      "commonRange": "3,616 - 25,000",
+      "averagePrice": 9565,
+      "minimumPrice": 2200,
+      "maximumPrice": 27500,
+      "averageStackPrice": 9565,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

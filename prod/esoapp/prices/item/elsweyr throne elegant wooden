@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr throne elegant wooden",
+    "displayName": "Elsweyr Throne, Elegant Wooden",
+    "values": {
+      "commonRange": "5,800 - 13,000",
+      "averagePrice": 9491,
+      "minimumPrice": 5800,
+      "maximumPrice": 14000,
+      "averageStackPrice": 9491,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

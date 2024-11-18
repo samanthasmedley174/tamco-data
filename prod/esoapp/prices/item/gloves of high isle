@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of high isle",
+    "displayName": "Gloves of High Isle",
+    "values": {
+      "commonRange": "87 - 2,290",
+      "averagePrice": 1278,
+      "minimumPrice": 87,
+      "maximumPrice": 17528,
+      "averageStackPrice": 1278,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

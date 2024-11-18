@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave bench long stone",
+    "displayName": "Fargrave Bench, Long Stone",
+    "values": {
+      "commonRange": "2,650 - 8,979",
+      "averagePrice": 5140,
+      "minimumPrice": 2500,
+      "maximumPrice": 11150,
+      "averageStackPrice": 5140,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

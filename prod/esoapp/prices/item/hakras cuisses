@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hakras cuisses",
+    "displayName": "Hakra's Cuisses",
+    "values": {
+      "commonRange": "666 - 1,400",
+      "averagePrice": 1310,
+      "minimumPrice": 534,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1310,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

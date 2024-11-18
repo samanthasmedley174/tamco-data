@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hew and sunder restoration staff",
+    "displayName": "Hew and Sunder Restoration Staff",
+    "values": {
+      "commonRange": "15,000 - 15,000",
+      "averagePrice": 11895,
+      "minimumPrice": 446,
+      "maximumPrice": 20240,
+      "averageStackPrice": 11895,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

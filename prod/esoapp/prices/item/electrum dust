@@ -1,0 +1,18 @@
+[
+  {
+    "name": "electrum dust",
+    "displayName": "Electrum Dust",
+    "values": {
+      "commonRange": "10 - 125",
+      "averagePrice": 63,
+      "minimumPrice": 6,
+      "maximumPrice": 233,
+      "averageStackPrice": 63,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Jewelry Materials",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Jewelry_Materials/Electrum_Dust.png"
+  }
+]

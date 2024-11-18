@@ -1,0 +1,18 @@
+[
+  {
+    "name": "galerions dagger",
+    "displayName": "Galerion's Dagger",
+    "values": {
+      "commonRange": "40,000 - 40,000",
+      "averagePrice": 40000,
+      "minimumPrice": 40000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 40000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

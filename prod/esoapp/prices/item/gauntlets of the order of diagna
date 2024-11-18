@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gauntlets of the order of diagna",
+    "displayName": "Gauntlets of the Order of Diagna",
+    "values": {
+      "commonRange": "190 - 1,090",
+      "averagePrice": 659,
+      "minimumPrice": 90,
+      "maximumPrice": 3000,
+      "averageStackPrice": 659,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

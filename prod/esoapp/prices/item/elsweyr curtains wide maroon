@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr curtains wide maroon",
+    "displayName": "Elsweyr Curtains, Wide Maroon",
+    "values": {
+      "commonRange": "5,300 - 9,203",
+      "averagePrice": 7067,
+      "minimumPrice": 5300,
+      "maximumPrice": 9203,
+      "averageStackPrice": 7067,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fruit bunch display",
+    "displayName": "Fruit Bunch, Display",
+    "values": {
+      "commonRange": "4,250 - 9,400",
+      "averagePrice": 5690,
+      "minimumPrice": 2750,
+      "maximumPrice": 10000,
+      "averageStackPrice": 11380,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

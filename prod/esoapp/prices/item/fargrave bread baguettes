@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave bread baguettes",
+    "displayName": "Fargrave Bread, Baguettes",
+    "values": {
+      "commonRange": "4,362 - 5,000",
+      "averagePrice": 4523,
+      "minimumPrice": 2000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 4523,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

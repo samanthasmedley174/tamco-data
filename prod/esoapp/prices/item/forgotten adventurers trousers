@@ -1,0 +1,18 @@
+[
+  {
+    "name": "forgotten adventurers trousers",
+    "displayName": "Forgotten Adventurer's Trousers",
+    "values": {
+      "commonRange": "5,000 - 5,000",
+      "averagePrice": 5000,
+      "minimumPrice": 5000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 5000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

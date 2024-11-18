@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula colovian wine bottle wax sealed",
+    "displayName": "Formula: Colovian Wine Bottle, Wax Sealed",
+    "values": {
+      "commonRange": "6,500 - 10,000",
+      "averagePrice": 8620,
+      "minimumPrice": 1500,
+      "maximumPrice": 15990,
+      "averageStackPrice": 8620,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

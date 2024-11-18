@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fryse willow",
+    "displayName": "Fryse Willow",
+    "values": {
+      "commonRange": "400 - 500",
+      "averagePrice": 469,
+      "minimumPrice": 388,
+      "maximumPrice": 500,
+      "averageStackPrice": 4690,
+      "commonStackSize": 10,
+      "salesRecorded": 13
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Fryse_Willow.png"
+  }
+]

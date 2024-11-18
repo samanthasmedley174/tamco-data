@@ -1,0 +1,18 @@
+[
+  {
+    "name": "factotum arm obsolete",
+    "displayName": "Factotum Arm, Obsolete",
+    "values": {
+      "commonRange": "3,000 - 5,562",
+      "averagePrice": 4181,
+      "minimumPrice": 350,
+      "maximumPrice": 6775,
+      "averageStackPrice": 4181,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

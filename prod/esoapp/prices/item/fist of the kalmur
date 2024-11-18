@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fist of the kalmur",
+    "displayName": "Fist of the Kalmur",
+    "values": {
+      "commonRange": "528 - 1,999",
+      "averagePrice": 1220,
+      "minimumPrice": 228,
+      "maximumPrice": 2228,
+      "averageStackPrice": 1220,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

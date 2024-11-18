@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fern fronds healthy green",
+    "displayName": "Fern Fronds, Healthy Green",
+    "values": {
+      "commonRange": "688 - 845",
+      "averagePrice": 773,
+      "minimumPrice": 500,
+      "maximumPrice": 1000,
+      "averageStackPrice": 773,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/16/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "falkreath meat loaf",
+    "displayName": "Falkreath Meat Loaf",
+    "values": {
+      "commonRange": "9 - 19",
+      "averagePrice": 15,
+      "minimumPrice": 7,
+      "maximumPrice": 31,
+      "averageStackPrice": 15,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Food & Drinks",
+    "date": "12/14/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/falkreath_meat_loaf.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gauntlets of clan shatul",
+    "displayName": "Gauntlets of Clan Shatul",
+    "values": {
+      "commonRange": "5,093 - 5,093",
+      "averagePrice": 5093,
+      "minimumPrice": 5093,
+      "maximumPrice": 5093,
+      "averageStackPrice": 5093,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

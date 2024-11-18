@@ -1,0 +1,18 @@
+[
+  {
+    "name": "funerary urn broken",
+    "displayName": "Funerary Urn, Broken",
+    "values": {
+      "commonRange": "2,000 - 7,394",
+      "averagePrice": 5687,
+      "minimumPrice": 336,
+      "maximumPrice": 9666,
+      "averageStackPrice": 5687,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

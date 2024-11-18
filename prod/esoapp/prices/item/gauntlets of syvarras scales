@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gauntlets of syvarras scales",
+    "displayName": "Gauntlets of Syvarra's Scales",
+    "values": {
+      "commonRange": "300 - 19,999",
+      "averagePrice": 7138,
+      "minimumPrice": 90,
+      "maximumPrice": 24999,
+      "averageStackPrice": 7138,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

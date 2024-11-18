@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of fasallas guile",
+    "displayName": "Greatsword of Fasalla's Guile",
+    "values": {
+      "commonRange": "1,000 - 2,313",
+      "averagePrice": 2313,
+      "minimumPrice": 1000,
+      "maximumPrice": 4940,
+      "averageStackPrice": 2313,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

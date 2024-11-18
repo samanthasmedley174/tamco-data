@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven theodolite neck",
+    "displayName": "Dwarven Theodolite Neck",
+    "values": {
+      "commonRange": "1,100 - 3,000",
+      "averagePrice": 2827,
+      "minimumPrice": 1100,
+      "maximumPrice": 10039,
+      "averageStackPrice": 2827,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Fragments",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hew and sunder mace",
+    "displayName": "Hew and Sunder Mace",
+    "values": {
+      "commonRange": "2,538 - 8,000",
+      "averagePrice": 6115,
+      "minimumPrice": 1153,
+      "maximumPrice": 9000,
+      "averageStackPrice": 6115,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "girdle of the twice born star",
+    "displayName": "Girdle of the Twice-Born Star",
+    "values": {
+      "commonRange": "80,000 - 80,000",
+      "averagePrice": 83333,
+      "minimumPrice": 80000,
+      "maximumPrice": 90000,
+      "averageStackPrice": 83333,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

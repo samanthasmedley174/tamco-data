@@ -1,0 +1,18 @@
+[
+  {
+    "name": "epaulets of stendarr",
+    "displayName": "Epaulets of Stendarr",
+    "values": {
+      "commonRange": "150 - 1,150",
+      "averagePrice": 751,
+      "minimumPrice": 144,
+      "maximumPrice": 5150,
+      "averageStackPrice": 751,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

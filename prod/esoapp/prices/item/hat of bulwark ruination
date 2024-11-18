@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hat of bulwark ruination",
+    "displayName": "Hat of Bulwark Ruination",
+    "values": {
+      "commonRange": "300 - 2,244",
+      "averagePrice": 1061,
+      "minimumPrice": 50,
+      "maximumPrice": 5453,
+      "averageStackPrice": 1061,
+      "commonStackSize": 1,
+      "salesRecorded": 48
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

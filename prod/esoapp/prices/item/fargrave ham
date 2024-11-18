@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave ham",
+    "displayName": "Fargrave Ham",
+    "values": {
+      "commonRange": "542 - 1,060",
+      "averagePrice": 1307,
+      "minimumPrice": 450,
+      "maximumPrice": 5960,
+      "averageStackPrice": 1307,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

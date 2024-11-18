@@ -1,0 +1,18 @@
+[
+  {
+    "name": "frost mirriam",
+    "displayName": "Frost Mirriam",
+    "values": {
+      "commonRange": "22 - 110",
+      "averagePrice": 51,
+      "minimumPrice": 3,
+      "maximumPrice": 500,
+      "averageStackPrice": 10200,
+      "commonStackSize": 200,
+      "salesRecorded": 66
+    },
+    "type": "Provisioning Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

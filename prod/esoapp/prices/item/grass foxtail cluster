@@ -1,0 +1,18 @@
+[
+  {
+    "name": "grass foxtail cluster",
+    "displayName": "Grass, Foxtail Cluster",
+    "values": {
+      "commonRange": "160 - 600",
+      "averagePrice": 430,
+      "minimumPrice": 160,
+      "maximumPrice": 800,
+      "averageStackPrice": 430,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "02/08/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

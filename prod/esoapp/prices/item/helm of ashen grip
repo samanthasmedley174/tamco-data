@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helm of ashen grip",
+    "displayName": "Helm of Ashen Grip",
+    "values": {
+      "commonRange": "1,000 - 1,000",
+      "averagePrice": 1196,
+      "minimumPrice": 1000,
+      "maximumPrice": 2173,
+      "averageStackPrice": 1196,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

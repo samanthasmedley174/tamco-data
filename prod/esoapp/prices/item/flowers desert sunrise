@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flowers desert sunrise",
+    "displayName": "Flowers, Desert Sunrise",
+    "values": {
+      "commonRange": "400 - 1,313",
+      "averagePrice": 1083,
+      "minimumPrice": 400,
+      "maximumPrice": 3898,
+      "averageStackPrice": 1083,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

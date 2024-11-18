@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flower patch summertide",
+    "displayName": "Flower Patch, Summertide",
+    "values": {
+      "commonRange": "2,000 - 3,000",
+      "averagePrice": 2416,
+      "minimumPrice": 1150,
+      "maximumPrice": 3022,
+      "averageStackPrice": 4832,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

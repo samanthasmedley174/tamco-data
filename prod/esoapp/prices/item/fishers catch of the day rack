@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fishers catch of the day rack",
+    "displayName": "Fisher's Catch of the Day Rack",
+    "values": {
+      "commonRange": "7,000 - 12,000",
+      "averagePrice": 9657,
+      "minimumPrice": 5000,
+      "maximumPrice": 12259,
+      "averageStackPrice": 9657,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gryphons shield",
+    "displayName": "Gryphon's Shield",
+    "values": {
+      "commonRange": "400 - 5,000",
+      "averagePrice": 1862,
+      "minimumPrice": 144,
+      "maximumPrice": 11153,
+      "averageStackPrice": 1862,
+      "commonStackSize": 1,
+      "salesRecorded": 51
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

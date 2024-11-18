@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fiords helmet",
+    "displayName": "Fiord's Helmet",
+    "values": {
+      "commonRange": "150 - 2,350",
+      "averagePrice": 972,
+      "minimumPrice": 144,
+      "maximumPrice": 3000,
+      "averageStackPrice": 972,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr chimes long string",
+    "displayName": "Elsweyr Chimes, Long String",
+    "values": {
+      "commonRange": "12,000 - 21,000",
+      "averagePrice": 17667,
+      "minimumPrice": 12000,
+      "maximumPrice": 24000,
+      "averageStackPrice": 17667,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

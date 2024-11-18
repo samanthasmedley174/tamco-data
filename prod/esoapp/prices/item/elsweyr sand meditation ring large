@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr sand meditation ring large",
+    "displayName": "Elsweyr Sand Meditation Ring, Large",
+    "values": {
+      "commonRange": "3,741 - 5,600",
+      "averagePrice": 5066,
+      "minimumPrice": 3666,
+      "maximumPrice": 7162,
+      "averageStackPrice": 5066,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

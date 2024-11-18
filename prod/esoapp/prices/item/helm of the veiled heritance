@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helm of the veiled heritance",
+    "displayName": "Helm of the Veiled Heritance",
+    "values": {
+      "commonRange": "150 - 2,200",
+      "averagePrice": 2538,
+      "minimumPrice": 71,
+      "maximumPrice": 69156,
+      "averageStackPrice": 2538,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

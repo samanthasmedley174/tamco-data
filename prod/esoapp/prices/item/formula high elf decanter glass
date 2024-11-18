@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula high elf decanter glass",
+    "displayName": "Formula: High Elf Decanter, Glass",
+    "values": {
+      "commonRange": "10,000 - 15,477",
+      "averagePrice": 13950,
+      "minimumPrice": 10000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 13950,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

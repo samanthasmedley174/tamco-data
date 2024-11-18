@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr bed rumpled quilted double",
+    "displayName": "Elsweyr Bed, Rumpled Quilted Double",
+    "values": {
+      "commonRange": "5,000 - 17,300",
+      "averagePrice": 9749,
+      "minimumPrice": 5000,
+      "maximumPrice": 22300,
+      "averageStackPrice": 9749,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/02/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

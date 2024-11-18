@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fortified brass dagger",
+    "displayName": "Fortified Brass Dagger",
+    "values": {
+      "commonRange": "79,156 - 79,990",
+      "averagePrice": 79573,
+      "minimumPrice": 79156,
+      "maximumPrice": 79990,
+      "averageStackPrice": 79573,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

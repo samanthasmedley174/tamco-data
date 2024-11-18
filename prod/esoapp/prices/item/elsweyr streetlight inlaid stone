@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr streetlight inlaid stone",
+    "displayName": "Elsweyr Streetlight, Inlaid Stone",
+    "values": {
+      "commonRange": "5,475 - 7,950",
+      "averagePrice": 6223,
+      "minimumPrice": 5000,
+      "maximumPrice": 7950,
+      "averageStackPrice": 6223,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/19/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

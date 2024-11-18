@@ -1,0 +1,18 @@
+[
+  {
+    "name": "handbook for new homeowners",
+    "displayName": "Handbook For New Homeowners",
+    "values": {
+      "commonRange": "62,235 - 95,000",
+      "averagePrice": 70540,
+      "minimumPrice": 2675,
+      "maximumPrice": 100000,
+      "averageStackPrice": 70540,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hexos ward arm cops",
+    "displayName": "Hexos' Ward Arm Cops",
+    "values": {
+      "commonRange": "750 - 20,000",
+      "averagePrice": 6070,
+      "minimumPrice": 144,
+      "maximumPrice": 40153,
+      "averageStackPrice": 6070,
+      "commonStackSize": 1,
+      "salesRecorded": 68
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

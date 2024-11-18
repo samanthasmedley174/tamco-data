@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gryphons boots",
+    "displayName": "Gryphon's Boots",
+    "values": {
+      "commonRange": "90 - 3,290",
+      "averagePrice": 1362,
+      "minimumPrice": 85,
+      "maximumPrice": 24993,
+      "averageStackPrice": 1362,
+      "commonStackSize": 1,
+      "salesRecorded": 152
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

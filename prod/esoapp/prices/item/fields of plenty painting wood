@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fields of plenty painting wood",
+    "displayName": "Fields of Plenty Painting, Wood",
+    "values": {
+      "commonRange": "15,000 - 50,000",
+      "averagePrice": 28897,
+      "minimumPrice": 14000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 28897,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

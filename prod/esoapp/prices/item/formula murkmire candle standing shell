@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula murkmire candle standing shell",
+    "displayName": "Formula: Murkmire Candle, Standing Shell",
+    "values": {
+      "commonRange": "5,757 - 8,000",
+      "averagePrice": 6973,
+      "minimumPrice": 4030,
+      "maximumPrice": 8130,
+      "averageStackPrice": 6973,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

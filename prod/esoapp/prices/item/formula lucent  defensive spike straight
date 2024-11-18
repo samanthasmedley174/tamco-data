@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula lucent  defensive spike straight",
+    "displayName": "Formula: Lucent  Defensive Spike, Straight",
+    "values": {
+      "commonRange": "4,500 - 19,930",
+      "averagePrice": 12269,
+      "minimumPrice": 4400,
+      "maximumPrice": 39930,
+      "averageStackPrice": 12269,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

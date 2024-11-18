@@ -1,0 +1,18 @@
+[
+  {
+    "name": "esoteric parchment",
+    "displayName": "Esoteric Parchment",
+    "values": {
+      "commonRange": "118 - 193",
+      "averagePrice": 217,
+      "minimumPrice": 100,
+      "maximumPrice": 1000,
+      "averageStackPrice": 217,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Miscellaneous",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Miscellaneous/Esoteric_Parchment.png"
+  }
+]

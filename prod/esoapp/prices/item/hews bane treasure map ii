@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hews bane treasure map ii",
+    "displayName": "Hew's Bane Treasure Map II",
+    "values": {
+      "commonRange": "50 - 500",
+      "averagePrice": 201,
+      "minimumPrice": 40,
+      "maximumPrice": 1249,
+      "averageStackPrice": 201,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

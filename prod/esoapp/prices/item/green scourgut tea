@@ -1,0 +1,18 @@
+[
+  {
+    "name": "green scourgut tea",
+    "displayName": "Green Scourgut Tea",
+    "values": {
+      "commonRange": "6 - 26",
+      "averagePrice": 29,
+      "minimumPrice": 1,
+      "maximumPrice": 110,
+      "averageStackPrice": 29,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Food & Drinks",
+    "date": "09/28/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/green_scourgut_tea.png"
+  }
+]

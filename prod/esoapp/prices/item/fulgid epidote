@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fulgid epidote",
+    "displayName": "Fulgid Epidote",
+    "values": {
+      "commonRange": "200 - 500",
+      "averagePrice": 381,
+      "minimumPrice": 196,
+      "maximumPrice": 500,
+      "averageStackPrice": 381,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Fulgid_Epidote.png"
+  }
+]

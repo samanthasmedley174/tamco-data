@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave corn bunch",
+    "displayName": "Fargrave Corn, Bunch",
+    "values": {
+      "commonRange": "4,000 - 6,950",
+      "averagePrice": 5254,
+      "minimumPrice": 3150,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5254,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

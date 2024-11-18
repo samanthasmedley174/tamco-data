@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greaves of kagrenacs hope",
+    "displayName": "Greaves of Kagrenac's Hope",
+    "values": {
+      "commonRange": "783 - 783",
+      "averagePrice": 783,
+      "minimumPrice": 783,
+      "maximumPrice": 783,
+      "averageStackPrice": 783,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

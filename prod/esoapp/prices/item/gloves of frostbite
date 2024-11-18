@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of frostbite",
+    "displayName": "Gloves of Frostbite",
+    "values": {
+      "commonRange": "585 - 11,000",
+      "averagePrice": 6313,
+      "minimumPrice": 90,
+      "maximumPrice": 30000,
+      "averageStackPrice": 6313,
+      "commonStackSize": 1,
+      "salesRecorded": 67
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

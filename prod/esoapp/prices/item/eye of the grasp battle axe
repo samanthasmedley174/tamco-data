@@ -1,0 +1,18 @@
+[
+  {
+    "name": "eye of the grasp battle axe",
+    "displayName": "Eye of the Grasp Battle Axe",
+    "values": {
+      "commonRange": "592 - 1,750",
+      "averagePrice": 1139,
+      "minimumPrice": 450,
+      "maximumPrice": 2850,
+      "averageStackPrice": 1139,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

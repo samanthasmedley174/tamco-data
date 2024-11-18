@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of the ugly mug",
+    "displayName": "Gloves of the Ugly Mug",
+    "values": {
+      "commonRange": "152 - 220",
+      "averagePrice": 203,
+      "minimumPrice": 84,
+      "maximumPrice": 355,
+      "averageStackPrice": 203,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

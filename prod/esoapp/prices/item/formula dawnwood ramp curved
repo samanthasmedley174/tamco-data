@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula dawnwood ramp curved",
+    "displayName": "Formula: Dawnwood Ramp, Curved",
+    "values": {
+      "commonRange": "219,855 - 450,000",
+      "averagePrice": 303289,
+      "minimumPrice": 5039,
+      "maximumPrice": 480000,
+      "averageStackPrice": 303289,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

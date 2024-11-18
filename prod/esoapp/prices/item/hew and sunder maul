@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hew and sunder maul",
+    "displayName": "Hew and Sunder Maul",
+    "values": {
+      "commonRange": "5,000 - 22,000",
+      "averagePrice": 15313,
+      "minimumPrice": 1500,
+      "maximumPrice": 22000,
+      "averageStackPrice": 15313,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave post garden wall",
+    "displayName": "Fargrave Post, Garden Wall",
+    "values": {
+      "commonRange": "1,000 - 5,000",
+      "averagePrice": 3091,
+      "minimumPrice": 1000,
+      "maximumPrice": 7220,
+      "averageStackPrice": 3091,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/06/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

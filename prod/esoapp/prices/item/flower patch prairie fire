@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flower patch prairie fire",
+    "displayName": "Flower Patch, Prairie-Fire",
+    "values": {
+      "commonRange": "500 - 925",
+      "averagePrice": 719,
+      "minimumPrice": 500,
+      "maximumPrice": 1787,
+      "averageStackPrice": 1438,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

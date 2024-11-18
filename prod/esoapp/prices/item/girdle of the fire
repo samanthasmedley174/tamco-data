@@ -1,0 +1,18 @@
+[
+  {
+    "name": "girdle of the fire",
+    "displayName": "Girdle of the Fire",
+    "values": {
+      "commonRange": "90 - 3,441",
+      "averagePrice": 1579,
+      "minimumPrice": 87,
+      "maximumPrice": 22375,
+      "averageStackPrice": 1579,
+      "commonStackSize": 1,
+      "salesRecorded": 63
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

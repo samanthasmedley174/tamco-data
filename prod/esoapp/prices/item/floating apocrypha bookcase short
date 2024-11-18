@@ -1,0 +1,18 @@
+[
+  {
+    "name": "floating apocrypha bookcase short",
+    "displayName": "Floating Apocrypha Bookcase, Short",
+    "values": {
+      "commonRange": "14,195 - 22,699",
+      "averagePrice": 17647,
+      "minimumPrice": 10000,
+      "maximumPrice": 23675,
+      "averageStackPrice": 17647,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

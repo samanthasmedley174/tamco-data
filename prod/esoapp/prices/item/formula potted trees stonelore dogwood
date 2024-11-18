@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula potted trees stonelore dogwood",
+    "displayName": "Formula: Potted Trees, Stonelore Dogwood",
+    "values": {
+      "commonRange": "40,000 - 70,000",
+      "averagePrice": 58107,
+      "minimumPrice": 38045,
+      "maximumPrice": 77045,
+      "averageStackPrice": 58107,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

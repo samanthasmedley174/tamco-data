@@ -1,0 +1,18 @@
+[
+  {
+    "name": "game",
+    "displayName": "Game",
+    "values": {
+      "commonRange": "5 - 17",
+      "averagePrice": 11,
+      "minimumPrice": 3,
+      "maximumPrice": 20,
+      "averageStackPrice": 2200,
+      "commonStackSize": 200,
+      "salesRecorded": 29
+    },
+    "type": "Provisioning Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

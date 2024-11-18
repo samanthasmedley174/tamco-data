@@ -1,0 +1,18 @@
+[
+  {
+    "name": "goatherds pie",
+    "displayName": "Goatherd's Pie",
+    "values": {
+      "commonRange": "28 - 161",
+      "averagePrice": 128,
+      "minimumPrice": 20,
+      "maximumPrice": 250,
+      "averageStackPrice": 2560,
+      "commonStackSize": 20,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "08/02/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/goatherd's_pie.png"
+  }
+]

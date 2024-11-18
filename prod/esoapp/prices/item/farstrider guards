@@ -1,0 +1,18 @@
+[
+  {
+    "name": "farstrider guards",
+    "displayName": "Farstrider Guards",
+    "values": {
+      "commonRange": "799 - 6,500",
+      "averagePrice": 3086,
+      "minimumPrice": 283,
+      "maximumPrice": 14387,
+      "averageStackPrice": 3086,
+      "commonStackSize": 1,
+      "salesRecorded": 75
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fire drake shield",
+    "displayName": "Fire Drake Shield",
+    "values": {
+      "commonRange": "4,456 - 8,107",
+      "averagePrice": 6490,
+      "minimumPrice": 4400,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6490,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

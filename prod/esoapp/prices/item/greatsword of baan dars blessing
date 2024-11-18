@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of baan dars blessing",
+    "displayName": "Greatsword of Baan Dar's Blessing",
+    "values": {
+      "commonRange": "800 - 800",
+      "averagePrice": 1016,
+      "minimumPrice": 250,
+      "maximumPrice": 1999,
+      "averageStackPrice": 1016,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gourmands axe",
+    "displayName": "Gourmand's Axe",
+    "values": {
+      "commonRange": "5,300 - 33,300",
+      "averagePrice": 15298,
+      "minimumPrice": 3000,
+      "maximumPrice": 75000,
+      "averageStackPrice": 15298,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

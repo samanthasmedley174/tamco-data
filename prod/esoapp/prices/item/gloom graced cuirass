@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloom graced cuirass",
+    "displayName": "Gloom-Graced Cuirass",
+    "values": {
+      "commonRange": "200 - 3,280",
+      "averagePrice": 1383,
+      "minimumPrice": 174,
+      "maximumPrice": 12348,
+      "averageStackPrice": 1383,
+      "commonStackSize": 1,
+      "salesRecorded": 135
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

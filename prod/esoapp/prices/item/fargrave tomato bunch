@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave tomato bunch",
+    "displayName": "Fargrave Tomato Bunch",
+    "values": {
+      "commonRange": "1,748 - 4,000",
+      "averagePrice": 2636,
+      "minimumPrice": 1748,
+      "maximumPrice": 4519,
+      "averageStackPrice": 2636,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

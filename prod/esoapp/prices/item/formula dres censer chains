@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula dres censer chains",
+    "displayName": "Formula: Dres Censer, Chains",
+    "values": {
+      "commonRange": "20,000 - 29,130",
+      "averagePrice": 24597,
+      "minimumPrice": 20000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 24597,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

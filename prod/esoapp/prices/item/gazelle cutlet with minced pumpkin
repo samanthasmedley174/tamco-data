@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gazelle cutlet with minced pumpkin",
+    "displayName": "Gazelle Cutlet with Minced Pumpkin",
+    "values": {
+      "commonRange": "12 - 40",
+      "averagePrice": 38,
+      "minimumPrice": 12,
+      "maximumPrice": 200,
+      "averageStackPrice": 3800,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "01/18/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/gazelle_cutlet_with_minced_pumpkin.png"
+  }
+]

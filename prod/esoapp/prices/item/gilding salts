@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gilding salts",
+    "displayName": "Gilding Salts",
+    "values": {
+      "commonRange": "202 - 455",
+      "averagePrice": 357,
+      "minimumPrice": 33,
+      "maximumPrice": 499,
+      "averageStackPrice": 357,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Gilding_Salts.png"
+  }
+]

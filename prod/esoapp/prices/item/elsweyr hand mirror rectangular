@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr hand mirror rectangular",
+    "displayName": "Elsweyr Hand Mirror, Rectangular",
+    "values": {
+      "commonRange": "1,000 - 3,500",
+      "averagePrice": 1647,
+      "minimumPrice": 955,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1647,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gauntlets of the akaviri war",
+    "displayName": "Gauntlets of the Akaviri War",
+    "values": {
+      "commonRange": "484 - 649",
+      "averagePrice": 665,
+      "minimumPrice": 184,
+      "maximumPrice": 1750,
+      "averageStackPrice": 665,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

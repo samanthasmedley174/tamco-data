@@ -1,0 +1,18 @@
+[
+  {
+    "name": "farstrider inferno staff",
+    "displayName": "Farstrider Inferno Staff",
+    "values": {
+      "commonRange": "546 - 8,246",
+      "averagePrice": 3216,
+      "minimumPrice": 206,
+      "maximumPrice": 12246,
+      "averageStackPrice": 3216,
+      "commonStackSize": 1,
+      "salesRecorded": 49
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

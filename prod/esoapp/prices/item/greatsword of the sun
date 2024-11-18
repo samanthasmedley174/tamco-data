@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of the sun",
+    "displayName": "Greatsword of the Sun",
+    "values": {
+      "commonRange": "757 - 1,240",
+      "averagePrice": 960,
+      "minimumPrice": 546,
+      "maximumPrice": 1369,
+      "averageStackPrice": 960,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helm of draugr heritage",
+    "displayName": "Helm of Draugr Heritage",
+    "values": {
+      "commonRange": "153 - 2,000",
+      "averagePrice": 955,
+      "minimumPrice": 75,
+      "maximumPrice": 5500,
+      "averageStackPrice": 955,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

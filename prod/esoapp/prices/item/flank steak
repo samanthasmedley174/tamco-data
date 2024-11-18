@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flank steak",
+    "displayName": "Flank Steak",
+    "values": {
+      "commonRange": "3 - 7",
+      "averagePrice": 6,
+      "minimumPrice": 3,
+      "maximumPrice": 14,
+      "averageStackPrice": 600,
+      "commonStackSize": 100,
+      "salesRecorded": 13
+    },
+    "type": "Food & Drinks",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/flank_steak.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "farstrider boots",
+    "displayName": "Farstrider Boots",
+    "values": {
+      "commonRange": "587 - 9,000",
+      "averagePrice": 3287,
+      "minimumPrice": 387,
+      "maximumPrice": 34804,
+      "averageStackPrice": 3287,
+      "commonStackSize": 1,
+      "salesRecorded": 76
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fortified brass sabatons",
+    "displayName": "Fortified Brass Sabatons",
+    "values": {
+      "commonRange": "78,093 - 80,000",
+      "averagePrice": 72218,
+      "minimumPrice": 9500,
+      "maximumPrice": 87093,
+      "averageStackPrice": 72218,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

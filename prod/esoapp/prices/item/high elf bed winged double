@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf bed winged double",
+    "displayName": "High Elf Bed, Winged Double",
+    "values": {
+      "commonRange": "5,000 - 14,900",
+      "averagePrice": 8893,
+      "minimumPrice": 2300,
+      "maximumPrice": 14900,
+      "averageStackPrice": 8893,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

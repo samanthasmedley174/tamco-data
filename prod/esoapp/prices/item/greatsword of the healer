@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of the healer",
+    "displayName": "Greatsword of the Healer",
+    "values": {
+      "commonRange": "30,000 - 60,000",
+      "averagePrice": 62500,
+      "minimumPrice": 30000,
+      "maximumPrice": 130000,
+      "averageStackPrice": 62500,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fortified brass greaves",
+    "displayName": "Fortified Brass Greaves",
+    "values": {
+      "commonRange": "78,189 - 80,000",
+      "averagePrice": 80158,
+      "minimumPrice": 78189,
+      "maximumPrice": 87189,
+      "averageStackPrice": 80158,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

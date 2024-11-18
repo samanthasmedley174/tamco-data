@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula hlaalu streetlight vellum",
+    "displayName": "Formula: Hlaalu Streetlight, Vellum",
+    "values": {
+      "commonRange": "59,999 - 80,000",
+      "averagePrice": 69679,
+      "minimumPrice": 59999,
+      "maximumPrice": 110000,
+      "averageStackPrice": 69679,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hexos ward greatsword",
+    "displayName": "Hexos' Ward Greatsword",
+    "values": {
+      "commonRange": "3,240 - 10,000",
+      "averagePrice": 6953,
+      "minimumPrice": 240,
+      "maximumPrice": 19500,
+      "averageStackPrice": 6953,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

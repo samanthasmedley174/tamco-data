@@ -1,0 +1,18 @@
+[
+  {
+    "name": "exemplary nirnhoned belt",
+    "displayName": "Exemplary Nirnhoned Belt",
+    "values": {
+      "commonRange": "10,000 - 300,000",
+      "averagePrice": 155000,
+      "minimumPrice": 10000,
+      "maximumPrice": 300000,
+      "averageStackPrice": 155000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

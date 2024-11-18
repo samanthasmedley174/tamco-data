@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elegant inferno staff",
+    "displayName": "Elegant Inferno Staff",
+    "values": {
+      "commonRange": "700 - 737",
+      "averagePrice": 578,
+      "minimumPrice": 100,
+      "maximumPrice": 775,
+      "averageStackPrice": 578,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

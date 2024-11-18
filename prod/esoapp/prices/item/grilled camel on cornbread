@@ -1,0 +1,18 @@
+[
+  {
+    "name": "grilled camel on cornbread",
+    "displayName": "Grilled Camel on Cornbread",
+    "values": {
+      "commonRange": "40 - 40",
+      "averagePrice": 40,
+      "minimumPrice": 40,
+      "maximumPrice": 40,
+      "averageStackPrice": 720,
+      "commonStackSize": 18,
+      "salesRecorded": 1
+    },
+    "type": "Food & Drinks",
+    "date": "01/18/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/grilled_camel_on_cornbread.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elegant mace",
+    "displayName": "Elegant Mace",
+    "values": {
+      "commonRange": "250 - 2,996",
+      "averagePrice": 1201,
+      "minimumPrice": 150,
+      "maximumPrice": 3150,
+      "averageStackPrice": 1201,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gryphons inferno staff",
+    "displayName": "Gryphon's Inferno Staff",
+    "values": {
+      "commonRange": "240 - 4,700",
+      "averagePrice": 1801,
+      "minimumPrice": 132,
+      "maximumPrice": 8000,
+      "averageStackPrice": 1801,
+      "commonStackSize": 1,
+      "salesRecorded": 44
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

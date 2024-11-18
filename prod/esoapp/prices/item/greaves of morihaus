@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greaves of morihaus",
+    "displayName": "Greaves of Morihaus",
+    "values": {
+      "commonRange": "380 - 10,174",
+      "averagePrice": 2324,
+      "minimumPrice": 220,
+      "maximumPrice": 11183,
+      "averageStackPrice": 2324,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

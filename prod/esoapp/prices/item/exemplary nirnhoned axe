@@ -1,0 +1,18 @@
+[
+  {
+    "name": "exemplary nirnhoned axe",
+    "displayName": "Exemplary Nirnhoned Axe",
+    "values": {
+      "commonRange": "11,000 - 11,000",
+      "averagePrice": 10633,
+      "minimumPrice": 9900,
+      "maximumPrice": 11000,
+      "averageStackPrice": 10633,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elegant hat",
+    "displayName": "Elegant Hat",
+    "values": {
+      "commonRange": "150 - 800",
+      "averagePrice": 557,
+      "minimumPrice": 68,
+      "maximumPrice": 4000,
+      "averageStackPrice": 557,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

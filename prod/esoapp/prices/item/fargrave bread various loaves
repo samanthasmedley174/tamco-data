@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave bread various loaves",
+    "displayName": "Fargrave Bread, Various Loaves",
+    "values": {
+      "commonRange": "3,796 - 6,000",
+      "averagePrice": 4620,
+      "minimumPrice": 3151,
+      "maximumPrice": 6950,
+      "averageStackPrice": 4620,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

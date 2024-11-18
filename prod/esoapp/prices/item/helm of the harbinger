@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helm of the harbinger",
+    "displayName": "Helm of the Harbinger",
+    "values": {
+      "commonRange": "7,500 - 15,000",
+      "averagePrice": 10264,
+      "minimumPrice": 5000,
+      "maximumPrice": 17000,
+      "averageStackPrice": 10264,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

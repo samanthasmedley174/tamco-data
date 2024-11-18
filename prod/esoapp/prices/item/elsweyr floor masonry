@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr floor masonry",
+    "displayName": "Elsweyr Floor, Masonry",
+    "values": {
+      "commonRange": "1,111 - 5,000",
+      "averagePrice": 4152,
+      "minimumPrice": 1111,
+      "maximumPrice": 9366,
+      "averageStackPrice": 4152,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

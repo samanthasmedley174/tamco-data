@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fish small",
+    "displayName": "Fish, Small",
+    "values": {
+      "commonRange": "70 - 300",
+      "averagePrice": 167,
+      "minimumPrice": 65,
+      "maximumPrice": 335,
+      "averageStackPrice": 167,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

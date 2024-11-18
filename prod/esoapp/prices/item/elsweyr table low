@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr table low",
+    "displayName": "Elsweyr Table, Low",
+    "values": {
+      "commonRange": "4,150 - 12,950",
+      "averagePrice": 7093,
+      "minimumPrice": 2250,
+      "maximumPrice": 15150,
+      "averageStackPrice": 7093,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/22/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hakoshae pillar wooden hooked",
+    "displayName": "Hakoshae Pillar, Wooden Hooked",
+    "values": {
+      "commonRange": "300 - 2,300",
+      "averagePrice": 1312,
+      "minimumPrice": 200,
+      "maximumPrice": 3150,
+      "averageStackPrice": 1312,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/12/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

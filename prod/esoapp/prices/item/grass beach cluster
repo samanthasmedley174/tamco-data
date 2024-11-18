@@ -1,0 +1,18 @@
+[
+  {
+    "name": "grass beach cluster",
+    "displayName": "Grass, Beach Cluster",
+    "values": {
+      "commonRange": "400 - 2,060",
+      "averagePrice": 1341,
+      "minimumPrice": 250,
+      "maximumPrice": 2060,
+      "averageStackPrice": 1341,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

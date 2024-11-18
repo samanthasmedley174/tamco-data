@@ -1,0 +1,18 @@
+[
+  {
+    "name": "farstrider ring",
+    "displayName": "Farstrider Ring",
+    "values": {
+      "commonRange": "350 - 3,178",
+      "averagePrice": 2350,
+      "minimumPrice": 200,
+      "maximumPrice": 25000,
+      "averageStackPrice": 2350,
+      "commonStackSize": 1,
+      "salesRecorded": 35
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula fabricant tree vibrant cherry blossom",
+    "displayName": "Formula: Fabricant Tree, Vibrant Cherry Blossom",
+    "values": {
+      "commonRange": "62,500 - 89,311",
+      "averagePrice": 73836,
+      "minimumPrice": 60000,
+      "maximumPrice": 105773,
+      "averageStackPrice": 73836,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

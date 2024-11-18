@@ -1,0 +1,18 @@
+[
+  {
+    "name": "general malgoths war harness",
+    "displayName": "General Malgoth's War Harness",
+    "values": {
+      "commonRange": "327 - 627",
+      "averagePrice": 477,
+      "minimumPrice": 327,
+      "maximumPrice": 627,
+      "averageStackPrice": 477,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

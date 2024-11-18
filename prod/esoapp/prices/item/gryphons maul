@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gryphons maul",
+    "displayName": "Gryphon's Maul",
+    "values": {
+      "commonRange": "400 - 2,000",
+      "averagePrice": 1293,
+      "minimumPrice": 234,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1293,
+      "commonStackSize": 1,
+      "salesRecorded": 35
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

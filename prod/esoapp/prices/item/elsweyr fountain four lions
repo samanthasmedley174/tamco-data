@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr fountain four lions",
+    "displayName": "Elsweyr Fountain, Four Lions",
+    "values": {
+      "commonRange": "5,000 - 26,362",
+      "averagePrice": 17028,
+      "minimumPrice": 4000,
+      "maximumPrice": 26362,
+      "averageStackPrice": 17028,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

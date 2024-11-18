@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula redguard lantern caged",
+    "displayName": "Formula: Redguard Lantern, Caged",
+    "values": {
+      "commonRange": "30,000 - 32,884",
+      "averagePrice": 32013,
+      "minimumPrice": 30000,
+      "maximumPrice": 33000,
+      "averageStackPrice": 32013,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

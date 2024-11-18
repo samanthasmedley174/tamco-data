@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hammer of the seducer",
+    "displayName": "Hammer of the Seducer",
+    "values": {
+      "commonRange": "93 - 93",
+      "averagePrice": 93,
+      "minimumPrice": 93,
+      "maximumPrice": 93,
+      "averageStackPrice": 93,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/23/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

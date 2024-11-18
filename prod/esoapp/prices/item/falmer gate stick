@@ -1,0 +1,18 @@
+[
+  {
+    "name": "falmer gate stick",
+    "displayName": "Falmer Gate, Stick",
+    "values": {
+      "commonRange": "2,000 - 11,989",
+      "averagePrice": 6252,
+      "minimumPrice": 250,
+      "maximumPrice": 11989,
+      "averageStackPrice": 6252,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

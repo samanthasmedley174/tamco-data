@@ -1,0 +1,18 @@
+[
+  {
+    "name": "exemplary nirnhoned restoration staff",
+    "displayName": "Exemplary Nirnhoned Restoration Staff",
+    "values": {
+      "commonRange": "25,000 - 25,000",
+      "averagePrice": 25000,
+      "minimumPrice": 25000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 25000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

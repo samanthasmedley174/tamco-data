@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helmet of the orders wrath",
+    "displayName": "Helmet of the Order's Wrath",
+    "values": {
+      "commonRange": "5,050 - 15,500",
+      "averagePrice": 13747,
+      "minimumPrice": 2000,
+      "maximumPrice": 15500,
+      "averageStackPrice": 13747,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

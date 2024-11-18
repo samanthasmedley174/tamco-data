@@ -1,0 +1,18 @@
+[
+  {
+    "name": "epaulets of a mothers sorrow",
+    "displayName": "Epaulets of a Mother's Sorrow",
+    "values": {
+      "commonRange": "250 - 30,000",
+      "averagePrice": 7323,
+      "minimumPrice": 144,
+      "maximumPrice": 100000,
+      "averageStackPrice": 7323,
+      "commonStackSize": 1,
+      "salesRecorded": 148
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

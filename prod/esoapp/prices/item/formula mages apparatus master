@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula mages apparatus master",
+    "displayName": "Formula: Mages Apparatus, Master",
+    "values": {
+      "commonRange": "40,000 - 61,000",
+      "averagePrice": 51205,
+      "minimumPrice": 33045,
+      "maximumPrice": 65000,
+      "averageStackPrice": 51205,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

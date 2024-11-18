@@ -1,0 +1,18 @@
+[
+  {
+    "name": "frog caller untuned",
+    "displayName": "Frog-Caller, Untuned",
+    "values": {
+      "commonRange": "19,088 - 25,000",
+      "averagePrice": 20739,
+      "minimumPrice": 15675,
+      "maximumPrice": 28575,
+      "averageStackPrice": 20739,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

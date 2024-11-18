@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fiords inferno staff",
+    "displayName": "Fiord's Inferno Staff",
+    "values": {
+      "commonRange": "220 - 616",
+      "averagePrice": 483,
+      "minimumPrice": 188,
+      "maximumPrice": 1000,
+      "averageStackPrice": 483,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

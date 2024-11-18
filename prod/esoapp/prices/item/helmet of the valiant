@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helmet of the valiant",
+    "displayName": "Helmet of the Valiant",
+    "values": {
+      "commonRange": "800 - 2,000",
+      "averagePrice": 1355,
+      "minimumPrice": 500,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1355,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

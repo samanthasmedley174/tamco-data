@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of the desert rose",
+    "displayName": "Gloves of the Desert Rose",
+    "values": {
+      "commonRange": "890 - 4,090",
+      "averagePrice": 2178,
+      "minimumPrice": 300,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2178,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

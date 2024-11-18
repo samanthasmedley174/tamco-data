@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula dawnwood orange lights sprouted arch",
+    "displayName": "Formula: Dawnwood Orange Lights, Sprouted Arch",
+    "values": {
+      "commonRange": "20,000 - 40,000",
+      "averagePrice": 32115,
+      "minimumPrice": 2000,
+      "maximumPrice": 44990,
+      "averageStackPrice": 32115,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

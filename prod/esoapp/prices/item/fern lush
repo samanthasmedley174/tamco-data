@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fern lush",
+    "displayName": "Fern, Lush",
+    "values": {
+      "commonRange": "165 - 1,000",
+      "averagePrice": 735,
+      "minimumPrice": 115,
+      "maximumPrice": 2000,
+      "averageStackPrice": 735,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/28/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

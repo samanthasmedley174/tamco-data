@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gourmands lightning staff",
+    "displayName": "Gourmand's Lightning Staff",
+    "values": {
+      "commonRange": "7,000 - 69,146",
+      "averagePrice": 27902,
+      "minimumPrice": 4000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 27902,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

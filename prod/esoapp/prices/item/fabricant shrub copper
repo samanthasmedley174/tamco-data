@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fabricant shrub copper",
+    "displayName": "Fabricant Shrub, Copper",
+    "values": {
+      "commonRange": "239 - 2,060",
+      "averagePrice": 1112,
+      "minimumPrice": 124,
+      "maximumPrice": 2560,
+      "averageStackPrice": 1112,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/27/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

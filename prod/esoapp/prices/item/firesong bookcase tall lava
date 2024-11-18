@@ -1,0 +1,18 @@
+[
+  {
+    "name": "firesong bookcase tall lava",
+    "displayName": "Firesong Bookcase, Tall Lava",
+    "values": {
+      "commonRange": "2,300 - 10,300",
+      "averagePrice": 6248,
+      "minimumPrice": 1500,
+      "maximumPrice": 10300,
+      "averageStackPrice": 6248,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/08/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

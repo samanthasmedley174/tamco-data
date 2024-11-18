@@ -1,0 +1,18 @@
+[
+  {
+    "name": "girdle of the storm knight",
+    "displayName": "Girdle of the Storm Knight",
+    "values": {
+      "commonRange": "87 - 2,290",
+      "averagePrice": 1083,
+      "minimumPrice": 87,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1083,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

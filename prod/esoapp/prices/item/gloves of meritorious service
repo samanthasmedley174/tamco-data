@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of meritorious service",
+    "displayName": "Gloves of Meritorious Service",
+    "values": {
+      "commonRange": "5,090 - 10,500",
+      "averagePrice": 7218,
+      "minimumPrice": 3501,
+      "maximumPrice": 10503,
+      "averageStackPrice": 7218,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

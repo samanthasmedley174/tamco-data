@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula fabricant tree electrum",
+    "displayName": "Formula: Fabricant Tree, Electrum",
+    "values": {
+      "commonRange": "3,927 - 8,000",
+      "averagePrice": 5549,
+      "minimumPrice": 500,
+      "maximumPrice": 8331,
+      "averageStackPrice": 5549,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

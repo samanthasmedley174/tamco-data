@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of martial knowledge",
+    "displayName": "Greatsword of Martial Knowledge",
+    "values": {
+      "commonRange": "679 - 6,240",
+      "averagePrice": 2715,
+      "minimumPrice": 140,
+      "maximumPrice": 15000,
+      "averageStackPrice": 2715,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

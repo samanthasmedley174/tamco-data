@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fern plant sturdy mature",
+    "displayName": "Fern Plant, Sturdy Mature",
+    "values": {
+      "commonRange": "500 - 1,085",
+      "averagePrice": 824,
+      "minimumPrice": 300,
+      "maximumPrice": 1630,
+      "averageStackPrice": 824,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

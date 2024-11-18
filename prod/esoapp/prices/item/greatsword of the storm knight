@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of the storm knight",
+    "displayName": "Greatsword of the Storm Knight",
+    "values": {
+      "commonRange": "184 - 1,742",
+      "averagePrice": 1718,
+      "minimumPrice": 162,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1718,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

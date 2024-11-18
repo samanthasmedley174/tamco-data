@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gold coast treasure map i",
+    "displayName": "Gold Coast Treasure Map I",
+    "values": {
+      "commonRange": "55 - 350",
+      "averagePrice": 186,
+      "minimumPrice": 40,
+      "maximumPrice": 609,
+      "averageStackPrice": 186,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

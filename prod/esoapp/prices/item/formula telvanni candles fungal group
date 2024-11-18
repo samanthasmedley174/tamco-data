@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula telvanni candles fungal group",
+    "displayName": "Formula: Telvanni Candles, Fungal Group",
+    "values": {
+      "commonRange": "200 - 900",
+      "averagePrice": 527,
+      "minimumPrice": 50,
+      "maximumPrice": 975,
+      "averageStackPrice": 527,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

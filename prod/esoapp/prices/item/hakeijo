@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hakeijo",
+    "displayName": "Hakeijo",
+    "values": {
+      "commonRange": "7,666 - 10,500",
+      "averagePrice": 8917,
+      "minimumPrice": 5605,
+      "maximumPrice": 17500,
+      "averageStackPrice": 8917,
+      "commonStackSize": 1,
+      "salesRecorded": 327
+    },
+    "type": "Enchanting Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Hakeijo.png"
+  }
+]

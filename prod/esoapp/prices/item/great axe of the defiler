@@ -1,0 +1,18 @@
+[
+  {
+    "name": "great axe of the defiler",
+    "displayName": "Great Axe of the Defiler",
+    "values": {
+      "commonRange": "540 - 1,620",
+      "averagePrice": 1210,
+      "minimumPrice": 240,
+      "maximumPrice": 2240,
+      "averageStackPrice": 1210,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

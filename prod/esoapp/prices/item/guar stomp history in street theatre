@@ -1,0 +1,18 @@
+[
+  {
+    "name": "guar stomp history in street theatre",
+    "displayName": "Guar Stomp History in Street Theatre",
+    "values": {
+      "commonRange": "1,000 - 3,804",
+      "averagePrice": 2307,
+      "minimumPrice": 500,
+      "maximumPrice": 5434,
+      "averageStackPrice": 2307,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Fragments",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

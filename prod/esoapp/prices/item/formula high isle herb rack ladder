@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula high isle herb rack ladder",
+    "displayName": "Formula: High Isle Herb Rack, Ladder",
+    "values": {
+      "commonRange": "5,000 - 10,400",
+      "averagePrice": 8127,
+      "minimumPrice": 1030,
+      "maximumPrice": 10476,
+      "averageStackPrice": 8127,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

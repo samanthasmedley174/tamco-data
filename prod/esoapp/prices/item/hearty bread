@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hearty bread",
+    "displayName": "Hearty Bread",
+    "values": {
+      "commonRange": "800 - 2,445",
+      "averagePrice": 1749,
+      "minimumPrice": 500,
+      "maximumPrice": 4650,
+      "averageStackPrice": 3498,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

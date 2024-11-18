@@ -1,0 +1,18 @@
+[
+  {
+    "name": "eye of the grasp bow",
+    "displayName": "Eye of the Grasp Bow",
+    "values": {
+      "commonRange": "1,360 - 2,000",
+      "averagePrice": 1651,
+      "minimumPrice": 500,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1651,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

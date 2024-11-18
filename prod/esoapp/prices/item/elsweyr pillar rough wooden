@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr pillar rough wooden",
+    "displayName": "Elsweyr Pillar, Rough Wooden",
+    "values": {
+      "commonRange": "65 - 3,000",
+      "averagePrice": 1053,
+      "minimumPrice": 15,
+      "maximumPrice": 3000,
+      "averageStackPrice": 2106,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/14/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

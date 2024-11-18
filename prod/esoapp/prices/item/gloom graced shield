@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloom graced shield",
+    "displayName": "Gloom-Graced Shield",
+    "values": {
+      "commonRange": "144 - 5,150",
+      "averagePrice": 1495,
+      "minimumPrice": 100,
+      "maximumPrice": 9750,
+      "averageStackPrice": 1495,
+      "commonStackSize": 1,
+      "salesRecorded": 59
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

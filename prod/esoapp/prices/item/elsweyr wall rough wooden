@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr wall rough wooden",
+    "displayName": "Elsweyr Wall, Rough Wooden",
+    "values": {
+      "commonRange": "250 - 3,060",
+      "averagePrice": 1693,
+      "minimumPrice": 200,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1693,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr platform stepped",
+    "displayName": "Elsweyr Platform, Stepped",
+    "values": {
+      "commonRange": "2,000 - 9,000",
+      "averagePrice": 4867,
+      "minimumPrice": 1666,
+      "maximumPrice": 9570,
+      "averageStackPrice": 4867,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

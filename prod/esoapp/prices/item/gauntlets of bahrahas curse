@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gauntlets of bahrahas curse",
+    "displayName": "Gauntlets of Bahraha's Curse",
+    "values": {
+      "commonRange": "420 - 4,400",
+      "averagePrice": 2916,
+      "minimumPrice": 87,
+      "maximumPrice": 30000,
+      "averageStackPrice": 2916,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

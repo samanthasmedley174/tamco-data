@@ -1,0 +1,18 @@
+[
+  {
+    "name": "garlic pumpkin seeds",
+    "displayName": "Garlic Pumpkin Seeds",
+    "values": {
+      "commonRange": "60 - 60",
+      "averagePrice": 42,
+      "minimumPrice": 6,
+      "maximumPrice": 60,
+      "averageStackPrice": 42,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Food & Drinks",
+    "date": "01/19/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/garlic_pumpkin_seeds.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gauntlets of the forest protector",
+    "displayName": "Gauntlets of the Forest Protector",
+    "values": {
+      "commonRange": "525 - 684",
+      "averagePrice": 548,
+      "minimumPrice": 300,
+      "maximumPrice": 684,
+      "averageStackPrice": 548,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

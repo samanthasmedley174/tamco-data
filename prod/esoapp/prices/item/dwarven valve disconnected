@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven valve disconnected",
+    "displayName": "Dwarven Valve, Disconnected",
+    "values": {
+      "commonRange": "2,150 - 10,950",
+      "averagePrice": 5800,
+      "minimumPrice": 2000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 5800,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/26/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

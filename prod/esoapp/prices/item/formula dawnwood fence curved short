@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula dawnwood fence curved short",
+    "displayName": "Formula: Dawnwood Fence, Curved Short",
+    "values": {
+      "commonRange": "44,000 - 65,000",
+      "averagePrice": 46599,
+      "minimumPrice": 6999,
+      "maximumPrice": 65000,
+      "averageStackPrice": 46599,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

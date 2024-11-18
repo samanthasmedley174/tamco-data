@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elegant lining",
+    "displayName": "Elegant Lining",
+    "values": {
+      "commonRange": "42 - 400",
+      "averagePrice": 170,
+      "minimumPrice": 27,
+      "maximumPrice": 444,
+      "averageStackPrice": 34000,
+      "commonStackSize": 200,
+      "salesRecorded": 250
+    },
+    "type": "Clothing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

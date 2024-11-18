@@ -1,0 +1,18 @@
+[
+  {
+    "name": "evergloam leggings",
+    "displayName": "Evergloam Leggings",
+    "values": {
+      "commonRange": "1,000 - 1,000",
+      "averagePrice": 1030,
+      "minimumPrice": 1000,
+      "maximumPrice": 1150,
+      "averageStackPrice": 1030,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr spice display saffron red",
+    "displayName": "Elsweyr Spice Display, Saffron Red",
+    "values": {
+      "commonRange": "360 - 6,434",
+      "averagePrice": 4061,
+      "minimumPrice": 100,
+      "maximumPrice": 7919,
+      "averageStackPrice": 4061,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

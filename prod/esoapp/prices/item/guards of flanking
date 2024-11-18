@@ -1,0 +1,18 @@
+[
+  {
+    "name": "guards of flanking",
+    "displayName": "Guards of Flanking",
+    "values": {
+      "commonRange": "380 - 1,174",
+      "averagePrice": 2076,
+      "minimumPrice": 180,
+      "maximumPrice": 20555,
+      "averageStackPrice": 2076,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

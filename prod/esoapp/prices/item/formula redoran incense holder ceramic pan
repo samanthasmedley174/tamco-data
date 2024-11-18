@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula redoran incense holder ceramic pan",
+    "displayName": "Formula: Redoran Incense Holder, Ceramic Pan",
+    "values": {
+      "commonRange": "15,000 - 21,000",
+      "averagePrice": 16848,
+      "minimumPrice": 3000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 16848,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

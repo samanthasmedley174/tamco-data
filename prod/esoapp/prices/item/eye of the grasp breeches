@@ -1,0 +1,18 @@
+[
+  {
+    "name": "eye of the grasp breeches",
+    "displayName": "Eye of the Grasp Breeches",
+    "values": {
+      "commonRange": "174 - 1,969",
+      "averagePrice": 893,
+      "minimumPrice": 170,
+      "maximumPrice": 4000,
+      "averageStackPrice": 893,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

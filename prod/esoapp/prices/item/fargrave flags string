@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave flags string",
+    "displayName": "Fargrave Flags, String",
+    "values": {
+      "commonRange": "500 - 2,500",
+      "averagePrice": 1520,
+      "minimumPrice": 250,
+      "maximumPrice": 3260,
+      "averageStackPrice": 3040,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/18/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

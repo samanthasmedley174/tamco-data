@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fifth legion porter",
+    "displayName": "Fifth Legion Porter",
+    "values": {
+      "commonRange": "200 - 200",
+      "averagePrice": 200,
+      "minimumPrice": 200,
+      "maximumPrice": 200,
+      "averageStackPrice": 1400,
+      "commonStackSize": 7,
+      "salesRecorded": 1
+    },
+    "type": "Food & Drinks",
+    "date": "11/09/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/fifth_legion_porter.png"
+  }
+]

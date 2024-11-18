@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ear of the queen",
+    "displayName": "Ear of the Queen",
+    "values": {
+      "commonRange": "542 - 542",
+      "averagePrice": 481,
+      "minimumPrice": 141,
+      "maximumPrice": 760,
+      "averageStackPrice": 481,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

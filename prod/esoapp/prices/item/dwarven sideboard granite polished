@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven sideboard granite polished",
+    "displayName": "Dwarven Sideboard, Granite Polished",
+    "values": {
+      "commonRange": "9,800 - 18,500",
+      "averagePrice": 15333,
+      "minimumPrice": 9300,
+      "maximumPrice": 21300,
+      "averageStackPrice": 15333,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Furnishings",
+    "date": "01/10/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

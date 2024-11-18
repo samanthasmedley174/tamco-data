@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula redguard bottle delicate",
+    "displayName": "Formula: Redguard Bottle, Delicate",
+    "values": {
+      "commonRange": "22,000 - 30,000",
+      "averagePrice": 26604,
+      "minimumPrice": 19000,
+      "maximumPrice": 45039,
+      "averageStackPrice": 26604,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

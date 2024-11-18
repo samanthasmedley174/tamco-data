@@ -1,0 +1,18 @@
+[
+  {
+    "name": "heartland conquerors dagger",
+    "displayName": "Heartland Conqueror's Dagger",
+    "values": {
+      "commonRange": "9,999 - 77,156",
+      "averagePrice": 43474,
+      "minimumPrice": 8586,
+      "maximumPrice": 78156,
+      "averageStackPrice": 43474,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

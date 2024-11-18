@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flowers sea lavender cluster",
+    "displayName": "Flowers, Sea Lavender Cluster",
+    "values": {
+      "commonRange": "4,653 - 13,890",
+      "averagePrice": 9781,
+      "minimumPrice": 1150,
+      "maximumPrice": 14000,
+      "averageStackPrice": 9781,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

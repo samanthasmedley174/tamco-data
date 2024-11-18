@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hakoshae banner square",
+    "displayName": "Hakoshae Banner, Square",
+    "values": {
+      "commonRange": "1,000 - 9,060",
+      "averagePrice": 4281,
+      "minimumPrice": 350,
+      "maximumPrice": 9060,
+      "averageStackPrice": 4281,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Furnishings",
+    "date": "03/28/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

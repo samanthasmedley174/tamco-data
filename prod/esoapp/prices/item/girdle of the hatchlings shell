@@ -1,0 +1,18 @@
+[
+  {
+    "name": "girdle of the hatchlings shell",
+    "displayName": "Girdle of the Hatchling's Shell",
+    "values": {
+      "commonRange": "190 - 2,000",
+      "averagePrice": 1040,
+      "minimumPrice": 90,
+      "maximumPrice": 2800,
+      "averageStackPrice": 1040,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

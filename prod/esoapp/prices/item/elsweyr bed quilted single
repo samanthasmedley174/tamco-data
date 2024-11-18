@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr bed quilted single",
+    "displayName": "Elsweyr Bed, Quilted Single",
+    "values": {
+      "commonRange": "3,000 - 8,000",
+      "averagePrice": 5860,
+      "minimumPrice": 1000,
+      "maximumPrice": 14900,
+      "averageStackPrice": 5860,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/24/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

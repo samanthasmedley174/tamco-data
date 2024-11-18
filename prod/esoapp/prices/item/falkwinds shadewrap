@@ -1,0 +1,18 @@
+[
+  {
+    "name": "falkwinds shadewrap",
+    "displayName": "Falkwind's Shadewrap",
+    "values": {
+      "commonRange": "271 - 271",
+      "averagePrice": 271,
+      "minimumPrice": 271,
+      "maximumPrice": 271,
+      "averageStackPrice": 271,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

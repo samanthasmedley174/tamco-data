@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gallant chain",
+    "displayName": "Gallant Chain",
+    "values": {
+      "commonRange": "14,183 - 130,000",
+      "averagePrice": 70898,
+      "minimumPrice": 4171,
+      "maximumPrice": 400171,
+      "averageStackPrice": 70898,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

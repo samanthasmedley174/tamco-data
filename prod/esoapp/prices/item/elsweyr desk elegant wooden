@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr desk elegant wooden",
+    "displayName": "Elsweyr Desk, Elegant Wooden",
+    "values": {
+      "commonRange": "5,500 - 15,000",
+      "averagePrice": 10664,
+      "minimumPrice": 3000,
+      "maximumPrice": 28770,
+      "averageStackPrice": 10664,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/15/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "exemplary infused ring",
+    "displayName": "Exemplary Infused Ring",
+    "values": {
+      "commonRange": "500 - 2,200",
+      "averagePrice": 1406,
+      "minimumPrice": 453,
+      "maximumPrice": 6500,
+      "averageStackPrice": 1406,
+      "commonStackSize": 1,
+      "salesRecorded": 78
+    },
+    "type": "Set Items",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

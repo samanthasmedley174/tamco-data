@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fighters  guild citation",
+    "displayName": "Fighters  Guild Citation",
+    "values": {
+      "commonRange": "1,000 - 8,468",
+      "averagePrice": 5123,
+      "minimumPrice": 50,
+      "maximumPrice": 40000,
+      "averageStackPrice": 5123,
+      "commonStackSize": 1,
+      "salesRecorded": 305
+    },
+    "type": "Miscellaneous",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

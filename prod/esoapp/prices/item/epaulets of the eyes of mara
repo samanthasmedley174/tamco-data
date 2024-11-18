@@ -1,0 +1,18 @@
+[
+  {
+    "name": "epaulets of the eyes of mara",
+    "displayName": "Epaulets of the Eyes of Mara",
+    "values": {
+      "commonRange": "125 - 125",
+      "averagePrice": 125,
+      "minimumPrice": 125,
+      "maximumPrice": 125,
+      "averageStackPrice": 125,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hand of almalexia tapestry large",
+    "displayName": "Hand of Almalexia Tapestry, Large",
+    "values": {
+      "commonRange": "1,000 - 7,000",
+      "averagePrice": 4531,
+      "minimumPrice": 1000,
+      "maximumPrice": 16300,
+      "averageStackPrice": 4531,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

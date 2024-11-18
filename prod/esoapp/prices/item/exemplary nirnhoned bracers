@@ -1,0 +1,18 @@
+[
+  {
+    "name": "exemplary nirnhoned bracers",
+    "displayName": "Exemplary Nirnhoned Bracers",
+    "values": {
+      "commonRange": "8,000 - 8,000",
+      "averagePrice": 8000,
+      "minimumPrice": 8000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 8000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

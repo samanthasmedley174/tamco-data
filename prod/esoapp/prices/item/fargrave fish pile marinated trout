@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave fish pile marinated trout",
+    "displayName": "Fargrave Fish Pile, Marinated Trout",
+    "values": {
+      "commonRange": "1,000 - 5,950",
+      "averagePrice": 3956,
+      "minimumPrice": 250,
+      "maximumPrice": 7850,
+      "averageStackPrice": 3956,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

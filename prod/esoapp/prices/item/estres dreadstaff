@@ -1,0 +1,18 @@
+[
+  {
+    "name": "estres dreadstaff",
+    "displayName": "Estre's Dreadstaff",
+    "values": {
+      "commonRange": "156 - 1,500",
+      "averagePrice": 712,
+      "minimumPrice": 132,
+      "maximumPrice": 2240,
+      "averageStackPrice": 712,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

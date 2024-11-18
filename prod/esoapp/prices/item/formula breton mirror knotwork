@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula breton mirror knotwork",
+    "displayName": "Formula: Breton Mirror, Knotwork",
+    "values": {
+      "commonRange": "15,000 - 31,000",
+      "averagePrice": 21347,
+      "minimumPrice": 15000,
+      "maximumPrice": 32000,
+      "averageStackPrice": 21347,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

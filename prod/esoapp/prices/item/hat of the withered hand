@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hat of the withered hand",
+    "displayName": "Hat of the Withered Hand",
+    "values": {
+      "commonRange": "105 - 850",
+      "averagePrice": 411,
+      "minimumPrice": 100,
+      "maximumPrice": 1353,
+      "averageStackPrice": 411,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

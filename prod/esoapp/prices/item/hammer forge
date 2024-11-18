@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hammer forge",
+    "displayName": "Hammer, Forge",
+    "values": {
+      "commonRange": "555 - 5,500",
+      "averagePrice": 3447,
+      "minimumPrice": 555,
+      "maximumPrice": 13260,
+      "averageStackPrice": 3447,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/06/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

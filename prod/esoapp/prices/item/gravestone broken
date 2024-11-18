@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gravestone broken",
+    "displayName": "Gravestone, Broken",
+    "values": {
+      "commonRange": "500 - 2,441",
+      "averagePrice": 1612,
+      "minimumPrice": 233,
+      "maximumPrice": 2500,
+      "averageStackPrice": 1612,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

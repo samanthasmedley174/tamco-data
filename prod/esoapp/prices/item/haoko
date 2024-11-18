@@ -1,0 +1,18 @@
+[
+  {
+    "name": "haoko",
+    "displayName": "Haoko",
+    "values": {
+      "commonRange": "10 - 29",
+      "averagePrice": 20,
+      "minimumPrice": 3,
+      "maximumPrice": 37,
+      "averageStackPrice": 4000,
+      "commonStackSize": 200,
+      "salesRecorded": 17
+    },
+    "type": "Enchanting Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Haoko.png"
+  }
+]

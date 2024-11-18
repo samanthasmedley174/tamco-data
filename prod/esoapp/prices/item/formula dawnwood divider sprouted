@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula dawnwood divider sprouted",
+    "displayName": "Formula: Dawnwood Divider, Sprouted",
+    "values": {
+      "commonRange": "44,302 - 194,899",
+      "averagePrice": 109054,
+      "minimumPrice": 40000,
+      "maximumPrice": 345300,
+      "averageStackPrice": 109054,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

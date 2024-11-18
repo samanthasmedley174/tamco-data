@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr pot floral",
+    "displayName": "Elsweyr Pot, Floral",
+    "values": {
+      "commonRange": "1,000 - 3,250",
+      "averagePrice": 2460,
+      "minimumPrice": 1000,
+      "maximumPrice": 4800,
+      "averageStackPrice": 2460,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/13/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

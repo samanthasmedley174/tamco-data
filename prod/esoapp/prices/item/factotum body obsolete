@@ -1,0 +1,18 @@
+[
+  {
+    "name": "factotum body obsolete",
+    "displayName": "Factotum Body, Obsolete",
+    "values": {
+      "commonRange": "4,798 - 8,000",
+      "averagePrice": 7106,
+      "minimumPrice": 1000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 7106,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

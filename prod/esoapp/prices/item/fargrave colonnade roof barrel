@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave colonnade roof barrel",
+    "displayName": "Fargrave Colonnade Roof, Barrel",
+    "values": {
+      "commonRange": "6,000 - 13,600",
+      "averagePrice": 9120,
+      "minimumPrice": 5150,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9120,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

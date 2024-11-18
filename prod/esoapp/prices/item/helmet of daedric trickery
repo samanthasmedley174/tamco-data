@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helmet of daedric trickery",
+    "displayName": "Helmet of Daedric Trickery",
+    "values": {
+      "commonRange": "72,156 - 72,156",
+      "averagePrice": 72156,
+      "minimumPrice": 72156,
+      "maximumPrice": 72156,
+      "averageStackPrice": 72156,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

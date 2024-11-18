@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hedge large horseshoe",
+    "displayName": "Hedge, Large Horseshoe",
+    "values": {
+      "commonRange": "2,650 - 5,000",
+      "averagePrice": 3632,
+      "minimumPrice": 2500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 3632,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/24/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

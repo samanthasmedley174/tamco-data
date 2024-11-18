@@ -1,0 +1,18 @@
+[
+  {
+    "name": "girdle of fury",
+    "displayName": "Girdle of Fury",
+    "values": {
+      "commonRange": "850 - 9,090",
+      "averagePrice": 3489,
+      "minimumPrice": 500,
+      "maximumPrice": 12090,
+      "averageStackPrice": 3489,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

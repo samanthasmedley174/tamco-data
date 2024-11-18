@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greaves of syvarras scales",
+    "displayName": "Greaves of Syvarra's Scales",
+    "values": {
+      "commonRange": "2,183 - 20,000",
+      "averagePrice": 10801,
+      "minimumPrice": 180,
+      "maximumPrice": 29999,
+      "averageStackPrice": 10801,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula necrom incense burner delicate brass",
+    "displayName": "Formula: Necrom Incense Burner, Delicate Brass",
+    "values": {
+      "commonRange": "15,000 - 17,255",
+      "averagePrice": 16437,
+      "minimumPrice": 13000,
+      "maximumPrice": 18321,
+      "averageStackPrice": 16437,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

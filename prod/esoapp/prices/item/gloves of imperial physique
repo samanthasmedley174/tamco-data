@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of imperial physique",
+    "displayName": "Gloves of Imperial Physique",
+    "values": {
+      "commonRange": "17,090 - 17,090",
+      "averagePrice": 17090,
+      "minimumPrice": 17090,
+      "maximumPrice": 17090,
+      "averageStackPrice": 17090,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

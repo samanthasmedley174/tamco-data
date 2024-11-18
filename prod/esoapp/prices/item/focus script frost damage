@@ -1,0 +1,18 @@
+[
+  {
+    "name": "focus script frost damage",
+    "displayName": "Focus Script: Frost Damage",
+    "values": {
+      "commonRange": "85,000 - 100,000",
+      "averagePrice": 90581,
+      "minimumPrice": 75000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 90581,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Scripts",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Focus_Script:_Frost_Damage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fern small mammoth leaf",
+    "displayName": "Fern, Small Mammoth Leaf",
+    "values": {
+      "commonRange": "1,027 - 2,750",
+      "averagePrice": 1973,
+      "minimumPrice": 1027,
+      "maximumPrice": 4960,
+      "averageStackPrice": 1973,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

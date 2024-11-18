@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of dark convergence",
+    "displayName": "Gloves of Dark Convergence",
+    "values": {
+      "commonRange": "4,090 - 120,000",
+      "averagePrice": 31267,
+      "minimumPrice": 230,
+      "maximumPrice": 120000,
+      "averageStackPrice": 31267,
+      "commonStackSize": 1,
+      "salesRecorded": 96
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

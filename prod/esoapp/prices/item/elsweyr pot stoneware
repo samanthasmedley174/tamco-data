@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr pot stoneware",
+    "displayName": "Elsweyr Pot, Stoneware",
+    "values": {
+      "commonRange": "250 - 3,300",
+      "averagePrice": 1919,
+      "minimumPrice": 60,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1919,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/25/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

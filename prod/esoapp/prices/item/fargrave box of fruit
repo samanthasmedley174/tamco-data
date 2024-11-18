@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave box of fruit",
+    "displayName": "Fargrave Box of Fruit",
+    "values": {
+      "commonRange": "5,500 - 12,200",
+      "averagePrice": 8040,
+      "minimumPrice": 4819,
+      "maximumPrice": 14250,
+      "averageStackPrice": 8040,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

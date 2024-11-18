@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of necropotence",
+    "displayName": "Greatsword of Necropotence",
+    "values": {
+      "commonRange": "234 - 999",
+      "averagePrice": 705,
+      "minimumPrice": 234,
+      "maximumPrice": 1999,
+      "averageStackPrice": 705,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

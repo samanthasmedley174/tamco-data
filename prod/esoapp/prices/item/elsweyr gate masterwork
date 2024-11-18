@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr gate masterwork",
+    "displayName": "Elsweyr Gate, Masterwork",
+    "values": {
+      "commonRange": "15,000 - 20,000",
+      "averagePrice": 17960,
+      "minimumPrice": 15000,
+      "maximumPrice": 28000,
+      "averageStackPrice": 17960,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

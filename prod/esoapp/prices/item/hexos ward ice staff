@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hexos ward ice staff",
+    "displayName": "Hexos' Ward Ice Staff",
+    "values": {
+      "commonRange": "734 - 17,464",
+      "averagePrice": 14003,
+      "minimumPrice": 534,
+      "maximumPrice": 167000,
+      "averageStackPrice": 14003,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

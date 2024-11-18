@@ -1,0 +1,18 @@
+[
+  {
+    "name": "figurine the dragons glare",
+    "displayName": "Figurine, The Dragon's Glare",
+    "values": {
+      "commonRange": "18,045 - 20,000",
+      "averagePrice": 19708,
+      "minimumPrice": 17867,
+      "maximumPrice": 25000,
+      "averageStackPrice": 19708,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

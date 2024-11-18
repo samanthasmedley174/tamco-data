@@ -1,0 +1,18 @@
+[
+  {
+    "name": "egg gruesome",
+    "displayName": "Egg, Gruesome",
+    "values": {
+      "commonRange": "3,300 - 7,000",
+      "averagePrice": 4384,
+      "minimumPrice": 200,
+      "maximumPrice": 7000,
+      "averageStackPrice": 4384,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

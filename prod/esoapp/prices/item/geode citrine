@@ -1,0 +1,18 @@
+[
+  {
+    "name": "geode citrine",
+    "displayName": "Geode, Citrine",
+    "values": {
+      "commonRange": "15,000 - 55,517",
+      "averagePrice": 34435,
+      "minimumPrice": 10000,
+      "maximumPrice": 58000,
+      "averageStackPrice": 34435,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

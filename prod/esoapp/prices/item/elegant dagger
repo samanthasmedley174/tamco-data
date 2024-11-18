@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elegant dagger",
+    "displayName": "Elegant Dagger",
+    "values": {
+      "commonRange": "344 - 607",
+      "averagePrice": 528,
+      "minimumPrice": 290,
+      "maximumPrice": 870,
+      "averageStackPrice": 528,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "green gardeners booties",
+    "displayName": "Green Gardener's Booties",
+    "values": {
+      "commonRange": "200 - 200",
+      "averagePrice": 200,
+      "minimumPrice": 200,
+      "maximumPrice": 200,
+      "averageStackPrice": 200,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula lucent crystals small bed",
+    "displayName": "Formula: Lucent Crystals, Small Bed",
+    "values": {
+      "commonRange": "2,000 - 6,700",
+      "averagePrice": 5664,
+      "minimumPrice": 830,
+      "maximumPrice": 9930,
+      "averageStackPrice": 5664,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

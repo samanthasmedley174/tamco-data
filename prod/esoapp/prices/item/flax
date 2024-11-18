@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flax",
+    "displayName": "Flax",
+    "values": {
+      "commonRange": "10 - 20",
+      "averagePrice": 14,
+      "minimumPrice": 9,
+      "maximumPrice": 21,
+      "averageStackPrice": 2800,
+      "commonStackSize": 200,
+      "salesRecorded": 26
+    },
+    "type": "Clothing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

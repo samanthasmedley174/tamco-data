@@ -1,0 +1,18 @@
+[
+  {
+    "name": "grinstones",
+    "displayName": "Grinstones",
+    "values": {
+      "commonRange": "2,911 - 5,085",
+      "averagePrice": 3945,
+      "minimumPrice": 2911,
+      "maximumPrice": 6200,
+      "averageStackPrice": 3945,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Materials",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Grinstones.png"
+  }
+]

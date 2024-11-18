@@ -1,0 +1,18 @@
+[
+  {
+    "name": "heartland conquerors girdle",
+    "displayName": "Heartland Conqueror's Girdle",
+    "values": {
+      "commonRange": "10,039 - 10,039",
+      "averagePrice": 10039,
+      "minimumPrice": 10039,
+      "maximumPrice": 10039,
+      "averageStackPrice": 10039,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

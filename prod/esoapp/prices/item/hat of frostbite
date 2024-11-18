@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hat of frostbite",
+    "displayName": "Hat of Frostbite",
+    "values": {
+      "commonRange": "1,150 - 15,000",
+      "averagePrice": 7932,
+      "minimumPrice": 353,
+      "maximumPrice": 55000,
+      "averageStackPrice": 7932,
+      "commonStackSize": 1,
+      "salesRecorded": 43
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

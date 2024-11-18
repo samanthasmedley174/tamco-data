@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fireplace grate wrought iron",
+    "displayName": "Fireplace Grate, Wrought Iron",
+    "values": {
+      "commonRange": "1,000 - 5,851",
+      "averagePrice": 4256,
+      "minimumPrice": 499,
+      "maximumPrice": 6600,
+      "averageStackPrice": 4256,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

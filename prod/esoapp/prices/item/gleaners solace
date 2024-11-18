@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gleaners solace",
+    "displayName": "Gleaner's Solace",
+    "values": {
+      "commonRange": "440 - 440",
+      "averagePrice": 893,
+      "minimumPrice": 240,
+      "maximumPrice": 2000,
+      "averageStackPrice": 893,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

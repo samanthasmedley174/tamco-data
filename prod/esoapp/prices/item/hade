@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hade",
+    "displayName": "Hade",
+    "values": {
+      "commonRange": "11 - 125",
+      "averagePrice": 80,
+      "minimumPrice": 11,
+      "maximumPrice": 125,
+      "averageStackPrice": 80,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Enchanting Materials",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Hade.png"
+  }
+]

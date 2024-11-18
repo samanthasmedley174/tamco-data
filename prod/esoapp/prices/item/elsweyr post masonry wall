@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr post masonry wall",
+    "displayName": "Elsweyr Post, Masonry Wall",
+    "values": {
+      "commonRange": "1,000 - 3,500",
+      "averagePrice": 2090,
+      "minimumPrice": 1000,
+      "maximumPrice": 3500,
+      "averageStackPrice": 2090,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

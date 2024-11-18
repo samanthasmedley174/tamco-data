@@ -1,0 +1,18 @@
+[
+  {
+    "name": "glittering belt of tribute",
+    "displayName": "Glittering Belt of Tribute",
+    "values": {
+      "commonRange": "412 - 412",
+      "averagePrice": 412,
+      "minimumPrice": 240,
+      "maximumPrice": 584,
+      "averageStackPrice": 412,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

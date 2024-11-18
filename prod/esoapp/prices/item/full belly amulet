@@ -1,0 +1,18 @@
+[
+  {
+    "name": "full belly amulet",
+    "displayName": "Full Belly Amulet",
+    "values": {
+      "commonRange": "523 - 1,000",
+      "averagePrice": 837,
+      "minimumPrice": 400,
+      "maximumPrice": 1250,
+      "averageStackPrice": 837,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "focus script multi target",
+    "displayName": "Focus Script: Multi-Target",
+    "values": {
+      "commonRange": "290,000 - 400,000",
+      "averagePrice": 341667,
+      "minimumPrice": 280000,
+      "maximumPrice": 450000,
+      "averageStackPrice": 341667,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Scripts",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Focus_Script:_Multi-target.png"
+  }
+]

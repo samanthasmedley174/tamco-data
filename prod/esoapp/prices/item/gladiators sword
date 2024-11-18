@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gladiators sword",
+    "displayName": "Gladiator's Sword",
+    "values": {
+      "commonRange": "4,156 - 4,156",
+      "averagePrice": 4156,
+      "minimumPrice": 4156,
+      "maximumPrice": 4156,
+      "averageStackPrice": 4156,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

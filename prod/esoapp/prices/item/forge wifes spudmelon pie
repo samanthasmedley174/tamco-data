@@ -1,0 +1,18 @@
+[
+  {
+    "name": "forge wifes spudmelon pie",
+    "displayName": "Forge-Wife's Spudmelon Pie",
+    "values": {
+      "commonRange": "9 - 9",
+      "averagePrice": 29,
+      "minimumPrice": 8,
+      "maximumPrice": 90,
+      "averageStackPrice": 2900,
+      "commonStackSize": 100,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "11/01/2020",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/forge-wife's_spudmelon_pie.png"
+  }
+]

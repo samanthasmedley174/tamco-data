@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greaves of the green pact",
+    "displayName": "Greaves of the Green Pact",
+    "values": {
+      "commonRange": "180 - 3,000",
+      "averagePrice": 1904,
+      "minimumPrice": 108,
+      "maximumPrice": 20000,
+      "averageStackPrice": 1904,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

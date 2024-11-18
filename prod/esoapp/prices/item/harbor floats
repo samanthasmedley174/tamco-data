@@ -1,0 +1,18 @@
+[
+  {
+    "name": "harbor floats",
+    "displayName": "Harbor Floats",
+    "values": {
+      "commonRange": "3,254 - 8,252",
+      "averagePrice": 6450,
+      "minimumPrice": 3252,
+      "maximumPrice": 8333,
+      "averageStackPrice": 6450,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

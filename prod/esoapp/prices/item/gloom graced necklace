@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloom graced necklace",
+    "displayName": "Gloom-Graced Necklace",
+    "values": {
+      "commonRange": "250 - 4,250",
+      "averagePrice": 2758,
+      "minimumPrice": 100,
+      "maximumPrice": 50024,
+      "averageStackPrice": 2758,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

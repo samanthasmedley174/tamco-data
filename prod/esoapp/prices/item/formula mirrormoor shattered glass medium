@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula mirrormoor shattered glass medium",
+    "displayName": "Formula: Mirrormoor Shattered Glass, Medium",
+    "values": {
+      "commonRange": "10,000 - 14,774",
+      "averagePrice": 12305,
+      "minimumPrice": 10000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 12305,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

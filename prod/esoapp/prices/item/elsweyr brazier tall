@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr brazier tall",
+    "displayName": "Elsweyr Brazier, Tall",
+    "values": {
+      "commonRange": "1,500 - 3,000",
+      "averagePrice": 2369,
+      "minimumPrice": 1333,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2369,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

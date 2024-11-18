@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greaves of the hatchlings shell",
+    "displayName": "Greaves of the Hatchling's Shell",
+    "values": {
+      "commonRange": "550 - 2,350",
+      "averagePrice": 1634,
+      "minimumPrice": 425,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1634,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

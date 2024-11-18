@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of the shadow dancer",
+    "displayName": "Gloves of The Shadow Dancer",
+    "values": {
+      "commonRange": "90 - 1,800",
+      "averagePrice": 603,
+      "minimumPrice": 87,
+      "maximumPrice": 2000,
+      "averageStackPrice": 603,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

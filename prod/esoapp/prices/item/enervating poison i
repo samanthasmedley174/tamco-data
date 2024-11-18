@@ -1,0 +1,18 @@
+[
+  {
+    "name": "enervating poison i",
+    "displayName": "Enervating Poison I",
+    "values": {
+      "commonRange": "3 - 6",
+      "averagePrice": 4,
+      "minimumPrice": 3,
+      "maximumPrice": 9,
+      "averageStackPrice": 16,
+      "commonStackSize": 4,
+      "salesRecorded": 11
+    },
+    "type": "Potions & Poisons",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

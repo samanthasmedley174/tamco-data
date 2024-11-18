@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gourmands jerkin",
+    "displayName": "Gourmand's Jerkin",
+    "values": {
+      "commonRange": "600 - 16,320",
+      "averagePrice": 11103,
+      "minimumPrice": 160,
+      "maximumPrice": 75000,
+      "averageStackPrice": 11103,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

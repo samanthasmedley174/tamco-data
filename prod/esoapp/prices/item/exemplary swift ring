@@ -1,0 +1,18 @@
+[
+  {
+    "name": "exemplary swift ring",
+    "displayName": "Exemplary Swift Ring",
+    "values": {
+      "commonRange": "1,000 - 2,800",
+      "averagePrice": 1623,
+      "minimumPrice": 500,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1623,
+      "commonStackSize": 1,
+      "salesRecorded": 68
+    },
+    "type": "Set Items",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hakoshae lantern linked rings",
+    "displayName": "Hakoshae Lantern, Linked Rings",
+    "values": {
+      "commonRange": "4,984 - 10,500",
+      "averagePrice": 7690,
+      "minimumPrice": 4984,
+      "maximumPrice": 10533,
+      "averageStackPrice": 7690,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

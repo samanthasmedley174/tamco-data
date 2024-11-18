@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr writing desk elegant wooden",
+    "displayName": "Elsweyr Writing Desk, Elegant Wooden",
+    "values": {
+      "commonRange": "6,000 - 13,060",
+      "averagePrice": 10703,
+      "minimumPrice": 3000,
+      "maximumPrice": 13362,
+      "averageStackPrice": 10703,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

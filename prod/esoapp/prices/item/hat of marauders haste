@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hat of marauders haste",
+    "displayName": "Hat of Marauder's Haste",
+    "values": {
+      "commonRange": "150 - 1,715",
+      "averagePrice": 714,
+      "minimumPrice": 105,
+      "maximumPrice": 4000,
+      "averageStackPrice": 714,
+      "commonStackSize": 1,
+      "salesRecorded": 47
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

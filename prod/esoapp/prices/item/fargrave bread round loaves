@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave bread round loaves",
+    "displayName": "Fargrave Bread, Round Loaves",
+    "values": {
+      "commonRange": "3,000 - 6,000",
+      "averagePrice": 4479,
+      "minimumPrice": 1000,
+      "maximumPrice": 8750,
+      "averageStackPrice": 4479,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

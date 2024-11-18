@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr stall counter single",
+    "displayName": "Elsweyr Stall Counter, Single",
+    "values": {
+      "commonRange": "3,000 - 3,285",
+      "averagePrice": 3842,
+      "minimumPrice": 3000,
+      "maximumPrice": 10900,
+      "averageStackPrice": 3842,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

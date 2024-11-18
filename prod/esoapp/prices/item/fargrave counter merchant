@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave counter merchant",
+    "displayName": "Fargrave Counter, Merchant",
+    "values": {
+      "commonRange": "3,605 - 4,150",
+      "averagePrice": 3924,
+      "minimumPrice": 3605,
+      "maximumPrice": 6250,
+      "averageStackPrice": 3924,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

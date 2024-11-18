@@ -1,0 +1,18 @@
+[
+  {
+    "name": "glass crystal opaque cluster",
+    "displayName": "Glass Crystal, Opaque Cluster",
+    "values": {
+      "commonRange": "7,857 - 13,500",
+      "averagePrice": 10274,
+      "minimumPrice": 6500,
+      "maximumPrice": 13576,
+      "averageStackPrice": 10274,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

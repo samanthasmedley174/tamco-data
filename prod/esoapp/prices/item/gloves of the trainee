@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of the trainee",
+    "displayName": "Gloves of the Trainee",
+    "values": {
+      "commonRange": "90 - 2,000",
+      "averagePrice": 841,
+      "minimumPrice": 87,
+      "maximumPrice": 3087,
+      "averageStackPrice": 841,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

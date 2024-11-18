@@ -1,0 +1,18 @@
+[
+  {
+    "name": "grilled hare",
+    "displayName": "Grilled Hare",
+    "values": {
+      "commonRange": "3 - 30",
+      "averagePrice": 15,
+      "minimumPrice": 3,
+      "maximumPrice": 43,
+      "averageStackPrice": 1500,
+      "commonStackSize": 100,
+      "salesRecorded": 9
+    },
+    "type": "Food & Drinks",
+    "date": "06/07/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/grilled_hare.png"
+  }
+]

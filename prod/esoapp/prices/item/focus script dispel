@@ -1,0 +1,18 @@
+[
+  {
+    "name": "focus script dispel",
+    "displayName": "Focus Script: Dispel",
+    "values": {
+      "commonRange": "9,500 - 15,000",
+      "averagePrice": 17700,
+      "minimumPrice": 9500,
+      "maximumPrice": 115000,
+      "averageStackPrice": 17700,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Scripts",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Focus_Script:_Dispel.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greaves of the wyrd tree",
+    "displayName": "Greaves of the Wyrd Tree",
+    "values": {
+      "commonRange": "275 - 2,180",
+      "averagePrice": 1074,
+      "minimumPrice": 180,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1074,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

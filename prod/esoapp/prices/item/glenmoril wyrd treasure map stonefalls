@@ -1,0 +1,18 @@
+[
+  {
+    "name": "glenmoril wyrd treasure map stonefalls",
+    "displayName": "Glenmoril Wyrd Treasure Map: Stonefalls",
+    "values": {
+      "commonRange": "100 - 500",
+      "averagePrice": 263,
+      "minimumPrice": 100,
+      "maximumPrice": 1000,
+      "averageStackPrice": 263,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

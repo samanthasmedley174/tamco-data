@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ginseng tonic",
+    "displayName": "Ginseng Tonic",
+    "values": {
+      "commonRange": "3 - 26",
+      "averagePrice": 10,
+      "minimumPrice": 3,
+      "maximumPrice": 30,
+      "averageStackPrice": 10,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Food & Drinks",
+    "date": "07/06/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/ginseng_tonic.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloom graced pauldron",
+    "displayName": "Gloom-Graced Pauldron",
+    "values": {
+      "commonRange": "150 - 5,970",
+      "averagePrice": 2136,
+      "minimumPrice": 85,
+      "maximumPrice": 42060,
+      "averageStackPrice": 2136,
+      "commonStackSize": 1,
+      "salesRecorded": 117
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

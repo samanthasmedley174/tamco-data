@@ -1,0 +1,18 @@
+[
+  {
+    "name": "filtered water",
+    "displayName": "Filtered Water",
+    "values": {
+      "commonRange": "90 - 200",
+      "averagePrice": 180,
+      "minimumPrice": 6,
+      "maximumPrice": 375,
+      "averageStackPrice": 4500,
+      "commonStackSize": 25,
+      "salesRecorded": 25
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

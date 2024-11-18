@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elk head wall mount",
+    "displayName": "Elk Head, Wall Mount",
+    "values": {
+      "commonRange": "26,510 - 40,000",
+      "averagePrice": 34283,
+      "minimumPrice": 21800,
+      "maximumPrice": 43629,
+      "averageStackPrice": 34283,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gryphons bow",
+    "displayName": "Gryphon's Bow",
+    "values": {
+      "commonRange": "240 - 2,038",
+      "averagePrice": 1595,
+      "minimumPrice": 200,
+      "maximumPrice": 39973,
+      "averageStackPrice": 1595,
+      "commonStackSize": 1,
+      "salesRecorded": 81
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

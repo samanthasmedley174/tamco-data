@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave colonnade pillar tall",
+    "displayName": "Fargrave Colonnade Pillar, Tall",
+    "values": {
+      "commonRange": "2,500 - 7,333",
+      "averagePrice": 4532,
+      "minimumPrice": 650,
+      "maximumPrice": 7333,
+      "averageStackPrice": 13596,
+      "commonStackSize": 3,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

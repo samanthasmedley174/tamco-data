@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven urn sealed",
+    "displayName": "Dwarven Urn, Sealed",
+    "values": {
+      "commonRange": "1,000 - 3,000",
+      "averagePrice": 1729,
+      "minimumPrice": 560,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1729,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/27/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

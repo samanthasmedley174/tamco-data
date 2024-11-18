@@ -1,0 +1,18 @@
+[
+  {
+    "name": "enervating shield",
+    "displayName": "Enervating Shield",
+    "values": {
+      "commonRange": "8,000 - 20,000",
+      "averagePrice": 13677,
+      "minimumPrice": 2995,
+      "maximumPrice": 20000,
+      "averageStackPrice": 13677,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

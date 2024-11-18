@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr brazier massive",
+    "displayName": "Elsweyr Brazier, Massive",
+    "values": {
+      "commonRange": "5,800 - 25,000",
+      "averagePrice": 13123,
+      "minimumPrice": 4300,
+      "maximumPrice": 34400,
+      "averageStackPrice": 13123,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

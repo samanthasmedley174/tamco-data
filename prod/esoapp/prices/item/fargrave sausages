@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave sausages",
+    "displayName": "Fargrave Sausages",
+    "values": {
+      "commonRange": "4,500 - 9,850",
+      "averagePrice": 6176,
+      "minimumPrice": 4150,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6176,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

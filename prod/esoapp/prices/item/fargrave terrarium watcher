@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave terrarium watcher",
+    "displayName": "Fargrave Terrarium, Watcher",
+    "values": {
+      "commonRange": "2,950 - 16,950",
+      "averagePrice": 6601,
+      "minimumPrice": 1950,
+      "maximumPrice": 20000,
+      "averageStackPrice": 6601,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

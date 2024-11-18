@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of stendarr",
+    "displayName": "Gloves of Stendarr",
+    "values": {
+      "commonRange": "90 - 2,000",
+      "averagePrice": 1307,
+      "minimumPrice": 90,
+      "maximumPrice": 18000,
+      "averageStackPrice": 1307,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

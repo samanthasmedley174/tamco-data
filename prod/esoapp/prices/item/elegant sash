@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elegant sash",
+    "displayName": "Elegant Sash",
+    "values": {
+      "commonRange": "154 - 1,000",
+      "averagePrice": 601,
+      "minimumPrice": 87,
+      "maximumPrice": 2387,
+      "averageStackPrice": 601,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

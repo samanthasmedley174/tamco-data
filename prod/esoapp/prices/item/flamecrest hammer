@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flamecrest hammer",
+    "displayName": "Flamecrest Hammer",
+    "values": {
+      "commonRange": "400 - 1,575",
+      "averagePrice": 1402,
+      "minimumPrice": 105,
+      "maximumPrice": 5434,
+      "averageStackPrice": 1402,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

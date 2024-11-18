@@ -1,0 +1,18 @@
+[
+  {
+    "name": "factotum head obsolete",
+    "displayName": "Factotum Head, Obsolete",
+    "values": {
+      "commonRange": "5,000 - 9,560",
+      "averagePrice": 7858,
+      "minimumPrice": 350,
+      "maximumPrice": 15000,
+      "averageStackPrice": 7858,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

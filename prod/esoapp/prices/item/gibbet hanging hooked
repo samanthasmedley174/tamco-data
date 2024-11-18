@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gibbet hanging hooked",
+    "displayName": "Gibbet, Hanging Hooked",
+    "values": {
+      "commonRange": "40,000 - 90,000",
+      "averagePrice": 58692,
+      "minimumPrice": 36993,
+      "maximumPrice": 110000,
+      "averageStackPrice": 58692,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

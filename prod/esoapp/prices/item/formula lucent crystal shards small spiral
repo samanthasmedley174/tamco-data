@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula lucent crystal shards small spiral",
+    "displayName": "Formula: Lucent Crystal Shards, Small Spiral",
+    "values": {
+      "commonRange": "2,399 - 3,000",
+      "averagePrice": 2754,
+      "minimumPrice": 1000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2754,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

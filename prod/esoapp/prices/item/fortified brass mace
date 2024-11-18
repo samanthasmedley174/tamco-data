@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fortified brass mace",
+    "displayName": "Fortified Brass Mace",
+    "values": {
+      "commonRange": "78,156 - 78,156",
+      "averagePrice": 78156,
+      "minimumPrice": 78156,
+      "maximumPrice": 78156,
+      "averageStackPrice": 78156,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

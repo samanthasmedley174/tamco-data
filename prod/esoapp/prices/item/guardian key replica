@@ -1,0 +1,18 @@
+[
+  {
+    "name": "guardian key replica",
+    "displayName": "Guardian Key, Replica",
+    "values": {
+      "commonRange": "22,000 - 25,000",
+      "averagePrice": 22448,
+      "minimumPrice": 9675,
+      "maximumPrice": 30000,
+      "averageStackPrice": 22448,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

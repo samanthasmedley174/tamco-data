@@ -1,0 +1,18 @@
+[
+  {
+    "name": "guar stomp elucidating hand scultpure",
+    "displayName": "Guar Stomp Elucidating Hand-Scultpure",
+    "values": {
+      "commonRange": "1,500 - 3,078",
+      "averagePrice": 2124,
+      "minimumPrice": 939,
+      "maximumPrice": 3804,
+      "averageStackPrice": 2124,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Fragments",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

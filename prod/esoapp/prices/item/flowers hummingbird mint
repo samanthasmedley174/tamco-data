@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flowers hummingbird mint",
+    "displayName": "Flowers, Hummingbird Mint",
+    "values": {
+      "commonRange": "9,500 - 13,245",
+      "averagePrice": 11130,
+      "minimumPrice": 3060,
+      "maximumPrice": 18000,
+      "averageStackPrice": 11130,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

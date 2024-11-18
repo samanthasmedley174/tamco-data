@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr shrine ancient small",
+    "displayName": "Elsweyr Shrine, Ancient Small",
+    "values": {
+      "commonRange": "16,082 - 20,150",
+      "averagePrice": 18513,
+      "minimumPrice": 10000,
+      "maximumPrice": 20150,
+      "averageStackPrice": 18513,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

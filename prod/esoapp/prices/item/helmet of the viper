@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helmet of the viper",
+    "displayName": "Helmet of the Viper",
+    "values": {
+      "commonRange": "19,000 - 19,000",
+      "averagePrice": 19000,
+      "minimumPrice": 19000,
+      "maximumPrice": 19000,
+      "averageStackPrice": 19000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

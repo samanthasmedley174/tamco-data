@@ -1,0 +1,18 @@
+[
+  {
+    "name": "enervating amulet",
+    "displayName": "Enervating Amulet",
+    "values": {
+      "commonRange": "900 - 2,150",
+      "averagePrice": 1671,
+      "minimumPrice": 750,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1671,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hat of syrabane",
+    "displayName": "Hat of Syrabane",
+    "values": {
+      "commonRange": "150 - 853",
+      "averagePrice": 543,
+      "minimumPrice": 99,
+      "maximumPrice": 2999,
+      "averageStackPrice": 543,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

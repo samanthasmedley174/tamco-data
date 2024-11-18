@@ -1,0 +1,18 @@
+[
+  {
+    "name": "floating apocrypha bookcase tall",
+    "displayName": "Floating Apocrypha Bookcase, Tall",
+    "values": {
+      "commonRange": "15,000 - 23,721",
+      "averagePrice": 20529,
+      "minimumPrice": 5929,
+      "maximumPrice": 30000,
+      "averageStackPrice": 20529,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "forest wraiths amulet",
+    "displayName": "Forest Wraith's Amulet",
+    "values": {
+      "commonRange": "149,156 - 149,156",
+      "averagePrice": 149156,
+      "minimumPrice": 149156,
+      "maximumPrice": 149156,
+      "averageStackPrice": 149156,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/31/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

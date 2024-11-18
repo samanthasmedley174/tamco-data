@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gravestone ornamented",
+    "displayName": "Gravestone, Ornamented",
+    "values": {
+      "commonRange": "2,000 - 5,000",
+      "averagePrice": 3184,
+      "minimumPrice": 1985,
+      "maximumPrice": 5985,
+      "averageStackPrice": 3184,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

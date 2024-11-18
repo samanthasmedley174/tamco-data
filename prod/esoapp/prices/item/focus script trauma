@@ -1,0 +1,18 @@
+[
+  {
+    "name": "focus script trauma",
+    "displayName": "Focus Script: Trauma",
+    "values": {
+      "commonRange": "10,000 - 22,311",
+      "averagePrice": 16724,
+      "minimumPrice": 9000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 16724,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Scripts",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Focus_Script:_Trauma.png"
+  }
+]

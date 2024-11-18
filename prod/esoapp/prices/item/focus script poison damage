@@ -1,0 +1,18 @@
+[
+  {
+    "name": "focus script poison damage",
+    "displayName": "Focus Script: Poison Damage",
+    "values": {
+      "commonRange": "13,000 - 20,000",
+      "averagePrice": 17300,
+      "minimumPrice": 10000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 17300,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Scripts",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Focus_Script:_Poison_Damage.png"
+  }
+]

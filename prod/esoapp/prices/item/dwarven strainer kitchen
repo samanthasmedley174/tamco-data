@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven strainer kitchen",
+    "displayName": "Dwarven Strainer, Kitchen",
+    "values": {
+      "commonRange": "3,500 - 8,850",
+      "averagePrice": 6359,
+      "minimumPrice": 1000,
+      "maximumPrice": 14000,
+      "averageStackPrice": 6359,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "enchanting station",
+    "displayName": "Enchanting Station",
+    "values": {
+      "commonRange": "24,000 - 29,999",
+      "averagePrice": 28080,
+      "minimumPrice": 20000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 28080,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Furnishings",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

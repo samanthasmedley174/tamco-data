@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fortified brass belt",
+    "displayName": "Fortified Brass Belt",
+    "values": {
+      "commonRange": "10,090 - 10,090",
+      "averagePrice": 10090,
+      "minimumPrice": 10090,
+      "maximumPrice": 10090,
+      "averageStackPrice": 10090,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

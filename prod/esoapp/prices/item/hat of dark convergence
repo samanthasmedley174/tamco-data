@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hat of dark convergence",
+    "displayName": "Hat of Dark Convergence",
+    "values": {
+      "commonRange": "2,000 - 10,153",
+      "averagePrice": 5394,
+      "minimumPrice": 153,
+      "maximumPrice": 64272,
+      "averageStackPrice": 5394,
+      "commonStackSize": 1,
+      "salesRecorded": 61
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

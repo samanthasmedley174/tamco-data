@@ -1,0 +1,18 @@
+[
+  {
+    "name": "heartland conquerors greaves",
+    "displayName": "Heartland Conqueror's Greaves",
+    "values": {
+      "commonRange": "50,000 - 80,000",
+      "averagePrice": 65000,
+      "minimumPrice": 50000,
+      "maximumPrice": 80000,
+      "averageStackPrice": 65000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

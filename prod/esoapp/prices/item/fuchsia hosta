@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fuchsia hosta",
+    "displayName": "Fuchsia Hosta",
+    "values": {
+      "commonRange": "4,000 - 5,500",
+      "averagePrice": 4608,
+      "minimumPrice": 3500,
+      "maximumPrice": 5500,
+      "averageStackPrice": 9216,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

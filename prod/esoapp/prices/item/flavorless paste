@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flavorless paste",
+    "displayName": "Flavorless Paste",
+    "values": {
+      "commonRange": "10 - 125",
+      "averagePrice": 211,
+      "minimumPrice": 3,
+      "maximumPrice": 900,
+      "averageStackPrice": 211,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Food & Drinks",
+    "date": "10/05/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/flavorless_paste.png"
+  }
+]

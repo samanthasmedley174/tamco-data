@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of oakfathers retribution",
+    "displayName": "Gloves of Oakfather's Retribution",
+    "values": {
+      "commonRange": "1,000 - 13,643",
+      "averagePrice": 8583,
+      "minimumPrice": 90,
+      "maximumPrice": 36990,
+      "averageStackPrice": 8583,
+      "commonStackSize": 1,
+      "salesRecorded": 60
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

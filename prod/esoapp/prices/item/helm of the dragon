@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helm of the dragon",
+    "displayName": "Helm of the Dragon",
+    "values": {
+      "commonRange": "190 - 2,153",
+      "averagePrice": 1060,
+      "minimumPrice": 144,
+      "maximumPrice": 3344,
+      "averageStackPrice": 1060,
+      "commonStackSize": 1,
+      "salesRecorded": 47
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

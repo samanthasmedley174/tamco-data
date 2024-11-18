@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elegant jerkin",
+    "displayName": "Elegant Jerkin",
+    "values": {
+      "commonRange": "174 - 2,180",
+      "averagePrice": 759,
+      "minimumPrice": 100,
+      "maximumPrice": 2180,
+      "averageStackPrice": 759,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

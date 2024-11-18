@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of the swift",
+    "displayName": "Gloves of the Swift",
+    "values": {
+      "commonRange": "1,000 - 13,087",
+      "averagePrice": 4908,
+      "minimumPrice": 790,
+      "maximumPrice": 20090,
+      "averageStackPrice": 4908,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

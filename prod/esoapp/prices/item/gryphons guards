@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gryphons guards",
+    "displayName": "Gryphon's Guards",
+    "values": {
+      "commonRange": "226 - 6,000",
+      "averagePrice": 2027,
+      "minimumPrice": 90,
+      "maximumPrice": 12460,
+      "averageStackPrice": 2027,
+      "commonStackSize": 1,
+      "salesRecorded": 166
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

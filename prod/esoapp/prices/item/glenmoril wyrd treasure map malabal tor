@@ -1,0 +1,18 @@
+[
+  {
+    "name": "glenmoril wyrd treasure map malabal tor",
+    "displayName": "Glenmoril Wyrd Treasure Map: Malabal Tor",
+    "values": {
+      "commonRange": "100 - 500",
+      "averagePrice": 260,
+      "minimumPrice": 99,
+      "maximumPrice": 500,
+      "averageStackPrice": 260,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

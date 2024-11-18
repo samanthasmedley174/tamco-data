@@ -1,0 +1,18 @@
+[
+  {
+    "name": "green bananas with garlic",
+    "displayName": "Green Bananas with Garlic",
+    "values": {
+      "commonRange": "9 - 9",
+      "averagePrice": 9,
+      "minimumPrice": 9,
+      "maximumPrice": 9,
+      "averageStackPrice": 135,
+      "commonStackSize": 15,
+      "salesRecorded": 1
+    },
+    "type": "Food & Drinks",
+    "date": "07/25/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/green_bananas_with_garlic.png"
+  }
+]

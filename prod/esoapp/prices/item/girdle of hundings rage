@@ -1,0 +1,18 @@
+[
+  {
+    "name": "girdle of hundings rage",
+    "displayName": "Girdle of Hunding's Rage",
+    "values": {
+      "commonRange": "5,000 - 78,093",
+      "averagePrice": 42014,
+      "minimumPrice": 899,
+      "maximumPrice": 80000,
+      "averageStackPrice": 42014,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

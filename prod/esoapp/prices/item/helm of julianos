@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helm of julianos",
+    "displayName": "Helm of Julianos",
+    "values": {
+      "commonRange": "899 - 899",
+      "averagePrice": 899,
+      "minimumPrice": 899,
+      "maximumPrice": 899,
+      "averageStackPrice": 899,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of the kynmarchers cruelty",
+    "displayName": "Greatsword of the Kynmarcher's Cruelty",
+    "values": {
+      "commonRange": "740 - 3,500",
+      "averagePrice": 2488,
+      "minimumPrice": 740,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2488,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

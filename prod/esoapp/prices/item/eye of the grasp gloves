@@ -1,0 +1,18 @@
+[
+  {
+    "name": "eye of the grasp gloves",
+    "displayName": "Eye of the Grasp Gloves",
+    "values": {
+      "commonRange": "90 - 1,190",
+      "averagePrice": 571,
+      "minimumPrice": 87,
+      "maximumPrice": 2000,
+      "averageStackPrice": 571,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

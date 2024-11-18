@@ -1,0 +1,18 @@
+[
+  {
+    "name": "galerions sword",
+    "displayName": "Galerion's Sword",
+    "values": {
+      "commonRange": "40,000 - 46,344",
+      "averagePrice": 43524,
+      "minimumPrice": 40000,
+      "maximumPrice": 46344,
+      "averageStackPrice": 43524,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

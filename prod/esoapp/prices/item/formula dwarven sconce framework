@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula dwarven sconce framework",
+    "displayName": "Formula: Dwarven Sconce, Framework",
+    "values": {
+      "commonRange": "60,038 - 80,000",
+      "averagePrice": 83741,
+      "minimumPrice": 40000,
+      "maximumPrice": 200030,
+      "averageStackPrice": 83741,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

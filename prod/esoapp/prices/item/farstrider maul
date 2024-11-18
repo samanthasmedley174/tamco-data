@@ -1,0 +1,18 @@
+[
+  {
+    "name": "farstrider maul",
+    "displayName": "Farstrider Maul",
+    "values": {
+      "commonRange": "546 - 5,446",
+      "averagePrice": 2978,
+      "minimumPrice": 246,
+      "maximumPrice": 16246,
+      "averageStackPrice": 2978,
+      "commonStackSize": 1,
+      "salesRecorded": 57
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

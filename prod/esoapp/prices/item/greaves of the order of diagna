@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greaves of the order of diagna",
+    "displayName": "Greaves of the Order of Diagna",
+    "values": {
+      "commonRange": "174 - 650",
+      "averagePrice": 477,
+      "minimumPrice": 174,
+      "maximumPrice": 1369,
+      "averageStackPrice": 477,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "full belly lightning staff",
+    "displayName": "Full Belly Lightning Staff",
+    "values": {
+      "commonRange": "246 - 3,246",
+      "averagePrice": 1649,
+      "minimumPrice": 200,
+      "maximumPrice": 5190,
+      "averageStackPrice": 1649,
+      "commonStackSize": 1,
+      "salesRecorded": 55
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

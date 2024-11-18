@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula worm cult specimen jar spider",
+    "displayName": "Formula: Worm Cult Specimen Jar, Spider",
+    "values": {
+      "commonRange": "50,000 - 108,069",
+      "averagePrice": 73006,
+      "minimumPrice": 50000,
+      "maximumPrice": 132069,
+      "averageStackPrice": 73006,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

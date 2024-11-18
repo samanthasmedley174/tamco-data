@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fabric wall",
+    "displayName": "Fabric Wall",
+    "values": {
+      "commonRange": "7,000 - 14,934",
+      "averagePrice": 9287,
+      "minimumPrice": 7000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9287,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

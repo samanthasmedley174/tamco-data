@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula telvanni candle fungal standing",
+    "displayName": "Formula: Telvanni Candle, Fungal Standing",
+    "values": {
+      "commonRange": "3,500 - 10,960",
+      "averagePrice": 8370,
+      "minimumPrice": 3030,
+      "maximumPrice": 22000,
+      "averageStackPrice": 8370,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

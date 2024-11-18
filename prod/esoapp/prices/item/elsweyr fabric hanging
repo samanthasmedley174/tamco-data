@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr fabric hanging",
+    "displayName": "Elsweyr Fabric, Hanging",
+    "values": {
+      "commonRange": "4,250 - 8,075",
+      "averagePrice": 6034,
+      "minimumPrice": 2500,
+      "maximumPrice": 9075,
+      "averageStackPrice": 6034,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

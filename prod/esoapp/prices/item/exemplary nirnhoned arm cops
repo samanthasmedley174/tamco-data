@@ -1,0 +1,18 @@
+[
+  {
+    "name": "exemplary nirnhoned arm cops",
+    "displayName": "Exemplary Nirnhoned Arm Cops",
+    "values": {
+      "commonRange": "149,999 - 152,547",
+      "averagePrice": 151273,
+      "minimumPrice": 149999,
+      "maximumPrice": 152547,
+      "averageStackPrice": 151273,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

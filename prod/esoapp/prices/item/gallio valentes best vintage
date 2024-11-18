@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gallio valentes best vintage",
+    "displayName": "Gallio Valente's Best Vintage",
+    "values": {
+      "commonRange": "13 - 500",
+      "averagePrice": 226,
+      "minimumPrice": 8,
+      "maximumPrice": 1003,
+      "averageStackPrice": 452,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/gallio_valente's_best_vintage.png"
+  }
+]

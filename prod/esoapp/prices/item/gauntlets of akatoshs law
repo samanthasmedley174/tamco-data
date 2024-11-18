@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gauntlets of akatoshs law",
+    "displayName": "Gauntlets of Akatosh's Law",
+    "values": {
+      "commonRange": "299 - 7,090",
+      "averagePrice": 3032,
+      "minimumPrice": 190,
+      "maximumPrice": 8090,
+      "averageStackPrice": 3032,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

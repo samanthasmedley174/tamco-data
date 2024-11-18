@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hat of the voidcaller",
+    "displayName": "Hat of the Voidcaller",
+    "values": {
+      "commonRange": "350 - 2,995",
+      "averagePrice": 1322,
+      "minimumPrice": 350,
+      "maximumPrice": 3150,
+      "averageStackPrice": 1322,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

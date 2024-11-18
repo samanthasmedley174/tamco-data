@@ -1,0 +1,18 @@
+[
+  {
+    "name": "farstrider restoration staff",
+    "displayName": "Farstrider Restoration Staff",
+    "values": {
+      "commonRange": "446 - 5,000",
+      "averagePrice": 2622,
+      "minimumPrice": 246,
+      "maximumPrice": 7000,
+      "averageStackPrice": 2622,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

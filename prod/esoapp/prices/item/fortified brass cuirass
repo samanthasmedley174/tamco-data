@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fortified brass cuirass",
+    "displayName": "Fortified Brass Cuirass",
+    "values": {
+      "commonRange": "18,000 - 80,000",
+      "averagePrice": 58761,
+      "minimumPrice": 10000,
+      "maximumPrice": 87189,
+      "averageStackPrice": 58761,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

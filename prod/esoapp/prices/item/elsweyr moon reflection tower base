@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr moon reflection tower base",
+    "displayName": "Elsweyr Moon Reflection Tower, Base",
+    "values": {
+      "commonRange": "55,000 - 199,872",
+      "averagePrice": 97339,
+      "minimumPrice": 42193,
+      "maximumPrice": 253903,
+      "averageStackPrice": 97339,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

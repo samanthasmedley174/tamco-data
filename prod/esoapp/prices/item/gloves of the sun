@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of the sun",
+    "displayName": "Gloves of the Sun",
+    "values": {
+      "commonRange": "190 - 1,999",
+      "averagePrice": 960,
+      "minimumPrice": 90,
+      "maximumPrice": 3800,
+      "averageStackPrice": 960,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

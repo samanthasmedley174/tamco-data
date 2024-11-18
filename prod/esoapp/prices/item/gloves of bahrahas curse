@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of bahrahas curse",
+    "displayName": "Gloves of Bahraha's Curse",
+    "values": {
+      "commonRange": "1,000 - 3,390",
+      "averagePrice": 1906,
+      "minimumPrice": 500,
+      "maximumPrice": 3390,
+      "averageStackPrice": 1906,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

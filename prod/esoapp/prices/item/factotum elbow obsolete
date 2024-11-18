@@ -1,0 +1,18 @@
+[
+  {
+    "name": "factotum elbow obsolete",
+    "displayName": "Factotum Elbow, Obsolete",
+    "values": {
+      "commonRange": "1,150 - 4,010",
+      "averagePrice": 2685,
+      "minimumPrice": 650,
+      "maximumPrice": 4010,
+      "averageStackPrice": 2685,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

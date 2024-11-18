@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gargoyle guardians painting wood",
+    "displayName": "Gargoyle Guardians Painting, Wood",
+    "values": {
+      "commonRange": "65,000 - 110,000",
+      "averagePrice": 90840,
+      "minimumPrice": 65000,
+      "maximumPrice": 150000,
+      "averageStackPrice": 90840,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

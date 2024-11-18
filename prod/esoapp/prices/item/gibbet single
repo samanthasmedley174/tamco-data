@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gibbet single",
+    "displayName": "Gibbet, Single",
+    "values": {
+      "commonRange": "1,000 - 2,500",
+      "averagePrice": 1976,
+      "minimumPrice": 699,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1976,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

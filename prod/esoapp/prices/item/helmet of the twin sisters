@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helmet of the twin sisters",
+    "displayName": "Helmet of the Twin Sisters",
+    "values": {
+      "commonRange": "144 - 6,062",
+      "averagePrice": 2618,
+      "minimumPrice": 66,
+      "maximumPrice": 45000,
+      "averageStackPrice": 2618,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of marauders haste",
+    "displayName": "Gloves of Marauder's Haste",
+    "values": {
+      "commonRange": "300 - 2,275",
+      "averagePrice": 927,
+      "minimumPrice": 90,
+      "maximumPrice": 3090,
+      "averageStackPrice": 927,
+      "commonStackSize": 1,
+      "salesRecorded": 46
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

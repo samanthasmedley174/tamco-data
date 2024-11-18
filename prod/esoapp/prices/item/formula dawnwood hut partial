@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula dawnwood hut partial",
+    "displayName": "Formula: Dawnwood Hut, Partial",
+    "values": {
+      "commonRange": "70,000 - 82,598",
+      "averagePrice": 74921,
+      "minimumPrice": 49045,
+      "maximumPrice": 108700,
+      "averageStackPrice": 74921,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

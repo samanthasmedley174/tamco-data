@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave flag regular",
+    "displayName": "Fargrave Flag, Regular",
+    "values": {
+      "commonRange": "95 - 2,000",
+      "averagePrice": 779,
+      "minimumPrice": 95,
+      "maximumPrice": 2500,
+      "averageStackPrice": 779,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "enervating sword",
+    "displayName": "Enervating Sword",
+    "values": {
+      "commonRange": "2,153 - 2,332",
+      "averagePrice": 2332,
+      "minimumPrice": 844,
+      "maximumPrice": 3999,
+      "averageStackPrice": 2332,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

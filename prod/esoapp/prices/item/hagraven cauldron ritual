@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hagraven cauldron ritual",
+    "displayName": "Hagraven Cauldron, Ritual",
+    "values": {
+      "commonRange": "1,150 - 3,338",
+      "averagePrice": 2054,
+      "minimumPrice": 50,
+      "maximumPrice": 4400,
+      "averageStackPrice": 2054,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

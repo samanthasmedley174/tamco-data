@@ -1,0 +1,18 @@
+[
+  {
+    "name": "garnet",
+    "displayName": "Garnet",
+    "values": {
+      "commonRange": "5 - 20",
+      "averagePrice": 10,
+      "minimumPrice": 3,
+      "maximumPrice": 66,
+      "averageStackPrice": 20,
+      "commonStackSize": 2,
+      "salesRecorded": 30
+    },
+    "type": "Trait Stones",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Garnet.png"
+  }
+]

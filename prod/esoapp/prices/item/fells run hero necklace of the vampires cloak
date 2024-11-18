@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fells run hero necklace of the vampires cloak",
+    "displayName": "Fell's Run Hero Necklace of the Vampire's Cloak",
+    "values": {
+      "commonRange": "500 - 500",
+      "averagePrice": 997,
+      "minimumPrice": 350,
+      "maximumPrice": 2141,
+      "averageStackPrice": 997,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven potted plant polished vase",
+    "displayName": "Dwarven Potted Plant, Polished Vase",
+    "values": {
+      "commonRange": "4,599 - 9,150",
+      "averagePrice": 6430,
+      "minimumPrice": 4500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6430,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fatesteppers leggings",
+    "displayName": "Fatestepper's Leggings",
+    "values": {
+      "commonRange": "400 - 3,000",
+      "averagePrice": 1452,
+      "minimumPrice": 180,
+      "maximumPrice": 3180,
+      "averageStackPrice": 1452,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

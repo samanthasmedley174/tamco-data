@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula alchemical apparatus master",
+    "displayName": "Formula: Alchemical Apparatus, Master",
+    "values": {
+      "commonRange": "54,045 - 71,000",
+      "averagePrice": 63109,
+      "minimumPrice": 50000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 63109,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

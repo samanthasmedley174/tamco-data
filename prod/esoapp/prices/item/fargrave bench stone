@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave bench stone",
+    "displayName": "Fargrave Bench, Stone",
+    "values": {
+      "commonRange": "5,000 - 12,950",
+      "averagePrice": 9589,
+      "minimumPrice": 1125,
+      "maximumPrice": 12950,
+      "averageStackPrice": 9589,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/17/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "enemies explode",
+    "displayName": "Enemies Explode",
+    "values": {
+      "commonRange": "20 - 63",
+      "averagePrice": 42,
+      "minimumPrice": 20,
+      "maximumPrice": 63,
+      "averageStackPrice": 42,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Food & Drinks",
+    "date": "08/23/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/enemies_explode.png"
+  }
+]

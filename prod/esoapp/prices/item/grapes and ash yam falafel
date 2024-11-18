@@ -1,0 +1,18 @@
+[
+  {
+    "name": "grapes and ash yam falafel",
+    "displayName": "Grapes and Ash Yam Falafel",
+    "values": {
+      "commonRange": "15 - 88",
+      "averagePrice": 33,
+      "minimumPrice": 5,
+      "maximumPrice": 95,
+      "averageStackPrice": 3300,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "07/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/grapes_and_ash_yam_falafel.png"
+  }
+]

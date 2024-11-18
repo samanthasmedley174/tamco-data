@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven theodolite eye",
+    "displayName": "Dwarven Theodolite Eye",
+    "values": {
+      "commonRange": "1,100 - 4,184",
+      "averagePrice": 2670,
+      "minimumPrice": 999,
+      "maximumPrice": 6584,
+      "averageStackPrice": 2670,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Fragments",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

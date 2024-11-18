@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fiend smasher",
+    "displayName": "Fiend-Smasher",
+    "values": {
+      "commonRange": "680 - 1,304",
+      "averagePrice": 992,
+      "minimumPrice": 680,
+      "maximumPrice": 1304,
+      "averageStackPrice": 992,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

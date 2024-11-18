@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula indoril streetlight brick",
+    "displayName": "Formula: Indoril Streetlight, Brick",
+    "values": {
+      "commonRange": "3,000 - 6,981",
+      "averagePrice": 4903,
+      "minimumPrice": 3000,
+      "maximumPrice": 6999,
+      "averageStackPrice": 4903,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

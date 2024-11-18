@@ -1,0 +1,18 @@
+[
+  {
+    "name": "firelogs charred",
+    "displayName": "Firelogs, Charred",
+    "values": {
+      "commonRange": "50,000 - 75,000",
+      "averagePrice": 57037,
+      "minimumPrice": 300,
+      "maximumPrice": 85000,
+      "averageStackPrice": 57037,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

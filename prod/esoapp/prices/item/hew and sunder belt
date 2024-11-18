@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hew and sunder belt",
+    "displayName": "Hew and Sunder Belt",
+    "values": {
+      "commonRange": "2,000 - 5,004",
+      "averagePrice": 3302,
+      "minimumPrice": 1500,
+      "maximumPrice": 5504,
+      "averageStackPrice": 3302,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

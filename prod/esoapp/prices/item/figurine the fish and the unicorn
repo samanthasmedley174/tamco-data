@@ -1,0 +1,18 @@
+[
+  {
+    "name": "figurine the fish and the unicorn",
+    "displayName": "Figurine, The Fish and the Unicorn",
+    "values": {
+      "commonRange": "6,900 - 29,900",
+      "averagePrice": 17390,
+      "minimumPrice": 5500,
+      "maximumPrice": 30000,
+      "averageStackPrice": 17390,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "galerions bow",
+    "displayName": "Galerion's Bow",
+    "values": {
+      "commonRange": "9,342 - 20,000",
+      "averagePrice": 12133,
+      "minimumPrice": 2050,
+      "maximumPrice": 20420,
+      "averageStackPrice": 12133,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

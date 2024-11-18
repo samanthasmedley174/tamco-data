@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fern woody slough",
+    "displayName": "Fern, Woody Slough",
+    "values": {
+      "commonRange": "1,200 - 4,500",
+      "averagePrice": 2935,
+      "minimumPrice": 450,
+      "maximumPrice": 5000,
+      "averageStackPrice": 5870,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

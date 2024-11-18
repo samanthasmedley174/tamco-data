@@ -1,0 +1,18 @@
+[
+  {
+    "name": "grass wispy plume cluster",
+    "displayName": "Grass, Wispy Plume Cluster",
+    "values": {
+      "commonRange": "1,977 - 2,500",
+      "averagePrice": 2157,
+      "minimumPrice": 1500,
+      "maximumPrice": 2500,
+      "averageStackPrice": 2157,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

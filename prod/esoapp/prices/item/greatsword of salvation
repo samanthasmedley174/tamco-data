@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of salvation",
+    "displayName": "Greatsword of Salvation",
+    "values": {
+      "commonRange": "1,091 - 3,335",
+      "averagePrice": 2517,
+      "minimumPrice": 640,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2517,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

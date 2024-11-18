@@ -1,0 +1,18 @@
+[
+  {
+    "name": "guards of syvarras scales",
+    "displayName": "Guards of Syvarra's Scales",
+    "values": {
+      "commonRange": "1,180 - 30,000",
+      "averagePrice": 11648,
+      "minimumPrice": 400,
+      "maximumPrice": 30000,
+      "averageStackPrice": 11648,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

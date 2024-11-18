@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of the orders wrath",
+    "displayName": "Gloves of the Order's Wrath",
+    "values": {
+      "commonRange": "5,090 - 19,025",
+      "averagePrice": 17886,
+      "minimumPrice": 5090,
+      "maximumPrice": 71000,
+      "averageStackPrice": 17886,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

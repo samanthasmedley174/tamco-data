@@ -1,0 +1,18 @@
+[
+  {
+    "name": "girdle of the trainee",
+    "displayName": "Girdle of the Trainee",
+    "values": {
+      "commonRange": "179 - 5,820",
+      "averagePrice": 4867,
+      "minimumPrice": 60,
+      "maximumPrice": 80000,
+      "averageStackPrice": 4867,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

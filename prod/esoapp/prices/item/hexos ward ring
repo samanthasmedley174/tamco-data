@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hexos ward ring",
+    "displayName": "Hexos' Ward Ring",
+    "values": {
+      "commonRange": "1,575 - 10,000",
+      "averagePrice": 6849,
+      "minimumPrice": 844,
+      "maximumPrice": 50000,
+      "averageStackPrice": 6849,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

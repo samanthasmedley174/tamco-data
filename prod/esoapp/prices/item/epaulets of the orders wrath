@@ -1,0 +1,18 @@
+[
+  {
+    "name": "epaulets of the orders wrath",
+    "displayName": "Epaulets of the Order's Wrath",
+    "values": {
+      "commonRange": "8,400 - 18,500",
+      "averagePrice": 15646,
+      "minimumPrice": 2150,
+      "maximumPrice": 18500,
+      "averageStackPrice": 15646,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

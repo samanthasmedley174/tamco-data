@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fern plant healthy green",
+    "displayName": "Fern Plant, Healthy Green",
+    "values": {
+      "commonRange": "556 - 1,000",
+      "averagePrice": 760,
+      "minimumPrice": 40,
+      "maximumPrice": 1250,
+      "averageStackPrice": 760,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

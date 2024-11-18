@@ -1,0 +1,18 @@
+[
+  {
+    "name": "girdle of mechanical acuity",
+    "displayName": "Girdle of Mechanical Acuity",
+    "values": {
+      "commonRange": "79,093 - 79,093",
+      "averagePrice": 79093,
+      "minimumPrice": 79093,
+      "maximumPrice": 79093,
+      "averageStackPrice": 79093,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "grape glazed bantam guar",
+    "displayName": "Grape-Glazed Bantam Guar",
+    "values": {
+      "commonRange": "6 - 118",
+      "averagePrice": 50,
+      "minimumPrice": 6,
+      "maximumPrice": 118,
+      "averageStackPrice": 1000,
+      "commonStackSize": 20,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "01/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/grape-glazed_bantam_guar.png"
+  }
+]

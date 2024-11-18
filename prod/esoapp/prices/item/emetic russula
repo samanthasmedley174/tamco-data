@@ -1,0 +1,18 @@
+[
+  {
+    "name": "emetic russula",
+    "displayName": "Emetic Russula",
+    "values": {
+      "commonRange": "36 - 100",
+      "averagePrice": 62,
+      "minimumPrice": 15,
+      "maximumPrice": 200,
+      "averageStackPrice": 12400,
+      "commonStackSize": 200,
+      "salesRecorded": 22
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

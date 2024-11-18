@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloom graced helm",
+    "displayName": "Gloom-Graced Helm",
+    "values": {
+      "commonRange": "144 - 3,150",
+      "averagePrice": 1170,
+      "minimumPrice": 50,
+      "maximumPrice": 8221,
+      "averageStackPrice": 1170,
+      "commonStackSize": 1,
+      "salesRecorded": 139
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

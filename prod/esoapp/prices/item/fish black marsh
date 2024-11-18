@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fish black marsh",
+    "displayName": "Fish, Black Marsh",
+    "values": {
+      "commonRange": "1,000 - 189,111",
+      "averagePrice": 71520,
+      "minimumPrice": 300,
+      "maximumPrice": 189111,
+      "averageStackPrice": 71520,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

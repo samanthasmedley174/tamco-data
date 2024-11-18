@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of dark convergence",
+    "displayName": "Greatsword of Dark Convergence",
+    "values": {
+      "commonRange": "2,000 - 6,454",
+      "averagePrice": 4643,
+      "minimumPrice": 1000,
+      "maximumPrice": 44452,
+      "averageStackPrice": 4643,
+      "commonStackSize": 1,
+      "salesRecorded": 57
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

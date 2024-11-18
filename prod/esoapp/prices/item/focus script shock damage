@@ -1,0 +1,18 @@
+[
+  {
+    "name": "focus script shock damage",
+    "displayName": "Focus Script: Shock Damage",
+    "values": {
+      "commonRange": "810,000 - 1,800,000",
+      "averagePrice": 1159147,
+      "minimumPrice": 600000,
+      "maximumPrice": 2000000,
+      "averageStackPrice": 1159147,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Scripts",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Focus_Script:_Shock_Damage.png"
+  }
+]

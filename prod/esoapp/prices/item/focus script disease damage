@@ -1,0 +1,18 @@
+[
+  {
+    "name": "focus script disease damage",
+    "displayName": "Focus Script: Disease Damage",
+    "values": {
+      "commonRange": "14,000 - 180,000",
+      "averagePrice": 52078,
+      "minimumPrice": 12997,
+      "maximumPrice": 200000,
+      "averageStackPrice": 52078,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Scripts",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Focus_Script:_Disease_Damage.png"
+  }
+]

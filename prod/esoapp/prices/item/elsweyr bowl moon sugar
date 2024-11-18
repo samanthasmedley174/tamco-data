@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr bowl moon sugar",
+    "displayName": "Elsweyr Bowl, Moon-Sugar",
+    "values": {
+      "commonRange": "10,015 - 50,000",
+      "averagePrice": 35023,
+      "minimumPrice": 2000,
+      "maximumPrice": 100100,
+      "averageStackPrice": 35023,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Furnishings",
+    "date": "02/15/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

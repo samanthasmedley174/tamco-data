@@ -1,0 +1,18 @@
+[
+  {
+    "name": "eye of the grasp shield",
+    "displayName": "Eye of the Grasp Shield",
+    "values": {
+      "commonRange": "1,000 - 4,920",
+      "averagePrice": 3323,
+      "minimumPrice": 750,
+      "maximumPrice": 11611,
+      "averageStackPrice": 3323,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

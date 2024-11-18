@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of cyrodiils ward",
+    "displayName": "Greatsword of Cyrodiil's Ward",
+    "values": {
+      "commonRange": "850 - 4,235",
+      "averagePrice": 2294,
+      "minimumPrice": 840,
+      "maximumPrice": 4246,
+      "averageStackPrice": 2294,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fanik goc sprouted",
+    "displayName": "Fanik Goc, Sprouted",
+    "values": {
+      "commonRange": "4,090 - 8,330",
+      "averagePrice": 6811,
+      "minimumPrice": 3000,
+      "maximumPrice": 8330,
+      "averageStackPrice": 6811,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

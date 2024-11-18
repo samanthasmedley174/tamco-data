@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr lantern twist",
+    "displayName": "Elsweyr Lantern, Twist",
+    "values": {
+      "commonRange": "2,000 - 3,031",
+      "averagePrice": 2640,
+      "minimumPrice": 2000,
+      "maximumPrice": 3333,
+      "averageStackPrice": 5280,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

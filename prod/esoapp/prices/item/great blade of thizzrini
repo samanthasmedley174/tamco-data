@@ -1,0 +1,18 @@
+[
+  {
+    "name": "great blade of thizzrini",
+    "displayName": "Great Blade of Thizzrini",
+    "values": {
+      "commonRange": "1,225 - 2,220",
+      "averagePrice": 1723,
+      "minimumPrice": 1225,
+      "maximumPrice": 2220,
+      "averageStackPrice": 1723,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

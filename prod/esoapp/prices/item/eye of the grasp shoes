@@ -1,0 +1,18 @@
+[
+  {
+    "name": "eye of the grasp shoes",
+    "displayName": "Eye of the Grasp Shoes",
+    "values": {
+      "commonRange": "90 - 2,590",
+      "averagePrice": 785,
+      "minimumPrice": 70,
+      "maximumPrice": 3500,
+      "averageStackPrice": 785,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

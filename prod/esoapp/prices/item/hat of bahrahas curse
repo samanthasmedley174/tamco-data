@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hat of bahrahas curse",
+    "displayName": "Hat of Bahraha's Curse",
+    "values": {
+      "commonRange": "210 - 4,453",
+      "averagePrice": 1753,
+      "minimumPrice": 150,
+      "maximumPrice": 7999,
+      "averageStackPrice": 1753,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

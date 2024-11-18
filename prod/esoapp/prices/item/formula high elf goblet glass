@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula high elf goblet glass",
+    "displayName": "Formula: High Elf Goblet, Glass",
+    "values": {
+      "commonRange": "9,173 - 11,083",
+      "averagePrice": 10434,
+      "minimumPrice": 9000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 10434,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

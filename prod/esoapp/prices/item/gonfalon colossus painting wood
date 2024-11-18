@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gonfalon colossus painting wood",
+    "displayName": "Gonfalon Colossus Painting, Wood",
+    "values": {
+      "commonRange": "18,000 - 30,000",
+      "averagePrice": 22950,
+      "minimumPrice": 15000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 22950,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

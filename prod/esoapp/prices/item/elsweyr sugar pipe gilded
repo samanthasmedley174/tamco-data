@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr sugar pipe gilded",
+    "displayName": "Elsweyr Sugar Pipe, Gilded",
+    "values": {
+      "commonRange": "20,000 - 33,300",
+      "averagePrice": 26345,
+      "minimumPrice": 9000,
+      "maximumPrice": 41091,
+      "averageStackPrice": 26345,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

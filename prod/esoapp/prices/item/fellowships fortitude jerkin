@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fellowships fortitude jerkin",
+    "displayName": "Fellowship's Fortitude Jerkin",
+    "values": {
+      "commonRange": "3,189 - 3,189",
+      "averagePrice": 3189,
+      "minimumPrice": 3189,
+      "maximumPrice": 3189,
+      "averageStackPrice": 3189,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

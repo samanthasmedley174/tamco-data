@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf bar overhanging",
+    "displayName": "High Elf Bar, Overhanging",
+    "values": {
+      "commonRange": "1,650 - 4,083",
+      "averagePrice": 3337,
+      "minimumPrice": 850,
+      "maximumPrice": 6370,
+      "averageStackPrice": 3337,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

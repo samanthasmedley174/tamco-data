@@ -1,0 +1,18 @@
+[
+  {
+    "name": "girdle of the order of diagna",
+    "displayName": "Girdle of the Order of Diagna",
+    "values": {
+      "commonRange": "160 - 2,995",
+      "averagePrice": 1051,
+      "minimumPrice": 90,
+      "maximumPrice": 4450,
+      "averageStackPrice": 1051,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

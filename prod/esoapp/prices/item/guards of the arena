@@ -1,0 +1,18 @@
+[
+  {
+    "name": "guards of the arena",
+    "displayName": "Guards of the Arena",
+    "values": {
+      "commonRange": "4,000 - 4,000",
+      "averagePrice": 4000,
+      "minimumPrice": 4000,
+      "maximumPrice": 4000,
+      "averageStackPrice": 4000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

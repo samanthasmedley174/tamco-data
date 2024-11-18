@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flower stout hibiscus",
+    "displayName": "Flower, Stout Hibiscus",
+    "values": {
+      "commonRange": "450 - 1,560",
+      "averagePrice": 950,
+      "minimumPrice": 35,
+      "maximumPrice": 1560,
+      "averageStackPrice": 950,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/16/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

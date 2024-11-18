@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula artists palette pigment",
+    "displayName": "Formula: Artist's Palette, Pigment",
+    "values": {
+      "commonRange": "40,000 - 55,000",
+      "averagePrice": 50872,
+      "minimumPrice": 40000,
+      "maximumPrice": 65000,
+      "averageStackPrice": 50872,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

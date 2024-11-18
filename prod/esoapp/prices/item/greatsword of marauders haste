@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of marauders haste",
+    "displayName": "Greatsword of Marauder's Haste",
+    "values": {
+      "commonRange": "400 - 1,498",
+      "averagePrice": 986,
+      "minimumPrice": 220,
+      "maximumPrice": 2245,
+      "averageStackPrice": 986,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

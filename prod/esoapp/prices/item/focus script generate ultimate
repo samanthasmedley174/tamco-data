@@ -1,0 +1,18 @@
+[
+  {
+    "name": "focus script generate ultimate",
+    "displayName": "Focus Script: Generate Ultimate",
+    "values": {
+      "commonRange": "15,000 - 55,000",
+      "averagePrice": 32605,
+      "minimumPrice": 14000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 32605,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Scripts",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Focus_Script:_Generate_Ultimate.png"
+  }
+]

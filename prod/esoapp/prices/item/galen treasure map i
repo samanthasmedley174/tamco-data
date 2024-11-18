@@ -1,0 +1,18 @@
+[
+  {
+    "name": "galen treasure map i",
+    "displayName": "Galen Treasure Map I",
+    "values": {
+      "commonRange": "100 - 9,900",
+      "averagePrice": 1671,
+      "minimumPrice": 52,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1671,
+      "commonStackSize": 1,
+      "salesRecorded": 58
+    },
+    "type": "Treasure Maps",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

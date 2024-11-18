@@ -1,0 +1,18 @@
+[
+  {
+    "name": "enervating helm",
+    "displayName": "Enervating Helm",
+    "values": {
+      "commonRange": "850 - 3,000",
+      "averagePrice": 2077,
+      "minimumPrice": 699,
+      "maximumPrice": 4050,
+      "averageStackPrice": 2077,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

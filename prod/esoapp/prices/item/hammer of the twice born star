@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hammer of the twice born star",
+    "displayName": "Hammer of the Twice-Born Star",
+    "values": {
+      "commonRange": "120,000 - 120,000",
+      "averagePrice": 120000,
+      "minimumPrice": 120000,
+      "maximumPrice": 120000,
+      "averageStackPrice": 120000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

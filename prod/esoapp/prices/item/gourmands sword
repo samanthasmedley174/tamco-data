@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gourmands sword",
+    "displayName": "Gourmand's Sword",
+    "values": {
+      "commonRange": "5,000 - 15,000",
+      "averagePrice": 12402,
+      "minimumPrice": 5000,
+      "maximumPrice": 75000,
+      "averageStackPrice": 12402,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

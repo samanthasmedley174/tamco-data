@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fireplace tools wrought iron",
+    "displayName": "Fireplace Tools, Wrought Iron",
+    "values": {
+      "commonRange": "3,500 - 20,000",
+      "averagePrice": 12407,
+      "minimumPrice": 3000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 12407,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

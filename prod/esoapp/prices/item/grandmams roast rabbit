@@ -1,0 +1,18 @@
+[
+  {
+    "name": "grandmams roast rabbit",
+    "displayName": "Grandmam's Roast Rabbit",
+    "values": {
+      "commonRange": "140 - 140",
+      "averagePrice": 200,
+      "minimumPrice": 15,
+      "maximumPrice": 444,
+      "averageStackPrice": 200,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Food & Drinks",
+    "date": "12/26/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/grandmam's_roast_rabbit.png"
+  }
+]

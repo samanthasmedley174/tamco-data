@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr carpet chaotic symmetry",
+    "displayName": "Elsweyr Carpet, Chaotic Symmetry",
+    "values": {
+      "commonRange": "3,161 - 7,700",
+      "averagePrice": 5682,
+      "minimumPrice": 2000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5682,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

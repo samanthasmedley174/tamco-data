@@ -1,0 +1,18 @@
+[
+  {
+    "name": "floating apocrypha bookcase nautilus",
+    "displayName": "Floating Apocrypha Bookcase, Nautilus",
+    "values": {
+      "commonRange": "19,750 - 35,000",
+      "averagePrice": 25963,
+      "minimumPrice": 15500,
+      "maximumPrice": 40000,
+      "averageStackPrice": 25963,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

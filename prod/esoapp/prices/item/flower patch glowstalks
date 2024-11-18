@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flower patch glowstalks",
+    "displayName": "Flower Patch, Glowstalks",
+    "values": {
+      "commonRange": "3,624 - 4,079",
+      "averagePrice": 3828,
+      "minimumPrice": 300,
+      "maximumPrice": 7300,
+      "averageStackPrice": 3828,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

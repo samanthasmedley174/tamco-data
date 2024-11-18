@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flowers daylily cluster",
+    "displayName": "Flowers, Daylily Cluster",
+    "values": {
+      "commonRange": "3,636 - 5,150",
+      "averagePrice": 4179,
+      "minimumPrice": 3000,
+      "maximumPrice": 6000,
+      "averageStackPrice": 8358,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

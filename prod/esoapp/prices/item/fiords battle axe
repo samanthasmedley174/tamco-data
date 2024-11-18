@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fiords battle axe",
+    "displayName": "Fiord's Battle Axe",
+    "values": {
+      "commonRange": "1,169 - 18,355",
+      "averagePrice": 18356,
+      "minimumPrice": 246,
+      "maximumPrice": 100000,
+      "averageStackPrice": 18356,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

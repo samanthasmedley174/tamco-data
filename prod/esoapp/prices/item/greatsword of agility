@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of agility",
+    "displayName": "Greatsword of Agility",
+    "values": {
+      "commonRange": "300 - 1,576",
+      "averagePrice": 1179,
+      "minimumPrice": 246,
+      "maximumPrice": 3246,
+      "averageStackPrice": 1179,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

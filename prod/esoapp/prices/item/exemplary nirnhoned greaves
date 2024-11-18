@@ -1,0 +1,18 @@
+[
+  {
+    "name": "exemplary nirnhoned greaves",
+    "displayName": "Exemplary Nirnhoned Greaves",
+    "values": {
+      "commonRange": "9,000 - 9,000",
+      "averagePrice": 9000,
+      "minimumPrice": 9000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 9000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

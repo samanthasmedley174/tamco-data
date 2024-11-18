@@ -1,0 +1,18 @@
+[
+  {
+    "name": "guards of the valiant",
+    "displayName": "Guards of the Valiant",
+    "values": {
+      "commonRange": "480 - 2,000",
+      "averagePrice": 1392,
+      "minimumPrice": 183,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1392,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

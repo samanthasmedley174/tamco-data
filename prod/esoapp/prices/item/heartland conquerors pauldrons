@@ -1,0 +1,18 @@
+[
+  {
+    "name": "heartland conquerors pauldrons",
+    "displayName": "Heartland Conqueror's Pauldrons",
+    "values": {
+      "commonRange": "10,066 - 10,066",
+      "averagePrice": 10066,
+      "minimumPrice": 10066,
+      "maximumPrice": 10066,
+      "averageStackPrice": 10066,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

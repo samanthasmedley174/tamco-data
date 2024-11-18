@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr bed rumpled elegant double",
+    "displayName": "Elsweyr Bed, Rumpled Elegant Double",
+    "values": {
+      "commonRange": "6,000 - 15,000",
+      "averagePrice": 11462,
+      "minimumPrice": 5300,
+      "maximumPrice": 15000,
+      "averageStackPrice": 11462,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

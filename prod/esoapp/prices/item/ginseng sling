@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ginseng sling",
+    "displayName": "Ginseng Sling",
+    "values": {
+      "commonRange": "0 - 0",
+      "averagePrice": 1,
+      "minimumPrice": 1,
+      "maximumPrice": 2,
+      "averageStackPrice": 1,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Food & Drinks",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/ginseng_sling.png"
+  }
+]

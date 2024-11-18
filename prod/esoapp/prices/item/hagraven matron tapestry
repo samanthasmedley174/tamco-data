@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hagraven matron tapestry",
+    "displayName": "Hagraven Matron Tapestry",
+    "values": {
+      "commonRange": "1,200 - 5,000",
+      "averagePrice": 2970,
+      "minimumPrice": 1159,
+      "maximumPrice": 9950,
+      "averageStackPrice": 2970,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula colovian alembic set colorful",
+    "displayName": "Formula: Colovian Alembic Set, Colorful",
+    "values": {
+      "commonRange": "42,500 - 46,011",
+      "averagePrice": 44848,
+      "minimumPrice": 35000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 44848,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

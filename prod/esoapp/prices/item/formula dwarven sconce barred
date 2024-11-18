@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula dwarven sconce barred",
+    "displayName": "Formula: Dwarven Sconce, Barred",
+    "values": {
+      "commonRange": "650,000 - 1,850,000",
+      "averagePrice": 1180440,
+      "minimumPrice": 454000,
+      "maximumPrice": 2250000,
+      "averageStackPrice": 1180440,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

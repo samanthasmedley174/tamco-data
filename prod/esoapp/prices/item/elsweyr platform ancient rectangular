@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr platform ancient rectangular",
+    "displayName": "Elsweyr Platform, Ancient Rectangular",
+    "values": {
+      "commonRange": "15,000 - 28,300",
+      "averagePrice": 24624,
+      "minimumPrice": 10000,
+      "maximumPrice": 28300,
+      "averageStackPrice": 24624,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

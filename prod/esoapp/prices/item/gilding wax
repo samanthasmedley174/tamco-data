@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gilding wax",
+    "displayName": "Gilding Wax",
+    "values": {
+      "commonRange": "3,900 - 8,000",
+      "averagePrice": 5946,
+      "minimumPrice": 3899,
+      "maximumPrice": 20000,
+      "averageStackPrice": 59460,
+      "commonStackSize": 10,
+      "salesRecorded": 79
+    },
+    "type": "Trait Stones",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Gilding_Wax.png"
+  }
+]

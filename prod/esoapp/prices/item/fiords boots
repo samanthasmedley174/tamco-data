@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fiords boots",
+    "displayName": "Fiord's Boots",
+    "values": {
+      "commonRange": "90 - 3,000",
+      "averagePrice": 1106,
+      "minimumPrice": 87,
+      "maximumPrice": 9090,
+      "averageStackPrice": 1106,
+      "commonStackSize": 1,
+      "salesRecorded": 51
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

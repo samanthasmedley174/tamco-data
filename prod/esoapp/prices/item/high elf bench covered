@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf bench covered",
+    "displayName": "High Elf Bench, Covered",
+    "values": {
+      "commonRange": "3,000 - 11,000",
+      "averagePrice": 5681,
+      "minimumPrice": 2500,
+      "maximumPrice": 14800,
+      "averageStackPrice": 5681,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

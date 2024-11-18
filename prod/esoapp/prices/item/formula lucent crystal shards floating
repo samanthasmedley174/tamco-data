@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula lucent crystal shards floating",
+    "displayName": "Formula: Lucent Crystal Shards, Floating",
+    "values": {
+      "commonRange": "3,000 - 5,362",
+      "averagePrice": 3932,
+      "minimumPrice": 2462,
+      "maximumPrice": 5462,
+      "averageStackPrice": 3932,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

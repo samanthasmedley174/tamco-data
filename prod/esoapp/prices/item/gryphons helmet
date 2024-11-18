@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gryphons helmet",
+    "displayName": "Gryphon's Helmet",
+    "values": {
+      "commonRange": "144 - 4,000",
+      "averagePrice": 1229,
+      "minimumPrice": 25,
+      "maximumPrice": 6569,
+      "averageStackPrice": 1229,
+      "commonStackSize": 1,
+      "salesRecorded": 157
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helmet of the ranger",
+    "displayName": "Helmet of the Ranger",
+    "values": {
+      "commonRange": "330 - 1,750",
+      "averagePrice": 917,
+      "minimumPrice": 153,
+      "maximumPrice": 3500,
+      "averageStackPrice": 917,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

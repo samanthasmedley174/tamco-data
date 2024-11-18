@@ -1,0 +1,18 @@
+[
+  {
+    "name": "heritance gauntlets",
+    "displayName": "Heritance Gauntlets",
+    "values": {
+      "commonRange": "865 - 1,759",
+      "averagePrice": 1142,
+      "minimumPrice": 84,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1142,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

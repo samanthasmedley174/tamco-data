@@ -1,0 +1,18 @@
+[
+  {
+    "name": "great bow of oblivion",
+    "displayName": "Great Bow of Oblivion",
+    "values": {
+      "commonRange": "500 - 1,228",
+      "averagePrice": 946,
+      "minimumPrice": 230,
+      "maximumPrice": 1995,
+      "averageStackPrice": 946,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

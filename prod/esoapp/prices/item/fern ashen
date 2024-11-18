@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fern ashen",
+    "displayName": "Fern, Ashen",
+    "values": {
+      "commonRange": "2,560 - 2,560",
+      "averagePrice": 2560,
+      "minimumPrice": 2560,
+      "maximumPrice": 2560,
+      "averageStackPrice": 2560,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Furnishings",
+    "date": "12/05/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

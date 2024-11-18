@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr armchair low backed elegant",
+    "displayName": "Elsweyr Armchair, Low-Backed Elegant",
+    "values": {
+      "commonRange": "5,500 - 12,000",
+      "averagePrice": 9690,
+      "minimumPrice": 4900,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9690,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

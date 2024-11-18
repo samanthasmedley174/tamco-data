@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven trunk ornate polished",
+    "displayName": "Dwarven Trunk, Ornate Polished",
+    "values": {
+      "commonRange": "4,400 - 16,300",
+      "averagePrice": 11008,
+      "minimumPrice": 4300,
+      "maximumPrice": 20000,
+      "averageStackPrice": 11008,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/25/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

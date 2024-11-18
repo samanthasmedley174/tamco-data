@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr brazier cold flame column",
+    "displayName": "Elsweyr Brazier, Cold-Flame Column",
+    "values": {
+      "commonRange": "16,299 - 20,600",
+      "averagePrice": 19289,
+      "minimumPrice": 16299,
+      "maximumPrice": 20600,
+      "averageStackPrice": 19289,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gourmands ice staff",
+    "displayName": "Gourmand's Ice Staff",
+    "values": {
+      "commonRange": "5,000 - 10,240",
+      "averagePrice": 8441,
+      "minimumPrice": 4000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 8441,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

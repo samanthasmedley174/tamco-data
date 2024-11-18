@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula telvanni sconce fungal wall",
+    "displayName": "Formula: Telvanni Sconce, Fungal Wall",
+    "values": {
+      "commonRange": "930 - 9,809",
+      "averagePrice": 6794,
+      "minimumPrice": 200,
+      "maximumPrice": 9999,
+      "averageStackPrice": 6794,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

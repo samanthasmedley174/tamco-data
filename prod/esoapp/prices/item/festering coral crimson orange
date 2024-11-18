@@ -1,0 +1,18 @@
+[
+  {
+    "name": "festering coral crimson orange",
+    "displayName": "Festering Coral, Crimson-Orange",
+    "values": {
+      "commonRange": "5,000 - 9,000",
+      "averagePrice": 7082,
+      "minimumPrice": 3000,
+      "maximumPrice": 9780,
+      "averageStackPrice": 7082,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

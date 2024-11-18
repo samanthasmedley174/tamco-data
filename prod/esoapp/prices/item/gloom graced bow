@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloom graced bow",
+    "displayName": "Gloom-Graced Bow",
+    "values": {
+      "commonRange": "239 - 1,397",
+      "averagePrice": 693,
+      "minimumPrice": 190,
+      "maximumPrice": 2235,
+      "averageStackPrice": 693,
+      "commonStackSize": 1,
+      "salesRecorded": 60
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

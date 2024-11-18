@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flowers sturdy blue wisteria",
+    "displayName": "Flowers, Sturdy Blue Wisteria",
+    "values": {
+      "commonRange": "4,994 - 10,000",
+      "averagePrice": 8574,
+      "minimumPrice": 4994,
+      "maximumPrice": 10000,
+      "averageStackPrice": 8574,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

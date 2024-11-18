@@ -1,0 +1,18 @@
+[
+  {
+    "name": "explorers comfortable shoes",
+    "displayName": "Explorer's Comfortable Shoes",
+    "values": {
+      "commonRange": "174 - 784",
+      "averagePrice": 436,
+      "minimumPrice": 174,
+      "maximumPrice": 1184,
+      "averageStackPrice": 436,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

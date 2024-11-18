@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula case of vials",
+    "displayName": "Formula: Case of Vials",
+    "values": {
+      "commonRange": "20,000 - 30,848",
+      "averagePrice": 27904,
+      "minimumPrice": 16000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 27904,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

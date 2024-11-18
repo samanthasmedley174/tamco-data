@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave doorway stone frame",
+    "displayName": "Fargrave Doorway, Stone Frame",
+    "values": {
+      "commonRange": "8,000 - 20,920",
+      "averagePrice": 14234,
+      "minimumPrice": 3450,
+      "maximumPrice": 22000,
+      "averageStackPrice": 14234,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

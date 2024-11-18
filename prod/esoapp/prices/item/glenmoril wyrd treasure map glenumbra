@@ -1,0 +1,18 @@
+[
+  {
+    "name": "glenmoril wyrd treasure map glenumbra",
+    "displayName": "Glenmoril Wyrd Treasure Map: Glenumbra",
+    "values": {
+      "commonRange": "133 - 500",
+      "averagePrice": 228,
+      "minimumPrice": 100,
+      "maximumPrice": 500,
+      "averageStackPrice": 228,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

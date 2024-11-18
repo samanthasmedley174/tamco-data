@@ -1,0 +1,18 @@
+[
+  {
+    "name": "exemplary harmony ring",
+    "displayName": "Exemplary Harmony Ring",
+    "values": {
+      "commonRange": "3,500 - 6,500",
+      "averagePrice": 5505,
+      "minimumPrice": 788,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5505,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

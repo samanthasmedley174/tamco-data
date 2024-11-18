@@ -1,0 +1,18 @@
+[
+  {
+    "name": "glenmoril wyrd treasure map reapers march",
+    "displayName": "Glenmoril Wyrd Treasure Map: Reaper's March",
+    "values": {
+      "commonRange": "100 - 800",
+      "averagePrice": 325,
+      "minimumPrice": 80,
+      "maximumPrice": 1000,
+      "averageStackPrice": 325,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gryphon plume",
+    "displayName": "Gryphon Plume",
+    "values": {
+      "commonRange": "36 - 500",
+      "averagePrice": 302,
+      "minimumPrice": 8,
+      "maximumPrice": 1000,
+      "averageStackPrice": 906,
+      "commonStackSize": 3,
+      "salesRecorded": 10
+    },
+    "type": "Style Materials",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Gryphon_Plume.png"
+  }
+]

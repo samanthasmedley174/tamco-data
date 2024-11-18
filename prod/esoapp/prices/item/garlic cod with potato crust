@@ -1,0 +1,18 @@
+[
+  {
+    "name": "garlic cod with potato crust",
+    "displayName": "Garlic Cod with Potato Crust",
+    "values": {
+      "commonRange": "15 - 99",
+      "averagePrice": 45,
+      "minimumPrice": 15,
+      "maximumPrice": 99,
+      "averageStackPrice": 4500,
+      "commonStackSize": 100,
+      "salesRecorded": 22
+    },
+    "type": "Food & Drinks",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/garlic_cod_with_potato_crust.png"
+  }
+]

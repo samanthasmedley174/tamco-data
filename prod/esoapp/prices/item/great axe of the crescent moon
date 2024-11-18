@@ -1,0 +1,18 @@
+[
+  {
+    "name": "great axe of the crescent moon",
+    "displayName": "Great Axe of the Crescent Moon",
+    "values": {
+      "commonRange": "328 - 328",
+      "averagePrice": 328,
+      "minimumPrice": 328,
+      "maximumPrice": 328,
+      "averageStackPrice": 328,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

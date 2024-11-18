@@ -1,0 +1,18 @@
+[
+  {
+    "name": "epaulets of high isle",
+    "displayName": "Epaulets of High Isle",
+    "values": {
+      "commonRange": "144 - 1,000",
+      "averagePrice": 663,
+      "minimumPrice": 100,
+      "maximumPrice": 2500,
+      "averageStackPrice": 663,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

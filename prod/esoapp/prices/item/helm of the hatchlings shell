@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helm of the hatchlings shell",
+    "displayName": "Helm of the Hatchling's Shell",
+    "values": {
+      "commonRange": "190 - 3,150",
+      "averagePrice": 1045,
+      "minimumPrice": 90,
+      "maximumPrice": 3153,
+      "averageStackPrice": 1045,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

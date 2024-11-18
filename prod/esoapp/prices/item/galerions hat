@@ -1,0 +1,18 @@
+[
+  {
+    "name": "galerions hat",
+    "displayName": "Galerion's Hat",
+    "values": {
+      "commonRange": "5,000 - 7,622",
+      "averagePrice": 6715,
+      "minimumPrice": 4904,
+      "maximumPrice": 9153,
+      "averageStackPrice": 6715,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

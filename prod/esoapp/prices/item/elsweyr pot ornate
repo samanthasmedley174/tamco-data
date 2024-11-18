@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr pot ornate",
+    "displayName": "Elsweyr Pot, Ornate",
+    "values": {
+      "commonRange": "500 - 4,000",
+      "averagePrice": 2222,
+      "minimumPrice": 460,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2222,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

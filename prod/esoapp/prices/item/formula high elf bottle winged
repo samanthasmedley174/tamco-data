@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula high elf bottle winged",
+    "displayName": "Formula: High Elf Bottle, Winged",
+    "values": {
+      "commonRange": "200 - 1,500",
+      "averagePrice": 757,
+      "minimumPrice": 30,
+      "maximumPrice": 2000,
+      "averageStackPrice": 757,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

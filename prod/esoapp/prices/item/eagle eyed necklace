@@ -1,0 +1,18 @@
+[
+  {
+    "name": "eagle eyed necklace",
+    "displayName": "Eagle-Eyed Necklace",
+    "values": {
+      "commonRange": "747 - 12,533",
+      "averagePrice": 9787,
+      "minimumPrice": 350,
+      "maximumPrice": 60156,
+      "averageStackPrice": 9787,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

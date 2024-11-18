@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fire drake mug",
+    "displayName": "Fire Drake Mug",
+    "values": {
+      "commonRange": "4,000 - 16,300",
+      "averagePrice": 7341,
+      "minimumPrice": 2007,
+      "maximumPrice": 16300,
+      "averageStackPrice": 7341,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

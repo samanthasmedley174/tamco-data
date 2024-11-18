@@ -1,0 +1,18 @@
+[
+  {
+    "name": "epaulets of almalexias mercy",
+    "displayName": "Epaulets of Almalexia's Mercy",
+    "values": {
+      "commonRange": "900 - 9,153",
+      "averagePrice": 4167,
+      "minimumPrice": 750,
+      "maximumPrice": 9153,
+      "averageStackPrice": 4167,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

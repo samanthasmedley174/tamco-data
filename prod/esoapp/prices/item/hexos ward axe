@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hexos ward axe",
+    "displayName": "Hexos' Ward Axe",
+    "values": {
+      "commonRange": "2,000 - 5,000",
+      "averagePrice": 3370,
+      "minimumPrice": 1422,
+      "maximumPrice": 5144,
+      "averageStackPrice": 3370,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

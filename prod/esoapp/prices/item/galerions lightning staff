@@ -1,0 +1,18 @@
+[
+  {
+    "name": "galerions lightning staff",
+    "displayName": "Galerion's Lightning Staff",
+    "values": {
+      "commonRange": "40,000 - 44,000",
+      "averagePrice": 42000,
+      "minimumPrice": 40000,
+      "maximumPrice": 44000,
+      "averageStackPrice": 42000,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/23/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

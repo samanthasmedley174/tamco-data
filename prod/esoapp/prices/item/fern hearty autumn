@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fern hearty autumn",
+    "displayName": "Fern, Hearty Autumn",
+    "values": {
+      "commonRange": "260 - 832",
+      "averagePrice": 540,
+      "minimumPrice": 183,
+      "maximumPrice": 832,
+      "averageStackPrice": 540,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

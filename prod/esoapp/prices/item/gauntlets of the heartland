@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gauntlets of the heartland",
+    "displayName": "Gauntlets of the Heartland",
+    "values": {
+      "commonRange": "1,999 - 4,400",
+      "averagePrice": 3013,
+      "minimumPrice": 500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 3013,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

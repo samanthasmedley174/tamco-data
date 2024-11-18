@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave platform square",
+    "displayName": "Fargrave Platform, Square",
+    "values": {
+      "commonRange": "2,335 - 5,150",
+      "averagePrice": 3716,
+      "minimumPrice": 2000,
+      "maximumPrice": 7000,
+      "averageStackPrice": 7432,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

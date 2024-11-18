@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gonfalon bay dockside bell",
+    "displayName": "Gonfalon Bay Dockside Bell",
+    "values": {
+      "commonRange": "9,000 - 27,000",
+      "averagePrice": 17159,
+      "minimumPrice": 7000,
+      "maximumPrice": 27000,
+      "averageStackPrice": 17159,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

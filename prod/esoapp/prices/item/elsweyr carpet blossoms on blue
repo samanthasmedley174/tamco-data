@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr carpet blossoms on blue",
+    "displayName": "Elsweyr Carpet, Blossoms on Blue",
+    "values": {
+      "commonRange": "7,666 - 7,906",
+      "averagePrice": 8022,
+      "minimumPrice": 7666,
+      "maximumPrice": 9900,
+      "averageStackPrice": 8022,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

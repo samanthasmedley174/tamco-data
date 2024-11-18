@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gauntlets of the wyrd tree",
+    "displayName": "Gauntlets of the Wyrd Tree",
+    "values": {
+      "commonRange": "140 - 1,138",
+      "averagePrice": 602,
+      "minimumPrice": 90,
+      "maximumPrice": 2187,
+      "averageStackPrice": 602,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

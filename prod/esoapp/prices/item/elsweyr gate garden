@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr gate garden",
+    "displayName": "Elsweyr Gate, Garden",
+    "values": {
+      "commonRange": "27,000 - 57,000",
+      "averagePrice": 37417,
+      "minimumPrice": 15000,
+      "maximumPrice": 57000,
+      "averageStackPrice": 37417,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

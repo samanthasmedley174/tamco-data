@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hedge dense low wall",
+    "displayName": "Hedge, Dense Low Wall",
+    "values": {
+      "commonRange": "500 - 1,285",
+      "averagePrice": 918,
+      "minimumPrice": 500,
+      "maximumPrice": 2071,
+      "averageStackPrice": 1836,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

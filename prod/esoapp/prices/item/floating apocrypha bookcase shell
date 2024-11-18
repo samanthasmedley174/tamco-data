@@ -1,0 +1,18 @@
+[
+  {
+    "name": "floating apocrypha bookcase shell",
+    "displayName": "Floating Apocrypha Bookcase, Shell",
+    "values": {
+      "commonRange": "15,000 - 40,000",
+      "averagePrice": 27536,
+      "minimumPrice": 14999,
+      "maximumPrice": 50675,
+      "averageStackPrice": 27536,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

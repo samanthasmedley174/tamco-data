@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr pot cerulean",
+    "displayName": "Elsweyr Pot, Cerulean",
+    "values": {
+      "commonRange": "2,688 - 6,500",
+      "averagePrice": 6143,
+      "minimumPrice": 2688,
+      "maximumPrice": 20150,
+      "averageStackPrice": 6143,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

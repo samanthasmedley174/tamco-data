@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fish",
+    "displayName": "Fish",
+    "values": {
+      "commonRange": "5 - 43",
+      "averagePrice": 19,
+      "minimumPrice": 3,
+      "maximumPrice": 55,
+      "averageStackPrice": 3800,
+      "commonStackSize": 200,
+      "salesRecorded": 89
+    },
+    "type": "Provisioning Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

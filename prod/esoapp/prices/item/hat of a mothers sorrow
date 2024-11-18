@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hat of a mothers sorrow",
+    "displayName": "Hat of a Mother's Sorrow",
+    "values": {
+      "commonRange": "353 - 20,000",
+      "averagePrice": 7996,
+      "minimumPrice": 144,
+      "maximumPrice": 100000,
+      "averageStackPrice": 7996,
+      "commonStackSize": 1,
+      "salesRecorded": 86
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

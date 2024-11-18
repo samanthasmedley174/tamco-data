@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr cabinet wide elegant wooden",
+    "displayName": "Elsweyr Cabinet, Wide Elegant Wooden",
+    "values": {
+      "commonRange": "6,000 - 12,400",
+      "averagePrice": 9169,
+      "minimumPrice": 5500,
+      "maximumPrice": 13500,
+      "averageStackPrice": 9169,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hedge camellia wall",
+    "displayName": "Hedge, Camellia Wall",
+    "values": {
+      "commonRange": "2,000 - 2,000",
+      "averagePrice": 2000,
+      "minimumPrice": 2000,
+      "maximumPrice": 2000,
+      "averageStackPrice": 10000,
+      "commonStackSize": 5,
+      "salesRecorded": 1
+    },
+    "type": "Furnishings",
+    "date": "02/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

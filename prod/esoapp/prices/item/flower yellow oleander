@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flower yellow oleander",
+    "displayName": "Flower, Yellow Oleander",
+    "values": {
+      "commonRange": "260 - 1,400",
+      "averagePrice": 789,
+      "minimumPrice": 50,
+      "maximumPrice": 1400,
+      "averageStackPrice": 789,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ginger wheat beer",
+    "displayName": "Ginger Wheat Beer",
+    "values": {
+      "commonRange": "9 - 10",
+      "averagePrice": 29,
+      "minimumPrice": 6,
+      "maximumPrice": 109,
+      "averageStackPrice": 29,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Food & Drinks",
+    "date": "11/16/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/ginger_wheat_beer.png"
+  }
+]

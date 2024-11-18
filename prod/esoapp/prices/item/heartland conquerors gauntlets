@@ -1,0 +1,18 @@
+[
+  {
+    "name": "heartland conquerors gauntlets",
+    "displayName": "Heartland Conqueror's Gauntlets",
+    "values": {
+      "commonRange": "10,039 - 10,039",
+      "averagePrice": 10039,
+      "minimumPrice": 10039,
+      "maximumPrice": 10039,
+      "averageStackPrice": 10039,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

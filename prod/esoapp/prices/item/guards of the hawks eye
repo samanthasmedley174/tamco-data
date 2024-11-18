@@ -1,0 +1,18 @@
+[
+  {
+    "name": "guards of the hawks eye",
+    "displayName": "Guards of the Hawk's Eye",
+    "values": {
+      "commonRange": "900 - 5,180",
+      "averagePrice": 3737,
+      "minimumPrice": 750,
+      "maximumPrice": 19183,
+      "averageStackPrice": 3737,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

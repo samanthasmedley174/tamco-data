@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr platform wooden large",
+    "displayName": "Elsweyr Platform, Wooden Large",
+    "values": {
+      "commonRange": "1,365 - 3,060",
+      "averagePrice": 2212,
+      "minimumPrice": 110,
+      "maximumPrice": 5060,
+      "averageStackPrice": 8848,
+      "commonStackSize": 4,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

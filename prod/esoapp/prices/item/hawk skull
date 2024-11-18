@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hawk skull",
+    "displayName": "Hawk Skull",
+    "values": {
+      "commonRange": "10 - 575",
+      "averagePrice": 422,
+      "minimumPrice": 3,
+      "maximumPrice": 639,
+      "averageStackPrice": 422,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Hawk_Skull.png"
+  }
+]

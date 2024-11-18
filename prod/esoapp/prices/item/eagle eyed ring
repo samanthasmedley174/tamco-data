@@ -1,0 +1,18 @@
+[
+  {
+    "name": "eagle eyed ring",
+    "displayName": "Eagle-Eyed Ring",
+    "values": {
+      "commonRange": "820 - 10,000",
+      "averagePrice": 4634,
+      "minimumPrice": 343,
+      "maximumPrice": 20000,
+      "averageStackPrice": 4634,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

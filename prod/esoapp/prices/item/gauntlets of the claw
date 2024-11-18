@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gauntlets of the claw",
+    "displayName": "Gauntlets of the Claw",
+    "values": {
+      "commonRange": "550 - 550",
+      "averagePrice": 550,
+      "minimumPrice": 550,
+      "maximumPrice": 550,
+      "averageStackPrice": 550,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flowers large climbing summertide",
+    "displayName": "Flowers, Large Climbing Summertide",
+    "values": {
+      "commonRange": "2,000 - 3,254",
+      "averagePrice": 2566,
+      "minimumPrice": 1650,
+      "maximumPrice": 3254,
+      "averageStackPrice": 5132,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

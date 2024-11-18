@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hallins war belt",
+    "displayName": "Hallin's War Belt",
+    "values": {
+      "commonRange": "380 - 380",
+      "averagePrice": 380,
+      "minimumPrice": 380,
+      "maximumPrice": 380,
+      "averageStackPrice": 380,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

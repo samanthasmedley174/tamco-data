@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fountain wolf head",
+    "displayName": "Fountain, Wolf Head",
+    "values": {
+      "commonRange": "25,000 - 70,000",
+      "averagePrice": 46195,
+      "minimumPrice": 25000,
+      "maximumPrice": 72113,
+      "averageStackPrice": 46195,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

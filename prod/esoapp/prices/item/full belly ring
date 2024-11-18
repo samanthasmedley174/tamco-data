@@ -1,0 +1,18 @@
+[
+  {
+    "name": "full belly ring",
+    "displayName": "Full Belly Ring",
+    "values": {
+      "commonRange": "450 - 1,153",
+      "averagePrice": 844,
+      "minimumPrice": 400,
+      "maximumPrice": 2250,
+      "averageStackPrice": 844,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "great chapel of julianos painting wood",
+    "displayName": "Great Chapel of Julianos Painting, Wood",
+    "values": {
+      "commonRange": "15,389 - 30,000",
+      "averagePrice": 23525,
+      "minimumPrice": 12500,
+      "maximumPrice": 50000,
+      "averageStackPrice": 23525,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

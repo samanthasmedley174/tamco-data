@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula elsweyr mortar and pestle engraved",
+    "displayName": "Formula: Elsweyr Mortar and Pestle, Engraved",
+    "values": {
+      "commonRange": "40,000 - 71,126",
+      "averagePrice": 57625,
+      "minimumPrice": 33045,
+      "maximumPrice": 87000,
+      "averageStackPrice": 57625,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

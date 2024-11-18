@@ -1,0 +1,18 @@
+[
+  {
+    "name": "forest wraiths gauntlets",
+    "displayName": "Forest Wraith's Gauntlets",
+    "values": {
+      "commonRange": "20,027 - 20,027",
+      "averagePrice": 20027,
+      "minimumPrice": 20027,
+      "maximumPrice": 20027,
+      "averageStackPrice": 20027,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

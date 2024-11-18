@@ -1,0 +1,18 @@
+[
+  {
+    "name": "epaulets of the sun",
+    "displayName": "Epaulets of the Sun",
+    "values": {
+      "commonRange": "155 - 2,000",
+      "averagePrice": 1435,
+      "minimumPrice": 150,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1435,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

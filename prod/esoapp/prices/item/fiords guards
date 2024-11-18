@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fiords guards",
+    "displayName": "Fiord's Guards",
+    "values": {
+      "commonRange": "274 - 3,140",
+      "averagePrice": 1699,
+      "minimumPrice": 174,
+      "maximumPrice": 13769,
+      "averageStackPrice": 1699,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

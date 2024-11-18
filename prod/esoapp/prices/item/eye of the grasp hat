@@ -1,0 +1,18 @@
+[
+  {
+    "name": "eye of the grasp hat",
+    "displayName": "Eye of the Grasp Hat",
+    "values": {
+      "commonRange": "150 - 4,500",
+      "averagePrice": 1573,
+      "minimumPrice": 150,
+      "maximumPrice": 5691,
+      "averageStackPrice": 1573,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

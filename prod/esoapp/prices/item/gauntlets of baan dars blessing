@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gauntlets of baan dars blessing",
+    "displayName": "Gauntlets of Baan Dar's Blessing",
+    "values": {
+      "commonRange": "1,090 - 7,059",
+      "averagePrice": 6066,
+      "minimumPrice": 999,
+      "maximumPrice": 19090,
+      "averageStackPrice": 6066,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

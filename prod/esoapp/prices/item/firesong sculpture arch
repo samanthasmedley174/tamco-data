@@ -1,0 +1,18 @@
+[
+  {
+    "name": "firesong sculpture arch",
+    "displayName": "Firesong Sculpture, Arch",
+    "values": {
+      "commonRange": "7,000 - 14,990",
+      "averagePrice": 10111,
+      "minimumPrice": 6600,
+      "maximumPrice": 20300,
+      "averageStackPrice": 10111,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/06/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flowers poinsettia",
+    "displayName": "Flowers, Poinsettia",
+    "values": {
+      "commonRange": "50,000 - 75,968",
+      "averagePrice": 57277,
+      "minimumPrice": 24500,
+      "maximumPrice": 78322,
+      "averageStackPrice": 57277,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

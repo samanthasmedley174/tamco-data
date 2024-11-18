@@ -1,0 +1,18 @@
+[
+  {
+    "name": "grimspike pauldrons",
+    "displayName": "Grimspike Pauldrons",
+    "values": {
+      "commonRange": "550 - 625",
+      "averagePrice": 675,
+      "minimumPrice": 500,
+      "maximumPrice": 1025,
+      "averageStackPrice": 675,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

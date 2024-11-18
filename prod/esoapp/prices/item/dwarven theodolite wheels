@@ -1,0 +1,18 @@
+[
+  {
+    "name": "dwarven theodolite wheels",
+    "displayName": "Dwarven Theodolite Wheels",
+    "values": {
+      "commonRange": "1,100 - 6,039",
+      "averagePrice": 2984,
+      "minimumPrice": 1000,
+      "maximumPrice": 6541,
+      "averageStackPrice": 2984,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Fragments",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

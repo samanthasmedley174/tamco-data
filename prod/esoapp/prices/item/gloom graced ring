@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloom graced ring",
+    "displayName": "Gloom-Graced Ring",
+    "values": {
+      "commonRange": "125 - 4,700",
+      "averagePrice": 5078,
+      "minimumPrice": 75,
+      "maximumPrice": 90345,
+      "averageStackPrice": 5078,
+      "commonStackSize": 1,
+      "salesRecorded": 35
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

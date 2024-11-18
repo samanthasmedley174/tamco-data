@@ -1,0 +1,18 @@
+[
+  {
+    "name": "guards of the wilderqueen",
+    "displayName": "Guards of the Wilderqueen",
+    "values": {
+      "commonRange": "274 - 1,750",
+      "averagePrice": 733,
+      "minimumPrice": 173,
+      "maximumPrice": 2180,
+      "averageStackPrice": 733,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

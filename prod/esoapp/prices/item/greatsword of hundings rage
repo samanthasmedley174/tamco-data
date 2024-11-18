@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of hundings rage",
+    "displayName": "Greatsword of Hunding's Rage",
+    "values": {
+      "commonRange": "80,000 - 80,000",
+      "averagePrice": 89168,
+      "minimumPrice": 78252,
+      "maximumPrice": 109252,
+      "averageStackPrice": 89168,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

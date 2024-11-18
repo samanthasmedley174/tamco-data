@@ -1,0 +1,18 @@
+[
+  {
+    "name": "floating apocrypha bookcase roots",
+    "displayName": "Floating Apocrypha Bookcase, Roots",
+    "values": {
+      "commonRange": "25,000 - 38,990",
+      "averagePrice": 31095,
+      "minimumPrice": 11675,
+      "maximumPrice": 39990,
+      "averageStackPrice": 31095,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

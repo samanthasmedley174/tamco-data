@@ -1,0 +1,18 @@
+[
+  {
+    "name": "garnikhs bite",
+    "displayName": "Garnikh's Bite",
+    "values": {
+      "commonRange": "100 - 2,500",
+      "averagePrice": 1300,
+      "minimumPrice": 100,
+      "maximumPrice": 2500,
+      "averageStackPrice": 1300,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

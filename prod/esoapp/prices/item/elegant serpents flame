@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elegant serpents flame",
+    "displayName": "Elegant Serpent's Flame",
+    "values": {
+      "commonRange": "999 - 999",
+      "averagePrice": 1053,
+      "minimumPrice": 440,
+      "maximumPrice": 1720,
+      "averageStackPrice": 1053,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

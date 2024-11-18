@@ -1,0 +1,18 @@
+[
+  {
+    "name": "grahtwood treasure map v",
+    "displayName": "Grahtwood Treasure Map V",
+    "values": {
+      "commonRange": "31 - 250",
+      "averagePrice": 125,
+      "minimumPrice": 20,
+      "maximumPrice": 300,
+      "averageStackPrice": 125,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "eagle eye ice staff",
+    "displayName": "Eagle Eye Ice Staff",
+    "values": {
+      "commonRange": "666 - 10,402",
+      "averagePrice": 7111,
+      "minimumPrice": 334,
+      "maximumPrice": 79252,
+      "averageStackPrice": 7111,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

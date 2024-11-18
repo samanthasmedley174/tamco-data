@@ -1,0 +1,18 @@
+[
+  {
+    "name": "guarana tonic",
+    "displayName": "Guarana Tonic",
+    "values": {
+      "commonRange": "2 - 10",
+      "averagePrice": 5,
+      "minimumPrice": 2,
+      "maximumPrice": 10,
+      "averageStackPrice": 500,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "03/01/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/guarana_tonic.png"
+  }
+]

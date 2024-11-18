@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula dwarven lantern oil",
+    "displayName": "Formula: Dwarven Lantern, Oil",
+    "values": {
+      "commonRange": "350,000 - 500,000",
+      "averagePrice": 410008,
+      "minimumPrice": 350000,
+      "maximumPrice": 500000,
+      "averageStackPrice": 410008,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "05/07/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

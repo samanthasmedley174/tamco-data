@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gurlisks head",
+    "displayName": "Gurlisk's Head",
+    "values": {
+      "commonRange": "100 - 100",
+      "averagePrice": 100,
+      "minimumPrice": 100,
+      "maximumPrice": 100,
+      "averageStackPrice": 100,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

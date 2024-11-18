@@ -1,0 +1,18 @@
+[
+  {
+    "name": "green salad",
+    "displayName": "Green Salad",
+    "values": {
+      "commonRange": "4 - 11",
+      "averagePrice": 9,
+      "minimumPrice": 3,
+      "maximumPrice": 30,
+      "averageStackPrice": 900,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "04/19/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/green_salad.png"
+  }
+]

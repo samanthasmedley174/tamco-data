@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fabricant tree electrum",
+    "displayName": "Fabricant Tree, Electrum",
+    "values": {
+      "commonRange": "2,150 - 4,660",
+      "averagePrice": 3279,
+      "minimumPrice": 1081,
+      "maximumPrice": 4800,
+      "averageStackPrice": 3279,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

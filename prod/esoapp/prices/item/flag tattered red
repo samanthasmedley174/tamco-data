@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flag tattered red",
+    "displayName": "Flag, Tattered Red",
+    "values": {
+      "commonRange": "2,150 - 9,999",
+      "averagePrice": 5411,
+      "minimumPrice": 1850,
+      "maximumPrice": 9999,
+      "averageStackPrice": 5411,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

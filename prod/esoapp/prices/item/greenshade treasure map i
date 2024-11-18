@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greenshade treasure map i",
+    "displayName": "Greenshade Treasure Map I",
+    "values": {
+      "commonRange": "50 - 347",
+      "averagePrice": 147,
+      "minimumPrice": 20,
+      "maximumPrice": 500,
+      "averageStackPrice": 147,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

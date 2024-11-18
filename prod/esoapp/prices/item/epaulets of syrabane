@@ -1,0 +1,18 @@
+[
+  {
+    "name": "epaulets of syrabane",
+    "displayName": "Epaulets of Syrabane",
+    "values": {
+      "commonRange": "244 - 1,153",
+      "averagePrice": 661,
+      "minimumPrice": 153,
+      "maximumPrice": 2200,
+      "averageStackPrice": 661,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

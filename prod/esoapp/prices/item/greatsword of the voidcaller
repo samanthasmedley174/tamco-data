@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of the voidcaller",
+    "displayName": "Greatsword of the Voidcaller",
+    "values": {
+      "commonRange": "246 - 2,000",
+      "averagePrice": 847,
+      "minimumPrice": 90,
+      "maximumPrice": 2000,
+      "averageStackPrice": 847,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

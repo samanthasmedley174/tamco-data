@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gourmands robe",
+    "displayName": "Gourmand's Robe",
+    "values": {
+      "commonRange": "2,800 - 75,000",
+      "averagePrice": 15776,
+      "minimumPrice": 160,
+      "maximumPrice": 75000,
+      "averageStackPrice": 15776,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

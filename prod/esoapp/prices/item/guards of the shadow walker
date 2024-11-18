@@ -1,0 +1,18 @@
+[
+  {
+    "name": "guards of the shadow walker",
+    "displayName": "Guards of The Shadow Walker",
+    "values": {
+      "commonRange": "299 - 4,283",
+      "averagePrice": 2417,
+      "minimumPrice": 183,
+      "maximumPrice": 11180,
+      "averageStackPrice": 2417,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

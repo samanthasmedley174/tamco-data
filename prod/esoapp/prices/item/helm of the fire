@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helm of the fire",
+    "displayName": "Helm of the Fire",
+    "values": {
+      "commonRange": "150 - 3,944",
+      "averagePrice": 1567,
+      "minimumPrice": 100,
+      "maximumPrice": 10150,
+      "averageStackPrice": 1567,
+      "commonStackSize": 1,
+      "salesRecorded": 56
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

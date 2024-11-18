@@ -1,0 +1,18 @@
+[
+  {
+    "name": "epaulets of bahrahas curse",
+    "displayName": "Epaulets of Bahraha's Curse",
+    "values": {
+      "commonRange": "350 - 3,350",
+      "averagePrice": 1327,
+      "minimumPrice": 350,
+      "maximumPrice": 3350,
+      "averageStackPrice": 1327,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

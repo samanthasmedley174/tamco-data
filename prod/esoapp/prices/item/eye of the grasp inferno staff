@@ -1,0 +1,18 @@
+[
+  {
+    "name": "eye of the grasp inferno staff",
+    "displayName": "Eye of the Grasp Inferno Staff",
+    "values": {
+      "commonRange": "240 - 2,240",
+      "averagePrice": 1431,
+      "minimumPrice": 240,
+      "maximumPrice": 4500,
+      "averageStackPrice": 1431,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

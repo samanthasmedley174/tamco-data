@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helm of khalis strength",
+    "displayName": "Helm of Khali's Strength",
+    "values": {
+      "commonRange": "1,141 - 3,141",
+      "averagePrice": 2141,
+      "minimumPrice": 1141,
+      "maximumPrice": 3141,
+      "averageStackPrice": 2141,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

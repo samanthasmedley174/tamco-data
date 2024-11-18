@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula fabricant saplings electrum",
+    "displayName": "Formula: Fabricant Saplings, Electrum",
+    "values": {
+      "commonRange": "520 - 2,000",
+      "averagePrice": 1432,
+      "minimumPrice": 200,
+      "maximumPrice": 2200,
+      "averageStackPrice": 1432,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

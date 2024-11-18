@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloom graced sabatons",
+    "displayName": "Gloom-Graced Sabatons",
+    "values": {
+      "commonRange": "271 - 2,190",
+      "averagePrice": 1082,
+      "minimumPrice": 80,
+      "maximumPrice": 5418,
+      "averageStackPrice": 1082,
+      "commonStackSize": 1,
+      "salesRecorded": 143
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

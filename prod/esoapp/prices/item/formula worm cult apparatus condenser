@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula worm cult apparatus condenser",
+    "displayName": "Formula: Worm Cult Apparatus, Condenser",
+    "values": {
+      "commonRange": "500,000 - 575,010",
+      "averagePrice": 507679,
+      "minimumPrice": 200000,
+      "maximumPrice": 800000,
+      "averageStackPrice": 507679,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

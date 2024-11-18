@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flint",
+    "displayName": "Flint",
+    "values": {
+      "commonRange": "3 - 30",
+      "averagePrice": 15,
+      "minimumPrice": 3,
+      "maximumPrice": 40,
+      "averageStackPrice": 30,
+      "commonStackSize": 2,
+      "salesRecorded": 16
+    },
+    "type": "Style Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Flint.png"
+  }
+]

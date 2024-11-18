@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hat of the orders wrath",
+    "displayName": "Hat of the Order's Wrath",
+    "values": {
+      "commonRange": "500 - 42,156",
+      "averagePrice": 19421,
+      "minimumPrice": 400,
+      "maximumPrice": 44156,
+      "averageStackPrice": 19421,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave window grand medallion",
+    "displayName": "Fargrave Window, Grand Medallion",
+    "values": {
+      "commonRange": "20,675 - 30,000",
+      "averagePrice": 26508,
+      "minimumPrice": 20675,
+      "maximumPrice": 33000,
+      "averageStackPrice": 26508,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

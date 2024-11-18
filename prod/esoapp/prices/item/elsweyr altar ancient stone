@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr altar ancient stone",
+    "displayName": "Elsweyr Altar, Ancient Stone",
+    "values": {
+      "commonRange": "3,150 - 5,500",
+      "averagePrice": 4484,
+      "minimumPrice": 2150,
+      "maximumPrice": 9434,
+      "averageStackPrice": 4484,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

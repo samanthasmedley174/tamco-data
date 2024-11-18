@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gauntlets of the green pact",
+    "displayName": "Gauntlets of the Green Pact",
+    "values": {
+      "commonRange": "110 - 3,090",
+      "averagePrice": 1208,
+      "minimumPrice": 87,
+      "maximumPrice": 9090,
+      "averageStackPrice": 1208,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

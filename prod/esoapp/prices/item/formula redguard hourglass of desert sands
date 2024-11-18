@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula redguard hourglass of desert sands",
+    "displayName": "Formula: Redguard Hourglass of Desert Sands",
+    "values": {
+      "commonRange": "35,000 - 100,000",
+      "averagePrice": 54604,
+      "minimumPrice": 30000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 54604,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

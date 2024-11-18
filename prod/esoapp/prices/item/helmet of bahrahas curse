@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helmet of bahrahas curse",
+    "displayName": "Helmet of Bahraha's Curse",
+    "values": {
+      "commonRange": "250 - 2,344",
+      "averagePrice": 1556,
+      "minimumPrice": 250,
+      "maximumPrice": 3150,
+      "averageStackPrice": 1556,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

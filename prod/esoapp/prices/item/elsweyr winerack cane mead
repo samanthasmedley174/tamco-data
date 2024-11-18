@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr winerack cane mead",
+    "displayName": "Elsweyr Winerack, Cane Mead",
+    "values": {
+      "commonRange": "12,000 - 25,000",
+      "averagePrice": 17859,
+      "minimumPrice": 12000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 17859,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "girdle of beckoning steel",
+    "displayName": "Girdle of Beckoning Steel",
+    "values": {
+      "commonRange": "500 - 2,459",
+      "averagePrice": 2296,
+      "minimumPrice": 300,
+      "maximumPrice": 11090,
+      "averageStackPrice": 2296,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

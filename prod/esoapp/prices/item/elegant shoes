@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elegant shoes",
+    "displayName": "Elegant Shoes",
+    "values": {
+      "commonRange": "90 - 1,090",
+      "averagePrice": 559,
+      "minimumPrice": 25,
+      "maximumPrice": 2999,
+      "averageStackPrice": 559,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

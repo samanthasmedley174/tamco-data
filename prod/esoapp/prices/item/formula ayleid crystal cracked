@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula ayleid crystal cracked",
+    "displayName": "Formula: Ayleid Crystal, Cracked",
+    "values": {
+      "commonRange": "52,000 - 67,481",
+      "averagePrice": 60423,
+      "minimumPrice": 50000,
+      "maximumPrice": 67481,
+      "averageStackPrice": 60423,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "forest wraiths dagger",
+    "displayName": "Forest Wraith's Dagger",
+    "values": {
+      "commonRange": "77,156 - 77,156",
+      "averagePrice": 77156,
+      "minimumPrice": 77156,
+      "maximumPrice": 77156,
+      "averageStackPrice": 77156,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

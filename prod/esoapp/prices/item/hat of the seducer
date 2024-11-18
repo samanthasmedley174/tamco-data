@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hat of the seducer",
+    "displayName": "Hat of the Seducer",
+    "values": {
+      "commonRange": "12,253 - 12,253",
+      "averagePrice": 28833,
+      "minimumPrice": 90,
+      "maximumPrice": 74156,
+      "averageStackPrice": 28833,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

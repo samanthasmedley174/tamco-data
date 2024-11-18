@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greaves of the warrior poet",
+    "displayName": "Greaves of the Warrior-Poet",
+    "values": {
+      "commonRange": "299 - 2,850",
+      "averagePrice": 1501,
+      "minimumPrice": 200,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1501,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

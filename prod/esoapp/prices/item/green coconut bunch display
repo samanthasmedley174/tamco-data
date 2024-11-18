@@ -1,0 +1,18 @@
+[
+  {
+    "name": "green coconut bunch display",
+    "displayName": "Green Coconut Bunch, Display",
+    "values": {
+      "commonRange": "1,650 - 1,973",
+      "averagePrice": 1908,
+      "minimumPrice": 1650,
+      "maximumPrice": 1973,
+      "averageStackPrice": 1908,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

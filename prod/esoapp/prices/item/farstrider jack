@@ -1,0 +1,18 @@
+[
+  {
+    "name": "farstrider jack",
+    "displayName": "Farstrider Jack",
+    "values": {
+      "commonRange": "583 - 6,000",
+      "averagePrice": 3112,
+      "minimumPrice": 180,
+      "maximumPrice": 14173,
+      "averageStackPrice": 3112,
+      "commonStackSize": 1,
+      "salesRecorded": 84
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

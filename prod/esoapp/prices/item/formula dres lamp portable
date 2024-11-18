@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula dres lamp portable",
+    "displayName": "Formula: Dres Lamp, Portable",
+    "values": {
+      "commonRange": "1,500 - 2,500",
+      "averagePrice": 1818,
+      "minimumPrice": 500,
+      "maximumPrice": 3751,
+      "averageStackPrice": 1818,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

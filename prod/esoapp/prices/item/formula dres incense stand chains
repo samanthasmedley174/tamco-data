@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula dres incense stand chains",
+    "displayName": "Formula: Dres Incense Stand, Chains",
+    "values": {
+      "commonRange": "19,447 - 30,000",
+      "averagePrice": 22940,
+      "minimumPrice": 6000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 22940,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

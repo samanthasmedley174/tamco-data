@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr sconce candle shielded",
+    "displayName": "Elsweyr Sconce, Candle Shielded",
+    "values": {
+      "commonRange": "4,000 - 5,653",
+      "averagePrice": 4870,
+      "minimumPrice": 2201,
+      "maximumPrice": 5769,
+      "averageStackPrice": 9740,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

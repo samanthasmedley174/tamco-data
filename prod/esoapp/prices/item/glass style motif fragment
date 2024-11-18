@@ -1,0 +1,18 @@
+[
+  {
+    "name": "glass style motif fragment",
+    "displayName": "Glass Style Motif Fragment",
+    "values": {
+      "commonRange": "166 - 2,500",
+      "averagePrice": 877,
+      "minimumPrice": 41,
+      "maximumPrice": 2500,
+      "averageStackPrice": 877,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Fragments",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

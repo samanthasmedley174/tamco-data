@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greaves of elf bane",
+    "displayName": "Greaves of Elf Bane",
+    "values": {
+      "commonRange": "1,999 - 5,000",
+      "averagePrice": 3653,
+      "minimumPrice": 1689,
+      "maximumPrice": 8183,
+      "averageStackPrice": 3653,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

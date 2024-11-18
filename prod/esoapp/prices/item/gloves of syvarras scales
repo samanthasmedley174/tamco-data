@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloves of syvarras scales",
+    "displayName": "Gloves of Syvarra's Scales",
+    "values": {
+      "commonRange": "375 - 9,074",
+      "averagePrice": 5318,
+      "minimumPrice": 57,
+      "maximumPrice": 24999,
+      "averageStackPrice": 5318,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

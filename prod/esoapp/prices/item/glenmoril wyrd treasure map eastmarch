@@ -1,0 +1,18 @@
+[
+  {
+    "name": "glenmoril wyrd treasure map eastmarch",
+    "displayName": "Glenmoril Wyrd Treasure Map: Eastmarch",
+    "values": {
+      "commonRange": "100 - 342",
+      "averagePrice": 238,
+      "minimumPrice": 100,
+      "maximumPrice": 800,
+      "averageStackPrice": 238,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

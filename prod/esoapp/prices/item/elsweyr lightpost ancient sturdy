@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr lightpost ancient sturdy",
+    "displayName": "Elsweyr Lightpost, Ancient Sturdy",
+    "values": {
+      "commonRange": "6,000 - 16,000",
+      "averagePrice": 9292,
+      "minimumPrice": 700,
+      "maximumPrice": 16500,
+      "averageStackPrice": 9292,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/24/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

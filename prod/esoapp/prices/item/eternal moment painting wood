@@ -1,0 +1,18 @@
+[
+  {
+    "name": "eternal moment painting wood",
+    "displayName": "Eternal Moment Painting, Wood",
+    "values": {
+      "commonRange": "55,000 - 73,377",
+      "averagePrice": 64506,
+      "minimumPrice": 44034,
+      "maximumPrice": 90000,
+      "averageStackPrice": 64506,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

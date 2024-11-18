@@ -1,0 +1,18 @@
+[
+  {
+    "name": "epaulets of bulwark ruination",
+    "displayName": "Epaulets of Bulwark Ruination",
+    "values": {
+      "commonRange": "441 - 3,150",
+      "averagePrice": 1317,
+      "minimumPrice": 99,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1317,
+      "commonStackSize": 1,
+      "salesRecorded": 49
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

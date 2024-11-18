@@ -1,0 +1,18 @@
+[
+  {
+    "name": "farstrider ice staff",
+    "displayName": "Farstrider Ice Staff",
+    "values": {
+      "commonRange": "746 - 7,000",
+      "averagePrice": 5331,
+      "minimumPrice": 246,
+      "maximumPrice": 30000,
+      "averageStackPrice": 5331,
+      "commonStackSize": 1,
+      "salesRecorded": 48
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

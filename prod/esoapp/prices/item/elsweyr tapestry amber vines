@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr tapestry amber vines",
+    "displayName": "Elsweyr Tapestry, Amber Vines",
+    "values": {
+      "commonRange": "1,150 - 2,088",
+      "averagePrice": 1743,
+      "minimumPrice": 800,
+      "maximumPrice": 2115,
+      "averageStackPrice": 1743,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

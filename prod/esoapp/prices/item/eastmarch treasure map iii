@@ -1,0 +1,18 @@
+[
+  {
+    "name": "eastmarch treasure map iii",
+    "displayName": "Eastmarch Treasure Map III",
+    "values": {
+      "commonRange": "70 - 114",
+      "averagePrice": 163,
+      "minimumPrice": 50,
+      "maximumPrice": 1000,
+      "averageStackPrice": 163,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

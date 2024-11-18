@@ -1,0 +1,18 @@
+[
+  {
+    "name": "glenmoril wyrd treasure map bangkorai",
+    "displayName": "Glenmoril Wyrd Treasure Map: Bangkorai",
+    "values": {
+      "commonRange": "100 - 390",
+      "averagePrice": 267,
+      "minimumPrice": 15,
+      "maximumPrice": 550,
+      "averageStackPrice": 267,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Treasure Maps",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

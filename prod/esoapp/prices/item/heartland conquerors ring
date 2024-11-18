@@ -1,0 +1,18 @@
+[
+  {
+    "name": "heartland conquerors ring",
+    "displayName": "Heartland Conqueror's Ring",
+    "values": {
+      "commonRange": "17,500 - 148,156",
+      "averagePrice": 85612,
+      "minimumPrice": 15000,
+      "maximumPrice": 150000,
+      "averageStackPrice": 85612,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

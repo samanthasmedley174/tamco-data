@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gryphons arm cops",
+    "displayName": "Gryphon's Arm Cops",
+    "values": {
+      "commonRange": "150 - 3,999",
+      "averagePrice": 2081,
+      "minimumPrice": 100,
+      "maximumPrice": 22920,
+      "averageStackPrice": 2081,
+      "commonStackSize": 1,
+      "salesRecorded": 112
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

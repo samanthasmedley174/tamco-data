@@ -1,0 +1,18 @@
+[
+  {
+    "name": "edralds wedding veil of necropotence",
+    "displayName": "Edrald's Wedding Veil of Necropotence",
+    "values": {
+      "commonRange": "500 - 500",
+      "averagePrice": 500,
+      "minimumPrice": 500,
+      "maximumPrice": 500,
+      "averageStackPrice": 500,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

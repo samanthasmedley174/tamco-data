@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr fragrance bottle moonlit tryst",
+    "displayName": "Elsweyr Fragrance Bottle, Moonlit Tryst",
+    "values": {
+      "commonRange": "9,999 - 9,999",
+      "averagePrice": 9999,
+      "minimumPrice": 9999,
+      "maximumPrice": 9999,
+      "averageStackPrice": 9999,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

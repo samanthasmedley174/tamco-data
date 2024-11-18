@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr brazier embellished",
+    "displayName": "Elsweyr Brazier, Embellished",
+    "values": {
+      "commonRange": "1,000 - 2,410",
+      "averagePrice": 2092,
+      "minimumPrice": 1000,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2092,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

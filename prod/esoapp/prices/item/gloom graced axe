@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloom graced axe",
+    "displayName": "Gloom-Graced Axe",
+    "values": {
+      "commonRange": "499 - 5,000",
+      "averagePrice": 1891,
+      "minimumPrice": 330,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1891,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

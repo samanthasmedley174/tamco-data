@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hedge solid arc",
+    "displayName": "Hedge, Solid Arc",
+    "values": {
+      "commonRange": "3,150 - 3,150",
+      "averagePrice": 3150,
+      "minimumPrice": 3150,
+      "maximumPrice": 3150,
+      "averageStackPrice": 3150,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Furnishings",
+    "date": "05/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

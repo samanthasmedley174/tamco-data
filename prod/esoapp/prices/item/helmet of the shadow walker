@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helmet of the shadow walker",
+    "displayName": "Helmet of The Shadow Walker",
+    "values": {
+      "commonRange": "650 - 10,000",
+      "averagePrice": 2859,
+      "minimumPrice": 270,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2859,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

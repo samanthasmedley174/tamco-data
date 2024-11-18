@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr stairs masonry",
+    "displayName": "Elsweyr Stairs, Masonry",
+    "values": {
+      "commonRange": "2,000 - 5,476",
+      "averagePrice": 3953,
+      "minimumPrice": 2000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 7906,
+      "commonStackSize": 2,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

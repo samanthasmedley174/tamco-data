@@ -1,0 +1,18 @@
+[
+  {
+    "name": "grape preserves",
+    "displayName": "Grape Preserves",
+    "values": {
+      "commonRange": "3 - 103",
+      "averagePrice": 35,
+      "minimumPrice": 2,
+      "maximumPrice": 253,
+      "averageStackPrice": 35,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Food & Drinks",
+    "date": "12/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/grape_preserves.png"
+  }
+]

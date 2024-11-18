@@ -1,0 +1,18 @@
+[
+  {
+    "name": "flower coda",
+    "displayName": "Flower, Coda",
+    "values": {
+      "commonRange": "4,337 - 8,000",
+      "averagePrice": 5688,
+      "minimumPrice": 4000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5688,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

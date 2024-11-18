@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr vista painting wood",
+    "displayName": "Elsweyr Vista Painting, Wood",
+    "values": {
+      "commonRange": "15,006 - 33,000",
+      "averagePrice": 23358,
+      "minimumPrice": 15006,
+      "maximumPrice": 33300,
+      "averageStackPrice": 23358,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elegant bow",
+    "displayName": "Elegant Bow",
+    "values": {
+      "commonRange": "190 - 799",
+      "averagePrice": 450,
+      "minimumPrice": 144,
+      "maximumPrice": 1246,
+      "averageStackPrice": 450,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloom graced maul",
+    "displayName": "Gloom-Graced Maul",
+    "values": {
+      "commonRange": "340 - 4,367",
+      "averagePrice": 1900,
+      "minimumPrice": 239,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1900,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fortified brass helm",
+    "displayName": "Fortified Brass Helm",
+    "values": {
+      "commonRange": "78,156 - 78,156",
+      "averagePrice": 80406,
+      "minimumPrice": 78156,
+      "maximumPrice": 87156,
+      "averageStackPrice": 80406,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

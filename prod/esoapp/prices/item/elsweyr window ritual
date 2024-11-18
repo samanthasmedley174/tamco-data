@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr window ritual",
+    "displayName": "Elsweyr Window, Ritual",
+    "values": {
+      "commonRange": "7,500 - 25,000",
+      "averagePrice": 18182,
+      "minimumPrice": 7500,
+      "maximumPrice": 25000,
+      "averageStackPrice": 18182,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

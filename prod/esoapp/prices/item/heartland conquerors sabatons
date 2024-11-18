@@ -1,0 +1,18 @@
+[
+  {
+    "name": "heartland conquerors sabatons",
+    "displayName": "Heartland Conqueror's Sabatons",
+    "values": {
+      "commonRange": "10,093 - 35,093",
+      "averagePrice": 22593,
+      "minimumPrice": 10093,
+      "maximumPrice": 35093,
+      "averageStackPrice": 22593,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

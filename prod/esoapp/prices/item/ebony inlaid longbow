@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ebony inlaid longbow",
+    "displayName": "Ebony-Inlaid Longbow",
+    "values": {
+      "commonRange": "476 - 500",
+      "averagePrice": 476,
+      "minimumPrice": 300,
+      "maximumPrice": 628,
+      "averageStackPrice": 476,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

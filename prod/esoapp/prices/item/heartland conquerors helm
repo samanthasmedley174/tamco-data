@@ -1,0 +1,18 @@
+[
+  {
+    "name": "heartland conquerors helm",
+    "displayName": "Heartland Conqueror's Helm",
+    "values": {
+      "commonRange": "66 - 553",
+      "averagePrice": 310,
+      "minimumPrice": 66,
+      "maximumPrice": 553,
+      "averageStackPrice": 310,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

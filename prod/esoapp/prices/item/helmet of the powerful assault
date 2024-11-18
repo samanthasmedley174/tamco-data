@@ -1,0 +1,18 @@
+[
+  {
+    "name": "helmet of the powerful assault",
+    "displayName": "Helmet of the Powerful Assault",
+    "values": {
+      "commonRange": "3,969 - 9,000",
+      "averagePrice": 7259,
+      "minimumPrice": 1150,
+      "maximumPrice": 17488,
+      "averageStackPrice": 7259,
+      "commonStackSize": 1,
+      "salesRecorded": 66
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gourmands gloves",
+    "displayName": "Gourmand's Gloves",
+    "values": {
+      "commonRange": "300 - 75,000",
+      "averagePrice": 11730,
+      "minimumPrice": 90,
+      "maximumPrice": 75000,
+      "averageStackPrice": 11730,
+      "commonStackSize": 1,
+      "salesRecorded": 68
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

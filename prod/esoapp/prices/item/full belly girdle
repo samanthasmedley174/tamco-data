@@ -1,0 +1,18 @@
+[
+  {
+    "name": "full belly girdle",
+    "displayName": "Full Belly Girdle",
+    "values": {
+      "commonRange": "90 - 2,135",
+      "averagePrice": 884,
+      "minimumPrice": 90,
+      "maximumPrice": 3090,
+      "averageStackPrice": 884,
+      "commonStackSize": 1,
+      "salesRecorded": 71
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

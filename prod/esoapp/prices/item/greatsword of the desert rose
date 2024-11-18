@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of the desert rose",
+    "displayName": "Greatsword of the Desert Rose",
+    "values": {
+      "commonRange": "1,246 - 8,000",
+      "averagePrice": 4157,
+      "minimumPrice": 1234,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4157,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

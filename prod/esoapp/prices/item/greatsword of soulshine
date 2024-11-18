@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of soulshine",
+    "displayName": "Greatsword of Soulshine",
+    "values": {
+      "commonRange": "250 - 250",
+      "averagePrice": 250,
+      "minimumPrice": 250,
+      "maximumPrice": 250,
+      "averageStackPrice": 250,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

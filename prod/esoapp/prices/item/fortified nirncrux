@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fortified nirncrux",
+    "displayName": "Fortified Nirncrux",
+    "values": {
+      "commonRange": "7,000 - 10,500",
+      "averagePrice": 8920,
+      "minimumPrice": 5000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 8920,
+      "commonStackSize": 1,
+      "salesRecorded": 196
+    },
+    "type": "Trait Stones",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Fortified_Nirncrux.png"
+  }
+]

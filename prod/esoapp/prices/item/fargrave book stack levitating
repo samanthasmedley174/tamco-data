@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave book stack levitating",
+    "displayName": "Fargrave Book Stack, Levitating",
+    "values": {
+      "commonRange": "12,927 - 18,000",
+      "averagePrice": 14750,
+      "minimumPrice": 12927,
+      "maximumPrice": 22800,
+      "averageStackPrice": 14750,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

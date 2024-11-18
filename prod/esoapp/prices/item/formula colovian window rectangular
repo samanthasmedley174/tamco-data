@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula colovian window rectangular",
+    "displayName": "Formula: Colovian Window, Rectangular",
+    "values": {
+      "commonRange": "11,000 - 25,000",
+      "averagePrice": 24395,
+      "minimumPrice": 10000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 24395,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

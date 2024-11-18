@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf basin gilded",
+    "displayName": "High Elf Basin, Gilded",
+    "values": {
+      "commonRange": "160 - 972",
+      "averagePrice": 509,
+      "minimumPrice": 60,
+      "maximumPrice": 1000,
+      "averageStackPrice": 509,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

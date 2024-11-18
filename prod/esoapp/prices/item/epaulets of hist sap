@@ -1,0 +1,18 @@
+[
+  {
+    "name": "epaulets of hist sap",
+    "displayName": "Epaulets of Hist Sap",
+    "values": {
+      "commonRange": "150 - 1,100",
+      "averagePrice": 531,
+      "minimumPrice": 144,
+      "maximumPrice": 1210,
+      "averageStackPrice": 531,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

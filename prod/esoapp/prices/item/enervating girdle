@@ -1,0 +1,18 @@
+[
+  {
+    "name": "enervating girdle",
+    "displayName": "Enervating Girdle",
+    "values": {
+      "commonRange": "500 - 3,500",
+      "averagePrice": 2679,
+      "minimumPrice": 300,
+      "maximumPrice": 10337,
+      "averageStackPrice": 2679,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

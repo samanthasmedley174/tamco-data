@@ -1,0 +1,18 @@
+[
+  {
+    "name": "girdle of kagrenacs hope",
+    "displayName": "Girdle of Kagrenac's Hope",
+    "values": {
+      "commonRange": "790 - 790",
+      "averagePrice": 790,
+      "minimumPrice": 790,
+      "maximumPrice": 790,
+      "averageStackPrice": 790,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

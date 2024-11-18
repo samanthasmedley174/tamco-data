@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula redguard lantern delicate",
+    "displayName": "Formula: Redguard Lantern, Delicate",
+    "values": {
+      "commonRange": "52,000 - 55,028",
+      "averagePrice": 54808,
+      "minimumPrice": 50000,
+      "maximumPrice": 75000,
+      "averageStackPrice": 54808,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

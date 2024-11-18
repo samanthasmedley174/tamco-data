@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greens",
+    "displayName": "Greens",
+    "values": {
+      "commonRange": "3 - 16",
+      "averagePrice": 9,
+      "minimumPrice": 3,
+      "maximumPrice": 24,
+      "averageStackPrice": 9,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Provisioning Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

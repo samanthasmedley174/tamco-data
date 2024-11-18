@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr pillar ancient stone",
+    "displayName": "Elsweyr Pillar, Ancient Stone",
+    "values": {
+      "commonRange": "1,000 - 13,333",
+      "averagePrice": 6519,
+      "minimumPrice": 650,
+      "maximumPrice": 20150,
+      "averageStackPrice": 13038,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/24/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

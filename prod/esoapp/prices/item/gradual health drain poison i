@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gradual health drain poison i",
+    "displayName": "Gradual Health Drain Poison I",
+    "values": {
+      "commonRange": "3 - 4",
+      "averagePrice": 5,
+      "minimumPrice": 3,
+      "maximumPrice": 15,
+      "averageStackPrice": 20,
+      "commonStackSize": 4,
+      "salesRecorded": 11
+    },
+    "type": "Potions & Poisons",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

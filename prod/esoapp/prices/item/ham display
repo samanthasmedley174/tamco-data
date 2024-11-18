@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ham display",
+    "displayName": "Ham, Display",
+    "values": {
+      "commonRange": "1,150 - 3,069",
+      "averagePrice": 2344,
+      "minimumPrice": 1100,
+      "maximumPrice": 6850,
+      "averageStackPrice": 2344,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

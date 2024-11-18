@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave door",
+    "displayName": "Fargrave Door",
+    "values": {
+      "commonRange": "5,000 - 6,000",
+      "averagePrice": 5800,
+      "minimumPrice": 5000,
+      "maximumPrice": 6000,
+      "averageStackPrice": 5800,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

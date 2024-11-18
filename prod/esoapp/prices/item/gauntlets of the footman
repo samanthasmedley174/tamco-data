@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gauntlets of the footman",
+    "displayName": "Gauntlets of the Footman",
+    "values": {
+      "commonRange": "90 - 4,990",
+      "averagePrice": 1861,
+      "minimumPrice": 90,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1861,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

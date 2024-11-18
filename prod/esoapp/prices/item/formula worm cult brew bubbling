@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula worm cult brew bubbling",
+    "displayName": "Formula: Worm Cult Brew, Bubbling",
+    "values": {
+      "commonRange": "70,000 - 156,955",
+      "averagePrice": 118204,
+      "minimumPrice": 55027,
+      "maximumPrice": 175000,
+      "averageStackPrice": 118204,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

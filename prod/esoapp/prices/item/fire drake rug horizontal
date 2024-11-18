@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fire drake rug horizontal",
+    "displayName": "Fire Drake Rug, Horizontal",
+    "values": {
+      "commonRange": "5,000 - 20,000",
+      "averagePrice": 16173,
+      "minimumPrice": 550,
+      "maximumPrice": 40150,
+      "averageStackPrice": 16173,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

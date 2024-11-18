@@ -1,0 +1,18 @@
+[
+  {
+    "name": "full belly axe",
+    "displayName": "Full Belly Axe",
+    "values": {
+      "commonRange": "250 - 3,350",
+      "averagePrice": 1468,
+      "minimumPrice": 200,
+      "maximumPrice": 4250,
+      "averageStackPrice": 1468,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

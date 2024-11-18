@@ -1,0 +1,18 @@
+[
+  {
+    "name": "gloom graced ice staff",
+    "displayName": "Gloom-Graced Ice Staff",
+    "values": {
+      "commonRange": "234 - 1,475",
+      "averagePrice": 972,
+      "minimumPrice": 190,
+      "maximumPrice": 4000,
+      "averageStackPrice": 972,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

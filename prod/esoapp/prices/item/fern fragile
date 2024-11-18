@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fern fragile",
+    "displayName": "Fern, Fragile",
+    "values": {
+      "commonRange": "100 - 542",
+      "averagePrice": 290,
+      "minimumPrice": 99,
+      "maximumPrice": 542,
+      "averageStackPrice": 290,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

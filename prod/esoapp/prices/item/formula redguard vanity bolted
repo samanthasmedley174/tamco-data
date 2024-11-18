@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula redguard vanity bolted",
+    "displayName": "Formula: Redguard Vanity, Bolted",
+    "values": {
+      "commonRange": "30,000 - 44,000",
+      "averagePrice": 34306,
+      "minimumPrice": 3039,
+      "maximumPrice": 45407,
+      "averageStackPrice": 34306,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

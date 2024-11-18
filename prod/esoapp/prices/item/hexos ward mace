@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hexos ward mace",
+    "displayName": "Hexos' Ward Mace",
+    "values": {
+      "commonRange": "8,907 - 19,999",
+      "averagePrice": 11674,
+      "minimumPrice": 2000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 11674,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

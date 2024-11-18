@@ -1,0 +1,18 @@
+[
+  {
+    "name": "falinesti forbidden fruit",
+    "displayName": "Falinesti Forbidden Fruit",
+    "values": {
+      "commonRange": "50 - 50",
+      "averagePrice": 47,
+      "minimumPrice": 35,
+      "maximumPrice": 50,
+      "averageStackPrice": 564,
+      "commonStackSize": 12,
+      "salesRecorded": 5
+    },
+    "type": "Food & Drinks",
+    "date": "08/30/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/falinesti_forbidden_fruit.png"
+  }
+]

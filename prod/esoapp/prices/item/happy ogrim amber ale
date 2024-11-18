@@ -1,0 +1,18 @@
+[
+  {
+    "name": "happy ogrim amber ale",
+    "displayName": "Happy Ogrim Amber Ale",
+    "values": {
+      "commonRange": "40 - 40",
+      "averagePrice": 34,
+      "minimumPrice": 18,
+      "maximumPrice": 45,
+      "averageStackPrice": 34,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Food & Drinks",
+    "date": "05/02/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/happy_ogrim_amber_ale.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fulmination ale",
+    "displayName": "Fulmination Ale",
+    "values": {
+      "commonRange": "9 - 9",
+      "averagePrice": 9,
+      "minimumPrice": 9,
+      "maximumPrice": 9,
+      "averageStackPrice": 360,
+      "commonStackSize": 40,
+      "salesRecorded": 1
+    },
+    "type": "Food & Drinks",
+    "date": "10/08/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/fulmination_ale.png"
+  }
+]

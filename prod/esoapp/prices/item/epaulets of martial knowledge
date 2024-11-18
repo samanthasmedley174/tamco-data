@@ -1,0 +1,18 @@
+[
+  {
+    "name": "epaulets of martial knowledge",
+    "displayName": "Epaulets of Martial Knowledge",
+    "values": {
+      "commonRange": "150 - 2,350",
+      "averagePrice": 821,
+      "minimumPrice": 90,
+      "maximumPrice": 4000,
+      "averageStackPrice": 821,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

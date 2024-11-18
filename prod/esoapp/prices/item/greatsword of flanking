@@ -1,0 +1,18 @@
+[
+  {
+    "name": "greatsword of flanking",
+    "displayName": "Greatsword of Flanking",
+    "values": {
+      "commonRange": "834 - 3,200",
+      "averagePrice": 1940,
+      "minimumPrice": 500,
+      "maximumPrice": 3240,
+      "averageStackPrice": 1940,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

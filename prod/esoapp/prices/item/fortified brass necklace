@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fortified brass necklace",
+    "displayName": "Fortified Brass Necklace",
+    "values": {
+      "commonRange": "128,156 - 128,156",
+      "averagePrice": 128156,
+      "minimumPrice": 128156,
+      "maximumPrice": 128156,
+      "averageStackPrice": 128156,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

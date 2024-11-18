@@ -1,0 +1,18 @@
+[
+  {
+    "name": "frost embers",
+    "displayName": "Frost Embers",
+    "values": {
+      "commonRange": "93 - 400",
+      "averagePrice": 209,
+      "minimumPrice": 3,
+      "maximumPrice": 499,
+      "averageStackPrice": 41800,
+      "commonStackSize": 200,
+      "salesRecorded": 13
+    },
+    "type": "Style Materials",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Frost_Embers.png"
+  }
+]

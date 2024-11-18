@@ -1,0 +1,18 @@
+[
+  {
+    "name": "formula redguard decanter glass",
+    "displayName": "Formula: Redguard Decanter, Glass",
+    "values": {
+      "commonRange": "25,799 - 50,000",
+      "averagePrice": 36994,
+      "minimumPrice": 20039,
+      "maximumPrice": 78259,
+      "averageStackPrice": 36994,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

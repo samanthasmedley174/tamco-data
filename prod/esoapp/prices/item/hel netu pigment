@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hel netu pigment",
+    "displayName": "Hel Netu Pigment",
+    "values": {
+      "commonRange": "1,000 - 3,445",
+      "averagePrice": 2307,
+      "minimumPrice": 935,
+      "maximumPrice": 3445,
+      "averageStackPrice": 2307,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Hel_Netu_Pigment.png"
+  }
+]

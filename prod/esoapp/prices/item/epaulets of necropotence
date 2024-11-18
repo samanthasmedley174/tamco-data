@@ -1,0 +1,18 @@
+[
+  {
+    "name": "epaulets of necropotence",
+    "displayName": "Epaulets of Necropotence",
+    "values": {
+      "commonRange": "250 - 2,200",
+      "averagePrice": 1125,
+      "minimumPrice": 144,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1125,
+      "commonStackSize": 1,
+      "salesRecorded": 69
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

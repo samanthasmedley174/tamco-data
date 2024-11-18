@@ -1,0 +1,18 @@
+[
+  {
+    "name": "elsweyr tapestry ruby maroon",
+    "displayName": "Elsweyr Tapestry, Ruby-Maroon",
+    "values": {
+      "commonRange": "1,500 - 1,924",
+      "averagePrice": 1721,
+      "minimumPrice": 1000,
+      "maximumPrice": 2251,
+      "averageStackPrice": 1721,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

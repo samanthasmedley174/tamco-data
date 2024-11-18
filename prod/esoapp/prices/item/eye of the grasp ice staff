@@ -1,0 +1,18 @@
+[
+  {
+    "name": "eye of the grasp ice staff",
+    "displayName": "Eye of the Grasp Ice Staff",
+    "values": {
+      "commonRange": "2,000 - 2,820",
+      "averagePrice": 2820,
+      "minimumPrice": 1500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2820,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fabricant saplings electrum",
+    "displayName": "Fabricant Saplings, Electrum",
+    "values": {
+      "commonRange": "900 - 1,000",
+      "averagePrice": 975,
+      "minimumPrice": 900,
+      "maximumPrice": 1000,
+      "averageStackPrice": 975,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

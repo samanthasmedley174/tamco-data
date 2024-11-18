@@ -1,0 +1,18 @@
+[
+  {
+    "name": "fargrave terrarium flower",
+    "displayName": "Fargrave Terrarium, Flower",
+    "values": {
+      "commonRange": "7,925 - 18,000",
+      "averagePrice": 13465,
+      "minimumPrice": 7024,
+      "maximumPrice": 30300,
+      "averageStackPrice": 13465,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

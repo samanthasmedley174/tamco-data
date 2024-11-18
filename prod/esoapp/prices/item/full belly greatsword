@@ -1,0 +1,18 @@
+[
+  {
+    "name": "full belly greatsword",
+    "displayName": "Full Belly Greatsword",
+    "values": {
+      "commonRange": "246 - 2,921",
+      "averagePrice": 1291,
+      "minimumPrice": 240,
+      "maximumPrice": 4246,
+      "averageStackPrice": 1291,
+      "commonStackSize": 1,
+      "salesRecorded": 45
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

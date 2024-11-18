@@ -1,0 +1,18 @@
+[
+  {
+    "name": "imperial hutch scrollwork",
+    "displayName": "Imperial Hutch, Scrollwork",
+    "values": {
+      "commonRange": "10,000 - 16,300",
+      "averagePrice": 13150,
+      "minimumPrice": 10000,
+      "maximumPrice": 16300,
+      "averageStackPrice": 13150,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Furnishings",
+    "date": "05/28/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

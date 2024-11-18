@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of trinimacs valor",
+    "displayName": "Ice Staff of Trinimac's Valor",
+    "values": {
+      "commonRange": "240 - 10,240",
+      "averagePrice": 5123,
+      "minimumPrice": 240,
+      "maximumPrice": 15000,
+      "averageStackPrice": 5123,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of vicious death",
+    "displayName": "Ice Staff of Vicious Death",
+    "values": {
+      "commonRange": "2,000 - 20,000",
+      "averagePrice": 10422,
+      "minimumPrice": 1000,
+      "maximumPrice": 100246,
+      "averageStackPrice": 10422,
+      "commonStackSize": 1,
+      "salesRecorded": 73
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

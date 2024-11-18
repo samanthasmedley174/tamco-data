@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of the archers mind",
+    "displayName": "Ice Staff of the Archer's Mind",
+    "values": {
+      "commonRange": "100,000 - 100,000",
+      "averagePrice": 100000,
+      "minimumPrice": 100000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 100000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

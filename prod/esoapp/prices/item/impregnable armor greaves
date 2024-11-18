@@ -1,0 +1,18 @@
+[
+  {
+    "name": "impregnable armor greaves",
+    "displayName": "Impregnable Armor Greaves",
+    "values": {
+      "commonRange": "1,174 - 13,562",
+      "averagePrice": 6138,
+      "minimumPrice": 874,
+      "maximumPrice": 14950,
+      "averageStackPrice": 6138,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

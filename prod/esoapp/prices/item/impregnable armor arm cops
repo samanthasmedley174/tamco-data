@@ -1,0 +1,18 @@
+[
+  {
+    "name": "impregnable armor arm cops",
+    "displayName": "Impregnable Armor Arm Cops",
+    "values": {
+      "commonRange": "150 - 2,237",
+      "averagePrice": 1232,
+      "minimumPrice": 96,
+      "maximumPrice": 2250,
+      "averageStackPrice": 1232,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of the fire",
+    "displayName": "Ice Staff of the Fire",
+    "values": {
+      "commonRange": "1,200 - 4,371",
+      "averagePrice": 3362,
+      "minimumPrice": 234,
+      "maximumPrice": 8246,
+      "averageStackPrice": 3362,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

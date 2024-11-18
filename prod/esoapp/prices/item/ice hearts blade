@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice hearts blade",
+    "displayName": "Ice-Heart's Blade",
+    "values": {
+      "commonRange": "1,614 - 3,000",
+      "averagePrice": 2586,
+      "minimumPrice": 228,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2586,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

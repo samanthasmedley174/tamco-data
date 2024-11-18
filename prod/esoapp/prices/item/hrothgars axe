@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hrothgars axe",
+    "displayName": "Hrothgar's Axe",
+    "values": {
+      "commonRange": "993 - 5,000",
+      "averagePrice": 3418,
+      "minimumPrice": 644,
+      "maximumPrice": 8153,
+      "averageStackPrice": 3418,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

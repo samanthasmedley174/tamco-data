@@ -1,0 +1,18 @@
+[
+  {
+    "name": "imperial chest reinforced",
+    "displayName": "Imperial Chest, Reinforced",
+    "values": {
+      "commonRange": "4,000 - 5,000",
+      "averagePrice": 4306,
+      "minimumPrice": 3000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 4306,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

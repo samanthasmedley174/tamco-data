@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of the powerful assault",
+    "displayName": "Ice Staff of the Powerful Assault",
+    "values": {
+      "commonRange": "27,522 - 125,000",
+      "averagePrice": 76955,
+      "minimumPrice": 5096,
+      "maximumPrice": 199000,
+      "averageStackPrice": 76955,
+      "commonStackSize": 1,
+      "salesRecorded": 126
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

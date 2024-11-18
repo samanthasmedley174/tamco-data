@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of the phoenix",
+    "displayName": "Ice Staff of the Phoenix",
+    "values": {
+      "commonRange": "44,000 - 60,000",
+      "averagePrice": 51000,
+      "minimumPrice": 40000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 51000,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

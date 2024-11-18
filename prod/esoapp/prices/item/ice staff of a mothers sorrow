@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of a mothers sorrow",
+    "displayName": "Ice Staff of a Mother's Sorrow",
+    "values": {
+      "commonRange": "1,246 - 25,000",
+      "averagePrice": 9627,
+      "minimumPrice": 340,
+      "maximumPrice": 55000,
+      "averageStackPrice": 9627,
+      "commonStackSize": 1,
+      "salesRecorded": 54
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

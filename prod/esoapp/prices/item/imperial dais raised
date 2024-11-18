@@ -1,0 +1,18 @@
+[
+  {
+    "name": "imperial dais raised",
+    "displayName": "Imperial Dais, Raised",
+    "values": {
+      "commonRange": "20,000 - 29,000",
+      "averagePrice": 26519,
+      "minimumPrice": 9500,
+      "maximumPrice": 40300,
+      "averageStackPrice": 26519,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

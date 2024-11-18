@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of the footman",
+    "displayName": "Ice Staff of the Footman",
+    "values": {
+      "commonRange": "30,000 - 30,000",
+      "averagePrice": 30391,
+      "minimumPrice": 30000,
+      "maximumPrice": 31564,
+      "averageStackPrice": 30391,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

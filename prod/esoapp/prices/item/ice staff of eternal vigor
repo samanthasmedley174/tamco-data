@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of eternal vigor",
+    "displayName": "Ice Staff of Eternal Vigor",
+    "values": {
+      "commonRange": "325 - 2,679",
+      "averagePrice": 2067,
+      "minimumPrice": 249,
+      "maximumPrice": 11000,
+      "averageStackPrice": 2067,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

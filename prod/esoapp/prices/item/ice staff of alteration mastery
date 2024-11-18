@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of alteration mastery",
+    "displayName": "Ice Staff of Alteration Mastery",
+    "values": {
+      "commonRange": "1,246 - 23,456",
+      "averagePrice": 18495,
+      "minimumPrice": 1246,
+      "maximumPrice": 90000,
+      "averageStackPrice": 18495,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "imperial door diamond",
+    "displayName": "Imperial Door, Diamond",
+    "values": {
+      "commonRange": "7,500 - 19,495",
+      "averagePrice": 16541,
+      "minimumPrice": 6000,
+      "maximumPrice": 40150,
+      "averageStackPrice": 16541,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

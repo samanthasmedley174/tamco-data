@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hrothgars gauntlets",
+    "displayName": "Hrothgar's Gauntlets",
+    "values": {
+      "commonRange": "2,222 - 20,000",
+      "averagePrice": 14434,
+      "minimumPrice": 1080,
+      "maximumPrice": 50000,
+      "averageStackPrice": 14434,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

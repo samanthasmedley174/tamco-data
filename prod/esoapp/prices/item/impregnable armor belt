@@ -1,0 +1,18 @@
+[
+  {
+    "name": "impregnable armor belt",
+    "displayName": "Impregnable Armor Belt",
+    "values": {
+      "commonRange": "190 - 6,000",
+      "averagePrice": 2890,
+      "minimumPrice": 187,
+      "maximumPrice": 6414,
+      "averageStackPrice": 2890,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

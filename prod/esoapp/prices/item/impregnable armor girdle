@@ -1,0 +1,18 @@
+[
+  {
+    "name": "impregnable armor girdle",
+    "displayName": "Impregnable Armor Girdle",
+    "values": {
+      "commonRange": "790 - 5,812",
+      "averagePrice": 2455,
+      "minimumPrice": 759,
+      "maximumPrice": 5812,
+      "averageStackPrice": 2455,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

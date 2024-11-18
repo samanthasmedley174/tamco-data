@@ -1,0 +1,18 @@
+[
+  {
+    "name": "idylls of gideon painting wood",
+    "displayName": "Idylls of Gideon Painting, Wood",
+    "values": {
+      "commonRange": "15,090 - 30,000",
+      "averagePrice": 21218,
+      "minimumPrice": 1000,
+      "maximumPrice": 33808,
+      "averageStackPrice": 21218,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

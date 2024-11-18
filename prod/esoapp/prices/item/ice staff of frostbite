@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of frostbite",
+    "displayName": "Ice Staff of Frostbite",
+    "values": {
+      "commonRange": "10,240 - 50,000",
+      "averagePrice": 26385,
+      "minimumPrice": 246,
+      "maximumPrice": 100000,
+      "averageStackPrice": 26385,
+      "commonStackSize": 1,
+      "salesRecorded": 52
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

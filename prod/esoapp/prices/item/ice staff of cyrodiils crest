@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of cyrodiils crest",
+    "displayName": "Ice Staff of Cyrodiil's Crest",
+    "values": {
+      "commonRange": "3,000 - 4,540",
+      "averagePrice": 17130,
+      "minimumPrice": 2000,
+      "maximumPrice": 87240,
+      "averageStackPrice": 17130,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

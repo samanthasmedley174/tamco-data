@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of the arch mage",
+    "displayName": "Ice Staff of the Arch-Mage",
+    "values": {
+      "commonRange": "3,210 - 3,300",
+      "averagePrice": 3328,
+      "minimumPrice": 1986,
+      "maximumPrice": 4999,
+      "averageStackPrice": 3328,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

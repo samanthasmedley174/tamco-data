@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of the swift",
+    "displayName": "Ice Staff of the Swift",
+    "values": {
+      "commonRange": "2,240 - 5,246",
+      "averagePrice": 3889,
+      "minimumPrice": 500,
+      "maximumPrice": 5638,
+      "averageStackPrice": 3889,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of the potentates",
+    "displayName": "Ice Staff of the Potentates",
+    "values": {
+      "commonRange": "6,000 - 55,000",
+      "averagePrice": 35356,
+      "minimumPrice": 4246,
+      "maximumPrice": 400000,
+      "averageStackPrice": 35356,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

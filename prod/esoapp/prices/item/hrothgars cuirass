@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hrothgars cuirass",
+    "displayName": "Hrothgar's Cuirass",
+    "values": {
+      "commonRange": "3,000 - 13,924",
+      "averagePrice": 9285,
+      "minimumPrice": 850,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9285,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

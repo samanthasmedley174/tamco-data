@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of the air",
+    "displayName": "Ice Staff of the Air",
+    "values": {
+      "commonRange": "246 - 3,234",
+      "averagePrice": 1028,
+      "minimumPrice": 240,
+      "maximumPrice": 5234,
+      "averageStackPrice": 1028,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

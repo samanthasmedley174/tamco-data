@@ -1,0 +1,18 @@
+[
+  {
+    "name": "imperial rug arkay",
+    "displayName": "Imperial Rug, Arkay",
+    "values": {
+      "commonRange": "7,000 - 15,000",
+      "averagePrice": 10747,
+      "minimumPrice": 6150,
+      "maximumPrice": 15000,
+      "averageStackPrice": 10747,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishings",
+    "date": "01/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

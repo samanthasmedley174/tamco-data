@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of the valiant",
+    "displayName": "Ice Staff of the Valiant",
+    "values": {
+      "commonRange": "5,000 - 5,000",
+      "averagePrice": 28600,
+      "minimumPrice": 4400,
+      "maximumPrice": 100000,
+      "averageStackPrice": 28600,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

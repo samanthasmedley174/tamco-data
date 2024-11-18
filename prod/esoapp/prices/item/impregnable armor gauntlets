@@ -1,0 +1,18 @@
+[
+  {
+    "name": "impregnable armor gauntlets",
+    "displayName": "Impregnable Armor Gauntlets",
+    "values": {
+      "commonRange": "590 - 5,000",
+      "averagePrice": 3381,
+      "minimumPrice": 287,
+      "maximumPrice": 14980,
+      "averageStackPrice": 3381,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

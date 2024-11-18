@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of unfathomable darkness",
+    "displayName": "Ice Staff of Unfathomable Darkness",
+    "values": {
+      "commonRange": "900 - 6,345",
+      "averagePrice": 5661,
+      "minimumPrice": 500,
+      "maximumPrice": 70000,
+      "averageStackPrice": 5661,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

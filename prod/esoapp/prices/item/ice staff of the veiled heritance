@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of the veiled heritance",
+    "displayName": "Ice Staff of the Veiled Heritance",
+    "values": {
+      "commonRange": "240 - 634",
+      "averagePrice": 519,
+      "minimumPrice": 150,
+      "maximumPrice": 1169,
+      "averageStackPrice": 519,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

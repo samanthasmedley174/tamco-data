@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of beckoning steel",
+    "displayName": "Ice Staff of Beckoning Steel",
+    "values": {
+      "commonRange": "4,999 - 7,240",
+      "averagePrice": 5180,
+      "minimumPrice": 1240,
+      "maximumPrice": 7240,
+      "averageStackPrice": 5180,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

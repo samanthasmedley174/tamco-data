@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of the healer",
+    "displayName": "Ice Staff of the Healer",
+    "values": {
+      "commonRange": "3,240 - 275,799",
+      "averagePrice": 139520,
+      "minimumPrice": 3240,
+      "maximumPrice": 275799,
+      "averageStackPrice": 139520,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

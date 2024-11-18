@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of the shadow walker",
+    "displayName": "Ice Staff of The Shadow Walker",
+    "values": {
+      "commonRange": "7,234 - 10,000",
+      "averagePrice": 8059,
+      "minimumPrice": 5000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 8059,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

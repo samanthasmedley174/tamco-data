@@ -1,0 +1,18 @@
+[
+  {
+    "name": "icehammers frigid maul of stendarr",
+    "displayName": "Icehammer's Frigid Maul of Stendarr",
+    "values": {
+      "commonRange": "1,080 - 1,080",
+      "averagePrice": 1080,
+      "minimumPrice": 1080,
+      "maximumPrice": 1080,
+      "averageStackPrice": 1080,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

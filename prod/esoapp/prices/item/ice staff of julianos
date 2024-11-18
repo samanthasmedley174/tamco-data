@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of julianos",
+    "displayName": "Ice Staff of Julianos",
+    "values": {
+      "commonRange": "2,500 - 5,240",
+      "averagePrice": 19498,
+      "minimumPrice": 999,
+      "maximumPrice": 69252,
+      "averageStackPrice": 19498,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "impregnable armor cuirass",
+    "displayName": "Impregnable Armor Cuirass",
+    "values": {
+      "commonRange": "674 - 4,500",
+      "averagePrice": 3215,
+      "minimumPrice": 144,
+      "maximumPrice": 10183,
+      "averageStackPrice": 3215,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

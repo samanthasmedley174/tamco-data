@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of imperial physique",
+    "displayName": "Ice Staff of Imperial Physique",
+    "values": {
+      "commonRange": "7,000 - 16,999",
+      "averagePrice": 11587,
+      "minimumPrice": 7000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 11587,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

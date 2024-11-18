@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hrothgars ring",
+    "displayName": "Hrothgar's Ring",
+    "values": {
+      "commonRange": "11,153 - 30,000",
+      "averagePrice": 20681,
+      "minimumPrice": 944,
+      "maximumPrice": 32883,
+      "averageStackPrice": 20681,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

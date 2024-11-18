@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hrothgars battle axe",
+    "displayName": "Hrothgar's Battle Axe",
+    "values": {
+      "commonRange": "2,236 - 6,246",
+      "averagePrice": 3852,
+      "minimumPrice": 1545,
+      "maximumPrice": 10246,
+      "averageStackPrice": 3852,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

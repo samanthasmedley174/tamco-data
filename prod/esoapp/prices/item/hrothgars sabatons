@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hrothgars sabatons",
+    "displayName": "Hrothgar's Sabatons",
+    "values": {
+      "commonRange": "1,999 - 33,999",
+      "averagePrice": 14059,
+      "minimumPrice": 300,
+      "maximumPrice": 50000,
+      "averageStackPrice": 14059,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

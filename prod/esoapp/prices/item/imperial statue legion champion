@@ -1,0 +1,18 @@
+[
+  {
+    "name": "imperial statue legion champion",
+    "displayName": "Imperial Statue, Legion Champion",
+    "values": {
+      "commonRange": "28,000 - 36,143",
+      "averagePrice": 33084,
+      "minimumPrice": 28000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 33084,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

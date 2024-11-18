@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hunt wifes beef radish stew",
+    "displayName": "Hunt-Wife's Beef Radish Stew",
+    "values": {
+      "commonRange": "9 - 22",
+      "averagePrice": 30,
+      "minimumPrice": 9,
+      "maximumPrice": 124,
+      "averageStackPrice": 3000,
+      "commonStackSize": 100,
+      "salesRecorded": 7
+    },
+    "type": "Food & Drinks",
+    "date": "09/14/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/hunt-wife's_beef_radish_stew.png"
+  }
+]

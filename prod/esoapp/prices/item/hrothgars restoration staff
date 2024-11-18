@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hrothgars restoration staff",
+    "displayName": "Hrothgar's Restoration Staff",
+    "values": {
+      "commonRange": "999 - 5,446",
+      "averagePrice": 3613,
+      "minimumPrice": 433,
+      "maximumPrice": 10246,
+      "averageStackPrice": 3613,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

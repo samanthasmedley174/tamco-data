@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of hist sap",
+    "displayName": "Ice Staff of Hist Sap",
+    "values": {
+      "commonRange": "680 - 1,350",
+      "averagePrice": 1918,
+      "minimumPrice": 640,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1918,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

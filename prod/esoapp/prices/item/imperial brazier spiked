@@ -1,0 +1,18 @@
+[
+  {
+    "name": "imperial brazier spiked",
+    "displayName": "Imperial Brazier, Spiked",
+    "values": {
+      "commonRange": "400 - 1,162",
+      "averagePrice": 756,
+      "minimumPrice": 300,
+      "maximumPrice": 2069,
+      "averageStackPrice": 756,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

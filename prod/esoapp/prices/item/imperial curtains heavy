@@ -1,0 +1,18 @@
+[
+  {
+    "name": "imperial curtains heavy",
+    "displayName": "Imperial Curtains, Heavy",
+    "values": {
+      "commonRange": "6,525 - 12,500",
+      "averagePrice": 10470,
+      "minimumPrice": 6525,
+      "maximumPrice": 14000,
+      "averageStackPrice": 10470,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

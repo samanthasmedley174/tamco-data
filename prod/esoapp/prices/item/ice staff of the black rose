@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of the black rose",
+    "displayName": "Ice Staff of the Black Rose",
+    "values": {
+      "commonRange": "40,240 - 154,883",
+      "averagePrice": 83001,
+      "minimumPrice": 5000,
+      "maximumPrice": 154883,
+      "averageStackPrice": 83001,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

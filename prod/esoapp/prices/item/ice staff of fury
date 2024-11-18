@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of fury",
+    "displayName": "Ice Staff of Fury",
+    "values": {
+      "commonRange": "1,000 - 7,028",
+      "averagePrice": 5162,
+      "minimumPrice": 1000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 5162,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of kynes kiss",
+    "displayName": "Ice Staff of Kyne's Kiss",
+    "values": {
+      "commonRange": "3,232 - 15,285",
+      "averagePrice": 10817,
+      "minimumPrice": 330,
+      "maximumPrice": 30240,
+      "averageStackPrice": 10817,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

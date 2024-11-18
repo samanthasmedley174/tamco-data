@@ -1,0 +1,18 @@
+[
+  {
+    "name": "iceclaw of the witchman",
+    "displayName": "Iceclaw of the Witchman",
+    "values": {
+      "commonRange": "350 - 542",
+      "averagePrice": 446,
+      "minimumPrice": 350,
+      "maximumPrice": 542,
+      "averageStackPrice": 446,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of vengeance leech",
+    "displayName": "Ice Staff of Vengeance Leech",
+    "values": {
+      "commonRange": "1,234 - 19,000",
+      "averagePrice": 10326,
+      "minimumPrice": 634,
+      "maximumPrice": 19000,
+      "averageStackPrice": 10326,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

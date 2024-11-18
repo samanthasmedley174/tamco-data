@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ice staff of baan dars blessing",
+    "displayName": "Ice Staff of Baan Dar's Blessing",
+    "values": {
+      "commonRange": "1,597 - 5,246",
+      "averagePrice": 3013,
+      "minimumPrice": 999,
+      "maximumPrice": 8240,
+      "averageStackPrice": 3013,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "highland sentinel guards",
+    "displayName": "Highland Sentinel Guards",
+    "values": {
+      "commonRange": "15,000 - 50,000",
+      "averagePrice": 34036,
+      "minimumPrice": 5180,
+      "maximumPrice": 50000,
+      "averageStackPrice": 34036,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

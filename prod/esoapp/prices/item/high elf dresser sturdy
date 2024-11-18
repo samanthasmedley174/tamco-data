@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf dresser sturdy",
+    "displayName": "High Elf Dresser, Sturdy",
+    "values": {
+      "commonRange": "1,000 - 5,000",
+      "averagePrice": 2491,
+      "minimumPrice": 250,
+      "maximumPrice": 9000,
+      "averageStackPrice": 2491,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

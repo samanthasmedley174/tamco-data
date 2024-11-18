@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle walkway straight castle",
+    "displayName": "High Isle Walkway, Straight Castle",
+    "values": {
+      "commonRange": "3,800 - 4,585",
+      "averagePrice": 4206,
+      "minimumPrice": 2000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 4206,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

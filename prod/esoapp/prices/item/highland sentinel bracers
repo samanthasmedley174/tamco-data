@@ -1,0 +1,18 @@
+[
+  {
+    "name": "highland sentinel bracers",
+    "displayName": "Highland Sentinel Bracers",
+    "values": {
+      "commonRange": "50,000 - 50,000",
+      "averagePrice": 36667,
+      "minimumPrice": 10000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 36667,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

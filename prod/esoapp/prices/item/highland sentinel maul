@@ -1,0 +1,18 @@
+[
+  {
+    "name": "highland sentinel maul",
+    "displayName": "Highland Sentinel Maul",
+    "values": {
+      "commonRange": "78,252 - 78,252",
+      "averagePrice": 78835,
+      "minimumPrice": 78252,
+      "maximumPrice": 80000,
+      "averageStackPrice": 78835,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

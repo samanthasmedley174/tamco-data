@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle treasure map iv",
+    "displayName": "High Isle Treasure Map IV",
+    "values": {
+      "commonRange": "400 - 3,700",
+      "averagePrice": 2323,
+      "minimumPrice": 100,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2323,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

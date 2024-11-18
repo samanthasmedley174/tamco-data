@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle platform wooden rectangle",
+    "displayName": "High Isle Platform, Wooden Rectangle",
+    "values": {
+      "commonRange": "1,609 - 5,500",
+      "averagePrice": 3403,
+      "minimumPrice": 1560,
+      "maximumPrice": 6060,
+      "averageStackPrice": 3403,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

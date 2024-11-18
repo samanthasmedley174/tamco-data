@@ -1,0 +1,18 @@
+[
+  {
+    "name": "histmuck blobfin",
+    "displayName": "Histmuck Blobfin",
+    "values": {
+      "commonRange": "100 - 471",
+      "averagePrice": 200,
+      "minimumPrice": 3,
+      "maximumPrice": 471,
+      "averageStackPrice": 2000,
+      "commonStackSize": 10,
+      "salesRecorded": 21
+    },
+    "type": "Fishing",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Histmuck_Blobfin.png"
+  }
+]

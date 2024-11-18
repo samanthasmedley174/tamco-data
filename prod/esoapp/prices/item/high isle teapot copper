@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle teapot copper",
+    "displayName": "High Isle Teapot, Copper",
+    "values": {
+      "commonRange": "12,224 - 16,150",
+      "averagePrice": 13267,
+      "minimumPrice": 4400,
+      "maximumPrice": 16150,
+      "averageStackPrice": 13267,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

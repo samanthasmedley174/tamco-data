@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle table rustic",
+    "displayName": "High Isle Table, Rustic",
+    "values": {
+      "commonRange": "310 - 5,226",
+      "averagePrice": 3898,
+      "minimumPrice": 60,
+      "maximumPrice": 13900,
+      "averageStackPrice": 3898,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

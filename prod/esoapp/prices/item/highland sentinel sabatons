@@ -1,0 +1,18 @@
+[
+  {
+    "name": "highland sentinel sabatons",
+    "displayName": "Highland Sentinel Sabatons",
+    "values": {
+      "commonRange": "79,993 - 79,993",
+      "averagePrice": 79993,
+      "minimumPrice": 79993,
+      "maximumPrice": 79993,
+      "averageStackPrice": 79993,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

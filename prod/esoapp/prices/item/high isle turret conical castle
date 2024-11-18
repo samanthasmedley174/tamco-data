@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle turret conical castle",
+    "displayName": "High Isle Turret, Conical Castle",
+    "values": {
+      "commonRange": "8,333 - 13,000",
+      "averagePrice": 10915,
+      "minimumPrice": 5000,
+      "maximumPrice": 14300,
+      "averageStackPrice": 10915,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

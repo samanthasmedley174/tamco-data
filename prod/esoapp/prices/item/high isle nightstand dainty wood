@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle nightstand dainty wood",
+    "displayName": "High Isle Nightstand, Dainty Wood",
+    "values": {
+      "commonRange": "1,393 - 4,350",
+      "averagePrice": 3507,
+      "minimumPrice": 460,
+      "maximumPrice": 10000,
+      "averageStackPrice": 3507,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/14/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

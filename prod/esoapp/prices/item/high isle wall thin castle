@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle wall thin castle",
+    "displayName": "High Isle Wall, Thin Castle",
+    "values": {
+      "commonRange": "1,999 - 3,075",
+      "averagePrice": 3761,
+      "minimumPrice": 1435,
+      "maximumPrice": 16469,
+      "averageStackPrice": 3761,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

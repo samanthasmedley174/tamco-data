@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu bench polished",
+    "displayName": "Hlaalu Bench, Polished",
+    "values": {
+      "commonRange": "4,000 - 7,502",
+      "averagePrice": 5631,
+      "minimumPrice": 2000,
+      "maximumPrice": 7925,
+      "averageStackPrice": 5631,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

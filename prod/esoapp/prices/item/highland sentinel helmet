@@ -1,0 +1,18 @@
+[
+  {
+    "name": "highland sentinel helmet",
+    "displayName": "Highland Sentinel Helmet",
+    "values": {
+      "commonRange": "10,000 - 40,000",
+      "averagePrice": 25000,
+      "minimumPrice": 10000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 25000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

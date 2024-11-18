@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle nightstand wood",
+    "displayName": "High Isle Nightstand, Wood",
+    "values": {
+      "commonRange": "5,150 - 9,200",
+      "averagePrice": 8105,
+      "minimumPrice": 4000,
+      "maximumPrice": 18990,
+      "averageStackPrice": 8105,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "01/17/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

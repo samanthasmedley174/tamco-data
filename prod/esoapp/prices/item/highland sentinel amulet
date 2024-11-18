@@ -1,0 +1,18 @@
+[
+  {
+    "name": "highland sentinel amulet",
+    "displayName": "Highland Sentinel Amulet",
+    "values": {
+      "commonRange": "20,150 - 154,156",
+      "averagePrice": 73344,
+      "minimumPrice": 19150,
+      "maximumPrice": 160000,
+      "averageStackPrice": 73344,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

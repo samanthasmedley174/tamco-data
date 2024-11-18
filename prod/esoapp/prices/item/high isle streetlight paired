@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle streetlight paired",
+    "displayName": "High Isle Streetlight, Paired",
+    "values": {
+      "commonRange": "3,150 - 18,000",
+      "averagePrice": 7918,
+      "minimumPrice": 900,
+      "maximumPrice": 18000,
+      "averageStackPrice": 15836,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

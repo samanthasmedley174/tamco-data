@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf tapestry rustic",
+    "displayName": "High Elf Tapestry, Rustic",
+    "values": {
+      "commonRange": "89 - 2,200",
+      "averagePrice": 1689,
+      "minimumPrice": 60,
+      "maximumPrice": 8160,
+      "averageStackPrice": 1689,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle table ornate",
+    "displayName": "High Isle Table, Ornate",
+    "values": {
+      "commonRange": "4,400 - 6,403",
+      "averagePrice": 6357,
+      "minimumPrice": 3500,
+      "maximumPrice": 14150,
+      "averageStackPrice": 6357,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

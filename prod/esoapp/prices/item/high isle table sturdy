@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle table sturdy",
+    "displayName": "High Isle Table, Sturdy",
+    "values": {
+      "commonRange": "4,000 - 6,928",
+      "averagePrice": 6038,
+      "minimumPrice": 3636,
+      "maximumPrice": 6928,
+      "averageStackPrice": 6038,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

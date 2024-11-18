@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf desk regal winged",
+    "displayName": "High Elf Desk, Regal Winged",
+    "values": {
+      "commonRange": "4,830 - 8,800",
+      "averagePrice": 6688,
+      "minimumPrice": 2000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6688,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/15/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

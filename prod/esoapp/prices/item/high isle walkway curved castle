@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle walkway curved castle",
+    "displayName": "High Isle Walkway, Curved Castle",
+    "values": {
+      "commonRange": "3,200 - 5,434",
+      "averagePrice": 3547,
+      "minimumPrice": 2000,
+      "maximumPrice": 5434,
+      "averageStackPrice": 3547,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

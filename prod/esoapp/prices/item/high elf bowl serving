@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf bowl serving",
+    "displayName": "High Elf Bowl, Serving",
+    "values": {
+      "commonRange": "550 - 5,000",
+      "averagePrice": 2523,
+      "minimumPrice": 500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2523,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

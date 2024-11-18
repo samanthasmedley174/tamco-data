@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle bed canopy full",
+    "displayName": "High Isle Bed, Canopy Full",
+    "values": {
+      "commonRange": "550 - 7,582",
+      "averagePrice": 4688,
+      "minimumPrice": 550,
+      "maximumPrice": 8800,
+      "averageStackPrice": 4688,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

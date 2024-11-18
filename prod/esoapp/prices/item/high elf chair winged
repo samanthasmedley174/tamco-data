@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf chair winged",
+    "displayName": "High Elf Chair, Winged",
+    "values": {
+      "commonRange": "2,000 - 7,225",
+      "averagePrice": 3925,
+      "minimumPrice": 425,
+      "maximumPrice": 7700,
+      "averageStackPrice": 3925,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle crab steamed pile",
+    "displayName": "High Isle Crab, Steamed Pile",
+    "values": {
+      "commonRange": "4,300 - 7,900",
+      "averagePrice": 5158,
+      "minimumPrice": 1000,
+      "maximumPrice": 8900,
+      "averageStackPrice": 5158,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

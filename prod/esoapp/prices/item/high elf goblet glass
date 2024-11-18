@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf goblet glass",
+    "displayName": "High Elf Goblet, Glass",
+    "values": {
+      "commonRange": "1,500 - 5,199",
+      "averagePrice": 3584,
+      "minimumPrice": 1000,
+      "maximumPrice": 8940,
+      "averageStackPrice": 7168,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

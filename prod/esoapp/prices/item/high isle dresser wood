@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle dresser wood",
+    "displayName": "High Isle Dresser, Wood",
+    "values": {
+      "commonRange": "7,500 - 40,000",
+      "averagePrice": 21233,
+      "minimumPrice": 7300,
+      "maximumPrice": 40000,
+      "averageStackPrice": 21233,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Furnishings",
+    "date": "01/17/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

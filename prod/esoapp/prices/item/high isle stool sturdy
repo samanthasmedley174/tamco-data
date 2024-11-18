@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle stool sturdy",
+    "displayName": "High Isle Stool, Sturdy",
+    "values": {
+      "commonRange": "3,814 - 5,250",
+      "averagePrice": 4124,
+      "minimumPrice": 150,
+      "maximumPrice": 6000,
+      "averageStackPrice": 4124,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "11/15/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

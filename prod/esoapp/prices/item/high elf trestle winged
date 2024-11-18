@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf trestle winged",
+    "displayName": "High Elf Trestle, Winged",
+    "values": {
+      "commonRange": "4,500 - 7,700",
+      "averagePrice": 6200,
+      "minimumPrice": 3000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 6200,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Furnishings",
+    "date": "07/13/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

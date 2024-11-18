@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle counter rustic",
+    "displayName": "High Isle Counter, Rustic",
+    "values": {
+      "commonRange": "1,296 - 4,000",
+      "averagePrice": 2668,
+      "minimumPrice": 60,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2668,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

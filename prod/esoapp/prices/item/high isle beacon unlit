@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle beacon unlit",
+    "displayName": "High Isle Beacon, Unlit",
+    "values": {
+      "commonRange": "13,000 - 19,437",
+      "averagePrice": 16835,
+      "minimumPrice": 12000,
+      "maximumPrice": 22146,
+      "averageStackPrice": 16835,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

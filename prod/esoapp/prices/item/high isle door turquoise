@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle door turquoise",
+    "displayName": "High Isle Door, Turquoise",
+    "values": {
+      "commonRange": "4,000 - 5,434",
+      "averagePrice": 4865,
+      "minimumPrice": 2150,
+      "maximumPrice": 7859,
+      "averageStackPrice": 4865,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

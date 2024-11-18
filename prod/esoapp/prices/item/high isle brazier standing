@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle brazier standing",
+    "displayName": "High Isle Brazier, Standing",
+    "values": {
+      "commonRange": "800 - 2,564",
+      "averagePrice": 1980,
+      "minimumPrice": 200,
+      "maximumPrice": 5000,
+      "averageStackPrice": 3960,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

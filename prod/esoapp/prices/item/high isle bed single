@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle bed single",
+    "displayName": "High Isle Bed, Single",
+    "values": {
+      "commonRange": "210 - 4,060",
+      "averagePrice": 2225,
+      "minimumPrice": 60,
+      "maximumPrice": 4060,
+      "averageStackPrice": 2225,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

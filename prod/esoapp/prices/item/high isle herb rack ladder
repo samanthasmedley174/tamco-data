@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle herb rack ladder",
+    "displayName": "High Isle Herb Rack, Ladder",
+    "values": {
+      "commonRange": "8,000 - 15,000",
+      "averagePrice": 11438,
+      "minimumPrice": 3000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 11438,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

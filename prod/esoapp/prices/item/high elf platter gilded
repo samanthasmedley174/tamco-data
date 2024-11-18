@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf platter gilded",
+    "displayName": "High Elf Platter, Gilded",
+    "values": {
+      "commonRange": "150 - 2,000",
+      "averagePrice": 980,
+      "minimumPrice": 100,
+      "maximumPrice": 2000,
+      "averageStackPrice": 980,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

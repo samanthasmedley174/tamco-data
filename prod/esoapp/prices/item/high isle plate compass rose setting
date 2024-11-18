@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle plate compass rose setting",
+    "displayName": "High Isle Plate, Compass Rose Setting",
+    "values": {
+      "commonRange": "4,500 - 5,000",
+      "averagePrice": 5231,
+      "minimumPrice": 4000,
+      "maximumPrice": 11816,
+      "averageStackPrice": 5231,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf wagon sturdy",
+    "displayName": "High Elf Wagon, Sturdy",
+    "values": {
+      "commonRange": "1,000 - 4,150",
+      "averagePrice": 2283,
+      "minimumPrice": 170,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2283,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/26/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

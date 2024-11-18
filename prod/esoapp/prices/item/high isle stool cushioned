@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle stool cushioned",
+    "displayName": "High Isle Stool, Cushioned",
+    "values": {
+      "commonRange": "2,500 - 10,000",
+      "averagePrice": 4403,
+      "minimumPrice": 300,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4403,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

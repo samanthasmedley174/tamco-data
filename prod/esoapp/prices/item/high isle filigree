@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle filigree",
+    "displayName": "High Isle Filigree",
+    "values": {
+      "commonRange": "129 - 500",
+      "averagePrice": 311,
+      "minimumPrice": 3,
+      "maximumPrice": 500,
+      "averageStackPrice": 3110,
+      "commonStackSize": 10,
+      "salesRecorded": 11
+    },
+    "type": "Style Materials",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/High_Isle_Filigree.png"
+  }
+]

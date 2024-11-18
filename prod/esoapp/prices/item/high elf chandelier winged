@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf chandelier winged",
+    "displayName": "High Elf Chandelier, Winged",
+    "values": {
+      "commonRange": "5,000 - 6,500",
+      "averagePrice": 6367,
+      "minimumPrice": 1000,
+      "maximumPrice": 19300,
+      "averageStackPrice": 6367,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

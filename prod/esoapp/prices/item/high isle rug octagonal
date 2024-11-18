@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle rug octagonal",
+    "displayName": "High Isle Rug, Octagonal",
+    "values": {
+      "commonRange": "1,060 - 6,169",
+      "averagePrice": 4378,
+      "minimumPrice": 610,
+      "maximumPrice": 6169,
+      "averageStackPrice": 4378,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

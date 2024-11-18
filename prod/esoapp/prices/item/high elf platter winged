@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf platter winged",
+    "displayName": "High Elf Platter, Winged",
+    "values": {
+      "commonRange": "500 - 6,300",
+      "averagePrice": 3657,
+      "minimumPrice": 300,
+      "maximumPrice": 10470,
+      "averageStackPrice": 3657,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

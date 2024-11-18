@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf candelabra winged",
+    "displayName": "High Elf Candelabra, Winged",
+    "values": {
+      "commonRange": "1,300 - 3,500",
+      "averagePrice": 2342,
+      "minimumPrice": 500,
+      "maximumPrice": 3769,
+      "averageStackPrice": 2342,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

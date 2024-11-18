@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle table compass rose",
+    "displayName": "High Isle Table, Compass Rose",
+    "values": {
+      "commonRange": "13,000 - 27,990",
+      "averagePrice": 18618,
+      "minimumPrice": 12577,
+      "maximumPrice": 27990,
+      "averageStackPrice": 18618,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

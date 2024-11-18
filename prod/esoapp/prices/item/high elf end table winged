@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf end table winged",
+    "displayName": "High Elf End Table, Winged",
+    "values": {
+      "commonRange": "1,300 - 11,750",
+      "averagePrice": 7507,
+      "minimumPrice": 1300,
+      "maximumPrice": 11750,
+      "averageStackPrice": 7507,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Furnishings",
+    "date": "01/03/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

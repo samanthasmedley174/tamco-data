@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle window turquoise",
+    "displayName": "High Isle Window, Turquoise",
+    "values": {
+      "commonRange": "2,800 - 4,268",
+      "averagePrice": 3466,
+      "minimumPrice": 2000,
+      "maximumPrice": 5376,
+      "averageStackPrice": 3466,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

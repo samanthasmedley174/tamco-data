@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu amphora sealed orichalcum",
+    "displayName": "Hlaalu Amphora, Sealed Orichalcum",
+    "values": {
+      "commonRange": "2,750 - 7,000",
+      "averagePrice": 4899,
+      "minimumPrice": 2200,
+      "maximumPrice": 11050,
+      "averageStackPrice": 4899,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/29/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

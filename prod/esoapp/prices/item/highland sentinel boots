@@ -1,0 +1,18 @@
+[
+  {
+    "name": "highland sentinel boots",
+    "displayName": "Highland Sentinel Boots",
+    "values": {
+      "commonRange": "40,000 - 50,000",
+      "averagePrice": 37500,
+      "minimumPrice": 10000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 37500,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

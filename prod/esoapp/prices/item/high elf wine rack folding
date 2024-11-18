@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf wine rack folding",
+    "displayName": "High Elf Wine Rack, Folding",
+    "values": {
+      "commonRange": "2,800 - 5,000",
+      "averagePrice": 4112,
+      "minimumPrice": 2000,
+      "maximumPrice": 9150,
+      "averageStackPrice": 4112,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/18/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

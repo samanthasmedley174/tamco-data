@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle carpet ballroom",
+    "displayName": "High Isle Carpet, Ballroom",
+    "values": {
+      "commonRange": "6,000 - 6,692",
+      "averagePrice": 6449,
+      "minimumPrice": 6000,
+      "maximumPrice": 6692,
+      "averageStackPrice": 6449,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

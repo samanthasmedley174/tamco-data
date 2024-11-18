@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu bed single pillow",
+    "displayName": "Hlaalu Bed, Single Pillow",
+    "values": {
+      "commonRange": "4,200 - 6,000",
+      "averagePrice": 5110,
+      "minimumPrice": 3250,
+      "maximumPrice": 6000,
+      "averageStackPrice": 5110,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

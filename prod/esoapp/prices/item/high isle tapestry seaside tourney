@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high isle tapestry seaside tourney",
+    "displayName": "High Isle Tapestry, Seaside Tourney",
+    "values": {
+      "commonRange": "14,675 - 25,000",
+      "averagePrice": 19571,
+      "minimumPrice": 14000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 19571,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

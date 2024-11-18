@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf flask gilded",
+    "displayName": "High Elf Flask, Gilded",
+    "values": {
+      "commonRange": "273 - 600",
+      "averagePrice": 490,
+      "minimumPrice": 273,
+      "maximumPrice": 800,
+      "averageStackPrice": 490,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

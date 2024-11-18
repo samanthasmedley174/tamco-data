@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf crest winged",
+    "displayName": "High Elf Crest, Winged",
+    "values": {
+      "commonRange": "4,850 - 10,360",
+      "averagePrice": 7706,
+      "minimumPrice": 4850,
+      "maximumPrice": 11300,
+      "averageStackPrice": 7706,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

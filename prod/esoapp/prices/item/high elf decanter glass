@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf decanter glass",
+    "displayName": "High Elf Decanter, Glass",
+    "values": {
+      "commonRange": "5,000 - 8,932",
+      "averagePrice": 7047,
+      "minimumPrice": 4000,
+      "maximumPrice": 13900,
+      "averageStackPrice": 7047,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

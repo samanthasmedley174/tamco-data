@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf lamppost stone",
+    "displayName": "High Elf Lamppost, Stone",
+    "values": {
+      "commonRange": "517 - 1,811",
+      "averagePrice": 1393,
+      "minimumPrice": 300,
+      "maximumPrice": 2709,
+      "averageStackPrice": 1393,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

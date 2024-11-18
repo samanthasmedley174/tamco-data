@@ -1,0 +1,18 @@
+[
+  {
+    "name": "high elf carpet rustic",
+    "displayName": "High Elf Carpet, Rustic",
+    "values": {
+      "commonRange": "710 - 7,070",
+      "averagePrice": 2675,
+      "minimumPrice": 700,
+      "maximumPrice": 7670,
+      "averageStackPrice": 2675,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

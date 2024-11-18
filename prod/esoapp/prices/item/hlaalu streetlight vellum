@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu streetlight vellum",
+    "displayName": "Hlaalu Streetlight, Vellum",
+    "values": {
+      "commonRange": "3,000 - 6,271",
+      "averagePrice": 6277,
+      "minimumPrice": 500,
+      "maximumPrice": 22000,
+      "averageStackPrice": 6277,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

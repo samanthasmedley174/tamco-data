@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hovel rock",
+    "displayName": "Hovel, Rock",
+    "values": {
+      "commonRange": "1,750 - 5,500",
+      "averagePrice": 3784,
+      "minimumPrice": 1000,
+      "maximumPrice": 5500,
+      "averageStackPrice": 3784,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

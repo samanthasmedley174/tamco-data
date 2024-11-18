@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu lantern hanging paper",
+    "displayName": "Hlaalu Lantern, Hanging Paper",
+    "values": {
+      "commonRange": "1,100 - 5,231",
+      "averagePrice": 2806,
+      "minimumPrice": 1000,
+      "maximumPrice": 8231,
+      "averageStackPrice": 2806,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/16/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

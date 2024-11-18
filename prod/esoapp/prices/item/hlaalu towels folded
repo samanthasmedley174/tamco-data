@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu towels folded",
+    "displayName": "Hlaalu Towels, Folded",
+    "values": {
+      "commonRange": "3,000 - 10,150",
+      "averagePrice": 5235,
+      "minimumPrice": 2666,
+      "maximumPrice": 10950,
+      "averageStackPrice": 5235,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

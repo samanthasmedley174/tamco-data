@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu chest secure",
+    "displayName": "Hlaalu Chest, Secure",
+    "values": {
+      "commonRange": "5,000 - 39,300",
+      "averagePrice": 15783,
+      "minimumPrice": 4000,
+      "maximumPrice": 39300,
+      "averageStackPrice": 15783,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

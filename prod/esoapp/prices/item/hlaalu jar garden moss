@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu jar garden moss",
+    "displayName": "Hlaalu Jar, Garden Moss",
+    "values": {
+      "commonRange": "2,950 - 9,000",
+      "averagePrice": 6049,
+      "minimumPrice": 1650,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6049,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

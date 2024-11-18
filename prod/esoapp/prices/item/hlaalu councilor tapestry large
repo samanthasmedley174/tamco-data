@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu councilor tapestry large",
+    "displayName": "Hlaalu Councilor Tapestry, Large",
+    "values": {
+      "commonRange": "9,900 - 24,031",
+      "averagePrice": 24760,
+      "minimumPrice": 5000,
+      "maximumPrice": 99999,
+      "averageStackPrice": 24760,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

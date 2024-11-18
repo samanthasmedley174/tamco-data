@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu censer mesh",
+    "displayName": "Hlaalu Censer, Mesh",
+    "values": {
+      "commonRange": "5,999 - 12,000",
+      "averagePrice": 9636,
+      "minimumPrice": 2000,
+      "maximumPrice": 16300,
+      "averageStackPrice": 9636,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/29/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

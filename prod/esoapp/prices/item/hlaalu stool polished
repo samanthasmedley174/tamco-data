@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu stool polished",
+    "displayName": "Hlaalu Stool, Polished",
+    "values": {
+      "commonRange": "1,200 - 7,450",
+      "averagePrice": 3226,
+      "minimumPrice": 1060,
+      "maximumPrice": 8950,
+      "averageStackPrice": 6452,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/06/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

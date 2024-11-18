@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hourglass common",
+    "displayName": "Hourglass, Common",
+    "values": {
+      "commonRange": "5,500 - 6,000",
+      "averagePrice": 5720,
+      "minimumPrice": 5300,
+      "maximumPrice": 6000,
+      "averageStackPrice": 5720,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

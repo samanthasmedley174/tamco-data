@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu wall post sillar stone",
+    "displayName": "Hlaalu Wall Post, Sillar Stone",
+    "values": {
+      "commonRange": "460 - 3,060",
+      "averagePrice": 1539,
+      "minimumPrice": 60,
+      "maximumPrice": 4000,
+      "averageStackPrice": 6156,
+      "commonStackSize": 4,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/16/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

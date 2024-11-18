@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu carpet garden moss",
+    "displayName": "Hlaalu Carpet, Garden Moss",
+    "values": {
+      "commonRange": "3,000 - 6,000",
+      "averagePrice": 5377,
+      "minimumPrice": 2800,
+      "maximumPrice": 6000,
+      "averageStackPrice": 5377,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

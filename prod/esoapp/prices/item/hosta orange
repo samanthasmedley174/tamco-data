@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hosta orange",
+    "displayName": "Hosta, Orange",
+    "values": {
+      "commonRange": "2,500 - 5,988",
+      "averagePrice": 3917,
+      "minimumPrice": 852,
+      "maximumPrice": 6925,
+      "averageStackPrice": 3917,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

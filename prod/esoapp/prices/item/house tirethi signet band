@@ -1,0 +1,18 @@
+[
+  {
+    "name": "house tirethi signet band",
+    "displayName": "House Tirethi Signet Band",
+    "values": {
+      "commonRange": "241 - 241",
+      "averagePrice": 241,
+      "minimumPrice": 241,
+      "maximumPrice": 241,
+      "averageStackPrice": 241,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu sidewalk sillar stone",
+    "displayName": "Hlaalu Sidewalk, Sillar Stone",
+    "values": {
+      "commonRange": "1,666 - 5,000",
+      "averagePrice": 4135,
+      "minimumPrice": 1000,
+      "maximumPrice": 11000,
+      "averageStackPrice": 24810,
+      "commonStackSize": 6,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

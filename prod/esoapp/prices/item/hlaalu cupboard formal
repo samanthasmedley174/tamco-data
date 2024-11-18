@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu cupboard formal",
+    "displayName": "Hlaalu Cupboard, Formal",
+    "values": {
+      "commonRange": "4,000 - 9,000",
+      "averagePrice": 6795,
+      "minimumPrice": 2300,
+      "maximumPrice": 11050,
+      "averageStackPrice": 6795,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/23/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

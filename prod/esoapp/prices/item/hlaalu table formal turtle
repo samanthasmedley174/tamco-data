@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu table formal turtle",
+    "displayName": "Hlaalu Table, Formal Turtle",
+    "values": {
+      "commonRange": "4,000 - 14,000",
+      "averagePrice": 9321,
+      "minimumPrice": 3300,
+      "maximumPrice": 16990,
+      "averageStackPrice": 9321,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

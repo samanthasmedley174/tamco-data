@@ -1,0 +1,18 @@
+[
+  {
+    "name": "honing stone",
+    "displayName": "Honing Stone",
+    "values": {
+      "commonRange": "6 - 100",
+      "averagePrice": 36,
+      "minimumPrice": 5,
+      "maximumPrice": 171,
+      "averageStackPrice": 7200,
+      "commonStackSize": 200,
+      "salesRecorded": 60
+    },
+    "type": "Blacksmithing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu traders belt",
+    "displayName": "Hlaalu Trader's Belt",
+    "values": {
+      "commonRange": "73 - 73",
+      "averagePrice": 73,
+      "minimumPrice": 73,
+      "maximumPrice": 73,
+      "averageStackPrice": 73,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

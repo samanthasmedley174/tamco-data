@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu settee mossy cushion",
+    "displayName": "Hlaalu Settee, Mossy Cushion",
+    "values": {
+      "commonRange": "2,500 - 16,300",
+      "averagePrice": 7045,
+      "minimumPrice": 750,
+      "maximumPrice": 16300,
+      "averageStackPrice": 7045,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

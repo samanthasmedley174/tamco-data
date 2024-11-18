@@ -1,0 +1,18 @@
+[
+  {
+    "name": "honors fang",
+    "displayName": "Honor's Fang",
+    "values": {
+      "commonRange": "555 - 1,500",
+      "averagePrice": 864,
+      "minimumPrice": 341,
+      "maximumPrice": 1738,
+      "averageStackPrice": 864,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

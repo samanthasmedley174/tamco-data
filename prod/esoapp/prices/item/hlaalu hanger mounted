@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu hanger mounted",
+    "displayName": "Hlaalu Hanger, Mounted",
+    "values": {
+      "commonRange": "500 - 3,000",
+      "averagePrice": 1548,
+      "minimumPrice": 20,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1548,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

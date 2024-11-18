@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu well braced sillar stone",
+    "displayName": "Hlaalu Well, Braced Sillar Stone",
+    "values": {
+      "commonRange": "6,000 - 30,150",
+      "averagePrice": 16205,
+      "minimumPrice": 5705,
+      "maximumPrice": 50000,
+      "averageStackPrice": 16205,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "03/26/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

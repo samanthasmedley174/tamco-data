@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu desk scholars",
+    "displayName": "Hlaalu Desk, Scholar's",
+    "values": {
+      "commonRange": "5,000 - 11,050",
+      "averagePrice": 9194,
+      "minimumPrice": 3333,
+      "maximumPrice": 22300,
+      "averageStackPrice": 9194,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/02/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

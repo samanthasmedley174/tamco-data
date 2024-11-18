@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu salt lamp enchanted",
+    "displayName": "Hlaalu Salt Lamp, Enchanted",
+    "values": {
+      "commonRange": "17,800 - 20,675",
+      "averagePrice": 19296,
+      "minimumPrice": 15968,
+      "maximumPrice": 23675,
+      "averageStackPrice": 19296,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

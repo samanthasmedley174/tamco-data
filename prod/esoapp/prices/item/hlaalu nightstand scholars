@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu nightstand scholars",
+    "displayName": "Hlaalu Nightstand, Scholar's",
+    "values": {
+      "commonRange": "4,000 - 12,000",
+      "averagePrice": 8435,
+      "minimumPrice": 2000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 8435,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/10/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

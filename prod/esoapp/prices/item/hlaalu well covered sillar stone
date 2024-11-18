@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu well covered sillar stone",
+    "displayName": "Hlaalu Well, Covered Sillar Stone",
+    "values": {
+      "commonRange": "9,999 - 25,000",
+      "averagePrice": 18417,
+      "minimumPrice": 3500,
+      "maximumPrice": 30000,
+      "averageStackPrice": 18417,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Furnishings",
+    "date": "05/25/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "honors guardian",
+    "displayName": "Honor's Guardian",
+    "values": {
+      "commonRange": "500 - 740",
+      "averagePrice": 600,
+      "minimumPrice": 180,
+      "maximumPrice": 980,
+      "averageStackPrice": 600,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

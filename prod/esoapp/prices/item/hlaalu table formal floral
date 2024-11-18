@@ -1,0 +1,18 @@
+[
+  {
+    "name": "hlaalu table formal floral",
+    "displayName": "Hlaalu Table, Formal Floral",
+    "values": {
+      "commonRange": "5,500 - 11,050",
+      "averagePrice": 8225,
+      "minimumPrice": 5000,
+      "maximumPrice": 12900,
+      "averageStackPrice": 8225,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

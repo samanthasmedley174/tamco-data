@@ -1,0 +1,18 @@
+[
+  {
+    "name": "honey pot open",
+    "displayName": "Honey Pot, Open",
+    "values": {
+      "commonRange": "1,700 - 8,800",
+      "averagePrice": 4758,
+      "minimumPrice": 1650,
+      "maximumPrice": 16000,
+      "averageStackPrice": 4758,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

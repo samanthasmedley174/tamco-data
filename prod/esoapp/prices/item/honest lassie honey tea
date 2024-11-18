@@ -1,0 +1,18 @@
+[
+  {
+    "name": "honest lassie honey tea",
+    "displayName": "Honest Lassie Honey Tea",
+    "values": {
+      "commonRange": "15 - 25",
+      "averagePrice": 19,
+      "minimumPrice": 6,
+      "maximumPrice": 35,
+      "averageStackPrice": 1900,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "06/04/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/honest_lassie_honey_tea.png"
+  }
+]

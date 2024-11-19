@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of the shadow walker",
+    "displayName": "Mace of The Shadow Walker",
+    "values": {
+      "commonRange": "3,999 - 3,999",
+      "averagePrice": 4000,
+      "minimumPrice": 2000,
+      "maximumPrice": 6000,
+      "averageStackPrice": 4000,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

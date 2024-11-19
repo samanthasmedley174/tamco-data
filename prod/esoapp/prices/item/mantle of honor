@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mantle of honor",
+    "displayName": "Mantle of Honor",
+    "values": {
+      "commonRange": "1,000 - 1,140",
+      "averagePrice": 1070,
+      "minimumPrice": 1000,
+      "maximumPrice": 1140,
+      "averageStackPrice": 1070,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

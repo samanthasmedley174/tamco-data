@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the fallen comrade",
+    "displayName": "Maul of the Fallen Comrade",
+    "values": {
+      "commonRange": "940 - 5,000",
+      "averagePrice": 2970,
+      "minimumPrice": 940,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2970,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

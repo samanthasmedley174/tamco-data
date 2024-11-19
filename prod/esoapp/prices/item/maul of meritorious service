@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of meritorious service",
+    "displayName": "Maul of Meritorious Service",
+    "values": {
+      "commonRange": "9,999 - 9,999",
+      "averagePrice": 11806,
+      "minimumPrice": 5000,
+      "maximumPrice": 20420,
+      "averageStackPrice": 11806,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

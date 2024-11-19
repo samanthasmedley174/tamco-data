@@ -1,0 +1,18 @@
+[
+  {
+    "name": "meadow study painting unfinished",
+    "displayName": "Meadow Study Painting, Unfinished",
+    "values": {
+      "commonRange": "10,000 - 35,000",
+      "averagePrice": 24110,
+      "minimumPrice": 9000,
+      "maximumPrice": 49241,
+      "averageStackPrice": 24110,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

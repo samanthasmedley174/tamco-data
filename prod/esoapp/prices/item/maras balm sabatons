@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maras balm sabatons",
+    "displayName": "Mara's Balm Sabatons",
+    "values": {
+      "commonRange": "3,000 - 10,090",
+      "averagePrice": 6890,
+      "minimumPrice": 1000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 6890,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

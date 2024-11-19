@@ -1,0 +1,18 @@
+[
+  {
+    "name": "merethic restorative resin",
+    "displayName": "Merethic Restorative Resin",
+    "values": {
+      "commonRange": "1,000 - 3,000",
+      "averagePrice": 2389,
+      "minimumPrice": 500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2389,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Miscellaneous",
+    "date": "06/01/2021",
+    "image": "https://data.tamrielsavings.com/D/Miscellaneous/Merethic_Restorative_Resin.png"
+  }
+]

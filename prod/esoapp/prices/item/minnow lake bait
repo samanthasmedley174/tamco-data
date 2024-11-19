@@ -1,0 +1,18 @@
+[
+  {
+    "name": "minnow lake bait",
+    "displayName": "Minnow, Lake Bait",
+    "values": {
+      "commonRange": "32 - 200",
+      "averagePrice": 94,
+      "minimumPrice": 3,
+      "maximumPrice": 200,
+      "averageStackPrice": 18800,
+      "commonStackSize": 200,
+      "salesRecorded": 16
+    },
+    "type": "Fishing",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Minnow,_Lake_Bait.png"
+  }
+]

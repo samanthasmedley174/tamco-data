@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the storm knight",
+    "displayName": "Maul of the Storm Knight",
+    "values": {
+      "commonRange": "234 - 2,200",
+      "averagePrice": 822,
+      "minimumPrice": 234,
+      "maximumPrice": 2500,
+      "averageStackPrice": 822,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

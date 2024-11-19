@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mammoth grass patch",
+    "displayName": "Mammoth Grass, Patch",
+    "values": {
+      "commonRange": "1,213 - 1,433",
+      "averagePrice": 1319,
+      "minimumPrice": 500,
+      "maximumPrice": 1450,
+      "averageStackPrice": 1319,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

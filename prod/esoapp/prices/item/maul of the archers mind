@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the archers mind",
+    "displayName": "Maul of the Archer's Mind",
+    "values": {
+      "commonRange": "50,000 - 99,240",
+      "averagePrice": 79134,
+      "minimumPrice": 35000,
+      "maximumPrice": 164848,
+      "averageStackPrice": 79134,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

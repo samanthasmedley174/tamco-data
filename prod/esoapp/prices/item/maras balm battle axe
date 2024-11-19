@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maras balm battle axe",
+    "displayName": "Mara's Balm Battle Axe",
+    "values": {
+      "commonRange": "1,240 - 10,246",
+      "averagePrice": 4678,
+      "minimumPrice": 550,
+      "maximumPrice": 10246,
+      "averageStackPrice": 4678,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

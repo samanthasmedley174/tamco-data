@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the ranger",
+    "displayName": "Maul of the Ranger",
+    "values": {
+      "commonRange": "240 - 1,169",
+      "averagePrice": 702,
+      "minimumPrice": 234,
+      "maximumPrice": 1500,
+      "averageStackPrice": 702,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

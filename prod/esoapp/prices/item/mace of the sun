@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of the sun",
+    "displayName": "Mace of the Sun",
+    "values": {
+      "commonRange": "350 - 1,500",
+      "averagePrice": 814,
+      "minimumPrice": 344,
+      "maximumPrice": 2000,
+      "averageStackPrice": 814,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

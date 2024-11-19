@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mad tinkerers ring",
+    "displayName": "Mad Tinkerer's Ring",
+    "values": {
+      "commonRange": "144 - 1,441",
+      "averagePrice": 846,
+      "minimumPrice": 144,
+      "maximumPrice": 4150,
+      "averageStackPrice": 846,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

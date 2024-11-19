@@ -1,0 +1,18 @@
+[
+  {
+    "name": "meridias charm of the dawn",
+    "displayName": "Meridia's Charm of the Dawn",
+    "values": {
+      "commonRange": "153 - 153",
+      "averagePrice": 986,
+      "minimumPrice": 150,
+      "maximumPrice": 5153,
+      "averageStackPrice": 986,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

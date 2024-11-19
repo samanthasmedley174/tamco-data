@@ -1,0 +1,18 @@
+[
+  {
+    "name": "malachite",
+    "displayName": "Malachite",
+    "values": {
+      "commonRange": "57 - 186",
+      "averagePrice": 133,
+      "minimumPrice": 22,
+      "maximumPrice": 186,
+      "averageStackPrice": 133,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Materials",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Malachite.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of the powerful assault",
+    "displayName": "Mace of the Powerful Assault",
+    "values": {
+      "commonRange": "4,150 - 30,153",
+      "averagePrice": 11621,
+      "minimumPrice": 150,
+      "maximumPrice": 50000,
+      "averageStackPrice": 11621,
+      "commonStackSize": 1,
+      "salesRecorded": 70
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

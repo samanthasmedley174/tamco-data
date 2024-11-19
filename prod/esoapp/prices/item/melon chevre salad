@@ -1,0 +1,18 @@
+[
+  {
+    "name": "melon chevre salad",
+    "displayName": "Melon-Chevre Salad",
+    "values": {
+      "commonRange": "10 - 10",
+      "averagePrice": 13,
+      "minimumPrice": 5,
+      "maximumPrice": 24,
+      "averageStackPrice": 1300,
+      "commonStackSize": 100,
+      "salesRecorded": 3
+    },
+    "type": "Food & Drinks",
+    "date": "03/30/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/melon-chevre_salad.png"
+  }
+]

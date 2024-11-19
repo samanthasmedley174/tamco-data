@@ -1,0 +1,18 @@
+[
+  {
+    "name": "minotaur slumgullion",
+    "displayName": "Minotaur Slumgullion",
+    "values": {
+      "commonRange": "9 - 50",
+      "averagePrice": 28,
+      "minimumPrice": 6,
+      "maximumPrice": 60,
+      "averageStackPrice": 28,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Food & Drinks",
+    "date": "02/15/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/minotaur_slumgullion.png"
+  }
+]

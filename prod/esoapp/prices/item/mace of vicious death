@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of vicious death",
+    "displayName": "Mace of Vicious Death",
+    "values": {
+      "commonRange": "2,000 - 50,000",
+      "averagePrice": 17627,
+      "minimumPrice": 1153,
+      "maximumPrice": 110153,
+      "averageStackPrice": 17627,
+      "commonStackSize": 1,
+      "salesRecorded": 75
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

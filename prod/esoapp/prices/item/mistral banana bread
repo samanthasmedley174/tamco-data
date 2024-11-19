@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mistral banana bread",
+    "displayName": "Mistral Banana Bread",
+    "values": {
+      "commonRange": "12 - 16",
+      "averagePrice": 17,
+      "minimumPrice": 12,
+      "maximumPrice": 29,
+      "averageStackPrice": 17,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "12/01/2020",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/mistral_banana_bread.png"
+  }
+]

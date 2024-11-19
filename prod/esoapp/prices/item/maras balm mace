@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maras balm mace",
+    "displayName": "Mara's Balm Mace",
+    "values": {
+      "commonRange": "4,400 - 10,153",
+      "averagePrice": 6191,
+      "minimumPrice": 2250,
+      "maximumPrice": 10153,
+      "averageStackPrice": 6191,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

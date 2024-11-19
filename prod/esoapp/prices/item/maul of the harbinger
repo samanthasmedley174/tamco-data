@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the harbinger",
+    "displayName": "Maul of the Harbinger",
+    "values": {
+      "commonRange": "3,000 - 3,000",
+      "averagePrice": 3000,
+      "minimumPrice": 3000,
+      "maximumPrice": 3000,
+      "averageStackPrice": 3000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

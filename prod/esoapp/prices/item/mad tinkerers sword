@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mad tinkerers sword",
+    "displayName": "Mad Tinkerer's Sword",
+    "values": {
+      "commonRange": "900 - 5,423",
+      "averagePrice": 4930,
+      "minimumPrice": 850,
+      "maximumPrice": 50000,
+      "averageStackPrice": 4930,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mirrormoor shattered glass small",
+    "displayName": "Mirrormoor Shattered Glass, Small",
+    "values": {
+      "commonRange": "1,500 - 2,800",
+      "averagePrice": 2436,
+      "minimumPrice": 1500,
+      "maximumPrice": 2909,
+      "averageStackPrice": 2436,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

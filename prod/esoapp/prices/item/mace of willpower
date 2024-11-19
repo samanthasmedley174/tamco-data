@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of willpower",
+    "displayName": "Mace of Willpower",
+    "values": {
+      "commonRange": "353 - 4,611",
+      "averagePrice": 2698,
+      "minimumPrice": 153,
+      "maximumPrice": 22000,
+      "averageStackPrice": 2698,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

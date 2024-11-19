@@ -1,0 +1,18 @@
+[
+  {
+    "name": "moongrave fane ritual block",
+    "displayName": "Moongrave Fane Ritual Block",
+    "values": {
+      "commonRange": "40,000 - 97,871",
+      "averagePrice": 70046,
+      "minimumPrice": 20000,
+      "maximumPrice": 109000,
+      "averageStackPrice": 70046,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

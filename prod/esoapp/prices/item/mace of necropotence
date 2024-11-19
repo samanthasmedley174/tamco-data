@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of necropotence",
+    "displayName": "Mace of Necropotence",
+    "values": {
+      "commonRange": "153 - 4,350",
+      "averagePrice": 1988,
+      "minimumPrice": 140,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1988,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of night terror",
+    "displayName": "Mace of Night Terror",
+    "values": {
+      "commonRange": "404 - 700",
+      "averagePrice": 547,
+      "minimumPrice": 153,
+      "maximumPrice": 868,
+      "averageStackPrice": 547,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

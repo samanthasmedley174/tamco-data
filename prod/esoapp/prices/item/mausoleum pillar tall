@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mausoleum pillar tall",
+    "displayName": "Mausoleum Pillar, Tall",
+    "values": {
+      "commonRange": "12,000 - 15,000",
+      "averagePrice": 13298,
+      "minimumPrice": 8000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 13298,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

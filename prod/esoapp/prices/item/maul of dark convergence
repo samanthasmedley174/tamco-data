@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of dark convergence",
+    "displayName": "Maul of Dark Convergence",
+    "values": {
+      "commonRange": "2,000 - 9,493",
+      "averagePrice": 4784,
+      "minimumPrice": 246,
+      "maximumPrice": 20000,
+      "averageStackPrice": 4784,
+      "commonStackSize": 1,
+      "salesRecorded": 47
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

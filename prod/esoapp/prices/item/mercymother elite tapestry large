@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mercymother elite tapestry large",
+    "displayName": "Mercymother Elite Tapestry, Large",
+    "values": {
+      "commonRange": "3,423 - 5,423",
+      "averagePrice": 4262,
+      "minimumPrice": 2000,
+      "maximumPrice": 5423,
+      "averageStackPrice": 4262,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

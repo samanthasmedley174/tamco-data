@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of salvation",
+    "displayName": "Maul of Salvation",
+    "values": {
+      "commonRange": "640 - 1,100",
+      "averagePrice": 988,
+      "minimumPrice": 190,
+      "maximumPrice": 2234,
+      "averageStackPrice": 988,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

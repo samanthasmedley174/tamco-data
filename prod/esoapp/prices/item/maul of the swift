@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the swift",
+    "displayName": "Maul of the Swift",
+    "values": {
+      "commonRange": "1,200 - 10,246",
+      "averagePrice": 6629,
+      "minimumPrice": 1000,
+      "maximumPrice": 10246,
+      "averageStackPrice": 6629,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

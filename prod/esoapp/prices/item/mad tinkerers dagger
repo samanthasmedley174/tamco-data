@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mad tinkerers dagger",
+    "displayName": "Mad Tinkerer's Dagger",
+    "values": {
+      "commonRange": "800 - 5,500",
+      "averagePrice": 2213,
+      "minimumPrice": 144,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2213,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

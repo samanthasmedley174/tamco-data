@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of winters respite",
+    "displayName": "Mace of Winter's Respite",
+    "values": {
+      "commonRange": "153 - 3,999",
+      "averagePrice": 1709,
+      "minimumPrice": 144,
+      "maximumPrice": 5999,
+      "averageStackPrice": 1709,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

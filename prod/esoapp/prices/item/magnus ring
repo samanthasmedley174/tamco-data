@@ -1,0 +1,18 @@
+[
+  {
+    "name": "magnus ring",
+    "displayName": "Magnus' Ring",
+    "values": {
+      "commonRange": "5,150 - 5,150",
+      "averagePrice": 8433,
+      "minimumPrice": 5150,
+      "maximumPrice": 15000,
+      "averageStackPrice": 8433,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

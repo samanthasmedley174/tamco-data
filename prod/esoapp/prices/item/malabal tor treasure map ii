@@ -1,0 +1,18 @@
+[
+  {
+    "name": "malabal tor treasure map ii",
+    "displayName": "Malabal Tor Treasure Map II",
+    "values": {
+      "commonRange": "99 - 200",
+      "averagePrice": 117,
+      "minimumPrice": 20,
+      "maximumPrice": 200,
+      "averageStackPrice": 117,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

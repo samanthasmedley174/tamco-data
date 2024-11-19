@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mages gorapple porridge",
+    "displayName": "Mage's Gorapple Porridge",
+    "values": {
+      "commonRange": "12 - 12",
+      "averagePrice": 21,
+      "minimumPrice": 10,
+      "maximumPrice": 50,
+      "averageStackPrice": 21,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "03/30/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/mage's_gorapple_porridge.png"
+  }
+]

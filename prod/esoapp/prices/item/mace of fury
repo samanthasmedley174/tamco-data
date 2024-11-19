@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of fury",
+    "displayName": "Mace of Fury",
+    "values": {
+      "commonRange": "3,144 - 20,150",
+      "averagePrice": 10107,
+      "minimumPrice": 1253,
+      "maximumPrice": 30000,
+      "averageStackPrice": 10107,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

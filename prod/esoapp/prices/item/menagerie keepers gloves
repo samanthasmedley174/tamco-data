@@ -1,0 +1,18 @@
+[
+  {
+    "name": "menagerie keepers gloves",
+    "displayName": "Menagerie Keeper's Gloves",
+    "values": {
+      "commonRange": "300 - 484",
+      "averagePrice": 456,
+      "minimumPrice": 84,
+      "maximumPrice": 1110,
+      "averageStackPrice": 456,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

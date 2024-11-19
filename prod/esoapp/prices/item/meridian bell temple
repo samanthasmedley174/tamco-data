@@ -1,0 +1,18 @@
+[
+  {
+    "name": "meridian bell temple",
+    "displayName": "Meridian Bell, Temple",
+    "values": {
+      "commonRange": "12,500 - 29,398",
+      "averagePrice": 21501,
+      "minimumPrice": 10000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 21501,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

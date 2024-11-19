@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of nocturnals ploy",
+    "displayName": "Maul of Nocturnal's Ploy",
+    "values": {
+      "commonRange": "1,999 - 5,246",
+      "averagePrice": 4621,
+      "minimumPrice": 1999,
+      "maximumPrice": 11240,
+      "averageStackPrice": 4621,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

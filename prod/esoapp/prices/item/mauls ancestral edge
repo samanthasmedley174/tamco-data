@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mauls ancestral edge",
+    "displayName": "Maul's Ancestral Edge",
+    "values": {
+      "commonRange": "150 - 699",
+      "averagePrice": 473,
+      "minimumPrice": 141,
+      "maximumPrice": 1000,
+      "averageStackPrice": 473,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

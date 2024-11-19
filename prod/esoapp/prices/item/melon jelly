@@ -1,0 +1,18 @@
+[
+  {
+    "name": "melon jelly",
+    "displayName": "Melon Jelly",
+    "values": {
+      "commonRange": "3 - 6",
+      "averagePrice": 4,
+      "minimumPrice": 1,
+      "maximumPrice": 10,
+      "averageStackPrice": 4,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "07/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/melon_jelly.png"
+  }
+]

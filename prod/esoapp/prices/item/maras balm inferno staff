@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maras balm inferno staff",
+    "displayName": "Mara's Balm Inferno Staff",
+    "values": {
+      "commonRange": "1,999 - 10,246",
+      "averagePrice": 5941,
+      "minimumPrice": 1000,
+      "maximumPrice": 11240,
+      "averageStackPrice": 5941,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

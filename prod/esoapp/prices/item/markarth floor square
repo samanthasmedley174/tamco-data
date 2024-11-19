@@ -1,0 +1,18 @@
+[
+  {
+    "name": "markarth floor square",
+    "displayName": "Markarth Floor, Square",
+    "values": {
+      "commonRange": "1,650 - 5,000",
+      "averagePrice": 3713,
+      "minimumPrice": 1053,
+      "maximumPrice": 5150,
+      "averageStackPrice": 14852,
+      "commonStackSize": 4,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

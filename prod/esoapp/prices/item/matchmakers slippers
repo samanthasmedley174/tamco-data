@@ -1,0 +1,18 @@
+[
+  {
+    "name": "matchmakers slippers",
+    "displayName": "Matchmaker's Slippers",
+    "values": {
+      "commonRange": "84 - 300",
+      "averagePrice": 192,
+      "minimumPrice": 84,
+      "maximumPrice": 300,
+      "averageStackPrice": 192,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

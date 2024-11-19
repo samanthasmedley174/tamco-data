@@ -1,0 +1,18 @@
+[
+  {
+    "name": "markarth floor circular",
+    "displayName": "Markarth Floor, Circular",
+    "values": {
+      "commonRange": "3,250 - 10,150",
+      "averagePrice": 6470,
+      "minimumPrice": 3150,
+      "maximumPrice": 15000,
+      "averageStackPrice": 6470,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

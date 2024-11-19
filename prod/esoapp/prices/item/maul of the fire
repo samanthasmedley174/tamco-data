@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the fire",
+    "displayName": "Maul of the Fire",
+    "values": {
+      "commonRange": "200 - 1,906",
+      "averagePrice": 917,
+      "minimumPrice": 190,
+      "maximumPrice": 2980,
+      "averageStackPrice": 917,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

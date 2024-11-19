@@ -1,0 +1,18 @@
+[
+  {
+    "name": "miruins devastation of the vampires cloak",
+    "displayName": "Miruin's Devastation of the Vampire's Cloak",
+    "values": {
+      "commonRange": "740 - 740",
+      "averagePrice": 740,
+      "minimumPrice": 740,
+      "maximumPrice": 740,
+      "averageStackPrice": 740,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

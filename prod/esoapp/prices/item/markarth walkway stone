@@ -1,0 +1,18 @@
+[
+  {
+    "name": "markarth walkway stone",
+    "displayName": "Markarth Walkway, Stone",
+    "values": {
+      "commonRange": "1,462 - 4,000",
+      "averagePrice": 2633,
+      "minimumPrice": 1462,
+      "maximumPrice": 4010,
+      "averageStackPrice": 2633,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

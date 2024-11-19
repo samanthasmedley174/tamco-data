@@ -1,0 +1,18 @@
+[
+  {
+    "name": "markarth floor large square",
+    "displayName": "Markarth Floor, Large Square",
+    "values": {
+      "commonRange": "8,164 - 9,252",
+      "averagePrice": 9004,
+      "minimumPrice": 8164,
+      "maximumPrice": 11175,
+      "averageStackPrice": 9004,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "02/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

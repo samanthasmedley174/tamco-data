@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of a mothers sorrow",
+    "displayName": "Maul of a Mother's Sorrow",
+    "values": {
+      "commonRange": "434 - 2,000",
+      "averagePrice": 1125,
+      "minimumPrice": 220,
+      "maximumPrice": 2246,
+      "averageStackPrice": 1125,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "markarth fireplace stone",
+    "displayName": "Markarth Fireplace, Stone",
+    "values": {
+      "commonRange": "6,500 - 13,000",
+      "averagePrice": 9719,
+      "minimumPrice": 5500,
+      "maximumPrice": 13900,
+      "averageStackPrice": 9719,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

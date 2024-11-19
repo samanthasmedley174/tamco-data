@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maras balm restoration staff",
+    "displayName": "Mara's Balm Restoration Staff",
+    "values": {
+      "commonRange": "999 - 20,000",
+      "averagePrice": 5817,
+      "minimumPrice": 250,
+      "maximumPrice": 25000,
+      "averageStackPrice": 5817,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

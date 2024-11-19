@@ -1,0 +1,18 @@
+[
+  {
+    "name": "manganese",
+    "displayName": "Manganese",
+    "values": {
+      "commonRange": "9 - 31",
+      "averagePrice": 15,
+      "minimumPrice": 3,
+      "maximumPrice": 33,
+      "averageStackPrice": 15,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Style Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Manganese.png"
+  }
+]

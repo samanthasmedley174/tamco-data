@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the radiant bastion",
+    "displayName": "Maul of the Radiant Bastion",
+    "values": {
+      "commonRange": "4,499 - 4,499",
+      "averagePrice": 5166,
+      "minimumPrice": 999,
+      "maximumPrice": 9999,
+      "averageStackPrice": 5166,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mastic",
+    "displayName": "Mastic",
+    "values": {
+      "commonRange": "150 - 575",
+      "averagePrice": 343,
+      "minimumPrice": 27,
+      "maximumPrice": 1450,
+      "averageStackPrice": 2744,
+      "commonStackSize": 8,
+      "salesRecorded": 184
+    },
+    "type": "Woodworking Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Woodworking_Materials/Mastic.png"
+  }
+]

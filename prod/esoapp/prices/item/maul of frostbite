@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of frostbite",
+    "displayName": "Maul of Frostbite",
+    "values": {
+      "commonRange": "240 - 1,500",
+      "averagePrice": 1219,
+      "minimumPrice": 234,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1219,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

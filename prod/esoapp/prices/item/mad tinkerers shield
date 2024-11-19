@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mad tinkerers shield",
+    "displayName": "Mad Tinkerer's Shield",
+    "values": {
+      "commonRange": "150 - 3,144",
+      "averagePrice": 1083,
+      "minimumPrice": 110,
+      "maximumPrice": 5153,
+      "averageStackPrice": 1083,
+      "commonStackSize": 1,
+      "salesRecorded": 51
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

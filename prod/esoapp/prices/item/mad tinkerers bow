@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mad tinkerers bow",
+    "displayName": "Mad Tinkerer's Bow",
+    "values": {
+      "commonRange": "245 - 4,000",
+      "averagePrice": 1359,
+      "minimumPrice": 120,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1359,
+      "commonStackSize": 1,
+      "salesRecorded": 71
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

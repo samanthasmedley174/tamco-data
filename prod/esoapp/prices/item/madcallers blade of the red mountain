@@ -1,0 +1,18 @@
+[
+  {
+    "name": "madcallers blade of the red mountain",
+    "displayName": "Madcaller's Blade of the Red Mountain",
+    "values": {
+      "commonRange": "16,000 - 16,000",
+      "averagePrice": 16000,
+      "minimumPrice": 16000,
+      "maximumPrice": 16000,
+      "averageStackPrice": 16000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

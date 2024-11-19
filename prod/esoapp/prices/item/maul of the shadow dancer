@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the shadow dancer",
+    "displayName": "Maul of The Shadow Dancer",
+    "values": {
+      "commonRange": "240 - 1,240",
+      "averagePrice": 740,
+      "minimumPrice": 240,
+      "maximumPrice": 1240,
+      "averageStackPrice": 740,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

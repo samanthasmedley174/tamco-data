@@ -1,0 +1,18 @@
+[
+  {
+    "name": "meady matey infusion",
+    "displayName": "Meady-Matey Infusion",
+    "values": {
+      "commonRange": "4 - 6",
+      "averagePrice": 16,
+      "minimumPrice": 3,
+      "maximumPrice": 60,
+      "averageStackPrice": 16,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Food & Drinks",
+    "date": "10/05/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/meady-matey_infusion.png"
+  }
+]

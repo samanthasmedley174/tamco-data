@@ -1,0 +1,18 @@
+[
+  {
+    "name": "markarth floor large rectangle",
+    "displayName": "Markarth Floor, Large Rectangle",
+    "values": {
+      "commonRange": "2,500 - 20,000",
+      "averagePrice": 12835,
+      "minimumPrice": 1500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 12835,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

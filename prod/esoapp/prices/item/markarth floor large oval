@@ -1,0 +1,18 @@
+[
+  {
+    "name": "markarth floor large oval",
+    "displayName": "Markarth Floor, Large Oval",
+    "values": {
+      "commonRange": "5,000 - 15,000",
+      "averagePrice": 9646,
+      "minimumPrice": 4300,
+      "maximumPrice": 17300,
+      "averageStackPrice": 9646,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/29/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "master trackers bow",
+    "displayName": "Master Tracker's Bow",
+    "values": {
+      "commonRange": "300 - 300",
+      "averagePrice": 300,
+      "minimumPrice": 300,
+      "maximumPrice": 300,
+      "averageStackPrice": 300,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

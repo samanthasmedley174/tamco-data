@@ -1,0 +1,18 @@
+[
+  {
+    "name": "minecart track sloped left",
+    "displayName": "Minecart Track, Sloped Left",
+    "values": {
+      "commonRange": "4,250 - 7,000",
+      "averagePrice": 5794,
+      "minimumPrice": 3500,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5794,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

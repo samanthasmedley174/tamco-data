@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maiming poison i",
+    "displayName": "Maiming Poison I",
+    "values": {
+      "commonRange": "15 - 38",
+      "averagePrice": 31,
+      "minimumPrice": 12,
+      "maximumPrice": 38,
+      "averageStackPrice": 31000,
+      "commonStackSize": 1000,
+      "salesRecorded": 13
+    },
+    "type": "Potions & Poisons",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

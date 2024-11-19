@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of syrabane",
+    "displayName": "Mace of Syrabane",
+    "values": {
+      "commonRange": "244 - 3,150",
+      "averagePrice": 1534,
+      "minimumPrice": 144,
+      "maximumPrice": 3850,
+      "averageStackPrice": 1534,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

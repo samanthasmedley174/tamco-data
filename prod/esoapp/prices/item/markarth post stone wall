@@ -1,0 +1,18 @@
+[
+  {
+    "name": "markarth post stone wall",
+    "displayName": "Markarth Post, Stone Wall",
+    "values": {
+      "commonRange": "500 - 3,926",
+      "averagePrice": 1981,
+      "minimumPrice": 375,
+      "maximumPrice": 3926,
+      "averageStackPrice": 1981,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

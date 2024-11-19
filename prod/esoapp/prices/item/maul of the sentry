@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the sentry",
+    "displayName": "Maul of the Sentry",
+    "values": {
+      "commonRange": "2,000 - 5,555",
+      "averagePrice": 5141,
+      "minimumPrice": 334,
+      "maximumPrice": 22000,
+      "averageStackPrice": 5141,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

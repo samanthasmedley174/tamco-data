@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mammoth cheese mastercrafted",
+    "displayName": "Mammoth Cheese, Mastercrafted",
+    "values": {
+      "commonRange": "15,000 - 25,000",
+      "averagePrice": 20696,
+      "minimumPrice": 15000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 20696,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

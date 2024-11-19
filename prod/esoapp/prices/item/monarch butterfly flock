@@ -1,0 +1,18 @@
+[
+  {
+    "name": "monarch butterfly flock",
+    "displayName": "Monarch Butterfly Flock",
+    "values": {
+      "commonRange": "22,787 - 30,000",
+      "averagePrice": 28743,
+      "minimumPrice": 20936,
+      "maximumPrice": 74345,
+      "averageStackPrice": 86229,
+      "commonStackSize": 3,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

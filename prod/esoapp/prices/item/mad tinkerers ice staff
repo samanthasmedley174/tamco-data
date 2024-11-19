@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mad tinkerers ice staff",
+    "displayName": "Mad Tinkerer's Ice Staff",
+    "values": {
+      "commonRange": "750 - 6,000",
+      "averagePrice": 3397,
+      "minimumPrice": 250,
+      "maximumPrice": 29252,
+      "averageStackPrice": 3397,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

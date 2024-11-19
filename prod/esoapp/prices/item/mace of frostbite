@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of frostbite",
+    "displayName": "Mace of Frostbite",
+    "values": {
+      "commonRange": "250 - 16,917",
+      "averagePrice": 7952,
+      "minimumPrice": 190,
+      "maximumPrice": 16917,
+      "averageStackPrice": 7952,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

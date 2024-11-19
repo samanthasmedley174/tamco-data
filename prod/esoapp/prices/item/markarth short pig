@@ -1,0 +1,18 @@
+[
+  {
+    "name": "markarth short pig",
+    "displayName": "Markarth Short Pig",
+    "values": {
+      "commonRange": "9 - 161",
+      "averagePrice": 74,
+      "minimumPrice": 6,
+      "maximumPrice": 161,
+      "averageStackPrice": 1480,
+      "commonStackSize": 20,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/markarth_short_pig.png"
+  }
+]

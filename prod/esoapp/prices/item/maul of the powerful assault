@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the powerful assault",
+    "displayName": "Maul of the Powerful Assault",
+    "values": {
+      "commonRange": "4,400 - 9,240",
+      "averagePrice": 6570,
+      "minimumPrice": 2234,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6570,
+      "commonStackSize": 1,
+      "salesRecorded": 63
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

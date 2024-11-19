@@ -1,0 +1,18 @@
+[
+  {
+    "name": "magisters staff",
+    "displayName": "Magister's Staff",
+    "values": {
+      "commonRange": "628 - 628",
+      "averagePrice": 628,
+      "minimumPrice": 628,
+      "maximumPrice": 628,
+      "averageStackPrice": 628,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

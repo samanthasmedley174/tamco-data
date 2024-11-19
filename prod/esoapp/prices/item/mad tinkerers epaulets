@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mad tinkerers epaulets",
+    "displayName": "Mad Tinkerer's Epaulets",
+    "values": {
+      "commonRange": "200 - 4,000",
+      "averagePrice": 2041,
+      "minimumPrice": 144,
+      "maximumPrice": 29956,
+      "averageStackPrice": 2041,
+      "commonStackSize": 1,
+      "salesRecorded": 84
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

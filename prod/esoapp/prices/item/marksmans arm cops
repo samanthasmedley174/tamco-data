@@ -1,0 +1,18 @@
+[
+  {
+    "name": "marksmans arm cops",
+    "displayName": "Marksman's Arm Cops",
+    "values": {
+      "commonRange": "562 - 15,153",
+      "averagePrice": 3840,
+      "minimumPrice": 553,
+      "maximumPrice": 15153,
+      "averageStackPrice": 3840,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

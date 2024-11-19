@@ -1,0 +1,18 @@
+[
+  {
+    "name": "magna geode large",
+    "displayName": "Magna-Geode, Large",
+    "values": {
+      "commonRange": "39,999 - 50,000",
+      "averagePrice": 44399,
+      "minimumPrice": 33300,
+      "maximumPrice": 52000,
+      "averageStackPrice": 44399,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

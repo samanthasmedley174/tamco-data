@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the trainee",
+    "displayName": "Maul of the Trainee",
+    "values": {
+      "commonRange": "140 - 3,000",
+      "averagePrice": 1336,
+      "minimumPrice": 140,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1336,
+      "commonStackSize": 1,
+      "salesRecorded": 49
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

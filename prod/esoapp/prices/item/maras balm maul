@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maras balm maul",
+    "displayName": "Mara's Balm Maul",
+    "values": {
+      "commonRange": "4,246 - 10,246",
+      "averagePrice": 6490,
+      "minimumPrice": 999,
+      "maximumPrice": 10246,
+      "averageStackPrice": 6490,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

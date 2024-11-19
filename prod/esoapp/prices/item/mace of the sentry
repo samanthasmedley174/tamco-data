@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of the sentry",
+    "displayName": "Mace of the Sentry",
+    "values": {
+      "commonRange": "3,999 - 9,150",
+      "averagePrice": 7300,
+      "minimumPrice": 1050,
+      "maximumPrice": 15000,
+      "averageStackPrice": 7300,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

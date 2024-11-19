@@ -1,0 +1,18 @@
+[
+  {
+    "name": "markarth stairway narrow stone",
+    "displayName": "Markarth Stairway, Narrow Stone",
+    "values": {
+      "commonRange": "1,900 - 3,060",
+      "averagePrice": 2351,
+      "minimumPrice": 345,
+      "maximumPrice": 3500,
+      "averageStackPrice": 2351,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

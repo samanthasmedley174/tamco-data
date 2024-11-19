@@ -1,0 +1,18 @@
+[
+  {
+    "name": "molten war torte",
+    "displayName": "Molten War Torte",
+    "values": {
+      "commonRange": "7,044 - 11,000",
+      "averagePrice": 9806,
+      "minimumPrice": 6500,
+      "maximumPrice": 11000,
+      "averageStackPrice": 9806,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Food & Drinks",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/molten_war_torte.png"
+  }
+]

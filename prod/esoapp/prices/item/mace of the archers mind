@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of the archers mind",
+    "displayName": "Mace of the Archer's Mind",
+    "values": {
+      "commonRange": "50,153 - 80,000",
+      "averagePrice": 60526,
+      "minimumPrice": 3000,
+      "maximumPrice": 80000,
+      "averageStackPrice": 60526,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

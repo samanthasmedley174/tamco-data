@@ -1,0 +1,18 @@
+[
+  {
+    "name": "meenai shais quill sharpener",
+    "displayName": "Meenai-Shai's Quill Sharpener",
+    "values": {
+      "commonRange": "650 - 650",
+      "averagePrice": 667,
+      "minimumPrice": 450,
+      "maximumPrice": 900,
+      "averageStackPrice": 667,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

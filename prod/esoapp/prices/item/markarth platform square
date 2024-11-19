@@ -1,0 +1,18 @@
+[
+  {
+    "name": "markarth platform square",
+    "displayName": "Markarth Platform, Square",
+    "values": {
+      "commonRange": "2,350 - 6,050",
+      "averagePrice": 4049,
+      "minimumPrice": 1666,
+      "maximumPrice": 6150,
+      "averageStackPrice": 4049,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

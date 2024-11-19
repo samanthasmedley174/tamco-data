@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mad tinkerers jerkin",
+    "displayName": "Mad Tinkerer's Jerkin",
+    "values": {
+      "commonRange": "250 - 3,000",
+      "averagePrice": 1522,
+      "minimumPrice": 170,
+      "maximumPrice": 5180,
+      "averageStackPrice": 1522,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

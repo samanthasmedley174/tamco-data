@@ -1,0 +1,18 @@
+[
+  {
+    "name": "markarth walkway metal trim",
+    "displayName": "Markarth Walkway, Metal Trim",
+    "values": {
+      "commonRange": "7,800 - 14,500",
+      "averagePrice": 11294,
+      "minimumPrice": 4000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 11294,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

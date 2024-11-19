@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the hatchlings shell",
+    "displayName": "Maul of the Hatchling's Shell",
+    "values": {
+      "commonRange": "246 - 1,240",
+      "averagePrice": 933,
+      "minimumPrice": 190,
+      "maximumPrice": 2247,
+      "averageStackPrice": 933,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

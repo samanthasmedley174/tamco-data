@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the sun",
+    "displayName": "Maul of the Sun",
+    "values": {
+      "commonRange": "640 - 640",
+      "averagePrice": 727,
+      "minimumPrice": 300,
+      "maximumPrice": 1240,
+      "averageStackPrice": 727,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

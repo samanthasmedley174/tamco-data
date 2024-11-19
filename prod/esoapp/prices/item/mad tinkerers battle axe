@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mad tinkerers battle axe",
+    "displayName": "Mad Tinkerer's Battle Axe",
+    "values": {
+      "commonRange": "640 - 5,000",
+      "averagePrice": 2458,
+      "minimumPrice": 240,
+      "maximumPrice": 20246,
+      "averageStackPrice": 2458,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

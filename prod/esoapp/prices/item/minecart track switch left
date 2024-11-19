@@ -1,0 +1,18 @@
+[
+  {
+    "name": "minecart track switch left",
+    "displayName": "Minecart Track, Switch Left",
+    "values": {
+      "commonRange": "2,000 - 5,288",
+      "averagePrice": 4006,
+      "minimumPrice": 1000,
+      "maximumPrice": 6150,
+      "averageStackPrice": 4006,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

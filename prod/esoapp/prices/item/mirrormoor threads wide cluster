@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mirrormoor threads wide cluster",
+    "displayName": "Mirrormoor Threads, Wide Cluster",
+    "values": {
+      "commonRange": "9,633 - 15,000",
+      "averagePrice": 12595,
+      "minimumPrice": 9000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 12595,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

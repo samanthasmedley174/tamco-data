@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of winters respite",
+    "displayName": "Maul of Winter's Respite",
+    "values": {
+      "commonRange": "334 - 1,240",
+      "averagePrice": 786,
+      "minimumPrice": 240,
+      "maximumPrice": 1240,
+      "averageStackPrice": 786,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

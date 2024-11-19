@@ -1,0 +1,18 @@
+[
+  {
+    "name": "metheglin",
+    "displayName": "Metheglin",
+    "values": {
+      "commonRange": "6 - 10",
+      "averagePrice": 9,
+      "minimumPrice": 3,
+      "maximumPrice": 25,
+      "averageStackPrice": 1800,
+      "commonStackSize": 200,
+      "salesRecorded": 47
+    },
+    "type": "Provisioning Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

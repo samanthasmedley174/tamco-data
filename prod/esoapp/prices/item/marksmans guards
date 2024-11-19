@@ -1,0 +1,18 @@
+[
+  {
+    "name": "marksmans guards",
+    "displayName": "Marksman's Guards",
+    "values": {
+      "commonRange": "900 - 8,000",
+      "averagePrice": 4468,
+      "minimumPrice": 383,
+      "maximumPrice": 20183,
+      "averageStackPrice": 4468,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

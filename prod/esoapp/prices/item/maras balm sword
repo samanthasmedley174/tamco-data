@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maras balm sword",
+    "displayName": "Mara's Balm Sword",
+    "values": {
+      "commonRange": "1,000 - 10,153",
+      "averagePrice": 7780,
+      "minimumPrice": 150,
+      "maximumPrice": 20153,
+      "averageStackPrice": 7780,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

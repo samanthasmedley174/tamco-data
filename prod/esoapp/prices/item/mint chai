@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mint chai",
+    "displayName": "Mint Chai",
+    "values": {
+      "commonRange": "3 - 13",
+      "averagePrice": 9,
+      "minimumPrice": 3,
+      "maximumPrice": 25,
+      "averageStackPrice": 9,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Food & Drinks",
+    "date": "09/06/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/mint_chai.png"
+  }
+]

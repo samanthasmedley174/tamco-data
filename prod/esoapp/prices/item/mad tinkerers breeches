@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mad tinkerers breeches",
+    "displayName": "Mad Tinkerer's Breeches",
+    "values": {
+      "commonRange": "300 - 5,850",
+      "averagePrice": 2226,
+      "minimumPrice": 174,
+      "maximumPrice": 11849,
+      "averageStackPrice": 2226,
+      "commonStackSize": 1,
+      "salesRecorded": 54
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

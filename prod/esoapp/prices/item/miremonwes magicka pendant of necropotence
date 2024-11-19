@@ -1,0 +1,18 @@
+[
+  {
+    "name": "miremonwes magicka pendant of necropotence",
+    "displayName": "Miremonwe's Magicka Pendant of Necropotence",
+    "values": {
+      "commonRange": "350 - 350",
+      "averagePrice": 350,
+      "minimumPrice": 350,
+      "maximumPrice": 350,
+      "averageStackPrice": 350,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

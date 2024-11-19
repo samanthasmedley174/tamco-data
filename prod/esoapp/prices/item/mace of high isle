@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of high isle",
+    "displayName": "Mace of High Isle",
+    "values": {
+      "commonRange": "550 - 1,050",
+      "averagePrice": 950,
+      "minimumPrice": 150,
+      "maximumPrice": 2000,
+      "averageStackPrice": 950,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of the air",
+    "displayName": "Mace of the Air",
+    "values": {
+      "commonRange": "150 - 3,850",
+      "averagePrice": 1805,
+      "minimumPrice": 144,
+      "maximumPrice": 5153,
+      "averageStackPrice": 1805,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

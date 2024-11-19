@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mad tinkerers shoes",
+    "displayName": "Mad Tinkerer's Shoes",
+    "values": {
+      "commonRange": "290 - 5,000",
+      "averagePrice": 2673,
+      "minimumPrice": 87,
+      "maximumPrice": 39993,
+      "averageStackPrice": 2673,
+      "commonStackSize": 1,
+      "salesRecorded": 43
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

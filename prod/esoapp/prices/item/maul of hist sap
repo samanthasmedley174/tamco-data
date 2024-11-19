@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of hist sap",
+    "displayName": "Maul of Hist Sap",
+    "values": {
+      "commonRange": "746 - 746",
+      "averagePrice": 1839,
+      "minimumPrice": 365,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1839,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

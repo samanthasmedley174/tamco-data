@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mad tinkerers inferno staff",
+    "displayName": "Mad Tinkerer's Inferno Staff",
+    "values": {
+      "commonRange": "240 - 7,500",
+      "averagePrice": 2394,
+      "minimumPrice": 168,
+      "maximumPrice": 16000,
+      "averageStackPrice": 2394,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

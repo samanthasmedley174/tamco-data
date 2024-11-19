@@ -1,0 +1,18 @@
+[
+  {
+    "name": "markarth mead",
+    "displayName": "Markarth Mead",
+    "values": {
+      "commonRange": "15 - 25",
+      "averagePrice": 22,
+      "minimumPrice": 5,
+      "maximumPrice": 81,
+      "averageStackPrice": 66,
+      "commonStackSize": 3,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/markarth_mead.png"
+  }
+]

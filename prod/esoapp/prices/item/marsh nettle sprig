@@ -1,0 +1,18 @@
+[
+  {
+    "name": "marsh nettle sprig",
+    "displayName": "Marsh Nettle Sprig",
+    "values": {
+      "commonRange": "229 - 329",
+      "averagePrice": 291,
+      "minimumPrice": 200,
+      "maximumPrice": 350,
+      "averageStackPrice": 291,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Materials",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Marsh_Nettle_Sprig.png"
+  }
+]

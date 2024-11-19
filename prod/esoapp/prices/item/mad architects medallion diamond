@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mad architects medallion diamond",
+    "displayName": "Mad Architect's Medallion, Diamond",
+    "values": {
+      "commonRange": "1,100 - 3,474",
+      "averagePrice": 2566,
+      "minimumPrice": 1100,
+      "maximumPrice": 3672,
+      "averageStackPrice": 2566,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishings",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

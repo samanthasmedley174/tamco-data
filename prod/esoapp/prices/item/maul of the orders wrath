@@ -1,0 +1,18 @@
+[
+  {
+    "name": "maul of the orders wrath",
+    "displayName": "Maul of the Order's Wrath",
+    "values": {
+      "commonRange": "12,000 - 79,990",
+      "averagePrice": 50225,
+      "minimumPrice": 1181,
+      "maximumPrice": 95952,
+      "averageStackPrice": 50225,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

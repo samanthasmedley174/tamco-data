@@ -1,0 +1,18 @@
+[
+  {
+    "name": "markarth wall wide stone",
+    "displayName": "Markarth Wall, Wide Stone",
+    "values": {
+      "commonRange": "1,474 - 2,000",
+      "averagePrice": 1698,
+      "minimumPrice": 110,
+      "maximumPrice": 2233,
+      "averageStackPrice": 16980,
+      "commonStackSize": 10,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

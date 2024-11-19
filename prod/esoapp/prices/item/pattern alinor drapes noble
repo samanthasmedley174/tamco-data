@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern alinor drapes noble",
+    "displayName": "Pattern: Alinor Drapes, Noble",
+    "values": {
+      "commonRange": "25,000 - 34,845",
+      "averagePrice": 30676,
+      "minimumPrice": 10039,
+      "maximumPrice": 35000,
+      "averageStackPrice": 30676,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

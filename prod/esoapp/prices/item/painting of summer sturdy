@@ -1,0 +1,18 @@
+[
+  {
+    "name": "painting of summer sturdy",
+    "displayName": "Painting of Summer, Sturdy",
+    "values": {
+      "commonRange": "100 - 2,000",
+      "averagePrice": 1259,
+      "minimumPrice": 100,
+      "maximumPrice": 7500,
+      "averageStackPrice": 1259,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "02/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

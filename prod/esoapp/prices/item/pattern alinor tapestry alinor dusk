@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern alinor tapestry alinor dusk",
+    "displayName": "Pattern: Alinor Tapestry, Alinor Dusk",
+    "values": {
+      "commonRange": "9,500 - 13,166",
+      "averagePrice": 11673,
+      "minimumPrice": 9250,
+      "maximumPrice": 15000,
+      "averageStackPrice": 11673,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

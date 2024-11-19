@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern book pile spiral levitating",
+    "displayName": "Pattern: Book Pile, Spiral Levitating",
+    "values": {
+      "commonRange": "30,000 - 50,000",
+      "averagePrice": 39417,
+      "minimumPrice": 30000,
+      "maximumPrice": 55000,
+      "averageStackPrice": 39417,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

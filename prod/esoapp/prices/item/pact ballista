@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pact ballista",
+    "displayName": "Pact Ballista",
+    "values": {
+      "commonRange": "433 - 500",
+      "averagePrice": 446,
+      "minimumPrice": 342,
+      "maximumPrice": 500,
+      "averageStackPrice": 446,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Siege Equipment",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Pact_Ballista.png"
+  }
+]

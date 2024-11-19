@@ -1,0 +1,18 @@
+[
+  {
+    "name": "painting of ancient road refined",
+    "displayName": "Painting of Ancient Road, Refined",
+    "values": {
+      "commonRange": "10,000 - 20,000",
+      "averagePrice": 15683,
+      "minimumPrice": 500,
+      "maximumPrice": 21735,
+      "averageStackPrice": 15683,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

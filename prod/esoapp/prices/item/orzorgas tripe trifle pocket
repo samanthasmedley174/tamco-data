@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orzorgas tripe trifle pocket",
+    "displayName": "Orzorga's Tripe Trifle Pocket",
+    "values": {
+      "commonRange": "50 - 60",
+      "averagePrice": 57,
+      "minimumPrice": 50,
+      "maximumPrice": 109,
+      "averageStackPrice": 5700,
+      "commonStackSize": 100,
+      "salesRecorded": 12
+    },
+    "type": "Food & Drinks",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/orzorga's_tripe_trifle_pocket.png"
+  }
+]

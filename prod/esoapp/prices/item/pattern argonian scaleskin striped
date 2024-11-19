@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern argonian scaleskin striped",
+    "displayName": "Pattern: Argonian Scaleskin, Striped",
+    "values": {
+      "commonRange": "500 - 1,170",
+      "averagePrice": 951,
+      "minimumPrice": 300,
+      "maximumPrice": 2000,
+      "averageStackPrice": 951,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

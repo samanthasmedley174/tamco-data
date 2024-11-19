@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern apocrypha doorway book stacks",
+    "displayName": "Pattern: Apocrypha Doorway, Book Stacks",
+    "values": {
+      "commonRange": "218,437 - 330,000",
+      "averagePrice": 269867,
+      "minimumPrice": 200000,
+      "maximumPrice": 348437,
+      "averageStackPrice": 269867,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

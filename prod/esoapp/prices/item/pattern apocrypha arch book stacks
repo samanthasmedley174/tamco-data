@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern apocrypha arch book stacks",
+    "displayName": "Pattern: Apocrypha Arch, Book Stacks",
+    "values": {
+      "commonRange": "150,000 - 180,000",
+      "averagePrice": 161450,
+      "minimumPrice": 130000,
+      "maximumPrice": 185039,
+      "averageStackPrice": 161450,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

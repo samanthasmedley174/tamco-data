@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orsinium totem obedience",
+    "displayName": "Orsinium Totem, Obedience",
+    "values": {
+      "commonRange": "12,989 - 16,989",
+      "averagePrice": 14848,
+      "minimumPrice": 12000,
+      "maximumPrice": 24500,
+      "averageStackPrice": 14848,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

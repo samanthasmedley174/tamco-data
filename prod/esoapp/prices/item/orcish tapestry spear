@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish tapestry spear",
+    "displayName": "Orcish Tapestry, Spear",
+    "values": {
+      "commonRange": "7,750 - 12,000",
+      "averagePrice": 10238,
+      "minimumPrice": 6675,
+      "maximumPrice": 12423,
+      "averageStackPrice": 10238,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

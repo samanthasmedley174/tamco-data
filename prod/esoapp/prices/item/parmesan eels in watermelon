@@ -1,0 +1,18 @@
+[
+  {
+    "name": "parmesan eels in watermelon",
+    "displayName": "Parmesan Eels in Watermelon",
+    "values": {
+      "commonRange": "9 - 59",
+      "averagePrice": 25,
+      "minimumPrice": 6,
+      "maximumPrice": 59,
+      "averageStackPrice": 2500,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "12/01/2020",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/parmesan_eels_in_watermelon.png"
+  }
+]

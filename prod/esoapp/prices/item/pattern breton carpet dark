@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern breton carpet dark",
+    "displayName": "Pattern: Breton Carpet, Dark",
+    "values": {
+      "commonRange": "300 - 1,829",
+      "averagePrice": 1729,
+      "minimumPrice": 130,
+      "maximumPrice": 11030,
+      "averageStackPrice": 1729,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

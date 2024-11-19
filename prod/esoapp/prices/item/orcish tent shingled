@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish tent shingled",
+    "displayName": "Orcish Tent, Shingled",
+    "values": {
+      "commonRange": "1,290 - 5,500",
+      "averagePrice": 3186,
+      "minimumPrice": 500,
+      "maximumPrice": 5500,
+      "averageStackPrice": 3186,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

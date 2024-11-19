@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern alinor tapestry royal gryphons",
+    "displayName": "Pattern: Alinor Tapestry, Royal Gryphons",
+    "values": {
+      "commonRange": "1,200 - 12,000",
+      "averagePrice": 8905,
+      "minimumPrice": 1000,
+      "maximumPrice": 15030,
+      "averageStackPrice": 8905,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

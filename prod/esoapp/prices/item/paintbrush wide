@@ -1,0 +1,18 @@
+[
+  {
+    "name": "paintbrush wide",
+    "displayName": "Paintbrush, Wide",
+    "values": {
+      "commonRange": "9,999 - 15,000",
+      "averagePrice": 12833,
+      "minimumPrice": 9999,
+      "maximumPrice": 28333,
+      "averageStackPrice": 12833,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

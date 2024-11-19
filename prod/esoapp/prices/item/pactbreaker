@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pactbreaker",
+    "displayName": "Pactbreaker",
+    "values": {
+      "commonRange": "425 - 528",
+      "averagePrice": 477,
+      "minimumPrice": 425,
+      "maximumPrice": 528,
+      "averageStackPrice": 477,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

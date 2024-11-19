@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern apocrypha wall book stacks",
+    "displayName": "Pattern: Apocrypha Wall, Book Stacks",
+    "values": {
+      "commonRange": "10,000 - 49,639",
+      "averagePrice": 32150,
+      "minimumPrice": 5000,
+      "maximumPrice": 94999,
+      "averageStackPrice": 32150,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

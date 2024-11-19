@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish tapestry sword",
+    "displayName": "Orcish Tapestry, Sword",
+    "values": {
+      "commonRange": "2,300 - 4,937",
+      "averagePrice": 3774,
+      "minimumPrice": 2000,
+      "maximumPrice": 4937,
+      "averageStackPrice": 3774,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

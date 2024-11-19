@@ -1,0 +1,18 @@
+[
+  {
+    "name": "painting of swamp refined",
+    "displayName": "Painting of Swamp, Refined",
+    "values": {
+      "commonRange": "30,000 - 59,300",
+      "averagePrice": 44650,
+      "minimumPrice": 30000,
+      "maximumPrice": 59300,
+      "averageStackPrice": 44650,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "03/26/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

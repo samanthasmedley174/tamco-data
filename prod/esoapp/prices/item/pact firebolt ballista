@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pact firebolt ballista",
+    "displayName": "Pact Firebolt Ballista",
+    "values": {
+      "commonRange": "50 - 450",
+      "averagePrice": 193,
+      "minimumPrice": 12,
+      "maximumPrice": 500,
+      "averageStackPrice": 386,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Siege Equipment",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

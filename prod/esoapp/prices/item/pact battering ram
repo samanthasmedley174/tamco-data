@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pact battering ram",
+    "displayName": "Pact Battering Ram",
+    "values": {
+      "commonRange": "93 - 693",
+      "averagePrice": 326,
+      "minimumPrice": 50,
+      "maximumPrice": 750,
+      "averageStackPrice": 652,
+      "commonStackSize": 2,
+      "salesRecorded": 12
+    },
+    "type": "Siege Equipment",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Pact_Battering_Ram.png"
+  }
+]

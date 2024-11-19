@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish urn sealed",
+    "displayName": "Orcish Urn, Sealed",
+    "values": {
+      "commonRange": "4,000 - 5,000",
+      "averagePrice": 4500,
+      "minimumPrice": 4000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 4500,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

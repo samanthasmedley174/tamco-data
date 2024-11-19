@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pact meatbag catapult",
+    "displayName": "Pact Meatbag Catapult",
+    "values": {
+      "commonRange": "272 - 666",
+      "averagePrice": 460,
+      "minimumPrice": 200,
+      "maximumPrice": 666,
+      "averageStackPrice": 460,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Siege Equipment",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Pact_Meatbag_Catapult.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern apocrypha bed intricate double",
+    "displayName": "Pattern: Apocrypha Bed, Intricate Double",
+    "values": {
+      "commonRange": "30,000 - 41,418",
+      "averagePrice": 37124,
+      "minimumPrice": 30000,
+      "maximumPrice": 42000,
+      "averageStackPrice": 37124,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

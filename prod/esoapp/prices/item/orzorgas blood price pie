@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orzorgas blood price pie",
+    "displayName": "Orzorga's Blood Price Pie",
+    "values": {
+      "commonRange": "3 - 290",
+      "averagePrice": 172,
+      "minimumPrice": 3,
+      "maximumPrice": 596,
+      "averageStackPrice": 17200,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/orzorga's_blood_price_pie.png"
+  }
+]

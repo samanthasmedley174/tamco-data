@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pact lightning ballista",
+    "displayName": "Pact Lightning Ballista",
+    "values": {
+      "commonRange": "100 - 333",
+      "averagePrice": 222,
+      "minimumPrice": 50,
+      "maximumPrice": 500,
+      "averageStackPrice": 222,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Siege Equipment",
+    "date": "02/20/2024",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Pact_Lightning_Ballista.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "painting of gryphon nest elegant",
+    "displayName": "Painting of Gryphon Nest, Elegant",
+    "values": {
+      "commonRange": "20,000 - 26,203",
+      "averagePrice": 22057,
+      "minimumPrice": 13300,
+      "maximumPrice": 27518,
+      "averageStackPrice": 22057,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

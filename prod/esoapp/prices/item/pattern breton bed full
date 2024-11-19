@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern breton bed full",
+    "displayName": "Pattern: Breton Bed, Full",
+    "values": {
+      "commonRange": "300 - 1,000",
+      "averagePrice": 617,
+      "minimumPrice": 150,
+      "maximumPrice": 1000,
+      "averageStackPrice": 617,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

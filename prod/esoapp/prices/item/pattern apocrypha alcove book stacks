@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern apocrypha alcove book stacks",
+    "displayName": "Pattern: Apocrypha Alcove, Book Stacks",
+    "values": {
+      "commonRange": "90,000 - 169,999",
+      "averagePrice": 125070,
+      "minimumPrice": 80000,
+      "maximumPrice": 175000,
+      "averageStackPrice": 125070,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

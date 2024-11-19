@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern argonian drum ceremonial",
+    "displayName": "Pattern: Argonian Drum, Ceremonial",
+    "values": {
+      "commonRange": "9,817 - 12,000",
+      "averagePrice": 10383,
+      "minimumPrice": 9069,
+      "maximumPrice": 12168,
+      "averageStackPrice": 10383,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

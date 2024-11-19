@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern alinor curtains tall drawn",
+    "displayName": "Pattern: Alinor Curtains, Tall Drawn",
+    "values": {
+      "commonRange": "17,700 - 20,695",
+      "averagePrice": 18019,
+      "minimumPrice": 400,
+      "maximumPrice": 23000,
+      "averageStackPrice": 18019,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern apocrypha book piles floating",
+    "displayName": "Pattern: Apocrypha Book Piles, Floating",
+    "values": {
+      "commonRange": "8,800 - 12,000",
+      "averagePrice": 11774,
+      "minimumPrice": 6566,
+      "maximumPrice": 34900,
+      "averageStackPrice": 11774,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

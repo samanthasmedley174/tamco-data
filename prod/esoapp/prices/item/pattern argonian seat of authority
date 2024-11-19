@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern argonian seat of authority",
+    "displayName": "Pattern: Argonian Seat of Authority",
+    "values": {
+      "commonRange": "12,700 - 14,559",
+      "averagePrice": 13590,
+      "minimumPrice": 12500,
+      "maximumPrice": 14615,
+      "averageStackPrice": 13590,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

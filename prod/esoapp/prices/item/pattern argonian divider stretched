@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern argonian divider stretched",
+    "displayName": "Pattern: Argonian Divider, Stretched",
+    "values": {
+      "commonRange": "12,665 - 14,101",
+      "averagePrice": 13237,
+      "minimumPrice": 12665,
+      "maximumPrice": 15000,
+      "averageStackPrice": 13237,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

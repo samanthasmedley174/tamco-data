@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern argonian bin woven",
+    "displayName": "Pattern: Argonian Bin, Woven",
+    "values": {
+      "commonRange": "500 - 950",
+      "averagePrice": 662,
+      "minimumPrice": 100,
+      "maximumPrice": 1000,
+      "averageStackPrice": 662,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

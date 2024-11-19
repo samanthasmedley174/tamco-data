@@ -1,0 +1,18 @@
+[
+  {
+    "name": "painting of jungle sturdy",
+    "displayName": "Painting of Jungle, Sturdy",
+    "values": {
+      "commonRange": "220 - 800",
+      "averagePrice": 716,
+      "minimumPrice": 200,
+      "maximumPrice": 2569,
+      "averageStackPrice": 716,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

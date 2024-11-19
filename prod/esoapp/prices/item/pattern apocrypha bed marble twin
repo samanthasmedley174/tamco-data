@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern apocrypha bed marble twin",
+    "displayName": "Pattern: Apocrypha Bed, Marble Twin",
+    "values": {
+      "commonRange": "4,000 - 7,000",
+      "averagePrice": 5751,
+      "minimumPrice": 3000,
+      "maximumPrice": 10975,
+      "averageStackPrice": 5751,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

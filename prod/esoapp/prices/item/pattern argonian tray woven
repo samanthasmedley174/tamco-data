@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern argonian tray woven",
+    "displayName": "Pattern: Argonian Tray, Woven",
+    "values": {
+      "commonRange": "330 - 917",
+      "averagePrice": 679,
+      "minimumPrice": 100,
+      "maximumPrice": 1030,
+      "averageStackPrice": 679,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

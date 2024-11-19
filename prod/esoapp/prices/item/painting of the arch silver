@@ -1,0 +1,18 @@
+[
+  {
+    "name": "painting of the arch silver",
+    "displayName": "Painting of the Arch, Silver",
+    "values": {
+      "commonRange": "5,000 - 12,000",
+      "averagePrice": 12914,
+      "minimumPrice": 5000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 12914,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

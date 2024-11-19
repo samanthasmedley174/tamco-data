@@ -1,0 +1,18 @@
+[
+  {
+    "name": "order of the hour rug winged",
+    "displayName": "Order of the Hour Rug, Winged",
+    "values": {
+      "commonRange": "5,000 - 17,795",
+      "averagePrice": 10594,
+      "minimumPrice": 5000,
+      "maximumPrice": 17949,
+      "averageStackPrice": 10594,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

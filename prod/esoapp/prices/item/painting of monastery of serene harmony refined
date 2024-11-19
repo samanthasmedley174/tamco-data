@@ -1,0 +1,18 @@
+[
+  {
+    "name": "painting of monastery of serene harmony refined",
+    "displayName": "Painting of Monastery of Serene Harmony, Refined",
+    "values": {
+      "commonRange": "19,000 - 25,300",
+      "averagePrice": 21749,
+      "minimumPrice": 16369,
+      "maximumPrice": 27367,
+      "averageStackPrice": 21749,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

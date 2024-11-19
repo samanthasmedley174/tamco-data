@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern argonian canopy skull",
+    "displayName": "Pattern: Argonian Canopy, Skull",
+    "values": {
+      "commonRange": "8,000 - 9,698",
+      "averagePrice": 8705,
+      "minimumPrice": 7500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 8705,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

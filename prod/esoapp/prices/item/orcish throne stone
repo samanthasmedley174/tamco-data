@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish throne stone",
+    "displayName": "Orcish Throne, Stone",
+    "values": {
+      "commonRange": "10,000 - 15,348",
+      "averagePrice": 13411,
+      "minimumPrice": 7500,
+      "maximumPrice": 15348,
+      "averageStackPrice": 13411,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "03/26/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

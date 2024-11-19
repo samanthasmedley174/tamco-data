@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern breton bed canopy",
+    "displayName": "Pattern: Breton Bed, Canopy",
+    "values": {
+      "commonRange": "20,000 - 40,000",
+      "averagePrice": 33752,
+      "minimumPrice": 20000,
+      "maximumPrice": 45000,
+      "averageStackPrice": 33752,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

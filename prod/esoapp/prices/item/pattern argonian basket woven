@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern argonian basket woven",
+    "displayName": "Pattern: Argonian Basket, Woven",
+    "values": {
+      "commonRange": "250 - 1,157",
+      "averagePrice": 921,
+      "minimumPrice": 200,
+      "maximumPrice": 2530,
+      "averageStackPrice": 921,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

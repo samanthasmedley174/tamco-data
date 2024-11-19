@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish urn ceramic",
+    "displayName": "Orcish Urn, Ceramic",
+    "values": {
+      "commonRange": "1,000 - 4,150",
+      "averagePrice": 2204,
+      "minimumPrice": 250,
+      "maximumPrice": 4150,
+      "averageStackPrice": 2204,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/25/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

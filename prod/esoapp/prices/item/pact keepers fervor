@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pact keepers fervor",
+    "displayName": "Pact-Keeper's Fervor",
+    "values": {
+      "commonRange": "228 - 1,228",
+      "averagePrice": 763,
+      "minimumPrice": 228,
+      "maximumPrice": 2228,
+      "averageStackPrice": 763,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

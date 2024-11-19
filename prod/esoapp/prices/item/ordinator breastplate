@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ordinator breastplate",
+    "displayName": "Ordinator Breastplate",
+    "values": {
+      "commonRange": "580 - 580",
+      "averagePrice": 605,
+      "minimumPrice": 380,
+      "maximumPrice": 880,
+      "averageStackPrice": 605,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

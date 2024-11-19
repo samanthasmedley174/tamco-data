@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish tapestry war",
+    "displayName": "Orcish Tapestry, War",
+    "values": {
+      "commonRange": "2,200 - 4,000",
+      "averagePrice": 3311,
+      "minimumPrice": 1460,
+      "maximumPrice": 6000,
+      "averageStackPrice": 3311,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

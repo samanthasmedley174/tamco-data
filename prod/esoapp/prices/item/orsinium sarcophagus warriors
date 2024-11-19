@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orsinium sarcophagus warriors",
+    "displayName": "Orsinium Sarcophagus, Warrior's",
+    "values": {
+      "commonRange": "16,300 - 100,000",
+      "averagePrice": 49981,
+      "minimumPrice": 15000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 49981,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "04/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

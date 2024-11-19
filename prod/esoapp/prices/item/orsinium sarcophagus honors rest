@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orsinium sarcophagus honors rest",
+    "displayName": "Orsinium Sarcophagus, Honor's Rest",
+    "values": {
+      "commonRange": "40,000 - 60,000",
+      "averagePrice": 50162,
+      "minimumPrice": 40000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 50162,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

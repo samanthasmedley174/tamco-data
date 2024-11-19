@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pact cold fire ballista",
+    "displayName": "Pact Cold Fire Ballista",
+    "values": {
+      "commonRange": "1,100 - 20,000",
+      "averagePrice": 10805,
+      "minimumPrice": 50,
+      "maximumPrice": 23622,
+      "averageStackPrice": 10805,
+      "commonStackSize": 1,
+      "salesRecorded": 56
+    },
+    "type": "Siege Equipment",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Pact_Cold_Fire_Ballista.png"
+  }
+]

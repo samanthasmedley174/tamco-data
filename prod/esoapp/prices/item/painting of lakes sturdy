@@ -1,0 +1,18 @@
+[
+  {
+    "name": "painting of lakes sturdy",
+    "displayName": "Painting of Lakes, Sturdy",
+    "values": {
+      "commonRange": "220 - 2,500",
+      "averagePrice": 1370,
+      "minimumPrice": 220,
+      "maximumPrice": 2517,
+      "averageStackPrice": 1370,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

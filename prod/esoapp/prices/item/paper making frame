@@ -1,0 +1,18 @@
+[
+  {
+    "name": "paper making frame",
+    "displayName": "Paper Making Frame",
+    "values": {
+      "commonRange": "2,717 - 8,128",
+      "averagePrice": 5490,
+      "minimumPrice": 2655,
+      "maximumPrice": 8950,
+      "averageStackPrice": 5490,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

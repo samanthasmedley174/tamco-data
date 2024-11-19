@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern argonian shelves half",
+    "displayName": "Pattern: Argonian Shelves, Half",
+    "values": {
+      "commonRange": "60 - 580",
+      "averagePrice": 192,
+      "minimumPrice": 35,
+      "maximumPrice": 645,
+      "averageStackPrice": 192,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

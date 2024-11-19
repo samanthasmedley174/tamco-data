@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orsinium statue head",
+    "displayName": "Orsinium Statue, Head",
+    "values": {
+      "commonRange": "20,000 - 67,899",
+      "averagePrice": 39880,
+      "minimumPrice": 5000,
+      "maximumPrice": 67899,
+      "averageStackPrice": 39880,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern argonian seat of comfort",
+    "displayName": "Pattern: Argonian Seat of Comfort",
+    "values": {
+      "commonRange": "12,000 - 15,608",
+      "averagePrice": 14113,
+      "minimumPrice": 12000,
+      "maximumPrice": 17000,
+      "averageStackPrice": 14113,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

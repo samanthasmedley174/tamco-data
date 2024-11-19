@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern alinor curtains drawn",
+    "displayName": "Pattern: Alinor Curtains, Drawn",
+    "values": {
+      "commonRange": "5,274 - 10,030",
+      "averagePrice": 8210,
+      "minimumPrice": 5000,
+      "maximumPrice": 10909,
+      "averageStackPrice": 8210,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern argonian scaleskin pale",
+    "displayName": "Pattern: Argonian Scaleskin, Pale",
+    "values": {
+      "commonRange": "555 - 950",
+      "averagePrice": 778,
+      "minimumPrice": 500,
+      "maximumPrice": 969,
+      "averageStackPrice": 778,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

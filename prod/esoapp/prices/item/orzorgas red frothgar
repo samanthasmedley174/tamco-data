@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orzorgas red frothgar",
+    "displayName": "Orzorga's Red Frothgar",
+    "values": {
+      "commonRange": "39 - 180",
+      "averagePrice": 89,
+      "minimumPrice": 24,
+      "maximumPrice": 180,
+      "averageStackPrice": 8900,
+      "commonStackSize": 100,
+      "salesRecorded": 12
+    },
+    "type": "Food & Drinks",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/orzorga's_red_frothgar.png"
+  }
+]

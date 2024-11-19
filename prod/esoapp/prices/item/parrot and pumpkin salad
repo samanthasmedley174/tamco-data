@@ -1,0 +1,18 @@
+[
+  {
+    "name": "parrot and pumpkin salad",
+    "displayName": "Parrot-and-Pumpkin Salad",
+    "values": {
+      "commonRange": "6 - 110",
+      "averagePrice": 59,
+      "minimumPrice": 6,
+      "maximumPrice": 110,
+      "averageStackPrice": 5900,
+      "commonStackSize": 100,
+      "salesRecorded": 13
+    },
+    "type": "Food & Drinks",
+    "date": "06/27/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/parrot-and-pumpkin_salad.png"
+  }
+]

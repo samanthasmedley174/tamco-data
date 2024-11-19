@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pact scattershot catapult",
+    "displayName": "Pact Scattershot Catapult",
+    "values": {
+      "commonRange": "97 - 500",
+      "averagePrice": 204,
+      "minimumPrice": 50,
+      "maximumPrice": 500,
+      "averageStackPrice": 204,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Siege Equipment",
+    "date": "07/06/2021",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Pact_Scattershot_Catapult.png"
+  }
+]

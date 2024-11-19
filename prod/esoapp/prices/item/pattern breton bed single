@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern breton bed single",
+    "displayName": "Pattern: Breton Bed, Single",
+    "values": {
+      "commonRange": "80 - 200",
+      "averagePrice": 170,
+      "minimumPrice": 27,
+      "maximumPrice": 327,
+      "averageStackPrice": 170,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

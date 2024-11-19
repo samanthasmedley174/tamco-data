@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pact cold stone trebuchet",
+    "displayName": "Pact Cold Stone Trebuchet",
+    "values": {
+      "commonRange": "100 - 1,000",
+      "averagePrice": 480,
+      "minimumPrice": 40,
+      "maximumPrice": 1033,
+      "averageStackPrice": 480,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Siege Equipment",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Pact_Cold_Stone_Trebuchet.png"
+  }
+]

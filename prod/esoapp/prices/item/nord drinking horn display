@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord drinking horn display",
+    "displayName": "Nord Drinking Horn, Display",
+    "values": {
+      "commonRange": "300 - 1,563",
+      "averagePrice": 1183,
+      "minimumPrice": 250,
+      "maximumPrice": 2500,
+      "averageStackPrice": 2366,
+      "commonStackSize": 2,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

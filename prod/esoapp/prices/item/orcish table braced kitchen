@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish table braced kitchen",
+    "displayName": "Orcish Table, Braced Kitchen",
+    "values": {
+      "commonRange": "570 - 2,060",
+      "averagePrice": 1584,
+      "minimumPrice": 60,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1584,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/04/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

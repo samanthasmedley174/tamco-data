@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish brazier smoldering",
+    "displayName": "Orcish Brazier, Smoldering",
+    "values": {
+      "commonRange": "500 - 1,100",
+      "averagePrice": 736,
+      "minimumPrice": 260,
+      "maximumPrice": 1100,
+      "averageStackPrice": 736,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

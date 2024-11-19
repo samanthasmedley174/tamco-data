@@ -1,0 +1,18 @@
+[
+  {
+    "name": "old hegathe lemon kaveh",
+    "displayName": "Old Hegathe Lemon Kaveh",
+    "values": {
+      "commonRange": "5 - 16",
+      "averagePrice": 12,
+      "minimumPrice": 5,
+      "maximumPrice": 16,
+      "averageStackPrice": 1200,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "03/15/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/old_hegathe_lemon_kaveh.png"
+  }
+]

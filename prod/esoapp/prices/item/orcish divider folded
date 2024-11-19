@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish divider folded",
+    "displayName": "Orcish Divider, Folded",
+    "values": {
+      "commonRange": "3,300 - 9,850",
+      "averagePrice": 8185,
+      "minimumPrice": 888,
+      "maximumPrice": 15300,
+      "averageStackPrice": 8185,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

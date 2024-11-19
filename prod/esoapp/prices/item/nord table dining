@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord table dining",
+    "displayName": "Nord Table, Dining",
+    "values": {
+      "commonRange": "150 - 4,150",
+      "averagePrice": 2878,
+      "minimumPrice": 100,
+      "maximumPrice": 4150,
+      "averageStackPrice": 2878,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

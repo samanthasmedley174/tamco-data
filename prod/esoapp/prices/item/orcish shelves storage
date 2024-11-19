@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish shelves storage",
+    "displayName": "Orcish Shelves, Storage",
+    "values": {
+      "commonRange": "6,500 - 16,000",
+      "averagePrice": 10632,
+      "minimumPrice": 6000,
+      "maximumPrice": 16000,
+      "averageStackPrice": 10632,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

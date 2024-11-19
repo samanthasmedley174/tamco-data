@@ -1,0 +1,18 @@
+[
+  {
+    "name": "okori",
+    "displayName": "Okori",
+    "values": {
+      "commonRange": "10 - 56",
+      "averagePrice": 44,
+      "minimumPrice": 3,
+      "maximumPrice": 183,
+      "averageStackPrice": 8800,
+      "commonStackSize": 200,
+      "salesRecorded": 17
+    },
+    "type": "Enchanting Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Okori.png"
+  }
+]

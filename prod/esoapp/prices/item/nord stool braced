@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord stool braced",
+    "displayName": "Nord Stool, Braced",
+    "values": {
+      "commonRange": "400 - 2,000",
+      "averagePrice": 1587,
+      "minimumPrice": 400,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1587,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/20/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

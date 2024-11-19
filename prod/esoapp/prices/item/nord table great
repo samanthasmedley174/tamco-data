@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord table great",
+    "displayName": "Nord Table, Great",
+    "values": {
+      "commonRange": "3,750 - 29,990",
+      "averagePrice": 15566,
+      "minimumPrice": 850,
+      "maximumPrice": 29990,
+      "averageStackPrice": 15566,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/19/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

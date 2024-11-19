@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish candlestick horn",
+    "displayName": "Orcish Candlestick, Horn",
+    "values": {
+      "commonRange": "1,500 - 4,300",
+      "averagePrice": 2575,
+      "minimumPrice": 900,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2575,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

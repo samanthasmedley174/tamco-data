@@ -1,0 +1,18 @@
+[
+  {
+    "name": "obsidian deposit smooth",
+    "displayName": "Obsidian Deposit, Smooth",
+    "values": {
+      "commonRange": "15,000 - 20,308",
+      "averagePrice": 19133,
+      "minimumPrice": 15000,
+      "maximumPrice": 35000,
+      "averageStackPrice": 19133,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "oko",
+    "displayName": "Oko",
+    "values": {
+      "commonRange": "23 - 400",
+      "averagePrice": 211,
+      "minimumPrice": 3,
+      "maximumPrice": 1000,
+      "averageStackPrice": 42200,
+      "commonStackSize": 200,
+      "salesRecorded": 117
+    },
+    "type": "Enchanting Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Oko.png"
+  }
+]

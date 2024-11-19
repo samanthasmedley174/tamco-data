@@ -1,0 +1,18 @@
+[
+  {
+    "name": "old growth ring",
+    "displayName": "Old Growth Ring",
+    "values": {
+      "commonRange": "5,999 - 5,999",
+      "averagePrice": 5999,
+      "minimumPrice": 5999,
+      "maximumPrice": 5999,
+      "averageStackPrice": 5999,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

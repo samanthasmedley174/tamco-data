@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish table formal",
+    "displayName": "Orcish Table, Formal",
+    "values": {
+      "commonRange": "1,350 - 7,000",
+      "averagePrice": 4455,
+      "minimumPrice": 1350,
+      "maximumPrice": 7700,
+      "averageStackPrice": 4455,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

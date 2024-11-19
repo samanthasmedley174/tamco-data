@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orc brazier",
+    "displayName": "Orc Brazier",
+    "values": {
+      "commonRange": "15,000 - 18,000",
+      "averagePrice": 16307,
+      "minimumPrice": 9000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 16307,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

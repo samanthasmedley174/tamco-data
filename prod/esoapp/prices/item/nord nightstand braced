@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord nightstand braced",
+    "displayName": "Nord Nightstand, Braced",
+    "values": {
+      "commonRange": "1,000 - 7,800",
+      "averagePrice": 4584,
+      "minimumPrice": 1000,
+      "maximumPrice": 8300,
+      "averageStackPrice": 4584,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/31/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

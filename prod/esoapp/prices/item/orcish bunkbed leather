@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish bunkbed leather",
+    "displayName": "Orcish Bunkbed, Leather",
+    "values": {
+      "commonRange": "1,000 - 6,000",
+      "averagePrice": 3909,
+      "minimumPrice": 550,
+      "maximumPrice": 11800,
+      "averageStackPrice": 3909,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/02/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish table kitchen",
+    "displayName": "Orcish Table, Kitchen",
+    "values": {
+      "commonRange": "450 - 3,450",
+      "averagePrice": 1918,
+      "minimumPrice": 150,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1918,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/26/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

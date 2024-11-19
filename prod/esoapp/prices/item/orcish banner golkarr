@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish banner golkarr",
+    "displayName": "Orcish Banner, Golkarr",
+    "values": {
+      "commonRange": "7,000 - 12,000",
+      "averagePrice": 10096,
+      "minimumPrice": 888,
+      "maximumPrice": 21000,
+      "averageStackPrice": 10096,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/08/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

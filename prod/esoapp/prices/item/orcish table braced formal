@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish table braced formal",
+    "displayName": "Orcish Table, Braced Formal",
+    "values": {
+      "commonRange": "1,000 - 4,250",
+      "averagePrice": 2766,
+      "minimumPrice": 60,
+      "maximumPrice": 4400,
+      "averageStackPrice": 2766,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish counter branded",
+    "displayName": "Orcish Counter, Branded",
+    "values": {
+      "commonRange": "500 - 8,000",
+      "averagePrice": 3489,
+      "minimumPrice": 350,
+      "maximumPrice": 11800,
+      "averageStackPrice": 3489,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/04/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

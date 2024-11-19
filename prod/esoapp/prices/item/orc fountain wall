@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orc fountain wall",
+    "displayName": "Orc Fountain, Wall",
+    "values": {
+      "commonRange": "25,000 - 43,985",
+      "averagePrice": 36232,
+      "minimumPrice": 25000,
+      "maximumPrice": 43985,
+      "averageStackPrice": 36232,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

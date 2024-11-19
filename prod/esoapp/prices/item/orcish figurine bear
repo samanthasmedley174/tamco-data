@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish figurine bear",
+    "displayName": "Orcish Figurine, Bear",
+    "values": {
+      "commonRange": "14,000 - 18,000",
+      "averagePrice": 15766,
+      "minimumPrice": 12590,
+      "maximumPrice": 21250,
+      "averageStackPrice": 15766,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

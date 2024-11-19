@@ -1,0 +1,18 @@
+[
+  {
+    "name": "northern elsweyr treasure map v",
+    "displayName": "Northern Elsweyr Treasure Map V",
+    "values": {
+      "commonRange": "100 - 1,300",
+      "averagePrice": 414,
+      "minimumPrice": 40,
+      "maximumPrice": 2000,
+      "averageStackPrice": 414,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Treasure Maps",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

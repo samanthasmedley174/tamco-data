@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish banner worn",
+    "displayName": "Orcish Banner, Worn",
+    "values": {
+      "commonRange": "484 - 2,200",
+      "averagePrice": 1336,
+      "minimumPrice": 200,
+      "maximumPrice": 4400,
+      "averageStackPrice": 1336,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

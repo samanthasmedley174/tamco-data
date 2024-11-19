@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish lantern hooded",
+    "displayName": "Orcish Lantern, Hooded",
+    "values": {
+      "commonRange": "200 - 670",
+      "averagePrice": 391,
+      "minimumPrice": 160,
+      "maximumPrice": 700,
+      "averageStackPrice": 391,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

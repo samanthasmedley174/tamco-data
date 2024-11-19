@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish plate stone",
+    "displayName": "Orcish Plate, Stone",
+    "values": {
+      "commonRange": "500 - 3,000",
+      "averagePrice": 1325,
+      "minimumPrice": 150,
+      "maximumPrice": 4400,
+      "averageStackPrice": 1325,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/19/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish sconce caged",
+    "displayName": "Orcish Sconce, Caged",
+    "values": {
+      "commonRange": "800 - 2,000",
+      "averagePrice": 1291,
+      "minimumPrice": 360,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1291,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

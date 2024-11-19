@@ -1,0 +1,18 @@
+[
+  {
+    "name": "obliviate lacquer",
+    "displayName": "Obliviate Lacquer",
+    "values": {
+      "commonRange": "89 - 366",
+      "averagePrice": 253,
+      "minimumPrice": 89,
+      "maximumPrice": 520,
+      "averageStackPrice": 253,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Obliviate_Lacquer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish brazier bordered",
+    "displayName": "Orcish Brazier, Bordered",
+    "values": {
+      "commonRange": "1,988 - 4,876",
+      "averagePrice": 3310,
+      "minimumPrice": 300,
+      "maximumPrice": 8413,
+      "averageStackPrice": 3310,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

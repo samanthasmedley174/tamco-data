@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ochre",
+    "displayName": "Ochre",
+    "values": {
+      "commonRange": "27 - 75",
+      "averagePrice": 47,
+      "minimumPrice": 17,
+      "maximumPrice": 100,
+      "averageStackPrice": 9400,
+      "commonStackSize": 200,
+      "salesRecorded": 38
+    },
+    "type": "Furnishing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

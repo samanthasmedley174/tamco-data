@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord trestle tied",
+    "displayName": "Nord Trestle, Tied",
+    "values": {
+      "commonRange": "1,900 - 3,000",
+      "averagePrice": 2810,
+      "minimumPrice": 1800,
+      "maximumPrice": 7300,
+      "averageStackPrice": 2810,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/26/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

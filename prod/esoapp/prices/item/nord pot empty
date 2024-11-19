@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord pot empty",
+    "displayName": "Nord Pot, Empty",
+    "values": {
+      "commonRange": "150 - 2,511",
+      "averagePrice": 2606,
+      "minimumPrice": 50,
+      "maximumPrice": 15000,
+      "averageStackPrice": 2606,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/27/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

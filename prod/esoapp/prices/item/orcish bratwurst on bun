@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish bratwurst on bun",
+    "displayName": "Orcish Bratwurst on Bun",
+    "values": {
+      "commonRange": "10 - 150",
+      "averagePrice": 51,
+      "minimumPrice": 10,
+      "maximumPrice": 150,
+      "averageStackPrice": 408,
+      "commonStackSize": 8,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "06/22/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/orcish_bratwurst_on_bun.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish platform block",
+    "displayName": "Orcish Platform, Block",
+    "values": {
+      "commonRange": "697 - 3,060",
+      "averagePrice": 1411,
+      "minimumPrice": 172,
+      "maximumPrice": 3666,
+      "averageStackPrice": 1411,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

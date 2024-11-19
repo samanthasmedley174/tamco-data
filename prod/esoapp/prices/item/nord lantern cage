@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord lantern cage",
+    "displayName": "Nord Lantern, Cage",
+    "values": {
+      "commonRange": "360 - 1,029",
+      "averagePrice": 734,
+      "minimumPrice": 300,
+      "maximumPrice": 1100,
+      "averageStackPrice": 734,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

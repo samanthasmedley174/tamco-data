@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord trunk faded",
+    "displayName": "Nord Trunk, Faded",
+    "values": {
+      "commonRange": "1,000 - 4,350",
+      "averagePrice": 2790,
+      "minimumPrice": 650,
+      "maximumPrice": 12250,
+      "averageStackPrice": 2790,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/05/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish cradle peaked",
+    "displayName": "Orcish Cradle, Peaked",
+    "values": {
+      "commonRange": "6,500 - 15,000",
+      "averagePrice": 10911,
+      "minimumPrice": 6000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10911,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

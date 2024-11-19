@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish carpet fringed",
+    "displayName": "Orcish Carpet, Fringed",
+    "values": {
+      "commonRange": "1,003 - 3,008",
+      "averagePrice": 1739,
+      "minimumPrice": 860,
+      "maximumPrice": 3008,
+      "averageStackPrice": 1739,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

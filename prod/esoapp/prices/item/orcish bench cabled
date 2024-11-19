@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish bench cabled",
+    "displayName": "Orcish Bench, Cabled",
+    "values": {
+      "commonRange": "1,060 - 4,050",
+      "averagePrice": 2303,
+      "minimumPrice": 60,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2303,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

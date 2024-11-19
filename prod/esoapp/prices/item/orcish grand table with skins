@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish grand table with skins",
+    "displayName": "Orcish Grand Table with Skins",
+    "values": {
+      "commonRange": "15,000 - 113,392",
+      "averagePrice": 70080,
+      "minimumPrice": 4000,
+      "maximumPrice": 120291,
+      "averageStackPrice": 70080,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

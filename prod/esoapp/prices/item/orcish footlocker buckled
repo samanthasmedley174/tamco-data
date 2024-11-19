@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish footlocker buckled",
+    "displayName": "Orcish Footlocker, Buckled",
+    "values": {
+      "commonRange": "2,250 - 9,299",
+      "averagePrice": 5550,
+      "minimumPrice": 1500,
+      "maximumPrice": 11800,
+      "averageStackPrice": 5550,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

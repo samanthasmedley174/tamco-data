@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish bedding stone",
+    "displayName": "Orcish Bedding, Stone",
+    "values": {
+      "commonRange": "160 - 3,000",
+      "averagePrice": 1612,
+      "minimumPrice": 160,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1612,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

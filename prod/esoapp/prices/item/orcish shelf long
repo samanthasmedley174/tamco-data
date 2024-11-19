@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish shelf long",
+    "displayName": "Orcish Shelf, Long",
+    "values": {
+      "commonRange": "250 - 1,000",
+      "averagePrice": 855,
+      "minimumPrice": 200,
+      "maximumPrice": 2060,
+      "averageStackPrice": 855,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/05/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

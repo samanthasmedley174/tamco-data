@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord cauldron glazed",
+    "displayName": "Nord Cauldron, Glazed",
+    "values": {
+      "commonRange": "1,150 - 6,000",
+      "averagePrice": 4537,
+      "minimumPrice": 800,
+      "maximumPrice": 22159,
+      "averageStackPrice": 4537,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/12/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

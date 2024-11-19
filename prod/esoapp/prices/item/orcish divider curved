@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish divider curved",
+    "displayName": "Orcish Divider, Curved",
+    "values": {
+      "commonRange": "3,300 - 9,900",
+      "averagePrice": 7196,
+      "minimumPrice": 3000,
+      "maximumPrice": 9900,
+      "averageStackPrice": 7196,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/07/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

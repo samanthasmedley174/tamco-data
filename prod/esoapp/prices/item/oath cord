@@ -1,0 +1,18 @@
+[
+  {
+    "name": "oath cord",
+    "displayName": "Oath Cord",
+    "values": {
+      "commonRange": "400 - 440",
+      "averagePrice": 431,
+      "minimumPrice": 311,
+      "maximumPrice": 591,
+      "averageStackPrice": 431,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Materials",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Oath_Cord.png"
+  }
+]

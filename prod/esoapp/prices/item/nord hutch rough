@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord hutch rough",
+    "displayName": "Nord Hutch, Rough",
+    "values": {
+      "commonRange": "100 - 3,000",
+      "averagePrice": 1066,
+      "minimumPrice": 60,
+      "maximumPrice": 3860,
+      "averageStackPrice": 1066,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

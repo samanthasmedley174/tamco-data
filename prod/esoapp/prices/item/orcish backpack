@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish backpack",
+    "displayName": "Orcish Backpack",
+    "values": {
+      "commonRange": "5,000 - 12,000",
+      "averagePrice": 6874,
+      "minimumPrice": 5000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 6874,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

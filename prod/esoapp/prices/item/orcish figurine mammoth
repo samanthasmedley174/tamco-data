@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish figurine mammoth",
+    "displayName": "Orcish Figurine, Mammoth",
+    "values": {
+      "commonRange": "12,577 - 17,000",
+      "averagePrice": 12928,
+      "minimumPrice": 1000,
+      "maximumPrice": 17000,
+      "averageStackPrice": 12928,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish gazebo orsinium",
+    "displayName": "Orcish Gazebo, Orsinium",
+    "values": {
+      "commonRange": "30,000 - 48,989",
+      "averagePrice": 40639,
+      "minimumPrice": 17500,
+      "maximumPrice": 55000,
+      "averageStackPrice": 40639,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

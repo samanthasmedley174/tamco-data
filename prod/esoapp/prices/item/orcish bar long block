@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish bar long block",
+    "displayName": "Orcish Bar, Long Block",
+    "values": {
+      "commonRange": "310 - 3,085",
+      "averagePrice": 1816,
+      "minimumPrice": 300,
+      "maximumPrice": 3100,
+      "averageStackPrice": 1816,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

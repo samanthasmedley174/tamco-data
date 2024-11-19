@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord table kitchen",
+    "displayName": "Nord Table, Kitchen",
+    "values": {
+      "commonRange": "360 - 3,000",
+      "averagePrice": 1389,
+      "minimumPrice": 360,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1389,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/24/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

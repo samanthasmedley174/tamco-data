@@ -1,0 +1,18 @@
+[
+  {
+    "name": "odra",
+    "displayName": "Odra",
+    "values": {
+      "commonRange": "130 - 150",
+      "averagePrice": 140,
+      "minimumPrice": 106,
+      "maximumPrice": 150,
+      "averageStackPrice": 28000,
+      "commonStackSize": 200,
+      "salesRecorded": 12
+    },
+    "type": "Enchanting Materials",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Odra.png"
+  }
+]

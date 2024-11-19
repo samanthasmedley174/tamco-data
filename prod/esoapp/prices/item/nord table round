@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord table round",
+    "displayName": "Nord Table, Round",
+    "values": {
+      "commonRange": "1,000 - 11,800",
+      "averagePrice": 5671,
+      "minimumPrice": 1000,
+      "maximumPrice": 11800,
+      "averageStackPrice": 5671,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/17/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

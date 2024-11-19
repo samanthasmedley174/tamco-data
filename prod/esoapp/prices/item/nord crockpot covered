@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord crockpot covered",
+    "displayName": "Nord Crockpot, Covered",
+    "values": {
+      "commonRange": "950 - 4,000",
+      "averagePrice": 2610,
+      "minimumPrice": 500,
+      "maximumPrice": 8000,
+      "averageStackPrice": 2610,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/18/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

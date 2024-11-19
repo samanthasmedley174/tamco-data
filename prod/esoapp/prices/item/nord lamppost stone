@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord lamppost stone",
+    "displayName": "Nord Lamppost, Stone",
+    "values": {
+      "commonRange": "1,000 - 2,520",
+      "averagePrice": 2202,
+      "minimumPrice": 300,
+      "maximumPrice": 6300,
+      "averageStackPrice": 2202,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "03/12/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

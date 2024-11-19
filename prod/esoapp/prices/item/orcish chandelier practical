@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish chandelier practical",
+    "displayName": "Orcish Chandelier, Practical",
+    "values": {
+      "commonRange": "1,150 - 2,475",
+      "averagePrice": 2298,
+      "minimumPrice": 650,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2298,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

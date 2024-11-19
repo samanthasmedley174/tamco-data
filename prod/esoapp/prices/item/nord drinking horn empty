@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord drinking horn empty",
+    "displayName": "Nord Drinking Horn, Empty",
+    "values": {
+      "commonRange": "500 - 1,500",
+      "averagePrice": 1005,
+      "minimumPrice": 100,
+      "maximumPrice": 1500,
+      "averageStackPrice": 1005,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

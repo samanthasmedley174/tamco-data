@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish capsule sealed",
+    "displayName": "Orcish Capsule, Sealed",
+    "values": {
+      "commonRange": "1,000 - 5,575",
+      "averagePrice": 4010,
+      "minimumPrice": 888,
+      "maximumPrice": 9800,
+      "averageStackPrice": 4010,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

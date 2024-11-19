@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord shelf wall",
+    "displayName": "Nord Shelf, Wall",
+    "values": {
+      "commonRange": "110 - 1,000",
+      "averagePrice": 599,
+      "minimumPrice": 60,
+      "maximumPrice": 3000,
+      "averageStackPrice": 599,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/03/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

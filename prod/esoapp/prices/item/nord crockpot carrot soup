@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord crockpot carrot soup",
+    "displayName": "Nord Crockpot, Carrot Soup",
+    "values": {
+      "commonRange": "2,000 - 4,674",
+      "averagePrice": 3460,
+      "minimumPrice": 1100,
+      "maximumPrice": 5000,
+      "averageStackPrice": 3460,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish dresser engraved",
+    "displayName": "Orcish Dresser, Engraved",
+    "values": {
+      "commonRange": "1,500 - 9,000",
+      "averagePrice": 5977,
+      "minimumPrice": 1500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5977,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/28/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

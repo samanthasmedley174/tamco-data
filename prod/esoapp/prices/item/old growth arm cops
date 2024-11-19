@@ -1,0 +1,18 @@
+[
+  {
+    "name": "old growth arm cops",
+    "displayName": "Old Growth Arm Cops",
+    "values": {
+      "commonRange": "1,500 - 1,500",
+      "averagePrice": 1500,
+      "minimumPrice": 1500,
+      "maximumPrice": 1500,
+      "averageStackPrice": 1500,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

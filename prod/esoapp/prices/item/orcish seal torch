@@ -1,0 +1,18 @@
+[
+  {
+    "name": "orcish seal torch",
+    "displayName": "Orcish Seal, Torch",
+    "values": {
+      "commonRange": "1,000 - 5,000",
+      "averagePrice": 3125,
+      "minimumPrice": 1000,
+      "maximumPrice": 5054,
+      "averageStackPrice": 3125,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

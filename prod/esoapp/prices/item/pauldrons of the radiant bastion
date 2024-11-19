@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pauldrons of the radiant bastion",
+    "displayName": "Pauldrons of the Radiant Bastion",
+    "values": {
+      "commonRange": "808 - 3,150",
+      "averagePrice": 3506,
+      "minimumPrice": 450,
+      "maximumPrice": 22153,
+      "averageStackPrice": 3506,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

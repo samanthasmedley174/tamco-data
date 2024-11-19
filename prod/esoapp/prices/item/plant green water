@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant green water",
+    "displayName": "Plant, Green Water",
+    "values": {
+      "commonRange": "100 - 715",
+      "averagePrice": 370,
+      "minimumPrice": 73,
+      "maximumPrice": 999,
+      "averageStackPrice": 370,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

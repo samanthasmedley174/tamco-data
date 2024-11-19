@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plaguebreak amulet",
+    "displayName": "Plaguebreak Amulet",
+    "values": {
+      "commonRange": "1,153 - 69,156",
+      "averagePrice": 20712,
+      "minimumPrice": 344,
+      "maximumPrice": 69156,
+      "averageStackPrice": 20712,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern worm cult papers scattered",
+    "displayName": "Pattern: Worm Cult Papers, Scattered",
+    "values": {
+      "commonRange": "30,000 - 70,000",
+      "averagePrice": 52920,
+      "minimumPrice": 30000,
+      "maximumPrice": 73632,
+      "averageStackPrice": 52920,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

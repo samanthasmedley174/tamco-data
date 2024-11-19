@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant jungle leaf",
+    "displayName": "Plant, Jungle Leaf",
+    "values": {
+      "commonRange": "100 - 265",
+      "averagePrice": 192,
+      "minimumPrice": 15,
+      "maximumPrice": 500,
+      "averageStackPrice": 384,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/20/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

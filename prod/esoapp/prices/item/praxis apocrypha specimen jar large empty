@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis apocrypha specimen jar large empty",
+    "displayName": "Praxis: Apocrypha Specimen Jar, Large Empty",
+    "values": {
+      "commonRange": "27,200 - 45,000",
+      "averagePrice": 36679,
+      "minimumPrice": 27000,
+      "maximumPrice": 63978,
+      "averageStackPrice": 36679,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

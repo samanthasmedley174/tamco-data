@@ -1,0 +1,18 @@
+[
+  {
+    "name": "port hunding cheese fries",
+    "displayName": "Port Hunding Cheese Fries",
+    "values": {
+      "commonRange": "6 - 18",
+      "averagePrice": 13,
+      "minimumPrice": 3,
+      "maximumPrice": 48,
+      "averageStackPrice": 1300,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "01/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/port_hunding_cheese_fries.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern indoril rug sotha sil",
+    "displayName": "Pattern: Indoril Rug, Sotha Sil",
+    "values": {
+      "commonRange": "20,039 - 28,000",
+      "averagePrice": 24699,
+      "minimumPrice": 20039,
+      "maximumPrice": 28500,
+      "averageStackPrice": 24699,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

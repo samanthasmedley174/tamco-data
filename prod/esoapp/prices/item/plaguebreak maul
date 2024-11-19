@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plaguebreak maul",
+    "displayName": "Plaguebreak Maul",
+    "values": {
+      "commonRange": "2,999 - 20,246",
+      "averagePrice": 9778,
+      "minimumPrice": 334,
+      "maximumPrice": 39246,
+      "averageStackPrice": 9778,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

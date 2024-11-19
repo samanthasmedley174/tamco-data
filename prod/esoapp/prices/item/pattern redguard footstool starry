@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redguard footstool starry",
+    "displayName": "Pattern: Redguard Footstool, Starry",
+    "values": {
+      "commonRange": "18,000 - 24,419",
+      "averagePrice": 22083,
+      "minimumPrice": 17999,
+      "maximumPrice": 24895,
+      "averageStackPrice": 22083,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

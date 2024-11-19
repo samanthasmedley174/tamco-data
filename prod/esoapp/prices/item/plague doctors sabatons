@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plague doctors sabatons",
+    "displayName": "Plague Doctor's Sabatons",
+    "values": {
+      "commonRange": "200 - 10,000",
+      "averagePrice": 2736,
+      "minimumPrice": 87,
+      "maximumPrice": 20090,
+      "averageStackPrice": 2736,
+      "commonStackSize": 1,
+      "salesRecorded": 118
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

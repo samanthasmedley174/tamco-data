@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern leyawiin basket hamper wide",
+    "displayName": "Pattern: Leyawiin Basket, Hamper Wide",
+    "values": {
+      "commonRange": "2,000 - 18,000",
+      "averagePrice": 10733,
+      "minimumPrice": 230,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10733,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

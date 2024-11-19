@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis ayleid column tall",
+    "displayName": "Praxis: Ayleid Column, Tall",
+    "values": {
+      "commonRange": "200,000 - 301,954",
+      "averagePrice": 261579,
+      "minimumPrice": 200000,
+      "maximumPrice": 301954,
+      "averageStackPrice": 261579,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

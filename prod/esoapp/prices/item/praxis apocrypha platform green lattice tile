@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis apocrypha platform green lattice tile",
+    "displayName": "Praxis: Apocrypha Platform, Green Lattice Tile",
+    "values": {
+      "commonRange": "400,000 - 450,000",
+      "averagePrice": 423912,
+      "minimumPrice": 380000,
+      "maximumPrice": 460000,
+      "averageStackPrice": 423912,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern leyawiin carpet misty octad",
+    "displayName": "Pattern: Leyawiin Carpet, Misty Octad",
+    "values": {
+      "commonRange": "300 - 4,362",
+      "averagePrice": 2623,
+      "minimumPrice": 227,
+      "maximumPrice": 4681,
+      "averageStackPrice": 2623,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

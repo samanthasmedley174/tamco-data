@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor sarcophagus peaked",
+    "displayName": "Praxis: Alinor Sarcophagus, Peaked",
+    "values": {
+      "commonRange": "23,634 - 27,800",
+      "averagePrice": 26557,
+      "minimumPrice": 22800,
+      "maximumPrice": 35000,
+      "averageStackPrice": 26557,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

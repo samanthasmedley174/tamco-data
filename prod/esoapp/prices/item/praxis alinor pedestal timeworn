@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor pedestal timeworn",
+    "displayName": "Praxis: Alinor Pedestal, Timeworn",
+    "values": {
+      "commonRange": "127 - 2,079",
+      "averagePrice": 1294,
+      "minimumPrice": 127,
+      "maximumPrice": 2079,
+      "averageStackPrice": 1294,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

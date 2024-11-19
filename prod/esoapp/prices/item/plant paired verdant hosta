@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant paired verdant hosta",
+    "displayName": "Plant, Paired Verdant Hosta",
+    "values": {
+      "commonRange": "100 - 319",
+      "averagePrice": 224,
+      "minimumPrice": 83,
+      "maximumPrice": 366,
+      "averageStackPrice": 224,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

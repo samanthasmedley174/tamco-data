@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redguard pillow lattice flames",
+    "displayName": "Pattern: Redguard Pillow, Lattice Flames",
+    "values": {
+      "commonRange": "26,000 - 40,000",
+      "averagePrice": 31651,
+      "minimumPrice": 24000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 31651,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

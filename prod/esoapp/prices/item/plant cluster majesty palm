@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant cluster majesty palm",
+    "displayName": "Plant Cluster, Majesty Palm",
+    "values": {
+      "commonRange": "1,000 - 2,633",
+      "averagePrice": 1809,
+      "minimumPrice": 696,
+      "maximumPrice": 4150,
+      "averageStackPrice": 1809,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

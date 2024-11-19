@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plague doctors sword",
+    "displayName": "Plague Doctor's Sword",
+    "values": {
+      "commonRange": "950 - 20,000",
+      "averagePrice": 7253,
+      "minimumPrice": 444,
+      "maximumPrice": 22145,
+      "averageStackPrice": 7253,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

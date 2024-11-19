@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor wall stone corner",
+    "displayName": "Praxis: Alinor Wall, Stone Corner",
+    "values": {
+      "commonRange": "1,000 - 5,033",
+      "averagePrice": 3729,
+      "minimumPrice": 999,
+      "maximumPrice": 6233,
+      "averageStackPrice": 3729,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

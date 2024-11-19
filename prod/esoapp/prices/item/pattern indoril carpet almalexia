@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern indoril carpet almalexia",
+    "displayName": "Pattern: Indoril Carpet, Almalexia",
+    "values": {
+      "commonRange": "35,000 - 50,000",
+      "averagePrice": 45153,
+      "minimumPrice": 33000,
+      "maximumPrice": 62000,
+      "averageStackPrice": 45153,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

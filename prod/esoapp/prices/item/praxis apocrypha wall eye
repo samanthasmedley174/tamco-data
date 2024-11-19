@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis apocrypha wall eye",
+    "displayName": "Praxis: Apocrypha Wall, Eye",
+    "values": {
+      "commonRange": "40,000 - 75,000",
+      "averagePrice": 54050,
+      "minimumPrice": 37000,
+      "maximumPrice": 95000,
+      "averageStackPrice": 54050,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

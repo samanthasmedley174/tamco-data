@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redguard bed full arched",
+    "displayName": "Pattern: Redguard Bed, Full Arched",
+    "values": {
+      "commonRange": "802 - 2,400",
+      "averagePrice": 1808,
+      "minimumPrice": 230,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1808,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

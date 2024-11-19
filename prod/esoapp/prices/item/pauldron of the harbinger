@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pauldron of the harbinger",
+    "displayName": "Pauldron of the Harbinger",
+    "values": {
+      "commonRange": "7,000 - 9,778",
+      "averagePrice": 8667,
+      "minimumPrice": 4778,
+      "maximumPrice": 9778,
+      "averageStackPrice": 8667,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant tall flowering yucca",
+    "displayName": "Plant, Tall Flowering Yucca",
+    "values": {
+      "commonRange": "400 - 560",
+      "averagePrice": 510,
+      "minimumPrice": 240,
+      "maximumPrice": 915,
+      "averageStackPrice": 510,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

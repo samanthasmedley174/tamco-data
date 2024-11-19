@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pauldron of the order of diagna",
+    "displayName": "Pauldron of the Order of Diagna",
+    "values": {
+      "commonRange": "144 - 1,150",
+      "averagePrice": 746,
+      "minimumPrice": 144,
+      "maximumPrice": 5153,
+      "averageStackPrice": 746,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

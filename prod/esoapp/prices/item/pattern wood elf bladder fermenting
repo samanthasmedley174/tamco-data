@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern wood elf bladder fermenting",
+    "displayName": "Pattern: Wood Elf Bladder, Fermenting",
+    "values": {
+      "commonRange": "350 - 742",
+      "averagePrice": 618,
+      "minimumPrice": 230,
+      "maximumPrice": 1000,
+      "averageStackPrice": 618,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

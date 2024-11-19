@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern orcish shelter shingled",
+    "displayName": "Pattern: Orcish Shelter, Shingled",
+    "values": {
+      "commonRange": "30 - 2,000",
+      "averagePrice": 1041,
+      "minimumPrice": 30,
+      "maximumPrice": 2030,
+      "averageStackPrice": 1041,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/23/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

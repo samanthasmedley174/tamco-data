@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern worm cult chair padded",
+    "displayName": "Pattern: Worm Cult Chair, Padded",
+    "values": {
+      "commonRange": "50,000 - 73,878",
+      "averagePrice": 62475,
+      "minimumPrice": 50000,
+      "maximumPrice": 76065,
+      "averageStackPrice": 62475,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

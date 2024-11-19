@@ -1,0 +1,18 @@
+[
+  {
+    "name": "phoenix moth guards",
+    "displayName": "Phoenix Moth Guards",
+    "values": {
+      "commonRange": "180 - 2,183",
+      "averagePrice": 1289,
+      "minimumPrice": 174,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1289,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

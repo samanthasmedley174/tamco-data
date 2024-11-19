@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern indoril runner sotha sil",
+    "displayName": "Pattern: Indoril Runner, Sotha Sil",
+    "values": {
+      "commonRange": "23,050 - 31,358",
+      "averagePrice": 29904,
+      "minimumPrice": 20039,
+      "maximumPrice": 55194,
+      "averageStackPrice": 29904,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

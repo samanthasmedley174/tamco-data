@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant tropical bush",
+    "displayName": "Plant, Tropical Bush",
+    "values": {
+      "commonRange": "100 - 1,250",
+      "averagePrice": 624,
+      "minimumPrice": 15,
+      "maximumPrice": 1666,
+      "averageStackPrice": 624,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "09/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

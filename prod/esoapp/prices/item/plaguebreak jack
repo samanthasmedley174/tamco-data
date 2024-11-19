@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plaguebreak jack",
+    "displayName": "Plaguebreak Jack",
+    "values": {
+      "commonRange": "1,999 - 20,076",
+      "averagePrice": 13781,
+      "minimumPrice": 574,
+      "maximumPrice": 99983,
+      "averageStackPrice": 13781,
+      "commonStackSize": 1,
+      "salesRecorded": 81
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

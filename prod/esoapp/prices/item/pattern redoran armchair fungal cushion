@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redoran armchair fungal cushion",
+    "displayName": "Pattern: Redoran Armchair, Fungal Cushion",
+    "values": {
+      "commonRange": "24,000 - 33,333",
+      "averagePrice": 30564,
+      "minimumPrice": 22039,
+      "maximumPrice": 55830,
+      "averageStackPrice": 30564,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

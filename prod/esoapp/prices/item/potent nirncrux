@@ -1,0 +1,18 @@
+[
+  {
+    "name": "potent nirncrux",
+    "displayName": "Potent Nirncrux",
+    "values": {
+      "commonRange": "15,000 - 21,003",
+      "averagePrice": 17989,
+      "minimumPrice": 1666,
+      "maximumPrice": 50000,
+      "averageStackPrice": 17989,
+      "commonStackSize": 1,
+      "salesRecorded": 342
+    },
+    "type": "Trait Stones",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Potent_Nirncrux.png"
+  }
+]

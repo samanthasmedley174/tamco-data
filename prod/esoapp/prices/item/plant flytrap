@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant flytrap",
+    "displayName": "Plant, Flytrap",
+    "values": {
+      "commonRange": "3,659 - 6,521",
+      "averagePrice": 5263,
+      "minimumPrice": 2789,
+      "maximumPrice": 9900,
+      "averageStackPrice": 5263,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

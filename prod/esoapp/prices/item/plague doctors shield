@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plague doctors shield",
+    "displayName": "Plague Doctor's Shield",
+    "values": {
+      "commonRange": "300 - 12,500",
+      "averagePrice": 4772,
+      "minimumPrice": 144,
+      "maximumPrice": 25235,
+      "averageStackPrice": 4772,
+      "commonStackSize": 1,
+      "salesRecorded": 53
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

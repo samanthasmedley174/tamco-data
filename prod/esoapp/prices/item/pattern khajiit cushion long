@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern khajiit cushion long",
+    "displayName": "Pattern: Khajiit Cushion, Long",
+    "values": {
+      "commonRange": "100 - 1,066",
+      "averagePrice": 836,
+      "minimumPrice": 30,
+      "maximumPrice": 1566,
+      "averageStackPrice": 836,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

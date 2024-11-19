@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor wall stone long",
+    "displayName": "Praxis: Alinor Wall, Stone Long",
+    "values": {
+      "commonRange": "2,800 - 5,000",
+      "averagePrice": 3982,
+      "minimumPrice": 1686,
+      "maximumPrice": 7000,
+      "averageStackPrice": 3982,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

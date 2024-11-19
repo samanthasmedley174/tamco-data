@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis apocrypha lamp floor",
+    "displayName": "Praxis: Apocrypha Lamp, Floor",
+    "values": {
+      "commonRange": "12,796 - 15,000",
+      "averagePrice": 14390,
+      "minimumPrice": 10000,
+      "maximumPrice": 17000,
+      "averageStackPrice": 14390,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

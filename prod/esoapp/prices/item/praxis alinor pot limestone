@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor pot limestone",
+    "displayName": "Praxis: Alinor Pot, Limestone",
+    "values": {
+      "commonRange": "1,000 - 1,560",
+      "averagePrice": 1317,
+      "minimumPrice": 57,
+      "maximumPrice": 2027,
+      "averageStackPrice": 1317,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

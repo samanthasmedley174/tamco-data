@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plants low weeds",
+    "displayName": "Plants, Low Weeds",
+    "values": {
+      "commonRange": "195 - 970",
+      "averagePrice": 669,
+      "minimumPrice": 15,
+      "maximumPrice": 970,
+      "averageStackPrice": 669,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/10/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

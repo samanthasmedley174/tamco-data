@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern indoril carpet sotha sil",
+    "displayName": "Pattern: Indoril Carpet, Sotha Sil",
+    "values": {
+      "commonRange": "27,500 - 39,400",
+      "averagePrice": 34225,
+      "minimumPrice": 25000,
+      "maximumPrice": 40400,
+      "averageStackPrice": 34225,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

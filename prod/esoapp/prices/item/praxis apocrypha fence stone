@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis apocrypha fence stone",
+    "displayName": "Praxis: Apocrypha Fence, Stone",
+    "values": {
+      "commonRange": "1,000 - 2,000",
+      "averagePrice": 1628,
+      "minimumPrice": 969,
+      "maximumPrice": 2333,
+      "averageStackPrice": 1628,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern khajiit stool crescent",
+    "displayName": "Pattern: Khajiit Stool, Crescent",
+    "values": {
+      "commonRange": "97 - 152",
+      "averagePrice": 114,
+      "minimumPrice": 40,
+      "maximumPrice": 152,
+      "averageStackPrice": 114,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

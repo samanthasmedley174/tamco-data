@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor floor ballroom timeworn",
+    "displayName": "Praxis: Alinor Floor, Ballroom Timeworn",
+    "values": {
+      "commonRange": "75,000 - 199,030",
+      "averagePrice": 130624,
+      "minimumPrice": 75000,
+      "maximumPrice": 219025,
+      "averageStackPrice": 130624,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

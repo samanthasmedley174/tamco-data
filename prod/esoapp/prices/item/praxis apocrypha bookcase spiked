@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis apocrypha bookcase spiked",
+    "displayName": "Praxis: Apocrypha Bookcase, Spiked",
+    "values": {
+      "commonRange": "1,755 - 7,000",
+      "averagePrice": 4225,
+      "minimumPrice": 1500,
+      "maximumPrice": 8030,
+      "averageStackPrice": 4225,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

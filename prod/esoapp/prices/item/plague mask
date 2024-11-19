@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plague mask",
+    "displayName": "Plague Mask",
+    "values": {
+      "commonRange": "3,300 - 3,880",
+      "averagePrice": 3130,
+      "minimumPrice": 841,
+      "maximumPrice": 4499,
+      "averageStackPrice": 3130,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plague doctors ring",
+    "displayName": "Plague Doctor's Ring",
+    "values": {
+      "commonRange": "200 - 20,153",
+      "averagePrice": 5342,
+      "minimumPrice": 145,
+      "maximumPrice": 45000,
+      "averageStackPrice": 5342,
+      "commonStackSize": 1,
+      "salesRecorded": 43
+    },
+    "type": "Set Items",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

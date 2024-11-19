@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redguard stool starry",
+    "displayName": "Pattern: Redguard Stool, Starry",
+    "values": {
+      "commonRange": "16,691 - 37,900",
+      "averagePrice": 25103,
+      "minimumPrice": 16000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 25103,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

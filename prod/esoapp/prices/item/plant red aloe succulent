@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant red aloe succulent",
+    "displayName": "Plant, Red Aloe Succulent",
+    "values": {
+      "commonRange": "633 - 1,038",
+      "averagePrice": 853,
+      "minimumPrice": 277,
+      "maximumPrice": 1287,
+      "averageStackPrice": 853,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

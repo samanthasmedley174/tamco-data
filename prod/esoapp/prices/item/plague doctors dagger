@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plague doctors dagger",
+    "displayName": "Plague Doctor's Dagger",
+    "values": {
+      "commonRange": "543 - 7,000",
+      "averagePrice": 3327,
+      "minimumPrice": 153,
+      "maximumPrice": 18153,
+      "averageStackPrice": 3327,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern khajiit banner moons",
+    "displayName": "Pattern: Khajiit Banner, Moons",
+    "values": {
+      "commonRange": "56 - 250",
+      "averagePrice": 145,
+      "minimumPrice": 40,
+      "maximumPrice": 477,
+      "averageStackPrice": 145,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

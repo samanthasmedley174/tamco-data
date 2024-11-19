@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern vampiric carpet large",
+    "displayName": "Pattern: Vampiric Carpet, Large",
+    "values": {
+      "commonRange": "150,000 - 253,251",
+      "averagePrice": 200882,
+      "minimumPrice": 100000,
+      "maximumPrice": 254000,
+      "averageStackPrice": 200882,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

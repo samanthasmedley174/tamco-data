@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern vampiric drapes tall arch",
+    "displayName": "Pattern: Vampiric Drapes, Tall Arch",
+    "values": {
+      "commonRange": "3,000 - 4,000",
+      "averagePrice": 3433,
+      "minimumPrice": 2500,
+      "maximumPrice": 5659,
+      "averageStackPrice": 3433,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

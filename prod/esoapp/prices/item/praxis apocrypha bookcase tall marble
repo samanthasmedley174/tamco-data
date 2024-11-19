@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis apocrypha bookcase tall marble",
+    "displayName": "Praxis: Apocrypha Bookcase, Tall Marble",
+    "values": {
+      "commonRange": "5,500 - 9,392",
+      "averagePrice": 7568,
+      "minimumPrice": 5000,
+      "maximumPrice": 9466,
+      "averageStackPrice": 7568,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

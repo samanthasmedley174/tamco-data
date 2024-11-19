@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis ancient nord monolith head",
+    "displayName": "Praxis: Ancient Nord Monolith, Head",
+    "values": {
+      "commonRange": "40,000 - 50,000",
+      "averagePrice": 45494,
+      "minimumPrice": 40000,
+      "maximumPrice": 51000,
+      "averageStackPrice": 45494,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

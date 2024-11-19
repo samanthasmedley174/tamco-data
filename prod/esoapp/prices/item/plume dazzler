@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plume dazzler",
+    "displayName": "Plume Dazzler",
+    "values": {
+      "commonRange": "1 - 8",
+      "averagePrice": 9,
+      "minimumPrice": 1,
+      "maximumPrice": 57,
+      "averageStackPrice": 108,
+      "commonStackSize": 12,
+      "salesRecorded": 10
+    },
+    "type": "Miscellaneous",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Miscellaneous/Plume_Dazzler.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "polyglot profanity a catalog of foul language",
+    "displayName": "Polyglot Profanity: A Catalog of Foul Language",
+    "values": {
+      "commonRange": "2,000 - 38,100",
+      "averagePrice": 18773,
+      "minimumPrice": 900,
+      "maximumPrice": 79900,
+      "averageStackPrice": 18773,
+      "commonStackSize": 1,
+      "salesRecorded": 41
+    },
+    "type": "Miscellaneous",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

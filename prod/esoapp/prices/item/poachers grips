@@ -1,0 +1,18 @@
+[
+  {
+    "name": "poachers grips",
+    "displayName": "Poacher's Grips",
+    "values": {
+      "commonRange": "400 - 400",
+      "averagePrice": 378,
+      "minimumPrice": 134,
+      "maximumPrice": 600,
+      "averageStackPrice": 378,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

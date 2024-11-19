@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern murkmire rug hist gathering",
+    "displayName": "Pattern: Murkmire Rug, Hist Gathering",
+    "values": {
+      "commonRange": "4,000 - 11,000",
+      "averagePrice": 7396,
+      "minimumPrice": 30,
+      "maximumPrice": 13000,
+      "averageStackPrice": 7396,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

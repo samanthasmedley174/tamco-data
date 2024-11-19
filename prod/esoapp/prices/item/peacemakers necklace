@@ -1,0 +1,18 @@
+[
+  {
+    "name": "peacemakers necklace",
+    "displayName": "Peacemaker's Necklace",
+    "values": {
+      "commonRange": "653 - 900",
+      "averagePrice": 702,
+      "minimumPrice": 153,
+      "maximumPrice": 1000,
+      "averageStackPrice": 702,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

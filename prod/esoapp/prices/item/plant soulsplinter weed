@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant soulsplinter weed",
+    "displayName": "Plant, Soulsplinter Weed",
+    "values": {
+      "commonRange": "12,267 - 18,000",
+      "averagePrice": 15097,
+      "minimumPrice": 2500,
+      "maximumPrice": 21000,
+      "averageStackPrice": 15097,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

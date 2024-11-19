@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern worm cult stool padded",
+    "displayName": "Pattern: Worm Cult Stool, Padded",
+    "values": {
+      "commonRange": "43,272 - 55,000",
+      "averagePrice": 49401,
+      "minimumPrice": 39507,
+      "maximumPrice": 66233,
+      "averageStackPrice": 49401,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

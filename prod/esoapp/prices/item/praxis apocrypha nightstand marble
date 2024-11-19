@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis apocrypha nightstand marble",
+    "displayName": "Praxis: Apocrypha Nightstand, Marble",
+    "values": {
+      "commonRange": "3,269 - 6,300",
+      "averagePrice": 4923,
+      "minimumPrice": 3000,
+      "maximumPrice": 6705,
+      "averageStackPrice": 4923,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern indoril tapestry sotha sil",
+    "displayName": "Pattern: Indoril Tapestry, Sotha Sil",
+    "values": {
+      "commonRange": "20,039 - 33,000",
+      "averagePrice": 28904,
+      "minimumPrice": 20000,
+      "maximumPrice": 34000,
+      "averageStackPrice": 28904,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

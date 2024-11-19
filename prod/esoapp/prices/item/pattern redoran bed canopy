@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redoran bed canopy",
+    "displayName": "Pattern: Redoran Bed, Canopy",
+    "values": {
+      "commonRange": "33,000 - 75,000",
+      "averagePrice": 69504,
+      "minimumPrice": 30039,
+      "maximumPrice": 250000,
+      "averageStackPrice": 69504,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

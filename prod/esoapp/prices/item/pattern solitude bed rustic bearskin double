@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern solitude bed rustic bearskin double",
+    "displayName": "Pattern: Solitude Bed, Rustic Bearskin Double",
+    "values": {
+      "commonRange": "11,000 - 15,000",
+      "averagePrice": 13313,
+      "minimumPrice": 5000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 13313,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

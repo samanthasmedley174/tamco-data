@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor fountain timeworn",
+    "displayName": "Praxis: Alinor Fountain, Timeworn",
+    "values": {
+      "commonRange": "30,000 - 52,614",
+      "averagePrice": 44260,
+      "minimumPrice": 2900,
+      "maximumPrice": 52614,
+      "averageStackPrice": 44260,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis argonian ramekin hardened",
+    "displayName": "Praxis: Argonian Ramekin, Hardened",
+    "values": {
+      "commonRange": "27 - 300",
+      "averagePrice": 245,
+      "minimumPrice": 27,
+      "maximumPrice": 1205,
+      "averageStackPrice": 245,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

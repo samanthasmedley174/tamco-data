@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plague doctor llarels sheltering shield",
+    "displayName": "Plague Doctor Llarel's Sheltering Shield",
+    "values": {
+      "commonRange": "450 - 4,000",
+      "averagePrice": 1721,
+      "minimumPrice": 300,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1721,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

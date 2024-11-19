@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redguard mat desert sun",
+    "displayName": "Pattern: Redguard Mat, Desert Sun",
+    "values": {
+      "commonRange": "1,000,000 - 2,200,000",
+      "averagePrice": 1582496,
+      "minimumPrice": 799000,
+      "maximumPrice": 2200000,
+      "averageStackPrice": 1582496,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

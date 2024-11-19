@@ -1,0 +1,18 @@
+[
+  {
+    "name": "potato stuffed roast pheasant",
+    "displayName": "Potato-Stuffed Roast Pheasant",
+    "values": {
+      "commonRange": "1 - 1",
+      "averagePrice": 926,
+      "minimumPrice": 1,
+      "maximumPrice": 2777,
+      "averageStackPrice": 74080,
+      "commonStackSize": 80,
+      "salesRecorded": 3
+    },
+    "type": "Food & Drinks",
+    "date": "08/23/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/potato-stuffed_roast_pheasant.png"
+  }
+]

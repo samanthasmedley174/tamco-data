@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern solitude carpet wolfs head border",
+    "displayName": "Pattern: Solitude Carpet, Wolf's-Head Border",
+    "values": {
+      "commonRange": "29,000 - 49,855",
+      "averagePrice": 39076,
+      "minimumPrice": 26039,
+      "maximumPrice": 50039,
+      "averageStackPrice": 39076,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

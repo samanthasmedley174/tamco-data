@@ -1,0 +1,18 @@
+[
+  {
+    "name": "planked abecean longfin",
+    "displayName": "Planked Abecean Longfin",
+    "values": {
+      "commonRange": "12 - 110",
+      "averagePrice": 73,
+      "minimumPrice": 12,
+      "maximumPrice": 110,
+      "averageStackPrice": 73,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "08/30/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/planked_abecean_longfin.png"
+  }
+]

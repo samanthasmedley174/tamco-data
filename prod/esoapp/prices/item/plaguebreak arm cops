@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plaguebreak arm cops",
+    "displayName": "Plaguebreak Arm Cops",
+    "values": {
+      "commonRange": "1,150 - 65,000",
+      "averagePrice": 20186,
+      "minimumPrice": 550,
+      "maximumPrice": 80000,
+      "averageStackPrice": 20186,
+      "commonStackSize": 1,
+      "salesRecorded": 52
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

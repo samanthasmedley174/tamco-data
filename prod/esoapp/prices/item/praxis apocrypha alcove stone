@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis apocrypha alcove stone",
+    "displayName": "Praxis: Apocrypha Alcove, Stone",
+    "values": {
+      "commonRange": "185,493 - 206,660",
+      "averagePrice": 209534,
+      "minimumPrice": 175000,
+      "maximumPrice": 330000,
+      "averageStackPrice": 209534,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

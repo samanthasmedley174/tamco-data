@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant young summer hosta",
+    "displayName": "Plant, Young Summer Hosta",
+    "values": {
+      "commonRange": "15 - 210",
+      "averagePrice": 105,
+      "minimumPrice": 15,
+      "maximumPrice": 415,
+      "averageStackPrice": 105,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

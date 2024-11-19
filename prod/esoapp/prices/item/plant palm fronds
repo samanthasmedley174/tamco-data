@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant palm fronds",
+    "displayName": "Plant, Palm Fronds",
+    "values": {
+      "commonRange": "100 - 1,507",
+      "averagePrice": 854,
+      "minimumPrice": 15,
+      "maximumPrice": 1650,
+      "averageStackPrice": 854,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

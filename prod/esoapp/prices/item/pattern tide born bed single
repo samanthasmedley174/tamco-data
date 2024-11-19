@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern tide born bed single",
+    "displayName": "Pattern: Tide-Born Bed, Single",
+    "values": {
+      "commonRange": "13,000 - 16,707",
+      "averagePrice": 15319,
+      "minimumPrice": 13000,
+      "maximumPrice": 17253,
+      "averageStackPrice": 15319,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

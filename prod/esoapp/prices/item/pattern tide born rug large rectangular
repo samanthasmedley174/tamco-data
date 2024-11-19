@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern tide born rug large rectangular",
+    "displayName": "Pattern: Tide-Born Rug, Large Rectangular",
+    "values": {
+      "commonRange": "130,000 - 183,017",
+      "averagePrice": 157269,
+      "minimumPrice": 130000,
+      "maximumPrice": 203481,
+      "averageStackPrice": 157269,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

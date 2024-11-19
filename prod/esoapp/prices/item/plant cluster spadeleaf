@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant cluster spadeleaf",
+    "displayName": "Plant Cluster, Spadeleaf",
+    "values": {
+      "commonRange": "1,000 - 1,666",
+      "averagePrice": 1108,
+      "minimumPrice": 460,
+      "maximumPrice": 1666,
+      "averageStackPrice": 1108,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

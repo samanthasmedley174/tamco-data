@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plague doctors inferno staff",
+    "displayName": "Plague Doctor's Inferno Staff",
+    "values": {
+      "commonRange": "330 - 7,000",
+      "averagePrice": 3621,
+      "minimumPrice": 246,
+      "maximumPrice": 17246,
+      "averageStackPrice": 3621,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

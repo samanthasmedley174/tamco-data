@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pigment bowl green",
+    "displayName": "Pigment Bowl, Green",
+    "values": {
+      "commonRange": "3,999 - 15,000",
+      "averagePrice": 9000,
+      "minimumPrice": 2000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9000,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

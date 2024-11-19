@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor stairway timeworn wide",
+    "displayName": "Praxis: Alinor Stairway, Timeworn Wide",
+    "values": {
+      "commonRange": "26,000 - 46,231",
+      "averagePrice": 38142,
+      "minimumPrice": 15030,
+      "maximumPrice": 47000,
+      "averageStackPrice": 38142,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

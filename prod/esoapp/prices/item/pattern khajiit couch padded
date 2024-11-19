@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern khajiit couch padded",
+    "displayName": "Pattern: Khajiit Couch, Padded",
+    "values": {
+      "commonRange": "10,049 - 19,885",
+      "averagePrice": 13468,
+      "minimumPrice": 10000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 13468,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

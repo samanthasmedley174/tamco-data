@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern worm cult books row",
+    "displayName": "Pattern: Worm Cult Books, Row",
+    "values": {
+      "commonRange": "60,000 - 85,160",
+      "averagePrice": 69994,
+      "minimumPrice": 50000,
+      "maximumPrice": 90000,
+      "averageStackPrice": 69994,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/23/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

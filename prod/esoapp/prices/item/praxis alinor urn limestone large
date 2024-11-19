@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor urn limestone large",
+    "displayName": "Praxis: Alinor Urn, Limestone Large",
+    "values": {
+      "commonRange": "5,000 - 9,000",
+      "averagePrice": 6966,
+      "minimumPrice": 1000,
+      "maximumPrice": 10030,
+      "averageStackPrice": 6966,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

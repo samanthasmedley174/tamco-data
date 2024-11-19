@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pircalmos rimestaff",
+    "displayName": "Pircalmo's Rimestaff",
+    "values": {
+      "commonRange": "1,228 - 1,228",
+      "averagePrice": 1228,
+      "minimumPrice": 1228,
+      "maximumPrice": 1228,
+      "averageStackPrice": 1228,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

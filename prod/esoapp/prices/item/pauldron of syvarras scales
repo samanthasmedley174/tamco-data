@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pauldron of syvarras scales",
+    "displayName": "Pauldron of Syvarra's Scales",
+    "values": {
+      "commonRange": "250 - 9,999",
+      "averagePrice": 4844,
+      "minimumPrice": 144,
+      "maximumPrice": 17999,
+      "averageStackPrice": 4844,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

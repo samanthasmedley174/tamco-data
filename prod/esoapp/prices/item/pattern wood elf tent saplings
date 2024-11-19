@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern wood elf tent saplings",
+    "displayName": "Pattern: Wood Elf Tent, Saplings",
+    "values": {
+      "commonRange": "46,322 - 61,000",
+      "averagePrice": 56494,
+      "minimumPrice": 40340,
+      "maximumPrice": 85000,
+      "averageStackPrice": 56494,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

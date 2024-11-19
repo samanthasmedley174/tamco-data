@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant cluster zahmia",
+    "displayName": "Plant Cluster, Zahmia",
+    "values": {
+      "commonRange": "466 - 1,060",
+      "averagePrice": 849,
+      "minimumPrice": 300,
+      "maximumPrice": 1085,
+      "averageStackPrice": 849,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

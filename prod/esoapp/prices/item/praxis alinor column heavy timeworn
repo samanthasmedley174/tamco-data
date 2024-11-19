@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor column heavy timeworn",
+    "displayName": "Praxis: Alinor Column, Heavy Timeworn",
+    "values": {
+      "commonRange": "345 - 3,467",
+      "averagePrice": 2095,
+      "minimumPrice": 100,
+      "maximumPrice": 3467,
+      "averageStackPrice": 2095,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

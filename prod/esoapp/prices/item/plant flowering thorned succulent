@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant flowering thorned succulent",
+    "displayName": "Plant, Flowering Thorned Succulent",
+    "values": {
+      "commonRange": "675 - 1,000",
+      "averagePrice": 859,
+      "minimumPrice": 315,
+      "maximumPrice": 2000,
+      "averageStackPrice": 859,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/02/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

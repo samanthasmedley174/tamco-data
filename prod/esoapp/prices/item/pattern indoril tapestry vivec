@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern indoril tapestry vivec",
+    "displayName": "Pattern: Indoril Tapestry, Vivec",
+    "values": {
+      "commonRange": "22,000 - 30,000",
+      "averagePrice": 28041,
+      "minimumPrice": 20039,
+      "maximumPrice": 55354,
+      "averageStackPrice": 28041,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

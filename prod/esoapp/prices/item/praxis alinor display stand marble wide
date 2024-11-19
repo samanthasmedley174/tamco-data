@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor display stand marble wide",
+    "displayName": "Praxis: Alinor Display Stand, Marble Wide",
+    "values": {
+      "commonRange": "9,999 - 15,125",
+      "averagePrice": 13225,
+      "minimumPrice": 9255,
+      "maximumPrice": 25000,
+      "averageStackPrice": 13225,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

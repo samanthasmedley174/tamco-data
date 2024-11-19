@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redguard runner sun",
+    "displayName": "Pattern: Redguard Runner, Sun",
+    "values": {
+      "commonRange": "1,130 - 3,000",
+      "averagePrice": 2564,
+      "minimumPrice": 995,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2564,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

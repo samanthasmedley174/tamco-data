@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redguard couch slatted",
+    "displayName": "Pattern: Redguard Couch, Slatted",
+    "values": {
+      "commonRange": "25,000 - 27,000",
+      "averagePrice": 26091,
+      "minimumPrice": 24000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 26091,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "podium skinning",
+    "displayName": "Podium, Skinning",
+    "values": {
+      "commonRange": "9,500 - 13,000",
+      "averagePrice": 11367,
+      "minimumPrice": 5000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 11367,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

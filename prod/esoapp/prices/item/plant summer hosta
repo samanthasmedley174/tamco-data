@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant summer hosta",
+    "displayName": "Plant, Summer Hosta",
+    "values": {
+      "commonRange": "110 - 999",
+      "averagePrice": 428,
+      "minimumPrice": 60,
+      "maximumPrice": 1060,
+      "averageStackPrice": 428,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

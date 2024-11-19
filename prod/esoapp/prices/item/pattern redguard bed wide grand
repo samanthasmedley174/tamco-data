@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redguard bed wide grand",
+    "displayName": "Pattern: Redguard Bed, Wide Grand",
+    "values": {
+      "commonRange": "1,000 - 3,494",
+      "averagePrice": 2719,
+      "minimumPrice": 250,
+      "maximumPrice": 3978,
+      "averageStackPrice": 2719,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

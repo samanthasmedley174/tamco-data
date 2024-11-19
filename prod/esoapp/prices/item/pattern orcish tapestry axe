@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern orcish tapestry axe",
+    "displayName": "Pattern: Orcish Tapestry, Axe",
+    "values": {
+      "commonRange": "16,000 - 18,007",
+      "averagePrice": 17310,
+      "minimumPrice": 16000,
+      "maximumPrice": 19950,
+      "averageStackPrice": 17310,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

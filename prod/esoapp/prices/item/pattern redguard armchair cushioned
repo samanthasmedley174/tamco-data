@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redguard armchair cushioned",
+    "displayName": "Pattern: Redguard Armchair, Cushioned",
+    "values": {
+      "commonRange": "2,000 - 8,000",
+      "averagePrice": 3768,
+      "minimumPrice": 2000,
+      "maximumPrice": 8834,
+      "averageStackPrice": 3768,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

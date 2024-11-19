@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redguard armchair starry",
+    "displayName": "Pattern: Redguard Armchair, Starry",
+    "values": {
+      "commonRange": "20,000 - 30,000",
+      "averagePrice": 24486,
+      "minimumPrice": 6000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 24486,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

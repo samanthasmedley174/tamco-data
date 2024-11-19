@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant murkmire snakevine",
+    "displayName": "Plant, Murkmire Snakevine",
+    "values": {
+      "commonRange": "13,000 - 15,500",
+      "averagePrice": 14492,
+      "minimumPrice": 10000,
+      "maximumPrice": 19456,
+      "averageStackPrice": 14492,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

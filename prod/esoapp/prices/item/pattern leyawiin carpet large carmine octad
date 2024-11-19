@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern leyawiin carpet large carmine octad",
+    "displayName": "Pattern: Leyawiin Carpet, Large Carmine Octad",
+    "values": {
+      "commonRange": "5,000 - 8,052",
+      "averagePrice": 6622,
+      "minimumPrice": 2000,
+      "maximumPrice": 9084,
+      "averageStackPrice": 6622,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

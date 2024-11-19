@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pitch bile",
+    "displayName": "Pitch-Bile",
+    "values": {
+      "commonRange": "56 - 130",
+      "averagePrice": 101,
+      "minimumPrice": 52,
+      "maximumPrice": 400,
+      "averageStackPrice": 20200,
+      "commonStackSize": 200,
+      "salesRecorded": 15
+    },
+    "type": "Alchemy Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

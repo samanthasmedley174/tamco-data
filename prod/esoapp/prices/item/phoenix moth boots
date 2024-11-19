@@ -1,0 +1,18 @@
+[
+  {
+    "name": "phoenix moth boots",
+    "displayName": "Phoenix Moth Boots",
+    "values": {
+      "commonRange": "90 - 2,000",
+      "averagePrice": 1313,
+      "minimumPrice": 90,
+      "maximumPrice": 10090,
+      "averageStackPrice": 1313,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

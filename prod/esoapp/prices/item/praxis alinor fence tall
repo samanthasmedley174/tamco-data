@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor fence tall",
+    "displayName": "Praxis: Alinor Fence, Tall",
+    "values": {
+      "commonRange": "18,000 - 22,530",
+      "averagePrice": 20668,
+      "minimumPrice": 11000,
+      "maximumPrice": 33489,
+      "averageStackPrice": 20668,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

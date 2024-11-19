@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pebble volcanic chunk",
+    "displayName": "Pebble, Volcanic Chunk",
+    "values": {
+      "commonRange": "22 - 302",
+      "averagePrice": 271,
+      "minimumPrice": 12,
+      "maximumPrice": 1015,
+      "averageStackPrice": 271,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

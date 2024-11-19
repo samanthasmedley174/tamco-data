@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant cluster marsh saplings",
+    "displayName": "Plant Cluster, Marsh Saplings",
+    "values": {
+      "commonRange": "160 - 1,000",
+      "averagePrice": 595,
+      "minimumPrice": 50,
+      "maximumPrice": 1000,
+      "averageStackPrice": 595,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

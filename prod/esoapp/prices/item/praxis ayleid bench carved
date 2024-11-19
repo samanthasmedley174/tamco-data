@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis ayleid bench carved",
+    "displayName": "Praxis: Ayleid Bench, Carved",
+    "values": {
+      "commonRange": "850 - 30,401",
+      "averagePrice": 21860,
+      "minimumPrice": 750,
+      "maximumPrice": 40000,
+      "averageStackPrice": 21860,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

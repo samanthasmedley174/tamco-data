@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern indoril tapestry almalexia",
+    "displayName": "Pattern: Indoril Tapestry, Almalexia",
+    "values": {
+      "commonRange": "30,000 - 36,000",
+      "averagePrice": 33378,
+      "minimumPrice": 28000,
+      "maximumPrice": 36484,
+      "averageStackPrice": 33378,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

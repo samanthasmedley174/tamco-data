@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pauldron of the heartland",
+    "displayName": "Pauldron of the Heartland",
+    "values": {
+      "commonRange": "750 - 5,000",
+      "averagePrice": 3971,
+      "minimumPrice": 500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 3971,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

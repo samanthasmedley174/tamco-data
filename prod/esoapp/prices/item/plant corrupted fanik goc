@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant corrupted fanik goc",
+    "displayName": "Plant, Corrupted Fanik Goc",
+    "values": {
+      "commonRange": "15,000 - 41,986",
+      "averagePrice": 31615,
+      "minimumPrice": 10000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 31615,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

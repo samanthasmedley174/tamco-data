@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant luminescent valeflower",
+    "displayName": "Plant, Luminescent Valeflower",
+    "values": {
+      "commonRange": "3,000 - 9,458",
+      "averagePrice": 6577,
+      "minimumPrice": 3000,
+      "maximumPrice": 9458,
+      "averageStackPrice": 26308,
+      "commonStackSize": 4,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

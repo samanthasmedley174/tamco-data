@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern solitude carpet small plush",
+    "displayName": "Pattern: Solitude Carpet, Small Plush",
+    "values": {
+      "commonRange": "6,030 - 7,456",
+      "averagePrice": 6533,
+      "minimumPrice": 1100,
+      "maximumPrice": 10742,
+      "averageStackPrice": 6533,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

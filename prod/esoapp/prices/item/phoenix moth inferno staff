@@ -1,0 +1,18 @@
+[
+  {
+    "name": "phoenix moth inferno staff",
+    "displayName": "Phoenix Moth Inferno Staff",
+    "values": {
+      "commonRange": "2,000 - 2,400",
+      "averagePrice": 2949,
+      "minimumPrice": 240,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2949,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

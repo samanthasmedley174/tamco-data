@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor potted plant double tiered",
+    "displayName": "Praxis: Alinor Potted Plant, Double Tiered",
+    "values": {
+      "commonRange": "10,030 - 14,297",
+      "averagePrice": 13877,
+      "minimumPrice": 8297,
+      "maximumPrice": 30000,
+      "averageStackPrice": 13877,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

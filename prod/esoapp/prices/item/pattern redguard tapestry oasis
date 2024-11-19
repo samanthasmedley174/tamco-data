@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redguard tapestry oasis",
+    "displayName": "Pattern: Redguard Tapestry, Oasis",
+    "values": {
+      "commonRange": "23,250 - 29,176",
+      "averagePrice": 26231,
+      "minimumPrice": 23000,
+      "maximumPrice": 29176,
+      "averageStackPrice": 26231,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

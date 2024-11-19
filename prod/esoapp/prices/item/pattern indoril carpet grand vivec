@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern indoril carpet grand vivec",
+    "displayName": "Pattern: Indoril Carpet, Grand Vivec",
+    "values": {
+      "commonRange": "22,037 - 30,611",
+      "averagePrice": 30030,
+      "minimumPrice": 22037,
+      "maximumPrice": 49999,
+      "averageStackPrice": 30030,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

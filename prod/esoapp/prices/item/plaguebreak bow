@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plaguebreak bow",
+    "displayName": "Plaguebreak Bow",
+    "values": {
+      "commonRange": "2,246 - 17,532",
+      "averagePrice": 10371,
+      "minimumPrice": 634,
+      "maximumPrice": 42616,
+      "averageStackPrice": 10371,
+      "commonStackSize": 1,
+      "salesRecorded": 46
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

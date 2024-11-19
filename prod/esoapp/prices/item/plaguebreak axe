@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plaguebreak axe",
+    "displayName": "Plaguebreak Axe",
+    "values": {
+      "commonRange": "3,999 - 17,515",
+      "averagePrice": 10306,
+      "minimumPrice": 3850,
+      "maximumPrice": 19953,
+      "averageStackPrice": 10306,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

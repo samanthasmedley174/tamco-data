@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis argonian censer",
+    "displayName": "Praxis: Argonian Censer",
+    "values": {
+      "commonRange": "18,000 - 20,000",
+      "averagePrice": 18849,
+      "minimumPrice": 17000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 18849,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

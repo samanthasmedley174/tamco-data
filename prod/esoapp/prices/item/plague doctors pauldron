@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plague doctors pauldron",
+    "displayName": "Plague Doctor's Pauldron",
+    "values": {
+      "commonRange": "250 - 6,000",
+      "averagePrice": 2616,
+      "minimumPrice": 144,
+      "maximumPrice": 20153,
+      "averageStackPrice": 2616,
+      "commonStackSize": 1,
+      "salesRecorded": 106
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

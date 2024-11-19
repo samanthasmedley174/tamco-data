@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern khajiit bench padded",
+    "displayName": "Pattern: Khajiit Bench, Padded",
+    "values": {
+      "commonRange": "230 - 1,200",
+      "averagePrice": 918,
+      "minimumPrice": 30,
+      "maximumPrice": 3000,
+      "averageStackPrice": 918,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

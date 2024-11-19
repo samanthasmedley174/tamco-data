@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern solitude rug snow bear",
+    "displayName": "Pattern: Solitude Rug, Snow Bear",
+    "values": {
+      "commonRange": "23,000 - 30,000",
+      "averagePrice": 28682,
+      "minimumPrice": 20000,
+      "maximumPrice": 56551,
+      "averageStackPrice": 28682,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

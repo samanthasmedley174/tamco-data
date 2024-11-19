@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern necrom bed elegant single",
+    "displayName": "Pattern: Necrom Bed, Elegant Single",
+    "values": {
+      "commonRange": "2,000 - 5,315",
+      "averagePrice": 4335,
+      "minimumPrice": 1030,
+      "maximumPrice": 9500,
+      "averageStackPrice": 4335,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

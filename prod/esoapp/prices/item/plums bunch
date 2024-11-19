@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plums bunch",
+    "displayName": "Plums, Bunch",
+    "values": {
+      "commonRange": "1,100 - 4,400",
+      "averagePrice": 2794,
+      "minimumPrice": 500,
+      "maximumPrice": 6000,
+      "averageStackPrice": 2794,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

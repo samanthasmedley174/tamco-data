@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern necrom banner medium sage stitched",
+    "displayName": "Pattern: Necrom Banner, Medium Sage-Stitched",
+    "values": {
+      "commonRange": "776 - 1,800",
+      "averagePrice": 1249,
+      "minimumPrice": 450,
+      "maximumPrice": 1881,
+      "averageStackPrice": 1249,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

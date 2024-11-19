@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pauldrons of the ivory brigade",
+    "displayName": "Pauldrons of the Ivory Brigade",
+    "values": {
+      "commonRange": "1,200 - 1,200",
+      "averagePrice": 1200,
+      "minimumPrice": 1200,
+      "maximumPrice": 1200,
+      "averageStackPrice": 1200,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

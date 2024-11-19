@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern vossa satl display",
+    "displayName": "Pattern: Vossa-Satl, Display",
+    "values": {
+      "commonRange": "15,045 - 60,000",
+      "averagePrice": 48465,
+      "minimumPrice": 10045,
+      "maximumPrice": 99000,
+      "averageStackPrice": 48465,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern necrom banner small patterned",
+    "displayName": "Pattern: Necrom Banner, Small Patterned",
+    "values": {
+      "commonRange": "230 - 5,000",
+      "averagePrice": 1963,
+      "minimumPrice": 130,
+      "maximumPrice": 6102,
+      "averageStackPrice": 1963,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

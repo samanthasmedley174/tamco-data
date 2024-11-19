@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redguard tuffet flames",
+    "displayName": "Pattern: Redguard Tuffet, Flames",
+    "values": {
+      "commonRange": "2,000 - 2,700",
+      "averagePrice": 2344,
+      "minimumPrice": 1500,
+      "maximumPrice": 3000,
+      "averageStackPrice": 2344,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

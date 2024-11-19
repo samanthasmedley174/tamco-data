@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis ayleid bench ornate backed",
+    "displayName": "Praxis: Ayleid Bench, Ornate Backed",
+    "values": {
+      "commonRange": "6,000 - 10,000",
+      "averagePrice": 8144,
+      "minimumPrice": 6000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 8144,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

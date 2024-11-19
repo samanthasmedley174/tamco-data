@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pauldron of cyrodiils crest",
+    "displayName": "Pauldron of Cyrodiil's Crest",
+    "values": {
+      "commonRange": "1,000 - 3,150",
+      "averagePrice": 2056,
+      "minimumPrice": 1000,
+      "maximumPrice": 3229,
+      "averageStackPrice": 2056,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

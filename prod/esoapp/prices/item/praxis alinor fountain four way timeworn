@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor fountain four way timeworn",
+    "displayName": "Praxis: Alinor Fountain, Four-Way Timeworn",
+    "values": {
+      "commonRange": "45,039 - 70,039",
+      "averagePrice": 59558,
+      "minimumPrice": 40000,
+      "maximumPrice": 95000,
+      "averageStackPrice": 59558,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

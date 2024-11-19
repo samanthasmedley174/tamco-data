@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis argonian mortar and pestle bone",
+    "displayName": "Praxis: Argonian Mortar and Pestle, Bone",
+    "values": {
+      "commonRange": "5,000 - 15,000",
+      "averagePrice": 11054,
+      "minimumPrice": 539,
+      "maximumPrice": 24999,
+      "averageStackPrice": 11054,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

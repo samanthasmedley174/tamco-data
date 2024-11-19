@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern wood elf beehive stump",
+    "displayName": "Pattern: Wood Elf Beehive, Stump",
+    "values": {
+      "commonRange": "18,902 - 30,039",
+      "averagePrice": 23172,
+      "minimumPrice": 12039,
+      "maximumPrice": 35000,
+      "averageStackPrice": 23172,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

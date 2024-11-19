@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern wood elf table formal",
+    "displayName": "Pattern: Wood Elf Table, Formal",
+    "values": {
+      "commonRange": "100 - 999",
+      "averagePrice": 576,
+      "minimumPrice": 100,
+      "maximumPrice": 1130,
+      "averageStackPrice": 576,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

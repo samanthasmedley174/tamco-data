@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant towering mammoth ear",
+    "displayName": "Plant, Towering Mammoth Ear",
+    "values": {
+      "commonRange": "975 - 975",
+      "averagePrice": 769,
+      "minimumPrice": 40,
+      "maximumPrice": 1085,
+      "averageStackPrice": 3076,
+      "commonStackSize": 4,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

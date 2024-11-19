@@ -1,0 +1,18 @@
+[
+  {
+    "name": "platform cut stone",
+    "displayName": "Platform, Cut Stone",
+    "values": {
+      "commonRange": "1,300 - 8,000",
+      "averagePrice": 4420,
+      "minimumPrice": 1250,
+      "maximumPrice": 11000,
+      "averageStackPrice": 4420,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

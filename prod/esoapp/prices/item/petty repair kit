@@ -1,0 +1,18 @@
+[
+  {
+    "name": "petty repair kit",
+    "displayName": "Petty Repair Kit",
+    "values": {
+      "commonRange": "3 - 20",
+      "averagePrice": 9,
+      "minimumPrice": 2,
+      "maximumPrice": 20,
+      "averageStackPrice": 1800,
+      "commonStackSize": 200,
+      "salesRecorded": 7
+    },
+    "type": "Miscellaneous",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

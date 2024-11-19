@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern sunport scarf valance lavender",
+    "displayName": "Pattern: Sunport Scarf Valance, Lavender",
+    "values": {
+      "commonRange": "200,000 - 345,000",
+      "averagePrice": 265504,
+      "minimumPrice": 200000,
+      "maximumPrice": 350000,
+      "averageStackPrice": 265504,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

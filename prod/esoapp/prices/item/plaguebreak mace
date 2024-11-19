@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plaguebreak mace",
+    "displayName": "Plaguebreak Mace",
+    "values": {
+      "commonRange": "3,144 - 23,153",
+      "averagePrice": 13841,
+      "minimumPrice": 1145,
+      "maximumPrice": 39153,
+      "averageStackPrice": 13841,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

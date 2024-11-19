@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redoran bed double pillow",
+    "displayName": "Pattern: Redoran Bed, Double Pillow",
+    "values": {
+      "commonRange": "3,000 - 6,617",
+      "averagePrice": 4956,
+      "minimumPrice": 3000,
+      "maximumPrice": 6777,
+      "averageStackPrice": 4956,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

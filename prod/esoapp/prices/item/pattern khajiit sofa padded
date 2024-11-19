@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern khajiit sofa padded",
+    "displayName": "Pattern: Khajiit Sofa, Padded",
+    "values": {
+      "commonRange": "14,000 - 16,075",
+      "averagePrice": 14899,
+      "minimumPrice": 14000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 14899,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

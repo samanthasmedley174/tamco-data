@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis argonian jug ritual",
+    "displayName": "Praxis: Argonian Jug, Ritual",
+    "values": {
+      "commonRange": "9,900 - 10,200",
+      "averagePrice": 9925,
+      "minimumPrice": 8000,
+      "maximumPrice": 10925,
+      "averageStackPrice": 9925,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

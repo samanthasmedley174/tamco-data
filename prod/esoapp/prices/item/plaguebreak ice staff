@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plaguebreak ice staff",
+    "displayName": "Plaguebreak Ice Staff",
+    "values": {
+      "commonRange": "2,000 - 13,234",
+      "averagePrice": 7107,
+      "minimumPrice": 534,
+      "maximumPrice": 18246,
+      "averageStackPrice": 7107,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

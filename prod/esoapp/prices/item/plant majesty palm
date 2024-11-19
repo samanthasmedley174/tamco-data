@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant majesty palm",
+    "displayName": "Plant, Majesty Palm",
+    "values": {
+      "commonRange": "500 - 2,058",
+      "averagePrice": 1158,
+      "minimumPrice": 60,
+      "maximumPrice": 3335,
+      "averageStackPrice": 1158,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor bowl shallow limestone",
+    "displayName": "Praxis: Alinor Bowl, Shallow Limestone",
+    "values": {
+      "commonRange": "999 - 1,857",
+      "averagePrice": 1449,
+      "minimumPrice": 527,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1449,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

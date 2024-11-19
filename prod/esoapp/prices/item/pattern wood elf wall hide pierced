@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern wood elf wall hide pierced",
+    "displayName": "Pattern: Wood Elf Wall Hide, Pierced",
+    "values": {
+      "commonRange": "63 - 227",
+      "averagePrice": 139,
+      "minimumPrice": 27,
+      "maximumPrice": 228,
+      "averageStackPrice": 139,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

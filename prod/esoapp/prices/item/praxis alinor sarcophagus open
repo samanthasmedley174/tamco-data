@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor sarcophagus open",
+    "displayName": "Praxis: Alinor Sarcophagus, Open",
+    "values": {
+      "commonRange": "15,000 - 17,150",
+      "averagePrice": 15926,
+      "minimumPrice": 14000,
+      "maximumPrice": 20030,
+      "averageStackPrice": 15926,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

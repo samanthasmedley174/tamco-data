@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plague doctors necklace",
+    "displayName": "Plague Doctor's Necklace",
+    "values": {
+      "commonRange": "150 - 20,000",
+      "averagePrice": 4476,
+      "minimumPrice": 144,
+      "maximumPrice": 50000,
+      "averageStackPrice": 4476,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Set Items",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

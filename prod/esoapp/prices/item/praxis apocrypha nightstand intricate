@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis apocrypha nightstand intricate",
+    "displayName": "Praxis: Apocrypha Nightstand, Intricate",
+    "values": {
+      "commonRange": "5,000 - 6,745",
+      "averagePrice": 6297,
+      "minimumPrice": 5000,
+      "maximumPrice": 6831,
+      "averageStackPrice": 6297,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

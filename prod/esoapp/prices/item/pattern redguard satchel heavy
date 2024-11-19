@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redguard satchel heavy",
+    "displayName": "Pattern: Redguard Satchel, Heavy",
+    "values": {
+      "commonRange": "1,800,000 - 2,600,000",
+      "averagePrice": 2157753,
+      "minimumPrice": 1600000,
+      "maximumPrice": 3000000,
+      "averageStackPrice": 2157753,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

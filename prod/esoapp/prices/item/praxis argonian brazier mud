@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis argonian brazier mud",
+    "displayName": "Praxis: Argonian Brazier, Mud",
+    "values": {
+      "commonRange": "15,000 - 17,255",
+      "averagePrice": 16622,
+      "minimumPrice": 15000,
+      "maximumPrice": 17486,
+      "averageStackPrice": 16622,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

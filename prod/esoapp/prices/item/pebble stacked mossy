@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pebble stacked mossy",
+    "displayName": "Pebble, Stacked Mossy",
+    "values": {
+      "commonRange": "300 - 300",
+      "averagePrice": 300,
+      "minimumPrice": 300,
+      "maximumPrice": 300,
+      "averageStackPrice": 300,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Furnishings",
+    "date": "10/17/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant galen agave",
+    "displayName": "Plant, Galen Agave",
+    "values": {
+      "commonRange": "111 - 1,000",
+      "averagePrice": 512,
+      "minimumPrice": 100,
+      "maximumPrice": 1125,
+      "averageStackPrice": 1024,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

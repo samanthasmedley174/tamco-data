@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern khajiit drapes tattered",
+    "displayName": "Pattern: Khajiit Drapes, Tattered",
+    "values": {
+      "commonRange": "49 - 148",
+      "averagePrice": 171,
+      "minimumPrice": 27,
+      "maximumPrice": 830,
+      "averageStackPrice": 171,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

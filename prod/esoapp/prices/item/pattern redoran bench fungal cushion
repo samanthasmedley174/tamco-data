@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redoran bench fungal cushion",
+    "displayName": "Pattern: Redoran Bench, Fungal Cushion",
+    "values": {
+      "commonRange": "23,000 - 29,999",
+      "averagePrice": 26067,
+      "minimumPrice": 22000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 26067,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern wood elf canopy spine",
+    "displayName": "Pattern: Wood Elf Canopy, Spine",
+    "values": {
+      "commonRange": "6,000 - 9,629",
+      "averagePrice": 8621,
+      "minimumPrice": 5000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 8621,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

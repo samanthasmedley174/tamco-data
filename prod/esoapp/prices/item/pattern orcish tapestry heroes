@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern orcish tapestry heroes",
+    "displayName": "Pattern: Orcish Tapestry, Heroes",
+    "values": {
+      "commonRange": "15,000 - 17,700",
+      "averagePrice": 16988,
+      "minimumPrice": 12805,
+      "maximumPrice": 25039,
+      "averageStackPrice": 16988,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

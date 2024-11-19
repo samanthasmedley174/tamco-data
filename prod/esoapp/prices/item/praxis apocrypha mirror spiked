@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis apocrypha mirror spiked",
+    "displayName": "Praxis: Apocrypha Mirror, Spiked",
+    "values": {
+      "commonRange": "14,000 - 16,402",
+      "averagePrice": 14493,
+      "minimumPrice": 5039,
+      "maximumPrice": 17026,
+      "averageStackPrice": 14493,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

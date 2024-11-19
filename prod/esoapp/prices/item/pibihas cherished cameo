@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pibihas cherished cameo",
+    "displayName": "Pibiha's Cherished Cameo",
+    "values": {
+      "commonRange": "141 - 8,818",
+      "averagePrice": 3053,
+      "minimumPrice": 141,
+      "maximumPrice": 8818,
+      "averageStackPrice": 3053,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

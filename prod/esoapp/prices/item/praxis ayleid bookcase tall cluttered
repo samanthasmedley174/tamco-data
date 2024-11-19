@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis ayleid bookcase tall cluttered",
+    "displayName": "Praxis: Ayleid Bookcase, Tall Cluttered",
+    "values": {
+      "commonRange": "5,000,000 - 5,500,000",
+      "averagePrice": 6375000,
+      "minimumPrice": 5000000,
+      "maximumPrice": 10000000,
+      "averageStackPrice": 6375000,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishing Plans",
+    "date": "10/08/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

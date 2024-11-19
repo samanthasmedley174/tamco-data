@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern leyawiin tapestry lone vessel",
+    "displayName": "Pattern: Leyawiin Tapestry, Lone Vessel",
+    "values": {
+      "commonRange": "3,000 - 9,999",
+      "averagePrice": 5535,
+      "minimumPrice": 3000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5535,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

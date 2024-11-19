@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redoran table runner gilded ochre",
+    "displayName": "Pattern: Redoran Table Runner, Gilded Ochre",
+    "values": {
+      "commonRange": "24,039 - 27,777",
+      "averagePrice": 27399,
+      "minimumPrice": 20000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 27399,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

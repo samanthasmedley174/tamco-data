@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant squat jungle leaf",
+    "displayName": "Plant, Squat Jungle Leaf",
+    "values": {
+      "commonRange": "315 - 542",
+      "averagePrice": 391,
+      "minimumPrice": 15,
+      "maximumPrice": 625,
+      "averageStackPrice": 782,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/16/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

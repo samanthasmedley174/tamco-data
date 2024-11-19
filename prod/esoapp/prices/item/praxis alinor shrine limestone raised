@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor shrine limestone raised",
+    "displayName": "Praxis: Alinor Shrine, Limestone Raised",
+    "values": {
+      "commonRange": "8,587 - 15,000",
+      "averagePrice": 12641,
+      "minimumPrice": 8000,
+      "maximumPrice": 33000,
+      "averageStackPrice": 12641,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

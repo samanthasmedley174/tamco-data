@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern worm cult bed single",
+    "displayName": "Pattern: Worm Cult Bed, Single",
+    "values": {
+      "commonRange": "55,000 - 110,000",
+      "averagePrice": 81593,
+      "minimumPrice": 54093,
+      "maximumPrice": 124999,
+      "averageStackPrice": 81593,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern vampiric bed canopy",
+    "displayName": "Pattern: Vampiric Bed, Canopy",
+    "values": {
+      "commonRange": "200,000 - 250,000",
+      "averagePrice": 224000,
+      "minimumPrice": 180000,
+      "maximumPrice": 275000,
+      "averageStackPrice": 224000,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

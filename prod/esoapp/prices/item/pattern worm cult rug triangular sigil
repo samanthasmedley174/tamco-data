@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern worm cult rug triangular sigil",
+    "displayName": "Pattern: Worm Cult Rug, Triangular Sigil",
+    "values": {
+      "commonRange": "50,000 - 92,132",
+      "averagePrice": 73335,
+      "minimumPrice": 45000,
+      "maximumPrice": 99999,
+      "averageStackPrice": 73335,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

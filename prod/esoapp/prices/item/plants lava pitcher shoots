@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plants lava pitcher shoots",
+    "displayName": "Plants, Lava Pitcher Shoots",
+    "values": {
+      "commonRange": "3,000 - 30,000",
+      "averagePrice": 19532,
+      "minimumPrice": 260,
+      "maximumPrice": 30060,
+      "averageStackPrice": 19532,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/21/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

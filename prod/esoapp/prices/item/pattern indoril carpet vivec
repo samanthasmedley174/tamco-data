@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern indoril carpet vivec",
+    "displayName": "Pattern: Indoril Carpet, Vivec",
+    "values": {
+      "commonRange": "22,222 - 28,857",
+      "averagePrice": 25566,
+      "minimumPrice": 20000,
+      "maximumPrice": 28857,
+      "averageStackPrice": 25566,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

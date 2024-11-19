@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant galen palm cluster",
+    "displayName": "Plant, Galen Palm Cluster",
+    "values": {
+      "commonRange": "3,403 - 5,000",
+      "averagePrice": 4068,
+      "minimumPrice": 1362,
+      "maximumPrice": 6000,
+      "averageStackPrice": 4068,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant marsh mani flower",
+    "displayName": "Plant, Marsh Mani Flower",
+    "values": {
+      "commonRange": "1,409 - 5,000",
+      "averagePrice": 2557,
+      "minimumPrice": 200,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2557,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

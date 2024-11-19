@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern murkmire rug crawling serpents",
+    "displayName": "Pattern: Murkmire Rug, Crawling Serpents",
+    "values": {
+      "commonRange": "16,027 - 23,000",
+      "averagePrice": 19061,
+      "minimumPrice": 927,
+      "maximumPrice": 23329,
+      "averageStackPrice": 19061,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

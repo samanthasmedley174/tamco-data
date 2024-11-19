@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pauldrons of baan dars blessing",
+    "displayName": "Pauldrons of Baan Dar's Blessing",
+    "values": {
+      "commonRange": "1,000 - 2,153",
+      "averagePrice": 1567,
+      "minimumPrice": 900,
+      "maximumPrice": 2200,
+      "averageStackPrice": 1567,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor wall shrine marble",
+    "displayName": "Praxis: Alinor Wall Shrine, Marble",
+    "values": {
+      "commonRange": "6,600 - 9,010",
+      "averagePrice": 8351,
+      "minimumPrice": 6000,
+      "maximumPrice": 11530,
+      "averageStackPrice": 8351,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

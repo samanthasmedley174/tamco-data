@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern redoran bed single",
+    "displayName": "Pattern: Redoran Bed, Single",
+    "values": {
+      "commonRange": "800 - 1,200",
+      "averagePrice": 966,
+      "minimumPrice": 500,
+      "maximumPrice": 1327,
+      "averageStackPrice": 966,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern orcish backpack",
+    "displayName": "Pattern: Orcish Backpack",
+    "values": {
+      "commonRange": "13,524 - 20,000",
+      "averagePrice": 15254,
+      "minimumPrice": 13250,
+      "maximumPrice": 20000,
+      "averageStackPrice": 15254,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

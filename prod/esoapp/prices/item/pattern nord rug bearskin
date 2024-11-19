@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern nord rug bearskin",
+    "displayName": "Pattern: Nord Rug, Bearskin",
+    "values": {
+      "commonRange": "40,000 - 100,000",
+      "averagePrice": 58495,
+      "minimumPrice": 33001,
+      "maximumPrice": 100000,
+      "averageStackPrice": 58495,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

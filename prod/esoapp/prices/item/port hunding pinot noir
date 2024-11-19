@@ -1,0 +1,18 @@
+[
+  {
+    "name": "port hunding pinot noir",
+    "displayName": "Port Hunding Pinot Noir",
+    "values": {
+      "commonRange": "2 - 27",
+      "averagePrice": 18,
+      "minimumPrice": 2,
+      "maximumPrice": 88,
+      "averageStackPrice": 1800,
+      "commonStackSize": 100,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "11/14/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/port_hunding_pinot_noir.png"
+  }
+]

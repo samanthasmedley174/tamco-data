@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern orcish sack flour",
+    "displayName": "Pattern: Orcish Sack, Flour",
+    "values": {
+      "commonRange": "800 - 2,000",
+      "averagePrice": 1296,
+      "minimumPrice": 500,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1296,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

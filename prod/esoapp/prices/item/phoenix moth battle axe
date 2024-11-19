@@ -1,0 +1,18 @@
+[
+  {
+    "name": "phoenix moth battle axe",
+    "displayName": "Phoenix Moth Battle Axe",
+    "values": {
+      "commonRange": "2,234 - 3,000",
+      "averagePrice": 2617,
+      "minimumPrice": 2000,
+      "maximumPrice": 3234,
+      "averageStackPrice": 2617,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

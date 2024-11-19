@@ -1,0 +1,18 @@
+[
+  {
+    "name": "post barnacle covered",
+    "displayName": "Post, Barnacle Covered",
+    "values": {
+      "commonRange": "15 - 400",
+      "averagePrice": 161,
+      "minimumPrice": 15,
+      "maximumPrice": 450,
+      "averageStackPrice": 322,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/23/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

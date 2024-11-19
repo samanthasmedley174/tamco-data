@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pelinals greaves",
+    "displayName": "Pelinal's Greaves",
+    "values": {
+      "commonRange": "78,250 - 79,990",
+      "averagePrice": 79120,
+      "minimumPrice": 78250,
+      "maximumPrice": 79990,
+      "averageStackPrice": 79120,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

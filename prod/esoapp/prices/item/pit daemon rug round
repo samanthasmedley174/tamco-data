@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pit daemon rug round",
+    "displayName": "Pit Daemon Rug, Round",
+    "values": {
+      "commonRange": "15,777 - 30,000",
+      "averagePrice": 24710,
+      "minimumPrice": 15000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 24710,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pauldron of bahrahas curse",
+    "displayName": "Pauldron of Bahraha's Curse",
+    "values": {
+      "commonRange": "500 - 3,150",
+      "averagePrice": 1869,
+      "minimumPrice": 499,
+      "maximumPrice": 3350,
+      "averageStackPrice": 1869,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

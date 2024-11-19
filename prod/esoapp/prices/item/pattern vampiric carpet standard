@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern vampiric carpet standard",
+    "displayName": "Pattern: Vampiric Carpet, Standard",
+    "values": {
+      "commonRange": "2,999 - 4,216",
+      "averagePrice": 3334,
+      "minimumPrice": 2500,
+      "maximumPrice": 4548,
+      "averageStackPrice": 3334,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

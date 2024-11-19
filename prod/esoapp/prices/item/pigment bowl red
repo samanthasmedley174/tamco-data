@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pigment bowl red",
+    "displayName": "Pigment Bowl, Red",
+    "values": {
+      "commonRange": "4,999 - 15,450",
+      "averagePrice": 9290,
+      "minimumPrice": 4999,
+      "maximumPrice": 18000,
+      "averageStackPrice": 9290,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

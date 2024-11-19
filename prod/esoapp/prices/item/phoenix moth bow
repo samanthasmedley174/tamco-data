@@ -1,0 +1,18 @@
+[
+  {
+    "name": "phoenix moth bow",
+    "displayName": "Phoenix Moth Bow",
+    "values": {
+      "commonRange": "250 - 1,750",
+      "averagePrice": 825,
+      "minimumPrice": 246,
+      "maximumPrice": 1750,
+      "averageStackPrice": 825,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern wood elf canopy leather",
+    "displayName": "Pattern: Wood Elf Canopy, Leather",
+    "values": {
+      "commonRange": "27 - 400",
+      "averagePrice": 211,
+      "minimumPrice": 27,
+      "maximumPrice": 527,
+      "averageStackPrice": 211,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

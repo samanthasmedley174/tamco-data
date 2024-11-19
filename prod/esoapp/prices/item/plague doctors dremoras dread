@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plague doctors dremoras dread",
+    "displayName": "Plague Doctor's Dremora's Dread",
+    "values": {
+      "commonRange": "1,000 - 1,150",
+      "averagePrice": 913,
+      "minimumPrice": 350,
+      "maximumPrice": 1150,
+      "averageStackPrice": 913,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

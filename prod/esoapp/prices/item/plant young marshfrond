@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant young marshfrond",
+    "displayName": "Plant, Young Marshfrond",
+    "values": {
+      "commonRange": "350 - 1,714",
+      "averagePrice": 1061,
+      "minimumPrice": 260,
+      "maximumPrice": 2250,
+      "averageStackPrice": 1061,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

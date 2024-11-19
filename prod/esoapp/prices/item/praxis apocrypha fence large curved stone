@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis apocrypha fence large curved stone",
+    "displayName": "Praxis: Apocrypha Fence, Large Curved Stone",
+    "values": {
+      "commonRange": "6,600 - 14,999",
+      "averagePrice": 9328,
+      "minimumPrice": 5000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9328,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

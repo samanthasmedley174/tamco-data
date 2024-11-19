@@ -1,0 +1,18 @@
+[
+  {
+    "name": "phoenix moth jack",
+    "displayName": "Phoenix Moth Jack",
+    "values": {
+      "commonRange": "180 - 2,180",
+      "averagePrice": 2265,
+      "minimumPrice": 174,
+      "maximumPrice": 48189,
+      "averageStackPrice": 2265,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

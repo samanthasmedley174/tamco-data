@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis alinor sarcophagus wedge",
+    "displayName": "Praxis: Alinor Sarcophagus, Wedge",
+    "values": {
+      "commonRange": "20,000 - 27,099",
+      "averagePrice": 24618,
+      "minimumPrice": 20000,
+      "maximumPrice": 28000,
+      "averageStackPrice": 24618,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

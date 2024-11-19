@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant cluster keet fern",
+    "displayName": "Plant Cluster, Keet Fern",
+    "values": {
+      "commonRange": "355 - 900",
+      "averagePrice": 763,
+      "minimumPrice": 131,
+      "maximumPrice": 1666,
+      "averageStackPrice": 763,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

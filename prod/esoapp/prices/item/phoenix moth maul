@@ -1,0 +1,18 @@
+[
+  {
+    "name": "phoenix moth maul",
+    "displayName": "Phoenix Moth Maul",
+    "values": {
+      "commonRange": "234 - 234",
+      "averagePrice": 869,
+      "minimumPrice": 134,
+      "maximumPrice": 2240,
+      "averageStackPrice": 869,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern nord tapestry dragon",
+    "displayName": "Pattern: Nord Tapestry, Dragon",
+    "values": {
+      "commonRange": "294 - 1,308",
+      "averagePrice": 849,
+      "minimumPrice": 30,
+      "maximumPrice": 1351,
+      "averageStackPrice": 849,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

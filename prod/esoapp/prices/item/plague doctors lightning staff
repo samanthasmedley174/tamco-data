@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plague doctors lightning staff",
+    "displayName": "Plague Doctor's Lightning Staff",
+    "values": {
+      "commonRange": "546 - 9,246",
+      "averagePrice": 5259,
+      "minimumPrice": 234,
+      "maximumPrice": 30000,
+      "averageStackPrice": 5259,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

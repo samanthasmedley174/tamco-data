@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pink wisdom tea",
+    "displayName": "Pink Wisdom Tea",
+    "values": {
+      "commonRange": "1 - 3",
+      "averagePrice": 2,
+      "minimumPrice": 1,
+      "maximumPrice": 3,
+      "averageStackPrice": 2,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Food & Drinks",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/pink_wisdom_tea.png"
+  }
+]

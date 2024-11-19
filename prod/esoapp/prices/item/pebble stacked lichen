@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pebble stacked lichen",
+    "displayName": "Pebble, Stacked Lichen",
+    "values": {
+      "commonRange": "366 - 366",
+      "averagePrice": 249,
+      "minimumPrice": 15,
+      "maximumPrice": 366,
+      "averageStackPrice": 747,
+      "commonStackSize": 3,
+      "salesRecorded": 3
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

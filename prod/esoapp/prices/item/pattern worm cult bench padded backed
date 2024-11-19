@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern worm cult bench padded backed",
+    "displayName": "Pattern: Worm Cult Bench, Padded Backed",
+    "values": {
+      "commonRange": "1,000,039 - 1,122,039",
+      "averagePrice": 1096020,
+      "minimumPrice": 1000000,
+      "maximumPrice": 1244039,
+      "averageStackPrice": 1096020,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Furnishing Plans",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

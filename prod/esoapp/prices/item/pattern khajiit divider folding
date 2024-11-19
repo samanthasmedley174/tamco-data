@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern khajiit divider folding",
+    "displayName": "Pattern: Khajiit Divider, Folding",
+    "values": {
+      "commonRange": "13,000 - 16,764",
+      "averagePrice": 15180,
+      "minimumPrice": 13000,
+      "maximumPrice": 22000,
+      "averageStackPrice": 15180,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern hlaalu tapestry floral",
+    "displayName": "Pattern: Hlaalu Tapestry, Floral",
+    "values": {
+      "commonRange": "36,352 - 65,000",
+      "averagePrice": 45622,
+      "minimumPrice": 35000,
+      "maximumPrice": 72290,
+      "averageStackPrice": 45622,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

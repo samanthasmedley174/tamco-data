@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pauldron of the footman",
+    "displayName": "Pauldron of the Footman",
+    "values": {
+      "commonRange": "1,000 - 4,497",
+      "averagePrice": 2484,
+      "minimumPrice": 1000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2484,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

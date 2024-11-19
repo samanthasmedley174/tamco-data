@@ -1,0 +1,18 @@
+[
+  {
+    "name": "plant tall mammoth ear",
+    "displayName": "Plant, Tall Mammoth Ear",
+    "values": {
+      "commonRange": "37 - 1,085",
+      "averagePrice": 561,
+      "minimumPrice": 37,
+      "maximumPrice": 1085,
+      "averageStackPrice": 561,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

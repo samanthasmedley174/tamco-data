@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern murkmire rug lurking lizard",
+    "displayName": "Pattern: Murkmire Rug, Lurking Lizard",
+    "values": {
+      "commonRange": "3,327 - 17,700",
+      "averagePrice": 12803,
+      "minimumPrice": 1000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 12803,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

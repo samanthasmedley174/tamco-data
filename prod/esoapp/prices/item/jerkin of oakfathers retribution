@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jerkin of oakfathers retribution",
+    "displayName": "Jerkin of Oakfather's Retribution",
+    "values": {
+      "commonRange": "2,791 - 10,000",
+      "averagePrice": 5253,
+      "minimumPrice": 750,
+      "maximumPrice": 10001,
+      "averageStackPrice": 5253,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

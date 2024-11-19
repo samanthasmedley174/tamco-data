@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jack of ashen grip",
+    "displayName": "Jack of Ashen Grip",
+    "values": {
+      "commonRange": "900 - 9,450",
+      "averagePrice": 5234,
+      "minimumPrice": 117,
+      "maximumPrice": 18000,
+      "averageStackPrice": 5234,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

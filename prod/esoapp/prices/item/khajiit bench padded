@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit bench padded",
+    "displayName": "Khajiit Bench, Padded",
+    "values": {
+      "commonRange": "1,750 - 2,661",
+      "averagePrice": 2589,
+      "minimumPrice": 900,
+      "maximumPrice": 5460,
+      "averageStackPrice": 2589,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

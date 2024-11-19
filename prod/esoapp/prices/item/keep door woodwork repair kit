@@ -1,0 +1,18 @@
+[
+  {
+    "name": "keep door woodwork repair kit",
+    "displayName": "Keep Door Woodwork Repair Kit",
+    "values": {
+      "commonRange": "12 - 58",
+      "averagePrice": 34,
+      "minimumPrice": 10,
+      "maximumPrice": 58,
+      "averageStackPrice": 3400,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Siege Equipment",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Keep_Door_Woodwork_Repair_Kit.png"
+  }
+]

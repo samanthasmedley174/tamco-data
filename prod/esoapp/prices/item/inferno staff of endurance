@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of endurance",
+    "displayName": "Inferno Staff of Endurance",
+    "values": {
+      "commonRange": "313 - 1,246",
+      "averagePrice": 1074,
+      "minimumPrice": 200,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1074,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

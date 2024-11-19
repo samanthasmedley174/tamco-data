@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jejora",
+    "displayName": "Jejora",
+    "values": {
+      "commonRange": "20 - 103",
+      "averagePrice": 39,
+      "minimumPrice": 20,
+      "maximumPrice": 105,
+      "averageStackPrice": 39,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Enchanting Materials",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Jejora.png"
+  }
+]

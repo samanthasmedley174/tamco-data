@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril carpet grand vivec",
+    "displayName": "Indoril Carpet, Grand Vivec",
+    "values": {
+      "commonRange": "3,300 - 16,300",
+      "averagePrice": 8550,
+      "minimumPrice": 2800,
+      "maximumPrice": 20300,
+      "averageStackPrice": 8550,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/12/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

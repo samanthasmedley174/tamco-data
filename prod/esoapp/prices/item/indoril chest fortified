@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril chest fortified",
+    "displayName": "Indoril Chest, Fortified",
+    "values": {
+      "commonRange": "3,999 - 8,899",
+      "averagePrice": 6051,
+      "minimumPrice": 3000,
+      "maximumPrice": 9799,
+      "averageStackPrice": 6051,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

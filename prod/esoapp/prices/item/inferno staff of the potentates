@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of the potentates",
+    "displayName": "Inferno Staff of the Potentates",
+    "values": {
+      "commonRange": "2,717 - 10,246",
+      "averagePrice": 8697,
+      "minimumPrice": 246,
+      "maximumPrice": 99000,
+      "averageStackPrice": 8697,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril lightpost stone",
+    "displayName": "Indoril Lightpost, Stone",
+    "values": {
+      "commonRange": "100 - 1,060",
+      "averagePrice": 510,
+      "minimumPrice": 60,
+      "maximumPrice": 2212,
+      "averageStackPrice": 510,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

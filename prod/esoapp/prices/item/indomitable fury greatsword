@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indomitable fury greatsword",
+    "displayName": "Indomitable Fury Greatsword",
+    "values": {
+      "commonRange": "3,934 - 3,934",
+      "averagePrice": 3934,
+      "minimumPrice": 3934,
+      "maximumPrice": 3934,
+      "averageStackPrice": 3934,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

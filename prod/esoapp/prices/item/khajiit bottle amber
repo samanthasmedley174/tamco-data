@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit bottle amber",
+    "displayName": "Khajiit Bottle, Amber",
+    "values": {
+      "commonRange": "266 - 420",
+      "averagePrice": 340,
+      "minimumPrice": 260,
+      "maximumPrice": 500,
+      "averageStackPrice": 340,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

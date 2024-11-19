@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril inks the art of dunmer tattooing",
+    "displayName": "Indoril Inks: The Art of Dunmer Tattooing",
+    "values": {
+      "commonRange": "5,000 - 40,000",
+      "averagePrice": 19729,
+      "minimumPrice": 1000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 19729,
+      "commonStackSize": 1,
+      "salesRecorded": 49
+    },
+    "type": "Miscellaneous",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

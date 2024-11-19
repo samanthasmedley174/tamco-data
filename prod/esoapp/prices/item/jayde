@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jayde",
+    "displayName": "Jayde",
+    "values": {
+      "commonRange": "6 - 61",
+      "averagePrice": 26,
+      "minimumPrice": 6,
+      "maximumPrice": 62,
+      "averageStackPrice": 130,
+      "commonStackSize": 5,
+      "salesRecorded": 10
+    },
+    "type": "Enchanting Materials",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Jayde.png"
+  }
+]

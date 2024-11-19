@@ -1,0 +1,18 @@
+[
+  {
+    "name": "kerks pauldrons of cyrodiils crest",
+    "displayName": "Kerks' Pauldrons of Cyrodiil's Crest",
+    "values": {
+      "commonRange": "5,500 - 5,500",
+      "averagePrice": 5383,
+      "minimumPrice": 500,
+      "maximumPrice": 10150,
+      "averageStackPrice": 5383,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

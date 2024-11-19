@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ironthread",
+    "displayName": "Ironthread",
+    "values": {
+      "commonRange": "16 - 175",
+      "averagePrice": 57,
+      "minimumPrice": 9,
+      "maximumPrice": 175,
+      "averageStackPrice": 2850,
+      "commonStackSize": 50,
+      "salesRecorded": 32
+    },
+    "type": "Clothing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

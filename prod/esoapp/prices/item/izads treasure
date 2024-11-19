@@ -1,0 +1,18 @@
+[
+  {
+    "name": "izads treasure",
+    "displayName": "Izad's Treasure",
+    "values": {
+      "commonRange": "500 - 500",
+      "averagePrice": 500,
+      "minimumPrice": 500,
+      "maximumPrice": 500,
+      "averageStackPrice": 500,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril footlocker fortified",
+    "displayName": "Indoril Footlocker, Fortified",
+    "values": {
+      "commonRange": "2,650 - 9,700",
+      "averagePrice": 6886,
+      "minimumPrice": 710,
+      "maximumPrice": 10550,
+      "averageStackPrice": 6886,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

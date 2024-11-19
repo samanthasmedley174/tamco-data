@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril banner vivec",
+    "displayName": "Indoril Banner, Vivec",
+    "values": {
+      "commonRange": "6,000 - 8,300",
+      "averagePrice": 7486,
+      "minimumPrice": 4000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 7486,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Furnishings",
+    "date": "07/19/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

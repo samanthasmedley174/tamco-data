@@ -1,0 +1,18 @@
+[
+  {
+    "name": "iron hide",
+    "displayName": "Iron Hide",
+    "values": {
+      "commonRange": "16 - 50",
+      "averagePrice": 31,
+      "minimumPrice": 12,
+      "maximumPrice": 55,
+      "averageStackPrice": 6200,
+      "commonStackSize": 200,
+      "salesRecorded": 17
+    },
+    "type": "Clothing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

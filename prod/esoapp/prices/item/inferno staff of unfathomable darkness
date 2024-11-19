@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of unfathomable darkness",
+    "displayName": "Inferno Staff of Unfathomable Darkness",
+    "values": {
+      "commonRange": "246 - 9,470",
+      "averagePrice": 3360,
+      "minimumPrice": 234,
+      "maximumPrice": 15240,
+      "averageStackPrice": 3360,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jel parchment",
+    "displayName": "Jel Parchment",
+    "values": {
+      "commonRange": "125,000 - 250,000",
+      "averagePrice": 226145,
+      "minimumPrice": 120000,
+      "maximumPrice": 500060,
+      "averageStackPrice": 226145,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/14/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

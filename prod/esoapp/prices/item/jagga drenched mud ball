@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jagga drenched mud ball",
+    "displayName": "Jagga-Drenched Mud Ball",
+    "values": {
+      "commonRange": "3 - 220",
+      "averagePrice": 38,
+      "minimumPrice": 3,
+      "maximumPrice": 240,
+      "averageStackPrice": 3800,
+      "commonStackSize": 100,
+      "salesRecorded": 14
+    },
+    "type": "Food & Drinks",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/jagga-drenched_mud_ball.png"
+  }
+]

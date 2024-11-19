@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indomitable fury shield",
+    "displayName": "Indomitable Fury Shield",
+    "values": {
+      "commonRange": "900 - 1,850",
+      "averagePrice": 1514,
+      "minimumPrice": 350,
+      "maximumPrice": 3350,
+      "averageStackPrice": 1514,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of vicious death",
+    "displayName": "Inferno Staff of Vicious Death",
+    "values": {
+      "commonRange": "1,246 - 19,246",
+      "averagePrice": 8466,
+      "minimumPrice": 1000,
+      "maximumPrice": 49240,
+      "averageStackPrice": 8466,
+      "commonStackSize": 1,
+      "salesRecorded": 64
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

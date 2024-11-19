@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indomitable fury sash",
+    "displayName": "Indomitable Fury Sash",
+    "values": {
+      "commonRange": "2,000 - 3,275",
+      "averagePrice": 2505,
+      "minimumPrice": 750,
+      "maximumPrice": 3675,
+      "averageStackPrice": 2505,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

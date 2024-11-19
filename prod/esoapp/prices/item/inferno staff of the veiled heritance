@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of the veiled heritance",
+    "displayName": "Inferno Staff of the Veiled Heritance",
+    "values": {
+      "commonRange": "200 - 250",
+      "averagePrice": 245,
+      "minimumPrice": 200,
+      "maximumPrice": 346,
+      "averageStackPrice": 245,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

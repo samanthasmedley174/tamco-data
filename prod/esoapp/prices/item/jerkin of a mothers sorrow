@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jerkin of a mothers sorrow",
+    "displayName": "Jerkin of a Mother's Sorrow",
+    "values": {
+      "commonRange": "201 - 30,000",
+      "averagePrice": 7693,
+      "minimumPrice": 174,
+      "maximumPrice": 65000,
+      "averageStackPrice": 7693,
+      "commonStackSize": 1,
+      "salesRecorded": 65
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

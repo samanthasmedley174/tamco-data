@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of beckoning steel",
+    "displayName": "Inferno Staff of Beckoning Steel",
+    "values": {
+      "commonRange": "1,246 - 9,000",
+      "averagePrice": 4446,
+      "minimumPrice": 434,
+      "maximumPrice": 10234,
+      "averageStackPrice": 4446,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

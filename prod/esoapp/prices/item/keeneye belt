@@ -1,0 +1,18 @@
+[
+  {
+    "name": "keeneye belt",
+    "displayName": "Keeneye Belt",
+    "values": {
+      "commonRange": "330 - 330",
+      "averagePrice": 538,
+      "minimumPrice": 300,
+      "maximumPrice": 984,
+      "averageStackPrice": 538,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jerkin of transmutation",
+    "displayName": "Jerkin of Transmutation",
+    "values": {
+      "commonRange": "2,500 - 15,080",
+      "averagePrice": 7695,
+      "minimumPrice": 2175,
+      "maximumPrice": 20183,
+      "averageStackPrice": 7695,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

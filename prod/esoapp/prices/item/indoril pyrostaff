@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril pyrostaff",
+    "displayName": "Indoril Pyrostaff",
+    "values": {
+      "commonRange": "142 - 142",
+      "averagePrice": 495,
+      "minimumPrice": 114,
+      "maximumPrice": 1228,
+      "averageStackPrice": 495,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

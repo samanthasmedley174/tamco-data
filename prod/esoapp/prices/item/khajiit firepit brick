@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit firepit brick",
+    "displayName": "Khajiit Firepit, Brick",
+    "values": {
+      "commonRange": "550 - 3,069",
+      "averagePrice": 1915,
+      "minimumPrice": 160,
+      "maximumPrice": 8700,
+      "averageStackPrice": 1915,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

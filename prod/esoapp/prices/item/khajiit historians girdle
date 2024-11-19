@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit historians girdle",
+    "displayName": "Khajiit Historian's Girdle",
+    "values": {
+      "commonRange": "384 - 384",
+      "averagePrice": 384,
+      "minimumPrice": 384,
+      "maximumPrice": 384,
+      "averageStackPrice": 384,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

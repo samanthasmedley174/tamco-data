@@ -1,0 +1,18 @@
+[
+  {
+    "name": "insect parts river bait",
+    "displayName": "Insect Parts, River Bait",
+    "values": {
+      "commonRange": "11 - 33",
+      "averagePrice": 25,
+      "minimumPrice": 3,
+      "maximumPrice": 75,
+      "averageStackPrice": 5000,
+      "commonStackSize": 200,
+      "salesRecorded": 137
+    },
+    "type": "Fishing",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Insect_Parts,_River_Bait.png"
+  }
+]

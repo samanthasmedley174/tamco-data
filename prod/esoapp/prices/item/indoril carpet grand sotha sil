@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril carpet grand sotha sil",
+    "displayName": "Indoril Carpet, Grand Sotha Sil",
+    "values": {
+      "commonRange": "5,000 - 19,999",
+      "averagePrice": 11632,
+      "minimumPrice": 3500,
+      "maximumPrice": 20300,
+      "averageStackPrice": 11632,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/19/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

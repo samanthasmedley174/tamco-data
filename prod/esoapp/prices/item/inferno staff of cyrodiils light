@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of cyrodiils light",
+    "displayName": "Inferno Staff of Cyrodiil's Light",
+    "values": {
+      "commonRange": "2,000 - 2,946",
+      "averagePrice": 2358,
+      "minimumPrice": 750,
+      "maximumPrice": 3334,
+      "averageStackPrice": 2358,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

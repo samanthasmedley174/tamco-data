@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit curtains moons",
+    "displayName": "Khajiit Curtains, Moons",
+    "values": {
+      "commonRange": "200 - 3,577",
+      "averagePrice": 2809,
+      "minimumPrice": 200,
+      "maximumPrice": 10150,
+      "averageStackPrice": 2809,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

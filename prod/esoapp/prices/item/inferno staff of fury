@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of fury",
+    "displayName": "Inferno Staff of Fury",
+    "values": {
+      "commonRange": "4,000 - 9,240",
+      "averagePrice": 7568,
+      "minimumPrice": 3246,
+      "maximumPrice": 9246,
+      "averageStackPrice": 7568,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

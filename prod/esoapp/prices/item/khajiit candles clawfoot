@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit candles clawfoot",
+    "displayName": "Khajiit Candles, Clawfoot",
+    "values": {
+      "commonRange": "1,000 - 4,399",
+      "averagePrice": 2384,
+      "minimumPrice": 500,
+      "maximumPrice": 5300,
+      "averageStackPrice": 2384,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril brazier knotwork",
+    "displayName": "Indoril Brazier, Knotwork",
+    "values": {
+      "commonRange": "3,351 - 4,558",
+      "averagePrice": 3882,
+      "minimumPrice": 2500,
+      "maximumPrice": 4558,
+      "averageStackPrice": 3882,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

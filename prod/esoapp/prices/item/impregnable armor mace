@@ -1,0 +1,18 @@
+[
+  {
+    "name": "impregnable armor mace",
+    "displayName": "Impregnable Armor Mace",
+    "values": {
+      "commonRange": "2,000 - 3,153",
+      "averagePrice": 2585,
+      "minimumPrice": 1053,
+      "maximumPrice": 5153,
+      "averageStackPrice": 2585,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jazbay grapes",
+    "displayName": "Jazbay Grapes",
+    "values": {
+      "commonRange": "8 - 20",
+      "averagePrice": 16,
+      "minimumPrice": 8,
+      "maximumPrice": 64,
+      "averageStackPrice": 3200,
+      "commonStackSize": 200,
+      "salesRecorded": 24
+    },
+    "type": "Provisioning Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

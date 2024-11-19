@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inspired cowl",
+    "displayName": "Inspired Cowl",
+    "values": {
+      "commonRange": "141 - 2,141",
+      "averagePrice": 1141,
+      "minimumPrice": 141,
+      "maximumPrice": 2141,
+      "averageStackPrice": 1141,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

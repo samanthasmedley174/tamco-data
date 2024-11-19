@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indomitable fury hat",
+    "displayName": "Indomitable Fury Hat",
+    "values": {
+      "commonRange": "999 - 6,999",
+      "averagePrice": 3509,
+      "minimumPrice": 350,
+      "maximumPrice": 6999,
+      "averageStackPrice": 3509,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

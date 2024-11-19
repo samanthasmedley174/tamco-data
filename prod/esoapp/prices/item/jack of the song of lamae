@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jack of the song of lamae",
+    "displayName": "Jack of the Song of Lamae",
+    "values": {
+      "commonRange": "165 - 165",
+      "averagePrice": 165,
+      "minimumPrice": 165,
+      "maximumPrice": 165,
+      "averageStackPrice": 165,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

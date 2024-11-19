@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jerkin of trinimacs valor",
+    "displayName": "Jerkin of Trinimac's Valor",
+    "values": {
+      "commonRange": "180 - 3,183",
+      "averagePrice": 1651,
+      "minimumPrice": 174,
+      "maximumPrice": 4400,
+      "averageStackPrice": 1651,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

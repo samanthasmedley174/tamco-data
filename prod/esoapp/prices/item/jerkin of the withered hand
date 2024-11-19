@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jerkin of the withered hand",
+    "displayName": "Jerkin of the Withered Hand",
+    "values": {
+      "commonRange": "174 - 650",
+      "averagePrice": 497,
+      "minimumPrice": 126,
+      "maximumPrice": 780,
+      "averageStackPrice": 497,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

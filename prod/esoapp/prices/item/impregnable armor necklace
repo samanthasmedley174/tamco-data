@@ -1,0 +1,18 @@
+[
+  {
+    "name": "impregnable armor necklace",
+    "displayName": "Impregnable Armor Necklace",
+    "values": {
+      "commonRange": "800 - 2,200",
+      "averagePrice": 1525,
+      "minimumPrice": 347,
+      "maximumPrice": 4144,
+      "averageStackPrice": 1525,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

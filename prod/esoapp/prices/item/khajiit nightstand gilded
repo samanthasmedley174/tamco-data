@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit nightstand gilded",
+    "displayName": "Khajiit Nightstand, Gilded",
+    "values": {
+      "commonRange": "1,805 - 7,000",
+      "averagePrice": 4046,
+      "minimumPrice": 500,
+      "maximumPrice": 7700,
+      "averageStackPrice": 4046,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

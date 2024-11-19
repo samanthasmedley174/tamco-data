@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jehade",
+    "displayName": "Jehade",
+    "values": {
+      "commonRange": "7 - 17",
+      "averagePrice": 11,
+      "minimumPrice": 5,
+      "maximumPrice": 29,
+      "averageStackPrice": 2200,
+      "commonStackSize": 200,
+      "salesRecorded": 35
+    },
+    "type": "Enchanting Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Jehade.png"
+  }
+]

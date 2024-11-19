@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril incense cup silver",
+    "displayName": "Indoril Incense Cup, Silver",
+    "values": {
+      "commonRange": "4,150 - 20,000",
+      "averagePrice": 10105,
+      "minimumPrice": 1200,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10105,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/14/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

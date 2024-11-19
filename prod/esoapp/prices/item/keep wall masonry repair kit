@@ -1,0 +1,18 @@
+[
+  {
+    "name": "keep wall masonry repair kit",
+    "displayName": "Keep Wall Masonry Repair Kit",
+    "values": {
+      "commonRange": "1 - 26",
+      "averagePrice": 13,
+      "minimumPrice": 1,
+      "maximumPrice": 26,
+      "averageStackPrice": 1300,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Siege Equipment",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Siege_Equipment/Keep_Wall_Masonry_Repair_Kit.png"
+  }
+]

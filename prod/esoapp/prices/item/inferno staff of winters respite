@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of winters respite",
+    "displayName": "Inferno Staff of Winter's Respite",
+    "values": {
+      "commonRange": "546 - 3,240",
+      "averagePrice": 1801,
+      "minimumPrice": 240,
+      "maximumPrice": 3500,
+      "averageStackPrice": 1801,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

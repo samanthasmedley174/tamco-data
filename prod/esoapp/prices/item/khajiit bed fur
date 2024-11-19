@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit bed fur",
+    "displayName": "Khajiit Bed, Fur",
+    "values": {
+      "commonRange": "60 - 1,000",
+      "averagePrice": 436,
+      "minimumPrice": 60,
+      "maximumPrice": 1000,
+      "averageStackPrice": 436,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

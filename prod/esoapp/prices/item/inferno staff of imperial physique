@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of imperial physique",
+    "displayName": "Inferno Staff of Imperial Physique",
+    "values": {
+      "commonRange": "4,999 - 12,500",
+      "averagePrice": 10450,
+      "minimumPrice": 4999,
+      "maximumPrice": 12500,
+      "averageStackPrice": 10450,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

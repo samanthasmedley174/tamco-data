@@ -1,0 +1,18 @@
+[
+  {
+    "name": "impregnable armor robe",
+    "displayName": "Impregnable Armor Robe",
+    "values": {
+      "commonRange": "2,000 - 3,235",
+      "averagePrice": 2510,
+      "minimumPrice": 580,
+      "maximumPrice": 3500,
+      "averageStackPrice": 2510,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

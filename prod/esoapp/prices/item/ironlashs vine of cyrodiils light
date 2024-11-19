@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ironlashs vine of cyrodiils light",
+    "displayName": "Ironlash's Vine of Cyrodiil's Light",
+    "values": {
+      "commonRange": "2,000 - 10,090",
+      "averagePrice": 6045,
+      "minimumPrice": 2000,
+      "maximumPrice": 10090,
+      "averageStackPrice": 6045,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "02/07/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "impregnable armor jerkin",
+    "displayName": "Impregnable Armor Jerkin",
+    "values": {
+      "commonRange": "880 - 1,880",
+      "averagePrice": 1417,
+      "minimumPrice": 780,
+      "maximumPrice": 3174,
+      "averageStackPrice": 1417,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

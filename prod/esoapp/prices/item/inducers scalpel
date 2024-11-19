@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inducers scalpel",
+    "displayName": "Inducer's Scalpel",
+    "values": {
+      "commonRange": "608 - 841",
+      "averagePrice": 666,
+      "minimumPrice": 75,
+      "maximumPrice": 1141,
+      "averageStackPrice": 666,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

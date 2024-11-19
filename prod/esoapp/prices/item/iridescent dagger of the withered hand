@@ -1,0 +1,18 @@
+[
+  {
+    "name": "iridescent dagger of the withered hand",
+    "displayName": "Iridescent Dagger of the Withered Hand",
+    "values": {
+      "commonRange": "3,000 - 3,000",
+      "averagePrice": 2167,
+      "minimumPrice": 350,
+      "maximumPrice": 3150,
+      "averageStackPrice": 2167,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

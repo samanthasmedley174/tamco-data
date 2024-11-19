@@ -1,0 +1,18 @@
+[
+  {
+    "name": "impregnable armor ring",
+    "displayName": "Impregnable Armor Ring",
+    "values": {
+      "commonRange": "350 - 4,000",
+      "averagePrice": 1720,
+      "minimumPrice": 134,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1720,
+      "commonStackSize": 1,
+      "salesRecorded": 44
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

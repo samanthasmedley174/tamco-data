@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jera",
+    "displayName": "Jera",
+    "values": {
+      "commonRange": "23 - 80",
+      "averagePrice": 49,
+      "minimumPrice": 13,
+      "maximumPrice": 100,
+      "averageStackPrice": 49,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Enchanting Materials",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Jera.png"
+  }
+]

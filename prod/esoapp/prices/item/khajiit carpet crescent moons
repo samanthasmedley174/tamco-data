@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit carpet crescent moons",
+    "displayName": "Khajiit Carpet, Crescent Moons",
+    "values": {
+      "commonRange": "1,000 - 2,104",
+      "averagePrice": 1897,
+      "minimumPrice": 460,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1897,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

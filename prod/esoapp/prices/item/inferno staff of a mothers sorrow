@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of a mothers sorrow",
+    "displayName": "Inferno Staff of a Mother's Sorrow",
+    "values": {
+      "commonRange": "3,000 - 60,000",
+      "averagePrice": 21939,
+      "minimumPrice": 234,
+      "maximumPrice": 110000,
+      "averageStackPrice": 21939,
+      "commonStackSize": 1,
+      "salesRecorded": 139
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

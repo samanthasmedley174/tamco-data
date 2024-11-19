@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jewelry crafting station",
+    "displayName": "Jewelry Crafting Station",
+    "values": {
+      "commonRange": "87,000 - 99,999",
+      "averagePrice": 94862,
+      "minimumPrice": 85000,
+      "maximumPrice": 99999,
+      "averageStackPrice": 94862,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Furnishings",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

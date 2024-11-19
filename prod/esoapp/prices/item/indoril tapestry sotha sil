@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril tapestry sotha sil",
+    "displayName": "Indoril Tapestry, Sotha Sil",
+    "values": {
+      "commonRange": "1,500 - 3,197",
+      "averagePrice": 2289,
+      "minimumPrice": 1300,
+      "maximumPrice": 3197,
+      "averageStackPrice": 2289,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

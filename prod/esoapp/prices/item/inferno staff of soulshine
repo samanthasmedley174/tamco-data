@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of soulshine",
+    "displayName": "Inferno Staff of Soulshine",
+    "values": {
+      "commonRange": "1,345 - 2,000",
+      "averagePrice": 1636,
+      "minimumPrice": 1200,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1636,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

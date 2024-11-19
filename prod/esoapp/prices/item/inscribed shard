@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inscribed shard",
+    "displayName": "Inscribed Shard",
+    "values": {
+      "commonRange": "3,947 - 8,000",
+      "averagePrice": 5265,
+      "minimumPrice": 3163,
+      "maximumPrice": 10000,
+      "averageStackPrice": 10530,
+      "commonStackSize": 2,
+      "salesRecorded": 13
+    },
+    "type": "Fragments",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

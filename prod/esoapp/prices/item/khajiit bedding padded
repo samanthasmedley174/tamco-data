@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit bedding padded",
+    "displayName": "Khajiit Bedding, Padded",
+    "values": {
+      "commonRange": "90 - 960",
+      "averagePrice": 674,
+      "minimumPrice": 42,
+      "maximumPrice": 2960,
+      "averageStackPrice": 674,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril lantern hanging",
+    "displayName": "Indoril Lantern, Hanging",
+    "values": {
+      "commonRange": "1,000 - 2,452",
+      "averagePrice": 1790,
+      "minimumPrice": 700,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1790,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

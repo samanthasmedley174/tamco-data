@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of the healer",
+    "displayName": "Inferno Staff of the Healer",
+    "values": {
+      "commonRange": "19,240 - 20,000",
+      "averagePrice": 19620,
+      "minimumPrice": 19240,
+      "maximumPrice": 20000,
+      "averageStackPrice": 19620,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

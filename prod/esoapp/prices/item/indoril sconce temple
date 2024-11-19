@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril sconce temple",
+    "displayName": "Indoril Sconce, Temple",
+    "values": {
+      "commonRange": "1,999 - 4,505",
+      "averagePrice": 3059,
+      "minimumPrice": 300,
+      "maximumPrice": 4812,
+      "averageStackPrice": 3059,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

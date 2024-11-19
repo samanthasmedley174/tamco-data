@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit bed faded",
+    "displayName": "Khajiit Bed, Faded",
+    "values": {
+      "commonRange": "1,000 - 3,885",
+      "averagePrice": 2548,
+      "minimumPrice": 320,
+      "maximumPrice": 7000,
+      "averageStackPrice": 2548,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jack of the shield breaker",
+    "displayName": "Jack of the Shield Breaker",
+    "values": {
+      "commonRange": "20,000 - 35,659",
+      "averagePrice": 30797,
+      "minimumPrice": 10329,
+      "maximumPrice": 50000,
+      "averageStackPrice": 30797,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

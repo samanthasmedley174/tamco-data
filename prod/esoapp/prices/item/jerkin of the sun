@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jerkin of the sun",
+    "displayName": "Jerkin of the Sun",
+    "values": {
+      "commonRange": "180 - 900",
+      "averagePrice": 519,
+      "minimumPrice": 174,
+      "maximumPrice": 1500,
+      "averageStackPrice": 519,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

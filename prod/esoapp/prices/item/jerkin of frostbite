@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jerkin of frostbite",
+    "displayName": "Jerkin of Frostbite",
+    "values": {
+      "commonRange": "883 - 39,000",
+      "averagePrice": 14452,
+      "minimumPrice": 180,
+      "maximumPrice": 52790,
+      "averageStackPrice": 14452,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit sconce spiked",
+    "displayName": "Khajiit Sconce, Spiked",
+    "values": {
+      "commonRange": "1,000 - 4,300",
+      "averagePrice": 2180,
+      "minimumPrice": 400,
+      "maximumPrice": 5450,
+      "averageStackPrice": 2180,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

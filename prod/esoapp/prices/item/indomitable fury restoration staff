@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indomitable fury restoration staff",
+    "displayName": "Indomitable Fury Restoration Staff",
+    "values": {
+      "commonRange": "9,876 - 10,240",
+      "averagePrice": 8401,
+      "minimumPrice": 3246,
+      "maximumPrice": 10240,
+      "averageStackPrice": 8401,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

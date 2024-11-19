@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of cyrodiils crest",
+    "displayName": "Inferno Staff of Cyrodiil's Crest",
+    "values": {
+      "commonRange": "4,370 - 10,370",
+      "averagePrice": 8510,
+      "minimumPrice": 2000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 8510,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

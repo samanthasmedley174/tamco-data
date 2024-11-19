@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of baan dars blessing",
+    "displayName": "Inferno Staff of Baan Dar's Blessing",
+    "values": {
+      "commonRange": "1,246 - 10,000",
+      "averagePrice": 6534,
+      "minimumPrice": 1183,
+      "maximumPrice": 15240,
+      "averageStackPrice": 6534,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

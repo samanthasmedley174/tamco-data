@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril carpet grand almalexia",
+    "displayName": "Indoril Carpet, Grand Almalexia",
+    "values": {
+      "commonRange": "5,000 - 18,000",
+      "averagePrice": 9951,
+      "minimumPrice": 4000,
+      "maximumPrice": 20300,
+      "averageStackPrice": 9951,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

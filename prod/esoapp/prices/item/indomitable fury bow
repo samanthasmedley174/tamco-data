@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indomitable fury bow",
+    "displayName": "Indomitable Fury Bow",
+    "values": {
+      "commonRange": "999 - 2,200",
+      "averagePrice": 1927,
+      "minimumPrice": 240,
+      "maximumPrice": 5234,
+      "averageStackPrice": 1927,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

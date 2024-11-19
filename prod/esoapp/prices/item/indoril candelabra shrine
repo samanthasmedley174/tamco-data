@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril candelabra shrine",
+    "displayName": "Indoril Candelabra, Shrine",
+    "values": {
+      "commonRange": "1,000 - 3,000",
+      "averagePrice": 2036,
+      "minimumPrice": 635,
+      "maximumPrice": 3150,
+      "averageStackPrice": 2036,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

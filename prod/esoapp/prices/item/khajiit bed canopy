@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit bed canopy",
+    "displayName": "Khajiit Bed, Canopy",
+    "values": {
+      "commonRange": "4,250 - 6,000",
+      "averagePrice": 5509,
+      "minimumPrice": 4236,
+      "maximumPrice": 9900,
+      "averageStackPrice": 5509,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

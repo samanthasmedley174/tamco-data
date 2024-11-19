@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of alteration mastery",
+    "displayName": "Inferno Staff of Alteration Mastery",
+    "values": {
+      "commonRange": "834 - 834",
+      "averagePrice": 860,
+      "minimumPrice": 746,
+      "maximumPrice": 1000,
+      "averageStackPrice": 860,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

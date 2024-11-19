@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit counter faded",
+    "displayName": "Khajiit Counter, Faded",
+    "values": {
+      "commonRange": "3,300 - 15,000",
+      "averagePrice": 8033,
+      "minimumPrice": 1300,
+      "maximumPrice": 15000,
+      "averageStackPrice": 8033,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/21/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

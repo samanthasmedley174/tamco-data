@@ -1,0 +1,18 @@
+[
+  {
+    "name": "kagouti kick mazte",
+    "displayName": "Kagouti Kick Mazte",
+    "values": {
+      "commonRange": "165 - 165",
+      "averagePrice": 165,
+      "minimumPrice": 165,
+      "maximumPrice": 165,
+      "averageStackPrice": 3300,
+      "commonStackSize": 20,
+      "salesRecorded": 1
+    },
+    "type": "Food & Drinks",
+    "date": "11/22/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/kagouti_kick_mazte.png"
+  }
+]

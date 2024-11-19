@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril incense burning",
+    "displayName": "Indoril Incense, Burning",
+    "values": {
+      "commonRange": "7,000 - 62,000",
+      "averagePrice": 43263,
+      "minimumPrice": 7000,
+      "maximumPrice": 64048,
+      "averageStackPrice": 43263,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

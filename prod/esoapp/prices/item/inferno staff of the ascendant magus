@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of the ascendant magus",
+    "displayName": "Inferno Staff of the Ascendant Magus",
+    "values": {
+      "commonRange": "350 - 5,246",
+      "averagePrice": 2136,
+      "minimumPrice": 246,
+      "maximumPrice": 5446,
+      "averageStackPrice": 2136,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

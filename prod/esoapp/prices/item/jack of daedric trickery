@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jack of daedric trickery",
+    "displayName": "Jack of Daedric Trickery",
+    "values": {
+      "commonRange": "60,000 - 69,990",
+      "averagePrice": 64995,
+      "minimumPrice": 60000,
+      "maximumPrice": 69990,
+      "averageStackPrice": 64995,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

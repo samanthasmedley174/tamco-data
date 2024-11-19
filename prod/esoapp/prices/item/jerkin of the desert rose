@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jerkin of the desert rose",
+    "displayName": "Jerkin of the Desert Rose",
+    "values": {
+      "commonRange": "5,183 - 9,190",
+      "averagePrice": 6944,
+      "minimumPrice": 900,
+      "maximumPrice": 10180,
+      "averageStackPrice": 6944,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jack of the air",
+    "displayName": "Jack of the Air",
+    "values": {
+      "commonRange": "183 - 4,000",
+      "averagePrice": 1106,
+      "minimumPrice": 174,
+      "maximumPrice": 5850,
+      "averageStackPrice": 1106,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of the orders wrath",
+    "displayName": "Inferno Staff of the Order's Wrath",
+    "values": {
+      "commonRange": "5,000 - 42,000",
+      "averagePrice": 35429,
+      "minimumPrice": 252,
+      "maximumPrice": 90000,
+      "averageStackPrice": 35429,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

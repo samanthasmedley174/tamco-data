@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jack of the archers mind",
+    "displayName": "Jack of the Archer's Mind",
+    "values": {
+      "commonRange": "183 - 10,000",
+      "averagePrice": 3811,
+      "minimumPrice": 180,
+      "maximumPrice": 17461,
+      "averageStackPrice": 3811,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

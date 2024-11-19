@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of high isle",
+    "displayName": "Inferno Staff of High Isle",
+    "values": {
+      "commonRange": "234 - 1,000",
+      "averagePrice": 712,
+      "minimumPrice": 140,
+      "maximumPrice": 1400,
+      "averageStackPrice": 712,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

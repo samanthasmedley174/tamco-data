@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indomitable fury jerkin",
+    "displayName": "Indomitable Fury Jerkin",
+    "values": {
+      "commonRange": "402 - 3,183",
+      "averagePrice": 1563,
+      "minimumPrice": 183,
+      "maximumPrice": 3500,
+      "averageStackPrice": 1563,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

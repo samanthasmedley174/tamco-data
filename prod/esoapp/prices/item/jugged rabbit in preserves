@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jugged rabbit in preserves",
+    "displayName": "Jugged Rabbit in Preserves",
+    "values": {
+      "commonRange": "28 - 243",
+      "averagePrice": 128,
+      "minimumPrice": 24,
+      "maximumPrice": 243,
+      "averageStackPrice": 6400,
+      "commonStackSize": 50,
+      "salesRecorded": 14
+    },
+    "type": "Food & Drinks",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/jugged_rabbit_in_preserves.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit column spiked",
+    "displayName": "Khajiit Column, Spiked",
+    "values": {
+      "commonRange": "220 - 1,150",
+      "averagePrice": 770,
+      "minimumPrice": 220,
+      "maximumPrice": 1666,
+      "averageStackPrice": 770,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

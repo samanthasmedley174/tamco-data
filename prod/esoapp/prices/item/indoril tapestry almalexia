@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril tapestry almalexia",
+    "displayName": "Indoril Tapestry, Almalexia",
+    "values": {
+      "commonRange": "1,000 - 3,046",
+      "averagePrice": 2106,
+      "minimumPrice": 500,
+      "maximumPrice": 3046,
+      "averageStackPrice": 2106,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

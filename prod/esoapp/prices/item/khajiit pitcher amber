@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit pitcher amber",
+    "displayName": "Khajiit Pitcher, Amber",
+    "values": {
+      "commonRange": "420 - 900",
+      "averagePrice": 574,
+      "minimumPrice": 150,
+      "maximumPrice": 1000,
+      "averageStackPrice": 574,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

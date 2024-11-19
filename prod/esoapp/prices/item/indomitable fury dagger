@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indomitable fury dagger",
+    "displayName": "Indomitable Fury Dagger",
+    "values": {
+      "commonRange": "1,153 - 2,153",
+      "averagePrice": 1982,
+      "minimumPrice": 453,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1982,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

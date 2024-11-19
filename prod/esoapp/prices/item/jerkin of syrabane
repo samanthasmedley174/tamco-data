@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jerkin of syrabane",
+    "displayName": "Jerkin of Syrabane",
+    "values": {
+      "commonRange": "499 - 1,969",
+      "averagePrice": 1103,
+      "minimumPrice": 180,
+      "maximumPrice": 3180,
+      "averageStackPrice": 1103,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

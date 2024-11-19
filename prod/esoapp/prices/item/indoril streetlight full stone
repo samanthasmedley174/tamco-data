@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril streetlight full stone",
+    "displayName": "Indoril Streetlight, Full Stone",
+    "values": {
+      "commonRange": "220 - 1,075",
+      "averagePrice": 936,
+      "minimumPrice": 220,
+      "maximumPrice": 2000,
+      "averageStackPrice": 936,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

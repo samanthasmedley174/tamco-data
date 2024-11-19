@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jack of the powerful assault",
+    "displayName": "Jack of the Powerful Assault",
+    "values": {
+      "commonRange": "2,180 - 20,000",
+      "averagePrice": 10727,
+      "minimumPrice": 1180,
+      "maximumPrice": 80824,
+      "averageStackPrice": 10727,
+      "commonStackSize": 1,
+      "salesRecorded": 92
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

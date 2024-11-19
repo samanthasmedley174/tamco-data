@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of the sun",
+    "displayName": "Inferno Staff of the Sun",
+    "values": {
+      "commonRange": "1,240 - 20,000",
+      "averagePrice": 20140,
+      "minimumPrice": 246,
+      "maximumPrice": 120000,
+      "averageStackPrice": 20140,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

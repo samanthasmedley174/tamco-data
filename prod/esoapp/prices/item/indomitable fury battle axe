@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indomitable fury battle axe",
+    "displayName": "Indomitable Fury Battle Axe",
+    "values": {
+      "commonRange": "2,999 - 12,162",
+      "averagePrice": 6208,
+      "minimumPrice": 1650,
+      "maximumPrice": 12162,
+      "averageStackPrice": 6208,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

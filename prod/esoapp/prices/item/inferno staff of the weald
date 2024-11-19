@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of the weald",
+    "displayName": "Inferno Staff of the Weald",
+    "values": {
+      "commonRange": "500 - 4,000",
+      "averagePrice": 1982,
+      "minimumPrice": 168,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1982,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

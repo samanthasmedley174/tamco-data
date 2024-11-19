@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril streetlight stone",
+    "displayName": "Indoril Streetlight, Stone",
+    "values": {
+      "commonRange": "500 - 1,060",
+      "averagePrice": 708,
+      "minimumPrice": 60,
+      "maximumPrice": 1085,
+      "averageStackPrice": 708,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

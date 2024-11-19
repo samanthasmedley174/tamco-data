@@ -1,0 +1,18 @@
+[
+  {
+    "name": "infused buckler of the order of diagna",
+    "displayName": "Infused Buckler of the Order of Diagna",
+    "values": {
+      "commonRange": "650 - 650",
+      "averagePrice": 650,
+      "minimumPrice": 650,
+      "maximumPrice": 650,
+      "averageStackPrice": 650,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

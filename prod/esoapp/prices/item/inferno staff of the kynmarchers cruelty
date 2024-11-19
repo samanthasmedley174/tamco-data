@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of the kynmarchers cruelty",
+    "displayName": "Inferno Staff of the Kynmarcher's Cruelty",
+    "values": {
+      "commonRange": "1,969 - 5,000",
+      "averagePrice": 3417,
+      "minimumPrice": 240,
+      "maximumPrice": 6000,
+      "averageStackPrice": 3417,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

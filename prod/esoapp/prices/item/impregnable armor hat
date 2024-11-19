@@ -1,0 +1,18 @@
+[
+  {
+    "name": "impregnable armor hat",
+    "displayName": "Impregnable Armor Hat",
+    "values": {
+      "commonRange": "344 - 850",
+      "averagePrice": 1592,
+      "minimumPrice": 250,
+      "maximumPrice": 9150,
+      "averageStackPrice": 1592,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

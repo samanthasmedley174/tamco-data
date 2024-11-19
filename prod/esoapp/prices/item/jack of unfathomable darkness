@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jack of unfathomable darkness",
+    "displayName": "Jack of Unfathomable Darkness",
+    "values": {
+      "commonRange": "180 - 6,380",
+      "averagePrice": 3141,
+      "minimumPrice": 174,
+      "maximumPrice": 29983,
+      "averageStackPrice": 3141,
+      "commonStackSize": 1,
+      "salesRecorded": 56
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

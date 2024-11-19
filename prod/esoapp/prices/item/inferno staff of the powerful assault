@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of the powerful assault",
+    "displayName": "Inferno Staff of the Powerful Assault",
+    "values": {
+      "commonRange": "4,478 - 13,600",
+      "averagePrice": 9301,
+      "minimumPrice": 1240,
+      "maximumPrice": 25000,
+      "averageStackPrice": 9301,
+      "commonStackSize": 1,
+      "salesRecorded": 69
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit scholars vestments",
+    "displayName": "Khajiit Scholar's Vestments",
+    "values": {
+      "commonRange": "183 - 183",
+      "averagePrice": 183,
+      "minimumPrice": 183,
+      "maximumPrice": 183,
+      "averageStackPrice": 183,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

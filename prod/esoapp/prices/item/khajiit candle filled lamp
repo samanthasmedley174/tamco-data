@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit candle filled lamp",
+    "displayName": "Khajiit Candle-Filled Lamp",
+    "values": {
+      "commonRange": "3,800 - 6,328",
+      "averagePrice": 4564,
+      "minimumPrice": 2000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 4564,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

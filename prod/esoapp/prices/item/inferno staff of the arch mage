@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of the arch mage",
+    "displayName": "Inferno Staff of the Arch-Mage",
+    "values": {
+      "commonRange": "1,000 - 1,000",
+      "averagePrice": 2000,
+      "minimumPrice": 1000,
+      "maximumPrice": 4999,
+      "averageStackPrice": 2000,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

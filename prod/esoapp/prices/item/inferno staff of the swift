@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of the swift",
+    "displayName": "Inferno Staff of the Swift",
+    "values": {
+      "commonRange": "4,246 - 9,411",
+      "averagePrice": 8676,
+      "minimumPrice": 3300,
+      "maximumPrice": 20246,
+      "averageStackPrice": 8676,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

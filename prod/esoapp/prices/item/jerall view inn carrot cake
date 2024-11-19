@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jerall view inn carrot cake",
+    "displayName": "Jerall View Inn Carrot Cake",
+    "values": {
+      "commonRange": "9 - 9",
+      "averagePrice": 9,
+      "minimumPrice": 9,
+      "maximumPrice": 11,
+      "averageStackPrice": 9,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Food & Drinks",
+    "date": "11/01/2020",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/jerall_view_inn_carrot_cake.png"
+  }
+]

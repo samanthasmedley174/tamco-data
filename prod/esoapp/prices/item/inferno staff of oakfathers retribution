@@ -1,0 +1,18 @@
+[
+  {
+    "name": "inferno staff of oakfathers retribution",
+    "displayName": "Inferno Staff of Oakfather's Retribution",
+    "values": {
+      "commonRange": "6,000 - 33,373",
+      "averagePrice": 15693,
+      "minimumPrice": 562,
+      "maximumPrice": 50246,
+      "averageStackPrice": 15693,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

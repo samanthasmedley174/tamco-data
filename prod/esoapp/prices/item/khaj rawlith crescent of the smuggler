@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khaj rawlith crescent of the smuggler",
+    "displayName": "Khaj Rawlith Crescent of the Smuggler",
+    "values": {
+      "commonRange": "141 - 541",
+      "averagePrice": 341,
+      "minimumPrice": 141,
+      "maximumPrice": 541,
+      "averageStackPrice": 341,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

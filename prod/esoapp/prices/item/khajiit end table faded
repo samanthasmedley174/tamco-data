@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit end table faded",
+    "displayName": "Khajiit End Table, Faded",
+    "values": {
+      "commonRange": "400 - 1,200",
+      "averagePrice": 848,
+      "minimumPrice": 400,
+      "maximumPrice": 1200,
+      "averageStackPrice": 848,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

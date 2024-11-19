@@ -1,0 +1,18 @@
+[
+  {
+    "name": "indoril runner almalexia",
+    "displayName": "Indoril Runner, Almalexia",
+    "values": {
+      "commonRange": "5,000 - 12,000",
+      "averagePrice": 8759,
+      "minimumPrice": 5000,
+      "maximumPrice": 12990,
+      "averageStackPrice": 8759,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/02/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "jewel of the duchess",
+    "displayName": "Jewel of the Duchess",
+    "values": {
+      "commonRange": "226 - 226",
+      "averagePrice": 226,
+      "minimumPrice": 226,
+      "maximumPrice": 226,
+      "averageStackPrice": 226,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

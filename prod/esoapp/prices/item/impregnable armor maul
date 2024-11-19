@@ -1,0 +1,18 @@
+[
+  {
+    "name": "impregnable armor maul",
+    "displayName": "Impregnable Armor Maul",
+    "values": {
+      "commonRange": "546 - 546",
+      "averagePrice": 453,
+      "minimumPrice": 246,
+      "maximumPrice": 566,
+      "averageStackPrice": 453,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

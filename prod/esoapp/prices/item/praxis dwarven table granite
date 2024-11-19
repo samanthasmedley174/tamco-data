@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dwarven table granite",
+    "displayName": "Praxis: Dwarven Table, Granite",
+    "values": {
+      "commonRange": "1,030 - 5,000",
+      "averagePrice": 2735,
+      "minimumPrice": 1000,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2735,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

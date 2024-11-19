@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dwarven counter granite",
+    "displayName": "Praxis: Dwarven Counter, Granite",
+    "values": {
+      "commonRange": "55,000 - 82,322",
+      "averagePrice": 69494,
+      "minimumPrice": 42300,
+      "maximumPrice": 98122,
+      "averageStackPrice": 69494,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

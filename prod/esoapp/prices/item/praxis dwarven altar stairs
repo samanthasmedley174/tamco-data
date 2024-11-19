@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dwarven altar stairs",
+    "displayName": "Praxis: Dwarven Altar, Stairs",
+    "values": {
+      "commonRange": "720,039 - 4,500,000",
+      "averagePrice": 2275824,
+      "minimumPrice": 700000,
+      "maximumPrice": 5000000,
+      "averageStackPrice": 2275824,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/15/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

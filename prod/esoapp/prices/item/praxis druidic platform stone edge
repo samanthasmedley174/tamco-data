@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic platform stone edge",
+    "displayName": "Praxis: Druidic Platform, Stone Edge",
+    "values": {
+      "commonRange": "9,000 - 10,899",
+      "averagePrice": 9981,
+      "minimumPrice": 8000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 9981,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

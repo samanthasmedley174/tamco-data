@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic wall long stone",
+    "displayName": "Praxis: Druidic Wall, Long Stone",
+    "values": {
+      "commonRange": "15,000 - 24,402",
+      "averagePrice": 23054,
+      "minimumPrice": 14000,
+      "maximumPrice": 69628,
+      "averageStackPrice": 23054,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

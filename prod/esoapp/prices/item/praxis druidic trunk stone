@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic trunk stone",
+    "displayName": "Praxis: Druidic Trunk, Stone",
+    "values": {
+      "commonRange": "19,829 - 35,085",
+      "averagePrice": 25581,
+      "minimumPrice": 16000,
+      "maximumPrice": 55000,
+      "averageStackPrice": 25581,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

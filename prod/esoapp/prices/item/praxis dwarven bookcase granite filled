@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dwarven bookcase granite filled",
+    "displayName": "Praxis: Dwarven Bookcase, Granite Filled",
+    "values": {
+      "commonRange": "60,000 - 100,000",
+      "averagePrice": 78561,
+      "minimumPrice": 20000,
+      "maximumPrice": 125000,
+      "averageStackPrice": 78561,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

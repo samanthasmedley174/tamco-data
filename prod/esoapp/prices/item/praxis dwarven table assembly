@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dwarven table assembly",
+    "displayName": "Praxis: Dwarven Table, Assembly",
+    "values": {
+      "commonRange": "200,000 - 1,200,000",
+      "averagePrice": 818507,
+      "minimumPrice": 40000,
+      "maximumPrice": 1200069,
+      "averageStackPrice": 818507,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

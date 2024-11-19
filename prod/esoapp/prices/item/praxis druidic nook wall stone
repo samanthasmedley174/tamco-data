@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic nook wall stone",
+    "displayName": "Praxis: Druidic Nook Wall, Stone",
+    "values": {
+      "commonRange": "7,000 - 17,000",
+      "averagePrice": 12237,
+      "minimumPrice": 4000,
+      "maximumPrice": 18000,
+      "averageStackPrice": 12237,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

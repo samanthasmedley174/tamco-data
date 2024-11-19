@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic wall stone flame",
+    "displayName": "Praxis: Druidic Wall Stone, Flame",
+    "values": {
+      "commonRange": "1,500 - 5,000",
+      "averagePrice": 3310,
+      "minimumPrice": 130,
+      "maximumPrice": 5298,
+      "averageStackPrice": 3310,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dwarven corner shelf granite",
+    "displayName": "Praxis: Dwarven Corner Shelf, Granite",
+    "values": {
+      "commonRange": "8,000 - 9,500",
+      "averagePrice": 8639,
+      "minimumPrice": 1000,
+      "maximumPrice": 11775,
+      "averageStackPrice": 8639,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic stairway stone",
+    "displayName": "Praxis: Druidic Stairway, Stone",
+    "values": {
+      "commonRange": "12,000 - 15,699",
+      "averagePrice": 14427,
+      "minimumPrice": 10000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 14427,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

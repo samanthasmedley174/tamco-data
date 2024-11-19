@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dwarven bookcase full",
+    "displayName": "Praxis: Dwarven Bookcase, Full",
+    "values": {
+      "commonRange": "775,000 - 1,500,000",
+      "averagePrice": 1091104,
+      "minimumPrice": 70000,
+      "maximumPrice": 1700000,
+      "averageStackPrice": 1091104,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "09/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

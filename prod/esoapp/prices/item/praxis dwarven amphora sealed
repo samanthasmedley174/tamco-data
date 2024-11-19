@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dwarven amphora sealed",
+    "displayName": "Praxis: Dwarven Amphora, Sealed",
+    "values": {
+      "commonRange": "25,000 - 55,182",
+      "averagePrice": 36810,
+      "minimumPrice": 20000,
+      "maximumPrice": 70000,
+      "averageStackPrice": 36810,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic hearth stone",
+    "displayName": "Praxis: Druidic Hearth, Stone",
+    "values": {
+      "commonRange": "35,000 - 42,555",
+      "averagePrice": 41776,
+      "minimumPrice": 33200,
+      "maximumPrice": 75000,
+      "averageStackPrice": 41776,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

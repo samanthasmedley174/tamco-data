@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic table stone",
+    "displayName": "Praxis: Druidic Table, Stone",
+    "values": {
+      "commonRange": "4,500 - 6,000",
+      "averagePrice": 5052,
+      "minimumPrice": 2030,
+      "maximumPrice": 7100,
+      "averageStackPrice": 5052,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

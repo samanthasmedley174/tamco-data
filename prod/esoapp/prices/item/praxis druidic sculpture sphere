@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic sculpture sphere",
+    "displayName": "Praxis: Druidic Sculpture, Sphere",
+    "values": {
+      "commonRange": "40,000 - 75,000",
+      "averagePrice": 57285,
+      "minimumPrice": 32000,
+      "maximumPrice": 160000,
+      "averageStackPrice": 57285,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

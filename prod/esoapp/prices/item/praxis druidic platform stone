@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic platform stone",
+    "displayName": "Praxis: Druidic Platform, Stone",
+    "values": {
+      "commonRange": "11,000 - 15,000",
+      "averagePrice": 13670,
+      "minimumPrice": 11000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 13670,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

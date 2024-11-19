@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dawnwood table sprouted",
+    "displayName": "Praxis: Dawnwood Table, Sprouted",
+    "values": {
+      "commonRange": "25,000 - 45,000",
+      "averagePrice": 34113,
+      "minimumPrice": 19879,
+      "maximumPrice": 47400,
+      "averageStackPrice": 34113,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

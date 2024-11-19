@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis ayleid wardrobe ornate stone",
+    "displayName": "Praxis: Ayleid Wardrobe, Ornate Stone",
+    "values": {
+      "commonRange": "60,000 - 70,000",
+      "averagePrice": 64192,
+      "minimumPrice": 37358,
+      "maximumPrice": 72100,
+      "averageStackPrice": 64192,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic bookcase short stone",
+    "displayName": "Praxis: Druidic Bookcase, Short Stone",
+    "values": {
+      "commonRange": "1,000 - 2,200",
+      "averagePrice": 1968,
+      "minimumPrice": 227,
+      "maximumPrice": 7000,
+      "averageStackPrice": 1968,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

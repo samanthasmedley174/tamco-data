@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis deadlands floor large square",
+    "displayName": "Praxis: Deadlands Floor, Large Square",
+    "values": {
+      "commonRange": "100,030 - 287,892",
+      "averagePrice": 225155,
+      "minimumPrice": 100000,
+      "maximumPrice": 500000,
+      "averageStackPrice": 225155,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

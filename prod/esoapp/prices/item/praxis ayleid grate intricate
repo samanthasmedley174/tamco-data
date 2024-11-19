@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis ayleid grate intricate",
+    "displayName": "Praxis: Ayleid Grate, Intricate",
+    "values": {
+      "commonRange": "9,000 - 14,000",
+      "averagePrice": 11581,
+      "minimumPrice": 9000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 11581,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

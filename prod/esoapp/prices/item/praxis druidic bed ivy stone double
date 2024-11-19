@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic bed ivy stone double",
+    "displayName": "Praxis: Druidic Bed, Ivy Stone Double",
+    "values": {
+      "commonRange": "25,000 - 35,000",
+      "averagePrice": 29344,
+      "minimumPrice": 20000,
+      "maximumPrice": 38913,
+      "averageStackPrice": 29344,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

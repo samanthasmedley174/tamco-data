@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic fence curved stone",
+    "displayName": "Praxis: Druidic Fence, Curved Stone",
+    "values": {
+      "commonRange": "3,529 - 5,000",
+      "averagePrice": 5320,
+      "minimumPrice": 3000,
+      "maximumPrice": 15240,
+      "averageStackPrice": 5320,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

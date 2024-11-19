@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis colovian planter tall",
+    "displayName": "Praxis: Colovian Planter, Tall",
+    "values": {
+      "commonRange": "13,030 - 20,030",
+      "averagePrice": 15847,
+      "minimumPrice": 13000,
+      "maximumPrice": 20738,
+      "averageStackPrice": 15847,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

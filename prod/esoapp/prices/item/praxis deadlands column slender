@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis deadlands column slender",
+    "displayName": "Praxis: Deadlands Column, Slender",
+    "values": {
+      "commonRange": "30,000 - 50,030",
+      "averagePrice": 43159,
+      "minimumPrice": 29416,
+      "maximumPrice": 54446,
+      "averageStackPrice": 43159,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

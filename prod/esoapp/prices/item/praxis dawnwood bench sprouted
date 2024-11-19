@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dawnwood bench sprouted",
+    "displayName": "Praxis: Dawnwood Bench, Sprouted",
+    "values": {
+      "commonRange": "8,000 - 19,990",
+      "averagePrice": 12669,
+      "minimumPrice": 5500,
+      "maximumPrice": 24254,
+      "averageStackPrice": 12669,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

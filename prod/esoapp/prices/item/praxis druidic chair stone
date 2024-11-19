@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic chair stone",
+    "displayName": "Praxis: Druidic Chair, Stone",
+    "values": {
+      "commonRange": "1,027 - 5,641",
+      "averagePrice": 3823,
+      "minimumPrice": 1000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 3823,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

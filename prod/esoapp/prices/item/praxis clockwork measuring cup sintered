@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis clockwork measuring cup sintered",
+    "displayName": "Praxis: Clockwork Measuring Cup, Sintered",
+    "values": {
+      "commonRange": "800 - 1,372",
+      "averagePrice": 1141,
+      "minimumPrice": 700,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1141,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis ayleid stairs short",
+    "displayName": "Praxis: Ayleid Stairs, Short",
+    "values": {
+      "commonRange": "300,000 - 332,087",
+      "averagePrice": 311675,
+      "minimumPrice": 275000,
+      "maximumPrice": 335000,
+      "averageStackPrice": 311675,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

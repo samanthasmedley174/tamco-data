@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic bench curved stone",
+    "displayName": "Praxis: Druidic Bench, Curved Stone",
+    "values": {
+      "commonRange": "1,000 - 5,000",
+      "averagePrice": 4081,
+      "minimumPrice": 1000,
+      "maximumPrice": 5994,
+      "averageStackPrice": 4081,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

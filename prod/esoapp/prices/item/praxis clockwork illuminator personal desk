@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis clockwork illuminator personal desk",
+    "displayName": "Praxis: Clockwork Illuminator, Personal Desk",
+    "values": {
+      "commonRange": "37,500 - 42,000",
+      "averagePrice": 39773,
+      "minimumPrice": 36000,
+      "maximumPrice": 45000,
+      "averageStackPrice": 39773,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

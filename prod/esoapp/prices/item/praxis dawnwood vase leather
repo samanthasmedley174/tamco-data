@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dawnwood vase leather",
+    "displayName": "Praxis: Dawnwood Vase, Leather",
+    "values": {
+      "commonRange": "7,663 - 10,000",
+      "averagePrice": 8834,
+      "minimumPrice": 7545,
+      "maximumPrice": 10791,
+      "averageStackPrice": 8834,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

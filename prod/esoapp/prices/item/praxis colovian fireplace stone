@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis colovian fireplace stone",
+    "displayName": "Praxis: Colovian Fireplace, Stone",
+    "values": {
+      "commonRange": "10,000 - 12,536",
+      "averagePrice": 10752,
+      "minimumPrice": 9536,
+      "maximumPrice": 12536,
+      "averageStackPrice": 10752,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis daedric doorway spiked",
+    "displayName": "Praxis: Daedric Doorway, Spiked",
+    "values": {
+      "commonRange": "40,000 - 110,000",
+      "averagePrice": 77150,
+      "minimumPrice": 5039,
+      "maximumPrice": 125000,
+      "averageStackPrice": 77150,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic chimney stone",
+    "displayName": "Praxis: Druidic Chimney, Stone",
+    "values": {
+      "commonRange": "70,039 - 240,000",
+      "averagePrice": 150809,
+      "minimumPrice": 70039,
+      "maximumPrice": 500000,
+      "averageStackPrice": 150809,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "04/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis ayleid flooring stone small",
+    "displayName": "Praxis: Ayleid Flooring, Stone Small",
+    "values": {
+      "commonRange": "7,000 - 9,000",
+      "averagePrice": 7395,
+      "minimumPrice": 627,
+      "maximumPrice": 9100,
+      "averageStackPrice": 7395,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic dolmen stone",
+    "displayName": "Praxis: Druidic Dolmen, Stone",
+    "values": {
+      "commonRange": "6,977 - 25,000",
+      "averagePrice": 13979,
+      "minimumPrice": 6854,
+      "maximumPrice": 50000,
+      "averageStackPrice": 13979,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

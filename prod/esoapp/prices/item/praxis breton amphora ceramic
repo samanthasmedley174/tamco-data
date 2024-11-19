@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis breton amphora ceramic",
+    "displayName": "Praxis: Breton Amphora, Ceramic",
+    "values": {
+      "commonRange": "140 - 327",
+      "averagePrice": 226,
+      "minimumPrice": 100,
+      "maximumPrice": 327,
+      "averageStackPrice": 226,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

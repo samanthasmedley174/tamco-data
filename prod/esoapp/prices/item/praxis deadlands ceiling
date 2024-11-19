@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis deadlands ceiling",
+    "displayName": "Praxis: Deadlands Ceiling",
+    "values": {
+      "commonRange": "108,700 - 149,727",
+      "averagePrice": 130932,
+      "minimumPrice": 100000,
+      "maximumPrice": 179433,
+      "averageStackPrice": 130932,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

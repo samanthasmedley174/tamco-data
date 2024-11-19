@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dres teapot ceramic",
+    "displayName": "Praxis: Dres Teapot, Ceramic",
+    "values": {
+      "commonRange": "1,430 - 7,466",
+      "averagePrice": 4623,
+      "minimumPrice": 1000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4623,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

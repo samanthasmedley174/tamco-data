@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dawnwood cup wine",
+    "displayName": "Praxis: Dawnwood Cup, Wine",
+    "values": {
+      "commonRange": "2,000 - 5,027",
+      "averagePrice": 4644,
+      "minimumPrice": 1200,
+      "maximumPrice": 20000,
+      "averageStackPrice": 4644,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

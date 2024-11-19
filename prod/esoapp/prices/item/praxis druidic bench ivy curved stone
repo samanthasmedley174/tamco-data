@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis druidic bench ivy curved stone",
+    "displayName": "Praxis: Druidic Bench, Ivy Curved Stone",
+    "values": {
+      "commonRange": "27,936 - 39,000",
+      "averagePrice": 33201,
+      "minimumPrice": 1500,
+      "maximumPrice": 50000,
+      "averageStackPrice": 33201,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis clockwork illuminator compact stand",
+    "displayName": "Praxis: Clockwork Illuminator, Compact Stand",
+    "values": {
+      "commonRange": "4,000 - 8,000",
+      "averagePrice": 5633,
+      "minimumPrice": 3000,
+      "maximumPrice": 9999,
+      "averageStackPrice": 5633,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

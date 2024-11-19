@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis breton urn striated",
+    "displayName": "Praxis: Breton Urn, Striated",
+    "values": {
+      "commonRange": "10,000 - 14,000",
+      "averagePrice": 11783,
+      "minimumPrice": 10000,
+      "maximumPrice": 14000,
+      "averageStackPrice": 11783,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

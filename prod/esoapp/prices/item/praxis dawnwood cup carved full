@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dawnwood cup carved full",
+    "displayName": "Praxis: Dawnwood Cup, Carved Full",
+    "values": {
+      "commonRange": "16,363 - 35,593",
+      "averagePrice": 23401,
+      "minimumPrice": 15000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 23401,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis deadlands post short wall",
+    "displayName": "Praxis: Deadlands Post, Short Wall",
+    "values": {
+      "commonRange": "17,001 - 30,000",
+      "averagePrice": 22398,
+      "minimumPrice": 15000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 22398,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

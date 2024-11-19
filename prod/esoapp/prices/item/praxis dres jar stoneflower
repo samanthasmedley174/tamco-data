@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis dres jar stoneflower",
+    "displayName": "Praxis: Dres Jar, Stoneflower",
+    "values": {
+      "commonRange": "34,000 - 55,000",
+      "averagePrice": 43274,
+      "minimumPrice": 30503,
+      "maximumPrice": 80000,
+      "averageStackPrice": 43274,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

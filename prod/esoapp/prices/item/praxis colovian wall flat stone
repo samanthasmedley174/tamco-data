@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis colovian wall flat stone",
+    "displayName": "Praxis: Colovian Wall, Flat Stone",
+    "values": {
+      "commonRange": "2,027 - 6,541",
+      "averagePrice": 3874,
+      "minimumPrice": 1000,
+      "maximumPrice": 9927,
+      "averageStackPrice": 3874,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

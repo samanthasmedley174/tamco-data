@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis ayleid flooring tiered round",
+    "displayName": "Praxis: Ayleid Flooring, Tiered Round",
+    "values": {
+      "commonRange": "299,039 - 401,242",
+      "averagePrice": 369471,
+      "minimumPrice": 285000,
+      "maximumPrice": 531942,
+      "averageStackPrice": 369471,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

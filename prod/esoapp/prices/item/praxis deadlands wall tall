@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis deadlands wall tall",
+    "displayName": "Praxis: Deadlands Wall, Tall",
+    "values": {
+      "commonRange": "118,000 - 220,000",
+      "averagePrice": 175416,
+      "minimumPrice": 110000,
+      "maximumPrice": 240000,
+      "averageStackPrice": 175416,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

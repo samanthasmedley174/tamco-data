@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis clockwork illuminator capsule tower",
+    "displayName": "Praxis: Clockwork Illuminator, Capsule Tower",
+    "values": {
+      "commonRange": "39,000 - 60,000",
+      "averagePrice": 51263,
+      "minimumPrice": 30000,
+      "maximumPrice": 81000,
+      "averageStackPrice": 51263,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern hakoshae banner square",
+    "displayName": "Pattern: Hakoshae Banner, Square",
+    "values": {
+      "commonRange": "130 - 809",
+      "averagePrice": 446,
+      "minimumPrice": 108,
+      "maximumPrice": 999,
+      "averageStackPrice": 446,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

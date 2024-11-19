@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern dawnwood container wood",
+    "displayName": "Pattern: Dawnwood Container, Wood",
+    "values": {
+      "commonRange": "12,000 - 15,000",
+      "averagePrice": 13519,
+      "minimumPrice": 10000,
+      "maximumPrice": 20030,
+      "averageStackPrice": 13519,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

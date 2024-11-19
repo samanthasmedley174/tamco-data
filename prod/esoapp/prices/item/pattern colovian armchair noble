@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern colovian armchair noble",
+    "displayName": "Pattern: Colovian Armchair, Noble",
+    "values": {
+      "commonRange": "18,727 - 30,039",
+      "averagePrice": 23102,
+      "minimumPrice": 18000,
+      "maximumPrice": 30500,
+      "averageStackPrice": 23102,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern dawnwood table covered",
+    "displayName": "Pattern: Dawnwood Table, Covered",
+    "values": {
+      "commonRange": "18,000 - 35,000",
+      "averagePrice": 26262,
+      "minimumPrice": 325,
+      "maximumPrice": 40000,
+      "averageStackPrice": 26262,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

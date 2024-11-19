@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern breton carpet green",
+    "displayName": "Pattern: Breton Carpet, Green",
+    "values": {
+      "commonRange": "120 - 274",
+      "averagePrice": 206,
+      "minimumPrice": 100,
+      "maximumPrice": 500,
+      "averageStackPrice": 206,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

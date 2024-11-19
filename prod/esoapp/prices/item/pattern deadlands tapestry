@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern deadlands tapestry",
+    "displayName": "Pattern: Deadlands Tapestry",
+    "values": {
+      "commonRange": "3,000 - 6,878",
+      "averagePrice": 4892,
+      "minimumPrice": 1930,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4892,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

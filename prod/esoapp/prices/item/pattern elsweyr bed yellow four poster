@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern elsweyr bed yellow four poster",
+    "displayName": "Pattern: Elsweyr Bed, Yellow Four-Poster",
+    "values": {
+      "commonRange": "30,500 - 45,000",
+      "averagePrice": 35697,
+      "minimumPrice": 25000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 35697,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

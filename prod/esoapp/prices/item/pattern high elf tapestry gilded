@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern high elf tapestry gilded",
+    "displayName": "Pattern: High Elf Tapestry, Gilded",
+    "values": {
+      "commonRange": "12,500 - 13,486",
+      "averagePrice": 12968,
+      "minimumPrice": 11999,
+      "maximumPrice": 13486,
+      "averageStackPrice": 12968,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

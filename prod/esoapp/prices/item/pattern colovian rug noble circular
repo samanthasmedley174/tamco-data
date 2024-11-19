@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern colovian rug noble circular",
+    "displayName": "Pattern: Colovian Rug, Noble Circular",
+    "values": {
+      "commonRange": "16,459 - 35,000",
+      "averagePrice": 26769,
+      "minimumPrice": 16000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 26769,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

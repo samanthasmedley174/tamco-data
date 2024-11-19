@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern breton rug bordered",
+    "displayName": "Pattern: Breton Rug, Bordered",
+    "values": {
+      "commonRange": "23,000 - 26,474",
+      "averagePrice": 24479,
+      "minimumPrice": 20000,
+      "maximumPrice": 30039,
+      "averageStackPrice": 24479,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

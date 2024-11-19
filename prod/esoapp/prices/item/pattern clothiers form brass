@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern clothiers form brass",
+    "displayName": "Pattern: Clothier's Form, Brass",
+    "values": {
+      "commonRange": "43,951 - 57,196",
+      "averagePrice": 51674,
+      "minimumPrice": 40000,
+      "maximumPrice": 75000,
+      "averageStackPrice": 51674,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

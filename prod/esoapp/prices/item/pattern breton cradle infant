@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern breton cradle infant",
+    "displayName": "Pattern: Breton Cradle, Infant",
+    "values": {
+      "commonRange": "17,862 - 20,000",
+      "averagePrice": 18568,
+      "minimumPrice": 15000,
+      "maximumPrice": 20134,
+      "averageStackPrice": 18568,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

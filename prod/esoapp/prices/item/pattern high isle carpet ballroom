@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern high isle carpet ballroom",
+    "displayName": "Pattern: High Isle Carpet, Ballroom",
+    "values": {
+      "commonRange": "4,000 - 10,000",
+      "averagePrice": 6448,
+      "minimumPrice": 1000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6448,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

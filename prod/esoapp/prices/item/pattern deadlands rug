@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern deadlands rug",
+    "displayName": "Pattern: Deadlands Rug",
+    "values": {
+      "commonRange": "3,000 - 8,000",
+      "averagePrice": 6203,
+      "minimumPrice": 30,
+      "maximumPrice": 9000,
+      "averageStackPrice": 6203,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

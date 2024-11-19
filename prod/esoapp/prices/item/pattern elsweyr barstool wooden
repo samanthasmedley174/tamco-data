@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern elsweyr barstool wooden",
+    "displayName": "Pattern: Elsweyr Barstool, Wooden",
+    "values": {
+      "commonRange": "300 - 2,565",
+      "averagePrice": 1892,
+      "minimumPrice": 130,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1892,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/31/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

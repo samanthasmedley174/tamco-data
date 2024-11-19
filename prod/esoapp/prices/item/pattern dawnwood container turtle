@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern dawnwood container turtle",
+    "displayName": "Pattern: Dawnwood Container, Turtle",
+    "values": {
+      "commonRange": "11,000 - 35,000",
+      "averagePrice": 22092,
+      "minimumPrice": 5000,
+      "maximumPrice": 40100,
+      "averageStackPrice": 22092,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

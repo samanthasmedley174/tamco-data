@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern colovian curtains ivory",
+    "displayName": "Pattern: Colovian Curtains, Ivory",
+    "values": {
+      "commonRange": "11,661 - 18,999",
+      "averagePrice": 15069,
+      "minimumPrice": 10443,
+      "maximumPrice": 30000,
+      "averageStackPrice": 15069,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

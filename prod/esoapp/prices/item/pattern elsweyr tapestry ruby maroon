@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern elsweyr tapestry ruby maroon",
+    "displayName": "Pattern: Elsweyr Tapestry, Ruby-Maroon",
+    "values": {
+      "commonRange": "330 - 5,345",
+      "averagePrice": 3453,
+      "minimumPrice": 230,
+      "maximumPrice": 6069,
+      "averageStackPrice": 3453,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

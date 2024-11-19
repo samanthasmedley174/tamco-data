@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern colovian bed rustic double",
+    "displayName": "Pattern: Colovian Bed, Rustic Double",
+    "values": {
+      "commonRange": "7,945 - 11,000",
+      "averagePrice": 9584,
+      "minimumPrice": 7945,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9584,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

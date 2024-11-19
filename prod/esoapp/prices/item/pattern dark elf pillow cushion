@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern dark elf pillow cushion",
+    "displayName": "Pattern: Dark Elf Pillow, Cushion",
+    "values": {
+      "commonRange": "10,868 - 15,000",
+      "averagePrice": 14028,
+      "minimumPrice": 10000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 14028,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern dawnwood chair antlers",
+    "displayName": "Pattern: Dawnwood Chair, Antlers",
+    "values": {
+      "commonRange": "13,000 - 20,000",
+      "averagePrice": 15529,
+      "minimumPrice": 13000,
+      "maximumPrice": 21868,
+      "averageStackPrice": 15529,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

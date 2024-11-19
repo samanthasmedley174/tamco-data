@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern high elf banner gilded",
+    "displayName": "Pattern: High Elf Banner, Gilded",
+    "values": {
+      "commonRange": "16,000 - 20,000",
+      "averagePrice": 17777,
+      "minimumPrice": 16000,
+      "maximumPrice": 21544,
+      "averageStackPrice": 17777,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

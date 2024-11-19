@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern hakoshae lantern crimson",
+    "displayName": "Pattern: Hakoshae Lantern, Crimson",
+    "values": {
+      "commonRange": "220,000 - 265,000",
+      "averagePrice": 246548,
+      "minimumPrice": 198060,
+      "maximumPrice": 300000,
+      "averageStackPrice": 246548,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

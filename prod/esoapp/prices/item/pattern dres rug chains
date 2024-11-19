@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern dres rug chains",
+    "displayName": "Pattern: Dres Rug, Chains",
+    "values": {
+      "commonRange": "26,800 - 30,000",
+      "averagePrice": 27940,
+      "minimumPrice": 25000,
+      "maximumPrice": 30039,
+      "averageStackPrice": 27940,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

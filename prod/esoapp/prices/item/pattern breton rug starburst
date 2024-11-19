@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern breton rug starburst",
+    "displayName": "Pattern: Breton Rug, Starburst",
+    "values": {
+      "commonRange": "800 - 1,276",
+      "averagePrice": 1046,
+      "minimumPrice": 400,
+      "maximumPrice": 1650,
+      "averageStackPrice": 1046,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

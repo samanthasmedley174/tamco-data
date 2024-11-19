@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern high elf carpet eagle",
+    "displayName": "Pattern: High Elf Carpet, Eagle",
+    "values": {
+      "commonRange": "14,400 - 16,936",
+      "averagePrice": 15821,
+      "minimumPrice": 10620,
+      "maximumPrice": 21000,
+      "averageStackPrice": 15821,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

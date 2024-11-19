@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern hakoshae banner blue",
+    "displayName": "Pattern: Hakoshae Banner, Blue",
+    "values": {
+      "commonRange": "70 - 400",
+      "averagePrice": 222,
+      "minimumPrice": 58,
+      "maximumPrice": 999,
+      "averageStackPrice": 222,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

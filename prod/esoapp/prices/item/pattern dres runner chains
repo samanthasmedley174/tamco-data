@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern dres runner chains",
+    "displayName": "Pattern: Dres Runner, Chains",
+    "values": {
+      "commonRange": "22,181 - 33,333",
+      "averagePrice": 28517,
+      "minimumPrice": 20000,
+      "maximumPrice": 34000,
+      "averageStackPrice": 28517,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

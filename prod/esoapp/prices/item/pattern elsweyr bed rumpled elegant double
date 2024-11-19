@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern elsweyr bed rumpled elegant double",
+    "displayName": "Pattern: Elsweyr Bed, Rumpled Elegant Double",
+    "values": {
+      "commonRange": "14,000 - 20,300",
+      "averagePrice": 17541,
+      "minimumPrice": 10000,
+      "maximumPrice": 22039,
+      "averageStackPrice": 17541,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

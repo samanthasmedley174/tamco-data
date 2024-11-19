@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern high isle bed canopy full",
+    "displayName": "Pattern: High Isle Bed, Canopy Full",
+    "values": {
+      "commonRange": "500 - 6,800",
+      "averagePrice": 4899,
+      "minimumPrice": 500,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4899,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

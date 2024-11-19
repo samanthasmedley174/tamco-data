@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern hakoshae lantern linked rings",
+    "displayName": "Pattern: Hakoshae Lantern, Linked Rings",
+    "values": {
+      "commonRange": "130,000 - 220,057",
+      "averagePrice": 169094,
+      "minimumPrice": 100000,
+      "maximumPrice": 265804,
+      "averageStackPrice": 169094,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

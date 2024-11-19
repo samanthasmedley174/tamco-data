@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern colovian bed noble single",
+    "displayName": "Pattern: Colovian Bed, Noble Single",
+    "values": {
+      "commonRange": "9,902 - 20,030",
+      "averagePrice": 12529,
+      "minimumPrice": 9902,
+      "maximumPrice": 20030,
+      "averageStackPrice": 12529,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

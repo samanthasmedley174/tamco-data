@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern high isle tapestry seaside tourney",
+    "displayName": "Pattern: High Isle Tapestry, Seaside Tourney",
+    "values": {
+      "commonRange": "35,000 - 62,000",
+      "averagePrice": 50591,
+      "minimumPrice": 35000,
+      "maximumPrice": 65000,
+      "averageStackPrice": 50591,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

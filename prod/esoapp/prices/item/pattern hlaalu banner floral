@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern hlaalu banner floral",
+    "displayName": "Pattern: Hlaalu Banner, Floral",
+    "values": {
+      "commonRange": "40,000 - 53,000",
+      "averagePrice": 48900,
+      "minimumPrice": 40000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 48900,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

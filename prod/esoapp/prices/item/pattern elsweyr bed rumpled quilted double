@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern elsweyr bed rumpled quilted double",
+    "displayName": "Pattern: Elsweyr Bed, Rumpled Quilted Double",
+    "values": {
+      "commonRange": "18,000 - 21,089",
+      "averagePrice": 19583,
+      "minimumPrice": 16000,
+      "maximumPrice": 23000,
+      "averageStackPrice": 19583,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

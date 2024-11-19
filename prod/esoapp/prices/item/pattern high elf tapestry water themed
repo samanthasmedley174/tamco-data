@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pattern high elf tapestry water themed",
+    "displayName": "Pattern: High Elf Tapestry, Water-Themed",
+    "values": {
+      "commonRange": "230 - 1,500",
+      "averagePrice": 1125,
+      "minimumPrice": 230,
+      "maximumPrice": 3100,
+      "averageStackPrice": 1125,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

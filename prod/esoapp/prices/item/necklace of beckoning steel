@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of beckoning steel",
+    "displayName": "Necklace of Beckoning Steel",
+    "values": {
+      "commonRange": "5,500 - 7,000",
+      "averagePrice": 6163,
+      "minimumPrice": 5153,
+      "maximumPrice": 7000,
+      "averageStackPrice": 6163,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

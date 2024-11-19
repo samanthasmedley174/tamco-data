@@ -1,0 +1,18 @@
+[
+  {
+    "name": "naryus snipers bow",
+    "displayName": "Naryu's Sniper's Bow",
+    "values": {
+      "commonRange": "228 - 228",
+      "averagePrice": 228,
+      "minimumPrice": 228,
+      "maximumPrice": 228,
+      "averageStackPrice": 228,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

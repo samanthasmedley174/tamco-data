@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom cart funerary",
+    "displayName": "Necrom Cart, Funerary",
+    "values": {
+      "commonRange": "14,543 - 18,220",
+      "averagePrice": 16209,
+      "minimumPrice": 675,
+      "maximumPrice": 29000,
+      "averageStackPrice": 16209,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

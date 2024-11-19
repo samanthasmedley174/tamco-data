@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushroom stinkcap button",
+    "displayName": "Mushroom, Stinkcap Button",
+    "values": {
+      "commonRange": "500 - 2,110",
+      "averagePrice": 1329,
+      "minimumPrice": 500,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1329,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

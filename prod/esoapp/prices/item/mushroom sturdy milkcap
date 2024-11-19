@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushroom sturdy milkcap",
+    "displayName": "Mushroom, Sturdy Milkcap",
+    "values": {
+      "commonRange": "1,000 - 1,500",
+      "averagePrice": 1413,
+      "minimumPrice": 960,
+      "maximumPrice": 3330,
+      "averageStackPrice": 1413,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

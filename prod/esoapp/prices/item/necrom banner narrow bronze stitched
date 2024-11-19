@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom banner narrow bronze stitched",
+    "displayName": "Necrom Banner, Narrow Bronze-Stitched",
+    "values": {
+      "commonRange": "5,500 - 7,450",
+      "averagePrice": 6242,
+      "minimumPrice": 5000,
+      "maximumPrice": 7500,
+      "averageStackPrice": 6242,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Furnishings",
+    "date": "07/25/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

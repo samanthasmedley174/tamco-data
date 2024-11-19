@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of the green pact",
+    "displayName": "Necklace of the Green Pact",
+    "values": {
+      "commonRange": "150 - 7,699",
+      "averagePrice": 4164,
+      "minimumPrice": 144,
+      "maximumPrice": 70156,
+      "averageStackPrice": 4164,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

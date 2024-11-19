@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom funerary pyre logs",
+    "displayName": "Necrom Funerary Pyre, Logs",
+    "values": {
+      "commonRange": "8,800 - 10,989",
+      "averagePrice": 10091,
+      "minimumPrice": 8800,
+      "maximumPrice": 12000,
+      "averageStackPrice": 10091,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

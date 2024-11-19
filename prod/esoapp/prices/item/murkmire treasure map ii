@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire treasure map ii",
+    "displayName": "Murkmire Treasure Map II",
+    "values": {
+      "commonRange": "100 - 942",
+      "averagePrice": 265,
+      "minimumPrice": 50,
+      "maximumPrice": 1000,
+      "averageStackPrice": 265,
+      "commonStackSize": 1,
+      "salesRecorded": 64
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

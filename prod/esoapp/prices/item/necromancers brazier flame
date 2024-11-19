@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necromancers brazier flame",
+    "displayName": "Necromancer's Brazier, Flame",
+    "values": {
+      "commonRange": "5,000 - 7,500",
+      "averagePrice": 5923,
+      "minimumPrice": 3230,
+      "maximumPrice": 8542,
+      "averageStackPrice": 5923,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

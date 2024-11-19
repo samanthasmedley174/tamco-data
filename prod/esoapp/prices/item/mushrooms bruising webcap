@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushrooms bruising webcap",
+    "displayName": "Mushrooms, Bruising Webcap",
+    "values": {
+      "commonRange": "770 - 1,333",
+      "averagePrice": 1208,
+      "minimumPrice": 750,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1208,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

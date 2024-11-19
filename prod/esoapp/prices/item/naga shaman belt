@@ -1,0 +1,18 @@
+[
+  {
+    "name": "naga shaman belt",
+    "displayName": "Naga Shaman Belt",
+    "values": {
+      "commonRange": "97 - 97",
+      "averagePrice": 97,
+      "minimumPrice": 97,
+      "maximumPrice": 97,
+      "averageStackPrice": 97,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

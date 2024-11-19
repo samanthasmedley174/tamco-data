@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of the powerful assault",
+    "displayName": "Necklace of the Powerful Assault",
+    "values": {
+      "commonRange": "8,150 - 150,000",
+      "averagePrice": 92485,
+      "minimumPrice": 1150,
+      "maximumPrice": 150000,
+      "averageStackPrice": 92485,
+      "commonStackSize": 1,
+      "salesRecorded": 49
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

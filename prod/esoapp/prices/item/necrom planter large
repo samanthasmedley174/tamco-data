@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom planter large",
+    "displayName": "Necrom Planter, Large",
+    "values": {
+      "commonRange": "9,488 - 18,000",
+      "averagePrice": 13149,
+      "minimumPrice": 8000,
+      "maximumPrice": 22300,
+      "averageStackPrice": 13149,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

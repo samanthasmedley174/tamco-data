@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom floor patterned",
+    "displayName": "Necrom Floor, Patterned",
+    "values": {
+      "commonRange": "17,300 - 17,900",
+      "averagePrice": 17700,
+      "minimumPrice": 17300,
+      "maximumPrice": 18300,
+      "averageStackPrice": 17700,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

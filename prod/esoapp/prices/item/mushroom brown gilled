@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushroom brown gilled",
+    "displayName": "Mushroom, Brown Gilled",
+    "values": {
+      "commonRange": "15 - 815",
+      "averagePrice": 453,
+      "minimumPrice": 15,
+      "maximumPrice": 1000,
+      "averageStackPrice": 453,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "02/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

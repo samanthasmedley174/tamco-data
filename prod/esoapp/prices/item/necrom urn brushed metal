@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom urn brushed metal",
+    "displayName": "Necrom Urn, Brushed Metal",
+    "values": {
+      "commonRange": "8,000 - 8,000",
+      "averagePrice": 8000,
+      "minimumPrice": 8000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 8000,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

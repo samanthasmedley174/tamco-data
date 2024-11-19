@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom banner long patterned",
+    "displayName": "Necrom Banner, Long Patterned",
+    "values": {
+      "commonRange": "3,340 - 7,300",
+      "averagePrice": 5288,
+      "minimumPrice": 3340,
+      "maximumPrice": 7500,
+      "averageStackPrice": 5288,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

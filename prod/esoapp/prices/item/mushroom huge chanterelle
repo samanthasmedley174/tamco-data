@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushroom huge chanterelle",
+    "displayName": "Mushroom, Huge Chanterelle",
+    "values": {
+      "commonRange": "500 - 3,000",
+      "averagePrice": 1724,
+      "minimumPrice": 275,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1724,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

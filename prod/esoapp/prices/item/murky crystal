@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murky crystal",
+    "displayName": "Murky Crystal",
+    "values": {
+      "commonRange": "20 - 260",
+      "averagePrice": 175,
+      "minimumPrice": 15,
+      "maximumPrice": 1000,
+      "averageStackPrice": 175,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Miscellaneous",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Miscellaneous/Murky_Crystal.png"
+  }
+]

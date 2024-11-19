@@ -1,0 +1,18 @@
+[
+  {
+    "name": "naryus spare blade",
+    "displayName": "Naryu's Spare Blade",
+    "values": {
+      "commonRange": "341 - 341",
+      "averagePrice": 432,
+      "minimumPrice": 341,
+      "maximumPrice": 614,
+      "averageStackPrice": 432,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushroom giant glowtendril",
+    "displayName": "Mushroom, Giant Glowtendril",
+    "values": {
+      "commonRange": "17,500 - 25,000",
+      "averagePrice": 20417,
+      "minimumPrice": 15500,
+      "maximumPrice": 25000,
+      "averageStackPrice": 20417,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

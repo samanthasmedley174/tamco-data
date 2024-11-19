@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of daedric trickery",
+    "displayName": "Necklace of Daedric Trickery",
+    "values": {
+      "commonRange": "124,990 - 124,990",
+      "averagePrice": 124990,
+      "minimumPrice": 124990,
+      "maximumPrice": 124990,
+      "averageStackPrice": 124990,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

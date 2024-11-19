@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of endurance",
+    "displayName": "Necklace of Endurance",
+    "values": {
+      "commonRange": "410 - 1,000",
+      "averagePrice": 743,
+      "minimumPrice": 188,
+      "maximumPrice": 2688,
+      "averageStackPrice": 743,
+      "commonStackSize": 1,
+      "salesRecorded": 52
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

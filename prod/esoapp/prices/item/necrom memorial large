@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom memorial large",
+    "displayName": "Necrom Memorial, Large",
+    "values": {
+      "commonRange": "650 - 5,500",
+      "averagePrice": 3620,
+      "minimumPrice": 650,
+      "maximumPrice": 10000,
+      "averageStackPrice": 3620,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/17/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

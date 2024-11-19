@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom coffin",
+    "displayName": "Necrom Coffin",
+    "values": {
+      "commonRange": "12,000 - 20,090",
+      "averagePrice": 15810,
+      "minimumPrice": 12000,
+      "maximumPrice": 22009,
+      "averageStackPrice": 15810,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

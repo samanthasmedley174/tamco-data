@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of the morag tong",
+    "displayName": "Necklace of the Morag Tong",
+    "values": {
+      "commonRange": "700 - 10,000",
+      "averagePrice": 4802,
+      "minimumPrice": 544,
+      "maximumPrice": 30156,
+      "averageStackPrice": 4802,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

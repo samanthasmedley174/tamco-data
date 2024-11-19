@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of vicious death",
+    "displayName": "Necklace of Vicious Death",
+    "values": {
+      "commonRange": "10,000 - 50,000",
+      "averagePrice": 29079,
+      "minimumPrice": 1153,
+      "maximumPrice": 87156,
+      "averageStackPrice": 29079,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

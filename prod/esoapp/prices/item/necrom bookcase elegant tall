@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom bookcase elegant tall",
+    "displayName": "Necrom Bookcase, Elegant Tall",
+    "values": {
+      "commonRange": "3,900 - 13,000",
+      "averagePrice": 8820,
+      "minimumPrice": 2150,
+      "maximumPrice": 15000,
+      "averageStackPrice": 8820,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/11/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

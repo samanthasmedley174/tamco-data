@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of transmutation",
+    "displayName": "Necklace of Transmutation",
+    "values": {
+      "commonRange": "11,153 - 50,000",
+      "averagePrice": 34199,
+      "minimumPrice": 6000,
+      "maximumPrice": 90000,
+      "averageStackPrice": 34199,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

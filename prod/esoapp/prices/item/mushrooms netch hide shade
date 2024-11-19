@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushrooms netch hide shade",
+    "displayName": "Mushrooms, Netch Hide Shade",
+    "values": {
+      "commonRange": "100 - 1,110",
+      "averagePrice": 752,
+      "minimumPrice": 50,
+      "maximumPrice": 3060,
+      "averageStackPrice": 752,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/27/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

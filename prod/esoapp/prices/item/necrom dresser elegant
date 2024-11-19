@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom dresser elegant",
+    "displayName": "Necrom Dresser, Elegant",
+    "values": {
+      "commonRange": "15,000 - 15,000",
+      "averagePrice": 12797,
+      "minimumPrice": 8390,
+      "maximumPrice": 15000,
+      "averageStackPrice": 12797,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Furnishings",
+    "date": "09/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

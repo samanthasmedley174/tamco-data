@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mussel bowl display",
+    "displayName": "Mussel Bowl, Display",
+    "values": {
+      "commonRange": "1,560 - 7,000",
+      "averagePrice": 4208,
+      "minimumPrice": 1060,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4208,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

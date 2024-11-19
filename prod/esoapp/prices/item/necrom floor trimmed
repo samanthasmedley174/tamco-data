@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom floor trimmed",
+    "displayName": "Necrom Floor, Trimmed",
+    "values": {
+      "commonRange": "18,300 - 20,000",
+      "averagePrice": 18913,
+      "minimumPrice": 17900,
+      "maximumPrice": 21300,
+      "averageStackPrice": 18913,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

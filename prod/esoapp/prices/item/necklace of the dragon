@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of the dragon",
+    "displayName": "Necklace of the Dragon",
+    "values": {
+      "commonRange": "144 - 1,150",
+      "averagePrice": 735,
+      "minimumPrice": 121,
+      "maximumPrice": 4453,
+      "averageStackPrice": 735,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

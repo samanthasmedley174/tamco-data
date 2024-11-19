@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of the shield breaker",
+    "displayName": "Necklace of the Shield Breaker",
+    "values": {
+      "commonRange": "5,555 - 38,508",
+      "averagePrice": 25663,
+      "minimumPrice": 5555,
+      "maximumPrice": 50000,
+      "averageStackPrice": 25663,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom sconce elegant",
+    "displayName": "Necrom Sconce, Elegant",
+    "values": {
+      "commonRange": "1,100 - 3,150",
+      "averagePrice": 2852,
+      "minimumPrice": 1100,
+      "maximumPrice": 5722,
+      "averageStackPrice": 2852,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

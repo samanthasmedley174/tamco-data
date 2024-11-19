@@ -1,0 +1,18 @@
+[
+  {
+    "name": "naj caldeesh impaler deactivated",
+    "displayName": "Naj-Caldeesh Impaler, Deactivated",
+    "values": {
+      "commonRange": "12,000 - 23,550",
+      "averagePrice": 19127,
+      "minimumPrice": 10000,
+      "maximumPrice": 30300,
+      "averageStackPrice": 19127,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

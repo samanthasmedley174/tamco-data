@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom lamppost elegant",
+    "displayName": "Necrom Lamppost, Elegant",
+    "values": {
+      "commonRange": "2,282 - 3,282",
+      "averagePrice": 2691,
+      "minimumPrice": 2282,
+      "maximumPrice": 3282,
+      "averageStackPrice": 2691,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

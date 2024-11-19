@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushroom stinkcap sprout",
+    "displayName": "Mushroom, Stinkcap Sprout",
+    "values": {
+      "commonRange": "100 - 1,000",
+      "averagePrice": 534,
+      "minimumPrice": 60,
+      "maximumPrice": 1060,
+      "averageStackPrice": 534,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire tapestry xanmeer worn",
+    "displayName": "Murkmire Tapestry, Xanmeer Worn",
+    "values": {
+      "commonRange": "1,000 - 2,258",
+      "averagePrice": 1516,
+      "minimumPrice": 983,
+      "maximumPrice": 2429,
+      "averageStackPrice": 1516,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

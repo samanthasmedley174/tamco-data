@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom funerary offering mushroom bag",
+    "displayName": "Necrom Funerary Offering, Mushroom Bag",
+    "values": {
+      "commonRange": "2,000 - 3,158",
+      "averagePrice": 2671,
+      "minimumPrice": 2000,
+      "maximumPrice": 3400,
+      "averageStackPrice": 2671,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

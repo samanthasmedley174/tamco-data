@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom wall stone",
+    "displayName": "Necrom Wall, Stone",
+    "values": {
+      "commonRange": "5,492 - 7,333",
+      "averagePrice": 6570,
+      "minimumPrice": 4000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 13140,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

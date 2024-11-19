@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom sconce brass",
+    "displayName": "Necrom Sconce, Brass",
+    "values": {
+      "commonRange": "2,300 - 4,500",
+      "averagePrice": 3600,
+      "minimumPrice": 2000,
+      "maximumPrice": 6000,
+      "averageStackPrice": 7200,
+      "commonStackSize": 2,
+      "salesRecorded": 6
+    },
+    "type": "Furnishings",
+    "date": "01/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

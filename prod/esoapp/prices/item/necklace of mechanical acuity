@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of mechanical acuity",
+    "displayName": "Necklace of Mechanical Acuity",
+    "values": {
+      "commonRange": "45,000 - 120,000",
+      "averagePrice": 76729,
+      "minimumPrice": 30000,
+      "maximumPrice": 120156,
+      "averageStackPrice": 76729,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

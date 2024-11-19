@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom counter corner",
+    "displayName": "Necrom Counter, Corner",
+    "values": {
+      "commonRange": "1,500 - 2,060",
+      "averagePrice": 2003,
+      "minimumPrice": 750,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2003,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

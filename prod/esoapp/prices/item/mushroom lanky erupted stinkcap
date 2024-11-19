@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushroom lanky erupted stinkcap",
+    "displayName": "Mushroom, Lanky Erupted Stinkcap",
+    "values": {
+      "commonRange": "393 - 2,500",
+      "averagePrice": 1245,
+      "minimumPrice": 270,
+      "maximumPrice": 2500,
+      "averageStackPrice": 2490,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

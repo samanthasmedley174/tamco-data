@@ -1,0 +1,18 @@
+[
+  {
+    "name": "muthseras remorse",
+    "displayName": "Muthsera's Remorse",
+    "values": {
+      "commonRange": "15 - 115",
+      "averagePrice": 59,
+      "minimumPrice": 15,
+      "maximumPrice": 183,
+      "averageStackPrice": 177,
+      "commonStackSize": 3,
+      "salesRecorded": 15
+    },
+    "type": "Food & Drinks",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/muthsera's_remorse.png"
+  }
+]

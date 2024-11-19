@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom table elegant dining",
+    "displayName": "Necrom Table, Elegant Dining",
+    "values": {
+      "commonRange": "5,000 - 6,310",
+      "averagePrice": 5568,
+      "minimumPrice": 4410,
+      "maximumPrice": 6500,
+      "averageStackPrice": 5568,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

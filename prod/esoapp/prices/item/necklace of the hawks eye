@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of the hawks eye",
+    "displayName": "Necklace of the Hawk's Eye",
+    "values": {
+      "commonRange": "344 - 1,144",
+      "averagePrice": 828,
+      "minimumPrice": 344,
+      "maximumPrice": 1500,
+      "averageStackPrice": 828,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

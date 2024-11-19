@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom door tall",
+    "displayName": "Necrom Door, Tall",
+    "values": {
+      "commonRange": "6,800 - 22,900",
+      "averagePrice": 14500,
+      "minimumPrice": 6800,
+      "maximumPrice": 23900,
+      "averageStackPrice": 14500,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

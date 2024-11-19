@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushrooms buttercake cluster",
+    "displayName": "Mushrooms, Buttercake Cluster",
+    "values": {
+      "commonRange": "1,000 - 25,000",
+      "averagePrice": 9897,
+      "minimumPrice": 750,
+      "maximumPrice": 40150,
+      "averageStackPrice": 9897,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/27/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

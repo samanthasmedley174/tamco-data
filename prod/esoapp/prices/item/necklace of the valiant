@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of the valiant",
+    "displayName": "Necklace of the Valiant",
+    "values": {
+      "commonRange": "1,150 - 3,000",
+      "averagePrice": 2286,
+      "minimumPrice": 850,
+      "maximumPrice": 3000,
+      "averageStackPrice": 2286,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

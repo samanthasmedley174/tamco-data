@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom cart merchant",
+    "displayName": "Necrom Cart, Merchant",
+    "values": {
+      "commonRange": "4,000 - 16,739",
+      "averagePrice": 10149,
+      "minimumPrice": 3300,
+      "maximumPrice": 19980,
+      "averageStackPrice": 10149,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

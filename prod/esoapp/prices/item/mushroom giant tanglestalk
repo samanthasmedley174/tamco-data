@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushroom giant tanglestalk",
+    "displayName": "Mushroom, Giant Tanglestalk",
+    "values": {
+      "commonRange": "30,000 - 50,000",
+      "averagePrice": 35545,
+      "minimumPrice": 10000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 35545,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

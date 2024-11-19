@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom ossuary plated",
+    "displayName": "Necrom Ossuary, Plated",
+    "values": {
+      "commonRange": "7,210 - 13,500",
+      "averagePrice": 10060,
+      "minimumPrice": 3989,
+      "maximumPrice": 20300,
+      "averageStackPrice": 10060,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

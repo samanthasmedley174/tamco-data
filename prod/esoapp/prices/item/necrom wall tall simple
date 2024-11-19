@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom wall tall simple",
+    "displayName": "Necrom Wall, Tall Simple",
+    "values": {
+      "commonRange": "4,150 - 7,620",
+      "averagePrice": 6357,
+      "minimumPrice": 3333,
+      "maximumPrice": 11000,
+      "averageStackPrice": 12714,
+      "commonStackSize": 2,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

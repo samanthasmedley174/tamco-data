@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushroom puspocket sporecap",
+    "displayName": "Mushroom, Puspocket Sporecap",
+    "values": {
+      "commonRange": "1,000 - 3,500",
+      "averagePrice": 2773,
+      "minimumPrice": 460,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2773,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

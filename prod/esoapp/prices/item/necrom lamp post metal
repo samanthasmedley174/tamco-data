@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom lamp post metal",
+    "displayName": "Necrom Lamp Post, Metal",
+    "values": {
+      "commonRange": "2,300 - 15,300",
+      "averagePrice": 11660,
+      "minimumPrice": 2300,
+      "maximumPrice": 20000,
+      "averageStackPrice": 11660,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

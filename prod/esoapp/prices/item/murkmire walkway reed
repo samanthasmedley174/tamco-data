@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire walkway reed",
+    "displayName": "Murkmire Walkway, Reed",
+    "values": {
+      "commonRange": "2,200 - 9,000",
+      "averagePrice": 5812,
+      "minimumPrice": 1000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 5812,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

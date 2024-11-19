@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire shrine sithis rearing",
+    "displayName": "Murkmire Shrine, Sithis Rearing",
+    "values": {
+      "commonRange": "2,300 - 14,000",
+      "averagePrice": 7840,
+      "minimumPrice": 2300,
+      "maximumPrice": 20000,
+      "averageStackPrice": 7840,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/14/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

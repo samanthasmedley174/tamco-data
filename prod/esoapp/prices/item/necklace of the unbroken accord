@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of the unbroken accord",
+    "displayName": "Necklace of the Unbroken Accord",
+    "values": {
+      "commonRange": "650 - 1,043",
+      "averagePrice": 894,
+      "minimumPrice": 650,
+      "maximumPrice": 1043,
+      "averageStackPrice": 894,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

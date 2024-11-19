@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of cyrodiils ward",
+    "displayName": "Necklace of Cyrodiil's Ward",
+    "values": {
+      "commonRange": "690 - 1,090",
+      "averagePrice": 890,
+      "minimumPrice": 690,
+      "maximumPrice": 1090,
+      "averageStackPrice": 890,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

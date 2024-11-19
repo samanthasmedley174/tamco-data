@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushroom cave bracket",
+    "displayName": "Mushroom, Cave Bracket",
+    "values": {
+      "commonRange": "300 - 3,000",
+      "averagePrice": 1789,
+      "minimumPrice": 199,
+      "maximumPrice": 3976,
+      "averageStackPrice": 1789,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

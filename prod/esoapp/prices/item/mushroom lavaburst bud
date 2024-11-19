@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushroom lavaburst bud",
+    "displayName": "Mushroom, Lavaburst Bud",
+    "values": {
+      "commonRange": "250 - 2,215",
+      "averagePrice": 1466,
+      "minimumPrice": 150,
+      "maximumPrice": 2500,
+      "averageStackPrice": 1466,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

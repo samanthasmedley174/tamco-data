@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom monolith stone",
+    "displayName": "Necrom Monolith, Stone",
+    "values": {
+      "commonRange": "15,000 - 30,300",
+      "averagePrice": 22940,
+      "minimumPrice": 8500,
+      "maximumPrice": 35000,
+      "averageStackPrice": 22940,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

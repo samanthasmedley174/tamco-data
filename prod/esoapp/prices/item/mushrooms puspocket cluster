@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushrooms puspocket cluster",
+    "displayName": "Mushrooms, Puspocket Cluster",
+    "values": {
+      "commonRange": "1,238 - 4,000",
+      "averagePrice": 2367,
+      "minimumPrice": 550,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2367,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

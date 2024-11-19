@@ -1,0 +1,18 @@
+[
+  {
+    "name": "natural water",
+    "displayName": "Natural Water",
+    "values": {
+      "commonRange": "3 - 52",
+      "averagePrice": 35,
+      "minimumPrice": 3,
+      "maximumPrice": 52,
+      "averageStackPrice": 7000,
+      "commonStackSize": 200,
+      "salesRecorded": 30
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

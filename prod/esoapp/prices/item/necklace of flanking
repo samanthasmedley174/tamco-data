@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of flanking",
+    "displayName": "Necklace of Flanking",
+    "values": {
+      "commonRange": "500 - 2,500",
+      "averagePrice": 2010,
+      "minimumPrice": 153,
+      "maximumPrice": 10150,
+      "averageStackPrice": 2010,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

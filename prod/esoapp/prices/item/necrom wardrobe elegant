@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom wardrobe elegant",
+    "displayName": "Necrom Wardrobe, Elegant",
+    "values": {
+      "commonRange": "4,500 - 6,000",
+      "averagePrice": 5548,
+      "minimumPrice": 2150,
+      "maximumPrice": 10150,
+      "averageStackPrice": 5548,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/08/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

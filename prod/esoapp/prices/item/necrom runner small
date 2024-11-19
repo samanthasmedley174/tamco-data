@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom runner small",
+    "displayName": "Necrom Runner, Small",
+    "values": {
+      "commonRange": "2,000 - 4,300",
+      "averagePrice": 3216,
+      "minimumPrice": 60,
+      "maximumPrice": 4400,
+      "averageStackPrice": 3216,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

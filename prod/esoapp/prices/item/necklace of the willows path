@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of the willows path",
+    "displayName": "Necklace of the Willow's Path",
+    "values": {
+      "commonRange": "2,173 - 2,173",
+      "averagePrice": 2173,
+      "minimumPrice": 2173,
+      "maximumPrice": 2173,
+      "averageStackPrice": 2173,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

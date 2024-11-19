@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nchuthnkarst halberd",
+    "displayName": "Nchuthnkarst Halberd",
+    "values": {
+      "commonRange": "721 - 721",
+      "averagePrice": 583,
+      "minimumPrice": 228,
+      "maximumPrice": 799,
+      "averageStackPrice": 583,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

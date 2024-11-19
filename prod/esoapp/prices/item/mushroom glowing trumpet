@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushroom glowing trumpet",
+    "displayName": "Mushroom, Glowing Trumpet",
+    "values": {
+      "commonRange": "3,267 - 4,000",
+      "averagePrice": 3713,
+      "minimumPrice": 1333,
+      "maximumPrice": 4000,
+      "averageStackPrice": 3713,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Furnishings",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

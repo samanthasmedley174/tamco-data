@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necromancers brazier cold flame",
+    "displayName": "Necromancer's Brazier, Cold-Flame",
+    "values": {
+      "commonRange": "3,261 - 9,969",
+      "averagePrice": 7195,
+      "minimumPrice": 3260,
+      "maximumPrice": 15000,
+      "averageStackPrice": 7195,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

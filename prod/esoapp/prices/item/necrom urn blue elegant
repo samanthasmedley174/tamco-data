@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom urn blue elegant",
+    "displayName": "Necrom Urn, Blue Elegant",
+    "values": {
+      "commonRange": "11,250 - 20,000",
+      "averagePrice": 15869,
+      "minimumPrice": 10127,
+      "maximumPrice": 20240,
+      "averageStackPrice": 15869,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom still life painting wood",
+    "displayName": "Necrom Still Life Painting, Wood",
+    "values": {
+      "commonRange": "20,000 - 40,300",
+      "averagePrice": 30063,
+      "minimumPrice": 10000,
+      "maximumPrice": 49974,
+      "averageStackPrice": 30063,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

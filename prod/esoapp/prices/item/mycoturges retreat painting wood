@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mycoturges retreat painting wood",
+    "displayName": "Mycoturge's Retreat Painting, Wood",
+    "values": {
+      "commonRange": "20,300 - 38,216",
+      "averagePrice": 29241,
+      "minimumPrice": 3821,
+      "maximumPrice": 38216,
+      "averageStackPrice": 29241,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

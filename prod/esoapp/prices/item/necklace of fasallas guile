@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of fasallas guile",
+    "displayName": "Necklace of Fasalla's Guile",
+    "values": {
+      "commonRange": "1,153 - 13,100",
+      "averagePrice": 15313,
+      "minimumPrice": 1000,
+      "maximumPrice": 46000,
+      "averageStackPrice": 15313,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushrooms tall chanterelle",
+    "displayName": "Mushrooms, Tall Chanterelle",
+    "values": {
+      "commonRange": "893 - 1,800",
+      "averagePrice": 1186,
+      "minimumPrice": 600,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1186,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

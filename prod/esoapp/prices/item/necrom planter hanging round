@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom planter hanging round",
+    "displayName": "Necrom Planter, Hanging Round",
+    "values": {
+      "commonRange": "6,000 - 7,174",
+      "averagePrice": 6738,
+      "minimumPrice": 5200,
+      "maximumPrice": 7174,
+      "averageStackPrice": 6738,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

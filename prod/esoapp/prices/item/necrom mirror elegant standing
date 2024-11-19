@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom mirror elegant standing",
+    "displayName": "Necrom Mirror, Elegant Standing",
+    "values": {
+      "commonRange": "3,385 - 5,019",
+      "averagePrice": 4661,
+      "minimumPrice": 2666,
+      "maximumPrice": 9670,
+      "averageStackPrice": 4661,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

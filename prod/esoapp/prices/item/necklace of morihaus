@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of morihaus",
+    "displayName": "Necklace of Morihaus",
+    "values": {
+      "commonRange": "550 - 984",
+      "averagePrice": 874,
+      "minimumPrice": 442,
+      "maximumPrice": 2150,
+      "averageStackPrice": 874,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

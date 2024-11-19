@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushroom tufted cap",
+    "displayName": "Mushroom, Tufted Cap",
+    "values": {
+      "commonRange": "3,239 - 6,000",
+      "averagePrice": 5018,
+      "minimumPrice": 3201,
+      "maximumPrice": 6500,
+      "averageStackPrice": 5018,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

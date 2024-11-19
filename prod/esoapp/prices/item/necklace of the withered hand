@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necklace of the withered hand",
+    "displayName": "Necklace of the Withered Hand",
+    "values": {
+      "commonRange": "144 - 1,000",
+      "averagePrice": 460,
+      "minimumPrice": 144,
+      "maximumPrice": 1500,
+      "averageStackPrice": 460,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

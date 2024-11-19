@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mushrooms gilled dusk cluster",
+    "displayName": "Mushrooms, Gilled Dusk Cluster",
+    "values": {
+      "commonRange": "2,702 - 3,250",
+      "averagePrice": 2956,
+      "minimumPrice": 2400,
+      "maximumPrice": 3250,
+      "averageStackPrice": 5912,
+      "commonStackSize": 2,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

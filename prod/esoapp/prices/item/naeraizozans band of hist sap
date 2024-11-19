@@ -1,0 +1,18 @@
+[
+  {
+    "name": "naeraizozans band of hist sap",
+    "displayName": "Naeraizozan's Band of Hist Sap",
+    "values": {
+      "commonRange": "450 - 450",
+      "averagePrice": 450,
+      "minimumPrice": 450,
+      "maximumPrice": 450,
+      "averageStackPrice": 450,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

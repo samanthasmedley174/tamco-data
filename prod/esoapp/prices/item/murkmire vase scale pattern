@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire vase scale pattern",
+    "displayName": "Murkmire Vase, Scale Pattern",
+    "values": {
+      "commonRange": "100 - 1,000",
+      "averagePrice": 761,
+      "minimumPrice": 100,
+      "maximumPrice": 2000,
+      "averageStackPrice": 761,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

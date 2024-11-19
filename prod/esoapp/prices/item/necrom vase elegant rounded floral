@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necrom vase elegant rounded floral",
+    "displayName": "Necrom Vase, Elegant Rounded Floral",
+    "values": {
+      "commonRange": "2,000 - 7,500",
+      "averagePrice": 4218,
+      "minimumPrice": 2000,
+      "maximumPrice": 8300,
+      "averageStackPrice": 4218,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

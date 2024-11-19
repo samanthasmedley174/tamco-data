@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis murkmire brazier engraved",
+    "displayName": "Praxis: Murkmire Brazier, Engraved",
+    "values": {
+      "commonRange": "3,030 - 5,000",
+      "averagePrice": 4249,
+      "minimumPrice": 3000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 4249,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

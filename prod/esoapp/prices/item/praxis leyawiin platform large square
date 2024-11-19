@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis leyawiin platform large square",
+    "displayName": "Praxis: Leyawiin Platform, Large Square",
+    "values": {
+      "commonRange": "25,485 - 40,000",
+      "averagePrice": 32133,
+      "minimumPrice": 5000,
+      "maximumPrice": 45000,
+      "averageStackPrice": 32133,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

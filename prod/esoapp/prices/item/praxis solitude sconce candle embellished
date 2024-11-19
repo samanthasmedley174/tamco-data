@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis solitude sconce candle embellished",
+    "displayName": "Praxis: Solitude Sconce, Candle Embellished",
+    "values": {
+      "commonRange": "8,500 - 10,441",
+      "averagePrice": 12781,
+      "minimumPrice": 8209,
+      "maximumPrice": 55030,
+      "averageStackPrice": 12781,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

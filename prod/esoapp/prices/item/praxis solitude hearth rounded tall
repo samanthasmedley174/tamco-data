@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis solitude hearth rounded tall",
+    "displayName": "Praxis: Solitude Hearth, Rounded Tall",
+    "values": {
+      "commonRange": "50,000 - 63,059",
+      "averagePrice": 56396,
+      "minimumPrice": 49000,
+      "maximumPrice": 63059,
+      "averageStackPrice": 56396,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

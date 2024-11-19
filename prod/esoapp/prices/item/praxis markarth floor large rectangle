@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis markarth floor large rectangle",
+    "displayName": "Praxis: Markarth Floor, Large Rectangle",
+    "values": {
+      "commonRange": "22,000 - 65,981",
+      "averagePrice": 44681,
+      "minimumPrice": 12939,
+      "maximumPrice": 66000,
+      "averageStackPrice": 44681,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

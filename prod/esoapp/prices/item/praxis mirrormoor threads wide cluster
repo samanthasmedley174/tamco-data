@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis mirrormoor threads wide cluster",
+    "displayName": "Praxis: Mirrormoor Threads, Wide Cluster",
+    "values": {
+      "commonRange": "50,000 - 69,793",
+      "averagePrice": 58324,
+      "minimumPrice": 7999,
+      "maximumPrice": 69793,
+      "averageStackPrice": 58324,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

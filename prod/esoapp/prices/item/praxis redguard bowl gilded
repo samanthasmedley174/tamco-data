@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis redguard bowl gilded",
+    "displayName": "Praxis: Redguard Bowl, Gilded",
+    "values": {
+      "commonRange": "600,000 - 990,000",
+      "averagePrice": 863813,
+      "minimumPrice": 576063,
+      "maximumPrice": 1000000,
+      "averageStackPrice": 863813,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis orcish table with fur",
+    "displayName": "Praxis: Orcish Table with Fur",
+    "values": {
+      "commonRange": "30,000 - 40,000",
+      "averagePrice": 36910,
+      "minimumPrice": 30000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 36910,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

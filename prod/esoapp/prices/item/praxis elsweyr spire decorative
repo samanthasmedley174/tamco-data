@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis elsweyr spire decorative",
+    "displayName": "Praxis: Elsweyr Spire, Decorative",
+    "values": {
+      "commonRange": "550 - 3,500",
+      "averagePrice": 2249,
+      "minimumPrice": 450,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2249,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

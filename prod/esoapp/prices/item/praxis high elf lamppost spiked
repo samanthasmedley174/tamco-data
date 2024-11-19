@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis high elf lamppost spiked",
+    "displayName": "Praxis: High Elf Lamppost, Spiked",
+    "values": {
+      "commonRange": "430 - 1,194",
+      "averagePrice": 1123,
+      "minimumPrice": 300,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1123,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

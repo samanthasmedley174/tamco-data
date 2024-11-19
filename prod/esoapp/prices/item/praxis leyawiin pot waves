@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis leyawiin pot waves",
+    "displayName": "Praxis: Leyawiin Pot, Waves",
+    "values": {
+      "commonRange": "2,959 - 11,000",
+      "averagePrice": 5816,
+      "minimumPrice": 2500,
+      "maximumPrice": 12000,
+      "averageStackPrice": 5816,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

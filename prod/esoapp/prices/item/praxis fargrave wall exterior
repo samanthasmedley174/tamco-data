@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis fargrave wall exterior",
+    "displayName": "Praxis: Fargrave Wall, Exterior",
+    "values": {
+      "commonRange": "13,000 - 17,930",
+      "averagePrice": 15351,
+      "minimumPrice": 10000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 15351,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis hlaalu bath tub masterwork",
+    "displayName": "Praxis: Hlaalu Bath Tub, Masterwork",
+    "values": {
+      "commonRange": "60,000 - 95,671",
+      "averagePrice": 77435,
+      "minimumPrice": 50000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 77435,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

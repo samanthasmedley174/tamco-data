@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis murkmire shrine sithis relief",
+    "displayName": "Praxis: Murkmire Shrine, Sithis Relief",
+    "values": {
+      "commonRange": "21,698 - 25,000",
+      "averagePrice": 24867,
+      "minimumPrice": 15547,
+      "maximumPrice": 45000,
+      "averageStackPrice": 24867,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

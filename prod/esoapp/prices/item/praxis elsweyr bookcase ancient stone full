@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis elsweyr bookcase ancient stone full",
+    "displayName": "Praxis: Elsweyr Bookcase, Ancient Stone Full",
+    "values": {
+      "commonRange": "30,000 - 40,000",
+      "averagePrice": 36303,
+      "minimumPrice": 30000,
+      "maximumPrice": 45039,
+      "averageStackPrice": 36303,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis markarth wall windowed stone",
+    "displayName": "Praxis: Markarth Wall, Windowed Stone",
+    "values": {
+      "commonRange": "12,030 - 17,440",
+      "averagePrice": 16564,
+      "minimumPrice": 12000,
+      "maximumPrice": 36677,
+      "averageStackPrice": 16564,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

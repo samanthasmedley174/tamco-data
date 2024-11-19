@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis orcish figurine strength",
+    "displayName": "Praxis: Orcish Figurine, Strength",
+    "values": {
+      "commonRange": "20,000 - 41,429",
+      "averagePrice": 33670,
+      "minimumPrice": 18039,
+      "maximumPrice": 42039,
+      "averageStackPrice": 33670,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

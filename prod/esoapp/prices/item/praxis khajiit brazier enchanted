@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis khajiit brazier enchanted",
+    "displayName": "Praxis: Khajiit Brazier, Enchanted",
+    "values": {
+      "commonRange": "35,000 - 200,039",
+      "averagePrice": 135058,
+      "minimumPrice": 5539,
+      "maximumPrice": 300000,
+      "averageStackPrice": 135058,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

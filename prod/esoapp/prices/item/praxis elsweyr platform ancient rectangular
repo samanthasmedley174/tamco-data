@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis elsweyr platform ancient rectangular",
+    "displayName": "Praxis: Elsweyr Platform, Ancient Rectangular",
+    "values": {
+      "commonRange": "698,198 - 1,500,000",
+      "averagePrice": 1025312,
+      "minimumPrice": 500000,
+      "maximumPrice": 1500039,
+      "averageStackPrice": 1025312,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

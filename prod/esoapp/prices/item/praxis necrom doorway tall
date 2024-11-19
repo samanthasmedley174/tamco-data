@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom doorway tall",
+    "displayName": "Praxis: Necrom Doorway, Tall",
+    "values": {
+      "commonRange": "800,000 - 1,300,000",
+      "averagePrice": 995000,
+      "minimumPrice": 700000,
+      "maximumPrice": 1500000,
+      "averageStackPrice": 995000,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

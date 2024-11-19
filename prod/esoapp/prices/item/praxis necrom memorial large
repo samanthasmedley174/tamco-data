@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom memorial large",
+    "displayName": "Praxis: Necrom Memorial, Large",
+    "values": {
+      "commonRange": "2,000 - 4,999",
+      "averagePrice": 3470,
+      "minimumPrice": 30,
+      "maximumPrice": 5000,
+      "averageStackPrice": 3470,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis hlaalu trinket box curious turtle",
+    "displayName": "Praxis: Hlaalu Trinket Box, Curious Turtle",
+    "values": {
+      "commonRange": "75,000 - 171,874",
+      "averagePrice": 130000,
+      "minimumPrice": 66082,
+      "maximumPrice": 210000,
+      "averageStackPrice": 130000,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

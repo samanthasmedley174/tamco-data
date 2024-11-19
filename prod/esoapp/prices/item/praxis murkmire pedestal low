@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis murkmire pedestal low",
+    "displayName": "Praxis: Murkmire Pedestal, Low",
+    "values": {
+      "commonRange": "7,000 - 17,000",
+      "averagePrice": 9787,
+      "minimumPrice": 7000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9787,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

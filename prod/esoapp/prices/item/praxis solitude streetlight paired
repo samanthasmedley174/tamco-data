@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis solitude streetlight paired",
+    "displayName": "Praxis: Solitude Streetlight, Paired",
+    "values": {
+      "commonRange": "17,000 - 30,000",
+      "averagePrice": 24878,
+      "minimumPrice": 10000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 24878,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

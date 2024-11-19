@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis fargrave bench long stone",
+    "displayName": "Praxis: Fargrave Bench, Long Stone",
+    "values": {
+      "commonRange": "3,030 - 9,200",
+      "averagePrice": 6968,
+      "minimumPrice": 350,
+      "maximumPrice": 11210,
+      "averageStackPrice": 6968,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

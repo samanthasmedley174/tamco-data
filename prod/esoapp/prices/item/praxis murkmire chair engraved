@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis murkmire chair engraved",
+    "displayName": "Praxis: Murkmire Chair, Engraved",
+    "values": {
+      "commonRange": "16,027 - 19,113",
+      "averagePrice": 18037,
+      "minimumPrice": 15000,
+      "maximumPrice": 19113,
+      "averageStackPrice": 18037,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis redoran urn pale marble",
+    "displayName": "Praxis: Redoran Urn, Pale Marble",
+    "values": {
+      "commonRange": "20,000 - 27,500",
+      "averagePrice": 23654,
+      "minimumPrice": 20000,
+      "maximumPrice": 28000,
+      "averageStackPrice": 23654,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

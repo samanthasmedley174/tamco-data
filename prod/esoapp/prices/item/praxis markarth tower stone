@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis markarth tower stone",
+    "displayName": "Praxis: Markarth Tower, Stone",
+    "values": {
+      "commonRange": "75,000 - 93,000",
+      "averagePrice": 81789,
+      "minimumPrice": 70000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 81789,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

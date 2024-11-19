@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis elsweyr stairs masonry",
+    "displayName": "Praxis: Elsweyr Stairs, Masonry",
+    "values": {
+      "commonRange": "3,000 - 5,900",
+      "averagePrice": 4409,
+      "minimumPrice": 138,
+      "maximumPrice": 6363,
+      "averageStackPrice": 4409,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom monolith stone",
+    "displayName": "Praxis: Necrom Monolith, Stone",
+    "values": {
+      "commonRange": "200,000 - 327,000",
+      "averagePrice": 286285,
+      "minimumPrice": 198590,
+      "maximumPrice": 353262,
+      "averageStackPrice": 286285,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis floating apocrypha bookcase tall",
+    "displayName": "Praxis: Floating Apocrypha Bookcase, Tall",
+    "values": {
+      "commonRange": "40,000 - 55,000",
+      "averagePrice": 53763,
+      "minimumPrice": 40000,
+      "maximumPrice": 99000,
+      "averageStackPrice": 53763,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

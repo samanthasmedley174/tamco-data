@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis leyawiin wall castle",
+    "displayName": "Praxis: Leyawiin Wall, Castle",
+    "values": {
+      "commonRange": "100,000 - 200,000",
+      "averagePrice": 150620,
+      "minimumPrice": 100000,
+      "maximumPrice": 200000,
+      "averageStackPrice": 150620,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

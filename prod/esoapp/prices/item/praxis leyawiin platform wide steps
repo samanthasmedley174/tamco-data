@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis leyawiin platform wide steps",
+    "displayName": "Praxis: Leyawiin Platform, Wide Steps",
+    "values": {
+      "commonRange": "200 - 3,550",
+      "averagePrice": 2222,
+      "minimumPrice": 100,
+      "maximumPrice": 5027,
+      "averageStackPrice": 2222,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

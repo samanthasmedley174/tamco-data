@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis firesong bookcase tall lava",
+    "displayName": "Praxis: Firesong Bookcase, Tall Lava",
+    "values": {
+      "commonRange": "2,100 - 3,039",
+      "averagePrice": 2677,
+      "minimumPrice": 1700,
+      "maximumPrice": 4751,
+      "averageStackPrice": 2677,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

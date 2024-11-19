@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis elsweyr lightpost ancient tall",
+    "displayName": "Praxis: Elsweyr Lightpost, Ancient Tall",
+    "values": {
+      "commonRange": "20,000 - 22,825",
+      "averagePrice": 21388,
+      "minimumPrice": 19000,
+      "maximumPrice": 22825,
+      "averageStackPrice": 21388,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

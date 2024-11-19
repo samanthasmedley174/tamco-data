@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis murkmire bed enclosed",
+    "displayName": "Praxis: Murkmire Bed, Enclosed",
+    "values": {
+      "commonRange": "400 - 5,657",
+      "averagePrice": 3765,
+      "minimumPrice": 350,
+      "maximumPrice": 6474,
+      "averageStackPrice": 3765,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

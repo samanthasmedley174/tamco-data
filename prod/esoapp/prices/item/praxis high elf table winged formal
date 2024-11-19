@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis high elf table winged formal",
+    "displayName": "Praxis: High Elf Table, Winged Formal",
+    "values": {
+      "commonRange": "13,750 - 16,826",
+      "averagePrice": 14875,
+      "minimumPrice": 9999,
+      "maximumPrice": 21039,
+      "averageStackPrice": 14875,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

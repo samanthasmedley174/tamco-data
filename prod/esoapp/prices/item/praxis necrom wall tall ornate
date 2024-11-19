@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom wall tall ornate",
+    "displayName": "Praxis: Necrom Wall, Tall Ornate",
+    "values": {
+      "commonRange": "666,000 - 1,300,000",
+      "averagePrice": 1078604,
+      "minimumPrice": 650000,
+      "maximumPrice": 1489999,
+      "averageStackPrice": 1078604,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

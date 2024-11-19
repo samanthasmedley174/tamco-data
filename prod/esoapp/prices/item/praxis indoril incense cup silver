@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis indoril incense cup silver",
+    "displayName": "Praxis: Indoril Incense Cup, Silver",
+    "values": {
+      "commonRange": "22,576 - 31,932",
+      "averagePrice": 27354,
+      "minimumPrice": 11030,
+      "maximumPrice": 32000,
+      "averageStackPrice": 27354,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

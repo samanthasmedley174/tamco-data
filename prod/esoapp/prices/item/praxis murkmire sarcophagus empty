@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis murkmire sarcophagus empty",
+    "displayName": "Praxis: Murkmire Sarcophagus, Empty",
+    "values": {
+      "commonRange": "21,500 - 25,391",
+      "averagePrice": 24266,
+      "minimumPrice": 20790,
+      "maximumPrice": 25790,
+      "averageStackPrice": 24266,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

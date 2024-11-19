@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom stairs outer corner stone",
+    "displayName": "Praxis: Necrom Stairs, Outer Corner Stone",
+    "values": {
+      "commonRange": "9,000 - 10,525",
+      "averagePrice": 18726,
+      "minimumPrice": 8525,
+      "maximumPrice": 99030,
+      "averageStackPrice": 18726,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

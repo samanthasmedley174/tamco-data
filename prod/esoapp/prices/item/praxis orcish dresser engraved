@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis orcish dresser engraved",
+    "displayName": "Praxis: Orcish Dresser, Engraved",
+    "values": {
+      "commonRange": "12,000 - 15,000",
+      "averagePrice": 13523,
+      "minimumPrice": 10425,
+      "maximumPrice": 15000,
+      "averageStackPrice": 13523,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

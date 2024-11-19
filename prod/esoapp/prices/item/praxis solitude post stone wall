@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis solitude post stone wall",
+    "displayName": "Praxis: Solitude Post, Stone Wall",
+    "values": {
+      "commonRange": "3,000 - 5,000",
+      "averagePrice": 4216,
+      "minimumPrice": 3000,
+      "maximumPrice": 7500,
+      "averageStackPrice": 4216,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

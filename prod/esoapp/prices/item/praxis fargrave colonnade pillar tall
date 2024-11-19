@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis fargrave colonnade pillar tall",
+    "displayName": "Praxis: Fargrave Colonnade Pillar, Tall",
+    "values": {
+      "commonRange": "5,500 - 8,539",
+      "averagePrice": 7370,
+      "minimumPrice": 5000,
+      "maximumPrice": 9625,
+      "averageStackPrice": 7370,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

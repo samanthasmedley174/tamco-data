@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis murkmire bookcase full",
+    "displayName": "Praxis: Murkmire Bookcase, Full",
+    "values": {
+      "commonRange": "7,115 - 9,679",
+      "averagePrice": 8904,
+      "minimumPrice": 7000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 8904,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis orcish table formal",
+    "displayName": "Praxis: Orcish Table, Formal",
+    "values": {
+      "commonRange": "250 - 815",
+      "averagePrice": 737,
+      "minimumPrice": 230,
+      "maximumPrice": 2812,
+      "averageStackPrice": 737,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

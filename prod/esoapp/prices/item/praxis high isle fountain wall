@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis high isle fountain wall",
+    "displayName": "Praxis: High Isle Fountain, Wall",
+    "values": {
+      "commonRange": "90,000 - 112,994",
+      "averagePrice": 99858,
+      "minimumPrice": 80298,
+      "maximumPrice": 125000,
+      "averageStackPrice": 99858,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

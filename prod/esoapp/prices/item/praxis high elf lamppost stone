@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis high elf lamppost stone",
+    "displayName": "Praxis: High Elf Lamppost, Stone",
+    "values": {
+      "commonRange": "19,000 - 21,756",
+      "averagePrice": 20274,
+      "minimumPrice": 15000,
+      "maximumPrice": 21756,
+      "averageStackPrice": 20274,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

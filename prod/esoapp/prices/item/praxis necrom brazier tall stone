@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom brazier tall stone",
+    "displayName": "Praxis: Necrom Brazier, Tall Stone",
+    "values": {
+      "commonRange": "17,200 - 21,533",
+      "averagePrice": 19543,
+      "minimumPrice": 17039,
+      "maximumPrice": 21600,
+      "averageStackPrice": 19543,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

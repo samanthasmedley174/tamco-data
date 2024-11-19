@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis elsweyr brazier embellished",
+    "displayName": "Praxis: Elsweyr Brazier, Embellished",
+    "values": {
+      "commonRange": "1,500 - 2,666",
+      "averagePrice": 2179,
+      "minimumPrice": 1484,
+      "maximumPrice": 2666,
+      "averageStackPrice": 2179,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

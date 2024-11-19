@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis elsweyr streetlight inlaid stone",
+    "displayName": "Praxis: Elsweyr Streetlight, Inlaid Stone",
+    "values": {
+      "commonRange": "2,000 - 3,000",
+      "averagePrice": 2446,
+      "minimumPrice": 30,
+      "maximumPrice": 5393,
+      "averageStackPrice": 2446,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

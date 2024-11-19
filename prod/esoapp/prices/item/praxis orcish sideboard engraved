@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis orcish sideboard engraved",
+    "displayName": "Praxis: Orcish Sideboard, Engraved",
+    "values": {
+      "commonRange": "12,000 - 13,963",
+      "averagePrice": 13207,
+      "minimumPrice": 10000,
+      "maximumPrice": 19000,
+      "averageStackPrice": 13207,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

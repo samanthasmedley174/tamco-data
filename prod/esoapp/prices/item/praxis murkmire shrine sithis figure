@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis murkmire shrine sithis figure",
+    "displayName": "Praxis: Murkmire Shrine, Sithis Figure",
+    "values": {
+      "commonRange": "20,000 - 30,000",
+      "averagePrice": 24215,
+      "minimumPrice": 15724,
+      "maximumPrice": 30000,
+      "averageStackPrice": 24215,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

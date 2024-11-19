@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis high isle turret conical castle",
+    "displayName": "Praxis: High Isle Turret, Conical Castle",
+    "values": {
+      "commonRange": "6,000 - 14,111",
+      "averagePrice": 11893,
+      "minimumPrice": 6000,
+      "maximumPrice": 16900,
+      "averageStackPrice": 11893,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

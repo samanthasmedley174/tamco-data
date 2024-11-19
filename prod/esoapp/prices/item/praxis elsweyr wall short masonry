@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis elsweyr wall short masonry",
+    "displayName": "Praxis: Elsweyr Wall, Short Masonry",
+    "values": {
+      "commonRange": "174 - 500",
+      "averagePrice": 321,
+      "minimumPrice": 127,
+      "maximumPrice": 500,
+      "averageStackPrice": 321,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

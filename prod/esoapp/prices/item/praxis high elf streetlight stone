@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis high elf streetlight stone",
+    "displayName": "Praxis: High Elf Streetlight, Stone",
+    "values": {
+      "commonRange": "22,000 - 30,000",
+      "averagePrice": 24188,
+      "minimumPrice": 15000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 24188,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

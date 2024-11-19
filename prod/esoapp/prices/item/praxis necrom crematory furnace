@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom crematory furnace",
+    "displayName": "Praxis: Necrom Crematory, Furnace",
+    "values": {
+      "commonRange": "35,000 - 48,900",
+      "averagePrice": 40780,
+      "minimumPrice": 13995,
+      "maximumPrice": 50661,
+      "averageStackPrice": 40780,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

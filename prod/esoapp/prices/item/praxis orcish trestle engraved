@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis orcish trestle engraved",
+    "displayName": "Praxis: Orcish Trestle, Engraved",
+    "values": {
+      "commonRange": "500 - 1,020",
+      "averagePrice": 738,
+      "minimumPrice": 330,
+      "maximumPrice": 1020,
+      "averageStackPrice": 738,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

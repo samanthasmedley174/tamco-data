@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis orcish cabinet bedside",
+    "displayName": "Praxis: Orcish Cabinet, Bedside",
+    "values": {
+      "commonRange": "13,900 - 15,000",
+      "averagePrice": 14340,
+      "minimumPrice": 12500,
+      "maximumPrice": 17500,
+      "averageStackPrice": 14340,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

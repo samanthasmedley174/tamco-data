@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis elsweyr statue shrine lion",
+    "displayName": "Praxis: Elsweyr Statue, Shrine Lion",
+    "values": {
+      "commonRange": "40,000 - 110,000",
+      "averagePrice": 78922,
+      "minimumPrice": 40000,
+      "maximumPrice": 124838,
+      "averageStackPrice": 78922,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

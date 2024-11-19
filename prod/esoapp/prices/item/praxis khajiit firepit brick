@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis khajiit firepit brick",
+    "displayName": "Praxis: Khajiit Firepit, Brick",
+    "values": {
+      "commonRange": "59 - 500",
+      "averagePrice": 224,
+      "minimumPrice": 51,
+      "maximumPrice": 850,
+      "averageStackPrice": 224,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis floating apocrypha bookcase shell",
+    "displayName": "Praxis: Floating Apocrypha Bookcase, Shell",
+    "values": {
+      "commonRange": "40,067 - 80,000",
+      "averagePrice": 55478,
+      "minimumPrice": 25000,
+      "maximumPrice": 89000,
+      "averageStackPrice": 55478,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis solitude sconce candle",
+    "displayName": "Praxis: Solitude Sconce, Candle",
+    "values": {
+      "commonRange": "700 - 2,000",
+      "averagePrice": 1442,
+      "minimumPrice": 327,
+      "maximumPrice": 2617,
+      "averageStackPrice": 1442,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis stone nest armchair carved stone",
+    "displayName": "Praxis: Stone-Nest Armchair, Carved Stone",
+    "values": {
+      "commonRange": "11,000 - 21,000",
+      "averagePrice": 18093,
+      "minimumPrice": 3000,
+      "maximumPrice": 24862,
+      "averageStackPrice": 18093,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

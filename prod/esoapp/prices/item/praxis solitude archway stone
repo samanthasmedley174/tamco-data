@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis solitude archway stone",
+    "displayName": "Praxis: Solitude Archway, Stone",
+    "values": {
+      "commonRange": "17,479 - 22,000",
+      "averagePrice": 18775,
+      "minimumPrice": 9030,
+      "maximumPrice": 23222,
+      "averageStackPrice": 18775,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

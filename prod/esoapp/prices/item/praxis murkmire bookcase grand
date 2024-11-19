@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis murkmire bookcase grand",
+    "displayName": "Praxis: Murkmire Bookcase, Grand",
+    "values": {
+      "commonRange": "26,000 - 40,000",
+      "averagePrice": 34542,
+      "minimumPrice": 25000,
+      "maximumPrice": 42000,
+      "averageStackPrice": 34542,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

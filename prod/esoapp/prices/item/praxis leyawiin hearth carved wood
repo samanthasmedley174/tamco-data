@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis leyawiin hearth carved wood",
+    "displayName": "Praxis: Leyawiin Hearth, Carved Wood",
+    "values": {
+      "commonRange": "57,034 - 80,000",
+      "averagePrice": 66237,
+      "minimumPrice": 55000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 66237,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

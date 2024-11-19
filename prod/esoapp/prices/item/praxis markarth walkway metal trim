@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis markarth walkway metal trim",
+    "displayName": "Praxis: Markarth Walkway, Metal Trim",
+    "values": {
+      "commonRange": "70,000 - 85,000",
+      "averagePrice": 74933,
+      "minimumPrice": 35039,
+      "maximumPrice": 99567,
+      "averageStackPrice": 74933,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

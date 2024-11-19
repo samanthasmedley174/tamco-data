@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis redguard jar baroque",
+    "displayName": "Praxis: Redguard Jar, Baroque",
+    "values": {
+      "commonRange": "30,000 - 43,100",
+      "averagePrice": 31472,
+      "minimumPrice": 3039,
+      "maximumPrice": 44049,
+      "averageStackPrice": 31472,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis redoran urn dusky marble",
+    "displayName": "Praxis: Redoran Urn, Dusky Marble",
+    "values": {
+      "commonRange": "25,000 - 39,000",
+      "averagePrice": 34938,
+      "minimumPrice": 20000,
+      "maximumPrice": 55840,
+      "averageStackPrice": 34938,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

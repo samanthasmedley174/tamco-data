@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis elsweyr sand meditation ring large",
+    "displayName": "Praxis: Elsweyr Sand Meditation Ring, Large",
+    "values": {
+      "commonRange": "2,498 - 4,043",
+      "averagePrice": 3153,
+      "minimumPrice": 2186,
+      "maximumPrice": 4043,
+      "averageStackPrice": 3153,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

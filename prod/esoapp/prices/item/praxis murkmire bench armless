@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis murkmire bench armless",
+    "displayName": "Praxis: Murkmire Bench, Armless",
+    "values": {
+      "commonRange": "9,999 - 16,918",
+      "averagePrice": 13760,
+      "minimumPrice": 7500,
+      "maximumPrice": 18000,
+      "averageStackPrice": 13760,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

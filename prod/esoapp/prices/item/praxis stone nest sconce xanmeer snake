@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis stone nest sconce xanmeer snake",
+    "displayName": "Praxis: Stone-Nest Sconce, Xanmeer Snake",
+    "values": {
+      "commonRange": "40,000 - 67,000",
+      "averagePrice": 54413,
+      "minimumPrice": 7000,
+      "maximumPrice": 68418,
+      "averageStackPrice": 54413,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

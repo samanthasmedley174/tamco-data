@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis high elf dresser corner",
+    "displayName": "Praxis: High Elf Dresser, Corner",
+    "values": {
+      "commonRange": "14,000 - 17,500",
+      "averagePrice": 15013,
+      "minimumPrice": 12000,
+      "maximumPrice": 19995,
+      "averageStackPrice": 15013,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

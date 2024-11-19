@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis elsweyr lantern hanging twist",
+    "displayName": "Praxis: Elsweyr Lantern, Hanging Twist",
+    "values": {
+      "commonRange": "230 - 3,989",
+      "averagePrice": 2304,
+      "minimumPrice": 30,
+      "maximumPrice": 4500,
+      "averageStackPrice": 2304,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

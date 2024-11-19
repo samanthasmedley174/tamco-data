@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis leyawiin pot wide",
+    "displayName": "Praxis: Leyawiin Pot, Wide",
+    "values": {
+      "commonRange": "998 - 3,986",
+      "averagePrice": 1899,
+      "minimumPrice": 900,
+      "maximumPrice": 3988,
+      "averageStackPrice": 1899,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

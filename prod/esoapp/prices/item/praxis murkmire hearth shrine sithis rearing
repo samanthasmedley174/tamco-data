@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis murkmire hearth shrine sithis rearing",
+    "displayName": "Praxis: Murkmire Hearth Shrine, Sithis Rearing",
+    "values": {
+      "commonRange": "4,372 - 6,000",
+      "averagePrice": 5089,
+      "minimumPrice": 3300,
+      "maximumPrice": 6182,
+      "averageStackPrice": 5089,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

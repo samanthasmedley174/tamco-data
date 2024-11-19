@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom wall tall simple",
+    "displayName": "Praxis: Necrom Wall, Tall Simple",
+    "values": {
+      "commonRange": "31,030 - 44,573",
+      "averagePrice": 39523,
+      "minimumPrice": 31030,
+      "maximumPrice": 46859,
+      "averageStackPrice": 39523,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

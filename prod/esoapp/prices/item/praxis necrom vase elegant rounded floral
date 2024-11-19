@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom vase elegant rounded floral",
+    "displayName": "Praxis: Necrom Vase, Elegant Rounded Floral",
+    "values": {
+      "commonRange": "9,999 - 15,104",
+      "averagePrice": 12538,
+      "minimumPrice": 9409,
+      "maximumPrice": 20000,
+      "averageStackPrice": 12538,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

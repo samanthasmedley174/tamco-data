@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis leyawiin post stone garden",
+    "displayName": "Praxis: Leyawiin Post, Stone Garden",
+    "values": {
+      "commonRange": "900 - 1,564",
+      "averagePrice": 1714,
+      "minimumPrice": 800,
+      "maximumPrice": 7000,
+      "averageStackPrice": 1714,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

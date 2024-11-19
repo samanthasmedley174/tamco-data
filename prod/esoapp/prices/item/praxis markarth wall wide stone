@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis markarth wall wide stone",
+    "displayName": "Praxis: Markarth Wall, Wide Stone",
+    "values": {
+      "commonRange": "5,800 - 8,095",
+      "averagePrice": 6651,
+      "minimumPrice": 4000,
+      "maximumPrice": 10424,
+      "averageStackPrice": 6651,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

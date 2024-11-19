@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom window framed exterior",
+    "displayName": "Praxis: Necrom Window, Framed Exterior",
+    "values": {
+      "commonRange": "13,557 - 18,557",
+      "averagePrice": 16522,
+      "minimumPrice": 13000,
+      "maximumPrice": 21000,
+      "averageStackPrice": 16522,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

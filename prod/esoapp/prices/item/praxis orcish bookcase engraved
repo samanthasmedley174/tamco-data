@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis orcish bookcase engraved",
+    "displayName": "Praxis: Orcish Bookcase, Engraved",
+    "values": {
+      "commonRange": "665 - 2,500",
+      "averagePrice": 1412,
+      "minimumPrice": 499,
+      "maximumPrice": 2620,
+      "averageStackPrice": 1412,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

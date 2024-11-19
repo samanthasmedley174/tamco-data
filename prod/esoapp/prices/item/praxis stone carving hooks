@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis stone carving hooks",
+    "displayName": "Praxis: Stone Carving, Hooks",
+    "values": {
+      "commonRange": "127 - 1,000",
+      "averagePrice": 634,
+      "minimumPrice": 127,
+      "maximumPrice": 1000,
+      "averageStackPrice": 634,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

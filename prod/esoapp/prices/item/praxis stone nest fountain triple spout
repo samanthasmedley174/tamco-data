@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis stone nest fountain triple spout",
+    "displayName": "Praxis: Stone-Nest Fountain, Triple Spout",
+    "values": {
+      "commonRange": "40,000 - 93,185",
+      "averagePrice": 63610,
+      "minimumPrice": 10045,
+      "maximumPrice": 110000,
+      "averageStackPrice": 63610,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

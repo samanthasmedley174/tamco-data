@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis leyawiin amphora elegant",
+    "displayName": "Praxis: Leyawiin Amphora, Elegant",
+    "values": {
+      "commonRange": "11,039 - 23,500",
+      "averagePrice": 17754,
+      "minimumPrice": 10039,
+      "maximumPrice": 24500,
+      "averageStackPrice": 17754,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

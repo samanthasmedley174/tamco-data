@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis elsweyr platform ancient square",
+    "displayName": "Praxis: Elsweyr Platform, Ancient Square",
+    "values": {
+      "commonRange": "266,349 - 752,566",
+      "averagePrice": 492334,
+      "minimumPrice": 220000,
+      "maximumPrice": 1100030,
+      "averageStackPrice": 492334,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

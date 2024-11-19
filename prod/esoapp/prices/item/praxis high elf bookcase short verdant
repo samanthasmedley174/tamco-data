@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis high elf bookcase short verdant",
+    "displayName": "Praxis: High Elf Bookcase, Short Verdant",
+    "values": {
+      "commonRange": "70 - 700",
+      "averagePrice": 271,
+      "minimumPrice": 25,
+      "maximumPrice": 1000,
+      "averageStackPrice": 271,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

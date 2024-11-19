@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis hlaalu jar garden moss",
+    "displayName": "Praxis: Hlaalu Jar, Garden Moss",
+    "values": {
+      "commonRange": "6,000 - 55,000",
+      "averagePrice": 34445,
+      "minimumPrice": 3330,
+      "maximumPrice": 55000,
+      "averageStackPrice": 34445,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

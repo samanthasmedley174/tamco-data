@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis markarth stairway narrow stone",
+    "displayName": "Praxis: Markarth Stairway, Narrow Stone",
+    "values": {
+      "commonRange": "3,500 - 10,329",
+      "averagePrice": 6450,
+      "minimumPrice": 3000,
+      "maximumPrice": 10676,
+      "averageStackPrice": 6450,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

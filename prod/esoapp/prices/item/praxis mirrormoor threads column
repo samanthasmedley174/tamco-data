@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis mirrormoor threads column",
+    "displayName": "Praxis: Mirrormoor Threads, Column",
+    "values": {
+      "commonRange": "42,688 - 85,000",
+      "averagePrice": 65269,
+      "minimumPrice": 39805,
+      "maximumPrice": 110000,
+      "averageStackPrice": 65269,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis leyawiin pitcher elegant",
+    "displayName": "Praxis: Leyawiin Pitcher, Elegant",
+    "values": {
+      "commonRange": "16,992 - 23,039",
+      "averagePrice": 20462,
+      "minimumPrice": 16000,
+      "maximumPrice": 25039,
+      "averageStackPrice": 20462,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

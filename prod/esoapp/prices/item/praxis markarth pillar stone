@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis markarth pillar stone",
+    "displayName": "Praxis: Markarth Pillar, Stone",
+    "values": {
+      "commonRange": "7,598 - 29,486",
+      "averagePrice": 14887,
+      "minimumPrice": 5000,
+      "maximumPrice": 39683,
+      "averageStackPrice": 14887,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

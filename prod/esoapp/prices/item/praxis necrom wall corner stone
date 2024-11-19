@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom wall corner stone",
+    "displayName": "Praxis: Necrom Wall, Corner Stone",
+    "values": {
+      "commonRange": "15,000 - 21,018",
+      "averagePrice": 16700,
+      "minimumPrice": 30,
+      "maximumPrice": 25000,
+      "averageStackPrice": 16700,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

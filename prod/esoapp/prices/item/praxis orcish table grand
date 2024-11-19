@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis orcish table grand",
+    "displayName": "Praxis: Orcish Table, Grand",
+    "values": {
+      "commonRange": "18,354 - 25,000",
+      "averagePrice": 21015,
+      "minimumPrice": 15094,
+      "maximumPrice": 25457,
+      "averageStackPrice": 21015,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis khajiit sigil moon cycle",
+    "displayName": "Praxis: Khajiit Sigil, Moon Cycle",
+    "values": {
+      "commonRange": "54,018 - 85,000",
+      "averagePrice": 81678,
+      "minimumPrice": 54000,
+      "maximumPrice": 200045,
+      "averageStackPrice": 81678,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

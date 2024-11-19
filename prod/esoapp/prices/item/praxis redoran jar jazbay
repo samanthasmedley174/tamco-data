@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis redoran jar jazbay",
+    "displayName": "Praxis: Redoran Jar, Jazbay",
+    "values": {
+      "commonRange": "28,000 - 33,250",
+      "averagePrice": 28606,
+      "minimumPrice": 1030,
+      "maximumPrice": 33300,
+      "averageStackPrice": 28606,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

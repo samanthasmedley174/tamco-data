@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis solitude wall stone",
+    "displayName": "Praxis: Solitude Wall, Stone",
+    "values": {
+      "commonRange": "4,400 - 6,153",
+      "averagePrice": 5005,
+      "minimumPrice": 3234,
+      "maximumPrice": 6153,
+      "averageStackPrice": 5005,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

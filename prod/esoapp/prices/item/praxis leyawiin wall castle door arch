@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis leyawiin wall castle door arch",
+    "displayName": "Praxis: Leyawiin Wall, Castle Door Arch",
+    "values": {
+      "commonRange": "35,000 - 57,116",
+      "averagePrice": 48457,
+      "minimumPrice": 32000,
+      "maximumPrice": 80000,
+      "averageStackPrice": 48457,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

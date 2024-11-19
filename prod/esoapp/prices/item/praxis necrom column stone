@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom column stone",
+    "displayName": "Praxis: Necrom Column, Stone",
+    "values": {
+      "commonRange": "2,000 - 5,017",
+      "averagePrice": 4123,
+      "minimumPrice": 2000,
+      "maximumPrice": 8063,
+      "averageStackPrice": 4123,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

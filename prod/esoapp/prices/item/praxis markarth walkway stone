@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis markarth walkway stone",
+    "displayName": "Praxis: Markarth Walkway, Stone",
+    "values": {
+      "commonRange": "5,000 - 10,578",
+      "averagePrice": 8163,
+      "minimumPrice": 3000,
+      "maximumPrice": 10629,
+      "averageStackPrice": 8163,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

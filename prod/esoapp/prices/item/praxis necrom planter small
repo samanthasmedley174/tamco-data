@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom planter small",
+    "displayName": "Praxis: Necrom Planter, Small",
+    "values": {
+      "commonRange": "3,000 - 8,000",
+      "averagePrice": 5346,
+      "minimumPrice": 1000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5346,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom ceiling domed",
+    "displayName": "Praxis: Necrom Ceiling, Domed",
+    "values": {
+      "commonRange": "650,000 - 1,630,000",
+      "averagePrice": 1123182,
+      "minimumPrice": 650000,
+      "maximumPrice": 1750000,
+      "averageStackPrice": 1123182,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

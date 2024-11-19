@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis elsweyr shrine ancient multilevel",
+    "displayName": "Praxis: Elsweyr Shrine, Ancient Multilevel",
+    "values": {
+      "commonRange": "200,000 - 350,000",
+      "averagePrice": 276746,
+      "minimumPrice": 120000,
+      "maximumPrice": 400000,
+      "averageStackPrice": 276746,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis murkmire table engraved",
+    "displayName": "Praxis: Murkmire Table, Engraved",
+    "values": {
+      "commonRange": "2,999 - 6,000",
+      "averagePrice": 5908,
+      "minimumPrice": 230,
+      "maximumPrice": 27030,
+      "averageStackPrice": 5908,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

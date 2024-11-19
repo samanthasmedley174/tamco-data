@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis murkmire shrine sithis coiled",
+    "displayName": "Praxis: Murkmire Shrine, Sithis Coiled",
+    "values": {
+      "commonRange": "15,000 - 50,000",
+      "averagePrice": 36658,
+      "minimumPrice": 11163,
+      "maximumPrice": 70000,
+      "averageStackPrice": 36658,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

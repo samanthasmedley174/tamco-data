@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis paper making frame",
+    "displayName": "Praxis: Paper Making Frame",
+    "values": {
+      "commonRange": "6,800 - 8,000",
+      "averagePrice": 7275,
+      "minimumPrice": 5000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 7275,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

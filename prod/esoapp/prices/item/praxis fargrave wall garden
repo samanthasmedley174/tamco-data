@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis fargrave wall garden",
+    "displayName": "Praxis: Fargrave Wall, Garden",
+    "values": {
+      "commonRange": "1,030 - 19,359",
+      "averagePrice": 12309,
+      "minimumPrice": 1030,
+      "maximumPrice": 20000,
+      "averageStackPrice": 12309,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

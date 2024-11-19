@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis solitude well covered",
+    "displayName": "Praxis: Solitude Well, Covered",
+    "values": {
+      "commonRange": "2,846 - 11,111",
+      "averagePrice": 7902,
+      "minimumPrice": 930,
+      "maximumPrice": 11787,
+      "averageStackPrice": 7902,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

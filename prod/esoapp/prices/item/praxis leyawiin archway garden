@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis leyawiin archway garden",
+    "displayName": "Praxis: Leyawiin Archway, Garden",
+    "values": {
+      "commonRange": "17,000 - 28,000",
+      "averagePrice": 22850,
+      "minimumPrice": 15000,
+      "maximumPrice": 29500,
+      "averageStackPrice": 22850,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

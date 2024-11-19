@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis necrom wall stone",
+    "displayName": "Praxis: Necrom Wall, Stone",
+    "values": {
+      "commonRange": "29,920 - 50,000",
+      "averagePrice": 39361,
+      "minimumPrice": 28500,
+      "maximumPrice": 80030,
+      "averageStackPrice": 39361,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

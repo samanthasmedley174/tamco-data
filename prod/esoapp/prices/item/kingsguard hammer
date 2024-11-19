@@ -1,0 +1,18 @@
+[
+  {
+    "name": "kingsguard hammer",
+    "displayName": "Kingsguard Hammer",
+    "values": {
+      "commonRange": "950 - 3,141",
+      "averagePrice": 2419,
+      "minimumPrice": 444,
+      "maximumPrice": 5141,
+      "averageStackPrice": 2419,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

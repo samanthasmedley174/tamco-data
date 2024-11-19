@@ -1,0 +1,18 @@
+[
+  {
+    "name": "knight slayer robe",
+    "displayName": "Knight Slayer Robe",
+    "values": {
+      "commonRange": "299 - 10,180",
+      "averagePrice": 3191,
+      "minimumPrice": 180,
+      "maximumPrice": 10183,
+      "averageStackPrice": 3191,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

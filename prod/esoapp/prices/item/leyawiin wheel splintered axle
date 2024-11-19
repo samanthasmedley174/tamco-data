@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin wheel splintered axle",
+    "displayName": "Leyawiin Wheel, Splintered Axle",
+    "values": {
+      "commonRange": "160 - 2,500",
+      "averagePrice": 1313,
+      "minimumPrice": 40,
+      "maximumPrice": 3360,
+      "averageStackPrice": 1313,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/28/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

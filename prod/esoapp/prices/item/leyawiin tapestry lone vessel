@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin tapestry lone vessel",
+    "displayName": "Leyawiin Tapestry, Lone Vessel",
+    "values": {
+      "commonRange": "217 - 2,904",
+      "averagePrice": 1524,
+      "minimumPrice": 217,
+      "maximumPrice": 2904,
+      "averageStackPrice": 1524,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

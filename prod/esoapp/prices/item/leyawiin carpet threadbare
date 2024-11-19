@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin carpet threadbare",
+    "displayName": "Leyawiin Carpet, Threadbare",
+    "values": {
+      "commonRange": "500 - 3,000",
+      "averagePrice": 1425,
+      "minimumPrice": 360,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1425,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

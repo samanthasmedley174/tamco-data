@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin carpet small worn",
+    "displayName": "Leyawiin Carpet, Small Worn",
+    "values": {
+      "commonRange": "500 - 3,000",
+      "averagePrice": 1436,
+      "minimumPrice": 55,
+      "maximumPrice": 3060,
+      "averageStackPrice": 1436,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

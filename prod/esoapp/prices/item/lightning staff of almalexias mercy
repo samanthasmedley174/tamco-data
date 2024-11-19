@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of almalexias mercy",
+    "displayName": "Lightning Staff of Almalexia's Mercy",
+    "values": {
+      "commonRange": "2,345 - 10,246",
+      "averagePrice": 8939,
+      "minimumPrice": 1246,
+      "maximumPrice": 20246,
+      "averageStackPrice": 8939,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

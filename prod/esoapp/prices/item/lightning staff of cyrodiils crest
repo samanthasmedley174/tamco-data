@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of cyrodiils crest",
+    "displayName": "Lightning Staff of Cyrodiil's Crest",
+    "values": {
+      "commonRange": "3,000 - 12,500",
+      "averagePrice": 7064,
+      "minimumPrice": 2240,
+      "maximumPrice": 20000,
+      "averageStackPrice": 7064,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

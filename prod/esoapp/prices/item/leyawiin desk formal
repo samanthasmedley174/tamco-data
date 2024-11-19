@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin desk formal",
+    "displayName": "Leyawiin Desk, Formal",
+    "values": {
+      "commonRange": "15,000 - 30,000",
+      "averagePrice": 25086,
+      "minimumPrice": 13000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 25086,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

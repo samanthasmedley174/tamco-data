@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lamp knights dagger",
+    "displayName": "Lamp Knight's Dagger",
+    "values": {
+      "commonRange": "553 - 3,150",
+      "averagePrice": 2120,
+      "minimumPrice": 153,
+      "maximumPrice": 5444,
+      "averageStackPrice": 2120,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

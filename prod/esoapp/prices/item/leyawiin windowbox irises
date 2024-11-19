@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin windowbox irises",
+    "displayName": "Leyawiin Windowbox, Irises",
+    "values": {
+      "commonRange": "2,250 - 7,000",
+      "averagePrice": 4740,
+      "minimumPrice": 200,
+      "maximumPrice": 7700,
+      "averageStackPrice": 4740,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin amphora elegant",
+    "displayName": "Leyawiin Amphora, Elegant",
+    "values": {
+      "commonRange": "3,030 - 12,900",
+      "averagePrice": 6666,
+      "minimumPrice": 1000,
+      "maximumPrice": 12900,
+      "averageStackPrice": 6666,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

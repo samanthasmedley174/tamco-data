@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin cabinet sturdy",
+    "displayName": "Leyawiin Cabinet, Sturdy",
+    "values": {
+      "commonRange": "8,000 - 16,000",
+      "averagePrice": 13400,
+      "minimumPrice": 5000,
+      "maximumPrice": 17000,
+      "averageStackPrice": 13400,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/28/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

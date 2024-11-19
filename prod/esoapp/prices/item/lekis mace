@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lekis mace",
+    "displayName": "Leki's Mace",
+    "values": {
+      "commonRange": "2,150 - 2,150",
+      "averagePrice": 1656,
+      "minimumPrice": 666,
+      "maximumPrice": 2153,
+      "averageStackPrice": 1656,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

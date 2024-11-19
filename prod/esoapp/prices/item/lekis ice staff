@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lekis ice staff",
+    "displayName": "Leki's Ice Staff",
+    "values": {
+      "commonRange": "5,000 - 6,748",
+      "averagePrice": 5466,
+      "minimumPrice": 334,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5466,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

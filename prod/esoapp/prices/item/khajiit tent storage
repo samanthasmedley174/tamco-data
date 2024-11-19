@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit tent storage",
+    "displayName": "Khajiit Tent, Storage",
+    "values": {
+      "commonRange": "4,950 - 7,231",
+      "averagePrice": 5950,
+      "minimumPrice": 2000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5950,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

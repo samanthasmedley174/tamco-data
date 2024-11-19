@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of baan dars blessing",
+    "displayName": "Lightning Staff of Baan Dar's Blessing",
+    "values": {
+      "commonRange": "1,999 - 2,000",
+      "averagePrice": 1691,
+      "minimumPrice": 456,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1691,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

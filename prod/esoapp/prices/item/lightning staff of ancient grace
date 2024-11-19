@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of ancient grace",
+    "displayName": "Lightning Staff of Ancient Grace",
+    "values": {
+      "commonRange": "1,000 - 12,246",
+      "averagePrice": 4620,
+      "minimumPrice": 1000,
+      "maximumPrice": 17500,
+      "averageStackPrice": 4620,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

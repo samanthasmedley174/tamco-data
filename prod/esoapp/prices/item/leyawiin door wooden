@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin door wooden",
+    "displayName": "Leyawiin Door, Wooden",
+    "values": {
+      "commonRange": "1,000 - 5,631",
+      "averagePrice": 3501,
+      "minimumPrice": 400,
+      "maximumPrice": 7500,
+      "averageStackPrice": 3501,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

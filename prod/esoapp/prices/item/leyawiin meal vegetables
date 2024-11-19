@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin meal vegetables",
+    "displayName": "Leyawiin Meal, Vegetables",
+    "values": {
+      "commonRange": "5,000 - 12,850",
+      "averagePrice": 8629,
+      "minimumPrice": 2631,
+      "maximumPrice": 12850,
+      "averageStackPrice": 8629,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

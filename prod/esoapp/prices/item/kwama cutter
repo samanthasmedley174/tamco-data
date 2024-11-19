@@ -1,0 +1,18 @@
+[
+  {
+    "name": "kwama cutter",
+    "displayName": "Kwama-Cutter",
+    "values": {
+      "commonRange": "300 - 500",
+      "averagePrice": 564,
+      "minimumPrice": 228,
+      "maximumPrice": 1228,
+      "averageStackPrice": 564,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

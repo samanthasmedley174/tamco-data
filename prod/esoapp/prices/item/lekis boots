@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lekis boots",
+    "displayName": "Leki's Boots",
+    "values": {
+      "commonRange": "999 - 999",
+      "averagePrice": 794,
+      "minimumPrice": 90,
+      "maximumPrice": 1087,
+      "averageStackPrice": 794,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

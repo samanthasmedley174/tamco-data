@@ -1,0 +1,18 @@
+[
+  {
+    "name": "life in repose painting wood",
+    "displayName": "Life in Repose Painting, Wood",
+    "values": {
+      "commonRange": "7,000 - 24,250",
+      "averagePrice": 14939,
+      "minimumPrice": 3000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 14939,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

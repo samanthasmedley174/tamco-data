@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin tomatoes vine",
+    "displayName": "Leyawiin Tomatoes, Vine",
+    "values": {
+      "commonRange": "560 - 4,450",
+      "averagePrice": 2846,
+      "minimumPrice": 160,
+      "maximumPrice": 6000,
+      "averageStackPrice": 2846,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

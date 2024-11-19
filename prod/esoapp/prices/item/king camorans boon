@@ -1,0 +1,18 @@
+[
+  {
+    "name": "king camorans boon",
+    "displayName": "King Camoran's Boon",
+    "values": {
+      "commonRange": "571 - 571",
+      "averagePrice": 447,
+      "minimumPrice": 171,
+      "maximumPrice": 600,
+      "averageStackPrice": 447,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

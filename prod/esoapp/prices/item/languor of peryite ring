@@ -1,0 +1,18 @@
+[
+  {
+    "name": "languor of peryite ring",
+    "displayName": "Languor of Peryite Ring",
+    "values": {
+      "commonRange": "950 - 2,200",
+      "averagePrice": 1557,
+      "minimumPrice": 800,
+      "maximumPrice": 2800,
+      "averageStackPrice": 1557,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

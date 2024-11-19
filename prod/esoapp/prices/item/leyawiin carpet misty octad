@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin carpet misty octad",
+    "displayName": "Leyawiin Carpet, Misty Octad",
+    "values": {
+      "commonRange": "1,386 - 2,792",
+      "averagePrice": 2314,
+      "minimumPrice": 1000,
+      "maximumPrice": 2792,
+      "averageStackPrice": 2314,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

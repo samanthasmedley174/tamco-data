@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin bed formal single",
+    "displayName": "Leyawiin Bed, Formal Single",
+    "values": {
+      "commonRange": "5,999 - 14,500",
+      "averagePrice": 11886,
+      "minimumPrice": 5500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 11886,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

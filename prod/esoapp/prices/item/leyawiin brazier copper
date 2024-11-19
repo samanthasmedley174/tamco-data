@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin brazier copper",
+    "displayName": "Leyawiin Brazier, Copper",
+    "values": {
+      "commonRange": "5,000 - 10,300",
+      "averagePrice": 8510,
+      "minimumPrice": 4000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 8510,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/14/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

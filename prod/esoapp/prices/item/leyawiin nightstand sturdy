@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin nightstand sturdy",
+    "displayName": "Leyawiin Nightstand, Sturdy",
+    "values": {
+      "commonRange": "360 - 5,000",
+      "averagePrice": 2416,
+      "minimumPrice": 50,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2416,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/14/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

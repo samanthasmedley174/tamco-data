@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of cyrodiils light",
+    "displayName": "Lightning Staff of Cyrodiil's Light",
+    "values": {
+      "commonRange": "1,700 - 2,730",
+      "averagePrice": 2312,
+      "minimumPrice": 750,
+      "maximumPrice": 4246,
+      "averageStackPrice": 2312,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

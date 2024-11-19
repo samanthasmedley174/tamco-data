@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin tapestry floral",
+    "displayName": "Leyawiin Tapestry, Floral",
+    "values": {
+      "commonRange": "2,000 - 5,000",
+      "averagePrice": 4144,
+      "minimumPrice": 1735,
+      "maximumPrice": 10300,
+      "averageStackPrice": 4144,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

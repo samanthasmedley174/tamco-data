@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin bench cushioned wide",
+    "displayName": "Leyawiin Bench, Cushioned Wide",
+    "values": {
+      "commonRange": "5,000 - 12,000",
+      "averagePrice": 8408,
+      "minimumPrice": 3000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 8408,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

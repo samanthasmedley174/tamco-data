@@ -1,0 +1,18 @@
+[
+  {
+    "name": "knight slayer ring",
+    "displayName": "Knight Slayer Ring",
+    "values": {
+      "commonRange": "653 - 15,153",
+      "averagePrice": 4526,
+      "minimumPrice": 300,
+      "maximumPrice": 30156,
+      "averageStackPrice": 4526,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

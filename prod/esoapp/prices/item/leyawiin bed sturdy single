@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin bed sturdy single",
+    "displayName": "Leyawiin Bed, Sturdy Single",
+    "values": {
+      "commonRange": "2,000 - 7,150",
+      "averagePrice": 5050,
+      "minimumPrice": 950,
+      "maximumPrice": 12000,
+      "averageStackPrice": 5050,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Furnishings",
+    "date": "10/25/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

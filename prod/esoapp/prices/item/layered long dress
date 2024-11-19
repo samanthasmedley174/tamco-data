@@ -1,0 +1,18 @@
+[
+  {
+    "name": "layered long dress",
+    "displayName": "Layered Long Dress",
+    "values": {
+      "commonRange": "25 - 155",
+      "averagePrice": 156,
+      "minimumPrice": 18,
+      "maximumPrice": 500,
+      "averageStackPrice": 156,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

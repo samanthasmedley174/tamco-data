@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin end table formal round",
+    "displayName": "Leyawiin End Table, Formal Round",
+    "values": {
+      "commonRange": "7,150 - 12,500",
+      "averagePrice": 10356,
+      "minimumPrice": 6000,
+      "maximumPrice": 13150,
+      "averageStackPrice": 10356,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

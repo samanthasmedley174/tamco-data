@@ -1,0 +1,18 @@
+[
+  {
+    "name": "last seed salad",
+    "displayName": "Last Seed Salad",
+    "values": {
+      "commonRange": "6 - 49",
+      "averagePrice": 16,
+      "minimumPrice": 6,
+      "maximumPrice": 56,
+      "averageStackPrice": 1600,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "04/18/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/last_seed_salad.png"
+  }
+]

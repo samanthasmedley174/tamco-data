@@ -1,0 +1,18 @@
+[
+  {
+    "name": "late hearthfire vegetable tart",
+    "displayName": "Late Hearthfire Vegetable Tart",
+    "values": {
+      "commonRange": "25 - 65",
+      "averagePrice": 44,
+      "minimumPrice": 25,
+      "maximumPrice": 88,
+      "averageStackPrice": 4400,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/late_hearthfire_vegetable_tart.png"
+  }
+]

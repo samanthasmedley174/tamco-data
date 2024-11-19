@@ -1,0 +1,18 @@
+[
+  {
+    "name": "light as art painting wood",
+    "displayName": "Light as Art Painting, Wood",
+    "values": {
+      "commonRange": "80,000 - 125,000",
+      "averagePrice": 102781,
+      "minimumPrice": 75000,
+      "maximumPrice": 150000,
+      "averageStackPrice": 102781,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

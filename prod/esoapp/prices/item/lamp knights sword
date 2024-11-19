@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lamp knights sword",
+    "displayName": "Lamp Knight's Sword",
+    "values": {
+      "commonRange": "350 - 4,153",
+      "averagePrice": 1631,
+      "minimumPrice": 344,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1631,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

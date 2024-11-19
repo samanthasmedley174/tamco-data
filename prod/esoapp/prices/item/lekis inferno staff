@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lekis inferno staff",
+    "displayName": "Leki's Inferno Staff",
+    "values": {
+      "commonRange": "1,612 - 2,912",
+      "averagePrice": 2652,
+      "minimumPrice": 1246,
+      "maximumPrice": 5246,
+      "averageStackPrice": 2652,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

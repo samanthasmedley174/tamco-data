@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin tapestry hunting party",
+    "displayName": "Leyawiin Tapestry, Hunting Party",
+    "values": {
+      "commonRange": "12,675 - 17,442",
+      "averagePrice": 17149,
+      "minimumPrice": 12000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 17149,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

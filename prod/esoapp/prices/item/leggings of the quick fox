@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leggings of the quick fox",
+    "displayName": "Leggings of the Quick Fox",
+    "values": {
+      "commonRange": "271 - 850",
+      "averagePrice": 511,
+      "minimumPrice": 171,
+      "maximumPrice": 1171,
+      "averageStackPrice": 511,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lekis helmet",
+    "displayName": "Leki's Helmet",
+    "values": {
+      "commonRange": "299 - 1,150",
+      "averagePrice": 1742,
+      "minimumPrice": 153,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1742,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

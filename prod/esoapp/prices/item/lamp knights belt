@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lamp knights belt",
+    "displayName": "Lamp Knight's Belt",
+    "values": {
+      "commonRange": "331 - 5,490",
+      "averagePrice": 2577,
+      "minimumPrice": 90,
+      "maximumPrice": 49990,
+      "averageStackPrice": 2577,
+      "commonStackSize": 1,
+      "salesRecorded": 99
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

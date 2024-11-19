@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lekis axe",
+    "displayName": "Leki's Axe",
+    "values": {
+      "commonRange": "4,150 - 4,950",
+      "averagePrice": 4640,
+      "minimumPrice": 3999,
+      "maximumPrice": 5150,
+      "averageStackPrice": 4640,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

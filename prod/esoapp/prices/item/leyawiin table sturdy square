@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin table sturdy square",
+    "displayName": "Leyawiin Table, Sturdy Square",
+    "values": {
+      "commonRange": "1,500 - 6,000",
+      "averagePrice": 3016,
+      "minimumPrice": 60,
+      "maximumPrice": 6000,
+      "averageStackPrice": 3016,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "12/24/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

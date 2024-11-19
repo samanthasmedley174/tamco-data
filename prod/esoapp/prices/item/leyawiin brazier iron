@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin brazier iron",
+    "displayName": "Leyawiin Brazier, Iron",
+    "values": {
+      "commonRange": "2,500 - 4,900",
+      "averagePrice": 3984,
+      "minimumPrice": 560,
+      "maximumPrice": 6950,
+      "averageStackPrice": 3984,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/26/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

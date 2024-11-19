@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin tapestry twin vessels",
+    "displayName": "Leyawiin Tapestry, Twin Vessels",
+    "values": {
+      "commonRange": "1,541 - 2,621",
+      "averagePrice": 2156,
+      "minimumPrice": 1022,
+      "maximumPrice": 3000,
+      "averageStackPrice": 2156,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

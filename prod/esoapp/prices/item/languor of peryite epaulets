@@ -1,0 +1,18 @@
+[
+  {
+    "name": "languor of peryite epaulets",
+    "displayName": "Languor of Peryite Epaulets",
+    "values": {
+      "commonRange": "299 - 1,153",
+      "averagePrice": 937,
+      "minimumPrice": 280,
+      "maximumPrice": 2000,
+      "averageStackPrice": 937,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

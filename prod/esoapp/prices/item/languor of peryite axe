@@ -1,0 +1,18 @@
+[
+  {
+    "name": "languor of peryite axe",
+    "displayName": "Languor of Peryite Axe",
+    "values": {
+      "commonRange": "1,153 - 3,150",
+      "averagePrice": 2088,
+      "minimumPrice": 900,
+      "maximumPrice": 3150,
+      "averageStackPrice": 2088,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

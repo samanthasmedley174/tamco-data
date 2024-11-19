@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lamp knights jack",
+    "displayName": "Lamp Knight's Jack",
+    "values": {
+      "commonRange": "330 - 4,868",
+      "averagePrice": 1832,
+      "minimumPrice": 180,
+      "maximumPrice": 11000,
+      "averageStackPrice": 1832,
+      "commonStackSize": 1,
+      "salesRecorded": 102
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

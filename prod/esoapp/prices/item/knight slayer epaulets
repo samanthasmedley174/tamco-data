@@ -1,0 +1,18 @@
+[
+  {
+    "name": "knight slayer epaulets",
+    "displayName": "Knight Slayer Epaulets",
+    "values": {
+      "commonRange": "381 - 2,050",
+      "averagePrice": 1338,
+      "minimumPrice": 250,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1338,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

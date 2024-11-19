@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin jewelry box iron octopus",
+    "displayName": "Leyawiin Jewelry Box, Iron Octopus",
+    "values": {
+      "commonRange": "14,300 - 15,838",
+      "averagePrice": 15752,
+      "minimumPrice": 14300,
+      "maximumPrice": 22300,
+      "averageStackPrice": 15752,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

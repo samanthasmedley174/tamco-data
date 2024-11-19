@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit wagon reed",
+    "displayName": "Khajiit Wagon, Reed",
+    "values": {
+      "commonRange": "2,200 - 8,150",
+      "averagePrice": 5658,
+      "minimumPrice": 1000,
+      "maximumPrice": 10900,
+      "averageStackPrice": 5658,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

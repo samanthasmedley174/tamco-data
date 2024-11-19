@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin wall straight garden",
+    "displayName": "Leyawiin Wall, Straight Garden",
+    "values": {
+      "commonRange": "2,000 - 8,070",
+      "averagePrice": 4288,
+      "minimumPrice": 2000,
+      "maximumPrice": 11060,
+      "averageStackPrice": 8576,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

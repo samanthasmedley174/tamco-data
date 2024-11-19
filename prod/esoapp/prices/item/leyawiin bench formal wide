@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin bench formal wide",
+    "displayName": "Leyawiin Bench, Formal Wide",
+    "values": {
+      "commonRange": "4,000 - 6,950",
+      "averagePrice": 5960,
+      "minimumPrice": 3900,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5960,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/24/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

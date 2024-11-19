@@ -1,0 +1,18 @@
+[
+  {
+    "name": "knight slayer sword",
+    "displayName": "Knight Slayer Sword",
+    "values": {
+      "commonRange": "1,150 - 2,948",
+      "averagePrice": 2124,
+      "minimumPrice": 896,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2124,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

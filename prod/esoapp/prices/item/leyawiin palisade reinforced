@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin palisade reinforced",
+    "displayName": "Leyawiin Palisade, Reinforced",
+    "values": {
+      "commonRange": "1,085 - 3,483",
+      "averagePrice": 2218,
+      "minimumPrice": 216,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2218,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

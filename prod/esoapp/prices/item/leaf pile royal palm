@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leaf pile royal palm",
+    "displayName": "Leaf Pile, Royal Palm",
+    "values": {
+      "commonRange": "800 - 1,522",
+      "averagePrice": 1149,
+      "minimumPrice": 400,
+      "maximumPrice": 1522,
+      "averageStackPrice": 1149,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

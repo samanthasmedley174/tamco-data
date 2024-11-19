@@ -1,0 +1,18 @@
+[
+  {
+    "name": "languor of peryite sword",
+    "displayName": "Languor of Peryite Sword",
+    "values": {
+      "commonRange": "644 - 4,000",
+      "averagePrice": 2324,
+      "minimumPrice": 450,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2324,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

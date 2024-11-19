@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin bowl lobster stew",
+    "displayName": "Leyawiin Bowl, Lobster Stew",
+    "values": {
+      "commonRange": "7,000 - 13,650",
+      "averagePrice": 10076,
+      "minimumPrice": 3000,
+      "maximumPrice": 13650,
+      "averageStackPrice": 10076,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

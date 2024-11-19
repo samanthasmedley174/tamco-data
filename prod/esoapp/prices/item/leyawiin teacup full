@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin teacup full",
+    "displayName": "Leyawiin Teacup, Full",
+    "values": {
+      "commonRange": "1,000 - 3,300",
+      "averagePrice": 1571,
+      "minimumPrice": 200,
+      "maximumPrice": 3497,
+      "averageStackPrice": 1571,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

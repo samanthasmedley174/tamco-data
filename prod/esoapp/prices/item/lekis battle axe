@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lekis battle axe",
+    "displayName": "Leki's Battle Axe",
+    "values": {
+      "commonRange": "1,500 - 4,500",
+      "averagePrice": 6875,
+      "minimumPrice": 1500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 6875,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin platter seafood",
+    "displayName": "Leyawiin Platter, Seafood",
+    "values": {
+      "commonRange": "3,000 - 8,800",
+      "averagePrice": 6840,
+      "minimumPrice": 3000,
+      "maximumPrice": 8880,
+      "averageStackPrice": 6840,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

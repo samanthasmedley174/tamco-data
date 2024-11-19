@@ -1,0 +1,18 @@
+[
+  {
+    "name": "late summer corn slaw",
+    "displayName": "Late-Summer Corn Slaw",
+    "values": {
+      "commonRange": "3 - 15",
+      "averagePrice": 9,
+      "minimumPrice": 3,
+      "maximumPrice": 15,
+      "averageStackPrice": 9,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Food & Drinks",
+    "date": "01/26/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/late-summer_corn_slaw.png"
+  }
+]

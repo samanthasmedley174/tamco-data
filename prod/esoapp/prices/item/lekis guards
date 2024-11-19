@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lekis guards",
+    "displayName": "Leki's Guards",
+    "values": {
+      "commonRange": "580 - 7,000",
+      "averagePrice": 2887,
+      "minimumPrice": 574,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2887,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

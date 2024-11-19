@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin clothesline pulleys",
+    "displayName": "Leyawiin Clothesline, Pulleys",
+    "values": {
+      "commonRange": "4,500 - 13,900",
+      "averagePrice": 9569,
+      "minimumPrice": 4500,
+      "maximumPrice": 15123,
+      "averageStackPrice": 9569,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

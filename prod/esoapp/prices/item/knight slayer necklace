@@ -1,0 +1,18 @@
+[
+  {
+    "name": "knight slayer necklace",
+    "displayName": "Knight Slayer Necklace",
+    "values": {
+      "commonRange": "330 - 5,000",
+      "averagePrice": 2578,
+      "minimumPrice": 105,
+      "maximumPrice": 5896,
+      "averageStackPrice": 2578,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

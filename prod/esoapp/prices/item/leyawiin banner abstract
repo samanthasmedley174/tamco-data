@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin banner abstract",
+    "displayName": "Leyawiin Banner, Abstract",
+    "values": {
+      "commonRange": "560 - 3,969",
+      "averagePrice": 2658,
+      "minimumPrice": 60,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2658,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/16/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

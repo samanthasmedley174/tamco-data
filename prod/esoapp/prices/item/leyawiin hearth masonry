@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin hearth masonry",
+    "displayName": "Leyawiin Hearth, Masonry",
+    "values": {
+      "commonRange": "6,000 - 11,800",
+      "averagePrice": 9147,
+      "minimumPrice": 5300,
+      "maximumPrice": 13000,
+      "averageStackPrice": 9147,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

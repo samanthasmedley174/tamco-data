@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin trousers strewn",
+    "displayName": "Leyawiin Trousers, Strewn",
+    "values": {
+      "commonRange": "315 - 2,500",
+      "averagePrice": 1753,
+      "minimumPrice": 315,
+      "maximumPrice": 2500,
+      "averageStackPrice": 1753,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin cupboard formal",
+    "displayName": "Leyawiin Cupboard, Formal",
+    "values": {
+      "commonRange": "5,000 - 16,300",
+      "averagePrice": 10055,
+      "minimumPrice": 4100,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10055,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

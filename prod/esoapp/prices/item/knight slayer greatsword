@@ -1,0 +1,18 @@
+[
+  {
+    "name": "knight slayer greatsword",
+    "displayName": "Knight Slayer Greatsword",
+    "values": {
+      "commonRange": "986 - 5,333",
+      "averagePrice": 3413,
+      "minimumPrice": 546,
+      "maximumPrice": 5546,
+      "averageStackPrice": 3413,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

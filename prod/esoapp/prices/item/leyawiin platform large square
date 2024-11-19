@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin platform large square",
+    "displayName": "Leyawiin Platform, Large Square",
+    "values": {
+      "commonRange": "5,000 - 7,749",
+      "averagePrice": 6576,
+      "minimumPrice": 3000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6576,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

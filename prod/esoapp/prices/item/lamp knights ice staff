@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lamp knights ice staff",
+    "displayName": "Lamp Knight's Ice Staff",
+    "values": {
+      "commonRange": "546 - 5,991",
+      "averagePrice": 3855,
+      "minimumPrice": 240,
+      "maximumPrice": 20246,
+      "averageStackPrice": 3855,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin pot waves",
+    "displayName": "Leyawiin Pot, Waves",
+    "values": {
+      "commonRange": "2,200 - 7,500",
+      "averagePrice": 5519,
+      "minimumPrice": 2150,
+      "maximumPrice": 10950,
+      "averageStackPrice": 5519,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "02/08/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin cupboard sturdy",
+    "displayName": "Leyawiin Cupboard, Sturdy",
+    "values": {
+      "commonRange": "2,150 - 6,500",
+      "averagePrice": 4075,
+      "minimumPrice": 1150,
+      "maximumPrice": 7000,
+      "averageStackPrice": 4075,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Furnishings",
+    "date": "06/14/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

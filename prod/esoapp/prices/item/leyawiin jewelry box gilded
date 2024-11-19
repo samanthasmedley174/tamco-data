@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin jewelry box gilded",
+    "displayName": "Leyawiin Jewelry Box, Gilded",
+    "values": {
+      "commonRange": "5,200 - 19,349",
+      "averagePrice": 11357,
+      "minimumPrice": 1300,
+      "maximumPrice": 19349,
+      "averageStackPrice": 11357,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

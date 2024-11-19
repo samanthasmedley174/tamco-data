@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiit sofa padded",
+    "displayName": "Khajiit Sofa, Padded",
+    "values": {
+      "commonRange": "7,950 - 9,900",
+      "averagePrice": 8978,
+      "minimumPrice": 5900,
+      "maximumPrice": 11000,
+      "averageStackPrice": 8978,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

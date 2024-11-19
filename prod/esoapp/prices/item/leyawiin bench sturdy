@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin bench sturdy",
+    "displayName": "Leyawiin Bench, Sturdy",
+    "values": {
+      "commonRange": "1,085 - 4,000",
+      "averagePrice": 2678,
+      "minimumPrice": 500,
+      "maximumPrice": 4060,
+      "averageStackPrice": 2678,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Furnishings",
+    "date": "08/30/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

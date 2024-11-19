@@ -1,0 +1,18 @@
+[
+  {
+    "name": "knight commander tapestry",
+    "displayName": "Knight Commander Tapestry",
+    "values": {
+      "commonRange": "1,500 - 6,000",
+      "averagePrice": 3492,
+      "minimumPrice": 1150,
+      "maximumPrice": 9781,
+      "averageStackPrice": 3492,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

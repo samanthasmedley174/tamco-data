@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ladys smock",
+    "displayName": "Lady's Smock",
+    "values": {
+      "commonRange": "24 - 60",
+      "averagePrice": 37,
+      "minimumPrice": 4,
+      "maximumPrice": 145,
+      "averageStackPrice": 7400,
+      "commonStackSize": 200,
+      "salesRecorded": 128
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

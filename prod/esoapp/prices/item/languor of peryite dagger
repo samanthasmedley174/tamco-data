@@ -1,0 +1,18 @@
+[
+  {
+    "name": "languor of peryite dagger",
+    "displayName": "Languor of Peryite Dagger",
+    "values": {
+      "commonRange": "844 - 5,575",
+      "averagePrice": 3820,
+      "minimumPrice": 350,
+      "maximumPrice": 9150,
+      "averageStackPrice": 3820,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

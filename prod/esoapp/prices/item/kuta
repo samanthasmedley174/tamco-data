@@ -1,0 +1,18 @@
+[
+  {
+    "name": "kuta",
+    "displayName": "Kuta",
+    "values": {
+      "commonRange": "3,000 - 5,000",
+      "averagePrice": 3677,
+      "minimumPrice": 106,
+      "maximumPrice": 8000,
+      "averageStackPrice": 3677,
+      "commonStackSize": 1,
+      "salesRecorded": 959
+    },
+    "type": "Enchanting Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Kuta.png"
+  }
+]

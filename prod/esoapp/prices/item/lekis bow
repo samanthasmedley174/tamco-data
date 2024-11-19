@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lekis bow",
+    "displayName": "Leki's Bow",
+    "values": {
+      "commonRange": "7,500 - 27,470",
+      "averagePrice": 22897,
+      "minimumPrice": 4940,
+      "maximumPrice": 50000,
+      "averageStackPrice": 22897,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

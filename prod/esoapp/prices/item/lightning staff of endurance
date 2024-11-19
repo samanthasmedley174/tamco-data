@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of endurance",
+    "displayName": "Lightning Staff of Endurance",
+    "values": {
+      "commonRange": "500 - 3,340",
+      "averagePrice": 1619,
+      "minimumPrice": 100,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1619,
+      "commonStackSize": 1,
+      "salesRecorded": 43
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

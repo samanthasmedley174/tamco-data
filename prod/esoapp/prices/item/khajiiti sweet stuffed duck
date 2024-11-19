@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khajiiti sweet stuffed duck",
+    "displayName": "Khajiiti Sweet-Stuffed Duck",
+    "values": {
+      "commonRange": "15 - 48",
+      "averagePrice": 40,
+      "minimumPrice": 15,
+      "maximumPrice": 80,
+      "averageStackPrice": 40,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "02/09/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/khajiiti_sweet-stuffed_duck.png"
+  }
+]

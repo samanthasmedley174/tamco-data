@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leg guards of loyalty",
+    "displayName": "Leg Guards of Loyalty",
+    "values": {
+      "commonRange": "400 - 400",
+      "averagePrice": 540,
+      "minimumPrice": 220,
+      "maximumPrice": 1000,
+      "averageStackPrice": 540,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

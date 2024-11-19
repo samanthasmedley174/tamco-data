@@ -1,0 +1,18 @@
+[
+  {
+    "name": "khenarthis roost treasure map iv",
+    "displayName": "Khenarthi's Roost Treasure Map IV",
+    "values": {
+      "commonRange": "100 - 300",
+      "averagePrice": 217,
+      "minimumPrice": 50,
+      "maximumPrice": 1000,
+      "averageStackPrice": 217,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

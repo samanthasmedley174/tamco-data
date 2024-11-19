@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin streetlight carved waves",
+    "displayName": "Leyawiin Streetlight, Carved Waves",
+    "values": {
+      "commonRange": "2,150 - 16,000",
+      "averagePrice": 8006,
+      "minimumPrice": 2000,
+      "maximumPrice": 16000,
+      "averageStackPrice": 8006,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/22/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

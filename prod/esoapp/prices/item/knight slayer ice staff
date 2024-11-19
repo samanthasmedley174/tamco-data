@@ -1,0 +1,18 @@
+[
+  {
+    "name": "knight slayer ice staff",
+    "displayName": "Knight Slayer Ice Staff",
+    "values": {
+      "commonRange": "2,246 - 90,000",
+      "averagePrice": 22049,
+      "minimumPrice": 1246,
+      "maximumPrice": 110000,
+      "averageStackPrice": 22049,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

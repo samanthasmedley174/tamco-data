@@ -1,0 +1,18 @@
+[
+  {
+    "name": "kura",
+    "displayName": "Kura",
+    "values": {
+      "commonRange": "50 - 71",
+      "averagePrice": 55,
+      "minimumPrice": 9,
+      "maximumPrice": 75,
+      "averageStackPrice": 11000,
+      "commonStackSize": 200,
+      "salesRecorded": 11
+    },
+    "type": "Enchanting Materials",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Kura.png"
+  }
+]

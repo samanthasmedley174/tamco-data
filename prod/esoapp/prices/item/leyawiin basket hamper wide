@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin basket hamper wide",
+    "displayName": "Leyawiin Basket, Hamper Wide",
+    "values": {
+      "commonRange": "4,800 - 15,150",
+      "averagePrice": 8612,
+      "minimumPrice": 4800,
+      "maximumPrice": 20150,
+      "averageStackPrice": 8612,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

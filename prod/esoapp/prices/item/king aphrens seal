@@ -1,0 +1,18 @@
+[
+  {
+    "name": "king aphrens seal",
+    "displayName": "King Aphren's Seal",
+    "values": {
+      "commonRange": "400 - 400",
+      "averagePrice": 400,
+      "minimumPrice": 400,
+      "maximumPrice": 400,
+      "averageStackPrice": 400,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

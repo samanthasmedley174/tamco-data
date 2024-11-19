@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lemon display",
+    "displayName": "Lemon, Display",
+    "values": {
+      "commonRange": "4,000 - 5,000",
+      "averagePrice": 4494,
+      "minimumPrice": 2000,
+      "maximumPrice": 5088,
+      "averageStackPrice": 4494,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

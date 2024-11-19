@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lamp knights restoration staff",
+    "displayName": "Lamp Knight's Restoration Staff",
+    "values": {
+      "commonRange": "300 - 3,240",
+      "averagePrice": 1338,
+      "minimumPrice": 200,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1338,
+      "commonStackSize": 1,
+      "salesRecorded": 68
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

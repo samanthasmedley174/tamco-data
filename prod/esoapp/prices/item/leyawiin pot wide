@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin pot wide",
+    "displayName": "Leyawiin Pot, Wide",
+    "values": {
+      "commonRange": "1,000 - 6,060",
+      "averagePrice": 3713,
+      "minimumPrice": 1000,
+      "maximumPrice": 11060,
+      "averageStackPrice": 3713,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/13/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

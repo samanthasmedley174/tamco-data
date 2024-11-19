@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin bowl squid special",
+    "displayName": "Leyawiin Bowl, Squid Special",
+    "values": {
+      "commonRange": "15,000 - 27,500",
+      "averagePrice": 21520,
+      "minimumPrice": 10000,
+      "maximumPrice": 34975,
+      "averageStackPrice": 21520,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

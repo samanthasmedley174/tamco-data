@@ -1,0 +1,18 @@
+[
+  {
+    "name": "languor of peryite hat",
+    "displayName": "Languor of Peryite Hat",
+    "values": {
+      "commonRange": "943 - 3,999",
+      "averagePrice": 1833,
+      "minimumPrice": 299,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1833,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

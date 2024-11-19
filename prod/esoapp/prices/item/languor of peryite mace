@@ -1,0 +1,18 @@
+[
+  {
+    "name": "languor of peryite mace",
+    "displayName": "Languor of Peryite Mace",
+    "values": {
+      "commonRange": "5,000 - 5,000",
+      "averagePrice": 9081,
+      "minimumPrice": 243,
+      "maximumPrice": 22000,
+      "averageStackPrice": 9081,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of dark convergence",
+    "displayName": "Lightning Staff of Dark Convergence",
+    "values": {
+      "commonRange": "3,000 - 36,224",
+      "averagePrice": 21743,
+      "minimumPrice": 1200,
+      "maximumPrice": 175000,
+      "averageStackPrice": 21743,
+      "commonStackSize": 1,
+      "salesRecorded": 70
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

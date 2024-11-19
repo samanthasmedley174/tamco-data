@@ -1,0 +1,18 @@
+[
+  {
+    "name": "knight slayer sash",
+    "displayName": "Knight Slayer Sash",
+    "values": {
+      "commonRange": "287 - 8,681",
+      "averagePrice": 2594,
+      "minimumPrice": 90,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2594,
+      "commonStackSize": 1,
+      "salesRecorded": 53
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

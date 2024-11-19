@@ -1,0 +1,18 @@
+[
+  {
+    "name": "languor of peryite sash",
+    "displayName": "Languor of Peryite Sash",
+    "values": {
+      "commonRange": "300 - 1,995",
+      "averagePrice": 1463,
+      "minimumPrice": 200,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1463,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

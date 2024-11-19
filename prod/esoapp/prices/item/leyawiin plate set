@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin plate set",
+    "displayName": "Leyawiin Plate, Set",
+    "values": {
+      "commonRange": "2,000 - 3,000",
+      "averagePrice": 2424,
+      "minimumPrice": 1000,
+      "maximumPrice": 3032,
+      "averageStackPrice": 4848,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

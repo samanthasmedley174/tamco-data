@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lamp knights ring",
+    "displayName": "Lamp Knight's Ring",
+    "values": {
+      "commonRange": "500 - 21,156",
+      "averagePrice": 5888,
+      "minimumPrice": 244,
+      "maximumPrice": 40156,
+      "averageStackPrice": 5888,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "knight slayer gloves",
+    "displayName": "Knight Slayer Gloves",
+    "values": {
+      "commonRange": "687 - 11,032",
+      "averagePrice": 4524,
+      "minimumPrice": 90,
+      "maximumPrice": 50000,
+      "averageStackPrice": 4524,
+      "commonStackSize": 1,
+      "salesRecorded": 47
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

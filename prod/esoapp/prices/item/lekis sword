@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lekis sword",
+    "displayName": "Leki's Sword",
+    "values": {
+      "commonRange": "3,999 - 3,999",
+      "averagePrice": 3999,
+      "minimumPrice": 3999,
+      "maximumPrice": 3999,
+      "averageStackPrice": 3999,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

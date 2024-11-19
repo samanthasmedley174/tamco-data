@@ -1,0 +1,18 @@
+[
+  {
+    "name": "leyawiin pot domed",
+    "displayName": "Leyawiin Pot, Domed",
+    "values": {
+      "commonRange": "1,560 - 3,300",
+      "averagePrice": 2675,
+      "minimumPrice": 1500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2675,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

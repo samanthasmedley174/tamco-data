@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mourning dew",
+    "displayName": "Mourning Dew",
+    "values": {
+      "commonRange": "13,000 - 24,000",
+      "averagePrice": 18027,
+      "minimumPrice": 10000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 18027,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Provisioning Materials",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

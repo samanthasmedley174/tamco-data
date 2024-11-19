@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mundane rune",
+    "displayName": "Mundane Rune",
+    "values": {
+      "commonRange": "106 - 304",
+      "averagePrice": 258,
+      "minimumPrice": 10,
+      "maximumPrice": 500,
+      "averageStackPrice": 51600,
+      "commonStackSize": 200,
+      "salesRecorded": 206
+    },
+    "type": "Furnishing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

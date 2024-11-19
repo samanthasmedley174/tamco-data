@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire lamp hanging conch",
+    "displayName": "Murkmire Lamp, Hanging Conch",
+    "values": {
+      "commonRange": "5,189 - 8,000",
+      "averagePrice": 6623,
+      "minimumPrice": 5189,
+      "maximumPrice": 8000,
+      "averageStackPrice": 6623,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

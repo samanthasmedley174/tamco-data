@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire bookcase grand",
+    "displayName": "Murkmire Bookcase, Grand",
+    "values": {
+      "commonRange": "5,000 - 18,000",
+      "averagePrice": 13240,
+      "minimumPrice": 500,
+      "maximumPrice": 44300,
+      "averageStackPrice": 13240,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/28/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

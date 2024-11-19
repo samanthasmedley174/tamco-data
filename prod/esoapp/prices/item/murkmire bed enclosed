@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire bed enclosed",
+    "displayName": "Murkmire Bed, Enclosed",
+    "values": {
+      "commonRange": "2,500 - 5,000",
+      "averagePrice": 3674,
+      "minimumPrice": 2150,
+      "maximumPrice": 5770,
+      "averageStackPrice": 3674,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Furnishings",
+    "date": "03/28/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

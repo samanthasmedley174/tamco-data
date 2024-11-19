@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mournhold twister",
+    "displayName": "Mournhold Twister",
+    "values": {
+      "commonRange": "3 - 3",
+      "averagePrice": 3,
+      "minimumPrice": 3,
+      "maximumPrice": 3,
+      "averageStackPrice": 12,
+      "commonStackSize": 4,
+      "salesRecorded": 1
+    },
+    "type": "Food & Drinks",
+    "date": "11/19/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/mournhold_twister.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire bed carved",
+    "displayName": "Murkmire Bed, Carved",
+    "values": {
+      "commonRange": "3,150 - 5,000",
+      "averagePrice": 3644,
+      "minimumPrice": 550,
+      "maximumPrice": 6150,
+      "averageStackPrice": 3644,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Furnishings",
+    "date": "06/14/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

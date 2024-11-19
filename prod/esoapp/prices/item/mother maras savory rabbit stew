@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mother maras savory rabbit stew",
+    "displayName": "Mother Mara's Savory Rabbit Stew",
+    "values": {
+      "commonRange": "12 - 19",
+      "averagePrice": 19,
+      "minimumPrice": 10,
+      "maximumPrice": 50,
+      "averageStackPrice": 950,
+      "commonStackSize": 50,
+      "salesRecorded": 6
+    },
+    "type": "Food & Drinks",
+    "date": "05/31/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/mother_mara's_savory_rabbit_stew.png"
+  }
+]

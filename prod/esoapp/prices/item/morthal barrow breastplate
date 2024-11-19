@@ -1,0 +1,18 @@
+[
+  {
+    "name": "morthal barrow breastplate",
+    "displayName": "Morthal Barrow Breastplate",
+    "values": {
+      "commonRange": "499 - 499",
+      "averagePrice": 726,
+      "minimumPrice": 180,
+      "maximumPrice": 1500,
+      "averageStackPrice": 726,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

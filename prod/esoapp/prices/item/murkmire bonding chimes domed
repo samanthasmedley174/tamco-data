@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire bonding chimes domed",
+    "displayName": "Murkmire Bonding Chimes, Domed",
+    "values": {
+      "commonRange": "5,000 - 15,000",
+      "averagePrice": 9063,
+      "minimumPrice": 5000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9063,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

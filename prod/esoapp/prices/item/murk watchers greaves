@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murk watchers greaves",
+    "displayName": "Murk-Watcher's Greaves",
+    "values": {
+      "commonRange": "1,200 - 2,271",
+      "averagePrice": 1736,
+      "minimumPrice": 1200,
+      "maximumPrice": 2271,
+      "averageStackPrice": 1736,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

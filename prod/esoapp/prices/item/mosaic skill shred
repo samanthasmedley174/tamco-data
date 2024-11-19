@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mosaic skill shred",
+    "displayName": "Mosaic Skill Shred",
+    "values": {
+      "commonRange": "266 - 2,000",
+      "averagePrice": 1057,
+      "minimumPrice": 100,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1057,
+      "commonStackSize": 1,
+      "salesRecorded": 103
+    },
+    "type": "Fragments",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

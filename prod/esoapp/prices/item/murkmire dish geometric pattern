@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire dish geometric pattern",
+    "displayName": "Murkmire Dish, Geometric Pattern",
+    "values": {
+      "commonRange": "1,000 - 5,000",
+      "averagePrice": 2097,
+      "minimumPrice": 162,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2097,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

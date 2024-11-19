@@ -1,0 +1,18 @@
+[
+  {
+    "name": "morning reveille tea",
+    "displayName": "Morning Reveille Tea",
+    "values": {
+      "commonRange": "6 - 30",
+      "averagePrice": 22,
+      "minimumPrice": 6,
+      "maximumPrice": 60,
+      "averageStackPrice": 22,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Food & Drinks",
+    "date": "11/16/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/morning_reveille_tea.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "morrowind vambraces",
+    "displayName": "Morrowind Vambraces",
+    "values": {
+      "commonRange": "250 - 1,384",
+      "averagePrice": 920,
+      "minimumPrice": 250,
+      "maximumPrice": 3000,
+      "averageStackPrice": 920,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "morihaus the archer tapestry",
+    "displayName": "Morihaus the Archer Tapestry",
+    "values": {
+      "commonRange": "1,172 - 3,000",
+      "averagePrice": 2382,
+      "minimumPrice": 1150,
+      "maximumPrice": 4415,
+      "averageStackPrice": 2382,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire candles bone group",
+    "displayName": "Murkmire Candles, Bone Group",
+    "values": {
+      "commonRange": "1,500 - 7,150",
+      "averagePrice": 5389,
+      "minimumPrice": 150,
+      "maximumPrice": 12900,
+      "averageStackPrice": 5389,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

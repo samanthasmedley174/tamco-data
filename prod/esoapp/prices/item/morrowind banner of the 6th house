@@ -1,0 +1,18 @@
+[
+  {
+    "name": "morrowind banner of the 6th house",
+    "displayName": "Morrowind Banner of the 6th House",
+    "values": {
+      "commonRange": "1,000 - 40,807",
+      "averagePrice": 27948,
+      "minimumPrice": 1000,
+      "maximumPrice": 62988,
+      "averageStackPrice": 27948,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire bowl geometric pattern",
+    "displayName": "Murkmire Bowl, Geometric Pattern",
+    "values": {
+      "commonRange": "300 - 1,828",
+      "averagePrice": 1402,
+      "minimumPrice": 80,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1402,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

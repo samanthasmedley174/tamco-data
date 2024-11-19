@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mummy skyward gazing",
+    "displayName": "Mummy, Skyward Gazing",
+    "values": {
+      "commonRange": "5,000 - 16,500",
+      "averagePrice": 11104,
+      "minimumPrice": 2388,
+      "maximumPrice": 16500,
+      "averageStackPrice": 11104,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

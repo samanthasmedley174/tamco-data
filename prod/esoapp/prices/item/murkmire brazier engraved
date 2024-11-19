@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire brazier engraved",
+    "displayName": "Murkmire Brazier, Engraved",
+    "values": {
+      "commonRange": "2,000 - 3,750",
+      "averagePrice": 3138,
+      "minimumPrice": 550,
+      "maximumPrice": 6300,
+      "averageStackPrice": 3138,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "06/14/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

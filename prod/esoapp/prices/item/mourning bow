@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mourning bow",
+    "displayName": "Mourning Bow",
+    "values": {
+      "commonRange": "300 - 300",
+      "averagePrice": 817,
+      "minimumPrice": 276,
+      "maximumPrice": 1875,
+      "averageStackPrice": 817,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

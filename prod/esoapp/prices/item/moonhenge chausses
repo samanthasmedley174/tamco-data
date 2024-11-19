@@ -1,0 +1,18 @@
+[
+  {
+    "name": "moonhenge chausses",
+    "displayName": "Moonhenge Chausses",
+    "values": {
+      "commonRange": "171 - 300",
+      "averagePrice": 236,
+      "minimumPrice": 171,
+      "maximumPrice": 300,
+      "averageStackPrice": 236,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

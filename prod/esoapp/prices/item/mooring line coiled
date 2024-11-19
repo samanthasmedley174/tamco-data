@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mooring line coiled",
+    "displayName": "Mooring Line, Coiled",
+    "values": {
+      "commonRange": "5,000 - 11,000",
+      "averagePrice": 8342,
+      "minimumPrice": 5000,
+      "maximumPrice": 11000,
+      "averageStackPrice": 8342,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

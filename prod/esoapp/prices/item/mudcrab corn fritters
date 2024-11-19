@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mudcrab corn fritters",
+    "displayName": "Mudcrab Corn Fritters",
+    "values": {
+      "commonRange": "16 - 50",
+      "averagePrice": 34,
+      "minimumPrice": 9,
+      "maximumPrice": 100,
+      "averageStackPrice": 3400,
+      "commonStackSize": 100,
+      "salesRecorded": 9
+    },
+    "type": "Food & Drinks",
+    "date": "04/12/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/mudcrab_corn_fritters.png"
+  }
+]

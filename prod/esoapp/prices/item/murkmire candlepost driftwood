@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire candlepost driftwood",
+    "displayName": "Murkmire Candlepost, Driftwood",
+    "values": {
+      "commonRange": "5,000 - 14,000",
+      "averagePrice": 10195,
+      "minimumPrice": 4250,
+      "maximumPrice": 14400,
+      "averageStackPrice": 10195,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/02/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

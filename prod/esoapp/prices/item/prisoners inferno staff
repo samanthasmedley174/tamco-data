@@ -1,0 +1,18 @@
+[
+  {
+    "name": "prisoners inferno staff",
+    "displayName": "Prisoner's Inferno Staff",
+    "values": {
+      "commonRange": "763 - 1,650",
+      "averagePrice": 1375,
+      "minimumPrice": 156,
+      "maximumPrice": 3969,
+      "averageStackPrice": 1375,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

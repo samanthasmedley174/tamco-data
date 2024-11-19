@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe seaflower tea",
+    "displayName": "Recipe: Seaflower Tea",
+    "values": {
+      "commonRange": "29 - 527",
+      "averagePrice": 240,
+      "minimumPrice": 27,
+      "maximumPrice": 1000,
+      "averageStackPrice": 240,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

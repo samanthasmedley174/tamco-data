@@ -1,0 +1,18 @@
+[
+  {
+    "name": "riekling tanning rack stretched",
+    "displayName": "Riekling Tanning Rack, Stretched",
+    "values": {
+      "commonRange": "500 - 4,000",
+      "averagePrice": 1856,
+      "minimumPrice": 500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1856,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

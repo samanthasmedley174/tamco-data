@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page evergloam champion axe",
+    "displayName": "Style Page: Evergloam Champion Axe",
+    "values": {
+      "commonRange": "11,248 - 20,000",
+      "averagePrice": 22505,
+      "minimumPrice": 11066,
+      "maximumPrice": 100000,
+      "averageStackPrice": 22505,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reach totem post",
+    "displayName": "Reach Totem, Post",
+    "values": {
+      "commonRange": "200 - 800",
+      "averagePrice": 467,
+      "minimumPrice": 166,
+      "maximumPrice": 1000,
+      "averageStackPrice": 467,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

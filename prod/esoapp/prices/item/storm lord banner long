@@ -1,0 +1,18 @@
+[
+  {
+    "name": "storm lord banner long",
+    "displayName": "Storm Lord Banner, Long",
+    "values": {
+      "commonRange": "184 - 8,000",
+      "averagePrice": 5383,
+      "minimumPrice": 150,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5383,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

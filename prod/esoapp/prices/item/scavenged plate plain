@@ -1,0 +1,18 @@
+[
+  {
+    "name": "scavenged plate plain",
+    "displayName": "Scavenged Plate, Plain",
+    "values": {
+      "commonRange": "100 - 1,085",
+      "averagePrice": 619,
+      "minimumPrice": 83,
+      "maximumPrice": 1250,
+      "averageStackPrice": 619,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/17/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox arena gladiator emote",
+    "displayName": "Runebox: Arena Gladiator Emote",
+    "values": {
+      "commonRange": "249,999 - 400,000",
+      "averagePrice": 347182,
+      "minimumPrice": 249999,
+      "maximumPrice": 500000,
+      "averageStackPrice": 347182,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Runeboxes",
+    "date": "07/11/2023",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

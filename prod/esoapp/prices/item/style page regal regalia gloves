@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page regal regalia gloves",
+    "displayName": "Style Page: Regal Regalia Gloves",
+    "values": {
+      "commonRange": "3,499 - 10,000",
+      "averagePrice": 6603,
+      "minimumPrice": 2000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6603,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

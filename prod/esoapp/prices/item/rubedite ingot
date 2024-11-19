@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rubedite ingot",
+    "displayName": "Rubedite Ingot",
+    "values": {
+      "commonRange": "10 - 25",
+      "averagePrice": 15,
+      "minimumPrice": 5,
+      "maximumPrice": 52,
+      "averageStackPrice": 3000,
+      "commonStackSize": 200,
+      "salesRecorded": 776
+    },
+    "type": "Blacksmithing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

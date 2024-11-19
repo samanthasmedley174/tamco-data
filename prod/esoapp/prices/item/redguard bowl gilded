@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard bowl gilded",
+    "displayName": "Redguard Bowl, Gilded",
+    "values": {
+      "commonRange": "2,000 - 8,500",
+      "averagePrice": 3908,
+      "minimumPrice": 1182,
+      "maximumPrice": 8500,
+      "averageStackPrice": 3908,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/30/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

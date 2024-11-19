@@ -1,0 +1,18 @@
+[
+  {
+    "name": "venerable dragonguard bow",
+    "displayName": "Venerable Dragonguard Bow",
+    "values": {
+      "commonRange": "608 - 2,000",
+      "averagePrice": 1235,
+      "minimumPrice": 240,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1235,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox timbercrow wanderer costume",
+    "displayName": "Runebox: Timbercrow Wanderer Costume",
+    "values": {
+      "commonRange": "275,000 - 325,000",
+      "averagePrice": 311829,
+      "minimumPrice": 270000,
+      "maximumPrice": 600000,
+      "averageStackPrice": 311829,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Runeboxes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

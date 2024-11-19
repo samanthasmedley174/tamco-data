@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shornhelm guard sollerets of the vampires cloak",
+    "displayName": "Shornhelm Guard Sollerets of the Vampire's Cloak",
+    "values": {
+      "commonRange": "300 - 400",
+      "averagePrice": 350,
+      "minimumPrice": 300,
+      "maximumPrice": 400,
+      "averageStackPrice": 350,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

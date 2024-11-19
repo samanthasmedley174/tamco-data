@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of bulwark ruination",
+    "displayName": "Sword of Bulwark Ruination",
+    "values": {
+      "commonRange": "953 - 10,153",
+      "averagePrice": 3811,
+      "minimumPrice": 153,
+      "maximumPrice": 22000,
+      "averageStackPrice": 3811,
+      "commonStackSize": 1,
+      "salesRecorded": 49
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

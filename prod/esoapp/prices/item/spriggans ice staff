@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spriggans ice staff",
+    "displayName": "Spriggan's Ice Staff",
+    "values": {
+      "commonRange": "640 - 8,240",
+      "averagePrice": 4123,
+      "minimumPrice": 240,
+      "maximumPrice": 15000,
+      "averageStackPrice": 4123,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

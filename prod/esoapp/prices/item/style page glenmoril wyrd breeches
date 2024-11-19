@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page glenmoril wyrd breeches",
+    "displayName": "Style Page: Glenmoril Wyrd Breeches",
+    "values": {
+      "commonRange": "50 - 500",
+      "averagePrice": 371,
+      "minimumPrice": 50,
+      "maximumPrice": 1471,
+      "averageStackPrice": 371,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

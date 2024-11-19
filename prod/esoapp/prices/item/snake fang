@@ -1,0 +1,18 @@
+[
+  {
+    "name": "snake fang",
+    "displayName": "Snake Fang",
+    "values": {
+      "commonRange": "6,428 - 9,500",
+      "averagePrice": 8203,
+      "minimumPrice": 4500,
+      "maximumPrice": 10439,
+      "averageStackPrice": 24609,
+      "commonStackSize": 3,
+      "salesRecorded": 10
+    },
+    "type": "Style Materials",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Snake_Fang.png"
+  }
+]

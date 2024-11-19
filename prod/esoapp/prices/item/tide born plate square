@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born plate square",
+    "displayName": "Tide-Born Plate, Square",
+    "values": {
+      "commonRange": "5,000 - 5,423",
+      "averagePrice": 5019,
+      "minimumPrice": 3000,
+      "maximumPrice": 5847,
+      "averageStackPrice": 5019,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

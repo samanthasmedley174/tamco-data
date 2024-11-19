@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page wormwrithe sword",
+    "displayName": "Style Page: Wormwrithe Sword",
+    "values": {
+      "commonRange": "5,000 - 7,000",
+      "averagePrice": 5990,
+      "minimumPrice": 4610,
+      "maximumPrice": 9000,
+      "averageStackPrice": 5990,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

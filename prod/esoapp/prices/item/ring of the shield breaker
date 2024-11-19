@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the shield breaker",
+    "displayName": "Ring of the Shield Breaker",
+    "values": {
+      "commonRange": "3,350 - 34,280",
+      "averagePrice": 13850,
+      "minimumPrice": 2849,
+      "maximumPrice": 59562,
+      "averageStackPrice": 13850,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

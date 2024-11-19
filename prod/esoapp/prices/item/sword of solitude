@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of solitude",
+    "displayName": "Sword of Solitude",
+    "values": {
+      "commonRange": "150 - 750",
+      "averagePrice": 652,
+      "minimumPrice": 110,
+      "maximumPrice": 2000,
+      "averageStackPrice": 652,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "west weald corn chowder",
+    "displayName": "West Weald Corn Chowder",
+    "values": {
+      "commonRange": "40 - 3,560",
+      "averagePrice": 874,
+      "minimumPrice": 12,
+      "maximumPrice": 5012,
+      "averageStackPrice": 874,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Food & Drinks",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/west_weald_corn_chowder.png"
+  }
+]

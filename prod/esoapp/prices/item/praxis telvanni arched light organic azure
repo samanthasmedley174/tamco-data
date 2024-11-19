@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis telvanni arched light organic azure",
+    "displayName": "Praxis: Telvanni Arched Light, Organic Azure",
+    "values": {
+      "commonRange": "65,000 - 86,039",
+      "averagePrice": 75108,
+      "minimumPrice": 62500,
+      "maximumPrice": 87000,
+      "averageStackPrice": 75108,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

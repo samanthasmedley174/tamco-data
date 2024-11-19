@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough crate sturdy",
+    "displayName": "Rough Crate, Sturdy",
+    "values": {
+      "commonRange": "15 - 900",
+      "averagePrice": 356,
+      "minimumPrice": 15,
+      "maximumPrice": 900,
+      "averageStackPrice": 356,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/03/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

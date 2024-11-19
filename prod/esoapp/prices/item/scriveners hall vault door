@@ -1,0 +1,18 @@
+[
+  {
+    "name": "scriveners hall vault door",
+    "displayName": "Scrivener's Hall Vault Door",
+    "values": {
+      "commonRange": "700,000 - 821,554",
+      "averagePrice": 757597,
+      "minimumPrice": 653710,
+      "maximumPrice": 1000000,
+      "averageStackPrice": 757597,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

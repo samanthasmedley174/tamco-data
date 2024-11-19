@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of almalexias mercy",
+    "displayName": "Shield of Almalexia's Mercy",
+    "values": {
+      "commonRange": "2,377 - 6,600",
+      "averagePrice": 5524,
+      "minimumPrice": 750,
+      "maximumPrice": 19500,
+      "averageStackPrice": 5524,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

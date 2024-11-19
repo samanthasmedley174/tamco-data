@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard vase baroque",
+    "displayName": "Redguard Vase, Baroque",
+    "values": {
+      "commonRange": "2,800 - 12,000",
+      "averagePrice": 7729,
+      "minimumPrice": 2300,
+      "maximumPrice": 13500,
+      "averageStackPrice": 7729,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

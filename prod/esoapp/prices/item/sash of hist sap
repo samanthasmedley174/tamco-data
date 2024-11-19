@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of hist sap",
+    "displayName": "Sash of Hist Sap",
+    "values": {
+      "commonRange": "87 - 9,090",
+      "averagePrice": 4460,
+      "minimumPrice": 39,
+      "maximumPrice": 44090,
+      "averageStackPrice": 4460,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

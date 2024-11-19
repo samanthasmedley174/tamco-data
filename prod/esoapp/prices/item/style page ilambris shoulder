@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page ilambris shoulder",
+    "displayName": "Style Page: Ilambris' Shoulder",
+    "values": {
+      "commonRange": "22,832 - 30,000",
+      "averagePrice": 25941,
+      "minimumPrice": 15000,
+      "maximumPrice": 34832,
+      "averageStackPrice": 25941,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Style Pages",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

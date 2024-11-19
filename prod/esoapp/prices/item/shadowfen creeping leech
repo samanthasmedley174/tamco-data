@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shadowfen creeping leech",
+    "displayName": "Shadowfen Creeping Leech",
+    "values": {
+      "commonRange": "54 - 484",
+      "averagePrice": 205,
+      "minimumPrice": 3,
+      "maximumPrice": 522,
+      "averageStackPrice": 2050,
+      "commonStackSize": 10,
+      "salesRecorded": 21
+    },
+    "type": "Fishing",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Shadowfen_Creeping_Leech.png"
+  }
+]

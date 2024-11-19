@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfasts mettle battle axe",
+    "displayName": "Steadfast's Mettle Battle Axe",
+    "values": {
+      "commonRange": "300 - 1,000",
+      "averagePrice": 719,
+      "minimumPrice": 300,
+      "maximumPrice": 1000,
+      "averageStackPrice": 719,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

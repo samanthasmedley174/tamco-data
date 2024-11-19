@@ -1,0 +1,18 @@
+[
+  {
+    "name": "thorn sigil",
+    "displayName": "Thorn Sigil",
+    "values": {
+      "commonRange": "117 - 300",
+      "averagePrice": 242,
+      "minimumPrice": 3,
+      "maximumPrice": 520,
+      "averageStackPrice": 1210,
+      "commonStackSize": 5,
+      "salesRecorded": 12
+    },
+    "type": "Style Materials",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Thorn_Sigil.png"
+  }
+]

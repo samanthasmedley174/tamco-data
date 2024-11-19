@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page jesters covenant mimicry jack",
+    "displayName": "Style Page: Jester's Covenant Mimicry Jack",
+    "values": {
+      "commonRange": "19,800 - 77,288",
+      "averagePrice": 37303,
+      "minimumPrice": 18000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 37303,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Style Pages",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

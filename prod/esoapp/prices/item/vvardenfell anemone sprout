@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vvardenfell anemone sprout",
+    "displayName": "Vvardenfell Anemone, Sprout",
+    "values": {
+      "commonRange": "9,230 - 15,000",
+      "averagePrice": 12001,
+      "minimumPrice": 9000,
+      "maximumPrice": 17500,
+      "averageStackPrice": 12001,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

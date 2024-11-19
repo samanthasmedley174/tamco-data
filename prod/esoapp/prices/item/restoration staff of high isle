@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of high isle",
+    "displayName": "Restoration Staff of High Isle",
+    "values": {
+      "commonRange": "240 - 1,950",
+      "averagePrice": 1110,
+      "minimumPrice": 110,
+      "maximumPrice": 8000,
+      "averageStackPrice": 1110,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

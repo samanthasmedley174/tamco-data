@@ -1,0 +1,18 @@
+[
+  {
+    "name": "scavenged intruders severer",
+    "displayName": "Scavenged Intruder's Severer",
+    "values": {
+      "commonRange": "490 - 1,000",
+      "averagePrice": 745,
+      "minimumPrice": 490,
+      "maximumPrice": 1000,
+      "averageStackPrice": 745,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "02/06/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

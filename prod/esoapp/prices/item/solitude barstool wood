@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude barstool wood",
+    "displayName": "Solitude Barstool, Wood",
+    "values": {
+      "commonRange": "160 - 2,750",
+      "averagePrice": 1727,
+      "minimumPrice": 81,
+      "maximumPrice": 3060,
+      "averageStackPrice": 3454,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/22/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stealth draining poison i",
+    "displayName": "Stealth-Draining Poison I",
+    "values": {
+      "commonRange": "9 - 115",
+      "averagePrice": 44,
+      "minimumPrice": 3,
+      "maximumPrice": 125,
+      "averageStackPrice": 44000,
+      "commonStackSize": 1000,
+      "salesRecorded": 8
+    },
+    "type": "Potions & Poisons",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

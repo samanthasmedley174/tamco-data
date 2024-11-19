@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe fried green tomatoes",
+    "displayName": "Recipe: Fried Green Tomatoes",
+    "values": {
+      "commonRange": "27 - 131",
+      "averagePrice": 93,
+      "minimumPrice": 21,
+      "maximumPrice": 300,
+      "averageStackPrice": 93,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

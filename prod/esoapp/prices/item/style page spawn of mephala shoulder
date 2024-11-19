@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page spawn of mephala shoulder",
+    "displayName": "Style Page: Spawn of Mephala Shoulder",
+    "values": {
+      "commonRange": "49,999 - 76,090",
+      "averagePrice": 62794,
+      "minimumPrice": 39900,
+      "maximumPrice": 110000,
+      "averageStackPrice": 62794,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "07/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page shadowrend mask",
+    "displayName": "Style Page: Shadowrend Mask",
+    "values": {
+      "commonRange": "220,000 - 400,000",
+      "averagePrice": 323920,
+      "minimumPrice": 200000,
+      "maximumPrice": 600000,
+      "averageStackPrice": 323920,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "04/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of bulwark ruination",
+    "displayName": "Shield of Bulwark Ruination",
+    "values": {
+      "commonRange": "553 - 4,999",
+      "averagePrice": 2296,
+      "minimumPrice": 153,
+      "maximumPrice": 11096,
+      "averageStackPrice": 2296,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

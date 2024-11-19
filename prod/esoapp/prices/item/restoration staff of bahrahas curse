@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of bahrahas curse",
+    "displayName": "Restoration Staff of Bahraha's Curse",
+    "values": {
+      "commonRange": "400 - 3,326",
+      "averagePrice": 2322,
+      "minimumPrice": 240,
+      "maximumPrice": 20000,
+      "averageStackPrice": 2322,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sapling young autumn maple",
+    "displayName": "Sapling, Young Autumn Maple",
+    "values": {
+      "commonRange": "1,000 - 1,905",
+      "averagePrice": 1596,
+      "minimumPrice": 650,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1596,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

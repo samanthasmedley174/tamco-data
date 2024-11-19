@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard cupboard lattice",
+    "displayName": "Redguard Cupboard, Lattice",
+    "values": {
+      "commonRange": "258 - 2,862",
+      "averagePrice": 1750,
+      "minimumPrice": 170,
+      "maximumPrice": 3400,
+      "averageStackPrice": 1750,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

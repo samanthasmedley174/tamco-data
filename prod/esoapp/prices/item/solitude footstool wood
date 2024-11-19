@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude footstool wood",
+    "displayName": "Solitude Footstool, Wood",
+    "values": {
+      "commonRange": "299 - 3,500",
+      "averagePrice": 1990,
+      "minimumPrice": 260,
+      "maximumPrice": 3534,
+      "averageStackPrice": 1990,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/01/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

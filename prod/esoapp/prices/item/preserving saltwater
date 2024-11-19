@@ -1,0 +1,18 @@
+[
+  {
+    "name": "preserving saltwater",
+    "displayName": "Preserving Saltwater",
+    "values": {
+      "commonRange": "100 - 1,500",
+      "averagePrice": 889,
+      "minimumPrice": 3,
+      "maximumPrice": 3000,
+      "averageStackPrice": 889,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Style Materials",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Preserving_Saltwater.png"
+  }
+]

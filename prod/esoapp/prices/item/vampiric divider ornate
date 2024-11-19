@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric divider ornate",
+    "displayName": "Vampiric Divider, Ornate",
+    "values": {
+      "commonRange": "12,000 - 18,000",
+      "averagePrice": 14961,
+      "minimumPrice": 8500,
+      "maximumPrice": 25250,
+      "averageStackPrice": 14961,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

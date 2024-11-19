@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe redguard venison pie",
+    "displayName": "Recipe: Redguard Venison Pie",
+    "values": {
+      "commonRange": "1,000 - 1,600",
+      "averagePrice": 1324,
+      "minimumPrice": 230,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1324,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

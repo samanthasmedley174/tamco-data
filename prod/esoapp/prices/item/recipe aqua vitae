@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe aqua vitae",
+    "displayName": "Recipe: Aqua Vitae",
+    "values": {
+      "commonRange": "539 - 9,294",
+      "averagePrice": 5860,
+      "minimumPrice": 300,
+      "maximumPrice": 13039,
+      "averageStackPrice": 5860,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

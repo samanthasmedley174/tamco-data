@@ -1,0 +1,18 @@
+[
+  {
+    "name": "smugglers ice staff",
+    "displayName": "Smuggler's Ice Staff",
+    "values": {
+      "commonRange": "400 - 2,046",
+      "averagePrice": 1227,
+      "minimumPrice": 400,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1227,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

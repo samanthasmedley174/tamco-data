@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard lantern caged",
+    "displayName": "Redguard Lantern, Caged",
+    "values": {
+      "commonRange": "700 - 1,987",
+      "averagePrice": 1520,
+      "minimumPrice": 550,
+      "maximumPrice": 2500,
+      "averageStackPrice": 1520,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

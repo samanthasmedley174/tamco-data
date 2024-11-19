@@ -1,0 +1,18 @@
+[
+  {
+    "name": "robe of high isle",
+    "displayName": "Robe of High Isle",
+    "values": {
+      "commonRange": "180 - 1,000",
+      "averagePrice": 623,
+      "minimumPrice": 174,
+      "maximumPrice": 1583,
+      "averageStackPrice": 623,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal scourge harvester staff",
+    "displayName": "Style Page: Opal Scourge Harvester Staff",
+    "values": {
+      "commonRange": "6,274 - 20,000",
+      "averagePrice": 11625,
+      "minimumPrice": 6274,
+      "maximumPrice": 27556,
+      "averageStackPrice": 11625,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

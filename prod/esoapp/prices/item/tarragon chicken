@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tarragon chicken",
+    "displayName": "Tarragon Chicken",
+    "values": {
+      "commonRange": "2 - 31",
+      "averagePrice": 15,
+      "minimumPrice": 2,
+      "maximumPrice": 56,
+      "averageStackPrice": 15,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/tarragon_chicken.png"
+  }
+]

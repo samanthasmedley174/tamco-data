@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page evergloam champion sword",
+    "displayName": "Style Page: Evergloam Champion Sword",
+    "values": {
+      "commonRange": "13,946 - 40,000",
+      "averagePrice": 23007,
+      "minimumPrice": 9999,
+      "maximumPrice": 48000,
+      "averageStackPrice": 23007,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

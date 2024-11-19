@@ -1,0 +1,18 @@
+[
+  {
+    "name": "skulled ring of gandelec",
+    "displayName": "Skulled Ring of Gandelec",
+    "values": {
+      "commonRange": "100 - 550",
+      "averagePrice": 312,
+      "minimumPrice": 100,
+      "maximumPrice": 555,
+      "averageStackPrice": 312,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vivecs sash of duality",
+    "displayName": "Vivec's Sash of Duality",
+    "values": {
+      "commonRange": "187 - 4,000",
+      "averagePrice": 3400,
+      "minimumPrice": 90,
+      "maximumPrice": 50000,
+      "averageStackPrice": 3400,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

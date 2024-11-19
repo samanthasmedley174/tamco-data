@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe pickled carrot slurry",
+    "displayName": "Recipe: Pickled Carrot Slurry",
+    "values": {
+      "commonRange": "100 - 1,350",
+      "averagePrice": 1273,
+      "minimumPrice": 50,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1273,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of the storm knight",
+    "displayName": "Sabatons of the Storm Knight",
+    "values": {
+      "commonRange": "163 - 1,500",
+      "averagePrice": 601,
+      "minimumPrice": 90,
+      "maximumPrice": 2000,
+      "averageStackPrice": 601,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page cadwells greatsword",
+    "displayName": "Style Page: Cadwell's Greatsword",
+    "values": {
+      "commonRange": "19,054 - 32,500",
+      "averagePrice": 30393,
+      "minimumPrice": 11000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 30393,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

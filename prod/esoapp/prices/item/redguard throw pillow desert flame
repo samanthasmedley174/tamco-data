@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard throw pillow desert flame",
+    "displayName": "Redguard Throw Pillow, Desert Flame",
+    "values": {
+      "commonRange": "4,300 - 5,500",
+      "averagePrice": 5312,
+      "minimumPrice": 4285,
+      "maximumPrice": 6200,
+      "averageStackPrice": 10624,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

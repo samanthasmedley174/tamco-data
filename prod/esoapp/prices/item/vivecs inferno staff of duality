@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vivecs inferno staff of duality",
+    "displayName": "Vivec's Inferno Staff of Duality",
+    "values": {
+      "commonRange": "866 - 999",
+      "averagePrice": 873,
+      "minimumPrice": 500,
+      "maximumPrice": 1100,
+      "averageStackPrice": 873,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

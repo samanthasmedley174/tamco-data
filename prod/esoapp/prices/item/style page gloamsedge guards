@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page gloamsedge guards",
+    "displayName": "Style Page: Gloamsedge Guards",
+    "values": {
+      "commonRange": "23,775 - 30,000",
+      "averagePrice": 26233,
+      "minimumPrice": 20000,
+      "maximumPrice": 33000,
+      "averageStackPrice": 26233,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

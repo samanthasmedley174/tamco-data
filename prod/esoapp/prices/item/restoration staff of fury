@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of fury",
+    "displayName": "Restoration Staff of Fury",
+    "values": {
+      "commonRange": "1,246 - 5,240",
+      "averagePrice": 3490,
+      "minimumPrice": 1000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 3490,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

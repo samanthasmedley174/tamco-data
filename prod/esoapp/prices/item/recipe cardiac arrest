@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe cardiac arrest",
+    "displayName": "Recipe: Cardiac Arrest",
+    "values": {
+      "commonRange": "80 - 5,000",
+      "averagePrice": 2563,
+      "minimumPrice": 80,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2563,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

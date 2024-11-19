@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page jephrine paladin girdle",
+    "displayName": "Style Page: Jephrine Paladin Girdle",
+    "values": {
+      "commonRange": "1,394 - 2,000",
+      "averagePrice": 1557,
+      "minimumPrice": 71,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1557,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree wide trunked shade",
+    "displayName": "Tree, Wide-Trunked Shade",
+    "values": {
+      "commonRange": "999 - 2,000",
+      "averagePrice": 1379,
+      "minimumPrice": 500,
+      "maximumPrice": 2114,
+      "averageStackPrice": 1379,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

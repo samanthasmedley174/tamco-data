@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard couch slatted",
+    "displayName": "Redguard Couch, Slatted",
+    "values": {
+      "commonRange": "3,300 - 7,000",
+      "averagePrice": 5103,
+      "minimumPrice": 704,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5103,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

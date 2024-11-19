@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult bed full",
+    "displayName": "Worm Cult Bed, Full",
+    "values": {
+      "commonRange": "5,500 - 10,000",
+      "averagePrice": 8466,
+      "minimumPrice": 5500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 8466,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

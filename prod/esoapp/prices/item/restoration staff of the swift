@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of the swift",
+    "displayName": "Restoration Staff of the Swift",
+    "values": {
+      "commonRange": "1,200 - 15,246",
+      "averagePrice": 4614,
+      "minimumPrice": 900,
+      "maximumPrice": 15246,
+      "averageStackPrice": 4614,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

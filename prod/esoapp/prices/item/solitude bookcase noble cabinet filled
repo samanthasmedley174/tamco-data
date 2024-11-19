@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude bookcase noble cabinet filled",
+    "displayName": "Solitude Bookcase, Noble Cabinet Filled",
+    "values": {
+      "commonRange": "8,425 - 12,500",
+      "averagePrice": 12042,
+      "minimumPrice": 8425,
+      "maximumPrice": 24300,
+      "averageStackPrice": 12042,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of martial knowledge",
+    "displayName": "Ring of Martial Knowledge",
+    "values": {
+      "commonRange": "169 - 1,053",
+      "averagePrice": 677,
+      "minimumPrice": 130,
+      "maximumPrice": 4995,
+      "averageStackPrice": 677,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the vicecanons maul",
+    "displayName": "The Vicecanon's Maul",
+    "values": {
+      "commonRange": "15,000 - 15,000",
+      "averagePrice": 16667,
+      "minimumPrice": 10000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 16667,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

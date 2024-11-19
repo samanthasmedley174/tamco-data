@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rallying cry battle axe",
+    "displayName": "Rallying Cry Battle Axe",
+    "values": {
+      "commonRange": "3,346 - 10,000",
+      "averagePrice": 6822,
+      "minimumPrice": 246,
+      "maximumPrice": 20000,
+      "averageStackPrice": 6822,
+      "commonStackSize": 1,
+      "salesRecorded": 75
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "topgrain hide",
+    "displayName": "Topgrain Hide",
+    "values": {
+      "commonRange": "12 - 172",
+      "averagePrice": 48,
+      "minimumPrice": 10,
+      "maximumPrice": 172,
+      "averageStackPrice": 9600,
+      "commonStackSize": 200,
+      "salesRecorded": 20
+    },
+    "type": "Clothing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

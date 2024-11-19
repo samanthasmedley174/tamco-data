@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe combwort flatbread",
+    "displayName": "Recipe: Combwort Flatbread",
+    "values": {
+      "commonRange": "1,000 - 4,000",
+      "averagePrice": 2058,
+      "minimumPrice": 1000,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2058,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

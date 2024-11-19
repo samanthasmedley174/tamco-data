@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of the healer",
+    "displayName": "Sash of the Healer",
+    "values": {
+      "commonRange": "190 - 2,190",
+      "averagePrice": 1093,
+      "minimumPrice": 190,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1093,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

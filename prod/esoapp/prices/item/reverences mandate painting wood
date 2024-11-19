@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reverences mandate painting wood",
+    "displayName": "Reverence's Mandate Painting, Wood",
+    "values": {
+      "commonRange": "33,000 - 48,536",
+      "averagePrice": 39622,
+      "minimumPrice": 30300,
+      "maximumPrice": 50000,
+      "averageStackPrice": 39622,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

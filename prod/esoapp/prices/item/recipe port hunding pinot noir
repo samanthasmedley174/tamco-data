@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe port hunding pinot noir",
+    "displayName": "Recipe: Port Hunding Pinot Noir",
+    "values": {
+      "commonRange": "60 - 1,000",
+      "averagePrice": 262,
+      "minimumPrice": 40,
+      "maximumPrice": 1220,
+      "averageStackPrice": 262,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

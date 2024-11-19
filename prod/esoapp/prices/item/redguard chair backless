@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard chair backless",
+    "displayName": "Redguard Chair, Backless",
+    "values": {
+      "commonRange": "200 - 2,081",
+      "averagePrice": 909,
+      "minimumPrice": 200,
+      "maximumPrice": 2115,
+      "averageStackPrice": 909,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

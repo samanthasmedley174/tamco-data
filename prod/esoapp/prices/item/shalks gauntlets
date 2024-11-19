@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shalks gauntlets",
+    "displayName": "Shalk's Gauntlets",
+    "values": {
+      "commonRange": "120 - 1,473",
+      "averagePrice": 1016,
+      "minimumPrice": 90,
+      "maximumPrice": 9500,
+      "averageStackPrice": 1016,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

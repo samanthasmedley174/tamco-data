@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page ebonsteel knight sabatons",
+    "displayName": "Style Page: Ebonsteel Knight Sabatons",
+    "values": {
+      "commonRange": "100,000 - 500,000",
+      "averagePrice": 505714,
+      "minimumPrice": 60000,
+      "maximumPrice": 2000000,
+      "averageStackPrice": 505714,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Style Pages",
+    "date": "11/22/2022",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

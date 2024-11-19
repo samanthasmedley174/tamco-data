@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page lyris titanborns cuirass",
+    "displayName": "Style Page: Lyris Titanborn's Cuirass",
+    "values": {
+      "commonRange": "17,449 - 26,000",
+      "averagePrice": 21475,
+      "minimumPrice": 15000,
+      "maximumPrice": 26080,
+      "averageStackPrice": 21475,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

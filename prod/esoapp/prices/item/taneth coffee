@@ -1,0 +1,18 @@
+[
+  {
+    "name": "taneth coffee",
+    "displayName": "Taneth Coffee",
+    "values": {
+      "commonRange": "1 - 160",
+      "averagePrice": 37,
+      "minimumPrice": 1,
+      "maximumPrice": 160,
+      "averageStackPrice": 37,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "04/26/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/taneth_coffee.png"
+  }
+]

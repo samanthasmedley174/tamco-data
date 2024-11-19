@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of elf bane",
+    "displayName": "Sabatons of Elf Bane",
+    "values": {
+      "commonRange": "1,500 - 5,500",
+      "averagePrice": 4082,
+      "minimumPrice": 1087,
+      "maximumPrice": 9031,
+      "averageStackPrice": 4082,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page apocrypha expedition arm cops",
+    "displayName": "Style Page: Apocrypha Expedition Arm Cops",
+    "values": {
+      "commonRange": "10,000 - 16,130",
+      "averagePrice": 15555,
+      "minimumPrice": 5000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 15555,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

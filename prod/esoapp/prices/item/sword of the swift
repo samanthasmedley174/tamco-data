@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of the swift",
+    "displayName": "Sword of the Swift",
+    "values": {
+      "commonRange": "1,000 - 2,150",
+      "averagePrice": 1966,
+      "minimumPrice": 1000,
+      "maximumPrice": 4411,
+      "averageStackPrice": 1966,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

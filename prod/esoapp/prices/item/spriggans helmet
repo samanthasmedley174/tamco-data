@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spriggans helmet",
+    "displayName": "Spriggan's Helmet",
+    "values": {
+      "commonRange": "350 - 4,750",
+      "averagePrice": 2066,
+      "minimumPrice": 153,
+      "maximumPrice": 15069,
+      "averageStackPrice": 2066,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

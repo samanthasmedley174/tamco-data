@@ -1,0 +1,18 @@
+[
+  {
+    "name": "unchained aggressors boots",
+    "displayName": "Unchained Aggressor's Boots",
+    "values": {
+      "commonRange": "2,999 - 2,999",
+      "averagePrice": 2999,
+      "minimumPrice": 2999,
+      "maximumPrice": 2999,
+      "averageStackPrice": 2999,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe chorrol corn on the cob",
+    "displayName": "Recipe: Chorrol Corn on the Cob",
+    "values": {
+      "commonRange": "875 - 4,000",
+      "averagePrice": 1671,
+      "minimumPrice": 127,
+      "maximumPrice": 4999,
+      "averageStackPrice": 1671,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

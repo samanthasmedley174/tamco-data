@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard cart work",
+    "displayName": "Redguard Cart, Work",
+    "values": {
+      "commonRange": "200 - 6,000",
+      "averagePrice": 2049,
+      "minimumPrice": 200,
+      "maximumPrice": 6000,
+      "averageStackPrice": 2049,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/16/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

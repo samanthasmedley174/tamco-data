@@ -1,0 +1,18 @@
+[
+  {
+    "name": "unchained aggressors ring",
+    "displayName": "Unchained Aggressor's Ring",
+    "values": {
+      "commonRange": "5,150 - 5,150",
+      "averagePrice": 5150,
+      "minimumPrice": 5150,
+      "maximumPrice": 5150,
+      "averageStackPrice": 5150,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

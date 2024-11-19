@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of the sentry",
+    "displayName": "Sword of the Sentry",
+    "values": {
+      "commonRange": "999 - 18,000",
+      "averagePrice": 9356,
+      "minimumPrice": 450,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9356,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

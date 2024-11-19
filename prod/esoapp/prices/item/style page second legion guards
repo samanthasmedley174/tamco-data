@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page second legion guards",
+    "displayName": "Style Page: Second Legion Guards",
+    "values": {
+      "commonRange": "75,000 - 478,050",
+      "averagePrice": 478050,
+      "minimumPrice": 5500,
+      "maximumPrice": 2500000,
+      "averageStackPrice": 478050,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "03/19/2024",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

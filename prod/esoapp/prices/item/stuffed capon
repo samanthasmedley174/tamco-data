@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stuffed capon",
+    "displayName": "Stuffed Capon",
+    "values": {
+      "commonRange": "6 - 60",
+      "averagePrice": 25,
+      "minimumPrice": 6,
+      "maximumPrice": 60,
+      "averageStackPrice": 25,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "10/24/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/stuffed_capon.png"
+  }
+]

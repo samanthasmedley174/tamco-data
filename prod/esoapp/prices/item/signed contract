@@ -1,0 +1,18 @@
+[
+  {
+    "name": "signed contract",
+    "displayName": "Signed Contract",
+    "values": {
+      "commonRange": "3,447 - 4,899",
+      "averagePrice": 4118,
+      "minimumPrice": 1200,
+      "maximumPrice": 7715,
+      "averageStackPrice": 4118,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

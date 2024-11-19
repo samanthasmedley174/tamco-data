@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senches arm cops",
+    "displayName": "Senche's Arm Cops",
+    "values": {
+      "commonRange": "190 - 2,000",
+      "averagePrice": 932,
+      "minimumPrice": 90,
+      "maximumPrice": 4144,
+      "averageStackPrice": 932,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

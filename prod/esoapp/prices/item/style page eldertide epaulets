@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page eldertide epaulets",
+    "displayName": "Style Page: Eldertide Epaulets",
+    "values": {
+      "commonRange": "4,000 - 6,600",
+      "averagePrice": 5026,
+      "minimumPrice": 4000,
+      "maximumPrice": 7000,
+      "averageStackPrice": 5026,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page old orsinium sword",
+    "displayName": "Style Page: Old Orsinium Sword",
+    "values": {
+      "commonRange": "7,190 - 40,000",
+      "averagePrice": 23771,
+      "minimumPrice": 4551,
+      "maximumPrice": 43153,
+      "averageStackPrice": 23771,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

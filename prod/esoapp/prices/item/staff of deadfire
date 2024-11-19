@@ -1,0 +1,18 @@
+[
+  {
+    "name": "staff of deadfire",
+    "displayName": "Staff of Deadfire",
+    "values": {
+      "commonRange": "1,228 - 1,228",
+      "averagePrice": 1046,
+      "minimumPrice": 500,
+      "maximumPrice": 1228,
+      "averageStackPrice": 1046,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

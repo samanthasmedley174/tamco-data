@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude bookcase narrow backless",
+    "displayName": "Solitude Bookcase, Narrow Backless",
+    "values": {
+      "commonRange": "2,000 - 4,150",
+      "averagePrice": 2968,
+      "minimumPrice": 232,
+      "maximumPrice": 4150,
+      "averageStackPrice": 2968,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "11/23/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

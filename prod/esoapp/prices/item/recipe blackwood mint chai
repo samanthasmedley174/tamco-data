@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe blackwood mint chai",
+    "displayName": "Recipe: Blackwood Mint Chai",
+    "values": {
+      "commonRange": "90 - 350",
+      "averagePrice": 216,
+      "minimumPrice": 40,
+      "maximumPrice": 455,
+      "averageStackPrice": 216,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

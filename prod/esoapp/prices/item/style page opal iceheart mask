@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal iceheart mask",
+    "displayName": "Style Page: Opal Iceheart Mask",
+    "values": {
+      "commonRange": "26,821 - 50,000",
+      "averagePrice": 35978,
+      "minimumPrice": 25951,
+      "maximumPrice": 59801,
+      "averageStackPrice": 35978,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

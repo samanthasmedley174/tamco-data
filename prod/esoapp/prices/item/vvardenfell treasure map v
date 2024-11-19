@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vvardenfell treasure map v",
+    "displayName": "Vvardenfell Treasure Map V",
+    "values": {
+      "commonRange": "91 - 999",
+      "averagePrice": 438,
+      "minimumPrice": 69,
+      "maximumPrice": 1000,
+      "averageStackPrice": 438,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

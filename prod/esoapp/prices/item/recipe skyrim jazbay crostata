@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe skyrim jazbay crostata",
+    "displayName": "Recipe: Skyrim Jazbay Crostata",
+    "values": {
+      "commonRange": "150 - 4,000",
+      "averagePrice": 1307,
+      "minimumPrice": 29,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1307,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

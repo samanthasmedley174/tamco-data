@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witchmans battle axe",
+    "displayName": "Witchman's Battle Axe",
+    "values": {
+      "commonRange": "265 - 700",
+      "averagePrice": 489,
+      "minimumPrice": 240,
+      "maximumPrice": 750,
+      "averageStackPrice": 489,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

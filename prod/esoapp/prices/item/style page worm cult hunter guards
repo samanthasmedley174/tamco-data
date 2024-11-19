@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page worm cult hunter guards",
+    "displayName": "Style Page: Worm Cult Hunter Guards",
+    "values": {
+      "commonRange": "782 - 1,782",
+      "averagePrice": 1091,
+      "minimumPrice": 500,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1091,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

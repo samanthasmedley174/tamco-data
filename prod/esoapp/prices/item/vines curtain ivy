@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vines curtain ivy",
+    "displayName": "Vines, Curtain Ivy",
+    "values": {
+      "commonRange": "1,534 - 2,600",
+      "averagePrice": 2094,
+      "minimumPrice": 1500,
+      "maximumPrice": 3000,
+      "averageStackPrice": 4188,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

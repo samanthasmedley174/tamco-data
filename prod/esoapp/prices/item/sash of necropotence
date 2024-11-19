@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of necropotence",
+    "displayName": "Sash of Necropotence",
+    "values": {
+      "commonRange": "400 - 20,000",
+      "averagePrice": 7121,
+      "minimumPrice": 90,
+      "maximumPrice": 100000,
+      "averageStackPrice": 7121,
+      "commonStackSize": 1,
+      "salesRecorded": 72
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

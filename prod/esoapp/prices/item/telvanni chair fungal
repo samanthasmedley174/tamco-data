@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni chair fungal",
+    "displayName": "Telvanni Chair, Fungal",
+    "values": {
+      "commonRange": "1,650 - 7,500",
+      "averagePrice": 5136,
+      "minimumPrice": 1650,
+      "maximumPrice": 7950,
+      "averageStackPrice": 10272,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

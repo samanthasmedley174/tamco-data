@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sacrificial altar hircine",
+    "displayName": "Sacrificial Altar, Hircine",
+    "values": {
+      "commonRange": "15,000 - 30,300",
+      "averagePrice": 23820,
+      "minimumPrice": 15000,
+      "maximumPrice": 33000,
+      "averageStackPrice": 23820,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

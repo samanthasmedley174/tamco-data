@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric brazier taloned",
+    "displayName": "Vampiric Brazier, Taloned",
+    "values": {
+      "commonRange": "4,072 - 5,100",
+      "averagePrice": 5476,
+      "minimumPrice": 4000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 5476,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

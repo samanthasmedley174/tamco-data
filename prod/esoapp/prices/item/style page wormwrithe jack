@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page wormwrithe jack",
+    "displayName": "Style Page: Wormwrithe Jack",
+    "values": {
+      "commonRange": "900 - 2,015",
+      "averagePrice": 1316,
+      "minimumPrice": 500,
+      "maximumPrice": 3100,
+      "averageStackPrice": 1316,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

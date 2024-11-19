@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page wormwrithe boots",
+    "displayName": "Style Page: Wormwrithe Boots",
+    "values": {
+      "commonRange": "500 - 1,316",
+      "averagePrice": 918,
+      "minimumPrice": 100,
+      "maximumPrice": 1400,
+      "averageStackPrice": 918,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

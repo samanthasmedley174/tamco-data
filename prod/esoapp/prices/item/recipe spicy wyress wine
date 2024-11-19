@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe spicy wyress wine",
+    "displayName": "Recipe: Spicy Wyress Wine",
+    "values": {
+      "commonRange": "300 - 3,476",
+      "averagePrice": 1719,
+      "minimumPrice": 300,
+      "maximumPrice": 4530,
+      "averageStackPrice": 1719,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

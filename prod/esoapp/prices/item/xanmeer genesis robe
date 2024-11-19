@@ -1,0 +1,18 @@
+[
+  {
+    "name": "xanmeer genesis robe",
+    "displayName": "Xanmeer Genesis Robe",
+    "values": {
+      "commonRange": "280 - 2,180",
+      "averagePrice": 1270,
+      "minimumPrice": 174,
+      "maximumPrice": 2999,
+      "averageStackPrice": 1270,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

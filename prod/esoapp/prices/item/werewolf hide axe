@@ -1,0 +1,18 @@
+[
+  {
+    "name": "werewolf hide axe",
+    "displayName": "Werewolf Hide Axe",
+    "values": {
+      "commonRange": "144 - 1,144",
+      "averagePrice": 616,
+      "minimumPrice": 65,
+      "maximumPrice": 1950,
+      "averageStackPrice": 616,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

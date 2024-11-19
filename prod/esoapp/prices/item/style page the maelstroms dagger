@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page the maelstroms dagger",
+    "displayName": "Style Page: The Maelstrom's Dagger",
+    "values": {
+      "commonRange": "50,000 - 120,000",
+      "averagePrice": 95320,
+      "minimumPrice": 20000,
+      "maximumPrice": 270000,
+      "averageStackPrice": 95320,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "siegemasters lightning staff",
+    "displayName": "Siegemaster's Lightning Staff",
+    "values": {
+      "commonRange": "634 - 6,246",
+      "averagePrice": 2508,
+      "minimumPrice": 432,
+      "maximumPrice": 11240,
+      "averageStackPrice": 2508,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

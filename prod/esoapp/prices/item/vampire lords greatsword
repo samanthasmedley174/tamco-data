@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampire lords greatsword",
+    "displayName": "Vampire Lord's Greatsword",
+    "values": {
+      "commonRange": "640 - 4,000",
+      "averagePrice": 2501,
+      "minimumPrice": 239,
+      "maximumPrice": 8245,
+      "averageStackPrice": 2501,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of cyrodiils light",
+    "displayName": "Sash of Cyrodiil's Light",
+    "values": {
+      "commonRange": "500 - 2,190",
+      "averagePrice": 1482,
+      "minimumPrice": 90,
+      "maximumPrice": 2554,
+      "averageStackPrice": 1482,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

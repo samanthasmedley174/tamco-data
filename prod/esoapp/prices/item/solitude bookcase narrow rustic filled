@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude bookcase narrow rustic filled",
+    "displayName": "Solitude Bookcase, Narrow Rustic Filled",
+    "values": {
+      "commonRange": "5,550 - 6,800",
+      "averagePrice": 5906,
+      "minimumPrice": 2500,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5906,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

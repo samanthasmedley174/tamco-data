@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult trunk medium",
+    "displayName": "Worm Cult Trunk, Medium",
+    "values": {
+      "commonRange": "5,150 - 10,750",
+      "averagePrice": 9060,
+      "minimumPrice": 5000,
+      "maximumPrice": 10750,
+      "averageStackPrice": 9060,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

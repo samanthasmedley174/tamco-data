@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of the archers mind",
+    "displayName": "Shield of the Archer's Mind",
+    "values": {
+      "commonRange": "222,195 - 222,195",
+      "averagePrice": 222195,
+      "minimumPrice": 222195,
+      "maximumPrice": 222195,
+      "averageStackPrice": 222195,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

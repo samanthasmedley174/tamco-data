@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of frostbite",
+    "displayName": "Shield of Frostbite",
+    "values": {
+      "commonRange": "1,000 - 10,686",
+      "averagePrice": 6880,
+      "minimumPrice": 1000,
+      "maximumPrice": 29771,
+      "averageStackPrice": 6880,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

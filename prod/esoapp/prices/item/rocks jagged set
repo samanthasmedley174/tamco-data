@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rocks jagged set",
+    "displayName": "Rocks, Jagged Set",
+    "values": {
+      "commonRange": "130 - 915",
+      "averagePrice": 502,
+      "minimumPrice": 130,
+      "maximumPrice": 915,
+      "averageStackPrice": 502,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/16/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

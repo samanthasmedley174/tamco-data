@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of the shadow walker",
+    "displayName": "Shield of The Shadow Walker",
+    "values": {
+      "commonRange": "2,000 - 5,555",
+      "averagePrice": 3484,
+      "minimumPrice": 153,
+      "maximumPrice": 9044,
+      "averageStackPrice": 3484,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

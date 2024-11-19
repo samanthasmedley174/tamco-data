@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stump mossy cypress",
+    "displayName": "Stump, Mossy Cypress",
+    "values": {
+      "commonRange": "1,391 - 1,602",
+      "averagePrice": 1564,
+      "minimumPrice": 100,
+      "maximumPrice": 3060,
+      "averageStackPrice": 1564,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

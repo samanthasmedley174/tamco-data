@@ -1,0 +1,18 @@
+[
+  {
+    "name": "uncremated necropolis buckle",
+    "displayName": "Uncremated Necropolis Buckle",
+    "values": {
+      "commonRange": "500 - 500",
+      "averagePrice": 351,
+      "minimumPrice": 54,
+      "maximumPrice": 500,
+      "averageStackPrice": 351,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shattered fate ring",
+    "displayName": "Shattered Fate Ring",
+    "values": {
+      "commonRange": "45,990 - 150,000",
+      "averagePrice": 76932,
+      "minimumPrice": 33063,
+      "maximumPrice": 150000,
+      "averageStackPrice": 76932,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

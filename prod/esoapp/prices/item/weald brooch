@@ -1,0 +1,18 @@
+[
+  {
+    "name": "weald brooch",
+    "displayName": "Weald Brooch",
+    "values": {
+      "commonRange": "300 - 500",
+      "averagePrice": 446,
+      "minimumPrice": 277,
+      "maximumPrice": 516,
+      "averageStackPrice": 4460,
+      "commonStackSize": 10,
+      "salesRecorded": 13
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

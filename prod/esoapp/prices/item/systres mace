@@ -1,0 +1,18 @@
+[
+  {
+    "name": "systres mace",
+    "displayName": "Systres' Mace",
+    "values": {
+      "commonRange": "784 - 2,200",
+      "averagePrice": 1280,
+      "minimumPrice": 250,
+      "maximumPrice": 2344,
+      "averageStackPrice": 1280,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

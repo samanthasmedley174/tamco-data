@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of cyrodiils light",
+    "displayName": "Shield of Cyrodiil's Light",
+    "values": {
+      "commonRange": "850 - 3,000",
+      "averagePrice": 1468,
+      "minimumPrice": 144,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1468,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "swamp raiders boneaxe",
+    "displayName": "Swamp Raider's Boneaxe",
+    "values": {
+      "commonRange": "11,750 - 11,750",
+      "averagePrice": 11745,
+      "minimumPrice": 10000,
+      "maximumPrice": 13486,
+      "averageStackPrice": 11745,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

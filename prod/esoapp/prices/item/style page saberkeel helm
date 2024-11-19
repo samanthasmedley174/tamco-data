@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page saberkeel helm",
+    "displayName": "Style Page: Saberkeel Helm",
+    "values": {
+      "commonRange": "1,502 - 2,087",
+      "averagePrice": 2298,
+      "minimumPrice": 500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2298,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Style Pages",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran cup mazte",
+    "displayName": "Redoran Cup, Mazte",
+    "values": {
+      "commonRange": "3,000 - 5,200",
+      "averagePrice": 3583,
+      "minimumPrice": 633,
+      "maximumPrice": 5500,
+      "averageStackPrice": 3583,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "04/23/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

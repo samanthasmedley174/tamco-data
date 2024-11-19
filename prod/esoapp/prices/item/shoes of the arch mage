@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of the arch mage",
+    "displayName": "Shoes of the Arch-Mage",
+    "values": {
+      "commonRange": "90 - 1,500",
+      "averagePrice": 1033,
+      "minimumPrice": 90,
+      "maximumPrice": 5087,
+      "averageStackPrice": 1033,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

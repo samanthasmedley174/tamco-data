@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ravaging lightning staff",
+    "displayName": "Ravaging Lightning Staff",
+    "values": {
+      "commonRange": "5,373 - 19,000",
+      "averagePrice": 11672,
+      "minimumPrice": 5000,
+      "maximumPrice": 20246,
+      "averageStackPrice": 11672,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

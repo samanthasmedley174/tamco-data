@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wizards riposte axe",
+    "displayName": "Wizard's Riposte Axe",
+    "values": {
+      "commonRange": "4,152 - 4,152",
+      "averagePrice": 4152,
+      "minimumPrice": 4152,
+      "maximumPrice": 4152,
+      "averageStackPrice": 4152,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

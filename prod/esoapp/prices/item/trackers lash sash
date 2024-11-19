@@ -1,0 +1,18 @@
+[
+  {
+    "name": "trackers lash sash",
+    "displayName": "Tracker's Lash Sash",
+    "values": {
+      "commonRange": "687 - 1,587",
+      "averagePrice": 1124,
+      "minimumPrice": 187,
+      "maximumPrice": 5487,
+      "averageStackPrice": 1124,
+      "commonStackSize": 1,
+      "salesRecorded": 35
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

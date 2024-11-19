@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf cauldron stone",
+    "displayName": "Wood Elf Cauldron, Stone",
+    "values": {
+      "commonRange": "400 - 1,060",
+      "averagePrice": 683,
+      "minimumPrice": 50,
+      "maximumPrice": 1250,
+      "averageStackPrice": 683,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

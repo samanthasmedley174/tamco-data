@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree sturdy summer",
+    "displayName": "Tree, Sturdy Summer",
+    "values": {
+      "commonRange": "97 - 4,000",
+      "averagePrice": 1934,
+      "minimumPrice": 97,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1934,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/08/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

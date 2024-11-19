@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe steamed radishes",
+    "displayName": "Recipe: Steamed Radishes",
+    "values": {
+      "commonRange": "150 - 300",
+      "averagePrice": 240,
+      "minimumPrice": 127,
+      "maximumPrice": 361,
+      "averageStackPrice": 240,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

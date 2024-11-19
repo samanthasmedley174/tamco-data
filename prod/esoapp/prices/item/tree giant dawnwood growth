@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree giant dawnwood growth",
+    "displayName": "Tree, Giant Dawnwood Growth",
+    "values": {
+      "commonRange": "3,000 - 25,000",
+      "averagePrice": 13500,
+      "minimumPrice": 2000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 13500,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/05/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

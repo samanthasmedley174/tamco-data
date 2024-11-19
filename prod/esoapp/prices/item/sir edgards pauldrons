@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sir edgards pauldrons",
+    "displayName": "Sir Edgard's Pauldrons",
+    "values": {
+      "commonRange": "250 - 1,050",
+      "averagePrice": 894,
+      "minimumPrice": 250,
+      "maximumPrice": 4150,
+      "averageStackPrice": 894,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

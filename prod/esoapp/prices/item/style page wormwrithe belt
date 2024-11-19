@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page wormwrithe belt",
+    "displayName": "Style Page: Wormwrithe Belt",
+    "values": {
+      "commonRange": "150 - 1,100",
+      "averagePrice": 902,
+      "minimumPrice": 100,
+      "maximumPrice": 5000,
+      "averageStackPrice": 902,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

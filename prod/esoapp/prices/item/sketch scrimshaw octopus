@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch scrimshaw octopus",
+    "displayName": "Sketch: Scrimshaw, Octopus",
+    "values": {
+      "commonRange": "13,000 - 18,601",
+      "averagePrice": 16928,
+      "minimumPrice": 11000,
+      "maximumPrice": 24999,
+      "averageStackPrice": 16928,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

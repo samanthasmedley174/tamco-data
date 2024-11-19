@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of the storm knight",
+    "displayName": "Shield of the Storm Knight",
+    "values": {
+      "commonRange": "250 - 1,150",
+      "averagePrice": 904,
+      "minimumPrice": 144,
+      "maximumPrice": 3265,
+      "averageStackPrice": 904,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

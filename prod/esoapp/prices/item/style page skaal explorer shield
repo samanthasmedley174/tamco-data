@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page skaal explorer shield",
+    "displayName": "Style Page: Skaal Explorer Shield",
+    "values": {
+      "commonRange": "100 - 1,000",
+      "averagePrice": 396,
+      "minimumPrice": 20,
+      "maximumPrice": 3000,
+      "averageStackPrice": 396,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

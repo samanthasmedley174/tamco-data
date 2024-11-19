@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shirt of twilights embrace",
+    "displayName": "Shirt of Twilight's Embrace",
+    "values": {
+      "commonRange": "75 - 75",
+      "averagePrice": 75,
+      "minimumPrice": 75,
+      "maximumPrice": 75,
+      "averageStackPrice": 75,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

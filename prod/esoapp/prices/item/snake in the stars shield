@@ -1,0 +1,18 @@
+[
+  {
+    "name": "snake in the stars shield",
+    "displayName": "Snake in the Stars Shield",
+    "values": {
+      "commonRange": "1,999 - 5,000",
+      "averagePrice": 2922,
+      "minimumPrice": 1000,
+      "maximumPrice": 5153,
+      "averageStackPrice": 2922,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree cluster young sycamore",
+    "displayName": "Tree Cluster, Young Sycamore",
+    "values": {
+      "commonRange": "1,060 - 4,400",
+      "averagePrice": 2437,
+      "minimumPrice": 1060,
+      "maximumPrice": 5000,
+      "averageStackPrice": 4874,
+      "commonStackSize": 2,
+      "salesRecorded": 7
+    },
+    "type": "Furnishings",
+    "date": "04/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

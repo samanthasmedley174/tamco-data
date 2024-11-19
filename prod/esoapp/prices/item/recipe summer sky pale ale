@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe summer sky pale ale",
+    "displayName": "Recipe: Summer Sky Pale Ale",
+    "values": {
+      "commonRange": "1,316 - 2,316",
+      "averagePrice": 2010,
+      "minimumPrice": 1093,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2010,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

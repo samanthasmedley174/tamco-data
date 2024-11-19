@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch scrimshaw jewelry box floral",
+    "displayName": "Sketch: Scrimshaw Jewelry Box, Floral",
+    "values": {
+      "commonRange": "20,000 - 22,500",
+      "averagePrice": 20850,
+      "minimumPrice": 18000,
+      "maximumPrice": 24777,
+      "averageStackPrice": 20850,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

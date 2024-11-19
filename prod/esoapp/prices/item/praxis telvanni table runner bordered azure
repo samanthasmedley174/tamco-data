@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis telvanni table runner bordered azure",
+    "displayName": "Praxis: Telvanni Table Runner, Bordered Azure",
+    "values": {
+      "commonRange": "50,000 - 68,000",
+      "averagePrice": 58372,
+      "minimumPrice": 45000,
+      "maximumPrice": 76368,
+      "averageStackPrice": 58372,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of the phoenix",
+    "displayName": "Shoes of the Phoenix",
+    "values": {
+      "commonRange": "200 - 200",
+      "averagePrice": 293,
+      "minimumPrice": 90,
+      "maximumPrice": 590,
+      "averageStackPrice": 293,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

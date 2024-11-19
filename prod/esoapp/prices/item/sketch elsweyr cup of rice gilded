@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch elsweyr cup of rice gilded",
+    "displayName": "Sketch: Elsweyr Cup of Rice, Gilded",
+    "values": {
+      "commonRange": "130 - 1,779",
+      "averagePrice": 1395,
+      "minimumPrice": 30,
+      "maximumPrice": 2222,
+      "averageStackPrice": 1395,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

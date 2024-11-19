@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rocks smooth set",
+    "displayName": "Rocks, Smooth Set",
+    "values": {
+      "commonRange": "110 - 530",
+      "averagePrice": 331,
+      "minimumPrice": 100,
+      "maximumPrice": 530,
+      "averageStackPrice": 331,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/14/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

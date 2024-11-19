@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree autumn cherry blossom",
+    "displayName": "Tree, Autumn Cherry Blossom",
+    "values": {
+      "commonRange": "4,339 - 13,442",
+      "averagePrice": 9190,
+      "minimumPrice": 4000,
+      "maximumPrice": 16500,
+      "averageStackPrice": 9190,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

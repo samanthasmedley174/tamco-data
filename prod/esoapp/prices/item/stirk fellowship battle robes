@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stirk fellowship battle robes",
+    "displayName": "Stirk Fellowship Battle Robes",
+    "values": {
+      "commonRange": "371 - 1,500",
+      "averagePrice": 1099,
+      "minimumPrice": 350,
+      "maximumPrice": 4500,
+      "averageStackPrice": 1099,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "silver dust",
+    "displayName": "Silver Dust",
+    "values": {
+      "commonRange": "6 - 651",
+      "averagePrice": 200,
+      "minimumPrice": 6,
+      "maximumPrice": 680,
+      "averageStackPrice": 200,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Jewelry Materials",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Jewelry_Materials/Silver_Dust.png"
+  }
+]

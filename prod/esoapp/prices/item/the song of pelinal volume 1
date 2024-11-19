@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the song of pelinal volume 1",
+    "displayName": "The Song of Pelinal, Volume 1",
+    "values": {
+      "commonRange": "50 - 889",
+      "averagePrice": 408,
+      "minimumPrice": 30,
+      "maximumPrice": 1000,
+      "averageStackPrice": 408,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

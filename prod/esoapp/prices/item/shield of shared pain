@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of shared pain",
+    "displayName": "Shield of Shared Pain",
+    "values": {
+      "commonRange": "544 - 3,150",
+      "averagePrice": 1834,
+      "minimumPrice": 344,
+      "maximumPrice": 10144,
+      "averageStackPrice": 1834,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

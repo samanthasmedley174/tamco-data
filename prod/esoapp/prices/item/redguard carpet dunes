@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard carpet dunes",
+    "displayName": "Redguard Carpet, Dunes",
+    "values": {
+      "commonRange": "2,000 - 5,000",
+      "averagePrice": 4058,
+      "minimumPrice": 1150,
+      "maximumPrice": 7700,
+      "averageStackPrice": 4058,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

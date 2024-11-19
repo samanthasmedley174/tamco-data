@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vivecs battle axe of duality",
+    "displayName": "Vivec's Battle Axe of Duality",
+    "values": {
+      "commonRange": "500 - 500",
+      "averagePrice": 468,
+      "minimumPrice": 340,
+      "maximumPrice": 500,
+      "averageStackPrice": 468,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

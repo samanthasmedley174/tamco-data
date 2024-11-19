@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stygian boots",
+    "displayName": "Stygian Boots",
+    "values": {
+      "commonRange": "300 - 12,000",
+      "averagePrice": 5610,
+      "minimumPrice": 50,
+      "maximumPrice": 80000,
+      "averageStackPrice": 5610,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

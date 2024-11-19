@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page black drake clanwrap gloves",
+    "displayName": "Style Page: Black Drake Clanwrap Gloves",
+    "values": {
+      "commonRange": "90,000 - 120,000",
+      "averagePrice": 106005,
+      "minimumPrice": 90000,
+      "maximumPrice": 120020,
+      "averageStackPrice": 106005,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

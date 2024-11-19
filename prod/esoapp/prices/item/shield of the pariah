@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of the pariah",
+    "displayName": "Shield of the Pariah",
+    "values": {
+      "commonRange": "1,200 - 45,000",
+      "averagePrice": 13148,
+      "minimumPrice": 150,
+      "maximumPrice": 50000,
+      "averageStackPrice": 13148,
+      "commonStackSize": 1,
+      "salesRecorded": 61
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

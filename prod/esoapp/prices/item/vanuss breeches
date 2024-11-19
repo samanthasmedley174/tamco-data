@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanuss breeches",
+    "displayName": "Vanus's Breeches",
+    "values": {
+      "commonRange": "245 - 2,611",
+      "averagePrice": 1147,
+      "minimumPrice": 50,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1147,
+      "commonStackSize": 1,
+      "salesRecorded": 125
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

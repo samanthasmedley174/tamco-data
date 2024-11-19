@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born reed art turtle",
+    "displayName": "Tide-Born Reed Art, Turtle",
+    "values": {
+      "commonRange": "50,000 - 165,996",
+      "averagePrice": 88517,
+      "minimumPrice": 35814,
+      "maximumPrice": 167996,
+      "averageStackPrice": 88517,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

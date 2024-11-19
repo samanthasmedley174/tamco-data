@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spider wranglers gloves",
+    "displayName": "Spider-Wrangler's Gloves",
+    "values": {
+      "commonRange": "184 - 375",
+      "averagePrice": 311,
+      "minimumPrice": 100,
+      "maximumPrice": 584,
+      "averageStackPrice": 311,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "unidentified jewelry crafter survey report",
+    "displayName": "Unidentified Jewelry Crafter Survey Report",
+    "values": {
+      "commonRange": "7,546 - 14,546",
+      "averagePrice": 12056,
+      "minimumPrice": 500,
+      "maximumPrice": 29625,
+      "averageStackPrice": 12056,
+      "commonStackSize": 1,
+      "salesRecorded": 365
+    },
+    "type": "Miscellaneous",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

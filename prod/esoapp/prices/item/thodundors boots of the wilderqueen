@@ -1,0 +1,18 @@
+[
+  {
+    "name": "thodundors boots of the wilderqueen",
+    "displayName": "Thodundor's Boots of the Wilderqueen",
+    "values": {
+      "commonRange": "190 - 190",
+      "averagePrice": 190,
+      "minimumPrice": 190,
+      "maximumPrice": 190,
+      "averageStackPrice": 190,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

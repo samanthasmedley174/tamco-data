@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the kynmarchers cruelty",
+    "displayName": "Ring of the Kynmarcher's Cruelty",
+    "values": {
+      "commonRange": "800 - 6,000",
+      "averagePrice": 2673,
+      "minimumPrice": 525,
+      "maximumPrice": 11153,
+      "averageStackPrice": 2673,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

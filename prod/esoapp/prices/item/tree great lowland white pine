@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree great lowland white pine",
+    "displayName": "Tree, Great Lowland White Pine",
+    "values": {
+      "commonRange": "300 - 1,750",
+      "averagePrice": 1117,
+      "minimumPrice": 300,
+      "maximumPrice": 1964,
+      "averageStackPrice": 1117,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

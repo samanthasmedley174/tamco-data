@@ -1,0 +1,18 @@
+[
+  {
+    "name": "trackers lash battle axe",
+    "displayName": "Tracker's Lash Battle Axe",
+    "values": {
+      "commonRange": "440 - 4,655",
+      "averagePrice": 2401,
+      "minimumPrice": 110,
+      "maximumPrice": 12483,
+      "averageStackPrice": 2401,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

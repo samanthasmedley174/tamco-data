@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe firsthold fruit and cheese plate",
+    "displayName": "Recipe: Firsthold Fruit and Cheese Plate",
+    "values": {
+      "commonRange": "27 - 200",
+      "averagePrice": 78,
+      "minimumPrice": 25,
+      "maximumPrice": 259,
+      "averageStackPrice": 78,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

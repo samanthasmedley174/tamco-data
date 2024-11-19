@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senchal defenders cuirass",
+    "displayName": "Senchal Defender's Cuirass",
+    "values": {
+      "commonRange": "190 - 1,817",
+      "averagePrice": 830,
+      "minimumPrice": 180,
+      "maximumPrice": 2183,
+      "averageStackPrice": 830,
+      "commonStackSize": 1,
+      "salesRecorded": 60
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

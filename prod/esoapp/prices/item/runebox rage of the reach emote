@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox rage of the reach emote",
+    "displayName": "Runebox: Rage of The Reach Emote",
+    "values": {
+      "commonRange": "220,000 - 500,000",
+      "averagePrice": 367358,
+      "minimumPrice": 100000,
+      "maximumPrice": 750000,
+      "averageStackPrice": 367358,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Runeboxes",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

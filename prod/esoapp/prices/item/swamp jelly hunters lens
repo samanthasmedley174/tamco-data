@@ -1,0 +1,18 @@
+[
+  {
+    "name": "swamp jelly hunters lens",
+    "displayName": "Swamp Jelly Hunter's Lens",
+    "values": {
+      "commonRange": "1,100 - 15,882",
+      "averagePrice": 8454,
+      "minimumPrice": 1100,
+      "maximumPrice": 15882,
+      "averageStackPrice": 8454,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Fragments",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

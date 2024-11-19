@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page bloodspawn mask",
+    "displayName": "Style Page: Bloodspawn Mask",
+    "values": {
+      "commonRange": "277,594 - 370,000",
+      "averagePrice": 314266,
+      "minimumPrice": 260999,
+      "maximumPrice": 400000,
+      "averageStackPrice": 314266,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

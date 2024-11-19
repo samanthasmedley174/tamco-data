@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox psijic glowglobe emote",
+    "displayName": "Runebox: Psijic Glowglobe Emote",
+    "values": {
+      "commonRange": "44,000 - 80,000",
+      "averagePrice": 52454,
+      "minimumPrice": 29000,
+      "maximumPrice": 80000,
+      "averageStackPrice": 52454,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Runeboxes",
+    "date": "06/20/2023",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

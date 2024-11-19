@@ -1,0 +1,18 @@
+[
+  {
+    "name": "uncut black gem shards",
+    "displayName": "Uncut Black Gem Shards",
+    "values": {
+      "commonRange": "1,131 - 3,531",
+      "averagePrice": 2537,
+      "minimumPrice": 836,
+      "maximumPrice": 5000,
+      "averageStackPrice": 25370,
+      "commonStackSize": 10,
+      "salesRecorded": 23
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Uncut_Black_Gem_Shards.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "warrior poets battle axe",
+    "displayName": "Warrior-Poet's Battle Axe",
+    "values": {
+      "commonRange": "440 - 5,500",
+      "averagePrice": 3550,
+      "minimumPrice": 340,
+      "maximumPrice": 27613,
+      "averageStackPrice": 3550,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

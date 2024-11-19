@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanuss sash",
+    "displayName": "Vanus's Sash",
+    "values": {
+      "commonRange": "90 - 3,999",
+      "averagePrice": 1243,
+      "minimumPrice": 80,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1243,
+      "commonStackSize": 1,
+      "salesRecorded": 131
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

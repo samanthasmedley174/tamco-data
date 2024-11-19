@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witchmans boots",
+    "displayName": "Witchman's Boots",
+    "values": {
+      "commonRange": "90 - 1,085",
+      "averagePrice": 836,
+      "minimumPrice": 87,
+      "maximumPrice": 7482,
+      "averageStackPrice": 836,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

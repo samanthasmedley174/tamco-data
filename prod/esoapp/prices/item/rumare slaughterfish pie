@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rumare slaughterfish pie",
+    "displayName": "Rumare Slaughterfish Pie",
+    "values": {
+      "commonRange": "12 - 31",
+      "averagePrice": 22,
+      "minimumPrice": 12,
+      "maximumPrice": 52,
+      "averageStackPrice": 88,
+      "commonStackSize": 4,
+      "salesRecorded": 9
+    },
+    "type": "Food & Drinks",
+    "date": "02/09/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/rumare_slaughterfish_pie.png"
+  }
+]

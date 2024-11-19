@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witches totem gnarled vines and skull",
+    "displayName": "Witches Totem, Gnarled Vines and Skull",
+    "values": {
+      "commonRange": "500 - 4,150",
+      "averagePrice": 1707,
+      "minimumPrice": 400,
+      "maximumPrice": 6150,
+      "averageStackPrice": 1707,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

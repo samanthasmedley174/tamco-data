@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of winters respite",
+    "displayName": "Sash of Winter's Respite",
+    "values": {
+      "commonRange": "90 - 15,000",
+      "averagePrice": 5642,
+      "minimumPrice": 90,
+      "maximumPrice": 31827,
+      "averageStackPrice": 5642,
+      "commonStackSize": 1,
+      "salesRecorded": 69
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

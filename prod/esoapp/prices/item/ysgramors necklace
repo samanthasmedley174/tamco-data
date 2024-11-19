@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ysgramors necklace",
+    "displayName": "Ysgramor's Necklace",
+    "values": {
+      "commonRange": "144 - 3,127",
+      "averagePrice": 2226,
+      "minimumPrice": 108,
+      "maximumPrice": 30156,
+      "averageStackPrice": 2226,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

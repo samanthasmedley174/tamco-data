@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis tide born plate triangular",
+    "displayName": "Praxis: Tide-Born Plate, Triangular",
+    "values": {
+      "commonRange": "10,027 - 15,300",
+      "averagePrice": 13007,
+      "minimumPrice": 10000,
+      "maximumPrice": 17990,
+      "averageStackPrice": 13007,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

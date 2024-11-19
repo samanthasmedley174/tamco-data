@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of the shadow dancer",
+    "displayName": "Sword of The Shadow Dancer",
+    "values": {
+      "commonRange": "1,000 - 1,150",
+      "averagePrice": 1411,
+      "minimumPrice": 350,
+      "maximumPrice": 3144,
+      "averageStackPrice": 1411,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

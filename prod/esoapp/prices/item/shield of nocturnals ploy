@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of nocturnals ploy",
+    "displayName": "Shield of Nocturnal's Ploy",
+    "values": {
+      "commonRange": "900 - 999",
+      "averagePrice": 1196,
+      "minimumPrice": 900,
+      "maximumPrice": 2500,
+      "averageStackPrice": 1196,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

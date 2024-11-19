@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe vaerminas nightmare",
+    "displayName": "Recipe: Vaermina's Nightmare",
+    "values": {
+      "commonRange": "8,238 - 20,000",
+      "averagePrice": 12626,
+      "minimumPrice": 1000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 12626,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

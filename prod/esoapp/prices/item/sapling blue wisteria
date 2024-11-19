@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sapling blue wisteria",
+    "displayName": "Sapling, Blue Wisteria",
+    "values": {
+      "commonRange": "7,998 - 9,049",
+      "averagePrice": 8287,
+      "minimumPrice": 7998,
+      "maximumPrice": 10000,
+      "averageStackPrice": 8287,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

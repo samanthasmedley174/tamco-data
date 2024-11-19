@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seventh legions bow",
+    "displayName": "Seventh Legion's Bow",
+    "values": {
+      "commonRange": "350 - 2,000",
+      "averagePrice": 1221,
+      "minimumPrice": 340,
+      "maximumPrice": 3234,
+      "averageStackPrice": 1221,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

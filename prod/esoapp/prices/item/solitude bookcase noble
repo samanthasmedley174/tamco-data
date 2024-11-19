@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude bookcase noble",
+    "displayName": "Solitude Bookcase, Noble",
+    "values": {
+      "commonRange": "2,300 - 9,300",
+      "averagePrice": 6727,
+      "minimumPrice": 2300,
+      "maximumPrice": 11000,
+      "averageStackPrice": 6727,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/20/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude bed rustic bearskin double",
+    "displayName": "Solitude Bed, Rustic Bearskin Double",
+    "values": {
+      "commonRange": "4,400 - 19,990",
+      "averagePrice": 10079,
+      "minimumPrice": 4300,
+      "maximumPrice": 20150,
+      "averageStackPrice": 10079,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/03/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page worm cult hunter arm cops",
+    "displayName": "Style Page: Worm Cult Hunter Arm Cops",
+    "values": {
+      "commonRange": "250 - 1,946",
+      "averagePrice": 973,
+      "minimumPrice": 200,
+      "maximumPrice": 2048,
+      "averageStackPrice": 973,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Style Pages",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

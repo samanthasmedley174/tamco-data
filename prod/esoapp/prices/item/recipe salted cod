@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe salted cod",
+    "displayName": "Recipe: Salted Cod",
+    "values": {
+      "commonRange": "100 - 250",
+      "averagePrice": 220,
+      "minimumPrice": 99,
+      "maximumPrice": 900,
+      "averageStackPrice": 220,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

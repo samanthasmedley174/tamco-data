@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sunset fleet painting wood",
+    "displayName": "Sunset Fleet Painting, Wood",
+    "values": {
+      "commonRange": "10,000 - 39,936",
+      "averagePrice": 23497,
+      "minimumPrice": 2300,
+      "maximumPrice": 39936,
+      "averageStackPrice": 23497,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

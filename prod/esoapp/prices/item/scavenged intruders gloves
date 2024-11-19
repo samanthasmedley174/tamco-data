@@ -1,0 +1,18 @@
+[
+  {
+    "name": "scavenged intruders gloves",
+    "displayName": "Scavenged Intruder's Gloves",
+    "values": {
+      "commonRange": "500 - 1,200",
+      "averagePrice": 1228,
+      "minimumPrice": 350,
+      "maximumPrice": 3090,
+      "averageStackPrice": 1228,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

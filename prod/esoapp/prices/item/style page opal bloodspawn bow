@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal bloodspawn bow",
+    "displayName": "Style Page: Opal Bloodspawn Bow",
+    "values": {
+      "commonRange": "11,424 - 15,000",
+      "averagePrice": 13520,
+      "minimumPrice": 7000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 13520,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

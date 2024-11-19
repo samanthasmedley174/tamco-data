@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page nerieneth shoulder",
+    "displayName": "Style Page: Nerien'eth Shoulder",
+    "values": {
+      "commonRange": "70,000 - 74,446",
+      "averagePrice": 71343,
+      "minimumPrice": 60000,
+      "maximumPrice": 74446,
+      "averageStackPrice": 71343,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

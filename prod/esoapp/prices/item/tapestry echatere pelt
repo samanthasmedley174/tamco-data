@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tapestry echatere pelt",
+    "displayName": "Tapestry, Echatere Pelt",
+    "values": {
+      "commonRange": "22,000 - 42,980",
+      "averagePrice": 33036,
+      "minimumPrice": 20000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 33036,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

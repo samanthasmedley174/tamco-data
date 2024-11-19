@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanguards challenge sword",
+    "displayName": "Vanguard's Challenge Sword",
+    "values": {
+      "commonRange": "953 - 953",
+      "averagePrice": 920,
+      "minimumPrice": 553,
+      "maximumPrice": 1253,
+      "averageStackPrice": 920,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

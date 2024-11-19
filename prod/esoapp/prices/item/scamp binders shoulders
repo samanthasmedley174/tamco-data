@@ -1,0 +1,18 @@
+[
+  {
+    "name": "scamp binders shoulders",
+    "displayName": "Scamp-Binder's Shoulders",
+    "values": {
+      "commonRange": "3,000 - 5,000",
+      "averagePrice": 3838,
+      "minimumPrice": 2141,
+      "maximumPrice": 5000,
+      "averageStackPrice": 3838,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

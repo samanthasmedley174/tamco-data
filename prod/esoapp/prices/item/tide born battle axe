@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born battle axe",
+    "displayName": "Tide-Born Battle Axe",
+    "values": {
+      "commonRange": "79,990 - 110,252",
+      "averagePrice": 98644,
+      "minimumPrice": 79252,
+      "maximumPrice": 120000,
+      "averageStackPrice": 98644,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

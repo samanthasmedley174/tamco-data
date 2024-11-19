@@ -1,0 +1,18 @@
+[
+  {
+    "name": "warrior poets pauldron",
+    "displayName": "Warrior-Poet's Pauldron",
+    "values": {
+      "commonRange": "200 - 9,144",
+      "averagePrice": 3176,
+      "minimumPrice": 25,
+      "maximumPrice": 29956,
+      "averageStackPrice": 3176,
+      "commonStackSize": 1,
+      "salesRecorded": 81
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

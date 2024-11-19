@@ -1,0 +1,18 @@
+[
+  {
+    "name": "robe of the withered hand",
+    "displayName": "Robe of the Withered Hand",
+    "values": {
+      "commonRange": "300 - 980",
+      "averagePrice": 580,
+      "minimumPrice": 180,
+      "maximumPrice": 1183,
+      "averageStackPrice": 580,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

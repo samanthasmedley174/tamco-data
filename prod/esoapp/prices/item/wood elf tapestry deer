@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf tapestry deer",
+    "displayName": "Wood Elf Tapestry, Deer",
+    "values": {
+      "commonRange": "1,100 - 6,300",
+      "averagePrice": 5096,
+      "minimumPrice": 600,
+      "maximumPrice": 17000,
+      "averageStackPrice": 5096,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

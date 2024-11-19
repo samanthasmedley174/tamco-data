@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of the psijic order",
+    "displayName": "Sash of the Psijic Order",
+    "values": {
+      "commonRange": "154 - 600",
+      "averagePrice": 527,
+      "minimumPrice": 84,
+      "maximumPrice": 1250,
+      "averageStackPrice": 527,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

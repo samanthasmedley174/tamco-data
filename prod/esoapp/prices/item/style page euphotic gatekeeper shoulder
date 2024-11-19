@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page euphotic gatekeeper shoulder",
+    "displayName": "Style Page: Euphotic Gatekeeper Shoulder",
+    "values": {
+      "commonRange": "66,000 - 155,149",
+      "averagePrice": 118806,
+      "minimumPrice": 66000,
+      "maximumPrice": 214054,
+      "averageStackPrice": 118806,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult chest skull",
+    "displayName": "Worm Cult Chest, Skull",
+    "values": {
+      "commonRange": "19,030 - 19,030",
+      "averagePrice": 19030,
+      "minimumPrice": 18000,
+      "maximumPrice": 20060,
+      "averageStackPrice": 19030,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Furnishings",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "zariyas sorrow",
+    "displayName": "Zariya's Sorrow",
+    "values": {
+      "commonRange": "330 - 330",
+      "averagePrice": 307,
+      "minimumPrice": 190,
+      "maximumPrice": 400,
+      "averageStackPrice": 307,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

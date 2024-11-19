@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stonefalls treasure map vi",
+    "displayName": "Stonefalls Treasure Map VI",
+    "values": {
+      "commonRange": "100 - 238",
+      "averagePrice": 163,
+      "minimumPrice": 100,
+      "maximumPrice": 330,
+      "averageStackPrice": 163,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

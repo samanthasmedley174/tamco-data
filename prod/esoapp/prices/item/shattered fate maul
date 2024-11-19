@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shattered fate maul",
+    "displayName": "Shattered Fate Maul",
+    "values": {
+      "commonRange": "40,000 - 109,252",
+      "averagePrice": 64626,
+      "minimumPrice": 9999,
+      "maximumPrice": 110252,
+      "averageStackPrice": 64626,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

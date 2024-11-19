@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seashell sandcake",
+    "displayName": "Seashell, Sandcake",
+    "values": {
+      "commonRange": "600 - 1,310",
+      "averagePrice": 915,
+      "minimumPrice": 450,
+      "maximumPrice": 1310,
+      "averageStackPrice": 915,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

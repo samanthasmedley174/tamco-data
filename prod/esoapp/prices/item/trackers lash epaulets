@@ -1,0 +1,18 @@
+[
+  {
+    "name": "trackers lash epaulets",
+    "displayName": "Tracker's Lash Epaulets",
+    "values": {
+      "commonRange": "344 - 2,150",
+      "averagePrice": 1082,
+      "minimumPrice": 299,
+      "maximumPrice": 4150,
+      "averageStackPrice": 1082,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

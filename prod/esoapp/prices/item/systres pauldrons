@@ -1,0 +1,18 @@
+[
+  {
+    "name": "systres pauldrons",
+    "displayName": "Systres' Pauldrons",
+    "values": {
+      "commonRange": "150 - 2,084",
+      "averagePrice": 727,
+      "minimumPrice": 110,
+      "maximumPrice": 2153,
+      "averageStackPrice": 727,
+      "commonStackSize": 1,
+      "salesRecorded": 50
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reactive shield",
+    "displayName": "Reactive Shield",
+    "values": {
+      "commonRange": "9,990 - 16,500",
+      "averagePrice": 13654,
+      "minimumPrice": 6540,
+      "maximumPrice": 16500,
+      "averageStackPrice": 13654,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

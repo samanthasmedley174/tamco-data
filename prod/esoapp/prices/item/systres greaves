@@ -1,0 +1,18 @@
+[
+  {
+    "name": "systres greaves",
+    "displayName": "Systres' Greaves",
+    "values": {
+      "commonRange": "180 - 2,418",
+      "averagePrice": 1215,
+      "minimumPrice": 174,
+      "maximumPrice": 6183,
+      "averageStackPrice": 1215,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

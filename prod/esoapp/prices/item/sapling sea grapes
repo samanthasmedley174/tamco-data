@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sapling sea grapes",
+    "displayName": "Sapling, Sea Grapes",
+    "values": {
+      "commonRange": "150 - 1,000",
+      "averagePrice": 508,
+      "minimumPrice": 100,
+      "maximumPrice": 1015,
+      "averageStackPrice": 508,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "04/04/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

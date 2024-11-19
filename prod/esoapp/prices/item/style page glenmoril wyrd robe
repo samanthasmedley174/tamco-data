@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page glenmoril wyrd robe",
+    "displayName": "Style Page: Glenmoril Wyrd Robe",
+    "values": {
+      "commonRange": "50 - 1,000",
+      "averagePrice": 321,
+      "minimumPrice": 50,
+      "maximumPrice": 1000,
+      "averageStackPrice": 321,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

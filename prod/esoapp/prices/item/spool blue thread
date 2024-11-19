@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spool blue thread",
+    "displayName": "Spool, Blue Thread",
+    "values": {
+      "commonRange": "666 - 3,500",
+      "averagePrice": 2179,
+      "minimumPrice": 500,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2179,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

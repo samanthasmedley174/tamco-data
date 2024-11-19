@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard shelf barrel",
+    "displayName": "Redguard Shelf, Barrel",
+    "values": {
+      "commonRange": "350 - 4,500",
+      "averagePrice": 3288,
+      "minimumPrice": 250,
+      "maximumPrice": 9495,
+      "averageStackPrice": 3288,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

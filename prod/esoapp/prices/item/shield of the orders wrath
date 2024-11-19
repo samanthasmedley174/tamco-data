@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of the orders wrath",
+    "displayName": "Shield of the Order's Wrath",
+    "values": {
+      "commonRange": "9,602 - 15,000",
+      "averagePrice": 12841,
+      "minimumPrice": 9602,
+      "maximumPrice": 15000,
+      "averageStackPrice": 12841,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

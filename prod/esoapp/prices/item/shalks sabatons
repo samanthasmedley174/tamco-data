@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shalks sabatons",
+    "displayName": "Shalk's Sabatons",
+    "values": {
+      "commonRange": "188 - 2,000",
+      "averagePrice": 730,
+      "minimumPrice": 100,
+      "maximumPrice": 2350,
+      "averageStackPrice": 730,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

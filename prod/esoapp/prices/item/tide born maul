@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born maul",
+    "displayName": "Tide-Born Maul",
+    "values": {
+      "commonRange": "78,252 - 100,000",
+      "averagePrice": 89299,
+      "minimumPrice": 78252,
+      "maximumPrice": 110000,
+      "averageStackPrice": 89299,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

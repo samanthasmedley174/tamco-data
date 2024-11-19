@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spriggans restoration staff",
+    "displayName": "Spriggan's Restoration Staff",
+    "values": {
+      "commonRange": "440 - 4,999",
+      "averagePrice": 1643,
+      "minimumPrice": 240,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1643,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

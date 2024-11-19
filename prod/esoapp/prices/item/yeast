@@ -1,0 +1,18 @@
+[
+  {
+    "name": "yeast",
+    "displayName": "Yeast",
+    "values": {
+      "commonRange": "7 - 27",
+      "averagePrice": 14,
+      "minimumPrice": 5,
+      "maximumPrice": 53,
+      "averageStackPrice": 2800,
+      "commonStackSize": 200,
+      "salesRecorded": 22
+    },
+    "type": "Provisioning Materials",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "speed draining poison i",
+    "displayName": "Speed-Draining Poison I",
+    "values": {
+      "commonRange": "9 - 38",
+      "averagePrice": 24,
+      "minimumPrice": 7,
+      "maximumPrice": 38,
+      "averageStackPrice": 24000,
+      "commonStackSize": 1000,
+      "salesRecorded": 10
+    },
+    "type": "Potions & Poisons",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

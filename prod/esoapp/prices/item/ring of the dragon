@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the dragon",
+    "displayName": "Ring of the Dragon",
+    "values": {
+      "commonRange": "144 - 3,350",
+      "averagePrice": 1829,
+      "minimumPrice": 140,
+      "maximumPrice": 20153,
+      "averageStackPrice": 1829,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

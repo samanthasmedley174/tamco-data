@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reach standard weathered",
+    "displayName": "Reach Standard, Weathered",
+    "values": {
+      "commonRange": "1,200 - 6,000",
+      "averagePrice": 4420,
+      "minimumPrice": 1200,
+      "maximumPrice": 7700,
+      "averageStackPrice": 4420,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Furnishings",
+    "date": "03/29/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude loom warp weighted",
+    "displayName": "Solitude Loom, Warp-Weighted",
+    "values": {
+      "commonRange": "12,675 - 24,975",
+      "averagePrice": 17585,
+      "minimumPrice": 9675,
+      "maximumPrice": 34675,
+      "averageStackPrice": 17585,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

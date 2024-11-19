@@ -1,0 +1,18 @@
+[
+  {
+    "name": "three queens shield",
+    "displayName": "Three Queens Shield",
+    "values": {
+      "commonRange": "150 - 3,153",
+      "averagePrice": 1098,
+      "minimumPrice": 149,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1098,
+      "commonStackSize": 1,
+      "salesRecorded": 74
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

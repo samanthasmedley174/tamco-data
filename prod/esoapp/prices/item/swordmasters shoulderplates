@@ -1,0 +1,18 @@
+[
+  {
+    "name": "swordmasters shoulderplates",
+    "displayName": "Swordmaster's Shoulderplates",
+    "values": {
+      "commonRange": "1,000 - 1,250",
+      "averagePrice": 1125,
+      "minimumPrice": 1000,
+      "maximumPrice": 1250,
+      "averageStackPrice": 1125,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

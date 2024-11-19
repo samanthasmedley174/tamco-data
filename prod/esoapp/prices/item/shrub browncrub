@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shrub browncrub",
+    "displayName": "Shrub, Browncrub",
+    "values": {
+      "commonRange": "100 - 333",
+      "averagePrice": 290,
+      "minimumPrice": 65,
+      "maximumPrice": 833,
+      "averageStackPrice": 580,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ravaging cuirass",
+    "displayName": "Ravaging Cuirass",
+    "values": {
+      "commonRange": "3,500 - 9,909",
+      "averagePrice": 6531,
+      "minimumPrice": 2180,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6531,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

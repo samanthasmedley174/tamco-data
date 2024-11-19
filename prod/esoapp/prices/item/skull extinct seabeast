@@ -1,0 +1,18 @@
+[
+  {
+    "name": "skull extinct seabeast",
+    "displayName": "Skull, Extinct Seabeast",
+    "values": {
+      "commonRange": "800 - 1,506",
+      "averagePrice": 1153,
+      "minimumPrice": 231,
+      "maximumPrice": 1506,
+      "averageStackPrice": 1153,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

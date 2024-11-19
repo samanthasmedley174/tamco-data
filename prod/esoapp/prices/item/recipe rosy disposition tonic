@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe rosy disposition tonic",
+    "displayName": "Recipe: Rosy Disposition Tonic",
+    "values": {
+      "commonRange": "30 - 185",
+      "averagePrice": 120,
+      "minimumPrice": 26,
+      "maximumPrice": 285,
+      "averageStackPrice": 120,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

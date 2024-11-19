@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of almalexias mercy",
+    "displayName": "Shoes of Almalexia's Mercy",
+    "values": {
+      "commonRange": "900 - 6,090",
+      "averagePrice": 2836,
+      "minimumPrice": 500,
+      "maximumPrice": 11057,
+      "averageStackPrice": 2836,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

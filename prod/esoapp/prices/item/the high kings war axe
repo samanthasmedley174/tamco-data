@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the high kings war axe",
+    "displayName": "The High King's War Axe",
+    "values": {
+      "commonRange": "250 - 1,240",
+      "averagePrice": 906,
+      "minimumPrice": 240,
+      "maximumPrice": 2500,
+      "averageStackPrice": 906,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

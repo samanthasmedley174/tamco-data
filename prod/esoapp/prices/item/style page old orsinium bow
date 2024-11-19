@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page old orsinium bow",
+    "displayName": "Style Page: Old Orsinium Bow",
+    "values": {
+      "commonRange": "25,279 - 38,950",
+      "averagePrice": 31671,
+      "minimumPrice": 25000,
+      "maximumPrice": 45935,
+      "averageStackPrice": 31671,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

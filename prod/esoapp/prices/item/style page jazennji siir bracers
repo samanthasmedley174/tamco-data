@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page jazennji siir bracers",
+    "displayName": "Style Page: Ja'zennji Siir Bracers",
+    "values": {
+      "commonRange": "3,100 - 20,000",
+      "averagePrice": 16190,
+      "minimumPrice": 2500,
+      "maximumPrice": 78000,
+      "averageStackPrice": 16190,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "smugglers maul",
+    "displayName": "Smuggler's Maul",
+    "values": {
+      "commonRange": "2,250 - 2,250",
+      "averagePrice": 2861,
+      "minimumPrice": 1100,
+      "maximumPrice": 5234,
+      "averageStackPrice": 2861,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

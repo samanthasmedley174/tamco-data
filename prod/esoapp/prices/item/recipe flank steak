@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe flank steak",
+    "displayName": "Recipe: Flank Steak",
+    "values": {
+      "commonRange": "100 - 330",
+      "averagePrice": 243,
+      "minimumPrice": 30,
+      "maximumPrice": 1000,
+      "averageStackPrice": 243,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

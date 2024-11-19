@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page evergloam champion mace",
+    "displayName": "Style Page: Evergloam Champion Mace",
+    "values": {
+      "commonRange": "9,500 - 12,931",
+      "averagePrice": 10114,
+      "minimumPrice": 1141,
+      "maximumPrice": 13419,
+      "averageStackPrice": 10114,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

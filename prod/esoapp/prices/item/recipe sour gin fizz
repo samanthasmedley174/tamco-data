@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe sour gin fizz",
+    "displayName": "Recipe: Sour Gin Fizz",
+    "values": {
+      "commonRange": "300 - 4,000",
+      "averagePrice": 1290,
+      "minimumPrice": 127,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1290,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

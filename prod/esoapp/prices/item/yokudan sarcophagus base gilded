@@ -1,0 +1,18 @@
+[
+  {
+    "name": "yokudan sarcophagus base gilded",
+    "displayName": "Yokudan Sarcophagus Base, Gilded",
+    "values": {
+      "commonRange": "20,000 - 35,000",
+      "averagePrice": 27505,
+      "minimumPrice": 9000,
+      "maximumPrice": 35000,
+      "averageStackPrice": 27505,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

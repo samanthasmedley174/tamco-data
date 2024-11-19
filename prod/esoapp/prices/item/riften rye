@@ -1,0 +1,18 @@
+[
+  {
+    "name": "riften rye",
+    "displayName": "Riften Rye",
+    "values": {
+      "commonRange": "90 - 90",
+      "averagePrice": 90,
+      "minimumPrice": 90,
+      "maximumPrice": 90,
+      "averageStackPrice": 2070,
+      "commonStackSize": 23,
+      "salesRecorded": 2
+    },
+    "type": "Food & Drinks",
+    "date": "11/08/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/riften_rye.png"
+  }
+]

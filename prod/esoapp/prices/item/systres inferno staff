@@ -1,0 +1,18 @@
+[
+  {
+    "name": "systres inferno staff",
+    "displayName": "Systres' Inferno Staff",
+    "values": {
+      "commonRange": "646 - 2,240",
+      "averagePrice": 1471,
+      "minimumPrice": 600,
+      "maximumPrice": 3246,
+      "averageStackPrice": 1471,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

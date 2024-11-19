@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page skaal explorer axe",
+    "displayName": "Style Page: Skaal Explorer Axe",
+    "values": {
+      "commonRange": "100 - 210",
+      "averagePrice": 181,
+      "minimumPrice": 100,
+      "maximumPrice": 233,
+      "averageStackPrice": 181,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

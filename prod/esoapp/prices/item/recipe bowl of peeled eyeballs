@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe bowl of peeled eyeballs",
+    "displayName": "Recipe: Bowl of Peeled Eyeballs",
+    "values": {
+      "commonRange": "200 - 630",
+      "averagePrice": 357,
+      "minimumPrice": 94,
+      "maximumPrice": 1000,
+      "averageStackPrice": 357,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

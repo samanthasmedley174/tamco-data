@@ -1,0 +1,18 @@
+[
+  {
+    "name": "scavenged support straight",
+    "displayName": "Scavenged Support, Straight",
+    "values": {
+      "commonRange": "500 - 1,250",
+      "averagePrice": 830,
+      "minimumPrice": 220,
+      "maximumPrice": 1500,
+      "averageStackPrice": 830,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

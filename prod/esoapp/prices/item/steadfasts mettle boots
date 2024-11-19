@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfasts mettle boots",
+    "displayName": "Steadfast's Mettle Boots",
+    "values": {
+      "commonRange": "135 - 1,587",
+      "averagePrice": 1019,
+      "minimumPrice": 87,
+      "maximumPrice": 7824,
+      "averageStackPrice": 1019,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

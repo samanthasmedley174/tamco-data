@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni mushroom spire painting wood",
+    "displayName": "Telvanni Mushroom Spire Painting, Wood",
+    "values": {
+      "commonRange": "18,300 - 20,000",
+      "averagePrice": 19423,
+      "minimumPrice": 18000,
+      "maximumPrice": 21785,
+      "averageStackPrice": 19423,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

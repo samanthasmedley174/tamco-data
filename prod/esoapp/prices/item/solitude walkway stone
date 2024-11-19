@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude walkway stone",
+    "displayName": "Solitude Walkway, Stone",
+    "values": {
+      "commonRange": "1,904 - 3,169",
+      "averagePrice": 2560,
+      "minimumPrice": 550,
+      "maximumPrice": 3783,
+      "averageStackPrice": 2560,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

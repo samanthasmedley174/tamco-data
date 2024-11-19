@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page fish boon pioneer hat",
+    "displayName": "Style Page: Fish Boon Pioneer Hat",
+    "values": {
+      "commonRange": "100 - 1,000",
+      "averagePrice": 375,
+      "minimumPrice": 50,
+      "maximumPrice": 1184,
+      "averageStackPrice": 375,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

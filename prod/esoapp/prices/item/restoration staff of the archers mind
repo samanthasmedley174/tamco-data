@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of the archers mind",
+    "displayName": "Restoration Staff of the Archer's Mind",
+    "values": {
+      "commonRange": "270,710 - 270,710",
+      "averagePrice": 270710,
+      "minimumPrice": 270710,
+      "maximumPrice": 270710,
+      "averageStackPrice": 270710,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

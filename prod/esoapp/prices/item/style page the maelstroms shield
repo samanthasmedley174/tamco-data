@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page the maelstroms shield",
+    "displayName": "Style Page: The Maelstrom's Shield",
+    "values": {
+      "commonRange": "66,974 - 91,686",
+      "averagePrice": 88656,
+      "minimumPrice": 66974,
+      "maximumPrice": 190000,
+      "averageStackPrice": 88656,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

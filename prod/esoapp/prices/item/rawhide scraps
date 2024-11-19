@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rawhide scraps",
+    "displayName": "Rawhide Scraps",
+    "values": {
+      "commonRange": "6 - 38",
+      "averagePrice": 27,
+      "minimumPrice": 6,
+      "maximumPrice": 66,
+      "averageStackPrice": 5400,
+      "commonStackSize": 200,
+      "salesRecorded": 14
+    },
+    "type": "Clothing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

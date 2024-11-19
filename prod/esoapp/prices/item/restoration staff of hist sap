@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of hist sap",
+    "displayName": "Restoration Staff of Hist Sap",
+    "values": {
+      "commonRange": "246 - 1,234",
+      "averagePrice": 745,
+      "minimumPrice": 240,
+      "maximumPrice": 1240,
+      "averageStackPrice": 745,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

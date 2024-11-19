@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page saberkeel gauntlets",
+    "displayName": "Style Page: Saberkeel Gauntlets",
+    "values": {
+      "commonRange": "1,129 - 4,000",
+      "averagePrice": 1793,
+      "minimumPrice": 1000,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1793,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

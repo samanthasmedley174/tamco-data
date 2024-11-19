@@ -1,0 +1,18 @@
+[
+  {
+    "name": "regulus",
+    "displayName": "Regulus",
+    "values": {
+      "commonRange": "71 - 178",
+      "averagePrice": 130,
+      "minimumPrice": 10,
+      "maximumPrice": 200,
+      "averageStackPrice": 26000,
+      "commonStackSize": 200,
+      "salesRecorded": 126
+    },
+    "type": "Furnishing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

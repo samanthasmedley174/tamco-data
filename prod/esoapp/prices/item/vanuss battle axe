@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanuss battle axe",
+    "displayName": "Vanus's Battle Axe",
+    "values": {
+      "commonRange": "246 - 1,354",
+      "averagePrice": 959,
+      "minimumPrice": 234,
+      "maximumPrice": 3480,
+      "averageStackPrice": 959,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

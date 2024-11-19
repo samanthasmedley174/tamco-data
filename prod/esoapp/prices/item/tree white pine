@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree white pine",
+    "displayName": "Tree, White Pine",
+    "values": {
+      "commonRange": "2,000 - 3,038",
+      "averagePrice": 2648,
+      "minimumPrice": 90,
+      "maximumPrice": 3300,
+      "averageStackPrice": 2648,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

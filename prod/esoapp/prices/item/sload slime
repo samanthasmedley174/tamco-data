@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sload slime",
+    "displayName": "Sload Slime",
+    "values": {
+      "commonRange": "50 - 50",
+      "averagePrice": 50,
+      "minimumPrice": 50,
+      "maximumPrice": 50,
+      "averageStackPrice": 50,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Food & Drinks",
+    "date": "08/03/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/sload_slime.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfasts mettle inferno staff",
+    "displayName": "Steadfast's Mettle Inferno Staff",
+    "values": {
+      "commonRange": "140 - 920",
+      "averagePrice": 517,
+      "minimumPrice": 130,
+      "maximumPrice": 1246,
+      "averageStackPrice": 517,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "voljar meadery seal",
+    "displayName": "Voljar Meadery Seal",
+    "values": {
+      "commonRange": "141 - 441",
+      "averagePrice": 291,
+      "minimumPrice": 141,
+      "maximumPrice": 441,
+      "averageStackPrice": 291,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

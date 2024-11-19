@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tankard of undaunted victory bone",
+    "displayName": "Tankard of Undaunted Victory, Bone",
+    "values": {
+      "commonRange": "1,116 - 1,500",
+      "averagePrice": 1493,
+      "minimumPrice": 250,
+      "maximumPrice": 4890,
+      "averageStackPrice": 1493,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

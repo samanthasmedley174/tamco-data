@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of eternal vigor",
+    "displayName": "Restoration Staff of Eternal Vigor",
+    "values": {
+      "commonRange": "238 - 1,995",
+      "averagePrice": 800,
+      "minimumPrice": 234,
+      "maximumPrice": 2250,
+      "averageStackPrice": 800,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

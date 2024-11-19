@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page nerieneth mask",
+    "displayName": "Style Page: Nerien'eth Mask",
+    "values": {
+      "commonRange": "200,000 - 230,162",
+      "averagePrice": 213132,
+      "minimumPrice": 200000,
+      "maximumPrice": 230162,
+      "averageStackPrice": 213132,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

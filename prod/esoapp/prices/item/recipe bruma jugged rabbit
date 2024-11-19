@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe bruma jugged rabbit",
+    "displayName": "Recipe: Bruma Jugged Rabbit",
+    "values": {
+      "commonRange": "350 - 1,155",
+      "averagePrice": 906,
+      "minimumPrice": 53,
+      "maximumPrice": 2200,
+      "averageStackPrice": 906,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "velothi painting classic geyser",
+    "displayName": "Velothi Painting, Classic Geyser",
+    "values": {
+      "commonRange": "280,000 - 440,000",
+      "averagePrice": 358030,
+      "minimumPrice": 250000,
+      "maximumPrice": 700000,
+      "averageStackPrice": 358030,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

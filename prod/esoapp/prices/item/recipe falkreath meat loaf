@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe falkreath meat loaf",
+    "displayName": "Recipe: Falkreath Meat Loaf",
+    "values": {
+      "commonRange": "700 - 1,463",
+      "averagePrice": 1363,
+      "minimumPrice": 230,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1363,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric carpet large",
+    "displayName": "Vampiric Carpet, Large",
+    "values": {
+      "commonRange": "8,779 - 10,019",
+      "averagePrice": 9384,
+      "minimumPrice": 3333,
+      "maximumPrice": 10019,
+      "averageStackPrice": 9384,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born amulet",
+    "displayName": "Tide-Born Amulet",
+    "values": {
+      "commonRange": "20,141 - 89,000",
+      "averagePrice": 61363,
+      "minimumPrice": 4150,
+      "maximumPrice": 99156,
+      "averageStackPrice": 61363,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

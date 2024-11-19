@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe late hearthfire vegetable tart",
+    "displayName": "Recipe: Late Hearthfire Vegetable Tart",
+    "values": {
+      "commonRange": "30 - 800",
+      "averagePrice": 274,
+      "minimumPrice": 20,
+      "maximumPrice": 1221,
+      "averageStackPrice": 274,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox battle scarred visage",
+    "displayName": "Runebox: Battle-Scarred Visage",
+    "values": {
+      "commonRange": "25,000 - 1,500,000",
+      "averagePrice": 326210,
+      "minimumPrice": 25000,
+      "maximumPrice": 1500000,
+      "averageStackPrice": 326210,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Runeboxes",
+    "date": "11/28/2023",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

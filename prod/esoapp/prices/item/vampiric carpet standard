@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric carpet standard",
+    "displayName": "Vampiric Carpet, Standard",
+    "values": {
+      "commonRange": "1,150 - 5,000",
+      "averagePrice": 4107,
+      "minimumPrice": 999,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4107,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

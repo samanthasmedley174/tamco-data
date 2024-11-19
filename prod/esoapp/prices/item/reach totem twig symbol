@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reach totem twig symbol",
+    "displayName": "Reach Totem, Twig Symbol",
+    "values": {
+      "commonRange": "2,666 - 3,700",
+      "averagePrice": 3369,
+      "minimumPrice": 2500,
+      "maximumPrice": 3700,
+      "averageStackPrice": 3369,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

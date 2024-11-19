@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page the maelstroms sword",
+    "displayName": "Style Page: The Maelstrom's Sword",
+    "values": {
+      "commonRange": "50,000 - 100,000",
+      "averagePrice": 79489,
+      "minimumPrice": 50000,
+      "maximumPrice": 150000,
+      "averageStackPrice": 79489,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

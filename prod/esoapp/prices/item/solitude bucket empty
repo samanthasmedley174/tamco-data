@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude bucket empty",
+    "displayName": "Solitude Bucket, Empty",
+    "values": {
+      "commonRange": "1,495 - 1,495",
+      "averagePrice": 1852,
+      "minimumPrice": 1060,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1852,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Furnishings",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

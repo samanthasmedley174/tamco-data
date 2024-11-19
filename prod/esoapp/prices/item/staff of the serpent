@@ -1,0 +1,18 @@
+[
+  {
+    "name": "staff of the serpent",
+    "displayName": "Staff of the Serpent",
+    "values": {
+      "commonRange": "250 - 350",
+      "averagePrice": 460,
+      "minimumPrice": 228,
+      "maximumPrice": 1220,
+      "averageStackPrice": 460,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

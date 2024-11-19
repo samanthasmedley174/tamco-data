@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rocks sintered column",
+    "displayName": "Rocks, Sintered Column",
+    "values": {
+      "commonRange": "1,500 - 2,500",
+      "averagePrice": 2210,
+      "minimumPrice": 1500,
+      "maximumPrice": 4500,
+      "averageStackPrice": 4420,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/11/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

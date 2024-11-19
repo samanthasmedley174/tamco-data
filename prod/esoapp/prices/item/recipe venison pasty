@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe venison pasty",
+    "displayName": "Recipe: Venison Pasty",
+    "values": {
+      "commonRange": "29 - 4,999",
+      "averagePrice": 1177,
+      "minimumPrice": 27,
+      "maximumPrice": 4999,
+      "averageStackPrice": 1177,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

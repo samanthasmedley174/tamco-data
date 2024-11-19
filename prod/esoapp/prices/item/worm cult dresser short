@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult dresser short",
+    "displayName": "Worm Cult Dresser, Short",
+    "values": {
+      "commonRange": "3,816 - 9,000",
+      "averagePrice": 6879,
+      "minimumPrice": 3816,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6879,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

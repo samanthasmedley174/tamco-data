@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page sancre tor sentry staff",
+    "displayName": "Style Page: Sancre Tor Sentry Staff",
+    "values": {
+      "commonRange": "2,400 - 22,000",
+      "averagePrice": 10438,
+      "minimumPrice": 2322,
+      "maximumPrice": 25000,
+      "averageStackPrice": 10438,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Style Pages",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

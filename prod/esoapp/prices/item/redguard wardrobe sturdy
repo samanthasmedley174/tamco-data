@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard wardrobe sturdy",
+    "displayName": "Redguard Wardrobe, Sturdy",
+    "values": {
+      "commonRange": "6,000 - 10,000",
+      "averagePrice": 8446,
+      "minimumPrice": 800,
+      "maximumPrice": 15000,
+      "averageStackPrice": 8446,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/06/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

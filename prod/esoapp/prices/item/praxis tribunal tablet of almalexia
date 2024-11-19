@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis tribunal tablet of almalexia",
+    "displayName": "Praxis: Tribunal Tablet of Almalexia",
+    "values": {
+      "commonRange": "40,000 - 92,483",
+      "averagePrice": 58393,
+      "minimumPrice": 29999,
+      "maximumPrice": 109368,
+      "averageStackPrice": 58393,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

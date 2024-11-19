@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfast hero gauntlets",
+    "displayName": "Steadfast Hero Gauntlets",
+    "values": {
+      "commonRange": "490 - 2,000",
+      "averagePrice": 1173,
+      "minimumPrice": 299,
+      "maximumPrice": 2090,
+      "averageStackPrice": 1173,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

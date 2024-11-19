@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of the kynmarchers cruelty",
+    "displayName": "Shield of the Kynmarcher's Cruelty",
+    "values": {
+      "commonRange": "2,000 - 5,940",
+      "averagePrice": 3190,
+      "minimumPrice": 750,
+      "maximumPrice": 8500,
+      "averageStackPrice": 3190,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

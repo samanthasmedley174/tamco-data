@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tribunal rug",
+    "displayName": "Tribunal Rug",
+    "values": {
+      "commonRange": "150 - 8,000",
+      "averagePrice": 5009,
+      "minimumPrice": 150,
+      "maximumPrice": 9150,
+      "averageStackPrice": 5009,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "12/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard decanter delicate",
+    "displayName": "Redguard Decanter, Delicate",
+    "values": {
+      "commonRange": "3,300 - 9,900",
+      "averagePrice": 5807,
+      "minimumPrice": 3000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5807,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

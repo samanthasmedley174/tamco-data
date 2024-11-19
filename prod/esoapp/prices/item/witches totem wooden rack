@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witches totem wooden rack",
+    "displayName": "Witches Totem, Wooden Rack",
+    "values": {
+      "commonRange": "142 - 301",
+      "averagePrice": 221,
+      "minimumPrice": 75,
+      "maximumPrice": 400,
+      "averageStackPrice": 221,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

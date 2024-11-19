@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wolf head wall mount",
+    "displayName": "Wolf Head, Wall Mount",
+    "values": {
+      "commonRange": "11,226 - 35,610",
+      "averagePrice": 27132,
+      "minimumPrice": 5000,
+      "maximumPrice": 35610,
+      "averageStackPrice": 27132,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

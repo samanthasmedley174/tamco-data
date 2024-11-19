@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal bloodspawn shoulder",
+    "displayName": "Style Page: Opal Bloodspawn Shoulder",
+    "values": {
+      "commonRange": "190,000 - 499,000",
+      "averagePrice": 283287,
+      "minimumPrice": 190000,
+      "maximumPrice": 546550,
+      "averageStackPrice": 283287,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

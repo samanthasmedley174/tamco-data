@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spinners ice staff",
+    "displayName": "Spinner's Ice Staff",
+    "values": {
+      "commonRange": "928 - 3,000",
+      "averagePrice": 2205,
+      "minimumPrice": 240,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2205,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

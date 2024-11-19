@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pumpkin stuffed fellrunner",
+    "displayName": "Pumpkin-Stuffed Fellrunner",
+    "values": {
+      "commonRange": "9 - 125",
+      "averagePrice": 53,
+      "minimumPrice": 9,
+      "maximumPrice": 125,
+      "averageStackPrice": 5300,
+      "commonStackSize": 100,
+      "salesRecorded": 8
+    },
+    "type": "Food & Drinks",
+    "date": "05/28/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/pumpkin-stuffed_fellrunner.png"
+  }
+]

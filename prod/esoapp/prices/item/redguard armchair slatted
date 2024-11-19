@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard armchair slatted",
+    "displayName": "Redguard Armchair, Slatted",
+    "values": {
+      "commonRange": "1,000 - 3,000",
+      "averagePrice": 2319,
+      "minimumPrice": 960,
+      "maximumPrice": 5150,
+      "averageStackPrice": 2319,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

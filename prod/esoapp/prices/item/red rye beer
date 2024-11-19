@@ -1,0 +1,18 @@
+[
+  {
+    "name": "red rye beer",
+    "displayName": "Red Rye Beer",
+    "values": {
+      "commonRange": "1 - 3",
+      "averagePrice": 2,
+      "minimumPrice": 1,
+      "maximumPrice": 3,
+      "averageStackPrice": 50,
+      "commonStackSize": 25,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "12/24/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/red_rye_beer.png"
+  }
+]

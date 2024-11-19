@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tips on legerdemain",
+    "displayName": "Tips on Legerdemain",
+    "values": {
+      "commonRange": "30,000 - 80,000",
+      "averagePrice": 41814,
+      "minimumPrice": 30000,
+      "maximumPrice": 80000,
+      "averageStackPrice": 41814,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Miscellaneous",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

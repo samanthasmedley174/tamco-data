@@ -1,0 +1,18 @@
+[
+  {
+    "name": "west weald treasure map v",
+    "displayName": "West Weald Treasure Map V",
+    "values": {
+      "commonRange": "400 - 7,338",
+      "averagePrice": 4762,
+      "minimumPrice": 200,
+      "maximumPrice": 7338,
+      "averageStackPrice": 4762,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "swamp raiders lightning staff",
+    "displayName": "Swamp Raider's Lightning Staff",
+    "values": {
+      "commonRange": "834 - 21,099",
+      "averagePrice": 10398,
+      "minimumPrice": 246,
+      "maximumPrice": 39999,
+      "averageStackPrice": 10398,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

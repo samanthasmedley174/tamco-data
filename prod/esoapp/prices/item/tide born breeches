@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born breeches",
+    "displayName": "Tide-Born Breeches",
+    "values": {
+      "commonRange": "16,428 - 74,189",
+      "averagePrice": 27436,
+      "minimumPrice": 11000,
+      "maximumPrice": 78189,
+      "averageStackPrice": 27436,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

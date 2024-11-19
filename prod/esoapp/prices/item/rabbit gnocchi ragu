@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rabbit gnocchi ragu",
+    "displayName": "Rabbit Gnocchi Ragu",
+    "values": {
+      "commonRange": "4 - 80",
+      "averagePrice": 26,
+      "minimumPrice": 4,
+      "maximumPrice": 80,
+      "averageStackPrice": 260,
+      "commonStackSize": 10,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "06/15/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/rabbit_gnocchi_ragu.png"
+  }
+]

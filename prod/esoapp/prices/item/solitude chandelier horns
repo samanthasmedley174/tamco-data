@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude chandelier horns",
+    "displayName": "Solitude Chandelier, Horns",
+    "values": {
+      "commonRange": "1,650 - 17,500",
+      "averagePrice": 8686,
+      "minimumPrice": 550,
+      "maximumPrice": 20000,
+      "averageStackPrice": 8686,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/20/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

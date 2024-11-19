@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe monkeypig cutlets",
+    "displayName": "Recipe: Monkeypig Cutlets",
+    "values": {
+      "commonRange": "300 - 1,030",
+      "averagePrice": 658,
+      "minimumPrice": 217,
+      "maximumPrice": 2000,
+      "averageStackPrice": 658,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page skaal explorer bow",
+    "displayName": "Style Page: Skaal Explorer Bow",
+    "values": {
+      "commonRange": "100 - 300",
+      "averagePrice": 217,
+      "minimumPrice": 51,
+      "maximumPrice": 542,
+      "averageStackPrice": 217,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

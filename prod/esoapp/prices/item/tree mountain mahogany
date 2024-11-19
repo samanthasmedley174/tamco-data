@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree mountain mahogany",
+    "displayName": "Tree, Mountain Mahogany",
+    "values": {
+      "commonRange": "1,600 - 11,060",
+      "averagePrice": 4170,
+      "minimumPrice": 1600,
+      "maximumPrice": 11060,
+      "averageStackPrice": 4170,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/24/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

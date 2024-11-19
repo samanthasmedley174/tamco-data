@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe hag fen pumpkin pie",
+    "displayName": "Recipe: Hag Fen Pumpkin Pie",
+    "values": {
+      "commonRange": "2,500 - 13,000",
+      "averagePrice": 9518,
+      "minimumPrice": 1027,
+      "maximumPrice": 16651,
+      "averageStackPrice": 9518,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

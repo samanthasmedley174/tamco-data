@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard urn wrapped golden",
+    "displayName": "Redguard Urn, Wrapped Golden",
+    "values": {
+      "commonRange": "5,500 - 17,000",
+      "averagePrice": 11116,
+      "minimumPrice": 5000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 11116,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

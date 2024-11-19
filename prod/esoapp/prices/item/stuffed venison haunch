@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stuffed venison haunch",
+    "displayName": "Stuffed Venison Haunch",
+    "values": {
+      "commonRange": "9 - 16",
+      "averagePrice": 12,
+      "minimumPrice": 9,
+      "maximumPrice": 16,
+      "averageStackPrice": 1200,
+      "commonStackSize": 100,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "09/07/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/stuffed_venison_haunch.png"
+  }
+]

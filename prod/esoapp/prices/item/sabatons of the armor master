@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of the armor master",
+    "displayName": "Sabatons of the Armor Master",
+    "values": {
+      "commonRange": "78,093 - 78,093",
+      "averagePrice": 78093,
+      "minimumPrice": 78093,
+      "maximumPrice": 78093,
+      "averageStackPrice": 78093,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

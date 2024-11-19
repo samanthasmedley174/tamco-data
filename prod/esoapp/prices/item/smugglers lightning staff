@@ -1,0 +1,18 @@
+[
+  {
+    "name": "smugglers lightning staff",
+    "displayName": "Smuggler's Lightning Staff",
+    "values": {
+      "commonRange": "1,750 - 2,000",
+      "averagePrice": 1828,
+      "minimumPrice": 1000,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1828,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

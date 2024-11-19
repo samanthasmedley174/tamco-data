@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of destruction mastery",
+    "displayName": "Shoes of Destruction Mastery",
+    "values": {
+      "commonRange": "390 - 3,466",
+      "averagePrice": 2222,
+      "minimumPrice": 90,
+      "maximumPrice": 20000,
+      "averageStackPrice": 2222,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

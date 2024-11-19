@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page light of knowledge sash",
+    "displayName": "Style Page: Light of Knowledge Sash",
+    "values": {
+      "commonRange": "101 - 3,227",
+      "averagePrice": 1314,
+      "minimumPrice": 100,
+      "maximumPrice": 5860,
+      "averageStackPrice": 1314,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

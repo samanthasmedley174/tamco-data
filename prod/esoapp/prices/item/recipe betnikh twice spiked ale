@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe betnikh twice spiked ale",
+    "displayName": "Recipe: Betnikh Twice-Spiked Ale",
+    "values": {
+      "commonRange": "99 - 500",
+      "averagePrice": 329,
+      "minimumPrice": 80,
+      "maximumPrice": 1000,
+      "averageStackPrice": 329,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

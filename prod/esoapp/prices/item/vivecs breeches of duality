@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vivecs breeches of duality",
+    "displayName": "Vivec's Breeches of Duality",
+    "values": {
+      "commonRange": "180 - 1,999",
+      "averagePrice": 869,
+      "minimumPrice": 174,
+      "maximumPrice": 4000,
+      "averageStackPrice": 869,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

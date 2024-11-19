@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe princesss delight",
+    "displayName": "Recipe: Princess's Delight",
+    "values": {
+      "commonRange": "27 - 3,693",
+      "averagePrice": 1183,
+      "minimumPrice": 27,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1183,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

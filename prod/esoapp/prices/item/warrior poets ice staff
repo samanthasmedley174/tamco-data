@@ -1,0 +1,18 @@
+[
+  {
+    "name": "warrior poets ice staff",
+    "displayName": "Warrior-Poet's Ice Staff",
+    "values": {
+      "commonRange": "234 - 5,500",
+      "averagePrice": 3078,
+      "minimumPrice": 75,
+      "maximumPrice": 23705,
+      "averageStackPrice": 3078,
+      "commonStackSize": 1,
+      "salesRecorded": 43
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

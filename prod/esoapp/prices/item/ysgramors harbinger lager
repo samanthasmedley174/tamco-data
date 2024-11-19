@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ysgramors harbinger lager",
+    "displayName": "Ysgramor's Harbinger Lager",
+    "values": {
+      "commonRange": "15 - 100",
+      "averagePrice": 115,
+      "minimumPrice": 7,
+      "maximumPrice": 866,
+      "averageStackPrice": 11500,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "11/09/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/ysgramor's_harbinger_lager.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ysgramors frost gem necklace",
+    "displayName": "Ysgramor's Frost Gem Necklace",
+    "values": {
+      "commonRange": "1,150 - 1,150",
+      "averagePrice": 1553,
+      "minimumPrice": 250,
+      "maximumPrice": 3260,
+      "averageStackPrice": 1553,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "robe of cyrodiils light",
+    "displayName": "Robe of Cyrodiil's Light",
+    "values": {
+      "commonRange": "180 - 3,174",
+      "averagePrice": 1134,
+      "minimumPrice": 150,
+      "maximumPrice": 3180,
+      "averageStackPrice": 1134,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

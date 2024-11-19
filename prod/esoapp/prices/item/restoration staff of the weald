@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of the weald",
+    "displayName": "Restoration Staff of the Weald",
+    "values": {
+      "commonRange": "250 - 1,234",
+      "averagePrice": 834,
+      "minimumPrice": 234,
+      "maximumPrice": 2150,
+      "averageStackPrice": 834,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

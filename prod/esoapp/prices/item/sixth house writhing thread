@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sixth house writhing thread",
+    "displayName": "Sixth House Writhing Thread",
+    "values": {
+      "commonRange": "2,053 - 8,500",
+      "averagePrice": 3908,
+      "minimumPrice": 2000,
+      "maximumPrice": 8500,
+      "averageStackPrice": 3908,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Fragments",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

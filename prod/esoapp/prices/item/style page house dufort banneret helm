@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page house dufort banneret helm",
+    "displayName": "Style Page: House Dufort Banneret Helm",
+    "values": {
+      "commonRange": "12,901 - 18,587",
+      "averagePrice": 15648,
+      "minimumPrice": 10000,
+      "maximumPrice": 19040,
+      "averageStackPrice": 15648,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

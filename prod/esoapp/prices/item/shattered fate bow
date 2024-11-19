@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shattered fate bow",
+    "displayName": "Shattered Fate Bow",
+    "values": {
+      "commonRange": "3,000 - 50,000",
+      "averagePrice": 32986,
+      "minimumPrice": 3000,
+      "maximumPrice": 69252,
+      "averageStackPrice": 32986,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

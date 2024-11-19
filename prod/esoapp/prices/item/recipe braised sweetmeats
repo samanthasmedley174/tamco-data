@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe braised sweetmeats",
+    "displayName": "Recipe: Braised Sweetmeats",
+    "values": {
+      "commonRange": "1,000 - 3,260",
+      "averagePrice": 2544,
+      "minimumPrice": 1000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2544,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

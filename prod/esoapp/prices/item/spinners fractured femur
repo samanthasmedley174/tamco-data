@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spinners fractured femur",
+    "displayName": "Spinner's Fractured Femur",
+    "values": {
+      "commonRange": "3,240 - 5,000",
+      "averagePrice": 6406,
+      "minimumPrice": 550,
+      "maximumPrice": 20000,
+      "averageStackPrice": 6406,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

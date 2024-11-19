@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of akatoshs law",
+    "displayName": "Shield of Akatosh's Law",
+    "values": {
+      "commonRange": "499 - 3,150",
+      "averagePrice": 1747,
+      "minimumPrice": 144,
+      "maximumPrice": 5153,
+      "averageStackPrice": 1747,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

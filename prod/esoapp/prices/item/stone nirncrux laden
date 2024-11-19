@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stone nirncrux laden",
+    "displayName": "Stone, Nirncrux-Laden",
+    "values": {
+      "commonRange": "9,101 - 15,000",
+      "averagePrice": 12040,
+      "minimumPrice": 9101,
+      "maximumPrice": 15000,
+      "averageStackPrice": 12040,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of the voidcaller",
+    "displayName": "Shoes of the Voidcaller",
+    "values": {
+      "commonRange": "90 - 3,087",
+      "averagePrice": 1050,
+      "minimumPrice": 86,
+      "maximumPrice": 4990,
+      "averageStackPrice": 1050,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

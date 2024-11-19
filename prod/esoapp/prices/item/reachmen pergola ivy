@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reachmen pergola ivy",
+    "displayName": "Reachmen Pergola, Ivy",
+    "values": {
+      "commonRange": "5,065 - 15,000",
+      "averagePrice": 8879,
+      "minimumPrice": 3000,
+      "maximumPrice": 18000,
+      "averageStackPrice": 8879,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

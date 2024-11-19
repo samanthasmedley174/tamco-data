@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page old orsinium shield",
+    "displayName": "Style Page: Old Orsinium Shield",
+    "values": {
+      "commonRange": "15,962 - 44,758",
+      "averagePrice": 28313,
+      "minimumPrice": 10000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 28313,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

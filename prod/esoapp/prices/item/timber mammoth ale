@@ -1,0 +1,18 @@
+[
+  {
+    "name": "timber mammoth ale",
+    "displayName": "Timber Mammoth Ale",
+    "values": {
+      "commonRange": "6 - 60",
+      "averagePrice": 19,
+      "minimumPrice": 5,
+      "maximumPrice": 60,
+      "averageStackPrice": 1900,
+      "commonStackSize": 100,
+      "salesRecorded": 8
+    },
+    "type": "Food & Drinks",
+    "date": "03/22/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/timber_mammoth_ale.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spellshredder greatsword",
+    "displayName": "Spellshredder Greatsword",
+    "values": {
+      "commonRange": "1,500 - 18,090",
+      "averagePrice": 10423,
+      "minimumPrice": 500,
+      "maximumPrice": 150000,
+      "averageStackPrice": 10423,
+      "commonStackSize": 1,
+      "salesRecorded": 84
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

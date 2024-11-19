@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal lord warden axe",
+    "displayName": "Style Page: Opal Lord Warden Axe",
+    "values": {
+      "commonRange": "1,913 - 7,000",
+      "averagePrice": 3587,
+      "minimumPrice": 1000,
+      "maximumPrice": 9998,
+      "averageStackPrice": 3587,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Style Pages",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

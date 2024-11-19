@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rallying cry mace",
+    "displayName": "Rallying Cry Mace",
+    "values": {
+      "commonRange": "1,153 - 20,153",
+      "averagePrice": 11282,
+      "minimumPrice": 153,
+      "maximumPrice": 63153,
+      "averageStackPrice": 11282,
+      "commonStackSize": 1,
+      "salesRecorded": 87
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe creme de menthe",
+    "displayName": "Recipe: Creme De Menthe",
+    "values": {
+      "commonRange": "30 - 290",
+      "averagePrice": 179,
+      "minimumPrice": 30,
+      "maximumPrice": 300,
+      "averageStackPrice": 179,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

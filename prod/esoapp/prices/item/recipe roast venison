@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe roast venison",
+    "displayName": "Recipe: Roast Venison",
+    "values": {
+      "commonRange": "30 - 190",
+      "averagePrice": 116,
+      "minimumPrice": 27,
+      "maximumPrice": 260,
+      "averageStackPrice": 116,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

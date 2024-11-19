@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of mechanical acuity",
+    "displayName": "Ring of Mechanical Acuity",
+    "values": {
+      "commonRange": "50,000 - 73,431",
+      "averagePrice": 59503,
+      "minimumPrice": 20153,
+      "maximumPrice": 80000,
+      "averageStackPrice": 59503,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

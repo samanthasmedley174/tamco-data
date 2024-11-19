@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page spawn of mephala mask",
+    "displayName": "Style Page: Spawn of Mephala Mask",
+    "values": {
+      "commonRange": "250,000 - 500,000",
+      "averagePrice": 373820,
+      "minimumPrice": 209999,
+      "maximumPrice": 1000000,
+      "averageStackPrice": 373820,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "08/06/2024",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

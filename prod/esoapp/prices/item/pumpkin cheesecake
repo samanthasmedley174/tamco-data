@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pumpkin cheesecake",
+    "displayName": "Pumpkin Cheesecake",
+    "values": {
+      "commonRange": "5 - 8",
+      "averagePrice": 9,
+      "minimumPrice": 5,
+      "maximumPrice": 30,
+      "averageStackPrice": 900,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "12/13/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/pumpkin_cheesecake.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis telvanni chair organic",
+    "displayName": "Praxis: Telvanni Chair, Organic",
+    "values": {
+      "commonRange": "29,999 - 49,000",
+      "averagePrice": 47620,
+      "minimumPrice": 28000,
+      "maximumPrice": 109323,
+      "averageStackPrice": 47620,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

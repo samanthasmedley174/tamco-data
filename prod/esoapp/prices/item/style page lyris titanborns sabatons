@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page lyris titanborns sabatons",
+    "displayName": "Style Page: Lyris Titanborn's Sabatons",
+    "values": {
+      "commonRange": "6,000 - 50,000",
+      "averagePrice": 19359,
+      "minimumPrice": 166,
+      "maximumPrice": 100000,
+      "averageStackPrice": 19359,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

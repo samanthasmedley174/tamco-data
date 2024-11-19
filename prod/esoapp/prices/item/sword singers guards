@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword singers guards",
+    "displayName": "Sword-Singer's Guards",
+    "values": {
+      "commonRange": "183 - 1,733",
+      "averagePrice": 773,
+      "minimumPrice": 180,
+      "maximumPrice": 2174,
+      "averageStackPrice": 773,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

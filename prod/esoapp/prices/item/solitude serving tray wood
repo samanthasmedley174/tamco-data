@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude serving tray wood",
+    "displayName": "Solitude Serving Tray, Wood",
+    "values": {
+      "commonRange": "2,250 - 6,000",
+      "averagePrice": 4375,
+      "minimumPrice": 1650,
+      "maximumPrice": 7500,
+      "averageStackPrice": 4375,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

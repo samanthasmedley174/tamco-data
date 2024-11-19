@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni planter fungal",
+    "displayName": "Telvanni Planter, Fungal",
+    "values": {
+      "commonRange": "5,000 - 9,150",
+      "averagePrice": 7396,
+      "minimumPrice": 2000,
+      "maximumPrice": 9399,
+      "averageStackPrice": 7396,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

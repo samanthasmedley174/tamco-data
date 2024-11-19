@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanuss hat",
+    "displayName": "Vanus's Hat",
+    "values": {
+      "commonRange": "150 - 2,153",
+      "averagePrice": 1012,
+      "minimumPrice": 69,
+      "maximumPrice": 5153,
+      "averageStackPrice": 1012,
+      "commonStackSize": 1,
+      "salesRecorded": 113
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

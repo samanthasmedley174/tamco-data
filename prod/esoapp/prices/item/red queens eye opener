@@ -1,0 +1,18 @@
+[
+  {
+    "name": "red queens eye opener",
+    "displayName": "Red Queen's Eye-Opener",
+    "values": {
+      "commonRange": "9 - 145",
+      "averagePrice": 53,
+      "minimumPrice": 9,
+      "maximumPrice": 145,
+      "averageStackPrice": 5300,
+      "commonStackSize": 100,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "03/01/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/red_queen's_eye-opener.png"
+  }
+]

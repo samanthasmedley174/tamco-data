@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran urn dusky marble",
+    "displayName": "Redoran Urn, Dusky Marble",
+    "values": {
+      "commonRange": "2,200 - 10,311",
+      "averagePrice": 4652,
+      "minimumPrice": 2200,
+      "maximumPrice": 10311,
+      "averageStackPrice": 4652,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "04/16/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

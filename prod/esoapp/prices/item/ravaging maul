@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ravaging maul",
+    "displayName": "Ravaging Maul",
+    "values": {
+      "commonRange": "3,000 - 5,400",
+      "averagePrice": 3902,
+      "minimumPrice": 1246,
+      "maximumPrice": 6000,
+      "averageStackPrice": 3902,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

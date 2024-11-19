@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of the kynmarchers cruelty",
+    "displayName": "Sabatons of the Kynmarcher's Cruelty",
+    "values": {
+      "commonRange": "487 - 5,500",
+      "averagePrice": 2166,
+      "minimumPrice": 290,
+      "maximumPrice": 12000,
+      "averageStackPrice": 2166,
+      "commonStackSize": 1,
+      "salesRecorded": 35
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

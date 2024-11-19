@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rabbit millet pilaf",
+    "displayName": "Rabbit Millet Pilaf",
+    "values": {
+      "commonRange": "5 - 25",
+      "averagePrice": 11,
+      "minimumPrice": 5,
+      "maximumPrice": 29,
+      "averageStackPrice": 11,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "02/22/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/rabbit_millet_pilaf.png"
+  }
+]

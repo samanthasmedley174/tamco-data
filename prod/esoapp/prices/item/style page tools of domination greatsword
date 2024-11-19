@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page tools of domination greatsword",
+    "displayName": "Style Page: Tools of Domination Greatsword",
+    "values": {
+      "commonRange": "1,559 - 4,019",
+      "averagePrice": 2350,
+      "minimumPrice": 1501,
+      "maximumPrice": 4019,
+      "averageStackPrice": 2350,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

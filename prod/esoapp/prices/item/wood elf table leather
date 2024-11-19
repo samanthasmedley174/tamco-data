@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf table leather",
+    "displayName": "Wood Elf Table, Leather",
+    "values": {
+      "commonRange": "70 - 560",
+      "averagePrice": 336,
+      "minimumPrice": 60,
+      "maximumPrice": 1060,
+      "averageStackPrice": 336,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

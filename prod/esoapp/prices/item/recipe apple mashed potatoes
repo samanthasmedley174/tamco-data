@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe apple mashed potatoes",
+    "displayName": "Recipe: Apple Mashed Potatoes",
+    "values": {
+      "commonRange": "100 - 1,769",
+      "averagePrice": 979,
+      "minimumPrice": 30,
+      "maximumPrice": 1769,
+      "averageStackPrice": 979,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

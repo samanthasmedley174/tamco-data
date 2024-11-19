@@ -1,0 +1,18 @@
+[
+  {
+    "name": "siegemasters mace",
+    "displayName": "Siegemaster's Mace",
+    "values": {
+      "commonRange": "750 - 3,144",
+      "averagePrice": 1667,
+      "minimumPrice": 344,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1667,
+      "commonStackSize": 1,
+      "salesRecorded": 35
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

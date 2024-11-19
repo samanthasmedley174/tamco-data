@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the phoenix",
+    "displayName": "Ring of the Phoenix",
+    "values": {
+      "commonRange": "7,153 - 28,280",
+      "averagePrice": 22539,
+      "minimumPrice": 5150,
+      "maximumPrice": 52688,
+      "averageStackPrice": 22539,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

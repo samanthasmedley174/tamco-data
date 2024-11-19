@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page dovahs duul greaves",
+    "displayName": "Style Page: Dovah's Du'ul Greaves",
+    "values": {
+      "commonRange": "1,000 - 3,000",
+      "averagePrice": 1996,
+      "minimumPrice": 500,
+      "maximumPrice": 4693,
+      "averageStackPrice": 1996,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

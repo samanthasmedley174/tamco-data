@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch figurine the taming of the gryphon",
+    "displayName": "Sketch: Figurine, The Taming of the Gryphon",
+    "values": {
+      "commonRange": "19,000 - 30,000",
+      "averagePrice": 25970,
+      "minimumPrice": 18039,
+      "maximumPrice": 30563,
+      "averageStackPrice": 25970,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

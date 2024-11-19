@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tomb keepers breeches",
+    "displayName": "Tomb Keeper's Breeches",
+    "values": {
+      "commonRange": "371 - 371",
+      "averagePrice": 371,
+      "minimumPrice": 371,
+      "maximumPrice": 371,
+      "averageStackPrice": 371,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sapmagic ring",
+    "displayName": "Sapmagic Ring",
+    "values": {
+      "commonRange": "341 - 641",
+      "averagePrice": 471,
+      "minimumPrice": 141,
+      "maximumPrice": 760,
+      "averageStackPrice": 471,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

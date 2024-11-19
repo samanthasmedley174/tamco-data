@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough firewood fireplace",
+    "displayName": "Rough Firewood, Fireplace",
+    "values": {
+      "commonRange": "15 - 150",
+      "averagePrice": 106,
+      "minimumPrice": 15,
+      "maximumPrice": 319,
+      "averageStackPrice": 106,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/07/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

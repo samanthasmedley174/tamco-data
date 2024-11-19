@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard couch padded",
+    "displayName": "Redguard Couch, Padded",
+    "values": {
+      "commonRange": "4,000 - 5,500",
+      "averagePrice": 5090,
+      "minimumPrice": 4000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5090,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

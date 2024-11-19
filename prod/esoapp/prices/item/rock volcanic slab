@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rock volcanic slab",
+    "displayName": "Rock, Volcanic Slab",
+    "values": {
+      "commonRange": "15 - 545",
+      "averagePrice": 201,
+      "minimumPrice": 15,
+      "maximumPrice": 625,
+      "averageStackPrice": 402,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/03/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

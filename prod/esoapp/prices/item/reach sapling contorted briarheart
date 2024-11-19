@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reach sapling contorted briarheart",
+    "displayName": "Reach Sapling, Contorted Briarheart",
+    "values": {
+      "commonRange": "48,000 - 56,294",
+      "averagePrice": 51013,
+      "minimumPrice": 35500,
+      "maximumPrice": 72779,
+      "averageStackPrice": 51013,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page bristleback hunter arm cops",
+    "displayName": "Style Page: Bristleback Hunter Arm Cops",
+    "values": {
+      "commonRange": "30,000 - 45,000",
+      "averagePrice": 33840,
+      "minimumPrice": 20000,
+      "maximumPrice": 49969,
+      "averageStackPrice": 33840,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

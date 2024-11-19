@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sunport trapdoor wooden",
+    "displayName": "Sunport Trapdoor, Wooden",
+    "values": {
+      "commonRange": "6,000 - 19,000",
+      "averagePrice": 10688,
+      "minimumPrice": 4500,
+      "maximumPrice": 39541,
+      "averageStackPrice": 10688,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of the hatchlings shell",
+    "displayName": "Sabatons of the Hatchling's Shell",
+    "values": {
+      "commonRange": "290 - 5,995",
+      "averagePrice": 1945,
+      "minimumPrice": 90,
+      "maximumPrice": 25000,
+      "averageStackPrice": 1945,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rootmenders staff",
+    "displayName": "Rootmender's Staff",
+    "values": {
+      "commonRange": "1,059 - 2,500",
+      "averagePrice": 2161,
+      "minimumPrice": 346,
+      "maximumPrice": 4900,
+      "averageStackPrice": 2161,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

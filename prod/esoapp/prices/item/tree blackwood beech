@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree blackwood beech",
+    "displayName": "Tree, Blackwood Beech",
+    "values": {
+      "commonRange": "210 - 4,400",
+      "averagePrice": 2590,
+      "minimumPrice": 60,
+      "maximumPrice": 8000,
+      "averageStackPrice": 2590,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seaworthy shoes",
+    "displayName": "Seaworthy Shoes",
+    "values": {
+      "commonRange": "160 - 1,051",
+      "averagePrice": 750,
+      "minimumPrice": 84,
+      "maximumPrice": 2184,
+      "averageStackPrice": 750,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

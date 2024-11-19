@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spool empty",
+    "displayName": "Spool, Empty",
+    "values": {
+      "commonRange": "115 - 2,000",
+      "averagePrice": 963,
+      "minimumPrice": 90,
+      "maximumPrice": 2000,
+      "averageStackPrice": 963,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

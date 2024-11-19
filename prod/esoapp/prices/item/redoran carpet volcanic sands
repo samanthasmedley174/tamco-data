@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran carpet volcanic sands",
+    "displayName": "Redoran Carpet, Volcanic Sands",
+    "values": {
+      "commonRange": "500 - 2,060",
+      "averagePrice": 1305,
+      "minimumPrice": 160,
+      "maximumPrice": 4560,
+      "averageStackPrice": 1305,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

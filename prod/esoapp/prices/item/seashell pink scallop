@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seashell pink scallop",
+    "displayName": "Seashell, Pink Scallop",
+    "values": {
+      "commonRange": "400 - 1,000",
+      "averagePrice": 684,
+      "minimumPrice": 250,
+      "maximumPrice": 1150,
+      "averageStackPrice": 684,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

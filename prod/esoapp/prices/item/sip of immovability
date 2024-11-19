@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sip of immovability",
+    "displayName": "Sip of Immovability",
+    "values": {
+      "commonRange": "140 - 300",
+      "averagePrice": 209,
+      "minimumPrice": 140,
+      "maximumPrice": 300,
+      "averageStackPrice": 41800,
+      "commonStackSize": 200,
+      "salesRecorded": 62
+    },
+    "type": "Potions & Poisons",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

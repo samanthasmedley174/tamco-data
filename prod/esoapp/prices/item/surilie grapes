@@ -1,0 +1,18 @@
+[
+  {
+    "name": "surilie grapes",
+    "displayName": "Surilie Grapes",
+    "values": {
+      "commonRange": "7 - 24",
+      "averagePrice": 15,
+      "minimumPrice": 3,
+      "maximumPrice": 75,
+      "averageStackPrice": 3000,
+      "commonStackSize": 200,
+      "salesRecorded": 23
+    },
+    "type": "Provisioning Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

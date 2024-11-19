@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard seal",
+    "displayName": "Redguard Seal",
+    "values": {
+      "commonRange": "1,883 - 6,000",
+      "averagePrice": 4021,
+      "minimumPrice": 200,
+      "maximumPrice": 6000,
+      "averageStackPrice": 4021,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

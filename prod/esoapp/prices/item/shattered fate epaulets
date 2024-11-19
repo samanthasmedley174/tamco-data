@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shattered fate epaulets",
+    "displayName": "Shattered Fate Epaulets",
+    "values": {
+      "commonRange": "30,000 - 30,000",
+      "averagePrice": 27333,
+      "minimumPrice": 22000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 27333,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

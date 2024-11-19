@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page knight of the circle cuirass",
+    "displayName": "Style Page: Knight of the Circle Cuirass",
+    "values": {
+      "commonRange": "1,200,000 - 2,050,000",
+      "averagePrice": 2066775,
+      "minimumPrice": 1000000,
+      "maximumPrice": 6460333,
+      "averageStackPrice": 2066775,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shell splitter arm cops",
+    "displayName": "Shell Splitter Arm Cops",
+    "values": {
+      "commonRange": "500 - 5,000",
+      "averagePrice": 2348,
+      "minimumPrice": 310,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2348,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

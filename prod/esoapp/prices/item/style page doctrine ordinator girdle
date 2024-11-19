@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page doctrine ordinator girdle",
+    "displayName": "Style Page: Doctrine Ordinator Girdle",
+    "values": {
+      "commonRange": "500 - 5,000",
+      "averagePrice": 1843,
+      "minimumPrice": 250,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1843,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

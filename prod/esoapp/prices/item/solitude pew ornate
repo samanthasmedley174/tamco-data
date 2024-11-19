@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude pew ornate",
+    "displayName": "Solitude Pew, Ornate",
+    "values": {
+      "commonRange": "4,000 - 5,900",
+      "averagePrice": 5864,
+      "minimumPrice": 4000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 5864,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/29/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

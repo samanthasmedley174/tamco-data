@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe thrice baked gorapple pie",
+    "displayName": "Recipe: Thrice-Baked Gorapple Pie",
+    "values": {
+      "commonRange": "25 - 100",
+      "averagePrice": 48,
+      "minimumPrice": 6,
+      "maximumPrice": 225,
+      "averageStackPrice": 48,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

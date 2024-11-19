@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe ash hopper dumplings on scathecraw",
+    "displayName": "Recipe: Ash-Hopper Dumplings on Scathecraw",
+    "values": {
+      "commonRange": "530 - 8,000",
+      "averagePrice": 3264,
+      "minimumPrice": 169,
+      "maximumPrice": 8420,
+      "averageStackPrice": 3264,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

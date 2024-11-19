@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of necropotence",
+    "displayName": "Shield of Necropotence",
+    "values": {
+      "commonRange": "150 - 3,700",
+      "averagePrice": 1590,
+      "minimumPrice": 150,
+      "maximumPrice": 11000,
+      "averageStackPrice": 1590,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

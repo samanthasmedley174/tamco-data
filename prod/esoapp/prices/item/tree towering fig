@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree towering fig",
+    "displayName": "Tree, Towering Fig",
+    "values": {
+      "commonRange": "8,000 - 12,500",
+      "averagePrice": 9804,
+      "minimumPrice": 3846,
+      "maximumPrice": 12500,
+      "averageStackPrice": 19608,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/28/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

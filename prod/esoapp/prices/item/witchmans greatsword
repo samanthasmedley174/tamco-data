@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witchmans greatsword",
+    "displayName": "Witchman's Greatsword",
+    "values": {
+      "commonRange": "450 - 706",
+      "averagePrice": 707,
+      "minimumPrice": 300,
+      "maximumPrice": 1800,
+      "averageStackPrice": 707,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

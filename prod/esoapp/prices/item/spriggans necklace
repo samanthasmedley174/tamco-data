@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spriggans necklace",
+    "displayName": "Spriggan's Necklace",
+    "values": {
+      "commonRange": "500 - 30,000",
+      "averagePrice": 10128,
+      "minimumPrice": 199,
+      "maximumPrice": 70000,
+      "averageStackPrice": 10128,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

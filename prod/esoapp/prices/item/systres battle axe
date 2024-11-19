@@ -1,0 +1,18 @@
+[
+  {
+    "name": "systres battle axe",
+    "displayName": "Systres' Battle Axe",
+    "values": {
+      "commonRange": "1,000 - 1,200",
+      "averagePrice": 1110,
+      "minimumPrice": 1000,
+      "maximumPrice": 1240,
+      "averageStackPrice": 1110,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "statue saint kaladas",
+    "displayName": "Statue, Saint Kaladas",
+    "values": {
+      "commonRange": "80,000 - 134,707",
+      "averagePrice": 106810,
+      "minimumPrice": 8675,
+      "maximumPrice": 220000,
+      "averageStackPrice": 106810,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

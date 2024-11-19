@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sapling mountain",
+    "displayName": "Sapling, Mountain",
+    "values": {
+      "commonRange": "250 - 1,400",
+      "averagePrice": 843,
+      "minimumPrice": 100,
+      "maximumPrice": 1400,
+      "averageStackPrice": 843,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "10/04/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

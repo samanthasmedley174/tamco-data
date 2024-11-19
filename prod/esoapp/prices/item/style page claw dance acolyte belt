@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page claw dance acolyte belt",
+    "displayName": "Style Page: Claw-Dance Acolyte Belt",
+    "values": {
+      "commonRange": "5,000 - 11,000",
+      "averagePrice": 13807,
+      "minimumPrice": 3000,
+      "maximumPrice": 75000,
+      "averageStackPrice": 13807,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

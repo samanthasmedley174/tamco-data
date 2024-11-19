@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of night terror",
+    "displayName": "Ring of Night Terror",
+    "values": {
+      "commonRange": "150 - 3,000",
+      "averagePrice": 1259,
+      "minimumPrice": 144,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1259,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

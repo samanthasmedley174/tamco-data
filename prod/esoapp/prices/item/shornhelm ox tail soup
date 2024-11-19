@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shornhelm ox tail soup",
+    "displayName": "Shornhelm Ox-Tail Soup",
+    "values": {
+      "commonRange": "9 - 9",
+      "averagePrice": 34,
+      "minimumPrice": 9,
+      "maximumPrice": 107,
+      "averageStackPrice": 2380,
+      "commonStackSize": 70,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "05/07/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/shornhelm_ox-tail_soup.png"
+  }
+]

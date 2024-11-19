@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shacklebreaker lightning staff",
+    "displayName": "Shacklebreaker Lightning Staff",
+    "values": {
+      "commonRange": "44,252 - 44,252",
+      "averagePrice": 44252,
+      "minimumPrice": 44252,
+      "maximumPrice": 44252,
+      "averageStackPrice": 44252,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

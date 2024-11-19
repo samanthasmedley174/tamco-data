@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe seared slaughterfish with mammoth cheese",
+    "displayName": "Recipe: Seared Slaughterfish with Mammoth Cheese",
+    "values": {
+      "commonRange": "2,000 - 22,000",
+      "averagePrice": 8797,
+      "minimumPrice": 1500,
+      "maximumPrice": 22000,
+      "averageStackPrice": 8797,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

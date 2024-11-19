@@ -1,0 +1,18 @@
+[
+  {
+    "name": "toadstool bloodtooth cap",
+    "displayName": "Toadstool, Bloodtooth Cap",
+    "values": {
+      "commonRange": "2,000 - 5,500",
+      "averagePrice": 3170,
+      "minimumPrice": 1150,
+      "maximumPrice": 5735,
+      "averageStackPrice": 3170,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

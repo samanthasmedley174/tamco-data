@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spinners ring",
+    "displayName": "Spinner's Ring",
+    "values": {
+      "commonRange": "144 - 29,807",
+      "averagePrice": 7146,
+      "minimumPrice": 90,
+      "maximumPrice": 82353,
+      "averageStackPrice": 7146,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

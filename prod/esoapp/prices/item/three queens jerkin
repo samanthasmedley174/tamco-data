@@ -1,0 +1,18 @@
+[
+  {
+    "name": "three queens jerkin",
+    "displayName": "Three Queens Jerkin",
+    "values": {
+      "commonRange": "180 - 4,183",
+      "averagePrice": 2152,
+      "minimumPrice": 110,
+      "maximumPrice": 25000,
+      "averageStackPrice": 2152,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

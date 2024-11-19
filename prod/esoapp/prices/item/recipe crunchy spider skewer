@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe crunchy spider skewer",
+    "displayName": "Recipe: Crunchy Spider Skewer",
+    "values": {
+      "commonRange": "490 - 3,000",
+      "averagePrice": 3190,
+      "minimumPrice": 490,
+      "maximumPrice": 40000,
+      "averageStackPrice": 3190,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

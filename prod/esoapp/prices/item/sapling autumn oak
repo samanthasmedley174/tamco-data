@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sapling autumn oak",
+    "displayName": "Sapling, Autumn Oak",
+    "values": {
+      "commonRange": "950 - 1,830",
+      "averagePrice": 1519,
+      "minimumPrice": 812,
+      "maximumPrice": 1830,
+      "averageStackPrice": 1519,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

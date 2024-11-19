@@ -1,0 +1,18 @@
+[
+  {
+    "name": "royal staff of anequina",
+    "displayName": "Royal Staff of Anequina",
+    "values": {
+      "commonRange": "848 - 10,246",
+      "averagePrice": 3906,
+      "minimumPrice": 246,
+      "maximumPrice": 10246,
+      "averageStackPrice": 3906,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

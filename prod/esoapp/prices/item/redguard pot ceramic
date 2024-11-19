@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard pot ceramic",
+    "displayName": "Redguard Pot, Ceramic",
+    "values": {
+      "commonRange": "160 - 4,060",
+      "averagePrice": 2506,
+      "minimumPrice": 60,
+      "maximumPrice": 9000,
+      "averageStackPrice": 2506,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

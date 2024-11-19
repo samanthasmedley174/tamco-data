@@ -1,0 +1,18 @@
+[
+  {
+    "name": "river betty",
+    "displayName": "River Betty",
+    "values": {
+      "commonRange": "9 - 489",
+      "averagePrice": 359,
+      "minimumPrice": 9,
+      "maximumPrice": 499,
+      "averageStackPrice": 1436,
+      "commonStackSize": 4,
+      "salesRecorded": 11
+    },
+    "type": "Fishing",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Fishing/River_Betty.png"
+  }
+]

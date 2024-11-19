@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page pirate skeleton shoulder",
+    "displayName": "Style Page: Pirate Skeleton Shoulder",
+    "values": {
+      "commonRange": "35,000 - 85,991",
+      "averagePrice": 71890,
+      "minimumPrice": 12000,
+      "maximumPrice": 175909,
+      "averageStackPrice": 71890,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

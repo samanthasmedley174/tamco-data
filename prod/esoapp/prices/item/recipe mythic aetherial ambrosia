@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe mythic aetherial ambrosia",
+    "displayName": "Recipe: Mythic Aetherial Ambrosia",
+    "values": {
+      "commonRange": "580,000 - 652,170",
+      "averagePrice": 638017,
+      "minimumPrice": 450000,
+      "maximumPrice": 1100067,
+      "averageStackPrice": 638017,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

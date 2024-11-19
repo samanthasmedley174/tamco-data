@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stone carving bird",
+    "displayName": "Stone Carving, Bird",
+    "values": {
+      "commonRange": "1,060 - 4,000",
+      "averagePrice": 3027,
+      "minimumPrice": 1060,
+      "maximumPrice": 10060,
+      "averageStackPrice": 3027,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/22/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

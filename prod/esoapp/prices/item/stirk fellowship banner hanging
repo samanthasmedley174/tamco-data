@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stirk fellowship banner hanging",
+    "displayName": "Stirk Fellowship Banner, Hanging",
+    "values": {
+      "commonRange": "5,500 - 16,300",
+      "averagePrice": 11124,
+      "minimumPrice": 4000,
+      "maximumPrice": 16300,
+      "averageStackPrice": 11124,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

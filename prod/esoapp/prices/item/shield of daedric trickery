@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of daedric trickery",
+    "displayName": "Shield of Daedric Trickery",
+    "values": {
+      "commonRange": "19,000 - 50,000",
+      "averagePrice": 34500,
+      "minimumPrice": 19000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 34500,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

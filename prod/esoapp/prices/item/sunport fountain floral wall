@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sunport fountain floral wall",
+    "displayName": "Sunport Fountain, Floral Wall",
+    "values": {
+      "commonRange": "7,000 - 9,850",
+      "averagePrice": 8090,
+      "minimumPrice": 6500,
+      "maximumPrice": 9850,
+      "averageStackPrice": 8090,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

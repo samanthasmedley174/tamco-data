@@ -1,0 +1,18 @@
+[
+  {
+    "name": "swamp jelly carrying jar",
+    "displayName": "Swamp Jelly Carrying Jar",
+    "values": {
+      "commonRange": "3,000 - 10,039",
+      "averagePrice": 7112,
+      "minimumPrice": 3000,
+      "maximumPrice": 10039,
+      "averageStackPrice": 7112,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Fragments",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

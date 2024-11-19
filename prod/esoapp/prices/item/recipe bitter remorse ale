@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe bitter remorse ale",
+    "displayName": "Recipe: Bitter Remorse Ale",
+    "values": {
+      "commonRange": "100 - 565",
+      "averagePrice": 348,
+      "minimumPrice": 30,
+      "maximumPrice": 577,
+      "averageStackPrice": 348,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

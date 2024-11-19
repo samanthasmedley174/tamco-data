@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe pyandonea merlot",
+    "displayName": "Recipe: Pyandonea Merlot",
+    "values": {
+      "commonRange": "230 - 4,165",
+      "averagePrice": 2260,
+      "minimumPrice": 161,
+      "maximumPrice": 4500,
+      "averageStackPrice": 2260,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the vicecanons bracers",
+    "displayName": "The Vicecanon's Bracers",
+    "values": {
+      "commonRange": "5,000 - 33,588",
+      "averagePrice": 18410,
+      "minimumPrice": 2999,
+      "maximumPrice": 50000,
+      "averageStackPrice": 18410,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

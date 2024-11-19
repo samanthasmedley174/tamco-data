@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senchal defenders mace",
+    "displayName": "Senchal Defender's Mace",
+    "values": {
+      "commonRange": "300 - 1,500",
+      "averagePrice": 920,
+      "minimumPrice": 153,
+      "maximumPrice": 2155,
+      "averageStackPrice": 920,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

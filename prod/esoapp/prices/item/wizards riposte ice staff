@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wizards riposte ice staff",
+    "displayName": "Wizard's Riposte Ice Staff",
+    "values": {
+      "commonRange": "3,246 - 4,246",
+      "averagePrice": 3596,
+      "minimumPrice": 1996,
+      "maximumPrice": 4246,
+      "averageStackPrice": 3596,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

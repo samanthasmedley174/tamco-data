@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page zenithar battlesmith bracers",
+    "displayName": "Style Page: Zenithar Battlesmith Bracers",
+    "values": {
+      "commonRange": "1,000 - 10,000",
+      "averagePrice": 3784,
+      "minimumPrice": 701,
+      "maximumPrice": 15000,
+      "averageStackPrice": 3784,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

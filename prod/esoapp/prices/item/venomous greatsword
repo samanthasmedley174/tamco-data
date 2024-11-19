@@ -1,0 +1,18 @@
+[
+  {
+    "name": "venomous greatsword",
+    "displayName": "Venomous Greatsword",
+    "values": {
+      "commonRange": "1,200 - 30,000",
+      "averagePrice": 24890,
+      "minimumPrice": 246,
+      "maximumPrice": 198000,
+      "averageStackPrice": 24890,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude table circular ornate",
+    "displayName": "Solitude Table, Circular Ornate",
+    "values": {
+      "commonRange": "7,300 - 9,800",
+      "averagePrice": 8373,
+      "minimumPrice": 7300,
+      "maximumPrice": 15000,
+      "averageStackPrice": 8373,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/23/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

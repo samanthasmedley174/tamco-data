@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vivecs robe of duality",
+    "displayName": "Vivec's Robe of Duality",
+    "values": {
+      "commonRange": "183 - 1,500",
+      "averagePrice": 756,
+      "minimumPrice": 180,
+      "maximumPrice": 1995,
+      "averageStackPrice": 756,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

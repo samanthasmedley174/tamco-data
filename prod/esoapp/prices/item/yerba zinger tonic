@@ -1,0 +1,18 @@
+[
+  {
+    "name": "yerba zinger tonic",
+    "displayName": "Yerba Zinger Tonic",
+    "values": {
+      "commonRange": "9 - 9",
+      "averagePrice": 6,
+      "minimumPrice": 1,
+      "maximumPrice": 9,
+      "averageStackPrice": 300,
+      "commonStackSize": 50,
+      "salesRecorded": 3
+    },
+    "type": "Food & Drinks",
+    "date": "08/31/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/yerba_zinger_tonic.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shell splitter bow",
+    "displayName": "Shell Splitter Bow",
+    "values": {
+      "commonRange": "1,234 - 2,400",
+      "averagePrice": 1674,
+      "minimumPrice": 900,
+      "maximumPrice": 2500,
+      "averageStackPrice": 1674,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe solstheim elk and scuttle",
+    "displayName": "Recipe: Solstheim Elk and Scuttle",
+    "values": {
+      "commonRange": "482 - 2,529",
+      "averagePrice": 1533,
+      "minimumPrice": 300,
+      "maximumPrice": 2529,
+      "averageStackPrice": 1533,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

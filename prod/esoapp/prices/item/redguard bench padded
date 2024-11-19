@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard bench padded",
+    "displayName": "Redguard Bench, Padded",
+    "values": {
+      "commonRange": "5,050 - 9,700",
+      "averagePrice": 7385,
+      "minimumPrice": 4750,
+      "maximumPrice": 9739,
+      "averageStackPrice": 7385,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

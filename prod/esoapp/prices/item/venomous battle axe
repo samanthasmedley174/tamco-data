@@ -1,0 +1,18 @@
+[
+  {
+    "name": "venomous battle axe",
+    "displayName": "Venomous Battle Axe",
+    "values": {
+      "commonRange": "2,250 - 16,000",
+      "averagePrice": 10403,
+      "minimumPrice": 440,
+      "maximumPrice": 30000,
+      "averageStackPrice": 10403,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

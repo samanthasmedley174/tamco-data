@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sithis shoes",
+    "displayName": "Sithis' Shoes",
+    "values": {
+      "commonRange": "390 - 3,287",
+      "averagePrice": 1021,
+      "minimumPrice": 200,
+      "maximumPrice": 3345,
+      "averageStackPrice": 1021,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of wretched vitality",
+    "displayName": "Sword of Wretched Vitality",
+    "values": {
+      "commonRange": "54,837 - 80,000",
+      "averagePrice": 64743,
+      "minimumPrice": 10945,
+      "maximumPrice": 90000,
+      "averageStackPrice": 64743,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

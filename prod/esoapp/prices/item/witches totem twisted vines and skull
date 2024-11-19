@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witches totem twisted vines and skull",
+    "displayName": "Witches Totem, Twisted Vines and Skull",
+    "values": {
+      "commonRange": "400 - 1,000",
+      "averagePrice": 746,
+      "minimumPrice": 330,
+      "maximumPrice": 1750,
+      "averageStackPrice": 746,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

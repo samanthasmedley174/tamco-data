@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal bloodspawn staff",
+    "displayName": "Style Page: Opal Bloodspawn Staff",
+    "values": {
+      "commonRange": "20,000 - 36,369",
+      "averagePrice": 25473,
+      "minimumPrice": 10000,
+      "maximumPrice": 37228,
+      "averageStackPrice": 25473,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

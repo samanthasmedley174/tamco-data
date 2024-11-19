@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page sovngarde stalwart helmet",
+    "displayName": "Style Page: Sovngarde Stalwart Helmet",
+    "values": {
+      "commonRange": "25,500 - 60,000",
+      "averagePrice": 44783,
+      "minimumPrice": 11332,
+      "maximumPrice": 100000,
+      "averageStackPrice": 44783,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

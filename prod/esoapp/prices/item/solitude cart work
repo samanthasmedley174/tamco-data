@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude cart work",
+    "displayName": "Solitude Cart, Work",
+    "values": {
+      "commonRange": "2,000 - 6,400",
+      "averagePrice": 5715,
+      "minimumPrice": 1650,
+      "maximumPrice": 22150,
+      "averageStackPrice": 5715,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

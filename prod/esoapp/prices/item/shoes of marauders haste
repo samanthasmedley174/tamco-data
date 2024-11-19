@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of marauders haste",
+    "displayName": "Shoes of Marauder's Haste",
+    "values": {
+      "commonRange": "90 - 1,100",
+      "averagePrice": 619,
+      "minimumPrice": 87,
+      "maximumPrice": 2090,
+      "averageStackPrice": 619,
+      "commonStackSize": 1,
+      "salesRecorded": 50
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

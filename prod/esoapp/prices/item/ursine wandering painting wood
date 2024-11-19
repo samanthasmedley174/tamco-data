@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ursine wandering painting wood",
+    "displayName": "Ursine Wandering Painting, Wood",
+    "values": {
+      "commonRange": "39,086 - 50,409",
+      "averagePrice": 44046,
+      "minimumPrice": 33000,
+      "maximumPrice": 59000,
+      "averageStackPrice": 44046,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

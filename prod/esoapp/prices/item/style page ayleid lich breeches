@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page ayleid lich breeches",
+    "displayName": "Style Page: Ayleid Lich Breeches",
+    "values": {
+      "commonRange": "1,000 - 4,000",
+      "averagePrice": 2374,
+      "minimumPrice": 900,
+      "maximumPrice": 6184,
+      "averageStackPrice": 2374,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

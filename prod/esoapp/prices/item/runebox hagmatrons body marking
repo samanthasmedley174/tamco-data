@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox hagmatrons body marking",
+    "displayName": "Runebox: Hagmatron's Body Marking",
+    "values": {
+      "commonRange": "232 - 5,000",
+      "averagePrice": 976,
+      "minimumPrice": 232,
+      "maximumPrice": 5000,
+      "averageStackPrice": 976,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Runeboxes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

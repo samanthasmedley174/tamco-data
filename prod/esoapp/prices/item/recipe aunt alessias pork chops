@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe aunt alessias pork chops",
+    "displayName": "Recipe: Aunt Alessia's Pork Chops",
+    "values": {
+      "commonRange": "130 - 3,200",
+      "averagePrice": 1118,
+      "minimumPrice": 30,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1118,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

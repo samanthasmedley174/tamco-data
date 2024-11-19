@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of hundings rage",
+    "displayName": "Sword of Hunding's Rage",
+    "values": {
+      "commonRange": "42,156 - 78,156",
+      "averagePrice": 52397,
+      "minimumPrice": 10000,
+      "maximumPrice": 110000,
+      "averageStackPrice": 52397,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

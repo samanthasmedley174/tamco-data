@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page skaal explorer gloves",
+    "displayName": "Style Page: Skaal Explorer Gloves",
+    "values": {
+      "commonRange": "79 - 500",
+      "averagePrice": 252,
+      "minimumPrice": 50,
+      "maximumPrice": 500,
+      "averageStackPrice": 252,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

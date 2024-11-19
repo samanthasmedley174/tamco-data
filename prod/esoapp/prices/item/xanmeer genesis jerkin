@@ -1,0 +1,18 @@
+[
+  {
+    "name": "xanmeer genesis jerkin",
+    "displayName": "Xanmeer Genesis Jerkin",
+    "values": {
+      "commonRange": "580 - 1,499",
+      "averagePrice": 1168,
+      "minimumPrice": 500,
+      "maximumPrice": 2999,
+      "averageStackPrice": 1168,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

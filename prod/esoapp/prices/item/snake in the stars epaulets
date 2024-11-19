@@ -1,0 +1,18 @@
+[
+  {
+    "name": "snake in the stars epaulets",
+    "displayName": "Snake in the Stars Epaulets",
+    "values": {
+      "commonRange": "500 - 2,999",
+      "averagePrice": 1293,
+      "minimumPrice": 450,
+      "maximumPrice": 3150,
+      "averageStackPrice": 1293,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

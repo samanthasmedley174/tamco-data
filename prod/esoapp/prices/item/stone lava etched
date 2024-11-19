@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stone lava etched",
+    "displayName": "Stone, Lava-Etched",
+    "values": {
+      "commonRange": "13,000 - 19,769",
+      "averagePrice": 16251,
+      "minimumPrice": 13000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 16251,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

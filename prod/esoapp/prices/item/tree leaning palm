@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree leaning palm",
+    "displayName": "Tree, Leaning Palm",
+    "values": {
+      "commonRange": "1,015 - 4,015",
+      "averagePrice": 2147,
+      "minimumPrice": 500,
+      "maximumPrice": 4015,
+      "averageStackPrice": 2147,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "02/08/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

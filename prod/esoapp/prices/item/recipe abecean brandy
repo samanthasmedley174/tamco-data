@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe abecean brandy",
+    "displayName": "Recipe: Abecean Brandy",
+    "values": {
+      "commonRange": "2,278 - 5,000",
+      "averagePrice": 3367,
+      "minimumPrice": 2000,
+      "maximumPrice": 5009,
+      "averageStackPrice": 3367,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

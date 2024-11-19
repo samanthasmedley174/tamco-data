@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sapling lanky ash laurel",
+    "displayName": "Sapling, Lanky Ash Laurel",
+    "values": {
+      "commonRange": "260 - 1,000",
+      "averagePrice": 748,
+      "minimumPrice": 160,
+      "maximumPrice": 1060,
+      "averageStackPrice": 748,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

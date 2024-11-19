@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree squat white cherry",
+    "displayName": "Tree, Squat White Cherry",
+    "values": {
+      "commonRange": "2,400 - 10,412",
+      "averagePrice": 8241,
+      "minimumPrice": 1000,
+      "maximumPrice": 10756,
+      "averageStackPrice": 8241,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

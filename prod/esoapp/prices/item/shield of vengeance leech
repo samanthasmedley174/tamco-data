@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of vengeance leech",
+    "displayName": "Shield of Vengeance Leech",
+    "values": {
+      "commonRange": "900 - 5,000",
+      "averagePrice": 2661,
+      "minimumPrice": 850,
+      "maximumPrice": 8153,
+      "averageStackPrice": 2661,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

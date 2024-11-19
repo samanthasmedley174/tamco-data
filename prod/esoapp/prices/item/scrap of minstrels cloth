@@ -1,0 +1,18 @@
+[
+  {
+    "name": "scrap of minstrels cloth",
+    "displayName": "Scrap of Minstrel's Cloth",
+    "values": {
+      "commonRange": "164,714 - 210,000",
+      "averagePrice": 174108,
+      "minimumPrice": 149000,
+      "maximumPrice": 240000,
+      "averageStackPrice": 174108,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Fragments",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

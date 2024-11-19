@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page saarthal scholar breeches",
+    "displayName": "Style Page: Saarthal Scholar Breeches",
+    "values": {
+      "commonRange": "1,000 - 23,906",
+      "averagePrice": 19311,
+      "minimumPrice": 500,
+      "maximumPrice": 76555,
+      "averageStackPrice": 19311,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

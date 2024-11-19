@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf bladder fermenting",
+    "displayName": "Wood Elf Bladder, Fermenting",
+    "values": {
+      "commonRange": "350 - 1,475",
+      "averagePrice": 899,
+      "minimumPrice": 350,
+      "maximumPrice": 1475,
+      "averageStackPrice": 899,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ysgramors ice staff",
+    "displayName": "Ysgramor's Ice Staff",
+    "values": {
+      "commonRange": "750 - 6,999",
+      "averagePrice": 2651,
+      "minimumPrice": 450,
+      "maximumPrice": 9999,
+      "averageStackPrice": 2651,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

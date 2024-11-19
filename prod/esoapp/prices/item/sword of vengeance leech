@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of vengeance leech",
+    "displayName": "Sword of Vengeance Leech",
+    "values": {
+      "commonRange": "1,150 - 4,150",
+      "averagePrice": 4276,
+      "minimumPrice": 650,
+      "maximumPrice": 11153,
+      "averageStackPrice": 4276,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

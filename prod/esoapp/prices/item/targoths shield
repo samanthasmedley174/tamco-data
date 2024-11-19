@@ -1,0 +1,18 @@
+[
+  {
+    "name": "targoths shield",
+    "displayName": "Targoth's Shield",
+    "values": {
+      "commonRange": "100 - 700",
+      "averagePrice": 705,
+      "minimumPrice": 66,
+      "maximumPrice": 1955,
+      "averageStackPrice": 705,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

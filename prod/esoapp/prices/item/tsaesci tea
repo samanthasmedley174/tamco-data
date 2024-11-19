@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tsaesci tea",
+    "displayName": "Tsaesci Tea",
+    "values": {
+      "commonRange": "16 - 16",
+      "averagePrice": 16,
+      "minimumPrice": 16,
+      "maximumPrice": 16,
+      "averageStackPrice": 192,
+      "commonStackSize": 12,
+      "salesRecorded": 2
+    },
+    "type": "Food & Drinks",
+    "date": "11/09/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/tsaesci_tea.png"
+  }
+]

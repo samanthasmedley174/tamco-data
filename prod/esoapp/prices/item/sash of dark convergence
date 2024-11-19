@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of dark convergence",
+    "displayName": "Sash of Dark Convergence",
+    "values": {
+      "commonRange": "9,090 - 120,000",
+      "averagePrice": 35827,
+      "minimumPrice": 455,
+      "maximumPrice": 120000,
+      "averageStackPrice": 35827,
+      "commonStackSize": 1,
+      "salesRecorded": 93
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "signature script knights valor",
+    "displayName": "Signature Script: Knight's Valor",
+    "values": {
+      "commonRange": "9,000 - 84,382",
+      "averagePrice": 94799,
+      "minimumPrice": 9000,
+      "maximumPrice": 815422,
+      "averageStackPrice": 94799,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Scripts",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Signature_Script:_Knight's_Valor.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard amphora golden",
+    "displayName": "Redguard Amphora, Golden",
+    "values": {
+      "commonRange": "12,000 - 30,000",
+      "averagePrice": 16700,
+      "minimumPrice": 5000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 16700,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/12/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

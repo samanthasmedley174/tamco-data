@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfast hero cuirass",
+    "displayName": "Steadfast Hero Cuirass",
+    "values": {
+      "commonRange": "1,000 - 2,183",
+      "averagePrice": 1883,
+      "minimumPrice": 500,
+      "maximumPrice": 4183,
+      "averageStackPrice": 1883,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page black drake clanwrap hat",
+    "displayName": "Style Page: Black Drake Clanwrap Hat",
+    "values": {
+      "commonRange": "120,000 - 299,000",
+      "averagePrice": 234588,
+      "minimumPrice": 107989,
+      "maximumPrice": 699000,
+      "averageStackPrice": 234588,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

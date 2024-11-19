@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reachmen chandelier shaded",
+    "displayName": "Reachmen Chandelier, Shaded",
+    "values": {
+      "commonRange": "3,000 - 13,990",
+      "averagePrice": 7518,
+      "minimumPrice": 554,
+      "maximumPrice": 14900,
+      "averageStackPrice": 7518,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

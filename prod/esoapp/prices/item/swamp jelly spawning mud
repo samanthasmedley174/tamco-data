@@ -1,0 +1,18 @@
+[
+  {
+    "name": "swamp jelly spawning mud",
+    "displayName": "Swamp Jelly Spawning Mud",
+    "values": {
+      "commonRange": "3,640 - 6,947",
+      "averagePrice": 5805,
+      "minimumPrice": 1500,
+      "maximumPrice": 15039,
+      "averageStackPrice": 5805,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Fragments",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

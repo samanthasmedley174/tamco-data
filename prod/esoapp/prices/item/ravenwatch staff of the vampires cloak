@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ravenwatch staff of the vampires cloak",
+    "displayName": "Ravenwatch Staff of the Vampire's Cloak",
+    "values": {
+      "commonRange": "651 - 651",
+      "averagePrice": 651,
+      "minimumPrice": 651,
+      "maximumPrice": 651,
+      "averageStackPrice": 651,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

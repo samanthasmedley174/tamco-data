@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran sideboard display",
+    "displayName": "Redoran Sideboard, Display",
+    "values": {
+      "commonRange": "750 - 5,000",
+      "averagePrice": 2635,
+      "minimumPrice": 750,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2635,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "07/12/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

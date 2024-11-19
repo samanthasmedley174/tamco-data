@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shornhelm guard armet",
+    "displayName": "Shornhelm Guard Armet",
+    "values": {
+      "commonRange": "300 - 500",
+      "averagePrice": 400,
+      "minimumPrice": 300,
+      "maximumPrice": 500,
+      "averageStackPrice": 400,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "02/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

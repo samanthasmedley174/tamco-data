@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of the seducer",
+    "displayName": "Sash of the Seducer",
+    "values": {
+      "commonRange": "3,000 - 74,093",
+      "averagePrice": 38547,
+      "minimumPrice": 3000,
+      "maximumPrice": 74093,
+      "averageStackPrice": 38547,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

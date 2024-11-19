@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe ginkgo tonic",
+    "displayName": "Recipe: Ginkgo Tonic",
+    "values": {
+      "commonRange": "27 - 172",
+      "averagePrice": 98,
+      "minimumPrice": 25,
+      "maximumPrice": 250,
+      "averageStackPrice": 98,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

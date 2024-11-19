@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of the voidcaller",
+    "displayName": "Shield of the Voidcaller",
+    "values": {
+      "commonRange": "1,990 - 1,990",
+      "averagePrice": 1663,
+      "minimumPrice": 1000,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1663,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

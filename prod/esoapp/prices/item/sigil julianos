@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sigil julianos",
+    "displayName": "Sigil, Julianos",
+    "values": {
+      "commonRange": "25,000 - 29,000",
+      "averagePrice": 25690,
+      "minimumPrice": 15000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 25690,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal bloodspawn shield",
+    "displayName": "Style Page: Opal Bloodspawn Shield",
+    "values": {
+      "commonRange": "2,000 - 18,000",
+      "averagePrice": 13147,
+      "minimumPrice": 1000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 13147,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

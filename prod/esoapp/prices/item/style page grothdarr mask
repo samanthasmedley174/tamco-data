@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page grothdarr mask",
+    "displayName": "Style Page: Grothdarr Mask",
+    "values": {
+      "commonRange": "250,000 - 4,000,000",
+      "averagePrice": 2575000,
+      "minimumPrice": 200000,
+      "maximumPrice": 8000000,
+      "averageStackPrice": 2575000,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Style Pages",
+    "date": "03/14/2023",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

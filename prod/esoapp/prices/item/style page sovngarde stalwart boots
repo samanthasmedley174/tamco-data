@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page sovngarde stalwart boots",
+    "displayName": "Style Page: Sovngarde Stalwart Boots",
+    "values": {
+      "commonRange": "500 - 44,385",
+      "averagePrice": 26541,
+      "minimumPrice": 500,
+      "maximumPrice": 46490,
+      "averageStackPrice": 26541,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard bottle delicate",
+    "displayName": "Redguard Bottle, Delicate",
+    "values": {
+      "commonRange": "4,500 - 7,300",
+      "averagePrice": 5941,
+      "minimumPrice": 3300,
+      "maximumPrice": 7300,
+      "averageStackPrice": 5941,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

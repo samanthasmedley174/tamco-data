@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric container congealed liquid",
+    "displayName": "Vampiric Container, Congealed Liquid",
+    "values": {
+      "commonRange": "150 - 500",
+      "averagePrice": 626,
+      "minimumPrice": 100,
+      "maximumPrice": 7000,
+      "averageStackPrice": 626,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Furnishings",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

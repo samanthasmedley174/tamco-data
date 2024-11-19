@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page doctrine ordinator gauntlets",
+    "displayName": "Style Page: Doctrine Ordinator Gauntlets",
+    "values": {
+      "commonRange": "1,743 - 3,250",
+      "averagePrice": 3280,
+      "minimumPrice": 1234,
+      "maximumPrice": 20000,
+      "averageStackPrice": 3280,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

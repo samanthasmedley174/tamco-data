@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senchal defenders axe",
+    "displayName": "Senchal Defender's Axe",
+    "values": {
+      "commonRange": "450 - 1,500",
+      "averagePrice": 1001,
+      "minimumPrice": 190,
+      "maximumPrice": 2155,
+      "averageStackPrice": 1001,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

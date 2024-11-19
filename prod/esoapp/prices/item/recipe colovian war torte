@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe colovian war torte",
+    "displayName": "Recipe: Colovian War Torte",
+    "values": {
+      "commonRange": "480,000 - 583,513",
+      "averagePrice": 542841,
+      "minimumPrice": 480000,
+      "maximumPrice": 583513,
+      "averageStackPrice": 542841,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

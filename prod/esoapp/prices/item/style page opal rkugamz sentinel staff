@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal rkugamz sentinel staff",
+    "displayName": "Style Page: Opal Rkugamz Sentinel Staff",
+    "values": {
+      "commonRange": "4,000 - 8,105",
+      "averagePrice": 5667,
+      "minimumPrice": 500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5667,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

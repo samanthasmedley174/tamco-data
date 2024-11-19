@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pumpkin corn fritters",
+    "displayName": "Pumpkin Corn Fritters",
+    "values": {
+      "commonRange": "6 - 15",
+      "averagePrice": 13,
+      "minimumPrice": 6,
+      "maximumPrice": 36,
+      "averageStackPrice": 1300,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/pumpkin_corn_fritters.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wizards riposte epaulets",
+    "displayName": "Wizard's Riposte Epaulets",
+    "values": {
+      "commonRange": "330 - 2,144",
+      "averagePrice": 952,
+      "minimumPrice": 153,
+      "maximumPrice": 5000,
+      "averageStackPrice": 952,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

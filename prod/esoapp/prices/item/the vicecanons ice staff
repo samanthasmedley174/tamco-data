@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the vicecanons ice staff",
+    "displayName": "The Vicecanon's Ice Staff",
+    "values": {
+      "commonRange": "4,000 - 4,000",
+      "averagePrice": 12746,
+      "minimumPrice": 3999,
+      "maximumPrice": 30240,
+      "averageStackPrice": 12746,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

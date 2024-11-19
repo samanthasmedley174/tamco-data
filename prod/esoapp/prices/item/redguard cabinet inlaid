@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard cabinet inlaid",
+    "displayName": "Redguard Cabinet, Inlaid",
+    "values": {
+      "commonRange": "4,350 - 6,150",
+      "averagePrice": 5026,
+      "minimumPrice": 2000,
+      "maximumPrice": 7000,
+      "averageStackPrice": 5026,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

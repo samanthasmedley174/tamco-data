@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page hearts day duelist shoes",
+    "displayName": "Style Page: Heart's Day Duelist Shoes",
+    "values": {
+      "commonRange": "2,500 - 40,000",
+      "averagePrice": 19532,
+      "minimumPrice": 27,
+      "maximumPrice": 86950,
+      "averageStackPrice": 19532,
+      "commonStackSize": 1,
+      "salesRecorded": 150
+    },
+    "type": "Style Pages",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

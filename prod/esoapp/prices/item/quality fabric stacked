@@ -1,0 +1,18 @@
+[
+  {
+    "name": "quality fabric stacked",
+    "displayName": "Quality Fabric, Stacked",
+    "values": {
+      "commonRange": "1,000 - 4,500",
+      "averagePrice": 2794,
+      "minimumPrice": 500,
+      "maximumPrice": 4750,
+      "averageStackPrice": 2794,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

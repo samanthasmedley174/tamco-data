@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe aetherial tea",
+    "displayName": "Recipe: Aetherial Tea",
+    "values": {
+      "commonRange": "83 - 5,500",
+      "averagePrice": 1987,
+      "minimumPrice": 57,
+      "maximumPrice": 7010,
+      "averageStackPrice": 1987,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

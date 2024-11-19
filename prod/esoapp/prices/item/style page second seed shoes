@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page second seed shoes",
+    "displayName": "Style Page: Second Seed Shoes",
+    "values": {
+      "commonRange": "12,000 - 17,309",
+      "averagePrice": 22643,
+      "minimumPrice": 10000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 22643,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

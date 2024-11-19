@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page skaal explorer maul",
+    "displayName": "Style Page: Skaal Explorer Maul",
+    "values": {
+      "commonRange": "50 - 500",
+      "averagePrice": 244,
+      "minimumPrice": 33,
+      "maximumPrice": 500,
+      "averageStackPrice": 244,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

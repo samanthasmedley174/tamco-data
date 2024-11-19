@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch leyawiin hand mirror silver",
+    "displayName": "Sketch: Leyawiin Hand Mirror, Silver",
+    "values": {
+      "commonRange": "22,000 - 30,207",
+      "averagePrice": 26018,
+      "minimumPrice": 15000,
+      "maximumPrice": 31000,
+      "averageStackPrice": 26018,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

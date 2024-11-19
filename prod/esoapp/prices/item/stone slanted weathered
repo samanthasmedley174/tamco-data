@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stone slanted weathered",
+    "displayName": "Stone, Slanted Weathered",
+    "values": {
+      "commonRange": "1,000 - 1,000",
+      "averagePrice": 1000,
+      "minimumPrice": 1000,
+      "maximumPrice": 1000,
+      "averageStackPrice": 1000,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "05/16/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

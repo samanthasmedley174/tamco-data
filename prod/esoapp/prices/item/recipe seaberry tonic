@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe seaberry tonic",
+    "displayName": "Recipe: Seaberry Tonic",
+    "values": {
+      "commonRange": "127 - 1,250",
+      "averagePrice": 748,
+      "minimumPrice": 127,
+      "maximumPrice": 1334,
+      "averageStackPrice": 748,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

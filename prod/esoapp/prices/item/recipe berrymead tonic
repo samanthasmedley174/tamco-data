@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe berrymead tonic",
+    "displayName": "Recipe: Berrymead Tonic",
+    "values": {
+      "commonRange": "100 - 1,180",
+      "averagePrice": 569,
+      "minimumPrice": 27,
+      "maximumPrice": 1200,
+      "averageStackPrice": 569,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

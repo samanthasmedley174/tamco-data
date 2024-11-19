@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe molten war torte",
+    "displayName": "Recipe: Molten War Torte",
+    "values": {
+      "commonRange": "2,191,984 - 2,300,000",
+      "averagePrice": 2205431,
+      "minimumPrice": 1900000,
+      "maximumPrice": 2360045,
+      "averageStackPrice": 2205431,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "woodhearth breastplate",
+    "displayName": "Woodhearth Breastplate",
+    "values": {
+      "commonRange": "249 - 300",
+      "averagePrice": 358,
+      "minimumPrice": 171,
+      "maximumPrice": 771,
+      "averageStackPrice": 358,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

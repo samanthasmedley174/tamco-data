@@ -1,0 +1,18 @@
+[
+  {
+    "name": "whispering gloves",
+    "displayName": "Whispering Gloves",
+    "values": {
+      "commonRange": "384 - 384",
+      "averagePrice": 384,
+      "minimumPrice": 384,
+      "maximumPrice": 384,
+      "averageStackPrice": 384,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

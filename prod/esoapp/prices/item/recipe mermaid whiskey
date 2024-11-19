@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe mermaid whiskey",
+    "displayName": "Recipe: Mermaid Whiskey",
+    "values": {
+      "commonRange": "168 - 1,000",
+      "averagePrice": 670,
+      "minimumPrice": 25,
+      "maximumPrice": 3000,
+      "averageStackPrice": 670,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

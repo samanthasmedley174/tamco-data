@@ -1,0 +1,18 @@
+[
+  {
+    "name": "smugglers ring",
+    "displayName": "Smuggler's Ring",
+    "values": {
+      "commonRange": "150 - 944",
+      "averagePrice": 433,
+      "minimumPrice": 50,
+      "maximumPrice": 1000,
+      "averageStackPrice": 433,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

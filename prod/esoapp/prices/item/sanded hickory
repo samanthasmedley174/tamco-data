@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sanded hickory",
+    "displayName": "Sanded Hickory",
+    "values": {
+      "commonRange": "11 - 22",
+      "averagePrice": 16,
+      "minimumPrice": 10,
+      "maximumPrice": 32,
+      "averageStackPrice": 3200,
+      "commonStackSize": 200,
+      "salesRecorded": 17
+    },
+    "type": "Woodworking Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Woodworking_Materials/Sanded_Hickory.png"
+  }
+]

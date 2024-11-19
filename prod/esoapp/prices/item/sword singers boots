@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword singers boots",
+    "displayName": "Sword-Singer's Boots",
+    "values": {
+      "commonRange": "290 - 2,861",
+      "averagePrice": 1026,
+      "minimumPrice": 130,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1026,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

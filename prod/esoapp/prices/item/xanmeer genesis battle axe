@@ -1,0 +1,18 @@
+[
+  {
+    "name": "xanmeer genesis battle axe",
+    "displayName": "Xanmeer Genesis Battle Axe",
+    "values": {
+      "commonRange": "350 - 3,246",
+      "averagePrice": 1934,
+      "minimumPrice": 240,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1934,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

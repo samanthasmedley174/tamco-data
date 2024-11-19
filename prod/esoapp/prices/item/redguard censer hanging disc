@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard censer hanging disc",
+    "displayName": "Redguard Censer, Hanging Disc",
+    "values": {
+      "commonRange": "5,000 - 5,198",
+      "averagePrice": 5074,
+      "minimumPrice": 4900,
+      "maximumPrice": 5500,
+      "averageStackPrice": 10148,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

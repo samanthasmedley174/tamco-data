@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page ebonsteel knight girdle",
+    "displayName": "Style Page: Ebonsteel Knight Girdle",
+    "values": {
+      "commonRange": "6,500 - 399,000",
+      "averagePrice": 212100,
+      "minimumPrice": 2000,
+      "maximumPrice": 750000,
+      "averageStackPrice": 212100,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "03/07/2023",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

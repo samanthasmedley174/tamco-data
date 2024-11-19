@@ -1,0 +1,18 @@
+[
+  {
+    "name": "robe of redistribution",
+    "displayName": "Robe of Redistribution",
+    "values": {
+      "commonRange": "39 - 39",
+      "averagePrice": 39,
+      "minimumPrice": 39,
+      "maximumPrice": 39,
+      "averageStackPrice": 39,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

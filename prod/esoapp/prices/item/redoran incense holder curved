@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran incense holder curved",
+    "displayName": "Redoran Incense Holder, Curved",
+    "values": {
+      "commonRange": "4,060 - 6,060",
+      "averagePrice": 4738,
+      "minimumPrice": 2060,
+      "maximumPrice": 6060,
+      "averageStackPrice": 4738,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Furnishings",
+    "date": "08/23/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

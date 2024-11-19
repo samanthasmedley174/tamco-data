@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page pirate skeleton mask",
+    "displayName": "Style Page: Pirate Skeleton Mask",
+    "values": {
+      "commonRange": "275,368 - 500,000",
+      "averagePrice": 381781,
+      "minimumPrice": 275251,
+      "maximumPrice": 698921,
+      "averageStackPrice": 381781,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

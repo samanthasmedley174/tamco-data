@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree vibrant privet",
+    "displayName": "Tree, Vibrant Privet",
+    "values": {
+      "commonRange": "1,000 - 4,418",
+      "averagePrice": 3178,
+      "minimumPrice": 1000,
+      "maximumPrice": 11027,
+      "averageStackPrice": 3178,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

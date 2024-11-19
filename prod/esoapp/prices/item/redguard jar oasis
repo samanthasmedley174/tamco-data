@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard jar oasis",
+    "displayName": "Redguard Jar, Oasis",
+    "values": {
+      "commonRange": "7,300 - 9,900",
+      "averagePrice": 8682,
+      "minimumPrice": 5990,
+      "maximumPrice": 9900,
+      "averageStackPrice": 8682,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

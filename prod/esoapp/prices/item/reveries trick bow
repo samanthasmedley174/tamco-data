@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reveries trick bow",
+    "displayName": "Reverie's Trick Bow",
+    "values": {
+      "commonRange": "228 - 228",
+      "averagePrice": 225,
+      "minimumPrice": 218,
+      "maximumPrice": 228,
+      "averageStackPrice": 225,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page tremorscale mask",
+    "displayName": "Style Page: Tremorscale Mask",
+    "values": {
+      "commonRange": "222,222 - 989,000",
+      "averagePrice": 483120,
+      "minimumPrice": 222222,
+      "maximumPrice": 989000,
+      "averageStackPrice": 483120,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "09/05/2023",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

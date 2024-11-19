@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vvardenfell glowstalk towering",
+    "displayName": "Vvardenfell Glowstalk, Towering",
+    "values": {
+      "commonRange": "5,922 - 11,830",
+      "averagePrice": 9059,
+      "minimumPrice": 2800,
+      "maximumPrice": 11830,
+      "averageStackPrice": 9059,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

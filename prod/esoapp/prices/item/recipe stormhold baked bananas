@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe stormhold baked bananas",
+    "displayName": "Recipe: Stormhold Baked Bananas",
+    "values": {
+      "commonRange": "100 - 2,553",
+      "averagePrice": 1537,
+      "minimumPrice": 25,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1537,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

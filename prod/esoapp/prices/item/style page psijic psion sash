@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page psijic psion sash",
+    "displayName": "Style Page: Psijic Psion Sash",
+    "values": {
+      "commonRange": "4,400 - 20,000",
+      "averagePrice": 12252,
+      "minimumPrice": 200,
+      "maximumPrice": 20000,
+      "averageStackPrice": 12252,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

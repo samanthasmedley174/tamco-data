@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wolfsbane incense",
+    "displayName": "Wolfsbane Incense",
+    "values": {
+      "commonRange": "33 - 125",
+      "averagePrice": 65,
+      "minimumPrice": 3,
+      "maximumPrice": 128,
+      "averageStackPrice": 13000,
+      "commonStackSize": 200,
+      "salesRecorded": 16
+    },
+    "type": "Style Materials",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Wolfsbane_Incense.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of soulshine",
+    "displayName": "Sabatons of Soulshine",
+    "values": {
+      "commonRange": "625 - 3,749",
+      "averagePrice": 1755,
+      "minimumPrice": 63,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1755,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "yokudan sorrow bourbon",
+    "displayName": "Yokudan Sorrow Bourbon",
+    "values": {
+      "commonRange": "15 - 165",
+      "averagePrice": 90,
+      "minimumPrice": 15,
+      "maximumPrice": 165,
+      "averageStackPrice": 90,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "07/06/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/yokudan_sorrow_bourbon.png"
+  }
+]

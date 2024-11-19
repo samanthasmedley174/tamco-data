@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult bench wooden",
+    "displayName": "Worm Cult Bench, Wooden",
+    "values": {
+      "commonRange": "4,000 - 6,000",
+      "averagePrice": 5000,
+      "minimumPrice": 4000,
+      "maximumPrice": 6000,
+      "averageStackPrice": 5000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Furnishings",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seal of clan igrun stone",
+    "displayName": "Seal of Clan Igrun, Stone",
+    "values": {
+      "commonRange": "1,100 - 4,000",
+      "averagePrice": 2832,
+      "minimumPrice": 1085,
+      "maximumPrice": 9000,
+      "averageStackPrice": 2832,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

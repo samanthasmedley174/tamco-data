@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stirk fellowship guardian shield",
+    "displayName": "Stirk Fellowship Guardian Shield",
+    "values": {
+      "commonRange": "500 - 2,176",
+      "averagePrice": 1210,
+      "minimumPrice": 500,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1210,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

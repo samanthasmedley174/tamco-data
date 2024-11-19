@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sipping imga tonic",
+    "displayName": "Sipping Imga Tonic",
+    "values": {
+      "commonRange": "8 - 10",
+      "averagePrice": 9,
+      "minimumPrice": 8,
+      "maximumPrice": 10,
+      "averageStackPrice": 9,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "06/22/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/sipping_imga_tonic.png"
+  }
+]

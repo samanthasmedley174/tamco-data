@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude pillar base wood",
+    "displayName": "Solitude Pillar Base, Wood",
+    "values": {
+      "commonRange": "2,000 - 9,000",
+      "averagePrice": 6068,
+      "minimumPrice": 2000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 12136,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/05/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stirk fellowship wall defensive",
+    "displayName": "Stirk Fellowship Wall, Defensive",
+    "values": {
+      "commonRange": "2,500 - 8,150",
+      "averagePrice": 5947,
+      "minimumPrice": 1500,
+      "maximumPrice": 14999,
+      "averageStackPrice": 5947,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

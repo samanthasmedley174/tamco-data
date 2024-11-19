@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf table formal",
+    "displayName": "Wood Elf Table, Formal",
+    "values": {
+      "commonRange": "1,350 - 4,500",
+      "averagePrice": 2795,
+      "minimumPrice": 40,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2795,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric table small",
+    "displayName": "Vampiric Table, Small",
+    "values": {
+      "commonRange": "4,439 - 8,000",
+      "averagePrice": 6086,
+      "minimumPrice": 4439,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6086,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

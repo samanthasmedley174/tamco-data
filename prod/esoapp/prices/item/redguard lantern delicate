@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard lantern delicate",
+    "displayName": "Redguard Lantern, Delicate",
+    "values": {
+      "commonRange": "6,405 - 7,500",
+      "averagePrice": 7092,
+      "minimumPrice": 6405,
+      "maximumPrice": 8500,
+      "averageStackPrice": 7092,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

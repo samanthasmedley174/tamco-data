@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ravaging greaves",
+    "displayName": "Ravaging Greaves",
+    "values": {
+      "commonRange": "4,500 - 29,279",
+      "averagePrice": 15702,
+      "minimumPrice": 1200,
+      "maximumPrice": 61558,
+      "averageStackPrice": 15702,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

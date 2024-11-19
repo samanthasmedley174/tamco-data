@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult scroll unfinished",
+    "displayName": "Worm Cult Scroll, Unfinished",
+    "values": {
+      "commonRange": "5,000 - 9,065",
+      "averagePrice": 7818,
+      "minimumPrice": 5000,
+      "maximumPrice": 9100,
+      "averageStackPrice": 7818,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox jesters scintillator",
+    "displayName": "Runebox: Jester's Scintillator",
+    "values": {
+      "commonRange": "4,250 - 20,000",
+      "averagePrice": 51709,
+      "minimumPrice": 1000,
+      "maximumPrice": 460000,
+      "averageStackPrice": 51709,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Runeboxes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

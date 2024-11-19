@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seventh legions ayleid breastplate",
+    "displayName": "Seventh Legion's Ayleid Breastplate",
+    "values": {
+      "commonRange": "900 - 1,080",
+      "averagePrice": 990,
+      "minimumPrice": 900,
+      "maximumPrice": 1080,
+      "averageStackPrice": 990,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch solitude censer pagoda",
+    "displayName": "Sketch: Solitude Censer, Pagoda",
+    "values": {
+      "commonRange": "24,000 - 25,655",
+      "averagePrice": 23446,
+      "minimumPrice": 10039,
+      "maximumPrice": 27039,
+      "averageStackPrice": 23446,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

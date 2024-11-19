@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal ilambris shield",
+    "displayName": "Style Page: Opal Ilambris Shield",
+    "values": {
+      "commonRange": "16,300 - 17,000",
+      "averagePrice": 17117,
+      "minimumPrice": 13728,
+      "maximumPrice": 25000,
+      "averageStackPrice": 17117,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

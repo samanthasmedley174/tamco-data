@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe psijic ambrosia fragment v",
+    "displayName": "Recipe: Psijic Ambrosia, Fragment V",
+    "values": {
+      "commonRange": "139 - 1,039",
+      "averagePrice": 469,
+      "minimumPrice": 100,
+      "maximumPrice": 2000,
+      "averageStackPrice": 469,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

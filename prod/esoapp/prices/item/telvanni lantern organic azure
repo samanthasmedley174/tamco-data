@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni lantern organic azure",
+    "displayName": "Telvanni Lantern, Organic Azure",
+    "values": {
+      "commonRange": "4,800 - 8,000",
+      "averagePrice": 6233,
+      "minimumPrice": 4000,
+      "maximumPrice": 8300,
+      "averageStackPrice": 6233,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

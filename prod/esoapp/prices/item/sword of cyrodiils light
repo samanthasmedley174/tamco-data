@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of cyrodiils light",
+    "displayName": "Sword of Cyrodiil's Light",
+    "values": {
+      "commonRange": "1,999 - 15,843",
+      "averagePrice": 10752,
+      "minimumPrice": 1153,
+      "maximumPrice": 42380,
+      "averageStackPrice": 10752,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

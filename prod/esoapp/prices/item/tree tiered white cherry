@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree tiered white cherry",
+    "displayName": "Tree, Tiered White Cherry",
+    "values": {
+      "commonRange": "7,000 - 14,079",
+      "averagePrice": 10051,
+      "minimumPrice": 1039,
+      "maximumPrice": 15000,
+      "averageStackPrice": 10051,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

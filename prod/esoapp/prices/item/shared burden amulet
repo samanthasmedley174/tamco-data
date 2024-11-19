@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shared burden amulet",
+    "displayName": "Shared Burden Amulet",
+    "values": {
+      "commonRange": "20,153 - 30,156",
+      "averagePrice": 25155,
+      "minimumPrice": 20153,
+      "maximumPrice": 30156,
+      "averageStackPrice": 25155,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

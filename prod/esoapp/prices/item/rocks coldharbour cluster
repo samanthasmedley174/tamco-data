@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rocks coldharbour cluster",
+    "displayName": "Rocks, Coldharbour Cluster",
+    "values": {
+      "commonRange": "514 - 933",
+      "averagePrice": 675,
+      "minimumPrice": 60,
+      "maximumPrice": 1000,
+      "averageStackPrice": 14850,
+      "commonStackSize": 22,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

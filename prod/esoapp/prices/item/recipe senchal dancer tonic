@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe senchal dancer tonic",
+    "displayName": "Recipe: Senchal Dancer Tonic",
+    "values": {
+      "commonRange": "130 - 4,968",
+      "averagePrice": 2173,
+      "minimumPrice": 30,
+      "maximumPrice": 4968,
+      "averageStackPrice": 2173,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

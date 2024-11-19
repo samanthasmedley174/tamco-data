@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni chandelier fungal",
+    "displayName": "Telvanni Chandelier, Fungal",
+    "values": {
+      "commonRange": "8,000 - 11,012",
+      "averagePrice": 9383,
+      "minimumPrice": 8000,
+      "maximumPrice": 11012,
+      "averageStackPrice": 9383,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

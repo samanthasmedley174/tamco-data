@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spell strategist lightning staff",
+    "displayName": "Spell Strategist Lightning Staff",
+    "values": {
+      "commonRange": "1,246 - 5,240",
+      "averagePrice": 3285,
+      "minimumPrice": 750,
+      "maximumPrice": 9234,
+      "averageStackPrice": 3285,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

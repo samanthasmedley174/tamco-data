@@ -1,0 +1,18 @@
+[
+  {
+    "name": "venomdream cuirass",
+    "displayName": "Venomdream Cuirass",
+    "values": {
+      "commonRange": "883 - 3,183",
+      "averagePrice": 2423,
+      "minimumPrice": 783,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2423,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

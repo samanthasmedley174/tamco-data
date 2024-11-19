@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch elsweyr gravy boat gilded",
+    "displayName": "Sketch: Elsweyr Gravy Boat, Gilded",
+    "values": {
+      "commonRange": "1,500 - 4,398",
+      "averagePrice": 2716,
+      "minimumPrice": 1500,
+      "maximumPrice": 7000,
+      "averageStackPrice": 2716,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

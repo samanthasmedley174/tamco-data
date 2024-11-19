@@ -1,0 +1,18 @@
+[
+  {
+    "name": "surcoat of the psijic order",
+    "displayName": "Surcoat of the Psijic Order",
+    "values": {
+      "commonRange": "200 - 471",
+      "averagePrice": 459,
+      "minimumPrice": 150,
+      "maximumPrice": 1171,
+      "averageStackPrice": 459,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

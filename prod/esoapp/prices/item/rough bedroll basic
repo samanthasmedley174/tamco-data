@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough bedroll basic",
+    "displayName": "Rough Bedroll, Basic",
+    "values": {
+      "commonRange": "50 - 400",
+      "averagePrice": 206,
+      "minimumPrice": 31,
+      "maximumPrice": 1015,
+      "averageStackPrice": 206,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

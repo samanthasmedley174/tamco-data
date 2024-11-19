@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis wood elf basin stone",
+    "displayName": "Praxis: Wood Elf Basin, Stone",
+    "values": {
+      "commonRange": "59 - 235",
+      "averagePrice": 159,
+      "minimumPrice": 50,
+      "maximumPrice": 300,
+      "averageStackPrice": 159,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

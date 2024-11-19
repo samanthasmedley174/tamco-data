@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis table blackmarrow slab",
+    "displayName": "Praxis: Table, Blackmarrow Slab",
+    "values": {
+      "commonRange": "14,245 - 30,000",
+      "averagePrice": 27897,
+      "minimumPrice": 14245,
+      "maximumPrice": 85000,
+      "averageStackPrice": 27897,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

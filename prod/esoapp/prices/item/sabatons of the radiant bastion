@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of the radiant bastion",
+    "displayName": "Sabatons of the Radiant Bastion",
+    "values": {
+      "commonRange": "90 - 10,090",
+      "averagePrice": 2390,
+      "minimumPrice": 90,
+      "maximumPrice": 11090,
+      "averageStackPrice": 2390,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

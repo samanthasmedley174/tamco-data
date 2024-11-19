@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page high rock spellsword breeches",
+    "displayName": "Style Page: High Rock Spellsword Breeches",
+    "values": {
+      "commonRange": "2,299 - 8,000",
+      "averagePrice": 5635,
+      "minimumPrice": 2000,
+      "maximumPrice": 10420,
+      "averageStackPrice": 5635,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

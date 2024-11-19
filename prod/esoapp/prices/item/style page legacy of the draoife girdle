@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page legacy of the draoife girdle",
+    "displayName": "Style Page: Legacy of the Draoife Girdle",
+    "values": {
+      "commonRange": "7,000 - 25,000",
+      "averagePrice": 15385,
+      "minimumPrice": 1000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 15385,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

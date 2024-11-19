@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampire lords sword",
+    "displayName": "Vampire Lord's Sword",
+    "values": {
+      "commonRange": "3,606 - 4,567",
+      "averagePrice": 4847,
+      "minimumPrice": 1144,
+      "maximumPrice": 10069,
+      "averageStackPrice": 4847,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

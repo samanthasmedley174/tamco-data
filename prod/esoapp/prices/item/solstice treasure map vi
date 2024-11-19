@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solstice treasure map vi",
+    "displayName": "Solstice Treasure Map VI",
+    "values": {
+      "commonRange": "10,000 - 31,128",
+      "averagePrice": 24595,
+      "minimumPrice": 40,
+      "maximumPrice": 60000,
+      "averageStackPrice": 24595,
+      "commonStackSize": 1,
+      "salesRecorded": 79
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

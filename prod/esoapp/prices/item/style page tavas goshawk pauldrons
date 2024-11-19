@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page tavas goshawk pauldrons",
+    "displayName": "Style Page: Tava's Goshawk Pauldrons",
+    "values": {
+      "commonRange": "1,000 - 8,268",
+      "averagePrice": 4465,
+      "minimumPrice": 500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4465,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

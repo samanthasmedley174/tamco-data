@@ -1,0 +1,18 @@
+[
+  {
+    "name": "summoners shoulderpads",
+    "displayName": "Summoner's Shoulderpads",
+    "values": {
+      "commonRange": "440 - 440",
+      "averagePrice": 440,
+      "minimumPrice": 440,
+      "maximumPrice": 440,
+      "averageStackPrice": 440,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

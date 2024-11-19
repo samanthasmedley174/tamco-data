@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe velothi view vintage malbec",
+    "displayName": "Recipe: Velothi View Vintage Malbec",
+    "values": {
+      "commonRange": "2,000 - 3,000",
+      "averagePrice": 2708,
+      "minimumPrice": 1135,
+      "maximumPrice": 4999,
+      "averageStackPrice": 2708,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

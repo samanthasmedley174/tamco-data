@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanguards challenge axe",
+    "displayName": "Vanguard's Challenge Axe",
+    "values": {
+      "commonRange": "2,500 - 2,500",
+      "averagePrice": 1935,
+      "minimumPrice": 153,
+      "maximumPrice": 3153,
+      "averageStackPrice": 1935,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

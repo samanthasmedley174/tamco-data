@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox elinhir arena lion",
+    "displayName": "Runebox: Elinhir Arena Lion",
+    "values": {
+      "commonRange": "700,000 - 2,000,000",
+      "averagePrice": 1356490,
+      "minimumPrice": 630000,
+      "maximumPrice": 2100000,
+      "averageStackPrice": 1356490,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Runeboxes",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

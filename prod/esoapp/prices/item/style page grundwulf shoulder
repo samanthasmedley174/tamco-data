@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page grundwulf shoulder",
+    "displayName": "Style Page: Grundwulf Shoulder",
+    "values": {
+      "commonRange": "79,000 - 100,000",
+      "averagePrice": 103906,
+      "minimumPrice": 68400,
+      "maximumPrice": 200000,
+      "averageStackPrice": 103906,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "04/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

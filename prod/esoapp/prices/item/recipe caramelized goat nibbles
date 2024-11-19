@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe caramelized goat nibbles",
+    "displayName": "Recipe: Caramelized Goat Nibbles",
+    "values": {
+      "commonRange": "539 - 4,000",
+      "averagePrice": 2233,
+      "minimumPrice": 500,
+      "maximumPrice": 4611,
+      "averageStackPrice": 2233,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

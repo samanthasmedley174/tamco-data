@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox pumpkin spectre mask",
+    "displayName": "Runebox: Pumpkin Spectre Mask",
+    "values": {
+      "commonRange": "210,000 - 500,000",
+      "averagePrice": 354114,
+      "minimumPrice": 100000,
+      "maximumPrice": 500000,
+      "averageStackPrice": 354114,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Runeboxes",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

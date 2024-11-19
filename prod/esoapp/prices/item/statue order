@@ -1,0 +1,18 @@
+[
+  {
+    "name": "statue order",
+    "displayName": "Statue, Order",
+    "values": {
+      "commonRange": "33,000 - 40,000",
+      "averagePrice": 34842,
+      "minimumPrice": 22000,
+      "maximumPrice": 43468,
+      "averageStackPrice": 34842,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

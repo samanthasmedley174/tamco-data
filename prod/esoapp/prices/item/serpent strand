@@ -1,0 +1,18 @@
+[
+  {
+    "name": "serpent strand",
+    "displayName": "Serpent Strand",
+    "values": {
+      "commonRange": "492 - 492",
+      "averagePrice": 492,
+      "minimumPrice": 84,
+      "maximumPrice": 900,
+      "averageStackPrice": 492,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

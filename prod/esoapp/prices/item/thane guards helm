@@ -1,0 +1,18 @@
+[
+  {
+    "name": "thane guards helm",
+    "displayName": "Thane-Guard's Helm",
+    "values": {
+      "commonRange": "99 - 99",
+      "averagePrice": 99,
+      "minimumPrice": 99,
+      "maximumPrice": 99,
+      "averageStackPrice": 99,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

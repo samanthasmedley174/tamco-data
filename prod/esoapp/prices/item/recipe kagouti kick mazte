@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe kagouti kick mazte",
+    "displayName": "Recipe: Kagouti Kick Mazte",
+    "values": {
+      "commonRange": "1,000 - 2,559",
+      "averagePrice": 2725,
+      "minimumPrice": 339,
+      "maximumPrice": 15000,
+      "averageStackPrice": 2725,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

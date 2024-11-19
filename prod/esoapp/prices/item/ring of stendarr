@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of stendarr",
+    "displayName": "Ring of Stendarr",
+    "values": {
+      "commonRange": "144 - 2,250",
+      "averagePrice": 996,
+      "minimumPrice": 99,
+      "maximumPrice": 10000,
+      "averageStackPrice": 996,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

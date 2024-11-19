@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch elsweyr game swan stones",
+    "displayName": "Sketch: Elsweyr Game, Swan Stones",
+    "values": {
+      "commonRange": "64,992 - 90,734",
+      "averagePrice": 83219,
+      "minimumPrice": 64734,
+      "maximumPrice": 100000,
+      "averageStackPrice": 83219,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

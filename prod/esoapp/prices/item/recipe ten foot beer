@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe ten foot beer",
+    "displayName": "Recipe: Ten-Foot Beer",
+    "values": {
+      "commonRange": "15,363 - 29,999",
+      "averagePrice": 21173,
+      "minimumPrice": 5000,
+      "maximumPrice": 33000,
+      "averageStackPrice": 21173,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

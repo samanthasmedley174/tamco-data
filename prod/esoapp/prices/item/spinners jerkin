@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spinners jerkin",
+    "displayName": "Spinner's Jerkin",
+    "values": {
+      "commonRange": "300 - 1,180",
+      "averagePrice": 817,
+      "minimumPrice": 174,
+      "maximumPrice": 2980,
+      "averageStackPrice": 817,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

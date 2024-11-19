@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tharrikers maul",
+    "displayName": "Tharriker's Maul",
+    "values": {
+      "commonRange": "78,252 - 78,252",
+      "averagePrice": 78252,
+      "minimumPrice": 78252,
+      "maximumPrice": 78252,
+      "averageStackPrice": 78252,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

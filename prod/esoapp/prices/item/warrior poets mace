@@ -1,0 +1,18 @@
+[
+  {
+    "name": "warrior poets mace",
+    "displayName": "Warrior-Poet's Mace",
+    "values": {
+      "commonRange": "444 - 5,150",
+      "averagePrice": 2276,
+      "minimumPrice": 50,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2276,
+      "commonStackSize": 1,
+      "salesRecorded": 55
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

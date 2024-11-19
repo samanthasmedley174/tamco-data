@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page witchmothers servants breeches",
+    "displayName": "Style Page: Witchmother's Servant's Breeches",
+    "values": {
+      "commonRange": "18,000 - 140,000",
+      "averagePrice": 85648,
+      "minimumPrice": 1000,
+      "maximumPrice": 140000,
+      "averageStackPrice": 85648,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rubedite ore",
+    "displayName": "Rubedite Ore",
+    "values": {
+      "commonRange": "15 - 40",
+      "averagePrice": 27,
+      "minimumPrice": 3,
+      "maximumPrice": 61,
+      "averageStackPrice": 5400,
+      "commonStackSize": 200,
+      "salesRecorded": 291
+    },
+    "type": "Blacksmithing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

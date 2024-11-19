@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe gods blind me",
+    "displayName": "Recipe: Gods-Blind-Me",
+    "values": {
+      "commonRange": "100 - 420",
+      "averagePrice": 259,
+      "minimumPrice": 27,
+      "maximumPrice": 527,
+      "averageStackPrice": 259,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

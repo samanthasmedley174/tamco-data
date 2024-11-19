@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfasts mettle sword",
+    "displayName": "Steadfast's Mettle Sword",
+    "values": {
+      "commonRange": "1,950 - 6,150",
+      "averagePrice": 4192,
+      "minimumPrice": 150,
+      "maximumPrice": 6150,
+      "averageStackPrice": 4192,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis target centurion robust refabricated",
+    "displayName": "Praxis: Target Centurion, Robust Refabricated",
+    "values": {
+      "commonRange": "150,000 - 300,000",
+      "averagePrice": 220115,
+      "minimumPrice": 120000,
+      "maximumPrice": 340000,
+      "averageStackPrice": 220115,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

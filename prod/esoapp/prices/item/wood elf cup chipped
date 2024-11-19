@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf cup chipped",
+    "displayName": "Wood Elf Cup, Chipped",
+    "values": {
+      "commonRange": "62 - 760",
+      "averagePrice": 353,
+      "minimumPrice": 60,
+      "maximumPrice": 1000,
+      "averageStackPrice": 353,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

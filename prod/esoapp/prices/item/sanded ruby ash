@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sanded ruby ash",
+    "displayName": "Sanded Ruby Ash",
+    "values": {
+      "commonRange": "10 - 20",
+      "averagePrice": 14,
+      "minimumPrice": 5,
+      "maximumPrice": 47,
+      "averageStackPrice": 2800,
+      "commonStackSize": 200,
+      "salesRecorded": 535
+    },
+    "type": "Woodworking Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Woodworking_Materials/Sanded_Ruby_Ash.png"
+  }
+]

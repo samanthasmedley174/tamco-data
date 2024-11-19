@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal rkugamz sentinel shoulder",
+    "displayName": "Style Page: Opal Rkugamz Sentinel Shoulder",
+    "values": {
+      "commonRange": "50,000 - 120,000",
+      "averagePrice": 88066,
+      "minimumPrice": 15000,
+      "maximumPrice": 134235,
+      "averageStackPrice": 88066,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

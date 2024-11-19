@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page fish boon pioneer jack",
+    "displayName": "Style Page: Fish Boon Pioneer Jack",
+    "values": {
+      "commonRange": "100 - 808",
+      "averagePrice": 349,
+      "minimumPrice": 50,
+      "maximumPrice": 1000,
+      "averageStackPrice": 349,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

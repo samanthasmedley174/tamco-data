@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vines nirncrux",
+    "displayName": "Vines, Nirncrux",
+    "values": {
+      "commonRange": "20,000 - 66,000",
+      "averagePrice": 39720,
+      "minimumPrice": 15000,
+      "maximumPrice": 66000,
+      "averageStackPrice": 39720,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

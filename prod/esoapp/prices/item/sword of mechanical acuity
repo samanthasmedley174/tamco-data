@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of mechanical acuity",
+    "displayName": "Sword of Mechanical Acuity",
+    "values": {
+      "commonRange": "20,153 - 20,153",
+      "averagePrice": 20153,
+      "minimumPrice": 20153,
+      "maximumPrice": 20153,
+      "averageStackPrice": 20153,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

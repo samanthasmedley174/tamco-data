@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe tonsil tingle tonic",
+    "displayName": "Recipe: Tonsil Tingle Tonic",
+    "values": {
+      "commonRange": "27 - 115",
+      "averagePrice": 71,
+      "minimumPrice": 27,
+      "maximumPrice": 115,
+      "averageStackPrice": 71,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the broken xinchei konu",
+    "displayName": "The Broken Xinchei-Konu",
+    "values": {
+      "commonRange": "1,000 - 3,119",
+      "averagePrice": 2198,
+      "minimumPrice": 1000,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2198,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Miscellaneous",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/Miscellaneous/The_Broken_Xinchei-konu.png"
+  }
+]

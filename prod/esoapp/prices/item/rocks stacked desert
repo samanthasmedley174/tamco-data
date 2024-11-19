@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rocks stacked desert",
+    "displayName": "Rocks, Stacked Desert",
+    "values": {
+      "commonRange": "86 - 200",
+      "averagePrice": 143,
+      "minimumPrice": 15,
+      "maximumPrice": 400,
+      "averageStackPrice": 143,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/17/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

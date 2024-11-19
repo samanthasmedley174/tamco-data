@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page broom",
+    "displayName": "Style Page: Broom",
+    "values": {
+      "commonRange": "9,000 - 40,000",
+      "averagePrice": 19300,
+      "minimumPrice": 100,
+      "maximumPrice": 100000,
+      "averageStackPrice": 19300,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

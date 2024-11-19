@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rock basalt slab",
+    "displayName": "Rock, Basalt Slab",
+    "values": {
+      "commonRange": "50 - 655",
+      "averagePrice": 246,
+      "minimumPrice": 15,
+      "maximumPrice": 655,
+      "averageStackPrice": 246,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Furnishings",
+    "date": "08/17/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch alinor goblet silver ornate",
+    "displayName": "Sketch: Alinor Goblet, Silver Ornate",
+    "values": {
+      "commonRange": "8,000 - 12,000",
+      "averagePrice": 11820,
+      "minimumPrice": 7950,
+      "maximumPrice": 30000,
+      "averageStackPrice": 11820,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

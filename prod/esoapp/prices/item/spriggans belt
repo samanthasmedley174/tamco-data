@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spriggans belt",
+    "displayName": "Spriggan's Belt",
+    "values": {
+      "commonRange": "187 - 17,695",
+      "averagePrice": 7698,
+      "minimumPrice": 90,
+      "maximumPrice": 100000,
+      "averageStackPrice": 7698,
+      "commonStackSize": 1,
+      "salesRecorded": 51
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

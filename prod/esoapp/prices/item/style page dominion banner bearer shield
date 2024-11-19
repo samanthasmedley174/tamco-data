@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page dominion banner bearer shield",
+    "displayName": "Style Page: Dominion Banner-Bearer Shield",
+    "values": {
+      "commonRange": "100,000 - 700,000",
+      "averagePrice": 353915,
+      "minimumPrice": 20000,
+      "maximumPrice": 700000,
+      "averageStackPrice": 353915,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "08/22/2023",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wedding planter octagonal",
+    "displayName": "Wedding Planter, Octagonal",
+    "values": {
+      "commonRange": "29,972 - 46,672",
+      "averagePrice": 43666,
+      "minimumPrice": 20000,
+      "maximumPrice": 86672,
+      "averageStackPrice": 43666,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

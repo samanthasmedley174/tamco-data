@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rock field ancient stone",
+    "displayName": "Rock Field, Ancient Stone",
+    "values": {
+      "commonRange": "14 - 1,000",
+      "averagePrice": 423,
+      "minimumPrice": 10,
+      "maximumPrice": 1428,
+      "averageStackPrice": 2961,
+      "commonStackSize": 7,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal velidreth shoulder",
+    "displayName": "Style Page: Opal Velidreth Shoulder",
+    "values": {
+      "commonRange": "55,000 - 247,272",
+      "averagePrice": 152375,
+      "minimumPrice": 30000,
+      "maximumPrice": 350000,
+      "averageStackPrice": 152375,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Style Pages",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

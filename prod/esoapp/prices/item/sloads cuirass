@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sloads cuirass",
+    "displayName": "Sload's Cuirass",
+    "values": {
+      "commonRange": "78,189 - 79,189",
+      "averagePrice": 78689,
+      "minimumPrice": 78189,
+      "maximumPrice": 79189,
+      "averageStackPrice": 78689,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

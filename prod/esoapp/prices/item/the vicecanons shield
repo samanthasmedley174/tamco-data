@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the vicecanons shield",
+    "displayName": "The Vicecanon's Shield",
+    "values": {
+      "commonRange": "5,150 - 5,150",
+      "averagePrice": 19101,
+      "minimumPrice": 2000,
+      "maximumPrice": 50153,
+      "averageStackPrice": 19101,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

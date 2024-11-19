@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page wormwrithe maul",
+    "displayName": "Style Page: Wormwrithe Maul",
+    "values": {
+      "commonRange": "2,807 - 5,000",
+      "averagePrice": 4280,
+      "minimumPrice": 1000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 4280,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

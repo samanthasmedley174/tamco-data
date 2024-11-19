@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox nordic bathers towel",
+    "displayName": "Runebox: Nordic Bather's Towel",
+    "values": {
+      "commonRange": "100,000 - 250,000",
+      "averagePrice": 184167,
+      "minimumPrice": 100000,
+      "maximumPrice": 358994,
+      "averageStackPrice": 184167,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Runeboxes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

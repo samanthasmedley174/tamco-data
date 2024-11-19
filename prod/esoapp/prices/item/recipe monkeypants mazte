@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe monkeypants mazte",
+    "displayName": "Recipe: Monkeypants Mazte",
+    "values": {
+      "commonRange": "1,000 - 3,555",
+      "averagePrice": 2561,
+      "minimumPrice": 339,
+      "maximumPrice": 3710,
+      "averageStackPrice": 2561,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

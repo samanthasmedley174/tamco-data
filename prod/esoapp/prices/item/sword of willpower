@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of willpower",
+    "displayName": "Sword of Willpower",
+    "values": {
+      "commonRange": "350 - 2,000",
+      "averagePrice": 1043,
+      "minimumPrice": 153,
+      "maximumPrice": 2153,
+      "averageStackPrice": 1043,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

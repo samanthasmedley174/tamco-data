@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree engulfing termite mound",
+    "displayName": "Tree, Engulfing Termite Mound",
+    "values": {
+      "commonRange": "1,367 - 3,333",
+      "averagePrice": 2392,
+      "minimumPrice": 250,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2392,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

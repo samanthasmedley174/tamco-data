@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vivecs epaulets of duality",
+    "displayName": "Vivec's Epaulets of Duality",
+    "values": {
+      "commonRange": "100 - 1,263",
+      "averagePrice": 754,
+      "minimumPrice": 25,
+      "maximumPrice": 4000,
+      "averageStackPrice": 754,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

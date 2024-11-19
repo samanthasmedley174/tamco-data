@@ -1,0 +1,18 @@
+[
+  {
+    "name": "winter ouroboros wreath",
+    "displayName": "Winter Ouroboros Wreath",
+    "values": {
+      "commonRange": "19,000 - 23,436",
+      "averagePrice": 21209,
+      "minimumPrice": 18000,
+      "maximumPrice": 23436,
+      "averageStackPrice": 21209,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

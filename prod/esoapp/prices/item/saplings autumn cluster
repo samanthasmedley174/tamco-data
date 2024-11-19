@@ -1,0 +1,18 @@
+[
+  {
+    "name": "saplings autumn cluster",
+    "displayName": "Saplings, Autumn Cluster",
+    "values": {
+      "commonRange": "1,015 - 2,000",
+      "averagePrice": 1424,
+      "minimumPrice": 1015,
+      "maximumPrice": 2015,
+      "averageStackPrice": 1424,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/22/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

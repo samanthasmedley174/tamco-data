@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of vicious death",
+    "displayName": "Ring of Vicious Death",
+    "values": {
+      "commonRange": "7,000 - 45,000",
+      "averagePrice": 20918,
+      "minimumPrice": 3000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 20918,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

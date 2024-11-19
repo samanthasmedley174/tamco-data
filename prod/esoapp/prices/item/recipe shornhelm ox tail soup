@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe shornhelm ox tail soup",
+    "displayName": "Recipe: Shornhelm Ox-Tail Soup",
+    "values": {
+      "commonRange": "1,000 - 1,700",
+      "averagePrice": 1334,
+      "minimumPrice": 400,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1334,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

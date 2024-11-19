@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the shadow walker",
+    "displayName": "Ring of The Shadow Walker",
+    "values": {
+      "commonRange": "1,150 - 2,000",
+      "averagePrice": 1776,
+      "minimumPrice": 159,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1776,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

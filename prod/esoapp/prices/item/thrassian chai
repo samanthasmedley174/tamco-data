@@ -1,0 +1,18 @@
+[
+  {
+    "name": "thrassian chai",
+    "displayName": "Thrassian Chai",
+    "values": {
+      "commonRange": "60 - 60",
+      "averagePrice": 43,
+      "minimumPrice": 9,
+      "maximumPrice": 60,
+      "averageStackPrice": 43,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Food & Drinks",
+    "date": "01/31/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/thrassian_chai.png"
+  }
+]

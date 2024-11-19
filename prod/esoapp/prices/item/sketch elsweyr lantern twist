@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch elsweyr lantern twist",
+    "displayName": "Sketch: Elsweyr Lantern, Twist",
+    "values": {
+      "commonRange": "1,066 - 3,629",
+      "averagePrice": 2613,
+      "minimumPrice": 1000,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2613,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

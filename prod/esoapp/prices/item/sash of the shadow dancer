@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of the shadow dancer",
+    "displayName": "Sash of The Shadow Dancer",
+    "values": {
+      "commonRange": "90 - 2,000",
+      "averagePrice": 965,
+      "minimumPrice": 90,
+      "maximumPrice": 5090,
+      "averageStackPrice": 965,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

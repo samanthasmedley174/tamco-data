@@ -1,0 +1,18 @@
+[
+  {
+    "name": "smugglers sword",
+    "displayName": "Smuggler's Sword",
+    "values": {
+      "commonRange": "450 - 1,150",
+      "averagePrice": 789,
+      "minimumPrice": 144,
+      "maximumPrice": 1250,
+      "averageStackPrice": 789,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

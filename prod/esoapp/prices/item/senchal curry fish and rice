@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senchal curry fish and rice",
+    "displayName": "Senchal Curry Fish and Rice",
+    "values": {
+      "commonRange": "5 - 50",
+      "averagePrice": 517,
+      "minimumPrice": 5,
+      "maximumPrice": 5509,
+      "averageStackPrice": 51700,
+      "commonStackSize": 100,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "11/09/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/senchal_curry_fish_and_rice.png"
+  }
+]

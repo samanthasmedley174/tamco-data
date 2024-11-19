@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe truth glimpse",
+    "displayName": "Recipe: Truth-Glimpse",
+    "values": {
+      "commonRange": "200 - 868",
+      "averagePrice": 505,
+      "minimumPrice": 200,
+      "maximumPrice": 900,
+      "averageStackPrice": 505,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

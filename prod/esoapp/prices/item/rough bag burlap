@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough bag burlap",
+    "displayName": "Rough Bag, Burlap",
+    "values": {
+      "commonRange": "1,013 - 5,000",
+      "averagePrice": 4604,
+      "minimumPrice": 100,
+      "maximumPrice": 5000,
+      "averageStackPrice": 4604,
+      "commonStackSize": 1,
+      "salesRecorded": 54
+    },
+    "type": "Furnishings",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

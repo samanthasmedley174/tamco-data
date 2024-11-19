@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spell strategist hat",
+    "displayName": "Spell Strategist Hat",
+    "values": {
+      "commonRange": "696 - 2,995",
+      "averagePrice": 1891,
+      "minimumPrice": 682,
+      "maximumPrice": 3150,
+      "averageStackPrice": 1891,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

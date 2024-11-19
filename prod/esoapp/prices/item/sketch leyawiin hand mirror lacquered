@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch leyawiin hand mirror lacquered",
+    "displayName": "Sketch: Leyawiin Hand Mirror, Lacquered",
+    "values": {
+      "commonRange": "4,383 - 4,630",
+      "averagePrice": 4491,
+      "minimumPrice": 4000,
+      "maximumPrice": 4630,
+      "averageStackPrice": 4491,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

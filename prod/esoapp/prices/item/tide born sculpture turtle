@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born sculpture turtle",
+    "displayName": "Tide-Born Sculpture, Turtle",
+    "values": {
+      "commonRange": "4,300 - 10,000",
+      "averagePrice": 8190,
+      "minimumPrice": 3789,
+      "maximumPrice": 10500,
+      "averageStackPrice": 8190,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

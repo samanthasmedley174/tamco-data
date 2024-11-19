@@ -1,0 +1,18 @@
+[
+  {
+    "name": "prisoners ring",
+    "displayName": "Prisoner's Ring",
+    "values": {
+      "commonRange": "144 - 5,000",
+      "averagePrice": 1677,
+      "minimumPrice": 99,
+      "maximumPrice": 8000,
+      "averageStackPrice": 1677,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

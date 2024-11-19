@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe ultimate riverhold beef pasty",
+    "displayName": "Recipe: Ultimate Riverhold Beef Pasty",
+    "values": {
+      "commonRange": "420 - 4,641",
+      "averagePrice": 1988,
+      "minimumPrice": 239,
+      "maximumPrice": 5573,
+      "averageStackPrice": 1988,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

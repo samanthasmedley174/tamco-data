@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude table round small",
+    "displayName": "Solitude Table, Round Small",
+    "values": {
+      "commonRange": "1,900 - 6,150",
+      "averagePrice": 5063,
+      "minimumPrice": 500,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5063,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

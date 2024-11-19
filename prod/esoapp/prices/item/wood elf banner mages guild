@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf banner mages guild",
+    "displayName": "Wood Elf Banner, Mages Guild",
+    "values": {
+      "commonRange": "4,000 - 15,500",
+      "averagePrice": 11604,
+      "minimumPrice": 2000,
+      "maximumPrice": 16249,
+      "averageStackPrice": 11604,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

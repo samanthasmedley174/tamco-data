@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page old orsinium maul",
+    "displayName": "Style Page: Old Orsinium Maul",
+    "values": {
+      "commonRange": "24,000 - 37,000",
+      "averagePrice": 30593,
+      "minimumPrice": 23000,
+      "maximumPrice": 38359,
+      "averageStackPrice": 30593,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

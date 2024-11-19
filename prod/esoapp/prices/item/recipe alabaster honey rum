@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe alabaster honey rum",
+    "displayName": "Recipe: Alabaster Honey Rum",
+    "values": {
+      "commonRange": "59 - 227",
+      "averagePrice": 160,
+      "minimumPrice": 50,
+      "maximumPrice": 527,
+      "averageStackPrice": 160,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

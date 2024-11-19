@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe balfiera herbal tonic",
+    "displayName": "Recipe: Balfiera Herbal Tonic",
+    "values": {
+      "commonRange": "230 - 810",
+      "averagePrice": 468,
+      "minimumPrice": 100,
+      "maximumPrice": 1325,
+      "averageStackPrice": 468,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

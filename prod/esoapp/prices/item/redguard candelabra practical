@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard candelabra practical",
+    "displayName": "Redguard Candelabra, Practical",
+    "values": {
+      "commonRange": "160 - 700",
+      "averagePrice": 417,
+      "minimumPrice": 100,
+      "maximumPrice": 800,
+      "averageStackPrice": 417,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

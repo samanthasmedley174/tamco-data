@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page light of knowledge gloves",
+    "displayName": "Style Page: Light of Knowledge Gloves",
+    "values": {
+      "commonRange": "200 - 2,500",
+      "averagePrice": 1427,
+      "minimumPrice": 100,
+      "maximumPrice": 4500,
+      "averageStackPrice": 1427,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

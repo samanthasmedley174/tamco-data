@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of cyrodiils crest",
+    "displayName": "Shield of Cyrodiil's Crest",
+    "values": {
+      "commonRange": "2,000 - 20,000",
+      "averagePrice": 15177,
+      "minimumPrice": 850,
+      "maximumPrice": 75000,
+      "averageStackPrice": 15177,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

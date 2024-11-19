@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page swarm mother shoulder",
+    "displayName": "Style Page: Swarm Mother Shoulder",
+    "values": {
+      "commonRange": "22,222 - 40,000",
+      "averagePrice": 30563,
+      "minimumPrice": 12000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 30563,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

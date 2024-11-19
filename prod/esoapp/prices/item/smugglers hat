@@ -1,0 +1,18 @@
+[
+  {
+    "name": "smugglers hat",
+    "displayName": "Smuggler's Hat",
+    "values": {
+      "commonRange": "344 - 2,400",
+      "averagePrice": 1369,
+      "minimumPrice": 150,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1369,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

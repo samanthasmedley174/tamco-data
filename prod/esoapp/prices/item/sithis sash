@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sithis sash",
+    "displayName": "Sithis' Sash",
+    "values": {
+      "commonRange": "390 - 4,590",
+      "averagePrice": 1165,
+      "minimumPrice": 187,
+      "maximumPrice": 5090,
+      "averageStackPrice": 1165,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

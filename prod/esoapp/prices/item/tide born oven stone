@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born oven stone",
+    "displayName": "Tide-Born Oven, Stone",
+    "values": {
+      "commonRange": "16,000 - 23,545",
+      "averagePrice": 18868,
+      "minimumPrice": 15000,
+      "maximumPrice": 26000,
+      "averageStackPrice": 18868,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard candelabra polished",
+    "displayName": "Redguard Candelabra, Polished",
+    "values": {
+      "commonRange": "5,000 - 5,300",
+      "averagePrice": 5156,
+      "minimumPrice": 4994,
+      "maximumPrice": 6000,
+      "averageStackPrice": 5156,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

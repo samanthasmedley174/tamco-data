@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox witchs bonfire memento",
+    "displayName": "Runebox: Witch's Bonfire Memento",
+    "values": {
+      "commonRange": "19,221 - 30,000",
+      "averagePrice": 25072,
+      "minimumPrice": 15000,
+      "maximumPrice": 35500,
+      "averageStackPrice": 25072,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Runeboxes",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

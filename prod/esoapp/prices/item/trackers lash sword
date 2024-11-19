@@ -1,0 +1,18 @@
+[
+  {
+    "name": "trackers lash sword",
+    "displayName": "Tracker's Lash Sword",
+    "values": {
+      "commonRange": "666 - 3,496",
+      "averagePrice": 1548,
+      "minimumPrice": 350,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1548,
+      "commonStackSize": 1,
+      "salesRecorded": 46
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

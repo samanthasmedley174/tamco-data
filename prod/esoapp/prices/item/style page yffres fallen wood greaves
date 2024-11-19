@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page yffres fallen wood greaves",
+    "displayName": "Style Page: Y'ffre's Fallen-Wood Greaves",
+    "values": {
+      "commonRange": "6,674 - 24,074",
+      "averagePrice": 15723,
+      "minimumPrice": 1000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 15723,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

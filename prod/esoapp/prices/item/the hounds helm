@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the hounds helm",
+    "displayName": "The Hound's Helm",
+    "values": {
+      "commonRange": "450 - 750",
+      "averagePrice": 600,
+      "minimumPrice": 450,
+      "maximumPrice": 750,
+      "averageStackPrice": 600,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

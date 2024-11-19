@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page ashen militia battle axe",
+    "displayName": "Style Page: Ashen Militia Battle Axe",
+    "values": {
+      "commonRange": "7,000 - 12,500",
+      "averagePrice": 11561,
+      "minimumPrice": 5000,
+      "maximumPrice": 30636,
+      "averageStackPrice": 11561,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

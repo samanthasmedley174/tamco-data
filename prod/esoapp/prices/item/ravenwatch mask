@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ravenwatch mask",
+    "displayName": "Ravenwatch Mask",
+    "values": {
+      "commonRange": "108 - 141",
+      "averagePrice": 125,
+      "minimumPrice": 108,
+      "maximumPrice": 141,
+      "averageStackPrice": 125,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

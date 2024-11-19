@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe pink wisdom tea",
+    "displayName": "Recipe: Pink Wisdom Tea",
+    "values": {
+      "commonRange": "230 - 2,115",
+      "averagePrice": 1098,
+      "minimumPrice": 130,
+      "maximumPrice": 2115,
+      "averageStackPrice": 1098,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

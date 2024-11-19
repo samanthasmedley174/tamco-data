@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born mat geometric round",
+    "displayName": "Tide-Born Mat, Geometric Round",
+    "values": {
+      "commonRange": "2,500 - 9,850",
+      "averagePrice": 5273,
+      "minimumPrice": 2200,
+      "maximumPrice": 10150,
+      "averageStackPrice": 5273,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

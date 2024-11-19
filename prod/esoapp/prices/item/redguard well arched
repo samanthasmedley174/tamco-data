@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard well arched",
+    "displayName": "Redguard Well, Arched",
+    "values": {
+      "commonRange": "1,584 - 8,995",
+      "averagePrice": 4701,
+      "minimumPrice": 1090,
+      "maximumPrice": 10900,
+      "averageStackPrice": 4701,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

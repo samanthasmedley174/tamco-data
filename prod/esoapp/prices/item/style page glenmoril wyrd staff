@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page glenmoril wyrd staff",
+    "displayName": "Style Page: Glenmoril Wyrd Staff",
+    "values": {
+      "commonRange": "350 - 849",
+      "averagePrice": 642,
+      "minimumPrice": 100,
+      "maximumPrice": 849,
+      "averageStackPrice": 642,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "02/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

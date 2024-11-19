@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of beckoning steel",
+    "displayName": "Ring of Beckoning Steel",
+    "values": {
+      "commonRange": "2,688 - 3,500",
+      "averagePrice": 4817,
+      "minimumPrice": 900,
+      "maximumPrice": 30000,
+      "averageStackPrice": 4817,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

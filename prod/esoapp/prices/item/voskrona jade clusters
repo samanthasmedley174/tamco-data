@@ -1,0 +1,18 @@
+[
+  {
+    "name": "voskrona jade clusters",
+    "displayName": "Voskrona Jade Clusters",
+    "values": {
+      "commonRange": "4,364 - 6,000",
+      "averagePrice": 5080,
+      "minimumPrice": 1000,
+      "maximumPrice": 7000,
+      "averageStackPrice": 5080,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Materials",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Voskrona_Jade_Clusters.png"
+  }
+]

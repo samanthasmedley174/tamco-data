@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe taneth chili cheese corn",
+    "displayName": "Recipe: Taneth Chili Cheese Corn",
+    "values": {
+      "commonRange": "57 - 249",
+      "averagePrice": 154,
+      "minimumPrice": 27,
+      "maximumPrice": 500,
+      "averageStackPrice": 154,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

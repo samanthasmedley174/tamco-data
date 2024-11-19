@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of the vampires cloak",
+    "displayName": "Shield of the Vampire's Cloak",
+    "values": {
+      "commonRange": "150 - 1,150",
+      "averagePrice": 607,
+      "minimumPrice": 134,
+      "maximumPrice": 1999,
+      "averageStackPrice": 607,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

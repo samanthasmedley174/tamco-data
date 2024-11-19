@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult hammer mining",
+    "displayName": "Worm Cult Hammer, Mining",
+    "values": {
+      "commonRange": "100 - 1,200",
+      "averagePrice": 946,
+      "minimumPrice": 18,
+      "maximumPrice": 3258,
+      "averageStackPrice": 946,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

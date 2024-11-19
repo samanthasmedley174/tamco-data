@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe planked abecean longfin",
+    "displayName": "Recipe: Planked Abecean Longfin",
+    "values": {
+      "commonRange": "1,250 - 3,834",
+      "averagePrice": 3267,
+      "minimumPrice": 950,
+      "maximumPrice": 7251,
+      "averageStackPrice": 3267,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

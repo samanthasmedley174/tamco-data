@@ -1,0 +1,18 @@
+[
+  {
+    "name": "snake in the stars shoes",
+    "displayName": "Snake in the Stars Shoes",
+    "values": {
+      "commonRange": "575 - 3,000",
+      "averagePrice": 1781,
+      "minimumPrice": 490,
+      "maximumPrice": 3090,
+      "averageStackPrice": 1781,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

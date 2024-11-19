@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born spoon wooden",
+    "displayName": "Tide-Born Spoon, Wooden",
+    "values": {
+      "commonRange": "3,000 - 5,882",
+      "averagePrice": 4151,
+      "minimumPrice": 1666,
+      "maximumPrice": 6000,
+      "averageStackPrice": 4151,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

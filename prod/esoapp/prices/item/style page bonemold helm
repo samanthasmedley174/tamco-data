@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page bonemold helm",
+    "displayName": "Style Page: Bonemold Helm",
+    "values": {
+      "commonRange": "813 - 3,049",
+      "averagePrice": 1647,
+      "minimumPrice": 100,
+      "maximumPrice": 4999,
+      "averageStackPrice": 1647,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Style Pages",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

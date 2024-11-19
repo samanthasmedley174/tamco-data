@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tormenting robes",
+    "displayName": "Tormenting Robes",
+    "values": {
+      "commonRange": "180 - 250",
+      "averagePrice": 223,
+      "minimumPrice": 180,
+      "maximumPrice": 280,
+      "averageStackPrice": 223,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

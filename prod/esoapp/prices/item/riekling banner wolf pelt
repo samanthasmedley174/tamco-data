@@ -1,0 +1,18 @@
+[
+  {
+    "name": "riekling banner wolf pelt",
+    "displayName": "Riekling Banner, Wolf Pelt",
+    "values": {
+      "commonRange": "4,000 - 8,000",
+      "averagePrice": 5627,
+      "minimumPrice": 300,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5627,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/20/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senchal defenders greaves",
+    "displayName": "Senchal Defender's Greaves",
+    "values": {
+      "commonRange": "190 - 2,000",
+      "averagePrice": 777,
+      "minimumPrice": 180,
+      "maximumPrice": 2180,
+      "averageStackPrice": 777,
+      "commonStackSize": 1,
+      "salesRecorded": 48
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

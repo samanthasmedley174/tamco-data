@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page yffres fallen wood sabatons",
+    "displayName": "Style Page: Y'ffre's Fallen-Wood Sabatons",
+    "values": {
+      "commonRange": "16,035 - 90,266",
+      "averagePrice": 41862,
+      "minimumPrice": 7000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 41862,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

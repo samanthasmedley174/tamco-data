@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough planks narrow",
+    "displayName": "Rough Planks, Narrow",
+    "values": {
+      "commonRange": "35 - 666",
+      "averagePrice": 316,
+      "minimumPrice": 15,
+      "maximumPrice": 800,
+      "averageStackPrice": 316,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/03/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

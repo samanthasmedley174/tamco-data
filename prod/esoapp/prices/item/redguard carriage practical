@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard carriage practical",
+    "displayName": "Redguard Carriage, Practical",
+    "values": {
+      "commonRange": "310 - 2,000",
+      "averagePrice": 1931,
+      "minimumPrice": 160,
+      "maximumPrice": 7060,
+      "averageStackPrice": 1931,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/13/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

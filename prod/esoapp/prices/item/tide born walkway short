@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born walkway short",
+    "displayName": "Tide-Born Walkway, Short",
+    "values": {
+      "commonRange": "2,369 - 4,592",
+      "averagePrice": 3827,
+      "minimumPrice": 2039,
+      "maximumPrice": 6960,
+      "averageStackPrice": 7654,
+      "commonStackSize": 2,
+      "salesRecorded": 6
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

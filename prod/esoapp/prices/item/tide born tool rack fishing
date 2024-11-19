@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born tool rack fishing",
+    "displayName": "Tide-Born Tool Rack, Fishing",
+    "values": {
+      "commonRange": "9,500 - 12,000",
+      "averagePrice": 10645,
+      "minimumPrice": 5000,
+      "maximumPrice": 12150,
+      "averageStackPrice": 10645,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard fence short brass capped",
+    "displayName": "Redguard Fence, Short Brass Capped",
+    "values": {
+      "commonRange": "3,750 - 4,000",
+      "averagePrice": 4100,
+      "minimumPrice": 3750,
+      "maximumPrice": 5600,
+      "averageStackPrice": 8200,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

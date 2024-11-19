@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf awning leather",
+    "displayName": "Wood Elf Awning, Leather",
+    "values": {
+      "commonRange": "60 - 1,500",
+      "averagePrice": 417,
+      "minimumPrice": 60,
+      "maximumPrice": 2000,
+      "averageStackPrice": 417,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

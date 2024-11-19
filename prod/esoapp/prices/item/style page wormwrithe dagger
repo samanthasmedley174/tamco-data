@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page wormwrithe dagger",
+    "displayName": "Style Page: Wormwrithe Dagger",
+    "values": {
+      "commonRange": "1,000 - 6,689",
+      "averagePrice": 4585,
+      "minimumPrice": 499,
+      "maximumPrice": 6689,
+      "averageStackPrice": 4585,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

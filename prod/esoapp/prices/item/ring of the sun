@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the sun",
+    "displayName": "Ring of the Sun",
+    "values": {
+      "commonRange": "144 - 2,153",
+      "averagePrice": 932,
+      "minimumPrice": 119,
+      "maximumPrice": 4000,
+      "averageStackPrice": 932,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal lord warden shield",
+    "displayName": "Style Page: Opal Lord Warden Shield",
+    "values": {
+      "commonRange": "2,700 - 8,000",
+      "averagePrice": 4347,
+      "minimumPrice": 1000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 4347,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

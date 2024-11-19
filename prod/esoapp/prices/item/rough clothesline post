@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough clothesline post",
+    "displayName": "Rough Clothesline, Post",
+    "values": {
+      "commonRange": "65 - 515",
+      "averagePrice": 245,
+      "minimumPrice": 20,
+      "maximumPrice": 1115,
+      "averageStackPrice": 245,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/03/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

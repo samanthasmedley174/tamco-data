@@ -1,0 +1,18 @@
+[
+  {
+    "name": "siegemasters pauldrons",
+    "displayName": "Siegemaster's Pauldrons",
+    "values": {
+      "commonRange": "450 - 3,150",
+      "averagePrice": 1293,
+      "minimumPrice": 144,
+      "maximumPrice": 3283,
+      "averageStackPrice": 1293,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

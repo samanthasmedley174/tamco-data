@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shell splitter jack",
+    "displayName": "Shell Splitter Jack",
+    "values": {
+      "commonRange": "900 - 10,000",
+      "averagePrice": 3527,
+      "minimumPrice": 500,
+      "maximumPrice": 11183,
+      "averageStackPrice": 3527,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

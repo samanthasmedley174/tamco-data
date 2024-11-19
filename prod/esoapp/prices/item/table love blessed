@@ -1,0 +1,18 @@
+[
+  {
+    "name": "table love blessed",
+    "displayName": "Table, Love-Blessed",
+    "values": {
+      "commonRange": "400 - 80,000",
+      "averagePrice": 29374,
+      "minimumPrice": 100,
+      "maximumPrice": 110000,
+      "averageStackPrice": 29374,
+      "commonStackSize": 1,
+      "salesRecorded": 45
+    },
+    "type": "Furnishings",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

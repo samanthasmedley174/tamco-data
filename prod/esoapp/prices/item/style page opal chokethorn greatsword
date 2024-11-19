@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal chokethorn greatsword",
+    "displayName": "Style Page: Opal Chokethorn Greatsword",
+    "values": {
+      "commonRange": "1,000 - 22,000",
+      "averagePrice": 12334,
+      "minimumPrice": 500,
+      "maximumPrice": 23847,
+      "averageStackPrice": 12334,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

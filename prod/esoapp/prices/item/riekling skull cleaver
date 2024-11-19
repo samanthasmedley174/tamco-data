@@ -1,0 +1,18 @@
+[
+  {
+    "name": "riekling skull cleaver",
+    "displayName": "Riekling Skull-Cleaver",
+    "values": {
+      "commonRange": "328 - 328",
+      "averagePrice": 328,
+      "minimumPrice": 328,
+      "maximumPrice": 328,
+      "averageStackPrice": 328,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

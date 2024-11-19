@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tenmar millet carrot couscous",
+    "displayName": "Tenmar Millet-Carrot Couscous",
+    "values": {
+      "commonRange": "15 - 55",
+      "averagePrice": 32,
+      "minimumPrice": 15,
+      "maximumPrice": 115,
+      "averageStackPrice": 3200,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "07/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/tenmar_millet-carrot_couscous.png"
+  }
+]

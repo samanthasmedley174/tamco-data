@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sir edains war belt",
+    "displayName": "Sir Edain's War Belt",
+    "values": {
+      "commonRange": "84 - 600",
+      "averagePrice": 330,
+      "minimumPrice": 82,
+      "maximumPrice": 800,
+      "averageStackPrice": 330,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

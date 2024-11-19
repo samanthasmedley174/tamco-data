@@ -1,0 +1,18 @@
+[
+  {
+    "name": "terror oil",
+    "displayName": "Terror Oil",
+    "values": {
+      "commonRange": "421 - 695",
+      "averagePrice": 575,
+      "minimumPrice": 311,
+      "maximumPrice": 695,
+      "averageStackPrice": 5750,
+      "commonStackSize": 10,
+      "salesRecorded": 14
+    },
+    "type": "Style Materials",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Terror_Oil.png"
+  }
+]

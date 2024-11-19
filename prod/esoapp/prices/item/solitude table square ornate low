@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude table square ornate low",
+    "displayName": "Solitude Table, Square Ornate Low",
+    "values": {
+      "commonRange": "3,300 - 12,000",
+      "averagePrice": 6473,
+      "minimumPrice": 2200,
+      "maximumPrice": 12000,
+      "averageStackPrice": 6473,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/05/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

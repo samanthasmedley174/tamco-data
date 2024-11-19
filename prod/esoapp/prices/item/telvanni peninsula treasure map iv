@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni peninsula treasure map iv",
+    "displayName": "Telvanni Peninsula Treasure Map IV",
+    "values": {
+      "commonRange": "100 - 7,000",
+      "averagePrice": 4164,
+      "minimumPrice": 100,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4164,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

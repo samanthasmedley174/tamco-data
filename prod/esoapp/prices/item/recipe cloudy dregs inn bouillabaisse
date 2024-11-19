@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe cloudy dregs inn bouillabaisse",
+    "displayName": "Recipe: Cloudy Dregs Inn Bouillabaisse",
+    "values": {
+      "commonRange": "1,000 - 5,000",
+      "averagePrice": 2908,
+      "minimumPrice": 760,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2908,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

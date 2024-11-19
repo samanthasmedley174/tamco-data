@@ -1,0 +1,18 @@
+[
+  {
+    "name": "targe of foul story",
+    "displayName": "Targe of Foul Story",
+    "values": {
+      "commonRange": "250 - 340",
+      "averagePrice": 303,
+      "minimumPrice": 220,
+      "maximumPrice": 400,
+      "averageStackPrice": 303,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

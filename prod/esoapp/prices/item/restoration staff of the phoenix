@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of the phoenix",
+    "displayName": "Restoration Staff of the Phoenix",
+    "values": {
+      "commonRange": "40,000 - 41,623",
+      "averagePrice": 41217,
+      "minimumPrice": 3246,
+      "maximumPrice": 80000,
+      "averageStackPrice": 41217,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

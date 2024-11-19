@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampire lords maul",
+    "displayName": "Vampire Lord's Maul",
+    "values": {
+      "commonRange": "740 - 846",
+      "averagePrice": 825,
+      "minimumPrice": 640,
+      "maximumPrice": 1100,
+      "averageStackPrice": 825,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

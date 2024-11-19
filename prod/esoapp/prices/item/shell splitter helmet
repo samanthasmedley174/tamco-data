@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shell splitter helmet",
+    "displayName": "Shell Splitter Helmet",
+    "values": {
+      "commonRange": "453 - 1,966",
+      "averagePrice": 1184,
+      "minimumPrice": 350,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1184,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

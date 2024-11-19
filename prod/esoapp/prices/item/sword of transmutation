@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of transmutation",
+    "displayName": "Sword of Transmutation",
+    "values": {
+      "commonRange": "2,576 - 20,153",
+      "averagePrice": 14834,
+      "minimumPrice": 2000,
+      "maximumPrice": 70153,
+      "averageStackPrice": 14834,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

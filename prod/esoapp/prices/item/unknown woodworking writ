@@ -1,0 +1,18 @@
+[
+  {
+    "name": "unknown woodworking writ",
+    "displayName": "Unknown Woodworking Writ",
+    "values": {
+      "commonRange": "4,000 - 15,000",
+      "averagePrice": 9462,
+      "minimumPrice": 1000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 9462,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Miscellaneous",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

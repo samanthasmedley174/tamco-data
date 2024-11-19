@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page old orsinium battle axe",
+    "displayName": "Style Page: Old Orsinium Battle Axe",
+    "values": {
+      "commonRange": "20,000 - 39,410",
+      "averagePrice": 28102,
+      "minimumPrice": 10000,
+      "maximumPrice": 41410,
+      "averageStackPrice": 28102,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree blooming ginkgo",
+    "displayName": "Tree, Blooming Ginkgo",
+    "values": {
+      "commonRange": "1,750 - 4,550",
+      "averagePrice": 2880,
+      "minimumPrice": 1000,
+      "maximumPrice": 5500,
+      "averageStackPrice": 11520,
+      "commonStackSize": 4,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

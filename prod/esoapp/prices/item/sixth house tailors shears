@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sixth house tailors shears",
+    "displayName": "Sixth House Tailor's Shears",
+    "values": {
+      "commonRange": "2,000 - 3,039",
+      "averagePrice": 2677,
+      "minimumPrice": 1400,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2677,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Fragments",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

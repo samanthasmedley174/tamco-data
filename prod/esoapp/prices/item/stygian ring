@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stygian ring",
+    "displayName": "Stygian Ring",
+    "values": {
+      "commonRange": "445 - 5,500",
+      "averagePrice": 3044,
+      "minimumPrice": 200,
+      "maximumPrice": 17153,
+      "averageStackPrice": 3044,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

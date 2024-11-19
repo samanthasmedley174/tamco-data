@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page house dufort banneret pauldrons",
+    "displayName": "Style Page: House Dufort Banneret Pauldrons",
+    "values": {
+      "commonRange": "8,000 - 11,750",
+      "averagePrice": 10155,
+      "minimumPrice": 8000,
+      "maximumPrice": 11750,
+      "averageStackPrice": 10155,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

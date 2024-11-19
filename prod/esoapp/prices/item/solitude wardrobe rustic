@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude wardrobe rustic",
+    "displayName": "Solitude Wardrobe, Rustic",
+    "values": {
+      "commonRange": "2,200 - 5,500",
+      "averagePrice": 3951,
+      "minimumPrice": 600,
+      "maximumPrice": 5500,
+      "averageStackPrice": 3951,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/18/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "unidentified clothier survey report",
+    "displayName": "Unidentified Clothier Survey Report",
+    "values": {
+      "commonRange": "1,000 - 3,244",
+      "averagePrice": 2767,
+      "minimumPrice": 100,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2767,
+      "commonStackSize": 1,
+      "salesRecorded": 219
+    },
+    "type": "Miscellaneous",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

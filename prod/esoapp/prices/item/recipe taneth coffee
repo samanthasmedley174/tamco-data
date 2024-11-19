@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe taneth coffee",
+    "displayName": "Recipe: Taneth Coffee",
+    "values": {
+      "commonRange": "150 - 466",
+      "averagePrice": 319,
+      "minimumPrice": 100,
+      "maximumPrice": 466,
+      "averageStackPrice": 319,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

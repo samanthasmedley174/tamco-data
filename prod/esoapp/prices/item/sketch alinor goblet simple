@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch alinor goblet simple",
+    "displayName": "Sketch: Alinor Goblet, Simple",
+    "values": {
+      "commonRange": "1,961 - 2,527",
+      "averagePrice": 2107,
+      "minimumPrice": 1200,
+      "maximumPrice": 3024,
+      "averageStackPrice": 2107,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

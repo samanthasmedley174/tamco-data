@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanuss gloves",
+    "displayName": "Vanus's Gloves",
+    "values": {
+      "commonRange": "190 - 3,550",
+      "averagePrice": 1092,
+      "minimumPrice": 48,
+      "maximumPrice": 12975,
+      "averageStackPrice": 1092,
+      "commonStackSize": 1,
+      "salesRecorded": 104
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

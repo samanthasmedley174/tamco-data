@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe nibenese fricasseed fawn",
+    "displayName": "Recipe: Nibenese Fricasseed Fawn",
+    "values": {
+      "commonRange": "839 - 1,740",
+      "averagePrice": 1321,
+      "minimumPrice": 200,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1321,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

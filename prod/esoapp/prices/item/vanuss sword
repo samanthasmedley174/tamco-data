@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanuss sword",
+    "displayName": "Vanus's Sword",
+    "values": {
+      "commonRange": "150 - 1,250",
+      "averagePrice": 767,
+      "minimumPrice": 144,
+      "maximumPrice": 2150,
+      "averageStackPrice": 767,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

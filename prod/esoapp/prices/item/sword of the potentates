@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of the potentates",
+    "displayName": "Sword of the Potentates",
+    "values": {
+      "commonRange": "4,995 - 22,000",
+      "averagePrice": 9480,
+      "minimumPrice": 1000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 9480,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

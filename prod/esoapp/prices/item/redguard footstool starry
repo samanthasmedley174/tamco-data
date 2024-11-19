@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard footstool starry",
+    "displayName": "Redguard Footstool, Starry",
+    "values": {
+      "commonRange": "2,800 - 8,000",
+      "averagePrice": 6018,
+      "minimumPrice": 2500,
+      "maximumPrice": 8000,
+      "averageStackPrice": 6018,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

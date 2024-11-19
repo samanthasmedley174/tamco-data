@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of the harbinger",
+    "displayName": "Sword of the Harbinger",
+    "values": {
+      "commonRange": "13,000 - 13,000",
+      "averagePrice": 42000,
+      "minimumPrice": 13000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 42000,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "02/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

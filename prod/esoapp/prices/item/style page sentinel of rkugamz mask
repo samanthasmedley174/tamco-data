@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page sentinel of rkugamz mask",
+    "displayName": "Style Page: Sentinel of Rkugamz Mask",
+    "values": {
+      "commonRange": "50,000 - 90,000",
+      "averagePrice": 68157,
+      "minimumPrice": 49090,
+      "maximumPrice": 90000,
+      "averageStackPrice": 68157,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

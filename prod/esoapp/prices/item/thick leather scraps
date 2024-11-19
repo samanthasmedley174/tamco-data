@@ -1,0 +1,18 @@
+[
+  {
+    "name": "thick leather scraps",
+    "displayName": "Thick Leather Scraps",
+    "values": {
+      "commonRange": "6 - 30",
+      "averagePrice": 20,
+      "minimumPrice": 6,
+      "maximumPrice": 31,
+      "averageStackPrice": 200,
+      "commonStackSize": 10,
+      "salesRecorded": 10
+    },
+    "type": "Clothing Materials",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "protection reversing poison i",
+    "displayName": "Protection-Reversing Poison I",
+    "values": {
+      "commonRange": "3 - 8",
+      "averagePrice": 7,
+      "minimumPrice": 2,
+      "maximumPrice": 15,
+      "averageStackPrice": 7,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Potions & Poisons",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

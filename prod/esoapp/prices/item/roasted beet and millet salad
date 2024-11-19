@@ -1,0 +1,18 @@
+[
+  {
+    "name": "roasted beet and millet salad",
+    "displayName": "Roasted Beet and Millet Salad",
+    "values": {
+      "commonRange": "3 - 10",
+      "averagePrice": 17,
+      "minimumPrice": 3,
+      "maximumPrice": 85,
+      "averageStackPrice": 17,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Food & Drinks",
+    "date": "04/13/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/roasted_beet_and_millet_salad.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough birch",
+    "displayName": "Rough Birch",
+    "values": {
+      "commonRange": "7 - 40",
+      "averagePrice": 28,
+      "minimumPrice": 6,
+      "maximumPrice": 42,
+      "averageStackPrice": 5600,
+      "commonStackSize": 200,
+      "salesRecorded": 10
+    },
+    "type": "Woodworking Materials",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Woodworking_Materials/Rough_Birch.png"
+  }
+]

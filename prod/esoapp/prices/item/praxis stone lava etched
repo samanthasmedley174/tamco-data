@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis stone lava etched",
+    "displayName": "Praxis: Stone, Lava-Etched",
+    "values": {
+      "commonRange": "35,000 - 57,600",
+      "averagePrice": 45651,
+      "minimumPrice": 25000,
+      "maximumPrice": 58500,
+      "averageStackPrice": 45651,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

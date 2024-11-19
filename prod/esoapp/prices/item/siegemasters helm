@@ -1,0 +1,18 @@
+[
+  {
+    "name": "siegemasters helm",
+    "displayName": "Siegemaster's Helm",
+    "values": {
+      "commonRange": "353 - 2,283",
+      "averagePrice": 1291,
+      "minimumPrice": 299,
+      "maximumPrice": 3150,
+      "averageStackPrice": 1291,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

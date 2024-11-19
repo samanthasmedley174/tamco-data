@@ -1,0 +1,18 @@
+[
+  {
+    "name": "werewolf hide daggerfall guard tabard",
+    "displayName": "Werewolf Hide Daggerfall Guard Tabard",
+    "values": {
+      "commonRange": "111 - 2,000",
+      "averagePrice": 1056,
+      "minimumPrice": 111,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1056,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

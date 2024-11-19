@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe pirate queen mint tea",
+    "displayName": "Recipe: Pirate Queen Mint Tea",
+    "values": {
+      "commonRange": "50 - 600",
+      "averagePrice": 283,
+      "minimumPrice": 20,
+      "maximumPrice": 927,
+      "averageStackPrice": 283,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

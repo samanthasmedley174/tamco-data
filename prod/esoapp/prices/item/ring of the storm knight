@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the storm knight",
+    "displayName": "Ring of the Storm Knight",
+    "values": {
+      "commonRange": "144 - 760",
+      "averagePrice": 365,
+      "minimumPrice": 144,
+      "maximumPrice": 853,
+      "averageStackPrice": 365,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

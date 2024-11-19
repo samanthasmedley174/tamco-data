@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page hearts day duelist breeches",
+    "displayName": "Style Page: Heart's Day Duelist Breeches",
+    "values": {
+      "commonRange": "1,000 - 45,000",
+      "averagePrice": 20548,
+      "minimumPrice": 300,
+      "maximumPrice": 200000,
+      "averageStackPrice": 20548,
+      "commonStackSize": 1,
+      "salesRecorded": 182
+    },
+    "type": "Style Pages",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senches belt",
+    "displayName": "Senche's Belt",
+    "values": {
+      "commonRange": "90 - 889",
+      "averagePrice": 688,
+      "minimumPrice": 87,
+      "maximumPrice": 5087,
+      "averageStackPrice": 688,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

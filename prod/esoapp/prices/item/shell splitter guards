@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shell splitter guards",
+    "displayName": "Shell Splitter Guards",
+    "values": {
+      "commonRange": "1,000 - 4,000",
+      "averagePrice": 2644,
+      "minimumPrice": 380,
+      "maximumPrice": 10180,
+      "averageStackPrice": 2644,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

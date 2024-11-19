@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wedding blossoms peach",
+    "displayName": "Wedding Blossoms, Peach",
+    "values": {
+      "commonRange": "4,800 - 7,500",
+      "averagePrice": 6165,
+      "minimumPrice": 4400,
+      "maximumPrice": 9000,
+      "averageStackPrice": 6165,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

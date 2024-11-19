@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page tools of domination bow",
+    "displayName": "Style Page: Tools of Domination Bow",
+    "values": {
+      "commonRange": "1,512 - 2,812",
+      "averagePrice": 2668,
+      "minimumPrice": 1393,
+      "maximumPrice": 14000,
+      "averageStackPrice": 2668,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Style Pages",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

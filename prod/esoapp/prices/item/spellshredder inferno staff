@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spellshredder inferno staff",
+    "displayName": "Spellshredder Inferno Staff",
+    "values": {
+      "commonRange": "540 - 8,740",
+      "averagePrice": 4069,
+      "minimumPrice": 240,
+      "maximumPrice": 10412,
+      "averageStackPrice": 4069,
+      "commonStackSize": 1,
+      "salesRecorded": 100
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

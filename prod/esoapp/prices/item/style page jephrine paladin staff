@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page jephrine paladin staff",
+    "displayName": "Style Page: Jephrine Paladin Staff",
+    "values": {
+      "commonRange": "3,000 - 10,000",
+      "averagePrice": 6322,
+      "minimumPrice": 3000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 6322,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

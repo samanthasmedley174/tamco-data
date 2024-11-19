@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe mazte",
+    "displayName": "Recipe: Mazte",
+    "values": {
+      "commonRange": "27 - 302",
+      "averagePrice": 197,
+      "minimumPrice": 27,
+      "maximumPrice": 302,
+      "averageStackPrice": 197,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

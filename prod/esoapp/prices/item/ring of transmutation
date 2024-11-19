@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of transmutation",
+    "displayName": "Ring of Transmutation",
+    "values": {
+      "commonRange": "6,000 - 39,301",
+      "averagePrice": 28407,
+      "minimumPrice": 1500,
+      "maximumPrice": 170156,
+      "averageStackPrice": 28407,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

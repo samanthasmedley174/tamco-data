@@ -1,0 +1,18 @@
+[
+  {
+    "name": "war maidens sword",
+    "displayName": "War Maiden's Sword",
+    "values": {
+      "commonRange": "444 - 10,450",
+      "averagePrice": 4953,
+      "minimumPrice": 50,
+      "maximumPrice": 22738,
+      "averageStackPrice": 4953,
+      "commonStackSize": 1,
+      "salesRecorded": 74
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

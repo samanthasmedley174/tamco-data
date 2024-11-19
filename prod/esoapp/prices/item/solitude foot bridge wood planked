@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude foot bridge wood planked",
+    "displayName": "Solitude Foot Bridge, Wood-Planked",
+    "values": {
+      "commonRange": "5,000 - 8,050",
+      "averagePrice": 6869,
+      "minimumPrice": 4000,
+      "maximumPrice": 8365,
+      "averageStackPrice": 6869,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of the phoenix",
+    "displayName": "Sword of the Phoenix",
+    "values": {
+      "commonRange": "10,150 - 10,150",
+      "averagePrice": 10150,
+      "minimumPrice": 10150,
+      "maximumPrice": 10150,
+      "averageStackPrice": 10150,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

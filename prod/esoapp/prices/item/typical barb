@@ -1,0 +1,18 @@
+[
+  {
+    "name": "typical barb",
+    "displayName": "Typical Barb",
+    "values": {
+      "commonRange": "800 - 800",
+      "averagePrice": 800,
+      "minimumPrice": 800,
+      "maximumPrice": 800,
+      "averageStackPrice": 800,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Fishing",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Typical_Barb.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of syvarras scales",
+    "displayName": "Sabatons of Syvarra's Scales",
+    "values": {
+      "commonRange": "300 - 25,000",
+      "averagePrice": 14927,
+      "minimumPrice": 190,
+      "maximumPrice": 110000,
+      "averageStackPrice": 14927,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

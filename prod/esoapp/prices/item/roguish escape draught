@@ -1,0 +1,18 @@
+[
+  {
+    "name": "roguish escape draught",
+    "displayName": "Roguish Escape Draught",
+    "values": {
+      "commonRange": "27 - 41",
+      "averagePrice": 38,
+      "minimumPrice": 22,
+      "maximumPrice": 42,
+      "averageStackPrice": 190,
+      "commonStackSize": 5,
+      "salesRecorded": 10
+    },
+    "type": "Potions & Poisons",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Potions_&_Poisons/Roguish_Escape_Draught.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rihad beet and garlic salad",
+    "displayName": "Rihad Beet and Garlic Salad",
+    "values": {
+      "commonRange": "17 - 17",
+      "averagePrice": 12,
+      "minimumPrice": 2,
+      "maximumPrice": 17,
+      "averageStackPrice": 96,
+      "commonStackSize": 8,
+      "salesRecorded": 3
+    },
+    "type": "Food & Drinks",
+    "date": "06/29/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/rihad_beet_and_garlic_salad.png"
+  }
+]

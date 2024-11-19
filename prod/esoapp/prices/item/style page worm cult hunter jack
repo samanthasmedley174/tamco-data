@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page worm cult hunter jack",
+    "displayName": "Style Page: Worm Cult Hunter Jack",
+    "values": {
+      "commonRange": "166 - 1,000",
+      "averagePrice": 545,
+      "minimumPrice": 100,
+      "maximumPrice": 1153,
+      "averageStackPrice": 545,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

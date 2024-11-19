@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe akaviri pork fried rice",
+    "displayName": "Recipe: Akaviri Pork Fried Rice",
+    "values": {
+      "commonRange": "100 - 2,669",
+      "averagePrice": 1575,
+      "minimumPrice": 59,
+      "maximumPrice": 4999,
+      "averageStackPrice": 1575,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

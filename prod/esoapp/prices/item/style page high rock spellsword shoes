@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page high rock spellsword shoes",
+    "displayName": "Style Page: High Rock Spellsword Shoes",
+    "values": {
+      "commonRange": "1,000 - 14,434",
+      "averagePrice": 7178,
+      "minimumPrice": 500,
+      "maximumPrice": 15486,
+      "averageStackPrice": 7178,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

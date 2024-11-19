@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rosin",
+    "displayName": "Rosin",
+    "values": {
+      "commonRange": "1,402 - 2,900",
+      "averagePrice": 2024,
+      "minimumPrice": 795,
+      "maximumPrice": 9000,
+      "averageStackPrice": 16192,
+      "commonStackSize": 8,
+      "salesRecorded": 854
+    },
+    "type": "Woodworking Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Woodworking_Materials/Rosin.png"
+  }
+]

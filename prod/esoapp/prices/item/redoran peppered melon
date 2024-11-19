@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran peppered melon",
+    "displayName": "Redoran Peppered Melon",
+    "values": {
+      "commonRange": "2 - 94",
+      "averagePrice": 29,
+      "minimumPrice": 2,
+      "maximumPrice": 94,
+      "averageStackPrice": 725,
+      "commonStackSize": 25,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "02/28/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/redoran_peppered_melon.png"
+  }
+]

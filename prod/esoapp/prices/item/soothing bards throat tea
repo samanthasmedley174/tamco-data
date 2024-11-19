@@ -1,0 +1,18 @@
+[
+  {
+    "name": "soothing bards throat tea",
+    "displayName": "Soothing Bard's-Throat Tea",
+    "values": {
+      "commonRange": "15 - 15",
+      "averagePrice": 15,
+      "minimumPrice": 15,
+      "maximumPrice": 15,
+      "averageStackPrice": 60,
+      "commonStackSize": 4,
+      "salesRecorded": 2
+    },
+    "type": "Food & Drinks",
+    "date": "03/01/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/soothing_bard's-throat_tea.png"
+  }
+]

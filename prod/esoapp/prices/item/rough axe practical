@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough axe practical",
+    "displayName": "Rough Axe, Practical",
+    "values": {
+      "commonRange": "115 - 300",
+      "averagePrice": 187,
+      "minimumPrice": 100,
+      "maximumPrice": 300,
+      "averageStackPrice": 187,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

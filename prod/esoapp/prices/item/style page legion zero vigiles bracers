@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page legion zero vigiles bracers",
+    "displayName": "Style Page: Legion Zero Vigiles Bracers",
+    "values": {
+      "commonRange": "99,000 - 280,000",
+      "averagePrice": 147815,
+      "minimumPrice": 10000,
+      "maximumPrice": 290154,
+      "averageStackPrice": 147815,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

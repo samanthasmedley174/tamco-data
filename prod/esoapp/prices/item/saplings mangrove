@@ -1,0 +1,18 @@
+[
+  {
+    "name": "saplings mangrove",
+    "displayName": "Saplings, Mangrove",
+    "values": {
+      "commonRange": "15 - 3,315",
+      "averagePrice": 1372,
+      "minimumPrice": 15,
+      "maximumPrice": 5015,
+      "averageStackPrice": 1372,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/04/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

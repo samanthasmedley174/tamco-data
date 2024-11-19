@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe strapping lad tonic",
+    "displayName": "Recipe: Strapping Lad Tonic",
+    "values": {
+      "commonRange": "90 - 3,000",
+      "averagePrice": 1067,
+      "minimumPrice": 30,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1067,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

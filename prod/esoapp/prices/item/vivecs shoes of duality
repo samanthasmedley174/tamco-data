@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vivecs shoes of duality",
+    "displayName": "Vivec's Shoes of Duality",
+    "values": {
+      "commonRange": "187 - 2,090",
+      "averagePrice": 1181,
+      "minimumPrice": 50,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1181,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

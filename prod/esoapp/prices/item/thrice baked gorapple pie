@@ -1,0 +1,18 @@
+[
+  {
+    "name": "thrice baked gorapple pie",
+    "displayName": "Thrice-Baked Gorapple Pie",
+    "values": {
+      "commonRange": "10 - 25",
+      "averagePrice": 17,
+      "minimumPrice": 9,
+      "maximumPrice": 27,
+      "averageStackPrice": 1700,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "01/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/thrice-baked_gorapple_pie.png"
+  }
+]

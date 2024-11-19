@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of the arch mage",
+    "displayName": "Sash of the Arch-Mage",
+    "values": {
+      "commonRange": "90 - 999",
+      "averagePrice": 763,
+      "minimumPrice": 87,
+      "maximumPrice": 2000,
+      "averageStackPrice": 763,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

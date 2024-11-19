@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampire lords ring",
+    "displayName": "Vampire Lord's Ring",
+    "values": {
+      "commonRange": "144 - 2,155",
+      "averagePrice": 834,
+      "minimumPrice": 144,
+      "maximumPrice": 5000,
+      "averageStackPrice": 834,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

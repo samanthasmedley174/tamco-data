@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page evergreen jack",
+    "displayName": "Style Page: Evergreen Jack",
+    "values": {
+      "commonRange": "9,426 - 18,043",
+      "averagePrice": 15567,
+      "minimumPrice": 8000,
+      "maximumPrice": 47553,
+      "averageStackPrice": 15567,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

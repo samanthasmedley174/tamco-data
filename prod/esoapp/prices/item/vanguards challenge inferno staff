@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanguards challenge inferno staff",
+    "displayName": "Vanguard's Challenge Inferno Staff",
+    "values": {
+      "commonRange": "246 - 246",
+      "averagePrice": 313,
+      "minimumPrice": 246,
+      "maximumPrice": 446,
+      "averageStackPrice": 313,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

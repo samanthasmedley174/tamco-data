@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe sun dried caravan provisions",
+    "displayName": "Recipe: Sun-Dried Caravan Provisions",
+    "values": {
+      "commonRange": "550 - 7,654",
+      "averagePrice": 6958,
+      "minimumPrice": 50,
+      "maximumPrice": 49000,
+      "averageStackPrice": 6958,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

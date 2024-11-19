@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis telvanni end table organic",
+    "displayName": "Praxis: Telvanni End Table, Organic",
+    "values": {
+      "commonRange": "45,039 - 85,000",
+      "averagePrice": 66503,
+      "minimumPrice": 29999,
+      "maximumPrice": 88000,
+      "averageStackPrice": 66503,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

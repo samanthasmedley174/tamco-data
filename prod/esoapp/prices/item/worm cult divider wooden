@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult divider wooden",
+    "displayName": "Worm Cult Divider, Wooden",
+    "values": {
+      "commonRange": "4,383 - 8,000",
+      "averagePrice": 5487,
+      "minimumPrice": 4150,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5487,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

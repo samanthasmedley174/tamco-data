@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude game warrior and the wolf",
+    "displayName": "Solitude Game, Warrior and the Wolf",
+    "values": {
+      "commonRange": "15,000 - 22,000",
+      "averagePrice": 17300,
+      "minimumPrice": 14488,
+      "maximumPrice": 22488,
+      "averageStackPrice": 17300,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard chalice empty",
+    "displayName": "Redguard Chalice, Empty",
+    "values": {
+      "commonRange": "1,300 - 4,300",
+      "averagePrice": 3036,
+      "minimumPrice": 1300,
+      "maximumPrice": 4300,
+      "averageStackPrice": 3036,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/08/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

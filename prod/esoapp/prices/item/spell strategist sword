@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spell strategist sword",
+    "displayName": "Spell Strategist Sword",
+    "values": {
+      "commonRange": "2,153 - 33,333",
+      "averagePrice": 21570,
+      "minimumPrice": 1153,
+      "maximumPrice": 79156,
+      "averageStackPrice": 21570,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page truth in wisdom bracers",
+    "displayName": "Style Page: Truth in Wisdom Bracers",
+    "values": {
+      "commonRange": "100 - 647",
+      "averagePrice": 331,
+      "minimumPrice": 44,
+      "maximumPrice": 1000,
+      "averageStackPrice": 331,
+      "commonStackSize": 1,
+      "salesRecorded": 43
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

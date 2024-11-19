@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran end table sanded",
+    "displayName": "Redoran End Table, Sanded",
+    "values": {
+      "commonRange": "3,000 - 5,150",
+      "averagePrice": 3580,
+      "minimumPrice": 3000,
+      "maximumPrice": 5150,
+      "averageStackPrice": 3580,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/07/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

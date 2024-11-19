@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric lightpost amber single",
+    "displayName": "Vampiric Lightpost, Amber Single",
+    "values": {
+      "commonRange": "8,000 - 24,399",
+      "averagePrice": 14160,
+      "minimumPrice": 7300,
+      "maximumPrice": 24399,
+      "averageStackPrice": 14160,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/25/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

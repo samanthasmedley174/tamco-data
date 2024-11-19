@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page jazennji siir jack",
+    "displayName": "Style Page: Ja'zennji Siir Jack",
+    "values": {
+      "commonRange": "5,000 - 14,134",
+      "averagePrice": 9898,
+      "minimumPrice": 1200,
+      "maximumPrice": 14322,
+      "averageStackPrice": 9898,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

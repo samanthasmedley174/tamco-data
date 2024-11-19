@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni specimen jar glass dome",
+    "displayName": "Telvanni Specimen Jar, Glass Dome",
+    "values": {
+      "commonRange": "1,000 - 2,000",
+      "averagePrice": 1252,
+      "minimumPrice": 800,
+      "maximumPrice": 2096,
+      "averageStackPrice": 1252,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

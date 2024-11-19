@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampire lords breeches",
+    "displayName": "Vampire Lord's Breeches",
+    "values": {
+      "commonRange": "250 - 2,180",
+      "averagePrice": 898,
+      "minimumPrice": 120,
+      "maximumPrice": 2299,
+      "averageStackPrice": 898,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

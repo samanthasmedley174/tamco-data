@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe chicken and banana fried rice",
+    "displayName": "Recipe: Chicken-and-Banana Fried Rice",
+    "values": {
+      "commonRange": "250 - 4,000",
+      "averagePrice": 2538,
+      "minimumPrice": 250,
+      "maximumPrice": 7000,
+      "averageStackPrice": 2538,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

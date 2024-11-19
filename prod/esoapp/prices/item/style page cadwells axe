@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page cadwells axe",
+    "displayName": "Style Page: Cadwell's Axe",
+    "values": {
+      "commonRange": "25,000 - 35,181",
+      "averagePrice": 31474,
+      "minimumPrice": 22362,
+      "maximumPrice": 45101,
+      "averageStackPrice": 31474,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

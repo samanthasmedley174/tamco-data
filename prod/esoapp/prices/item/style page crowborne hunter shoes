@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page crowborne hunter shoes",
+    "displayName": "Style Page: Crowborne Hunter Shoes",
+    "values": {
+      "commonRange": "400 - 4,000",
+      "averagePrice": 1258,
+      "minimumPrice": 200,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1258,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

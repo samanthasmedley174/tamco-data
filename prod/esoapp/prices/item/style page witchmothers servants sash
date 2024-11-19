@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page witchmothers servants sash",
+    "displayName": "Style Page: Witchmother's Servant's Sash",
+    "values": {
+      "commonRange": "50,000 - 75,666",
+      "averagePrice": 67497,
+      "minimumPrice": 50000,
+      "maximumPrice": 80000,
+      "averageStackPrice": 67497,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

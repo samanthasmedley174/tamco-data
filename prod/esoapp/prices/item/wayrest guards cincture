@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wayrest guards cincture",
+    "displayName": "Wayrest Guard's Cincture",
+    "values": {
+      "commonRange": "234 - 284",
+      "averagePrice": 451,
+      "minimumPrice": 184,
+      "maximumPrice": 1100,
+      "averageStackPrice": 451,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

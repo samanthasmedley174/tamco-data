@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seventh legions ice staff",
+    "displayName": "Seventh Legion's Ice Staff",
+    "values": {
+      "commonRange": "640 - 840",
+      "averagePrice": 740,
+      "minimumPrice": 640,
+      "maximumPrice": 840,
+      "averageStackPrice": 740,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

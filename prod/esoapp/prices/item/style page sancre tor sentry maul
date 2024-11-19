@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page sancre tor sentry maul",
+    "displayName": "Style Page: Sancre Tor Sentry Maul",
+    "values": {
+      "commonRange": "2,803 - 18,000",
+      "averagePrice": 7485,
+      "minimumPrice": 1500,
+      "maximumPrice": 19900,
+      "averageStackPrice": 7485,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

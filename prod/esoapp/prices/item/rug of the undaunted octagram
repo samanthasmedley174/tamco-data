@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rug of the undaunted octagram",
+    "displayName": "Rug of the Undaunted, Octagram",
+    "values": {
+      "commonRange": "2,416 - 5,500",
+      "averagePrice": 3893,
+      "minimumPrice": 2213,
+      "maximumPrice": 8000,
+      "averageStackPrice": 3893,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

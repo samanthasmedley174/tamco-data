@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe house hlaalu pumpkin risotto",
+    "displayName": "Recipe: House Hlaalu Pumpkin Risotto",
+    "values": {
+      "commonRange": "27 - 217",
+      "averagePrice": 274,
+      "minimumPrice": 27,
+      "maximumPrice": 3000,
+      "averageStackPrice": 274,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

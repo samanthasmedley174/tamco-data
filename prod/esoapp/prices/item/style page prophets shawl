@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page prophets shawl",
+    "displayName": "Style Page: Prophet's Shawl",
+    "values": {
+      "commonRange": "9,000 - 25,000",
+      "averagePrice": 16934,
+      "minimumPrice": 5000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 16934,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

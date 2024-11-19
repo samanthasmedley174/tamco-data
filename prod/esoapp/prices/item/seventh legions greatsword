@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seventh legions greatsword",
+    "displayName": "Seventh Legion's Greatsword",
+    "values": {
+      "commonRange": "340 - 2,500",
+      "averagePrice": 1751,
+      "minimumPrice": 246,
+      "maximumPrice": 3340,
+      "averageStackPrice": 1751,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

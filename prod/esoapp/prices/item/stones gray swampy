@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stones gray swampy",
+    "displayName": "Stones, Gray Swampy",
+    "values": {
+      "commonRange": "150 - 465",
+      "averagePrice": 296,
+      "minimumPrice": 111,
+      "maximumPrice": 465,
+      "averageStackPrice": 592,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/21/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

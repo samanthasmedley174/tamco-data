@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf canopy spine",
+    "displayName": "Wood Elf Canopy, Spine",
+    "values": {
+      "commonRange": "1,000 - 15,000",
+      "averagePrice": 6130,
+      "minimumPrice": 1000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 6130,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/14/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

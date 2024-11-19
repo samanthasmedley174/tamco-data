@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough rod fishing",
+    "displayName": "Rough Rod, Fishing",
+    "values": {
+      "commonRange": "64 - 223",
+      "averagePrice": 143,
+      "minimumPrice": 15,
+      "maximumPrice": 500,
+      "averageStackPrice": 143,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

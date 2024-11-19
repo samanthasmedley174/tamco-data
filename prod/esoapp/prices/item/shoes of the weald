@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of the weald",
+    "displayName": "Shoes of the Weald",
+    "values": {
+      "commonRange": "190 - 2,500",
+      "averagePrice": 1348,
+      "minimumPrice": 100,
+      "maximumPrice": 10090,
+      "averageStackPrice": 1348,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

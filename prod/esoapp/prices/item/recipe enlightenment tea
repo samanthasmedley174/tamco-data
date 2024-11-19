@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe enlightenment tea",
+    "displayName": "Recipe: Enlightenment Tea",
+    "values": {
+      "commonRange": "29 - 611",
+      "averagePrice": 388,
+      "minimumPrice": 27,
+      "maximumPrice": 747,
+      "averageStackPrice": 388,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

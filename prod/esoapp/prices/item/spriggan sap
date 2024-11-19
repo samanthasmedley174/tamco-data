@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spriggan sap",
+    "displayName": "Spriggan Sap",
+    "values": {
+      "commonRange": "5 - 5",
+      "averagePrice": 5,
+      "minimumPrice": 5,
+      "maximumPrice": 5,
+      "averageStackPrice": 305,
+      "commonStackSize": 61,
+      "salesRecorded": 1
+    },
+    "type": "Food & Drinks",
+    "date": "09/10/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/spriggan_sap.png"
+  }
+]

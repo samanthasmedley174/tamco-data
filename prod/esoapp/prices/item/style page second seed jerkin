@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page second seed jerkin",
+    "displayName": "Style Page: Second Seed Jerkin",
+    "values": {
+      "commonRange": "150,000 - 300,000",
+      "averagePrice": 223209,
+      "minimumPrice": 100000,
+      "maximumPrice": 500000,
+      "averageStackPrice": 223209,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

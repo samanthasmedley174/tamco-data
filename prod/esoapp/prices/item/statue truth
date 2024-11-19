@@ -1,0 +1,18 @@
+[
+  {
+    "name": "statue truth",
+    "displayName": "Statue, Truth",
+    "values": {
+      "commonRange": "38,033 - 44,033",
+      "averagePrice": 39914,
+      "minimumPrice": 33000,
+      "maximumPrice": 48057,
+      "averageStackPrice": 39914,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page glenmoril wyrd shoes",
+    "displayName": "Style Page: Glenmoril Wyrd Shoes",
+    "values": {
+      "commonRange": "100 - 3,000",
+      "averagePrice": 1143,
+      "minimumPrice": 100,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1143,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of the powerful assault",
+    "displayName": "Shield of the Powerful Assault",
+    "values": {
+      "commonRange": "3,200 - 10,150",
+      "averagePrice": 8921,
+      "minimumPrice": 2060,
+      "maximumPrice": 50000,
+      "averageStackPrice": 8921,
+      "commonStackSize": 1,
+      "salesRecorded": 70
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

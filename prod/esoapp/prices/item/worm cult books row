@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult books row",
+    "displayName": "Worm Cult Books, Row",
+    "values": {
+      "commonRange": "7,000 - 7,000",
+      "averagePrice": 8285,
+      "minimumPrice": 7000,
+      "maximumPrice": 19850,
+      "averageStackPrice": 8285,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

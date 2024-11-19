@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rice",
+    "displayName": "Rice",
+    "values": {
+      "commonRange": "7 - 28",
+      "averagePrice": 14,
+      "minimumPrice": 5,
+      "maximumPrice": 42,
+      "averageStackPrice": 2800,
+      "commonStackSize": 200,
+      "salesRecorded": 34
+    },
+    "type": "Provisioning Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page gloamsedge arm cop",
+    "displayName": "Style Page: Gloamsedge Arm Cop",
+    "values": {
+      "commonRange": "20,000 - 39,994",
+      "averagePrice": 30403,
+      "minimumPrice": 20000,
+      "maximumPrice": 40000,
+      "averageStackPrice": 30403,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Style Pages",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

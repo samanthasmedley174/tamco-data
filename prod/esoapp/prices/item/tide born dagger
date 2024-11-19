@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born dagger",
+    "displayName": "Tide-Born Dagger",
+    "values": {
+      "commonRange": "12,000 - 90,000",
+      "averagePrice": 51891,
+      "minimumPrice": 4550,
+      "maximumPrice": 120611,
+      "averageStackPrice": 51891,
+      "commonStackSize": 1,
+      "salesRecorded": 76
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

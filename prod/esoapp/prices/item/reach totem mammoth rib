@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reach totem mammoth rib",
+    "displayName": "Reach Totem, Mammoth Rib",
+    "values": {
+      "commonRange": "5,000 - 12,000",
+      "averagePrice": 9320,
+      "minimumPrice": 5000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9320,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

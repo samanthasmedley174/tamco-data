@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe centurions friend kaveh",
+    "displayName": "Recipe: Centurion's Friend Kaveh",
+    "values": {
+      "commonRange": "2,036 - 2,717",
+      "averagePrice": 2566,
+      "minimumPrice": 1500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2566,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

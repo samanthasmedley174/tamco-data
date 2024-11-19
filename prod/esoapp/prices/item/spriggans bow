@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spriggans bow",
+    "displayName": "Spriggan's Bow",
+    "values": {
+      "commonRange": "640 - 30,000",
+      "averagePrice": 10044,
+      "minimumPrice": 234,
+      "maximumPrice": 80000,
+      "averageStackPrice": 10044,
+      "commonStackSize": 1,
+      "salesRecorded": 43
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

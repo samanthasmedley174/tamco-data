@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree sturdy young birch",
+    "displayName": "Tree, Sturdy Young Birch",
+    "values": {
+      "commonRange": "250 - 250",
+      "averagePrice": 250,
+      "minimumPrice": 250,
+      "maximumPrice": 250,
+      "averageStackPrice": 1000,
+      "commonStackSize": 4,
+      "salesRecorded": 1
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

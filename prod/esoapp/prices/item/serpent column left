@@ -1,0 +1,18 @@
+[
+  {
+    "name": "serpent column left",
+    "displayName": "Serpent Column, Left",
+    "values": {
+      "commonRange": "15,000 - 30,000",
+      "averagePrice": 21252,
+      "minimumPrice": 15000,
+      "maximumPrice": 30963,
+      "averageStackPrice": 21252,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

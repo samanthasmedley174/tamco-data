@@ -1,0 +1,18 @@
+[
+  {
+    "name": "roguish stealth draught",
+    "displayName": "Roguish Stealth Draught",
+    "values": {
+      "commonRange": "27 - 44",
+      "averagePrice": 36,
+      "minimumPrice": 15,
+      "maximumPrice": 46,
+      "averageStackPrice": 180,
+      "commonStackSize": 5,
+      "salesRecorded": 10
+    },
+    "type": "Potions & Poisons",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Potions_&_Poisons/Roguish_Stealth_Draught.png"
+  }
+]

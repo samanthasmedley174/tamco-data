@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe riften rye",
+    "displayName": "Recipe: Riften Rye",
+    "values": {
+      "commonRange": "350 - 3,000",
+      "averagePrice": 3630,
+      "minimumPrice": 210,
+      "maximumPrice": 22000,
+      "averageStackPrice": 3630,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

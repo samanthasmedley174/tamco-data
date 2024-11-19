@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sigil dibella",
+    "displayName": "Sigil, Dibella",
+    "values": {
+      "commonRange": "18,000 - 26,000",
+      "averagePrice": 23450,
+      "minimumPrice": 15000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 23450,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

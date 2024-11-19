@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard pot capped",
+    "displayName": "Redguard Pot, Capped",
+    "values": {
+      "commonRange": "160 - 1,150",
+      "averagePrice": 928,
+      "minimumPrice": 60,
+      "maximumPrice": 2000,
+      "averageStackPrice": 928,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/14/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

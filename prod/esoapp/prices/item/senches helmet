@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senches helmet",
+    "displayName": "Senche's Helmet",
+    "values": {
+      "commonRange": "153 - 2,100",
+      "averagePrice": 731,
+      "minimumPrice": 100,
+      "maximumPrice": 2570,
+      "averageStackPrice": 731,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

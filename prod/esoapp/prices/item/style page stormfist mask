@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page stormfist mask",
+    "displayName": "Style Page: Stormfist Mask",
+    "values": {
+      "commonRange": "590,000 - 1,200,000",
+      "averagePrice": 949500,
+      "minimumPrice": 400000,
+      "maximumPrice": 2600000,
+      "averageStackPrice": 949500,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "08/13/2024",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

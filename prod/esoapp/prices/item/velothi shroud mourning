@@ -1,0 +1,18 @@
+[
+  {
+    "name": "velothi shroud mourning",
+    "displayName": "Velothi Shroud, Mourning",
+    "values": {
+      "commonRange": "9,000 - 23,000",
+      "averagePrice": 15246,
+      "minimumPrice": 4000,
+      "maximumPrice": 24950,
+      "averageStackPrice": 15246,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

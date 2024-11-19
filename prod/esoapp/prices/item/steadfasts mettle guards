@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfasts mettle guards",
+    "displayName": "Steadfast's Mettle Guards",
+    "values": {
+      "commonRange": "400 - 4,000",
+      "averagePrice": 2573,
+      "minimumPrice": 250,
+      "maximumPrice": 27183,
+      "averageStackPrice": 2573,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

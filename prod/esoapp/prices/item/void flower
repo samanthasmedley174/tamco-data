@@ -1,0 +1,18 @@
+[
+  {
+    "name": "void flower",
+    "displayName": "Void Flower",
+    "values": {
+      "commonRange": "3,418 - 7,235",
+      "averagePrice": 5066,
+      "minimumPrice": 2501,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5066,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

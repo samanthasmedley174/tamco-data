@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ravaging inferno staff",
+    "displayName": "Ravaging Inferno Staff",
+    "values": {
+      "commonRange": "6,300 - 9,000",
+      "averagePrice": 7220,
+      "minimumPrice": 4000,
+      "maximumPrice": 9240,
+      "averageStackPrice": 7220,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

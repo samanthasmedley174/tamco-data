@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ysgramors jakolars staff",
+    "displayName": "Ysgramor's Jakolar's Staff",
+    "values": {
+      "commonRange": "3,999 - 4,432",
+      "averagePrice": 4403,
+      "minimumPrice": 3600,
+      "maximumPrice": 6999,
+      "averageStackPrice": 4403,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

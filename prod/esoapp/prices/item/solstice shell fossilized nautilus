@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solstice shell fossilized nautilus",
+    "displayName": "Solstice Shell, Fossilized Nautilus",
+    "values": {
+      "commonRange": "1,500 - 3,335",
+      "averagePrice": 2689,
+      "minimumPrice": 1500,
+      "maximumPrice": 3346,
+      "averageStackPrice": 2689,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

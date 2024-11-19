@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wizards riposte robe",
+    "displayName": "Wizard's Riposte Robe",
+    "values": {
+      "commonRange": "274 - 674",
+      "averagePrice": 505,
+      "minimumPrice": 183,
+      "maximumPrice": 780,
+      "averageStackPrice": 505,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

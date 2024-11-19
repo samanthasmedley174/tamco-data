@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the song of pelinal volume 7",
+    "displayName": "The Song of Pelinal, Volume 7",
+    "values": {
+      "commonRange": "242 - 709",
+      "averagePrice": 434,
+      "minimumPrice": 200,
+      "maximumPrice": 709,
+      "averageStackPrice": 434,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

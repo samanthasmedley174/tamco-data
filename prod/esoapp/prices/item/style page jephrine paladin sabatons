@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page jephrine paladin sabatons",
+    "displayName": "Style Page: Jephrine Paladin Sabatons",
+    "values": {
+      "commonRange": "2,500 - 3,679",
+      "averagePrice": 3217,
+      "minimumPrice": 83,
+      "maximumPrice": 6900,
+      "averageStackPrice": 3217,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

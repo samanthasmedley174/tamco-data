@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spool red thread",
+    "displayName": "Spool, Red Thread",
+    "values": {
+      "commonRange": "190,060 - 275,000",
+      "averagePrice": 225661,
+      "minimumPrice": 180060,
+      "maximumPrice": 300000,
+      "averageStackPrice": 225661,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/21/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

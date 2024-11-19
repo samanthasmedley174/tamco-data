@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spell parasites inferno staff",
+    "displayName": "Spell Parasite's Inferno Staff",
+    "values": {
+      "commonRange": "5,240 - 69,252",
+      "averagePrice": 37246,
+      "minimumPrice": 5240,
+      "maximumPrice": 69252,
+      "averageStackPrice": 37246,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

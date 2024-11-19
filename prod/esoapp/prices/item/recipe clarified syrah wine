@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe clarified syrah wine",
+    "displayName": "Recipe: Clarified Syrah Wine",
+    "values": {
+      "commonRange": "15 - 294",
+      "averagePrice": 120,
+      "minimumPrice": 15,
+      "maximumPrice": 430,
+      "averageStackPrice": 120,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

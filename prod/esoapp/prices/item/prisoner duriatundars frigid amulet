@@ -1,0 +1,18 @@
+[
+  {
+    "name": "prisoner duriatundars frigid amulet",
+    "displayName": "Prisoner Duriatundar's Frigid Amulet",
+    "values": {
+      "commonRange": "200 - 250",
+      "averagePrice": 225,
+      "minimumPrice": 200,
+      "maximumPrice": 250,
+      "averageStackPrice": 225,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

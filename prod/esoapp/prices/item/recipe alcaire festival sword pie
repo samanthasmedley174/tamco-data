@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe alcaire festival sword pie",
+    "displayName": "Recipe: Alcaire Festival Sword-Pie",
+    "values": {
+      "commonRange": "27 - 900",
+      "averagePrice": 320,
+      "minimumPrice": 17,
+      "maximumPrice": 1217,
+      "averageStackPrice": 320,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

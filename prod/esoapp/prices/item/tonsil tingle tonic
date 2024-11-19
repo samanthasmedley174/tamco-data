@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tonsil tingle tonic",
+    "displayName": "Tonsil Tingle Tonic",
+    "values": {
+      "commonRange": "2 - 50",
+      "averagePrice": 16,
+      "minimumPrice": 2,
+      "maximumPrice": 50,
+      "averageStackPrice": 16,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "03/05/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/tonsil_tingle_tonic.png"
+  }
+]

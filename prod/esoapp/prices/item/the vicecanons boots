@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the vicecanons boots",
+    "displayName": "The Vicecanon's Boots",
+    "values": {
+      "commonRange": "10,000 - 15,999",
+      "averagePrice": 14166,
+      "minimumPrice": 1999,
+      "maximumPrice": 30000,
+      "averageStackPrice": 14166,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

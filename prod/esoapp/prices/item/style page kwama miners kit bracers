@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page kwama miners kit bracers",
+    "displayName": "Style Page: Kwama Miner's Kit Bracers",
+    "values": {
+      "commonRange": "1,984 - 5,434",
+      "averagePrice": 3772,
+      "minimumPrice": 982,
+      "maximumPrice": 6000,
+      "averageStackPrice": 3772,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

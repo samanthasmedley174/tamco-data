@@ -1,0 +1,18 @@
+[
+  {
+    "name": "snake in the stars robe",
+    "displayName": "Snake in the Stars Robe",
+    "values": {
+      "commonRange": "6,700 - 6,700",
+      "averagePrice": 6700,
+      "minimumPrice": 6700,
+      "maximumPrice": 6700,
+      "averageStackPrice": 6700,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

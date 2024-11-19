@@ -1,0 +1,18 @@
+[
+  {
+    "name": "winter squash display",
+    "displayName": "Winter Squash, Display",
+    "values": {
+      "commonRange": "160 - 1,200",
+      "averagePrice": 949,
+      "minimumPrice": 160,
+      "maximumPrice": 3300,
+      "averageStackPrice": 1898,
+      "commonStackSize": 2,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

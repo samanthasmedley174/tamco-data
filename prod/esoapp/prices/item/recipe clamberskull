@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe clamberskull",
+    "displayName": "Recipe: Clamberskull",
+    "values": {
+      "commonRange": "200 - 411",
+      "averagePrice": 370,
+      "minimumPrice": 30,
+      "maximumPrice": 1000,
+      "averageStackPrice": 370,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

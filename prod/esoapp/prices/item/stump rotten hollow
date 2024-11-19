@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stump rotten hollow",
+    "displayName": "Stump, Rotten Hollow",
+    "values": {
+      "commonRange": "200 - 1,428",
+      "averagePrice": 1081,
+      "minimumPrice": 160,
+      "maximumPrice": 1500,
+      "averageStackPrice": 1081,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/05/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

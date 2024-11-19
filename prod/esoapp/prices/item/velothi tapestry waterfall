@@ -1,0 +1,18 @@
+[
+  {
+    "name": "velothi tapestry waterfall",
+    "displayName": "Velothi Tapestry, Waterfall",
+    "values": {
+      "commonRange": "240,000 - 350,000",
+      "averagePrice": 293093,
+      "minimumPrice": 220000,
+      "maximumPrice": 359000,
+      "averageStackPrice": 293093,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

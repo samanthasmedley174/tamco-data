@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe ghastly eye bowl",
+    "displayName": "Recipe: Ghastly Eye Bowl",
+    "values": {
+      "commonRange": "1,263 - 2,651",
+      "averagePrice": 1890,
+      "minimumPrice": 900,
+      "maximumPrice": 3563,
+      "averageStackPrice": 1890,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

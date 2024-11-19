@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal nightflame bow",
+    "displayName": "Style Page: Opal Nightflame Bow",
+    "values": {
+      "commonRange": "2,590 - 5,000",
+      "averagePrice": 3633,
+      "minimumPrice": 1000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 3633,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

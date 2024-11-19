@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wizards riposte breeches",
+    "displayName": "Wizard's Riposte Breeches",
+    "values": {
+      "commonRange": "274 - 2,174",
+      "averagePrice": 1051,
+      "minimumPrice": 129,
+      "maximumPrice": 3183,
+      "averageStackPrice": 1051,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

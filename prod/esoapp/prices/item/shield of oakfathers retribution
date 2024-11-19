@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of oakfathers retribution",
+    "displayName": "Shield of Oakfather's Retribution",
+    "values": {
+      "commonRange": "900 - 10,000",
+      "averagePrice": 6186,
+      "minimumPrice": 750,
+      "maximumPrice": 13004,
+      "averageStackPrice": 6186,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

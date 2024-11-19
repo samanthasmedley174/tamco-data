@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the nobles conquest",
+    "displayName": "Ring of the Noble's Conquest",
+    "values": {
+      "commonRange": "4,999 - 4,999",
+      "averagePrice": 4999,
+      "minimumPrice": 4999,
+      "maximumPrice": 4999,
+      "averageStackPrice": 4999,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

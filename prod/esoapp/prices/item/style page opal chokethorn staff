@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal chokethorn staff",
+    "displayName": "Style Page: Opal Chokethorn Staff",
+    "values": {
+      "commonRange": "7,600 - 10,809",
+      "averagePrice": 9349,
+      "minimumPrice": 1000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9349,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

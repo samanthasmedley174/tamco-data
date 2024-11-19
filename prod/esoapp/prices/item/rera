@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rera",
+    "displayName": "Rera",
+    "values": {
+      "commonRange": "10 - 105",
+      "averagePrice": 50,
+      "minimumPrice": 9,
+      "maximumPrice": 120,
+      "averageStackPrice": 250,
+      "commonStackSize": 5,
+      "salesRecorded": 10
+    },
+    "type": "Enchanting Materials",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Rera.png"
+  }
+]

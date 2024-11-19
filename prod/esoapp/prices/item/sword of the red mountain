@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of the red mountain",
+    "displayName": "Sword of the Red Mountain",
+    "values": {
+      "commonRange": "1,150 - 2,153",
+      "averagePrice": 1842,
+      "minimumPrice": 1000,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1842,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

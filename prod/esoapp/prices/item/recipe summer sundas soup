@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe summer sundas soup",
+    "displayName": "Recipe: Summer Sundas Soup",
+    "values": {
+      "commonRange": "350 - 3,000",
+      "averagePrice": 2160,
+      "minimumPrice": 300,
+      "maximumPrice": 9000,
+      "averageStackPrice": 2160,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

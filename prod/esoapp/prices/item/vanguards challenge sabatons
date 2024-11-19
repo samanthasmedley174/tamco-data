@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanguards challenge sabatons",
+    "displayName": "Vanguard's Challenge Sabatons",
+    "values": {
+      "commonRange": "387 - 4,087",
+      "averagePrice": 2012,
+      "minimumPrice": 187,
+      "maximumPrice": 13257,
+      "averageStackPrice": 2012,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

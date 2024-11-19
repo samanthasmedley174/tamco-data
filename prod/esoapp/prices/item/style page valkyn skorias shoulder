@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page valkyn skorias shoulder",
+    "displayName": "Style Page: Valkyn Skoria's Shoulder",
+    "values": {
+      "commonRange": "50,000 - 175,000",
+      "averagePrice": 115557,
+      "minimumPrice": 45000,
+      "maximumPrice": 200000,
+      "averageStackPrice": 115557,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude fireplace kitchen",
+    "displayName": "Solitude Fireplace, Kitchen",
+    "values": {
+      "commonRange": "5,000 - 10,423",
+      "averagePrice": 7650,
+      "minimumPrice": 5000,
+      "maximumPrice": 10423,
+      "averageStackPrice": 7650,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

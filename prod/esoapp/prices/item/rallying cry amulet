@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rallying cry amulet",
+    "displayName": "Rallying Cry Amulet",
+    "values": {
+      "commonRange": "9,150 - 75,000",
+      "averagePrice": 38937,
+      "minimumPrice": 750,
+      "maximumPrice": 140156,
+      "averageStackPrice": 38937,
+      "commonStackSize": 1,
+      "salesRecorded": 52
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

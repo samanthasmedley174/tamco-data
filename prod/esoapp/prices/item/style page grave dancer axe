@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page grave dancer axe",
+    "displayName": "Style Page: Grave Dancer Axe",
+    "values": {
+      "commonRange": "500 - 5,000",
+      "averagePrice": 2859,
+      "minimumPrice": 300,
+      "maximumPrice": 5135,
+      "averageStackPrice": 2859,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

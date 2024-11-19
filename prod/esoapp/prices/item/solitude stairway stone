@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude stairway stone",
+    "displayName": "Solitude Stairway, Stone",
+    "values": {
+      "commonRange": "1,341 - 3,341",
+      "averagePrice": 2412,
+      "minimumPrice": 384,
+      "maximumPrice": 5060,
+      "averageStackPrice": 2412,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

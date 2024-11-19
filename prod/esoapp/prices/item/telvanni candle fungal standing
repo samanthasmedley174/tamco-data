@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni candle fungal standing",
+    "displayName": "Telvanni Candle, Fungal Standing",
+    "values": {
+      "commonRange": "7,500 - 10,000",
+      "averagePrice": 9358,
+      "minimumPrice": 7500,
+      "maximumPrice": 16013,
+      "averageStackPrice": 9358,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witches skull horned ram",
+    "displayName": "Witches Skull, Horned Ram",
+    "values": {
+      "commonRange": "800 - 1,266",
+      "averagePrice": 1132,
+      "minimumPrice": 666,
+      "maximumPrice": 2072,
+      "averageStackPrice": 1132,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of the trainee",
+    "displayName": "Shield of the Trainee",
+    "values": {
+      "commonRange": "149 - 2,999",
+      "averagePrice": 1620,
+      "minimumPrice": 93,
+      "maximumPrice": 25000,
+      "averageStackPrice": 1620,
+      "commonStackSize": 1,
+      "salesRecorded": 61
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

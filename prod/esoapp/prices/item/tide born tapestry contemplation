@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born tapestry contemplation",
+    "displayName": "Tide-Born Tapestry, Contemplation",
+    "values": {
+      "commonRange": "30,000 - 41,821",
+      "averagePrice": 34535,
+      "minimumPrice": 20000,
+      "maximumPrice": 48526,
+      "averageStackPrice": 34535,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "staff of the spirit within",
+    "displayName": "Staff of the Spirit Within",
+    "values": {
+      "commonRange": "600 - 1,228",
+      "averagePrice": 896,
+      "minimumPrice": 228,
+      "maximumPrice": 1529,
+      "averageStackPrice": 896,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

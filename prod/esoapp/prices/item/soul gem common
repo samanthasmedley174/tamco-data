@@ -1,0 +1,18 @@
+[
+  {
+    "name": "soul gem common",
+    "displayName": "Soul Gem, Common",
+    "values": {
+      "commonRange": "2,000 - 4,150",
+      "averagePrice": 2986,
+      "minimumPrice": 1150,
+      "maximumPrice": 5450,
+      "averageStackPrice": 2986,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

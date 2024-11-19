@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of syvarras scales",
+    "displayName": "Shield of Syvarra's Scales",
+    "values": {
+      "commonRange": "515 - 9,999",
+      "averagePrice": 2828,
+      "minimumPrice": 100,
+      "maximumPrice": 9999,
+      "averageStackPrice": 2828,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

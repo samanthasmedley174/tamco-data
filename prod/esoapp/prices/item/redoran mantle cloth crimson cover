@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran mantle cloth crimson cover",
+    "displayName": "Redoran Mantle Cloth, Crimson Cover",
+    "values": {
+      "commonRange": "1,300 - 8,900",
+      "averagePrice": 6420,
+      "minimumPrice": 1200,
+      "maximumPrice": 13300,
+      "averageStackPrice": 6420,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

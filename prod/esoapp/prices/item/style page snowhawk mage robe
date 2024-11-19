@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page snowhawk mage robe",
+    "displayName": "Style Page: Snowhawk Mage Robe",
+    "values": {
+      "commonRange": "26,994 - 47,950",
+      "averagePrice": 37776,
+      "minimumPrice": 20000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 37776,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

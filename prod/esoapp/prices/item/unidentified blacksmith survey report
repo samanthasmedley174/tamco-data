@@ -1,0 +1,18 @@
+[
+  {
+    "name": "unidentified blacksmith survey report",
+    "displayName": "Unidentified Blacksmith Survey Report",
+    "values": {
+      "commonRange": "1,000 - 3,500",
+      "averagePrice": 2188,
+      "minimumPrice": 100,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2188,
+      "commonStackSize": 1,
+      "salesRecorded": 277
+    },
+    "type": "Miscellaneous",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe jasmine moonshine",
+    "displayName": "Recipe: Jasmine Moonshine",
+    "values": {
+      "commonRange": "133 - 930",
+      "averagePrice": 367,
+      "minimumPrice": 133,
+      "maximumPrice": 1100,
+      "averageStackPrice": 367,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

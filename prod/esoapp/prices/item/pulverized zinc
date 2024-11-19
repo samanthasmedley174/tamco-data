@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pulverized zinc",
+    "displayName": "Pulverized Zinc",
+    "values": {
+      "commonRange": "33 - 100",
+      "averagePrice": 58,
+      "minimumPrice": 16,
+      "maximumPrice": 100,
+      "averageStackPrice": 58,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Trait Stones",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Pulverized_Zinc.png"
+  }
+]

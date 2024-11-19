@@ -1,0 +1,18 @@
+[
+  {
+    "name": "storm lord shield",
+    "displayName": "Storm Lord Shield",
+    "values": {
+      "commonRange": "6,000 - 16,300",
+      "averagePrice": 8968,
+      "minimumPrice": 4879,
+      "maximumPrice": 17879,
+      "averageStackPrice": 8968,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

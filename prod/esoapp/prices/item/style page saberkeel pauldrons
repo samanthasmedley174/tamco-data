@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page saberkeel pauldrons",
+    "displayName": "Style Page: Saberkeel Pauldrons",
+    "values": {
+      "commonRange": "1,833 - 3,000",
+      "averagePrice": 2688,
+      "minimumPrice": 1100,
+      "maximumPrice": 7500,
+      "averageStackPrice": 2688,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

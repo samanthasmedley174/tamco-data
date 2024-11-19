@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard stool block",
+    "displayName": "Redguard Stool, Block",
+    "values": {
+      "commonRange": "1,000 - 6,000",
+      "averagePrice": 2687,
+      "minimumPrice": 100,
+      "maximumPrice": 6000,
+      "averageStackPrice": 2687,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/29/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

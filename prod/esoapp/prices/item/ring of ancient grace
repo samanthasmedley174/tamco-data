@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of ancient grace",
+    "displayName": "Ring of Ancient Grace",
+    "values": {
+      "commonRange": "1,910 - 10,000",
+      "averagePrice": 9686,
+      "minimumPrice": 900,
+      "maximumPrice": 100000,
+      "averageStackPrice": 9686,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

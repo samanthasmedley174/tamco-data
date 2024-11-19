@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfast hero shield",
+    "displayName": "Steadfast Hero Shield",
+    "values": {
+      "commonRange": "1,153 - 5,312",
+      "averagePrice": 4003,
+      "minimumPrice": 750,
+      "maximumPrice": 7500,
+      "averageStackPrice": 4003,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

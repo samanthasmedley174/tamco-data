@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of dark convergence",
+    "displayName": "Shoes of Dark Convergence",
+    "values": {
+      "commonRange": "5,980 - 120,000",
+      "averagePrice": 38947,
+      "minimumPrice": 900,
+      "maximumPrice": 120000,
+      "averageStackPrice": 38947,
+      "commonStackSize": 1,
+      "salesRecorded": 92
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

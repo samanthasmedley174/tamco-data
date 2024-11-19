@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ravaging girdle",
+    "displayName": "Ravaging Girdle",
+    "values": {
+      "commonRange": "2,000 - 5,500",
+      "averagePrice": 3929,
+      "minimumPrice": 1000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 3929,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

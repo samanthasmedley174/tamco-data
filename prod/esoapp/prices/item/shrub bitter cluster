@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shrub bitter cluster",
+    "displayName": "Shrub, Bitter Cluster",
+    "values": {
+      "commonRange": "60 - 825",
+      "averagePrice": 553,
+      "minimumPrice": 60,
+      "maximumPrice": 932,
+      "averageStackPrice": 553,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/18/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

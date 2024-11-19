@@ -1,0 +1,18 @@
+[
+  {
+    "name": "werewolf hide restoration staff",
+    "displayName": "Werewolf Hide Restoration Staff",
+    "values": {
+      "commonRange": "240 - 2,040",
+      "averagePrice": 821,
+      "minimumPrice": 200,
+      "maximumPrice": 2040,
+      "averageStackPrice": 821,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

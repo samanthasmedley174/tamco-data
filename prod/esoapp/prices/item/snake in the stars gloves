@@ -1,0 +1,18 @@
+[
+  {
+    "name": "snake in the stars gloves",
+    "displayName": "Snake in the Stars Gloves",
+    "values": {
+      "commonRange": "290 - 3,300",
+      "averagePrice": 1842,
+      "minimumPrice": 290,
+      "maximumPrice": 5090,
+      "averageStackPrice": 1842,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

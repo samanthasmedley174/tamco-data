@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rekuta",
+    "displayName": "Rekuta",
+    "values": {
+      "commonRange": "19 - 56",
+      "averagePrice": 36,
+      "minimumPrice": 6,
+      "maximumPrice": 131,
+      "averageStackPrice": 7200,
+      "commonStackSize": 200,
+      "salesRecorded": 59
+    },
+    "type": "Enchanting Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Rekuta.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude shed wood lean to",
+    "displayName": "Solitude Shed, Wood Lean-To",
+    "values": {
+      "commonRange": "1,100 - 3,860",
+      "averagePrice": 2909,
+      "minimumPrice": 66,
+      "maximumPrice": 5560,
+      "averageStackPrice": 5818,
+      "commonStackSize": 2,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tongs forge",
+    "displayName": "Tongs, Forge",
+    "values": {
+      "commonRange": "1,000 - 3,333",
+      "averagePrice": 1988,
+      "minimumPrice": 150,
+      "maximumPrice": 3333,
+      "averageStackPrice": 1988,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page regal regalia sash",
+    "displayName": "Style Page: Regal Regalia Sash",
+    "values": {
+      "commonRange": "1,000 - 5,000",
+      "averagePrice": 10469,
+      "minimumPrice": 1000,
+      "maximumPrice": 90000,
+      "averageStackPrice": 10469,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

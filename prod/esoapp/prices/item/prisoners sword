@@ -1,0 +1,18 @@
+[
+  {
+    "name": "prisoners sword",
+    "displayName": "Prisoner's Sword",
+    "values": {
+      "commonRange": "1,500 - 1,500",
+      "averagePrice": 2418,
+      "minimumPrice": 600,
+      "maximumPrice": 5153,
+      "averageStackPrice": 2418,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

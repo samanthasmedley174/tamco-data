@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stuhns greatsword",
+    "displayName": "Stuhn's Greatsword",
+    "values": {
+      "commonRange": "79,252 - 80,000",
+      "averagePrice": 79626,
+      "minimumPrice": 79252,
+      "maximumPrice": 80000,
+      "averageStackPrice": 79626,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

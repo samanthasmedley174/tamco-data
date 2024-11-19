@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seal of clan bagrakh stone",
+    "displayName": "Seal of Clan Bagrakh, Stone",
+    "values": {
+      "commonRange": "2,200 - 5,000",
+      "averagePrice": 3851,
+      "minimumPrice": 2200,
+      "maximumPrice": 6521,
+      "averageStackPrice": 3851,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf totem framed",
+    "displayName": "Wood Elf Totem, Framed",
+    "values": {
+      "commonRange": "2,000 - 8,300",
+      "averagePrice": 5108,
+      "minimumPrice": 1000,
+      "maximumPrice": 14300,
+      "averageStackPrice": 5108,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "03/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

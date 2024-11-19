@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree young aspen",
+    "displayName": "Tree, Young Aspen",
+    "values": {
+      "commonRange": "100 - 1,100",
+      "averagePrice": 641,
+      "minimumPrice": 60,
+      "maximumPrice": 2500,
+      "averageStackPrice": 641,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

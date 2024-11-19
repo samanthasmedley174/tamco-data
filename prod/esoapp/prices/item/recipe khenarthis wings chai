@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe khenarthis wings chai",
+    "displayName": "Recipe: Khenarthi's Wings Chai",
+    "values": {
+      "commonRange": "4,000 - 7,000",
+      "averagePrice": 6020,
+      "minimumPrice": 4000,
+      "maximumPrice": 11000,
+      "averageStackPrice": 6020,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "siegemasters maul",
+    "displayName": "Siegemaster's Maul",
+    "values": {
+      "commonRange": "651 - 3,000",
+      "averagePrice": 1557,
+      "minimumPrice": 334,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1557,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

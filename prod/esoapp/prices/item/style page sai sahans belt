@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page sai sahans belt",
+    "displayName": "Style Page: Sai Sahan's Belt",
+    "values": {
+      "commonRange": "1,000 - 30,000",
+      "averagePrice": 19255,
+      "minimumPrice": 1000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 19255,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

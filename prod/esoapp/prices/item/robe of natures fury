@@ -1,0 +1,18 @@
+[
+  {
+    "name": "robe of natures fury",
+    "displayName": "Robe of Nature's Fury",
+    "values": {
+      "commonRange": "220 - 220",
+      "averagePrice": 230,
+      "minimumPrice": 200,
+      "maximumPrice": 270,
+      "averageStackPrice": 230,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

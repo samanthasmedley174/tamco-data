@@ -1,0 +1,18 @@
+[
+  {
+    "name": "serniels belt of cyrodiils light",
+    "displayName": "Serniel's Belt of Cyrodiil's Light",
+    "values": {
+      "commonRange": "390 - 390",
+      "averagePrice": 345,
+      "minimumPrice": 210,
+      "maximumPrice": 390,
+      "averageStackPrice": 345,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

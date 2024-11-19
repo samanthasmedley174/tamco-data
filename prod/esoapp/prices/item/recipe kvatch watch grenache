@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe kvatch watch grenache",
+    "displayName": "Recipe: Kvatch Watch Grenache",
+    "values": {
+      "commonRange": "650 - 1,600",
+      "averagePrice": 1895,
+      "minimumPrice": 200,
+      "maximumPrice": 11000,
+      "averageStackPrice": 1895,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

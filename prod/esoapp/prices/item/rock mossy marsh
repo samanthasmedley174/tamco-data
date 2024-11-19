@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rock mossy marsh",
+    "displayName": "Rock, Mossy Marsh",
+    "values": {
+      "commonRange": "250 - 250",
+      "averagePrice": 250,
+      "minimumPrice": 250,
+      "maximumPrice": 250,
+      "averageStackPrice": 500,
+      "commonStackSize": 2,
+      "salesRecorded": 1
+    },
+    "type": "Furnishings",
+    "date": "05/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

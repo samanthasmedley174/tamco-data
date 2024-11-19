@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe solitude salmon millet soup",
+    "displayName": "Recipe: Solitude Salmon-Millet Soup",
+    "values": {
+      "commonRange": "30 - 1,100",
+      "averagePrice": 375,
+      "minimumPrice": 30,
+      "maximumPrice": 2000,
+      "averageStackPrice": 375,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

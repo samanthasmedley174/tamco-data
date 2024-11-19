@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seynes bootknife",
+    "displayName": "Seyne's Bootknife",
+    "values": {
+      "commonRange": "596 - 596",
+      "averagePrice": 625,
+      "minimumPrice": 54,
+      "maximumPrice": 1225,
+      "averageStackPrice": 625,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

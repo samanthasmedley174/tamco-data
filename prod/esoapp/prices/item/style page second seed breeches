@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page second seed breeches",
+    "displayName": "Style Page: Second Seed Breeches",
+    "values": {
+      "commonRange": "60,000 - 90,000",
+      "averagePrice": 83153,
+      "minimumPrice": 55000,
+      "maximumPrice": 170000,
+      "averageStackPrice": 83153,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

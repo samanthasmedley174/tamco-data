@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree ancient jungle",
+    "displayName": "Tree, Ancient Jungle",
+    "values": {
+      "commonRange": "1,150 - 4,150",
+      "averagePrice": 2974,
+      "minimumPrice": 1000,
+      "maximumPrice": 8150,
+      "averageStackPrice": 2974,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/24/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

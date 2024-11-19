@@ -1,0 +1,18 @@
+[
+  {
+    "name": "prisoners epaulets",
+    "displayName": "Prisoner's Epaulets",
+    "values": {
+      "commonRange": "150 - 2,431",
+      "averagePrice": 1193,
+      "minimumPrice": 150,
+      "maximumPrice": 3140,
+      "averageStackPrice": 1193,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

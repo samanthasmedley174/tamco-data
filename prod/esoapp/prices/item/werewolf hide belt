@@ -1,0 +1,18 @@
+[
+  {
+    "name": "werewolf hide belt",
+    "displayName": "Werewolf Hide Belt",
+    "values": {
+      "commonRange": "90 - 1,590",
+      "averagePrice": 765,
+      "minimumPrice": 87,
+      "maximumPrice": 4995,
+      "averageStackPrice": 765,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

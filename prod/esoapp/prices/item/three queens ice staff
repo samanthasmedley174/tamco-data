@@ -1,0 +1,18 @@
+[
+  {
+    "name": "three queens ice staff",
+    "displayName": "Three Queens Ice Staff",
+    "values": {
+      "commonRange": "340 - 5,240",
+      "averagePrice": 2142,
+      "minimumPrice": 240,
+      "maximumPrice": 20000,
+      "averageStackPrice": 2142,
+      "commonStackSize": 1,
+      "salesRecorded": 55
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

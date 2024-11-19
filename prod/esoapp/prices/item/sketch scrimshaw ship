@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch scrimshaw ship",
+    "displayName": "Sketch: Scrimshaw, Ship",
+    "values": {
+      "commonRange": "8,696 - 11,030",
+      "averagePrice": 9671,
+      "minimumPrice": 7000,
+      "maximumPrice": 11999,
+      "averageStackPrice": 9671,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

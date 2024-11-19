@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wedding pergola bare",
+    "displayName": "Wedding Pergola, Bare",
+    "values": {
+      "commonRange": "18,000 - 33,517",
+      "averagePrice": 27678,
+      "minimumPrice": 18000,
+      "maximumPrice": 40500,
+      "averageStackPrice": 27678,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

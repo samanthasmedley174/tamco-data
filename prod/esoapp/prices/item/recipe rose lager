@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe rose lager",
+    "displayName": "Recipe: Rose Lager",
+    "values": {
+      "commonRange": "75 - 750",
+      "averagePrice": 268,
+      "minimumPrice": 30,
+      "maximumPrice": 1000,
+      "averageStackPrice": 268,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

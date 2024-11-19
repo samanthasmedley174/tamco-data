@@ -1,0 +1,18 @@
+[
+  {
+    "name": "trackers lash restoration staff",
+    "displayName": "Tracker's Lash Restoration Staff",
+    "values": {
+      "commonRange": "634 - 2,246",
+      "averagePrice": 1344,
+      "minimumPrice": 240,
+      "maximumPrice": 5234,
+      "averageStackPrice": 1344,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

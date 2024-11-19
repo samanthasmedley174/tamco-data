@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shadows hood",
+    "displayName": "Shadow's Hood",
+    "values": {
+      "commonRange": "150 - 1,000",
+      "averagePrice": 770,
+      "minimumPrice": 100,
+      "maximumPrice": 2150,
+      "averageStackPrice": 770,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

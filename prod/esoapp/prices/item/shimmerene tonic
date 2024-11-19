@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shimmerene tonic",
+    "displayName": "Shimmerene Tonic",
+    "values": {
+      "commonRange": "4 - 4",
+      "averagePrice": 4,
+      "minimumPrice": 4,
+      "maximumPrice": 4,
+      "averageStackPrice": 400,
+      "commonStackSize": 100,
+      "salesRecorded": 1
+    },
+    "type": "Food & Drinks",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/shimmerene_tonic.png"
+  }
+]

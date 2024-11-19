@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sour mash",
+    "displayName": "Sour Mash",
+    "values": {
+      "commonRange": "44 - 160",
+      "averagePrice": 93,
+      "minimumPrice": 44,
+      "maximumPrice": 160,
+      "averageStackPrice": 93,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Food & Drinks",
+    "date": "12/01/2020",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/sour_mash.png"
+  }
+]

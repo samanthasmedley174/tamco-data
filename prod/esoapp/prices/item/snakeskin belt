@@ -1,0 +1,18 @@
+[
+  {
+    "name": "snakeskin belt",
+    "displayName": "Snakeskin Belt",
+    "values": {
+      "commonRange": "124 - 884",
+      "averagePrice": 894,
+      "minimumPrice": 84,
+      "maximumPrice": 3500,
+      "averageStackPrice": 894,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

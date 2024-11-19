@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch solitude serving bowl verdigris",
+    "displayName": "Sketch: Solitude Serving Bowl, Verdigris",
+    "values": {
+      "commonRange": "11,000 - 14,000",
+      "averagePrice": 12372,
+      "minimumPrice": 5000,
+      "maximumPrice": 20030,
+      "averageStackPrice": 12372,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

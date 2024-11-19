@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard chandelier polished",
+    "displayName": "Redguard Chandelier, Polished",
+    "values": {
+      "commonRange": "3,333 - 9,000",
+      "averagePrice": 4758,
+      "minimumPrice": 2000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 4758,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

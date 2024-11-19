@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sparkling mudcrab apple cider",
+    "displayName": "Sparkling Mudcrab Apple Cider",
+    "values": {
+      "commonRange": "3 - 75",
+      "averagePrice": 29,
+      "minimumPrice": 2,
+      "maximumPrice": 75,
+      "averageStackPrice": 580,
+      "commonStackSize": 20,
+      "salesRecorded": 15
+    },
+    "type": "Food & Drinks",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/sparkling_mudcrab_apple_cider.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page legion zero vigiles guards",
+    "displayName": "Style Page: Legion Zero Vigiles Guards",
+    "values": {
+      "commonRange": "100,000 - 292,785",
+      "averagePrice": 194415,
+      "minimumPrice": 90180,
+      "maximumPrice": 599000,
+      "averageStackPrice": 194415,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

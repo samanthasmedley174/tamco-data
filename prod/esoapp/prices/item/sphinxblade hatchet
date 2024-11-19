@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sphinxblade hatchet",
+    "displayName": "Sphinxblade Hatchet",
+    "values": {
+      "commonRange": "441 - 941",
+      "averagePrice": 691,
+      "minimumPrice": 441,
+      "maximumPrice": 941,
+      "averageStackPrice": 691,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of the weald",
+    "displayName": "Shield of the Weald",
+    "values": {
+      "commonRange": "698 - 1,198",
+      "averagePrice": 1137,
+      "minimumPrice": 198,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1137,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

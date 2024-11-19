@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of the powerful assault",
+    "displayName": "Sword of the Powerful Assault",
+    "values": {
+      "commonRange": "5,000 - 20,613",
+      "averagePrice": 12301,
+      "minimumPrice": 4000,
+      "maximumPrice": 108700,
+      "averageStackPrice": 12301,
+      "commonStackSize": 1,
+      "salesRecorded": 84
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

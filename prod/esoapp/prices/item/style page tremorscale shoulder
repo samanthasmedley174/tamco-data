@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page tremorscale shoulder",
+    "displayName": "Style Page: Tremorscale Shoulder",
+    "values": {
+      "commonRange": "40,000 - 142,242",
+      "averagePrice": 104897,
+      "minimumPrice": 40000,
+      "maximumPrice": 142242,
+      "averageStackPrice": 104897,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "03/05/2024",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

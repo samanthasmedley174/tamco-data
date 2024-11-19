@@ -1,0 +1,18 @@
+[
+  {
+    "name": "remnant of cruelty",
+    "displayName": "Remnant of Cruelty",
+    "values": {
+      "commonRange": "5,014 - 10,014",
+      "averagePrice": 8427,
+      "minimumPrice": 5000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 8427,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Fragments",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

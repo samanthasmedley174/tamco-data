@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witchmans helmet",
+    "displayName": "Witchman's Helmet",
+    "values": {
+      "commonRange": "144 - 2,153",
+      "averagePrice": 1001,
+      "minimumPrice": 85,
+      "maximumPrice": 7150,
+      "averageStackPrice": 1001,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

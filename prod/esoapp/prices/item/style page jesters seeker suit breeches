@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page jesters seeker suit breeches",
+    "displayName": "Style Page: Jester's Seeker Suit Breeches",
+    "values": {
+      "commonRange": "13,000 - 40,000",
+      "averagePrice": 21084,
+      "minimumPrice": 500,
+      "maximumPrice": 67631,
+      "averageStackPrice": 21084,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

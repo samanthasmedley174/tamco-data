@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sarcophagus stone lid",
+    "displayName": "Sarcophagus, Stone Lid",
+    "values": {
+      "commonRange": "3,000 - 9,000",
+      "averagePrice": 5803,
+      "minimumPrice": 2850,
+      "maximumPrice": 9000,
+      "averageStackPrice": 5803,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

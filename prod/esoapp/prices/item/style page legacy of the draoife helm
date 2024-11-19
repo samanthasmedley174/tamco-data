@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page legacy of the draoife helm",
+    "displayName": "Style Page: Legacy of the Draoife Helm",
+    "values": {
+      "commonRange": "8,048 - 11,000",
+      "averagePrice": 8814,
+      "minimumPrice": 1000,
+      "maximumPrice": 11000,
+      "averageStackPrice": 8814,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

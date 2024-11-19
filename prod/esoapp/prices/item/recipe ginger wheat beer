@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe ginger wheat beer",
+    "displayName": "Recipe: Ginger Wheat Beer",
+    "values": {
+      "commonRange": "30 - 204",
+      "averagePrice": 198,
+      "minimumPrice": 30,
+      "maximumPrice": 850,
+      "averageStackPrice": 198,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

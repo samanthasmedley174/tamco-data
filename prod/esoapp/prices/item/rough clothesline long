@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough clothesline long",
+    "displayName": "Rough Clothesline, Long",
+    "values": {
+      "commonRange": "1,235 - 2,500",
+      "averagePrice": 1851,
+      "minimumPrice": 515,
+      "maximumPrice": 2500,
+      "averageStackPrice": 1851,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/05/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

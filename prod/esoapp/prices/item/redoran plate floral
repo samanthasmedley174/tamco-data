@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran plate floral",
+    "displayName": "Redoran Plate, Floral",
+    "values": {
+      "commonRange": "1,300 - 5,000",
+      "averagePrice": 3899,
+      "minimumPrice": 1300,
+      "maximumPrice": 7800,
+      "averageStackPrice": 3899,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/29/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

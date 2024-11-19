@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree twisted white cherry",
+    "displayName": "Tree, Twisted White Cherry",
+    "values": {
+      "commonRange": "5,000 - 7,672",
+      "averagePrice": 6865,
+      "minimumPrice": 5000,
+      "maximumPrice": 8588,
+      "averageStackPrice": 6865,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

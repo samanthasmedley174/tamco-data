@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard bottle glowing",
+    "displayName": "Redguard Bottle, Glowing",
+    "values": {
+      "commonRange": "22,000 - 26,567",
+      "averagePrice": 23999,
+      "minimumPrice": 15000,
+      "maximumPrice": 27346,
+      "averageStackPrice": 23999,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

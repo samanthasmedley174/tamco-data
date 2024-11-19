@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric mirror standing",
+    "displayName": "Vampiric Mirror, Standing",
+    "values": {
+      "commonRange": "4,000 - 9,383",
+      "averagePrice": 7658,
+      "minimumPrice": 4000,
+      "maximumPrice": 9500,
+      "averageStackPrice": 7658,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

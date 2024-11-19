@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe salmon with radish slaw",
+    "displayName": "Recipe: Salmon with Radish Slaw",
+    "values": {
+      "commonRange": "150 - 1,030",
+      "averagePrice": 568,
+      "minimumPrice": 30,
+      "maximumPrice": 1030,
+      "averageStackPrice": 568,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

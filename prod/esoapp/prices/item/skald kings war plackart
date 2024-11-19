@@ -1,0 +1,18 @@
+[
+  {
+    "name": "skald kings war plackart",
+    "displayName": "Skald-King's War Plackart",
+    "values": {
+      "commonRange": "271 - 371",
+      "averagePrice": 453,
+      "minimumPrice": 171,
+      "maximumPrice": 1000,
+      "averageStackPrice": 453,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

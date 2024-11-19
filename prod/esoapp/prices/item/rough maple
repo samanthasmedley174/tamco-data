@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough maple",
+    "displayName": "Rough Maple",
+    "values": {
+      "commonRange": "6 - 40",
+      "averagePrice": 26,
+      "minimumPrice": 2,
+      "maximumPrice": 83,
+      "averageStackPrice": 5200,
+      "commonStackSize": 200,
+      "salesRecorded": 14
+    },
+    "type": "Woodworking Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Woodworking_Materials/Rough_Maple.png"
+  }
+]

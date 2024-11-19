@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude pot narrow metal",
+    "displayName": "Solitude Pot, Narrow Metal",
+    "values": {
+      "commonRange": "1,845 - 4,550",
+      "averagePrice": 2778,
+      "minimumPrice": 1250,
+      "maximumPrice": 5150,
+      "averageStackPrice": 2778,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "07/05/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page crowborne hunter jerkin",
+    "displayName": "Style Page: Crowborne Hunter Jerkin",
+    "values": {
+      "commonRange": "1,000 - 6,000",
+      "averagePrice": 2908,
+      "minimumPrice": 1000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2908,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

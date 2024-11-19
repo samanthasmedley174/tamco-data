@@ -1,0 +1,18 @@
+[
+  {
+    "name": "researchers regret",
+    "displayName": "Researcher's Regret",
+    "values": {
+      "commonRange": "340 - 1,000",
+      "averagePrice": 732,
+      "minimumPrice": 340,
+      "maximumPrice": 1240,
+      "averageStackPrice": 732,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

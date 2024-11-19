@@ -1,0 +1,18 @@
+[
+  {
+    "name": "voidstone ingot",
+    "displayName": "Voidstone Ingot",
+    "values": {
+      "commonRange": "12 - 52",
+      "averagePrice": 30,
+      "minimumPrice": 10,
+      "maximumPrice": 62,
+      "averageStackPrice": 6000,
+      "commonStackSize": 200,
+      "salesRecorded": 41
+    },
+    "type": "Blacksmithing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

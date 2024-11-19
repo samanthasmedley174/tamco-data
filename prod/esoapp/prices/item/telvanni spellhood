@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni spellhood",
+    "displayName": "Telvanni Spellhood",
+    "values": {
+      "commonRange": "441 - 441",
+      "averagePrice": 441,
+      "minimumPrice": 441,
+      "maximumPrice": 441,
+      "averageStackPrice": 441,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

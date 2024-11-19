@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe jephres earthbone beer",
+    "displayName": "Recipe: Jephre's Earthbone Beer",
+    "values": {
+      "commonRange": "2,000 - 5,495",
+      "averagePrice": 3884,
+      "minimumPrice": 530,
+      "maximumPrice": 10877,
+      "averageStackPrice": 3884,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

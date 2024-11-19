@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of the voidcaller",
+    "displayName": "Sword of the Voidcaller",
+    "values": {
+      "commonRange": "7,000 - 7,150",
+      "averagePrice": 7288,
+      "minimumPrice": 6000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 7288,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

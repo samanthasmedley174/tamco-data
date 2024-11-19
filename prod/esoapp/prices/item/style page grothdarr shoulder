@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page grothdarr shoulder",
+    "displayName": "Style Page: Grothdarr Shoulder",
+    "values": {
+      "commonRange": "91,242 - 998,000",
+      "averagePrice": 643655,
+      "minimumPrice": 60000,
+      "maximumPrice": 3000000,
+      "averageStackPrice": 643655,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Style Pages",
+    "date": "09/06/2022",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

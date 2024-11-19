@@ -1,0 +1,18 @@
+[
+  {
+    "name": "soldier of anguish ring",
+    "displayName": "Soldier of Anguish Ring",
+    "values": {
+      "commonRange": "655 - 5,000",
+      "averagePrice": 8169,
+      "minimumPrice": 144,
+      "maximumPrice": 50000,
+      "averageStackPrice": 8169,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

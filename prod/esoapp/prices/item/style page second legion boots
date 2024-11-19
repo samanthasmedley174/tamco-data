@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page second legion boots",
+    "displayName": "Style Page: Second Legion Boots",
+    "values": {
+      "commonRange": "5,500 - 250,000",
+      "averagePrice": 169790,
+      "minimumPrice": 5000,
+      "maximumPrice": 299000,
+      "averageStackPrice": 169790,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "03/19/2024",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

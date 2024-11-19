@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe fredas night infusion",
+    "displayName": "Recipe: Fredas Night Infusion",
+    "values": {
+      "commonRange": "20 - 127",
+      "averagePrice": 56,
+      "minimumPrice": 17,
+      "maximumPrice": 230,
+      "averageStackPrice": 56,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe orzorgas blood price pie",
+    "displayName": "Recipe: Orzorga's Blood Price Pie",
+    "values": {
+      "commonRange": "5,000 - 30,000",
+      "averagePrice": 19754,
+      "minimumPrice": 800,
+      "maximumPrice": 30000,
+      "averageStackPrice": 19754,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

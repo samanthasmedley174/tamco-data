@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe borscht",
+    "displayName": "Recipe: Borscht",
+    "values": {
+      "commonRange": "57 - 500",
+      "averagePrice": 237,
+      "minimumPrice": 30,
+      "maximumPrice": 1000,
+      "averageStackPrice": 237,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sip of vitality",
+    "displayName": "Sip of Vitality",
+    "values": {
+      "commonRange": "9 - 9",
+      "averagePrice": 9,
+      "minimumPrice": 9,
+      "maximumPrice": 9,
+      "averageStackPrice": 9,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Potions & Poisons",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of faithfulness",
+    "displayName": "Ring of Faithfulness",
+    "values": {
+      "commonRange": "600 - 1,553",
+      "averagePrice": 1132,
+      "minimumPrice": 500,
+      "maximumPrice": 3153,
+      "averageStackPrice": 1132,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "soul gem lesser",
+    "displayName": "Soul Gem, Lesser",
+    "values": {
+      "commonRange": "1,500 - 3,347",
+      "averagePrice": 2859,
+      "minimumPrice": 1250,
+      "maximumPrice": 3500,
+      "averageStackPrice": 2859,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stonelore tale pillar cliff stone",
+    "displayName": "Stonelore Tale Pillar, Cliff Stone",
+    "values": {
+      "commonRange": "3,300 - 8,150",
+      "averagePrice": 6156,
+      "minimumPrice": 3000,
+      "maximumPrice": 8150,
+      "averageStackPrice": 6156,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/27/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

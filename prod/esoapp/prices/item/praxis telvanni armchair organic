@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis telvanni armchair organic",
+    "displayName": "Praxis: Telvanni Armchair, Organic",
+    "values": {
+      "commonRange": "40,000 - 46,306",
+      "averagePrice": 43131,
+      "minimumPrice": 34000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 43131,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

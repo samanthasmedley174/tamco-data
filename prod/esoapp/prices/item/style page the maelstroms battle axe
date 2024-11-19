@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page the maelstroms battle axe",
+    "displayName": "Style Page: The Maelstrom's Battle Axe",
+    "values": {
+      "commonRange": "30,000 - 218,000",
+      "averagePrice": 109360,
+      "minimumPrice": 30000,
+      "maximumPrice": 218000,
+      "averageStackPrice": 109360,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

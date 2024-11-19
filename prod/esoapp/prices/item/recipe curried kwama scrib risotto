@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe curried kwama scrib risotto",
+    "displayName": "Recipe: Curried Kwama Scrib Risotto",
+    "values": {
+      "commonRange": "2,469 - 6,984",
+      "averagePrice": 6742,
+      "minimumPrice": 1500,
+      "maximumPrice": 22000,
+      "averageStackPrice": 6742,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

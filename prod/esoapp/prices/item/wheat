@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wheat",
+    "displayName": "Wheat",
+    "values": {
+      "commonRange": "7 - 14",
+      "averagePrice": 10,
+      "minimumPrice": 3,
+      "maximumPrice": 25,
+      "averageStackPrice": 2000,
+      "commonStackSize": 200,
+      "salesRecorded": 30
+    },
+    "type": "Provisioning Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

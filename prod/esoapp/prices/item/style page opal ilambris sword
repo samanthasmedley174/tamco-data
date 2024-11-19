@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal ilambris sword",
+    "displayName": "Style Page: Opal Ilambris Sword",
+    "values": {
+      "commonRange": "16,621 - 34,500",
+      "averagePrice": 26312,
+      "minimumPrice": 3000,
+      "maximumPrice": 45000,
+      "averageStackPrice": 26312,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni soup hearty mushroom",
+    "displayName": "Telvanni Soup, Hearty Mushroom",
+    "values": {
+      "commonRange": "1,560 - 8,960",
+      "averagePrice": 6291,
+      "minimumPrice": 1235,
+      "maximumPrice": 12000,
+      "averageStackPrice": 6291,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

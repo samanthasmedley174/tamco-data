@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shadowfen treasure map iv",
+    "displayName": "Shadowfen Treasure Map IV",
+    "values": {
+      "commonRange": "100 - 134",
+      "averagePrice": 146,
+      "minimumPrice": 50,
+      "maximumPrice": 1000,
+      "averageStackPrice": 146,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

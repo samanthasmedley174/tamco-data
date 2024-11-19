@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stirk pork and beets",
+    "displayName": "Stirk Pork-and-Beets",
+    "values": {
+      "commonRange": "25 - 161",
+      "averagePrice": 114,
+      "minimumPrice": 12,
+      "maximumPrice": 161,
+      "averageStackPrice": 2280,
+      "commonStackSize": 20,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "02/13/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/stirk_pork-and-beets.png"
+  }
+]

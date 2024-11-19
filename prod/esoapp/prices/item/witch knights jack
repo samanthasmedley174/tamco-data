@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witch knights jack",
+    "displayName": "Witch-Knight's Jack",
+    "values": {
+      "commonRange": "189 - 12,183",
+      "averagePrice": 5316,
+      "minimumPrice": 174,
+      "maximumPrice": 21085,
+      "averageStackPrice": 5316,
+      "commonStackSize": 1,
+      "salesRecorded": 50
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

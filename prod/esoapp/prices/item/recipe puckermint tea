@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe puckermint tea",
+    "displayName": "Recipe: Puckermint Tea",
+    "values": {
+      "commonRange": "227 - 664",
+      "averagePrice": 865,
+      "minimumPrice": 200,
+      "maximumPrice": 4000,
+      "averageStackPrice": 865,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

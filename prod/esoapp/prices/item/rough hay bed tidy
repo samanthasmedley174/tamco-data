@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough hay bed tidy",
+    "displayName": "Rough Hay Bed, Tidy",
+    "values": {
+      "commonRange": "15 - 533",
+      "averagePrice": 317,
+      "minimumPrice": 15,
+      "maximumPrice": 1115,
+      "averageStackPrice": 317,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/31/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

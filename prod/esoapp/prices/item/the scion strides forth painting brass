@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the scion strides forth painting brass",
+    "displayName": "The Scion Strides Forth Painting, Brass",
+    "values": {
+      "commonRange": "198,436 - 500,000",
+      "averagePrice": 295324,
+      "minimumPrice": 10000,
+      "maximumPrice": 500000,
+      "averageStackPrice": 295324,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

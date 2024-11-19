@@ -1,0 +1,18 @@
+[
+  {
+    "name": "winemaking cork metal",
+    "displayName": "Winemaking Cork, Metal",
+    "values": {
+      "commonRange": "4,000 - 8,006",
+      "averagePrice": 5545,
+      "minimumPrice": 4000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5545,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

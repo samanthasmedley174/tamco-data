@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sithis helm",
+    "displayName": "Sithis' Helm",
+    "values": {
+      "commonRange": "350 - 1,150",
+      "averagePrice": 697,
+      "minimumPrice": 277,
+      "maximumPrice": 1200,
+      "averageStackPrice": 697,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

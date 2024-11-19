@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senche tiger single malt",
+    "displayName": "Senche-Tiger Single Malt",
+    "values": {
+      "commonRange": "38 - 171",
+      "averagePrice": 108,
+      "minimumPrice": 22,
+      "maximumPrice": 171,
+      "averageStackPrice": 10800,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/senche-tiger_single_malt.png"
+  }
+]

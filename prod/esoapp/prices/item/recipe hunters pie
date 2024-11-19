@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe hunters pie",
+    "displayName": "Recipe: Hunter's Pie",
+    "values": {
+      "commonRange": "39 - 209",
+      "averagePrice": 129,
+      "minimumPrice": 14,
+      "maximumPrice": 400,
+      "averageStackPrice": 129,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

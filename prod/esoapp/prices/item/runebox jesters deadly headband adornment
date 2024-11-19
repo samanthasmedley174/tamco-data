@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox jesters deadly headband adornment",
+    "displayName": "Runebox: Jester's Deadly Headband Adornment",
+    "values": {
+      "commonRange": "52,380 - 150,000",
+      "averagePrice": 88751,
+      "minimumPrice": 45000,
+      "maximumPrice": 200000,
+      "averageStackPrice": 88751,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Runeboxes",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

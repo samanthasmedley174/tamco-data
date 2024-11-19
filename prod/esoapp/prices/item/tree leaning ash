@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree leaning ash",
+    "displayName": "Tree, Leaning Ash",
+    "values": {
+      "commonRange": "975 - 1,000",
+      "averagePrice": 997,
+      "minimumPrice": 975,
+      "maximumPrice": 1027,
+      "averageStackPrice": 997,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "08/03/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

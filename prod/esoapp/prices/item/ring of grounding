@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of grounding",
+    "displayName": "Ring of Grounding",
+    "values": {
+      "commonRange": "465 - 465",
+      "averagePrice": 465,
+      "minimumPrice": 465,
+      "maximumPrice": 465,
+      "averageStackPrice": 465,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

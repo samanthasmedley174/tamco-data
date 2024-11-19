@@ -1,0 +1,18 @@
+[
+  {
+    "name": "venomous lightning staff",
+    "displayName": "Venomous Lightning Staff",
+    "values": {
+      "commonRange": "1,999 - 50,415",
+      "averagePrice": 40034,
+      "minimumPrice": 250,
+      "maximumPrice": 299995,
+      "averageStackPrice": 40034,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

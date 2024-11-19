@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude serving pot vegetable soup",
+    "displayName": "Solitude Serving Pot, Vegetable Soup",
+    "values": {
+      "commonRange": "7,300 - 14,000",
+      "averagePrice": 9957,
+      "minimumPrice": 5000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9957,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

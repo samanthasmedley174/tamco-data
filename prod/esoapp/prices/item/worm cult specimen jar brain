@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult specimen jar brain",
+    "displayName": "Worm Cult Specimen Jar, Brain",
+    "values": {
+      "commonRange": "8,866 - 11,066",
+      "averagePrice": 9448,
+      "minimumPrice": 3066,
+      "maximumPrice": 12000,
+      "averageStackPrice": 9448,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

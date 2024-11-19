@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ravaging ice staff",
+    "displayName": "Ravaging Ice Staff",
+    "values": {
+      "commonRange": "17,000 - 20,000",
+      "averagePrice": 17638,
+      "minimumPrice": 8000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 17638,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

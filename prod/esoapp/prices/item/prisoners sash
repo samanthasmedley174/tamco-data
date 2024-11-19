@@ -1,0 +1,18 @@
+[
+  {
+    "name": "prisoners sash",
+    "displayName": "Prisoner's Sash",
+    "values": {
+      "commonRange": "200 - 2,500",
+      "averagePrice": 1051,
+      "minimumPrice": 60,
+      "maximumPrice": 3500,
+      "averageStackPrice": 1051,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough hay bed covered",
+    "displayName": "Rough Hay Bed, Covered",
+    "values": {
+      "commonRange": "15 - 1,515",
+      "averagePrice": 673,
+      "minimumPrice": 15,
+      "maximumPrice": 1515,
+      "averageStackPrice": 673,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/16/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

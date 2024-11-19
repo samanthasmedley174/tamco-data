@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born basket rope handled",
+    "displayName": "Tide-Born Basket, Rope-Handled",
+    "values": {
+      "commonRange": "1,560 - 11,060",
+      "averagePrice": 6993,
+      "minimumPrice": 1510,
+      "maximumPrice": 14060,
+      "averageStackPrice": 6993,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

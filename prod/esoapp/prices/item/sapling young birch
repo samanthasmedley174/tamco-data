@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sapling young birch",
+    "displayName": "Sapling, Young Birch",
+    "values": {
+      "commonRange": "160 - 1,260",
+      "averagePrice": 619,
+      "minimumPrice": 160,
+      "maximumPrice": 1260,
+      "averageStackPrice": 619,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/18/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "traitors treads",
+    "displayName": "Traitor's Treads",
+    "values": {
+      "commonRange": "36 - 36",
+      "averagePrice": 36,
+      "minimumPrice": 36,
+      "maximumPrice": 36,
+      "averageStackPrice": 36,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

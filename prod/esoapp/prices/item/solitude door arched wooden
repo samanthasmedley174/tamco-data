@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude door arched wooden",
+    "displayName": "Solitude Door, Arched Wooden",
+    "values": {
+      "commonRange": "2,800 - 6,000",
+      "averagePrice": 3878,
+      "minimumPrice": 550,
+      "maximumPrice": 6000,
+      "averageStackPrice": 3878,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

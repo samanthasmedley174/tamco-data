@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the city of necrom painting wood",
+    "displayName": "The City of Necrom Painting, Wood",
+    "values": {
+      "commonRange": "20,300 - 30,305",
+      "averagePrice": 25576,
+      "minimumPrice": 19000,
+      "maximumPrice": 32000,
+      "averageStackPrice": 25576,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

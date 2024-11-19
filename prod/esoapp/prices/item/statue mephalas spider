@@ -1,0 +1,18 @@
+[
+  {
+    "name": "statue mephalas spider",
+    "displayName": "Statue, Mephala's Spider",
+    "values": {
+      "commonRange": "30,000 - 43,886",
+      "averagePrice": 37766,
+      "minimumPrice": 20000,
+      "maximumPrice": 43886,
+      "averageStackPrice": 37766,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

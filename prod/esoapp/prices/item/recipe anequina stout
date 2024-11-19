@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe anequina stout",
+    "displayName": "Recipe: Anequina Stout",
+    "values": {
+      "commonRange": "1,000 - 29,000",
+      "averagePrice": 8123,
+      "minimumPrice": 430,
+      "maximumPrice": 29000,
+      "averageStackPrice": 8123,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

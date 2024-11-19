@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seal of clan shatul metal",
+    "displayName": "Seal of Clan Shatul, Metal",
+    "values": {
+      "commonRange": "3,990 - 5,000",
+      "averagePrice": 4564,
+      "minimumPrice": 3000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4564,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

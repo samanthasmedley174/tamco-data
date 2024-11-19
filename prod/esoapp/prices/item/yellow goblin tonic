@@ -1,0 +1,18 @@
+[
+  {
+    "name": "yellow goblin tonic",
+    "displayName": "Yellow Goblin Tonic",
+    "values": {
+      "commonRange": "5 - 6",
+      "averagePrice": 6,
+      "minimumPrice": 5,
+      "maximumPrice": 10,
+      "averageStackPrice": 6,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Food & Drinks",
+    "date": "04/27/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/yellow_goblin_tonic.png"
+  }
+]

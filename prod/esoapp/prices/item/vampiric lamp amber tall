@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric lamp amber tall",
+    "displayName": "Vampiric Lamp, Amber Tall",
+    "values": {
+      "commonRange": "2,150 - 8,538",
+      "averagePrice": 4784,
+      "minimumPrice": 1000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4784,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

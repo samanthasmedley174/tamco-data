@@ -1,0 +1,18 @@
+[
+  {
+    "name": "snake in the stars bow",
+    "displayName": "Snake in the Stars Bow",
+    "values": {
+      "commonRange": "3,000 - 5,246",
+      "averagePrice": 4086,
+      "minimumPrice": 400,
+      "maximumPrice": 7500,
+      "averageStackPrice": 4086,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

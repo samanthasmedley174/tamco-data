@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shrub yellow necklacepod",
+    "displayName": "Shrub, Yellow Necklacepod",
+    "values": {
+      "commonRange": "135 - 1,000",
+      "averagePrice": 497,
+      "minimumPrice": 135,
+      "maximumPrice": 1087,
+      "averageStackPrice": 497,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

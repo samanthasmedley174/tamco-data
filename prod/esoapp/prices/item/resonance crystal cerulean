@@ -1,0 +1,18 @@
+[
+  {
+    "name": "resonance crystal cerulean",
+    "displayName": "Resonance Crystal, Cerulean",
+    "values": {
+      "commonRange": "3,860 - 8,000",
+      "averagePrice": 6335,
+      "minimumPrice": 3777,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6335,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

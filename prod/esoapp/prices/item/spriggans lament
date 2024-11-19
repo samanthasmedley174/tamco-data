@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spriggans lament",
+    "displayName": "Spriggan's Lament",
+    "values": {
+      "commonRange": "162 - 2,000",
+      "averagePrice": 1018,
+      "minimumPrice": 141,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1018,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

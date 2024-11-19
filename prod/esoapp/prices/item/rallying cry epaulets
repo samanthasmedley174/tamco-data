@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rallying cry epaulets",
+    "displayName": "Rallying Cry Epaulets",
+    "values": {
+      "commonRange": "1,000 - 10,700",
+      "averagePrice": 7459,
+      "minimumPrice": 153,
+      "maximumPrice": 150000,
+      "averageStackPrice": 7459,
+      "commonStackSize": 1,
+      "salesRecorded": 89
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

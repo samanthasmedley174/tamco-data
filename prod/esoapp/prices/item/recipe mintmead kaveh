@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe mintmead kaveh",
+    "displayName": "Recipe: Mintmead Kaveh",
+    "values": {
+      "commonRange": "1,000 - 3,000",
+      "averagePrice": 1824,
+      "minimumPrice": 971,
+      "maximumPrice": 3800,
+      "averageStackPrice": 1824,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

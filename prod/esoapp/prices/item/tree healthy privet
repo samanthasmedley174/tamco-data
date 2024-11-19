@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree healthy privet",
+    "displayName": "Tree, Healthy Privet",
+    "values": {
+      "commonRange": "200 - 1,027",
+      "averagePrice": 876,
+      "minimumPrice": 127,
+      "maximumPrice": 2500,
+      "averageStackPrice": 876,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/11/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

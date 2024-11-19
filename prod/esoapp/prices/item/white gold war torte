@@ -1,0 +1,18 @@
+[
+  {
+    "name": "white gold war torte",
+    "displayName": "White-Gold War Torte",
+    "values": {
+      "commonRange": "13,000 - 17,000",
+      "averagePrice": 14714,
+      "minimumPrice": 10000,
+      "maximumPrice": 18000,
+      "averageStackPrice": 14714,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Food & Drinks",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/white-gold_war_torte.png"
+  }
+]

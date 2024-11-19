@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page prior thierric mask",
+    "displayName": "Style Page: Prior Thierric Mask",
+    "values": {
+      "commonRange": "125,000 - 150,000",
+      "averagePrice": 139891,
+      "minimumPrice": 110000,
+      "maximumPrice": 160000,
+      "averageStackPrice": 139891,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

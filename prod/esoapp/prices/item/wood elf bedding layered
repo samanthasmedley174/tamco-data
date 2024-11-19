@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf bedding layered",
+    "displayName": "Wood Elf Bedding, Layered",
+    "values": {
+      "commonRange": "330 - 11,800",
+      "averagePrice": 5577,
+      "minimumPrice": 150,
+      "maximumPrice": 11800,
+      "averageStackPrice": 5577,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

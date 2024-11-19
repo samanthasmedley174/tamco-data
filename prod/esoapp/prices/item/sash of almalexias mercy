@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of almalexias mercy",
+    "displayName": "Sash of Almalexia's Mercy",
+    "values": {
+      "commonRange": "900 - 9,090",
+      "averagePrice": 5836,
+      "minimumPrice": 500,
+      "maximumPrice": 20090,
+      "averageStackPrice": 5836,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

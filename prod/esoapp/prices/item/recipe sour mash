@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe sour mash",
+    "displayName": "Recipe: Sour Mash",
+    "values": {
+      "commonRange": "107 - 400",
+      "averagePrice": 202,
+      "minimumPrice": 27,
+      "maximumPrice": 400,
+      "averageStackPrice": 202,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

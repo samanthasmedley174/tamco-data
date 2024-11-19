@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page skaal explorer sash",
+    "displayName": "Style Page: Skaal Explorer Sash",
+    "values": {
+      "commonRange": "54 - 500",
+      "averagePrice": 227,
+      "minimumPrice": 25,
+      "maximumPrice": 1000,
+      "averageStackPrice": 227,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

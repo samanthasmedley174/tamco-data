@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of mothers embrace",
+    "displayName": "Shield of Mother's Embrace",
+    "values": {
+      "commonRange": "220 - 5,500",
+      "averagePrice": 1755,
+      "minimumPrice": 120,
+      "maximumPrice": 7153,
+      "averageStackPrice": 1755,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

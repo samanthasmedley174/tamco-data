@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page crowborne hunter gloves",
+    "displayName": "Style Page: Crowborne Hunter Gloves",
+    "values": {
+      "commonRange": "300 - 4,550",
+      "averagePrice": 1973,
+      "minimumPrice": 250,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1973,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

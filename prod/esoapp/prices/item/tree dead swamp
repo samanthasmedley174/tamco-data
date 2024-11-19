@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree dead swamp",
+    "displayName": "Tree, Dead Swamp",
+    "values": {
+      "commonRange": "1,000 - 5,150",
+      "averagePrice": 3216,
+      "minimumPrice": 1000,
+      "maximumPrice": 5150,
+      "averageStackPrice": 3216,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/31/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

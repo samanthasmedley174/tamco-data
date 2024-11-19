@@ -1,0 +1,18 @@
+[
+  {
+    "name": "skeleton daedric titan",
+    "displayName": "Skeleton, Daedric Titan",
+    "values": {
+      "commonRange": "220,000 - 330,000",
+      "averagePrice": 261684,
+      "minimumPrice": 100000,
+      "maximumPrice": 330000,
+      "averageStackPrice": 261684,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

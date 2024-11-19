@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of soulshine",
+    "displayName": "Sword of Soulshine",
+    "values": {
+      "commonRange": "450 - 1,421",
+      "averagePrice": 1054,
+      "minimumPrice": 190,
+      "maximumPrice": 1995,
+      "averageStackPrice": 1054,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

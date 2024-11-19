@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude cabinet narrow noble",
+    "displayName": "Solitude Cabinet, Narrow Noble",
+    "values": {
+      "commonRange": "2,000 - 5,600",
+      "averagePrice": 4014,
+      "minimumPrice": 1100,
+      "maximumPrice": 5600,
+      "averageStackPrice": 4014,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/09/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

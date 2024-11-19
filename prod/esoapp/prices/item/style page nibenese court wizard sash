@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page nibenese court wizard sash",
+    "displayName": "Style Page: Nibenese Court Wizard Sash",
+    "values": {
+      "commonRange": "2,000 - 6,500",
+      "averagePrice": 5504,
+      "minimumPrice": 250,
+      "maximumPrice": 17000,
+      "averageStackPrice": 5504,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

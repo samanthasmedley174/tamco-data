@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stormhold baked bananas",
+    "displayName": "Stormhold Baked Bananas",
+    "values": {
+      "commonRange": "4 - 4",
+      "averagePrice": 4,
+      "minimumPrice": 4,
+      "maximumPrice": 4,
+      "averageStackPrice": 400,
+      "commonStackSize": 100,
+      "salesRecorded": 2
+    },
+    "type": "Food & Drinks",
+    "date": "12/01/2020",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/stormhold_baked_bananas.png"
+  }
+]

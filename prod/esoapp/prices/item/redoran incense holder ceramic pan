@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran incense holder ceramic pan",
+    "displayName": "Redoran Incense Holder, Ceramic Pan",
+    "values": {
+      "commonRange": "1,820 - 5,000",
+      "averagePrice": 2776,
+      "minimumPrice": 1820,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2776,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/13/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

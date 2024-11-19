@@ -1,0 +1,18 @@
+[
+  {
+    "name": "soldier of anguish shield",
+    "displayName": "Soldier of Anguish Shield",
+    "values": {
+      "commonRange": "995 - 1,150",
+      "averagePrice": 1138,
+      "minimumPrice": 544,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1138,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

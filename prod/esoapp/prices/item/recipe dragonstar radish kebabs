@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe dragonstar radish kebabs",
+    "displayName": "Recipe: Dragonstar Radish Kebabs",
+    "values": {
+      "commonRange": "300 - 1,900",
+      "averagePrice": 1323,
+      "minimumPrice": 40,
+      "maximumPrice": 2227,
+      "averageStackPrice": 1323,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

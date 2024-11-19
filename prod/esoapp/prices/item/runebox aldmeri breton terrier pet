@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox aldmeri breton terrier pet",
+    "displayName": "Runebox: Aldmeri Breton Terrier Pet",
+    "values": {
+      "commonRange": "220 - 1,501",
+      "averagePrice": 1202,
+      "minimumPrice": 200,
+      "maximumPrice": 9500,
+      "averageStackPrice": 1202,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Runeboxes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

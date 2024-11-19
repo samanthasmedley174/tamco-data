@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf basin stone",
+    "displayName": "Wood Elf Basin, Stone",
+    "values": {
+      "commonRange": "60 - 210",
+      "averagePrice": 123,
+      "minimumPrice": 60,
+      "maximumPrice": 210,
+      "averageStackPrice": 123,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

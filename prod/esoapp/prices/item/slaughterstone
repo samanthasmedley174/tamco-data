@@ -1,0 +1,18 @@
+[
+  {
+    "name": "slaughterstone",
+    "displayName": "Slaughterstone",
+    "values": {
+      "commonRange": "1,875 - 4,300",
+      "averagePrice": 2761,
+      "minimumPrice": 6,
+      "maximumPrice": 6162,
+      "averageStackPrice": 2761,
+      "commonStackSize": 1,
+      "salesRecorded": 160
+    },
+    "type": "Trait Stones",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Slaughterstone.png"
+  }
+]

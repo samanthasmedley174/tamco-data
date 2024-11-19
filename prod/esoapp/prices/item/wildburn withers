@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wildburn withers",
+    "displayName": "Wildburn Withers",
+    "values": {
+      "commonRange": "465 - 999",
+      "averagePrice": 639,
+      "minimumPrice": 3,
+      "maximumPrice": 999,
+      "averageStackPrice": 639,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Materials",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Wildburn_Withers.png"
+  }
+]

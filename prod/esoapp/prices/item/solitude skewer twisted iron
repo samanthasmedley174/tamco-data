@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude skewer twisted iron",
+    "displayName": "Solitude Skewer, Twisted Iron",
+    "values": {
+      "commonRange": "2,150 - 5,880",
+      "averagePrice": 3967,
+      "minimumPrice": 1150,
+      "maximumPrice": 8000,
+      "averageStackPrice": 3967,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

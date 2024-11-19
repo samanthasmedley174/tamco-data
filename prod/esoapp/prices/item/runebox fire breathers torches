@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox fire breathers torches",
+    "displayName": "Runebox: Fire-Breather's Torches",
+    "values": {
+      "commonRange": "3,000 - 7,000",
+      "averagePrice": 4951,
+      "minimumPrice": 2000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4951,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Runeboxes",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

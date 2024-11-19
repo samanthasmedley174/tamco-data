@@ -1,0 +1,18 @@
+[
+  {
+    "name": "warrior poets cuirass",
+    "displayName": "Warrior-Poet's Cuirass",
+    "values": {
+      "commonRange": "174 - 11,000",
+      "averagePrice": 3917,
+      "minimumPrice": 50,
+      "maximumPrice": 33488,
+      "averageStackPrice": 3917,
+      "commonStackSize": 1,
+      "salesRecorded": 90
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "strap of mist evasion",
+    "displayName": "Strap of Mist Evasion",
+    "values": {
+      "commonRange": "1,000 - 1,000",
+      "averagePrice": 1495,
+      "minimumPrice": 484,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1495,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

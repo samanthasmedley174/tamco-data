@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tharrikers sword",
+    "displayName": "Tharriker's Sword",
+    "values": {
+      "commonRange": "79,156 - 110,000",
+      "averagePrice": 94578,
+      "minimumPrice": 79156,
+      "maximumPrice": 110000,
+      "averageStackPrice": 94578,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

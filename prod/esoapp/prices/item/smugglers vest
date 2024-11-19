@@ -1,0 +1,18 @@
+[
+  {
+    "name": "smugglers vest",
+    "displayName": "Smuggler's Vest",
+    "values": {
+      "commonRange": "999 - 1,171",
+      "averagePrice": 978,
+      "minimumPrice": 571,
+      "maximumPrice": 1171,
+      "averageStackPrice": 978,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

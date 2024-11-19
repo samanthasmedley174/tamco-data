@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shrine of mara decorative",
+    "displayName": "Shrine of Mara, Decorative",
+    "values": {
+      "commonRange": "50,000 - 100,000",
+      "averagePrice": 70950,
+      "minimumPrice": 30000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 70950,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senches lightning staff",
+    "displayName": "Senche's Lightning Staff",
+    "values": {
+      "commonRange": "440 - 5,000",
+      "averagePrice": 1913,
+      "minimumPrice": 334,
+      "maximumPrice": 6234,
+      "averageStackPrice": 1913,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree towering cypress",
+    "displayName": "Tree, Towering Cypress",
+    "values": {
+      "commonRange": "2,000 - 2,000",
+      "averagePrice": 2000,
+      "minimumPrice": 2000,
+      "maximumPrice": 2000,
+      "averageStackPrice": 12000,
+      "commonStackSize": 6,
+      "salesRecorded": 1
+    },
+    "type": "Furnishings",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "werewolf hide ice staff",
+    "displayName": "Werewolf Hide Ice Staff",
+    "values": {
+      "commonRange": "3,000 - 7,400",
+      "averagePrice": 4881,
+      "minimumPrice": 440,
+      "maximumPrice": 7400,
+      "averageStackPrice": 4881,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

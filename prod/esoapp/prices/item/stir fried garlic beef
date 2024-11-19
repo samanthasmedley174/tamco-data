@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stir fried garlic beef",
+    "displayName": "Stir-Fried Garlic Beef",
+    "values": {
+      "commonRange": "5 - 19",
+      "averagePrice": 8,
+      "minimumPrice": 4,
+      "maximumPrice": 19,
+      "averageStackPrice": 800,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/stir-fried_garlic_beef.png"
+  }
+]

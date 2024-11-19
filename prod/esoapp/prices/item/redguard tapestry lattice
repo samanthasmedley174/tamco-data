@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard tapestry lattice",
+    "displayName": "Redguard Tapestry, Lattice",
+    "values": {
+      "commonRange": "350 - 3,000",
+      "averagePrice": 1420,
+      "minimumPrice": 150,
+      "maximumPrice": 3950,
+      "averageStackPrice": 1420,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

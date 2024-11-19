@@ -1,0 +1,18 @@
+[
+  {
+    "name": "venomous shield",
+    "displayName": "Venomous Shield",
+    "values": {
+      "commonRange": "150 - 4,953",
+      "averagePrice": 1743,
+      "minimumPrice": 150,
+      "maximumPrice": 9000,
+      "averageStackPrice": 1743,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

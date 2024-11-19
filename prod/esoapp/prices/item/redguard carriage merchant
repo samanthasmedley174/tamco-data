@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard carriage merchant",
+    "displayName": "Redguard Carriage, Merchant",
+    "values": {
+      "commonRange": "1,500 - 7,000",
+      "averagePrice": 3924,
+      "minimumPrice": 1100,
+      "maximumPrice": 7990,
+      "averageStackPrice": 3924,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

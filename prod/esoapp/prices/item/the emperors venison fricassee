@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the emperors venison fricassee",
+    "displayName": "The Emperor's Venison Fricassee",
+    "values": {
+      "commonRange": "15 - 48",
+      "averagePrice": 26,
+      "minimumPrice": 15,
+      "maximumPrice": 55,
+      "averageStackPrice": 2600,
+      "commonStackSize": 100,
+      "salesRecorded": 12
+    },
+    "type": "Food & Drinks",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/the_emperor's_venison_fricassee.png"
+  }
+]

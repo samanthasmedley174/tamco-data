@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page prophets breeches",
+    "displayName": "Style Page: Prophet's Breeches",
+    "values": {
+      "commonRange": "6,400 - 9,431",
+      "averagePrice": 8829,
+      "minimumPrice": 5000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 8829,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

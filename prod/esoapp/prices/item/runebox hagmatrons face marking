@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox hagmatrons face marking",
+    "displayName": "Runebox: Hagmatron's Face Marking",
+    "values": {
+      "commonRange": "99 - 1,000",
+      "averagePrice": 493,
+      "minimumPrice": 99,
+      "maximumPrice": 2000,
+      "averageStackPrice": 493,
+      "commonStackSize": 1,
+      "salesRecorded": 45
+    },
+    "type": "Runeboxes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

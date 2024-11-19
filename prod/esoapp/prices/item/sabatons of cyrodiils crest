@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of cyrodiils crest",
+    "displayName": "Sabatons of Cyrodiil's Crest",
+    "values": {
+      "commonRange": "1,090 - 7,000",
+      "averagePrice": 4231,
+      "minimumPrice": 300,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4231,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

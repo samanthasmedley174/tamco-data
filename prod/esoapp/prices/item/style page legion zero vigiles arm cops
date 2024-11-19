@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page legion zero vigiles arm cops",
+    "displayName": "Style Page: Legion Zero Vigiles Arm Cops",
+    "values": {
+      "commonRange": "70,000 - 299,000",
+      "averagePrice": 137386,
+      "minimumPrice": 1000,
+      "maximumPrice": 299000,
+      "averageStackPrice": 137386,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

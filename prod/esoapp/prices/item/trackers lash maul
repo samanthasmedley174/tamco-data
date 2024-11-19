@@ -1,0 +1,18 @@
+[
+  {
+    "name": "trackers lash maul",
+    "displayName": "Tracker's Lash Maul",
+    "values": {
+      "commonRange": "246 - 3,000",
+      "averagePrice": 1469,
+      "minimumPrice": 100,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1469,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

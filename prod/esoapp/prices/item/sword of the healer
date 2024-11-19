@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of the healer",
+    "displayName": "Sword of the Healer",
+    "values": {
+      "commonRange": "40,000 - 50,000",
+      "averagePrice": 55025,
+      "minimumPrice": 40000,
+      "maximumPrice": 110150,
+      "averageStackPrice": 55025,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

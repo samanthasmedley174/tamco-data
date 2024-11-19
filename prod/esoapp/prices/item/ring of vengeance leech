@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of vengeance leech",
+    "displayName": "Ring of Vengeance Leech",
+    "values": {
+      "commonRange": "947 - 15,905",
+      "averagePrice": 9280,
+      "minimumPrice": 900,
+      "maximumPrice": 17547,
+      "averageStackPrice": 9280,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

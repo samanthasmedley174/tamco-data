@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sparkwreath dazzler",
+    "displayName": "Sparkwreath Dazzler",
+    "values": {
+      "commonRange": "1 - 12",
+      "averagePrice": 14,
+      "minimumPrice": 1,
+      "maximumPrice": 100,
+      "averageStackPrice": 154,
+      "commonStackSize": 11,
+      "salesRecorded": 11
+    },
+    "type": "Miscellaneous",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Miscellaneous/Sparkwreath_Dazzler.png"
+  }
+]

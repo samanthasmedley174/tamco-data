@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wrothgar treasure map ii",
+    "displayName": "Wrothgar Treasure Map II",
+    "values": {
+      "commonRange": "100 - 260",
+      "averagePrice": 185,
+      "minimumPrice": 100,
+      "maximumPrice": 500,
+      "averageStackPrice": 185,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Treasure Maps",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

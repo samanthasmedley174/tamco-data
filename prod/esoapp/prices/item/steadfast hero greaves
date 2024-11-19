@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfast hero greaves",
+    "displayName": "Steadfast Hero Greaves",
+    "values": {
+      "commonRange": "1,000 - 6,000",
+      "averagePrice": 3511,
+      "minimumPrice": 550,
+      "maximumPrice": 7000,
+      "averageStackPrice": 3511,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

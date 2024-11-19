@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe yerba zinger tonic",
+    "displayName": "Recipe: Yerba Zinger Tonic",
+    "values": {
+      "commonRange": "150 - 700",
+      "averagePrice": 452,
+      "minimumPrice": 27,
+      "maximumPrice": 755,
+      "averageStackPrice": 452,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

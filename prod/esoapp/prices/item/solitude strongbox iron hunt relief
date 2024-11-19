@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude strongbox iron hunt relief",
+    "displayName": "Solitude Strongbox, Iron Hunt Relief",
+    "values": {
+      "commonRange": "7,620 - 10,095",
+      "averagePrice": 9882,
+      "minimumPrice": 5500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9882,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

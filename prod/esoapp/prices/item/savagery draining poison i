@@ -1,0 +1,18 @@
+[
+  {
+    "name": "savagery draining poison i",
+    "displayName": "Savagery-Draining Poison I",
+    "values": {
+      "commonRange": "12 - 38",
+      "averagePrice": 27,
+      "minimumPrice": 3,
+      "maximumPrice": 42,
+      "averageStackPrice": 27000,
+      "commonStackSize": 1000,
+      "salesRecorded": 10
+    },
+    "type": "Potions & Poisons",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

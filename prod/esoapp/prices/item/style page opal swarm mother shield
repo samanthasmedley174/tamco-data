@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal swarm mother shield",
+    "displayName": "Style Page: Opal Swarm Mother Shield",
+    "values": {
+      "commonRange": "2,810 - 10,100",
+      "averagePrice": 5082,
+      "minimumPrice": 2000,
+      "maximumPrice": 12500,
+      "averageStackPrice": 5082,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Style Pages",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

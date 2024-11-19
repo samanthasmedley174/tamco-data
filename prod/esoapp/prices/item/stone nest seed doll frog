@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stone nest seed doll frog",
+    "displayName": "Stone-Nest Seed Doll, Frog",
+    "values": {
+      "commonRange": "6,000 - 32,900",
+      "averagePrice": 13520,
+      "minimumPrice": 5300,
+      "maximumPrice": 32969,
+      "averageStackPrice": 13520,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

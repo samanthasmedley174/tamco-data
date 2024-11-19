@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ta",
+    "displayName": "Ta",
+    "values": {
+      "commonRange": "3 - 33",
+      "averagePrice": 25,
+      "minimumPrice": 1,
+      "maximumPrice": 48,
+      "averageStackPrice": 5000,
+      "commonStackSize": 200,
+      "salesRecorded": 89
+    },
+    "type": "Enchanting Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Ta.png"
+  }
+]

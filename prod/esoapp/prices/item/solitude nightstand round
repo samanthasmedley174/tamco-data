@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude nightstand round",
+    "displayName": "Solitude Nightstand, Round",
+    "values": {
+      "commonRange": "1,250 - 4,500",
+      "averagePrice": 3436,
+      "minimumPrice": 1250,
+      "maximumPrice": 4500,
+      "averageStackPrice": 3436,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/11/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

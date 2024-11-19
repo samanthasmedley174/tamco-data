@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard table oasis",
+    "displayName": "Redguard Table, Oasis",
+    "values": {
+      "commonRange": "2,550 - 7,150",
+      "averagePrice": 4383,
+      "minimumPrice": 1000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 4383,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

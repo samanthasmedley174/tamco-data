@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe mistral banana bread",
+    "displayName": "Recipe: Mistral Banana Bread",
+    "values": {
+      "commonRange": "29 - 4,000",
+      "averagePrice": 2058,
+      "minimumPrice": 27,
+      "maximumPrice": 6000,
+      "averageStackPrice": 2058,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

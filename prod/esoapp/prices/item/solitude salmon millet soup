@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude salmon millet soup",
+    "displayName": "Solitude Salmon-Millet Soup",
+    "values": {
+      "commonRange": "25 - 100",
+      "averagePrice": 70,
+      "minimumPrice": 15,
+      "maximumPrice": 200,
+      "averageStackPrice": 7000,
+      "commonStackSize": 100,
+      "salesRecorded": 20
+    },
+    "type": "Food & Drinks",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/solitude_salmon-millet_soup.png"
+  }
+]

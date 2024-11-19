@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree forked sturdy",
+    "displayName": "Tree, Forked Sturdy",
+    "values": {
+      "commonRange": "127 - 3,300",
+      "averagePrice": 1299,
+      "minimumPrice": 100,
+      "maximumPrice": 3850,
+      "averageStackPrice": 1299,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

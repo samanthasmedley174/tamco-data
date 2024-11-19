@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch mirrormoor glass harp",
+    "displayName": "Sketch: Mirrormoor Glass Harp",
+    "values": {
+      "commonRange": "200,000 - 300,000",
+      "averagePrice": 247400,
+      "minimumPrice": 35000,
+      "maximumPrice": 327078,
+      "averageStackPrice": 247400,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

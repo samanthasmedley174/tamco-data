@@ -1,0 +1,18 @@
+[
+  {
+    "name": "werewolf hide helmet",
+    "displayName": "Werewolf Hide Helmet",
+    "values": {
+      "commonRange": "374 - 2,144",
+      "averagePrice": 1163,
+      "minimumPrice": 150,
+      "maximumPrice": 8044,
+      "averageStackPrice": 1163,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

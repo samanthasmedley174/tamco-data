@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe sweet persistence",
+    "displayName": "Recipe: Sweet Persistence",
+    "values": {
+      "commonRange": "500 - 1,027",
+      "averagePrice": 887,
+      "minimumPrice": 30,
+      "maximumPrice": 1078,
+      "averageStackPrice": 887,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

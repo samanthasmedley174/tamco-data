@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spicy beet salad",
+    "displayName": "Spicy Beet Salad",
+    "values": {
+      "commonRange": "4 - 16",
+      "averagePrice": 8,
+      "minimumPrice": 4,
+      "maximumPrice": 16,
+      "averageStackPrice": 800,
+      "commonStackSize": 100,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "06/07/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/spicy_beet_salad.png"
+  }
+]

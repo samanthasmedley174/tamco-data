@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stone nest bed stone",
+    "displayName": "Stone-Nest Bed, Stone",
+    "values": {
+      "commonRange": "2,650 - 2,650",
+      "averagePrice": 4517,
+      "minimumPrice": 2650,
+      "maximumPrice": 8250,
+      "averageStackPrice": 9034,
+      "commonStackSize": 2,
+      "salesRecorded": 3
+    },
+    "type": "Furnishings",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

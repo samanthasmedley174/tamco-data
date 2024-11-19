@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of ashen grip",
+    "displayName": "Sabatons of Ashen Grip",
+    "values": {
+      "commonRange": "1,000 - 1,069",
+      "averagePrice": 20291,
+      "minimumPrice": 1000,
+      "maximumPrice": 78093,
+      "averageStackPrice": 20291,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

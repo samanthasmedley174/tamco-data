@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vinedusk pauldrons",
+    "displayName": "Vinedusk Pauldrons",
+    "values": {
+      "commonRange": "350 - 941",
+      "averagePrice": 609,
+      "minimumPrice": 340,
+      "maximumPrice": 1000,
+      "averageStackPrice": 609,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

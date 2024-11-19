@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vivecs ice staff of duality",
+    "displayName": "Vivec's Ice Staff of Duality",
+    "values": {
+      "commonRange": "200 - 670",
+      "averagePrice": 670,
+      "minimumPrice": 190,
+      "maximumPrice": 1646,
+      "averageStackPrice": 670,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

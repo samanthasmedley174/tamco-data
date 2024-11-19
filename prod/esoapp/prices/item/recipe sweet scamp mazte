@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe sweet scamp mazte",
+    "displayName": "Recipe: Sweet Scamp Mazte",
+    "values": {
+      "commonRange": "437 - 2,227",
+      "averagePrice": 1267,
+      "minimumPrice": 270,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1267,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

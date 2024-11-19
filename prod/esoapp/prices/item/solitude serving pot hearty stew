@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude serving pot hearty stew",
+    "displayName": "Solitude Serving Pot, Hearty Stew",
+    "values": {
+      "commonRange": "1,900 - 12,500",
+      "averagePrice": 7040,
+      "minimumPrice": 1900,
+      "maximumPrice": 12500,
+      "averageStackPrice": 7040,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

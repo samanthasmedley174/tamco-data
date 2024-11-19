@@ -1,0 +1,18 @@
+[
+  {
+    "name": "viranes boots of cyrodiils crest",
+    "displayName": "Virane's Boots of Cyrodiil's Crest",
+    "values": {
+      "commonRange": "490 - 2,090",
+      "averagePrice": 1290,
+      "minimumPrice": 490,
+      "maximumPrice": 2090,
+      "averageStackPrice": 1290,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "02/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

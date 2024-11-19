@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult buffet",
+    "displayName": "Worm Cult Buffet",
+    "values": {
+      "commonRange": "8,000 - 8,000",
+      "averagePrice": 8000,
+      "minimumPrice": 7000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 8000,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

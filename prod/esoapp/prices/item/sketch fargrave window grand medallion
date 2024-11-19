@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch fargrave window grand medallion",
+    "displayName": "Sketch: Fargrave Window, Grand Medallion",
+    "values": {
+      "commonRange": "45,000 - 96,662",
+      "averagePrice": 71052,
+      "minimumPrice": 45000,
+      "maximumPrice": 115000,
+      "averageStackPrice": 71052,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

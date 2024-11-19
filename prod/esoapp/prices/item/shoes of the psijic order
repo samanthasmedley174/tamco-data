@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of the psijic order",
+    "displayName": "Shoes of the Psijic Order",
+    "values": {
+      "commonRange": "384 - 384",
+      "averagePrice": 482,
+      "minimumPrice": 84,
+      "maximumPrice": 977,
+      "averageStackPrice": 482,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

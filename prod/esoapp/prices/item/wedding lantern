@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wedding lantern",
+    "displayName": "Wedding Lantern",
+    "values": {
+      "commonRange": "5,000 - 7,000",
+      "averagePrice": 5635,
+      "minimumPrice": 5000,
+      "maximumPrice": 7162,
+      "averageStackPrice": 22540,
+      "commonStackSize": 4,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

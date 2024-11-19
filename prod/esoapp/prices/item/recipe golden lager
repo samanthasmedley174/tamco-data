@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe golden lager",
+    "displayName": "Recipe: Golden Lager",
+    "values": {
+      "commonRange": "27 - 375",
+      "averagePrice": 178,
+      "minimumPrice": 27,
+      "maximumPrice": 1027,
+      "averageStackPrice": 178,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

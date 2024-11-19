@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree tiered light cherry",
+    "displayName": "Tree, Tiered Light Cherry",
+    "values": {
+      "commonRange": "3,000 - 6,030",
+      "averagePrice": 4944,
+      "minimumPrice": 2500,
+      "maximumPrice": 6371,
+      "averageStackPrice": 9888,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

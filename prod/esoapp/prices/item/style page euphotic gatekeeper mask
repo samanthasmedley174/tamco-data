@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page euphotic gatekeeper mask",
+    "displayName": "Style Page: Euphotic Gatekeeper Mask",
+    "values": {
+      "commonRange": "350,000 - 500,000",
+      "averagePrice": 400993,
+      "minimumPrice": 157630,
+      "maximumPrice": 500000,
+      "averageStackPrice": 400993,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

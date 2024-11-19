@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis sunport floor dual sided",
+    "displayName": "Praxis: Sunport Floor, Dual-Sided",
+    "values": {
+      "commonRange": "30,000 - 62,171",
+      "averagePrice": 45691,
+      "minimumPrice": 30000,
+      "maximumPrice": 66000,
+      "averageStackPrice": 45691,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishing Plans",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

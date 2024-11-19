@@ -1,0 +1,18 @@
+[
+  {
+    "name": "war maidens breeches",
+    "displayName": "War Maiden's Breeches",
+    "values": {
+      "commonRange": "300 - 50,000",
+      "averagePrice": 11278,
+      "minimumPrice": 174,
+      "maximumPrice": 120000,
+      "averageStackPrice": 11278,
+      "commonStackSize": 1,
+      "salesRecorded": 114
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

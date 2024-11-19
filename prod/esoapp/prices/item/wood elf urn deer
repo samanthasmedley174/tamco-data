@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf urn deer",
+    "displayName": "Wood Elf Urn, Deer",
+    "values": {
+      "commonRange": "300 - 1,000",
+      "averagePrice": 798,
+      "minimumPrice": 60,
+      "maximumPrice": 2060,
+      "averageStackPrice": 798,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born tapestry sap",
+    "displayName": "Tide-Born Tapestry, Sap",
+    "values": {
+      "commonRange": "10,415 - 22,500",
+      "averagePrice": 16960,
+      "minimumPrice": 9800,
+      "maximumPrice": 22500,
+      "averageStackPrice": 16960,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

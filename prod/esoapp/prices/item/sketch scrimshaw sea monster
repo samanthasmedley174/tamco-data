@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch scrimshaw sea monster",
+    "displayName": "Sketch: Scrimshaw, Sea Monster",
+    "values": {
+      "commonRange": "3,357 - 6,500",
+      "averagePrice": 5350,
+      "minimumPrice": 3000,
+      "maximumPrice": 7530,
+      "averageStackPrice": 5350,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

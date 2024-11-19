@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page earthbone ayleid breeches",
+    "displayName": "Style Page: Earthbone Ayleid Breeches",
+    "values": {
+      "commonRange": "200 - 4,000",
+      "averagePrice": 1292,
+      "minimumPrice": 100,
+      "maximumPrice": 8000,
+      "averageStackPrice": 1292,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

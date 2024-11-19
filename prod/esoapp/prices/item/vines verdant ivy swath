@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vines verdant ivy swath",
+    "displayName": "Vines, Verdant Ivy Swath",
+    "values": {
+      "commonRange": "2,070 - 2,200",
+      "averagePrice": 2167,
+      "minimumPrice": 2000,
+      "maximumPrice": 2500,
+      "averageStackPrice": 21670,
+      "commonStackSize": 10,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword saints blade",
+    "displayName": "Sword Saint's Blade",
+    "values": {
+      "commonRange": "2,000 - 2,246",
+      "averagePrice": 2123,
+      "minimumPrice": 1000,
+      "maximumPrice": 3246,
+      "averageStackPrice": 2123,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

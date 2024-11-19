@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran generals gauntlets",
+    "displayName": "Redoran General's Gauntlets",
+    "values": {
+      "commonRange": "784 - 784",
+      "averagePrice": 784,
+      "minimumPrice": 784,
+      "maximumPrice": 784,
+      "averageStackPrice": 784,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page abnur tharns epaulets",
+    "displayName": "Style Page: Abnur Tharn's Epaulets",
+    "values": {
+      "commonRange": "2,000 - 21,000",
+      "averagePrice": 13008,
+      "minimumPrice": 300,
+      "maximumPrice": 27500,
+      "averageStackPrice": 13008,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

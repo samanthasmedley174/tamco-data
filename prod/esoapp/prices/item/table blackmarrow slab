@@ -1,0 +1,18 @@
+[
+  {
+    "name": "table blackmarrow slab",
+    "displayName": "Table, Blackmarrow Slab",
+    "values": {
+      "commonRange": "5,300 - 17,000",
+      "averagePrice": 10958,
+      "minimumPrice": 3300,
+      "maximumPrice": 17869,
+      "averageStackPrice": 10958,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

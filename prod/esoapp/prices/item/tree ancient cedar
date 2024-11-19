@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree ancient cedar",
+    "displayName": "Tree, Ancient Cedar",
+    "values": {
+      "commonRange": "500 - 6,950",
+      "averagePrice": 5705,
+      "minimumPrice": 500,
+      "maximumPrice": 25000,
+      "averageStackPrice": 5705,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/28/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

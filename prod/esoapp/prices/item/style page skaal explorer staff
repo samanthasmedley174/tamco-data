@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page skaal explorer staff",
+    "displayName": "Style Page: Skaal Explorer Staff",
+    "values": {
+      "commonRange": "100 - 500",
+      "averagePrice": 220,
+      "minimumPrice": 50,
+      "maximumPrice": 500,
+      "averageStackPrice": 220,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

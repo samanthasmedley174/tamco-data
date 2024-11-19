@@ -1,0 +1,18 @@
+[
+  {
+    "name": "traumatic poison i",
+    "displayName": "Traumatic Poison I",
+    "values": {
+      "commonRange": "15 - 15",
+      "averagePrice": 15,
+      "minimumPrice": 15,
+      "maximumPrice": 15,
+      "averageStackPrice": 240,
+      "commonStackSize": 16,
+      "salesRecorded": 1
+    },
+    "type": "Potions & Poisons",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

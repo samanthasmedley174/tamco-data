@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni efficiency restoration staff",
+    "displayName": "Telvanni Efficiency Restoration Staff",
+    "values": {
+      "commonRange": "432 - 432",
+      "averagePrice": 432,
+      "minimumPrice": 432,
+      "maximumPrice": 432,
+      "averageStackPrice": 432,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

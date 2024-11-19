@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree treehenge green lady",
+    "displayName": "Tree, Treehenge Green Lady",
+    "values": {
+      "commonRange": "70,000 - 100,000",
+      "averagePrice": 81964,
+      "minimumPrice": 70000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 81964,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

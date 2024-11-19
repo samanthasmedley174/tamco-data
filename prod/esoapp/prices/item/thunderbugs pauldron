@@ -1,0 +1,18 @@
+[
+  {
+    "name": "thunderbugs pauldron",
+    "displayName": "Thunderbug's Pauldron",
+    "values": {
+      "commonRange": "200 - 1,153",
+      "averagePrice": 759,
+      "minimumPrice": 180,
+      "maximumPrice": 5434,
+      "averageStackPrice": 759,
+      "commonStackSize": 1,
+      "salesRecorded": 50
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

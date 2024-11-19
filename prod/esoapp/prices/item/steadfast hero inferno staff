@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfast hero inferno staff",
+    "displayName": "Steadfast Hero Inferno Staff",
+    "values": {
+      "commonRange": "4,999 - 10,000",
+      "averagePrice": 7152,
+      "minimumPrice": 2240,
+      "maximumPrice": 10234,
+      "averageStackPrice": 7152,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

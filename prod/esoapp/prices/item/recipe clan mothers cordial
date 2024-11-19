@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe clan mothers cordial",
+    "displayName": "Recipe: Clan Mother's Cordial",
+    "values": {
+      "commonRange": "1,027 - 1,680",
+      "averagePrice": 1359,
+      "minimumPrice": 1000,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1359,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sticky pork and radish noodles",
+    "displayName": "Sticky Pork and Radish Noodles",
+    "values": {
+      "commonRange": "35 - 55",
+      "averagePrice": 47,
+      "minimumPrice": 25,
+      "maximumPrice": 150,
+      "averageStackPrice": 4700,
+      "commonStackSize": 100,
+      "salesRecorded": 12
+    },
+    "type": "Food & Drinks",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/sticky_pork_and_radish_noodles.png"
+  }
+]

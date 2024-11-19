@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of high isle",
+    "displayName": "Sash of High Isle",
+    "values": {
+      "commonRange": "87 - 1,300",
+      "averagePrice": 721,
+      "minimumPrice": 81,
+      "maximumPrice": 2150,
+      "averageStackPrice": 721,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe garlic mashed potatoes",
+    "displayName": "Recipe: Garlic Mashed Potatoes",
+    "values": {
+      "commonRange": "27 - 2,000",
+      "averagePrice": 1367,
+      "minimumPrice": 27,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1367,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stros mkai grilled seagull",
+    "displayName": "Stros M'Kai Grilled Seagull",
+    "values": {
+      "commonRange": "12 - 35",
+      "averagePrice": 24,
+      "minimumPrice": 12,
+      "maximumPrice": 35,
+      "averageStackPrice": 24,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "03/01/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/stros_m'kai_grilled_seagull.png"
+  }
+]

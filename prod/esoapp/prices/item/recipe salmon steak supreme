@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe salmon steak supreme",
+    "displayName": "Recipe: Salmon Steak Supreme",
+    "values": {
+      "commonRange": "1,800 - 3,500",
+      "averagePrice": 2140,
+      "minimumPrice": 300,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2140,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

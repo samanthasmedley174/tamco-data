@@ -1,0 +1,18 @@
+[
+  {
+    "name": "velothi shroud honor",
+    "displayName": "Velothi Shroud, Honor",
+    "values": {
+      "commonRange": "100,000 - 200,000",
+      "averagePrice": 138036,
+      "minimumPrice": 60000,
+      "maximumPrice": 200000,
+      "averageStackPrice": 138036,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

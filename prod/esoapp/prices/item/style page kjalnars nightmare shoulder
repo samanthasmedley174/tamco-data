@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page kjalnars nightmare shoulder",
+    "displayName": "Style Page: Kjalnar's Nightmare Shoulder",
+    "values": {
+      "commonRange": "55,000 - 65,000",
+      "averagePrice": 61445,
+      "minimumPrice": 40000,
+      "maximumPrice": 81954,
+      "averageStackPrice": 61445,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

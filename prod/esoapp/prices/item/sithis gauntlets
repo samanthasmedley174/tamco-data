@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sithis gauntlets",
+    "displayName": "Sithis' Gauntlets",
+    "values": {
+      "commonRange": "450 - 587",
+      "averagePrice": 627,
+      "minimumPrice": 300,
+      "maximumPrice": 1300,
+      "averageStackPrice": 627,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

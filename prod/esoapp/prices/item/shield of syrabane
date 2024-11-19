@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of syrabane",
+    "displayName": "Shield of Syrabane",
+    "values": {
+      "commonRange": "250 - 651",
+      "averagePrice": 573,
+      "minimumPrice": 244,
+      "maximumPrice": 1500,
+      "averageStackPrice": 573,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

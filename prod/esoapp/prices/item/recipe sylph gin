@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe sylph gin",
+    "displayName": "Recipe: Sylph Gin",
+    "values": {
+      "commonRange": "1,500 - 6,000",
+      "averagePrice": 3716,
+      "minimumPrice": 1420,
+      "maximumPrice": 13194,
+      "averageStackPrice": 3716,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "topiary pruned evergreen",
+    "displayName": "Topiary, Pruned Evergreen",
+    "values": {
+      "commonRange": "2,016 - 6,875",
+      "averagePrice": 3828,
+      "minimumPrice": 2016,
+      "maximumPrice": 6875,
+      "averageStackPrice": 3828,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree anequine acacia forking",
+    "displayName": "Tree, Anequine Acacia Forking",
+    "values": {
+      "commonRange": "448 - 1,300",
+      "averagePrice": 946,
+      "minimumPrice": 200,
+      "maximumPrice": 1300,
+      "averageStackPrice": 946,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/14/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

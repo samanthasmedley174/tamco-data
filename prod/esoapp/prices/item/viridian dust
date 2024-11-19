@@ -1,0 +1,18 @@
+[
+  {
+    "name": "viridian dust",
+    "displayName": "Viridian Dust",
+    "values": {
+      "commonRange": "94 - 361",
+      "averagePrice": 228,
+      "minimumPrice": 83,
+      "maximumPrice": 648,
+      "averageStackPrice": 456,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Style Materials",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Viridian_Dust.png"
+  }
+]

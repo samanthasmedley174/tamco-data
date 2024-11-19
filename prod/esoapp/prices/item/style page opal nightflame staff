@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal nightflame staff",
+    "displayName": "Style Page: Opal Nightflame Staff",
+    "values": {
+      "commonRange": "3,336 - 5,000",
+      "averagePrice": 4488,
+      "minimumPrice": 2000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 4488,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Style Pages",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

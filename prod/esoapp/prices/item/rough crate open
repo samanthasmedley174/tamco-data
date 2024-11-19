@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough crate open",
+    "displayName": "Rough Crate, Open",
+    "values": {
+      "commonRange": "15 - 250",
+      "averagePrice": 144,
+      "minimumPrice": 15,
+      "maximumPrice": 500,
+      "averageStackPrice": 144,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/21/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born pot egg",
+    "displayName": "Tide-Born Pot, Egg",
+    "values": {
+      "commonRange": "3,560 - 6,200",
+      "averagePrice": 5599,
+      "minimumPrice": 3000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5599,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

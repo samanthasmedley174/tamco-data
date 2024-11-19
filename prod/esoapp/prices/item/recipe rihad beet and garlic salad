@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe rihad beet and garlic salad",
+    "displayName": "Recipe: Rihad Beet and Garlic Salad",
+    "values": {
+      "commonRange": "38 - 4,999",
+      "averagePrice": 1264,
+      "minimumPrice": 29,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1264,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

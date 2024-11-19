@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree fan palm",
+    "displayName": "Tree, Fan Palm",
+    "values": {
+      "commonRange": "500 - 2,200",
+      "averagePrice": 983,
+      "minimumPrice": 100,
+      "maximumPrice": 2200,
+      "averageStackPrice": 983,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/16/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sithis lightning staff",
+    "displayName": "Sithis' Lightning Staff",
+    "values": {
+      "commonRange": "500 - 4,446",
+      "averagePrice": 1612,
+      "minimumPrice": 250,
+      "maximumPrice": 5246,
+      "averageStackPrice": 1612,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

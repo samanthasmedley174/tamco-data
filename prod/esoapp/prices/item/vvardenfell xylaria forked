@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vvardenfell xylaria forked",
+    "displayName": "Vvardenfell Xylaria, Forked",
+    "values": {
+      "commonRange": "2,933 - 8,000",
+      "averagePrice": 5123,
+      "minimumPrice": 250,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5123,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "01/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

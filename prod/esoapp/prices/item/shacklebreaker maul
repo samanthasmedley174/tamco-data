@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shacklebreaker maul",
+    "displayName": "Shacklebreaker Maul",
+    "values": {
+      "commonRange": "4,240 - 4,240",
+      "averagePrice": 4240,
+      "minimumPrice": 4240,
+      "maximumPrice": 4240,
+      "averageStackPrice": 4240,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

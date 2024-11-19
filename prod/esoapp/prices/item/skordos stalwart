@@ -1,0 +1,18 @@
+[
+  {
+    "name": "skordos stalwart",
+    "displayName": "Skordo's Stalwart",
+    "values": {
+      "commonRange": "300 - 1,141",
+      "averagePrice": 794,
+      "minimumPrice": 141,
+      "maximumPrice": 2771,
+      "averageStackPrice": 794,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

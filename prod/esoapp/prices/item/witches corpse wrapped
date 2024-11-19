@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witches corpse wrapped",
+    "displayName": "Witches Corpse, Wrapped",
+    "values": {
+      "commonRange": "1,000 - 6,000",
+      "averagePrice": 3164,
+      "minimumPrice": 300,
+      "maximumPrice": 6200,
+      "averageStackPrice": 3164,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

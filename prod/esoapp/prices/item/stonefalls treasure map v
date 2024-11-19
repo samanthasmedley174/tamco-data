@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stonefalls treasure map v",
+    "displayName": "Stonefalls Treasure Map V",
+    "values": {
+      "commonRange": "100 - 200",
+      "averagePrice": 182,
+      "minimumPrice": 20,
+      "maximumPrice": 1000,
+      "averageStackPrice": 182,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Treasure Maps",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

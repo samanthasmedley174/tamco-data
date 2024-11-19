@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page roksa the warped shoulder",
+    "displayName": "Style Page: Roksa the Warped Shoulder",
+    "values": {
+      "commonRange": "40,000 - 66,000",
+      "averagePrice": 48281,
+      "minimumPrice": 25000,
+      "maximumPrice": 70000,
+      "averageStackPrice": 48281,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

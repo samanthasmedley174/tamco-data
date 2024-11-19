@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spellshredder ice staff",
+    "displayName": "Spellshredder Ice Staff",
+    "values": {
+      "commonRange": "850 - 15,000",
+      "averagePrice": 7565,
+      "minimumPrice": 180,
+      "maximumPrice": 70246,
+      "averageStackPrice": 7565,
+      "commonStackSize": 1,
+      "salesRecorded": 96
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sailors hatchet",
+    "displayName": "Sailor's Hatchet",
+    "values": {
+      "commonRange": "1,460 - 1,460",
+      "averagePrice": 1460,
+      "minimumPrice": 1460,
+      "maximumPrice": 1460,
+      "averageStackPrice": 1460,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

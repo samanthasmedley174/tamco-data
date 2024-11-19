@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe sweet and sour port",
+    "displayName": "Recipe: Sweet and Sour Port",
+    "values": {
+      "commonRange": "99 - 1,420",
+      "averagePrice": 734,
+      "minimumPrice": 30,
+      "maximumPrice": 1500,
+      "averageStackPrice": 734,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

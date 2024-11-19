@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stormcommander of the wyrd tree",
+    "displayName": "Stormcommander of the Wyrd Tree",
+    "values": {
+      "commonRange": "500 - 1,200",
+      "averagePrice": 1735,
+      "minimumPrice": 240,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1735,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

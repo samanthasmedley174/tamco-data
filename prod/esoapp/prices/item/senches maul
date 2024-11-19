@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senches maul",
+    "displayName": "Senche's Maul",
+    "values": {
+      "commonRange": "300 - 713",
+      "averagePrice": 713,
+      "minimumPrice": 300,
+      "maximumPrice": 1540,
+      "averageStackPrice": 713,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

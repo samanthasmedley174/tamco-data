@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stone carving hooks",
+    "displayName": "Stone Carving, Hooks",
+    "values": {
+      "commonRange": "2,000 - 5,000",
+      "averagePrice": 3176,
+      "minimumPrice": 2000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 3176,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/18/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

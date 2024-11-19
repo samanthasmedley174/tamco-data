@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe ginkgo lightning",
+    "displayName": "Recipe: Ginkgo Lightning",
+    "values": {
+      "commonRange": "199 - 930",
+      "averagePrice": 380,
+      "minimumPrice": 90,
+      "maximumPrice": 1000,
+      "averageStackPrice": 380,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

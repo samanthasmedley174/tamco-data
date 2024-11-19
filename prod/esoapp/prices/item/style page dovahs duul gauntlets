@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page dovahs duul gauntlets",
+    "displayName": "Style Page: Dovah's Du'ul Gauntlets",
+    "values": {
+      "commonRange": "895 - 2,620",
+      "averagePrice": 2049,
+      "minimumPrice": 500,
+      "maximumPrice": 2620,
+      "averageStackPrice": 2049,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

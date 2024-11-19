@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the vicecanons inferno staff",
+    "displayName": "The Vicecanon's Inferno Staff",
+    "values": {
+      "commonRange": "95,155 - 95,155",
+      "averagePrice": 95155,
+      "minimumPrice": 95155,
+      "maximumPrice": 95155,
+      "averageStackPrice": 95155,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

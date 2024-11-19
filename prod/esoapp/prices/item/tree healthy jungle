@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree healthy jungle",
+    "displayName": "Tree, Healthy Jungle",
+    "values": {
+      "commonRange": "499 - 2,060",
+      "averagePrice": 1238,
+      "minimumPrice": 150,
+      "maximumPrice": 2060,
+      "averageStackPrice": 2476,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/21/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

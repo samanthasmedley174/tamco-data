@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page yffres fallen wood pauldron",
+    "displayName": "Style Page: Y'ffre's Fallen-Wood Pauldron",
+    "values": {
+      "commonRange": "30,000 - 57,674",
+      "averagePrice": 56267,
+      "minimumPrice": 30000,
+      "maximumPrice": 200000,
+      "averageStackPrice": 56267,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

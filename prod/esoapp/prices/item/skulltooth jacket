@@ -1,0 +1,18 @@
+[
+  {
+    "name": "skulltooth jacket",
+    "displayName": "Skulltooth Jacket",
+    "values": {
+      "commonRange": "171 - 571",
+      "averagePrice": 351,
+      "minimumPrice": 171,
+      "maximumPrice": 600,
+      "averageStackPrice": 351,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

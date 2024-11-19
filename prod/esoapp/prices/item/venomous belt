@@ -1,0 +1,18 @@
+[
+  {
+    "name": "venomous belt",
+    "displayName": "Venomous Belt",
+    "values": {
+      "commonRange": "190 - 9,990",
+      "averagePrice": 4625,
+      "minimumPrice": 90,
+      "maximumPrice": 89093,
+      "averageStackPrice": 4625,
+      "commonStackSize": 1,
+      "salesRecorded": 67
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

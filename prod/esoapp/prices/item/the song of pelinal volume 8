@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the song of pelinal volume 8",
+    "displayName": "The Song of Pelinal, Volume 8",
+    "values": {
+      "commonRange": "50 - 588",
+      "averagePrice": 363,
+      "minimumPrice": 30,
+      "maximumPrice": 800,
+      "averageStackPrice": 363,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Furnishings",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

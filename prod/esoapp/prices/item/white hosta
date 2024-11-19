@@ -1,0 +1,18 @@
+[
+  {
+    "name": "white hosta",
+    "displayName": "White Hosta",
+    "values": {
+      "commonRange": "1,100 - 4,575",
+      "averagePrice": 2364,
+      "minimumPrice": 1000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2364,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

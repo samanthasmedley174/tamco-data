@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sapling white pine",
+    "displayName": "Sapling, White Pine",
+    "values": {
+      "commonRange": "1,000 - 1,100",
+      "averagePrice": 1058,
+      "minimumPrice": 1000,
+      "maximumPrice": 1250,
+      "averageStackPrice": 1058,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

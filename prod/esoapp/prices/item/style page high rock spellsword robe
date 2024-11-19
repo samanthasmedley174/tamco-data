@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page high rock spellsword robe",
+    "displayName": "Style Page: High Rock Spellsword Robe",
+    "values": {
+      "commonRange": "2,307 - 30,000",
+      "averagePrice": 10498,
+      "minimumPrice": 300,
+      "maximumPrice": 35000,
+      "averageStackPrice": 10498,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Style Pages",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

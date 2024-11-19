@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shattered fate bracers",
+    "displayName": "Shattered Fate Bracers",
+    "values": {
+      "commonRange": "30,000 - 32,090",
+      "averagePrice": 27163,
+      "minimumPrice": 5795,
+      "maximumPrice": 35093,
+      "averageStackPrice": 27163,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

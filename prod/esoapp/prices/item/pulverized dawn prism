@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pulverized dawn prism",
+    "displayName": "Pulverized Dawn-Prism",
+    "values": {
+      "commonRange": "400 - 2,006",
+      "averagePrice": 1289,
+      "minimumPrice": 100,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1289,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Trait Stones",
+    "date": "12/17/2024",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Pulverized_Dawn-prism.png"
+  }
+]

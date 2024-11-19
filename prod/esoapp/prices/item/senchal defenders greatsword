@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senchal defenders greatsword",
+    "displayName": "Senchal Defender's Greatsword",
+    "values": {
+      "commonRange": "246 - 750",
+      "averagePrice": 642,
+      "minimumPrice": 190,
+      "maximumPrice": 1250,
+      "averageStackPrice": 642,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

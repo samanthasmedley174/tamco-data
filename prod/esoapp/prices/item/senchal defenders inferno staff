@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senchal defenders inferno staff",
+    "displayName": "Senchal Defender's Inferno Staff",
+    "values": {
+      "commonRange": "240 - 1,740",
+      "averagePrice": 911,
+      "minimumPrice": 240,
+      "maximumPrice": 2346,
+      "averageStackPrice": 911,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rallying cry shield",
+    "displayName": "Rallying Cry Shield",
+    "values": {
+      "commonRange": "5,000 - 25,979",
+      "averagePrice": 14848,
+      "minimumPrice": 2100,
+      "maximumPrice": 36787,
+      "averageStackPrice": 14848,
+      "commonStackSize": 1,
+      "salesRecorded": 99
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

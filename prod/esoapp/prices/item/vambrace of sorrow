@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vambrace of sorrow",
+    "displayName": "Vambrace of Sorrow",
+    "values": {
+      "commonRange": "330 - 1,828",
+      "averagePrice": 1219,
+      "minimumPrice": 284,
+      "maximumPrice": 3055,
+      "averageStackPrice": 1219,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

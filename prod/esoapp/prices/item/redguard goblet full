@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard goblet full",
+    "displayName": "Redguard Goblet, Full",
+    "values": {
+      "commonRange": "200 - 1,100",
+      "averagePrice": 815,
+      "minimumPrice": 80,
+      "maximumPrice": 2400,
+      "averageStackPrice": 1630,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

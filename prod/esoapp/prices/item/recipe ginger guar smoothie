@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe ginger guar smoothie",
+    "displayName": "Recipe: Ginger Guar Smoothie",
+    "values": {
+      "commonRange": "1,250 - 2,304",
+      "averagePrice": 1938,
+      "minimumPrice": 1250,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1938,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

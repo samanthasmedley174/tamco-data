@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe sweet skeever gumbo",
+    "displayName": "Recipe: Sweet Skeever Gumbo",
+    "values": {
+      "commonRange": "500 - 1,407",
+      "averagePrice": 1023,
+      "minimumPrice": 139,
+      "maximumPrice": 3107,
+      "averageStackPrice": 1023,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

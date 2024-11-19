@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stirk fellowship padded shoulderguards",
+    "displayName": "Stirk Fellowship Padded Shoulderguards",
+    "values": {
+      "commonRange": "141 - 750",
+      "averagePrice": 383,
+      "minimumPrice": 110,
+      "maximumPrice": 841,
+      "averageStackPrice": 383,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of necropotence",
+    "displayName": "Ring of Necropotence",
+    "values": {
+      "commonRange": "244 - 2,400",
+      "averagePrice": 1379,
+      "minimumPrice": 144,
+      "maximumPrice": 6500,
+      "averageStackPrice": 1379,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

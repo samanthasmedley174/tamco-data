@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page baron zaudrus mask",
+    "displayName": "Style Page: Baron Zaudrus Mask",
+    "values": {
+      "commonRange": "950,000 - 1,300,000",
+      "averagePrice": 1086608,
+      "minimumPrice": 900000,
+      "maximumPrice": 1350000,
+      "averageStackPrice": 1086608,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

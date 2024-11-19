@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pristine water",
+    "displayName": "Pristine Water",
+    "values": {
+      "commonRange": "50 - 87",
+      "averagePrice": 75,
+      "minimumPrice": 50,
+      "maximumPrice": 110,
+      "averageStackPrice": 15000,
+      "commonStackSize": 200,
+      "salesRecorded": 15
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

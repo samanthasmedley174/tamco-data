@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard canopy dawn",
+    "displayName": "Redguard Canopy, Dawn",
+    "values": {
+      "commonRange": "3,000 - 11,679",
+      "averagePrice": 7702,
+      "minimumPrice": 2000,
+      "maximumPrice": 13000,
+      "averageStackPrice": 7702,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

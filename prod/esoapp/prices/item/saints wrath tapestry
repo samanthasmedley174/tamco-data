@@ -1,0 +1,18 @@
+[
+  {
+    "name": "saints wrath tapestry",
+    "displayName": "Saint's Wrath Tapestry",
+    "values": {
+      "commonRange": "1,500 - 2,573",
+      "averagePrice": 2323,
+      "minimumPrice": 716,
+      "maximumPrice": 5359,
+      "averageStackPrice": 2323,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

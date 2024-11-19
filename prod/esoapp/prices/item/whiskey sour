@@ -1,0 +1,18 @@
+[
+  {
+    "name": "whiskey sour",
+    "displayName": "Whiskey Sour",
+    "values": {
+      "commonRange": "2 - 2",
+      "averagePrice": 2,
+      "minimumPrice": 2,
+      "maximumPrice": 2,
+      "averageStackPrice": 50,
+      "commonStackSize": 25,
+      "salesRecorded": 1
+    },
+    "type": "Food & Drinks",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/whiskey_sour.png"
+  }
+]

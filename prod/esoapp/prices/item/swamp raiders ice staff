@@ -1,0 +1,18 @@
+[
+  {
+    "name": "swamp raiders ice staff",
+    "displayName": "Swamp Raider's Ice Staff",
+    "values": {
+      "commonRange": "365 - 5,000",
+      "averagePrice": 2663,
+      "minimumPrice": 245,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2663,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

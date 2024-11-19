@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seventh legions inferno staff",
+    "displayName": "Seventh Legion's Inferno Staff",
+    "values": {
+      "commonRange": "234 - 2,246",
+      "averagePrice": 1145,
+      "minimumPrice": 170,
+      "maximumPrice": 4246,
+      "averageStackPrice": 1145,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

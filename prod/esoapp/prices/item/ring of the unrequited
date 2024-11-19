@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the unrequited",
+    "displayName": "Ring of the Unrequited",
+    "values": {
+      "commonRange": "150 - 150",
+      "averagePrice": 210,
+      "minimumPrice": 150,
+      "maximumPrice": 330,
+      "averageStackPrice": 210,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

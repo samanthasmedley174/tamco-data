@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page hearts day duelist gloves",
+    "displayName": "Style Page: Heart's Day Duelist Gloves",
+    "values": {
+      "commonRange": "1,000 - 49,999",
+      "averagePrice": 20941,
+      "minimumPrice": 100,
+      "maximumPrice": 80000,
+      "averageStackPrice": 20941,
+      "commonStackSize": 1,
+      "salesRecorded": 173
+    },
+    "type": "Style Pages",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

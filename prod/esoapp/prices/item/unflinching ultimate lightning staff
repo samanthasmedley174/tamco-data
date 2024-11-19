@@ -1,0 +1,18 @@
+[
+  {
+    "name": "unflinching ultimate lightning staff",
+    "displayName": "Unflinching Ultimate Lightning Staff",
+    "values": {
+      "commonRange": "840 - 8,999",
+      "averagePrice": 5110,
+      "minimumPrice": 240,
+      "maximumPrice": 20000,
+      "averageStackPrice": 5110,
+      "commonStackSize": 1,
+      "salesRecorded": 92
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

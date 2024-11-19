@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page nibenese court wizard shoes",
+    "displayName": "Style Page: Nibenese Court Wizard Shoes",
+    "values": {
+      "commonRange": "3,000 - 4,900",
+      "averagePrice": 3876,
+      "minimumPrice": 3000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 3876,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

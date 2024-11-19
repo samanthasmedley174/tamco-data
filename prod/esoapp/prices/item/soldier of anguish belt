@@ -1,0 +1,18 @@
+[
+  {
+    "name": "soldier of anguish belt",
+    "displayName": "Soldier of Anguish Belt",
+    "values": {
+      "commonRange": "500 - 2,100",
+      "averagePrice": 1296,
+      "minimumPrice": 365,
+      "maximumPrice": 2995,
+      "averageStackPrice": 1296,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

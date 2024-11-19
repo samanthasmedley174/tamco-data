@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page gold road dragoon jack 1",
+    "displayName": "Style Page: Gold Road Dragoon Jack 1",
+    "values": {
+      "commonRange": "1,500 - 20,000",
+      "averagePrice": 6405,
+      "minimumPrice": 500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 6405,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

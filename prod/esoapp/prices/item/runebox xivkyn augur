@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox xivkyn augur",
+    "displayName": "Runebox: Xivkyn Augur",
+    "values": {
+      "commonRange": "475,000 - 900,000",
+      "averagePrice": 600810,
+      "minimumPrice": 283684,
+      "maximumPrice": 1000000,
+      "averageStackPrice": 600810,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Runeboxes",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

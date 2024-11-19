@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spadetail",
+    "displayName": "Spadetail",
+    "values": {
+      "commonRange": "133 - 261",
+      "averagePrice": 229,
+      "minimumPrice": 100,
+      "maximumPrice": 485,
+      "averageStackPrice": 229,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Fishing",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Spadetail.png"
+  }
+]

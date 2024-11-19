@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page high rock spellsword gloves",
+    "displayName": "Style Page: High Rock Spellsword Gloves",
+    "values": {
+      "commonRange": "1,100 - 29,000",
+      "averagePrice": 11251,
+      "minimumPrice": 500,
+      "maximumPrice": 30000,
+      "averageStackPrice": 11251,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

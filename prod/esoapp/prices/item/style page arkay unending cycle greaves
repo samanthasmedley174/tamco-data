@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page arkay unending cycle greaves",
+    "displayName": "Style Page: Arkay Unending Cycle Greaves",
+    "values": {
+      "commonRange": "90 - 1,000",
+      "averagePrice": 503,
+      "minimumPrice": 10,
+      "maximumPrice": 2800,
+      "averageStackPrice": 503,
+      "commonStackSize": 1,
+      "salesRecorded": 49
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "velothi urn burial",
+    "displayName": "Velothi Urn, Burial",
+    "values": {
+      "commonRange": "9,000 - 16,650",
+      "averagePrice": 12036,
+      "minimumPrice": 5000,
+      "maximumPrice": 21100,
+      "averageStackPrice": 12036,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

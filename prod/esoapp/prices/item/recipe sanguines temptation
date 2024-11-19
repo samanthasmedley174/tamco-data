@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe sanguines temptation",
+    "displayName": "Recipe: Sanguine's Temptation",
+    "values": {
+      "commonRange": "30 - 1,000",
+      "averagePrice": 329,
+      "minimumPrice": 30,
+      "maximumPrice": 1463,
+      "averageStackPrice": 329,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

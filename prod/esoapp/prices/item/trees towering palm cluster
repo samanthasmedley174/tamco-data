@@ -1,0 +1,18 @@
+[
+  {
+    "name": "trees towering palm cluster",
+    "displayName": "Trees, Towering Palm Cluster",
+    "values": {
+      "commonRange": "873 - 3,000",
+      "averagePrice": 1356,
+      "minimumPrice": 135,
+      "maximumPrice": 3500,
+      "averageStackPrice": 1356,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

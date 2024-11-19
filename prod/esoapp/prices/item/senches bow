@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senches bow",
+    "displayName": "Senche's Bow",
+    "values": {
+      "commonRange": "240 - 3,146",
+      "averagePrice": 6500,
+      "minimumPrice": 200,
+      "maximumPrice": 80000,
+      "averageStackPrice": 6500,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

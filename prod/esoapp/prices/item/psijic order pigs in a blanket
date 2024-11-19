@@ -1,0 +1,18 @@
+[
+  {
+    "name": "psijic order pigs in a blanket",
+    "displayName": "Psijic Order Pigs-in-a-Blanket",
+    "values": {
+      "commonRange": "21 - 54",
+      "averagePrice": 38,
+      "minimumPrice": 21,
+      "maximumPrice": 54,
+      "averageStackPrice": 38,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "03/30/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/psijic_order_pigs-in-a-blanket.png"
+  }
+]

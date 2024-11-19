@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reezal juls necrotic robes of necropotence",
+    "displayName": "Reezal-Jul's Necrotic Robes of Necropotence",
+    "values": {
+      "commonRange": "371 - 371",
+      "averagePrice": 371,
+      "minimumPrice": 371,
+      "maximumPrice": 371,
+      "averageStackPrice": 371,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

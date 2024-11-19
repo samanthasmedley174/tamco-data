@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of stendarr",
+    "displayName": "Shoes of Stendarr",
+    "values": {
+      "commonRange": "90 - 1,000",
+      "averagePrice": 559,
+      "minimumPrice": 87,
+      "maximumPrice": 1090,
+      "averageStackPrice": 559,
+      "commonStackSize": 1,
+      "salesRecorded": 41
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

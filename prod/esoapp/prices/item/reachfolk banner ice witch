@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reachfolk banner ice witch",
+    "displayName": "Reachfolk Banner, Ice Witch",
+    "values": {
+      "commonRange": "2,550 - 6,000",
+      "averagePrice": 4712,
+      "minimumPrice": 2500,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4712,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

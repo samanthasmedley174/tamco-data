@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf vase swirled",
+    "displayName": "Wood Elf Vase, Swirled",
+    "values": {
+      "commonRange": "100 - 1,099",
+      "averagePrice": 623,
+      "minimumPrice": 60,
+      "maximumPrice": 1099,
+      "averageStackPrice": 623,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe west weald corn chowder",
+    "displayName": "Recipe: West Weald Corn Chowder",
+    "values": {
+      "commonRange": "100 - 4,000",
+      "averagePrice": 2145,
+      "minimumPrice": 27,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2145,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

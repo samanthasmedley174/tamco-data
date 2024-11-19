@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult papers scattered",
+    "displayName": "Worm Cult Papers, Scattered",
+    "values": {
+      "commonRange": "1,247 - 2,560",
+      "averagePrice": 2558,
+      "minimumPrice": 1000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2558,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

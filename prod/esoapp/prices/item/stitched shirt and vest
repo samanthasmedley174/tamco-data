@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stitched shirt and vest",
+    "displayName": "Stitched Shirt and Vest",
+    "values": {
+      "commonRange": "118 - 118",
+      "averagePrice": 1745,
+      "minimumPrice": 118,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1745,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Miscellaneous",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

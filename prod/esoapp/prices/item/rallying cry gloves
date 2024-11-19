@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rallying cry gloves",
+    "displayName": "Rallying Cry Gloves",
+    "values": {
+      "commonRange": "2,000 - 22,990",
+      "averagePrice": 15279,
+      "minimumPrice": 90,
+      "maximumPrice": 150000,
+      "averageStackPrice": 15279,
+      "commonStackSize": 1,
+      "salesRecorded": 95
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

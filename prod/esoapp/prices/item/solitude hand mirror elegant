@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude hand mirror elegant",
+    "displayName": "Solitude Hand Mirror, Elegant",
+    "values": {
+      "commonRange": "1,500 - 6,850",
+      "averagePrice": 4925,
+      "minimumPrice": 1500,
+      "maximumPrice": 6850,
+      "averageStackPrice": 4925,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

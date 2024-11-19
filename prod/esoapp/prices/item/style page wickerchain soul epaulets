@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page wickerchain soul epaulets",
+    "displayName": "Style Page: Wickerchain Soul Epaulets",
+    "values": {
+      "commonRange": "2,000 - 3,000",
+      "averagePrice": 2513,
+      "minimumPrice": 100,
+      "maximumPrice": 3891,
+      "averageStackPrice": 2513,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

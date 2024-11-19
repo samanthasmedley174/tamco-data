@@ -1,0 +1,18 @@
+[
+  {
+    "name": "swamp raiders bow",
+    "displayName": "Swamp Raider's Bow",
+    "values": {
+      "commonRange": "1,169 - 18,000",
+      "averagePrice": 9804,
+      "minimumPrice": 345,
+      "maximumPrice": 44000,
+      "averageStackPrice": 9804,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

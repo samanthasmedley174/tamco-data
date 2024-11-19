@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shelf folded laundry",
+    "displayName": "Shelf, Folded Laundry",
+    "values": {
+      "commonRange": "2,016 - 4,108",
+      "averagePrice": 2998,
+      "minimumPrice": 2016,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2998,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe lillandril tonic tea",
+    "displayName": "Recipe: Lillandril Tonic Tea",
+    "values": {
+      "commonRange": "30 - 483",
+      "averagePrice": 240,
+      "minimumPrice": 30,
+      "maximumPrice": 485,
+      "averageStackPrice": 240,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

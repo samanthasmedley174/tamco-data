@@ -1,0 +1,18 @@
+[
+  {
+    "name": "target centurion robust refabricated",
+    "displayName": "Target Centurion, Robust Refabricated",
+    "values": {
+      "commonRange": "900,000 - 1,685,000",
+      "averagePrice": 1123798,
+      "minimumPrice": 12031,
+      "maximumPrice": 2000000,
+      "averageStackPrice": 1123798,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/20/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

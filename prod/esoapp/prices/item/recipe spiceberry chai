@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe spiceberry chai",
+    "displayName": "Recipe: Spiceberry Chai",
+    "values": {
+      "commonRange": "127 - 339",
+      "averagePrice": 236,
+      "minimumPrice": 27,
+      "maximumPrice": 355,
+      "averageStackPrice": 236,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

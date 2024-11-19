@@ -1,0 +1,18 @@
+[
+  {
+    "name": "werewolf hide guards",
+    "displayName": "Werewolf Hide Guards",
+    "values": {
+      "commonRange": "290 - 2,183",
+      "averagePrice": 1004,
+      "minimumPrice": 209,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1004,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

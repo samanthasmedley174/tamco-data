@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sip of health",
+    "displayName": "Sip of Health",
+    "values": {
+      "commonRange": "115 - 195",
+      "averagePrice": 147,
+      "minimumPrice": 3,
+      "maximumPrice": 392,
+      "averageStackPrice": 29400,
+      "commonStackSize": 200,
+      "salesRecorded": 458
+    },
+    "type": "Potions & Poisons",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

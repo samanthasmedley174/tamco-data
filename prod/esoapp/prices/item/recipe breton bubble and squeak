@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe breton bubble and squeak",
+    "displayName": "Recipe: Breton Bubble-and-Squeak",
+    "values": {
+      "commonRange": "130 - 980",
+      "averagePrice": 616,
+      "minimumPrice": 59,
+      "maximumPrice": 1750,
+      "averageStackPrice": 616,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

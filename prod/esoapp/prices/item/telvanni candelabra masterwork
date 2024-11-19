@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni candelabra masterwork",
+    "displayName": "Telvanni Candelabra, Masterwork",
+    "values": {
+      "commonRange": "5,000 - 13,350",
+      "averagePrice": 10321,
+      "minimumPrice": 5000,
+      "maximumPrice": 13559,
+      "averageStackPrice": 10321,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tankard of undaunted victory infernal",
+    "displayName": "Tankard of Undaunted Victory, Infernal",
+    "values": {
+      "commonRange": "350 - 1,446",
+      "averagePrice": 1198,
+      "minimumPrice": 350,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1198,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

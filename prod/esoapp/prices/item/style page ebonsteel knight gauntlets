@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page ebonsteel knight gauntlets",
+    "displayName": "Style Page: Ebonsteel Knight Gauntlets",
+    "values": {
+      "commonRange": "5,000 - 3,000,000",
+      "averagePrice": 1060000,
+      "minimumPrice": 5000,
+      "maximumPrice": 3000000,
+      "averageStackPrice": 1060000,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Style Pages",
+    "date": "01/10/2023",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

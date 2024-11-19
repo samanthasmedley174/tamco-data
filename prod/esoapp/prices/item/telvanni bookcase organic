@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni bookcase organic",
+    "displayName": "Telvanni Bookcase, Organic",
+    "values": {
+      "commonRange": "7,000 - 10,900",
+      "averagePrice": 9300,
+      "minimumPrice": 4688,
+      "maximumPrice": 10909,
+      "averageStackPrice": 9300,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

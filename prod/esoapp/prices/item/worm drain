@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm drain",
+    "displayName": "Worm Drain",
+    "values": {
+      "commonRange": "441 - 441",
+      "averagePrice": 574,
+      "minimumPrice": 141,
+      "maximumPrice": 1141,
+      "averageStackPrice": 574,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solstice shell fossilized echinoid",
+    "displayName": "Solstice Shell, Fossilized Echinoid",
+    "values": {
+      "commonRange": "1,000 - 2,500",
+      "averagePrice": 1908,
+      "minimumPrice": 850,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1908,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

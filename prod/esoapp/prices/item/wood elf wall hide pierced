@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf wall hide pierced",
+    "displayName": "Wood Elf Wall Hide, Pierced",
+    "values": {
+      "commonRange": "60 - 1,100",
+      "averagePrice": 462,
+      "minimumPrice": 60,
+      "maximumPrice": 1400,
+      "averageStackPrice": 462,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

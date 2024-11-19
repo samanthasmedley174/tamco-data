@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe yellow goblin tonic",
+    "displayName": "Recipe: Yellow Goblin Tonic",
+    "values": {
+      "commonRange": "27 - 211",
+      "averagePrice": 80,
+      "minimumPrice": 27,
+      "maximumPrice": 227,
+      "averageStackPrice": 80,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

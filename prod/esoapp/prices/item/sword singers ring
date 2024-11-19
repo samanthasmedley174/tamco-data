@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword singers ring",
+    "displayName": "Sword-Singer's Ring",
+    "values": {
+      "commonRange": "140 - 4,000",
+      "averagePrice": 914,
+      "minimumPrice": 108,
+      "maximumPrice": 6000,
+      "averageStackPrice": 914,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

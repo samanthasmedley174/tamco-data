@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch solitude goblet covered",
+    "displayName": "Sketch: Solitude Goblet, Covered",
+    "values": {
+      "commonRange": "20,000 - 22,000",
+      "averagePrice": 21254,
+      "minimumPrice": 20000,
+      "maximumPrice": 24361,
+      "averageStackPrice": 21254,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

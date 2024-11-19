@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rallying cry robe",
+    "displayName": "Rallying Cry Robe",
+    "values": {
+      "commonRange": "2,283 - 10,000",
+      "averagePrice": 5694,
+      "minimumPrice": 380,
+      "maximumPrice": 30183,
+      "averageStackPrice": 5694,
+      "commonStackSize": 1,
+      "salesRecorded": 49
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "venomous axe",
+    "displayName": "Venomous Axe",
+    "values": {
+      "commonRange": "2,100 - 14,934",
+      "averagePrice": 13319,
+      "minimumPrice": 2000,
+      "maximumPrice": 78156,
+      "averageStackPrice": 13319,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

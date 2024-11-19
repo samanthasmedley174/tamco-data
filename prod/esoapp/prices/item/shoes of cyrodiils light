@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of cyrodiils light",
+    "displayName": "Shoes of Cyrodiil's Light",
+    "values": {
+      "commonRange": "90 - 2,090",
+      "averagePrice": 1269,
+      "minimumPrice": 90,
+      "maximumPrice": 3350,
+      "averageStackPrice": 1269,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

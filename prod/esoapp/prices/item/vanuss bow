@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanuss bow",
+    "displayName": "Vanus's Bow",
+    "values": {
+      "commonRange": "230 - 1,641",
+      "averagePrice": 692,
+      "minimumPrice": 150,
+      "maximumPrice": 3850,
+      "averageStackPrice": 692,
+      "commonStackSize": 1,
+      "salesRecorded": 57
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

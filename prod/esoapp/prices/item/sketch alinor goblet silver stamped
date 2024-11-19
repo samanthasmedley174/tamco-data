@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch alinor goblet silver stamped",
+    "displayName": "Sketch: Alinor Goblet, Silver Stamped",
+    "values": {
+      "commonRange": "1,500 - 2,385",
+      "averagePrice": 2053,
+      "minimumPrice": 1400,
+      "maximumPrice": 2385,
+      "averageStackPrice": 2053,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/28/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

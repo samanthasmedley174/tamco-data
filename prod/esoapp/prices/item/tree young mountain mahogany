@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree young mountain mahogany",
+    "displayName": "Tree, Young Mountain Mahogany",
+    "values": {
+      "commonRange": "1,228 - 3,000",
+      "averagePrice": 1903,
+      "minimumPrice": 60,
+      "maximumPrice": 3500,
+      "averageStackPrice": 1903,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

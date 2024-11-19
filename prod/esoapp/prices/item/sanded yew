@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sanded yew",
+    "displayName": "Sanded Yew",
+    "values": {
+      "commonRange": "10 - 32",
+      "averagePrice": 21,
+      "minimumPrice": 7,
+      "maximumPrice": 47,
+      "averageStackPrice": 4200,
+      "commonStackSize": 200,
+      "salesRecorded": 20
+    },
+    "type": "Woodworking Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Woodworking_Materials/Sanded_Yew.png"
+  }
+]

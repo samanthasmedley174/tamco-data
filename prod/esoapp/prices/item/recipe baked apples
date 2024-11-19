@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe baked apples",
+    "displayName": "Recipe: Baked Apples",
+    "values": {
+      "commonRange": "27 - 1,000",
+      "averagePrice": 384,
+      "minimumPrice": 25,
+      "maximumPrice": 1000,
+      "averageStackPrice": 384,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

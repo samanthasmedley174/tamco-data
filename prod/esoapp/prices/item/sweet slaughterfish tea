@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sweet slaughterfish tea",
+    "displayName": "Sweet Slaughterfish Tea",
+    "values": {
+      "commonRange": "4 - 13",
+      "averagePrice": 9,
+      "minimumPrice": 4,
+      "maximumPrice": 13,
+      "averageStackPrice": 9,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Food & Drinks",
+    "date": "02/16/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/sweet_slaughterfish_tea.png"
+  }
+]

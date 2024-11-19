@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis telvanni table organic game",
+    "displayName": "Praxis: Telvanni Table, Organic Game",
+    "values": {
+      "commonRange": "75,000 - 110,000",
+      "averagePrice": 89035,
+      "minimumPrice": 65000,
+      "maximumPrice": 110000,
+      "averageStackPrice": 89035,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

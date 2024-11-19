@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe sweet sanguine apples",
+    "displayName": "Recipe: Sweet Sanguine Apples",
+    "values": {
+      "commonRange": "297 - 1,000",
+      "averagePrice": 967,
+      "minimumPrice": 200,
+      "maximumPrice": 9927,
+      "averageStackPrice": 967,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

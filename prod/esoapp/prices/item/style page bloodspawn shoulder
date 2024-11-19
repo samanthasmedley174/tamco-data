@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page bloodspawn shoulder",
+    "displayName": "Style Page: Bloodspawn Shoulder",
+    "values": {
+      "commonRange": "35,000 - 60,000",
+      "averagePrice": 45784,
+      "minimumPrice": 30000,
+      "maximumPrice": 99000,
+      "averageStackPrice": 45784,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

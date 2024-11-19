@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page sancre tor sentry pauldrons",
+    "displayName": "Style Page: Sancre Tor Sentry Pauldrons",
+    "values": {
+      "commonRange": "7,234 - 12,000",
+      "averagePrice": 13365,
+      "minimumPrice": 7234,
+      "maximumPrice": 58000,
+      "averageStackPrice": 13365,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

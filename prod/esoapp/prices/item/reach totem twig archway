@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reach totem twig archway",
+    "displayName": "Reach Totem, Twig Archway",
+    "values": {
+      "commonRange": "11,000 - 14,000",
+      "averagePrice": 12071,
+      "minimumPrice": 8000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 12071,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

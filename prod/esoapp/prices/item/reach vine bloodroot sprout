@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reach vine bloodroot sprout",
+    "displayName": "Reach Vine, Bloodroot Sprout",
+    "values": {
+      "commonRange": "5,500 - 71,000",
+      "averagePrice": 34618,
+      "minimumPrice": 5500,
+      "maximumPrice": 71000,
+      "averageStackPrice": 34618,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

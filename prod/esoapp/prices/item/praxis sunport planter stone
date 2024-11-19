@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis sunport planter stone",
+    "displayName": "Praxis: Sunport Planter, Stone",
+    "values": {
+      "commonRange": "135,000 - 280,000",
+      "averagePrice": 210299,
+      "minimumPrice": 135000,
+      "maximumPrice": 347000,
+      "averageStackPrice": 210299,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

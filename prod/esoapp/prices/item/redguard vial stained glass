@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard vial stained glass",
+    "displayName": "Redguard Vial, Stained Glass",
+    "values": {
+      "commonRange": "3,416 - 7,000",
+      "averagePrice": 4820,
+      "minimumPrice": 1300,
+      "maximumPrice": 7000,
+      "averageStackPrice": 4820,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

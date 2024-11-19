@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of bahrahas curse",
+    "displayName": "Sabatons of Bahraha's Curse",
+    "values": {
+      "commonRange": "290 - 3,390",
+      "averagePrice": 1740,
+      "minimumPrice": 290,
+      "maximumPrice": 4400,
+      "averageStackPrice": 1740,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

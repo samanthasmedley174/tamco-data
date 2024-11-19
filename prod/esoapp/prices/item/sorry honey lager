@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sorry honey lager",
+    "displayName": "Sorry, Honey Lager",
+    "values": {
+      "commonRange": "0 - 0",
+      "averagePrice": 0,
+      "minimumPrice": 1,
+      "maximumPrice": 0,
+      "averageStackPrice": 0,
+      "commonStackSize": 63,
+      "salesRecorded": 1
+    },
+    "type": "Food & Drinks",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/sorry,_honey_lager.png"
+  }
+]

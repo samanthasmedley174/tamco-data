@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sip of weapon crit",
+    "displayName": "Sip of Weapon Crit",
+    "values": {
+      "commonRange": "80 - 80",
+      "averagePrice": 79,
+      "minimumPrice": 65,
+      "maximumPrice": 80,
+      "averageStackPrice": 15800,
+      "commonStackSize": 200,
+      "salesRecorded": 15
+    },
+    "type": "Potions & Poisons",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

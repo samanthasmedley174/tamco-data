@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seventh legion girdle",
+    "displayName": "Seventh Legion Girdle",
+    "values": {
+      "commonRange": "190 - 190",
+      "averagePrice": 213,
+      "minimumPrice": 159,
+      "maximumPrice": 290,
+      "averageStackPrice": 213,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

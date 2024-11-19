@@ -1,0 +1,18 @@
+[
+  {
+    "name": "raw flax",
+    "displayName": "Raw Flax",
+    "values": {
+      "commonRange": "10 - 44",
+      "averagePrice": 31,
+      "minimumPrice": 6,
+      "maximumPrice": 44,
+      "averageStackPrice": 124,
+      "commonStackSize": 4,
+      "salesRecorded": 10
+    },
+    "type": "Clothing Materials",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

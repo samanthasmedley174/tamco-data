@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree sturdy juniper",
+    "displayName": "Tree, Sturdy Juniper",
+    "values": {
+      "commonRange": "15 - 700",
+      "averagePrice": 396,
+      "minimumPrice": 15,
+      "maximumPrice": 1000,
+      "averageStackPrice": 396,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

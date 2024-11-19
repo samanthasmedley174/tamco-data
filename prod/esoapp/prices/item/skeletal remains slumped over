@@ -1,0 +1,18 @@
+[
+  {
+    "name": "skeletal remains slumped over",
+    "displayName": "Skeletal Remains, Slumped Over",
+    "values": {
+      "commonRange": "11,000 - 19,513",
+      "averagePrice": 15516,
+      "minimumPrice": 10544,
+      "maximumPrice": 20000,
+      "averageStackPrice": 15516,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

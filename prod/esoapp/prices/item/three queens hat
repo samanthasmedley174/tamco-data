@@ -1,0 +1,18 @@
+[
+  {
+    "name": "three queens hat",
+    "displayName": "Three Queens Hat",
+    "values": {
+      "commonRange": "153 - 1,711",
+      "averagePrice": 740,
+      "minimumPrice": 150,
+      "maximumPrice": 2711,
+      "averageStackPrice": 740,
+      "commonStackSize": 1,
+      "salesRecorded": 76
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

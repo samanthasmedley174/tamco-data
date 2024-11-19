@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the fire",
+    "displayName": "Ring of the Fire",
+    "values": {
+      "commonRange": "150 - 5,500",
+      "averagePrice": 3393,
+      "minimumPrice": 120,
+      "maximumPrice": 33156,
+      "averageStackPrice": 3393,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

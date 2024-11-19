@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of the hatchlings shell",
+    "displayName": "Shield of the Hatchling's Shell",
+    "values": {
+      "commonRange": "250 - 1,144",
+      "averagePrice": 1010,
+      "minimumPrice": 200,
+      "maximumPrice": 3995,
+      "averageStackPrice": 1010,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

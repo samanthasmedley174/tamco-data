@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree autumn conical cypress",
+    "displayName": "Tree, Autumn Conical Cypress",
+    "values": {
+      "commonRange": "2,900 - 3,750",
+      "averagePrice": 3429,
+      "minimumPrice": 2000,
+      "maximumPrice": 4385,
+      "averageStackPrice": 3429,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

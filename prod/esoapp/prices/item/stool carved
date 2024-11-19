@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stool carved",
+    "displayName": "Stool, Carved",
+    "values": {
+      "commonRange": "100 - 200",
+      "averagePrice": 160,
+      "minimumPrice": 100,
+      "maximumPrice": 200,
+      "averageStackPrice": 160,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/03/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witchmans maul",
+    "displayName": "Witchman's Maul",
+    "values": {
+      "commonRange": "190 - 234",
+      "averagePrice": 212,
+      "minimumPrice": 190,
+      "maximumPrice": 234,
+      "averageStackPrice": 212,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

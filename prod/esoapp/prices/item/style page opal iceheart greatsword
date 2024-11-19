@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal iceheart greatsword",
+    "displayName": "Style Page: Opal Iceheart Greatsword",
+    "values": {
+      "commonRange": "1,988 - 7,000",
+      "averagePrice": 3469,
+      "minimumPrice": 1000,
+      "maximumPrice": 7500,
+      "averageStackPrice": 3469,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard dome mosaic",
+    "displayName": "Redguard Dome, Mosaic",
+    "values": {
+      "commonRange": "100,000 - 178,305",
+      "averagePrice": 140270,
+      "minimumPrice": 80000,
+      "maximumPrice": 220000,
+      "averageStackPrice": 140270,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

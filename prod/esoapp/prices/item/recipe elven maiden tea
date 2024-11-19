@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe elven maiden tea",
+    "displayName": "Recipe: Elven Maiden Tea",
+    "values": {
+      "commonRange": "30 - 2,000",
+      "averagePrice": 891,
+      "minimumPrice": 30,
+      "maximumPrice": 2079,
+      "averageStackPrice": 891,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

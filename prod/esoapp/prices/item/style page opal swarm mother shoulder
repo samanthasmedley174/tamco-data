@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal swarm mother shoulder",
+    "displayName": "Style Page: Opal Swarm Mother Shoulder",
+    "values": {
+      "commonRange": "50,000 - 100,420",
+      "averagePrice": 81682,
+      "minimumPrice": 50000,
+      "maximumPrice": 103427,
+      "averageStackPrice": 81682,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the valiant",
+    "displayName": "Ring of the Valiant",
+    "values": {
+      "commonRange": "544 - 3,647",
+      "averagePrice": 3647,
+      "minimumPrice": 544,
+      "maximumPrice": 10000,
+      "averageStackPrice": 3647,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

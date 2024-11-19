@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe herbflower tea",
+    "displayName": "Recipe: Herbflower Tea",
+    "values": {
+      "commonRange": "30 - 366",
+      "averagePrice": 252,
+      "minimumPrice": 30,
+      "maximumPrice": 975,
+      "averageStackPrice": 252,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

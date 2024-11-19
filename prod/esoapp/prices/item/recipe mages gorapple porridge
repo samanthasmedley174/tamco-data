@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe mages gorapple porridge",
+    "displayName": "Recipe: Mage's Gorapple Porridge",
+    "values": {
+      "commonRange": "127 - 2,227",
+      "averagePrice": 1295,
+      "minimumPrice": 27,
+      "maximumPrice": 4999,
+      "averageStackPrice": 1295,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

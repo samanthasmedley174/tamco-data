@@ -1,0 +1,18 @@
+[
+  {
+    "name": "war maidens ring",
+    "displayName": "War Maiden's Ring",
+    "values": {
+      "commonRange": "150 - 25,000",
+      "averagePrice": 7924,
+      "minimumPrice": 144,
+      "maximumPrice": 50000,
+      "averageStackPrice": 7924,
+      "commonStackSize": 1,
+      "salesRecorded": 47
+    },
+    "type": "Set Items",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

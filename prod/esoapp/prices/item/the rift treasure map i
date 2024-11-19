@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the rift treasure map i",
+    "displayName": "The Rift Treasure Map I",
+    "values": {
+      "commonRange": "100 - 200",
+      "averagePrice": 119,
+      "minimumPrice": 100,
+      "maximumPrice": 200,
+      "averageStackPrice": 119,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

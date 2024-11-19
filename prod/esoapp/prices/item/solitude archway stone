@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude archway stone",
+    "displayName": "Solitude Archway, Stone",
+    "values": {
+      "commonRange": "1,111 - 4,000",
+      "averagePrice": 2690,
+      "minimumPrice": 550,
+      "maximumPrice": 5726,
+      "averageStackPrice": 2690,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

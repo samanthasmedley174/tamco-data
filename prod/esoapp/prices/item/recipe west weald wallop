@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe west weald wallop",
+    "displayName": "Recipe: West Weald Wallop",
+    "values": {
+      "commonRange": "500 - 1,100",
+      "averagePrice": 859,
+      "minimumPrice": 200,
+      "maximumPrice": 1187,
+      "averageStackPrice": 859,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

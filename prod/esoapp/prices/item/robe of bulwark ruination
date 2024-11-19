@@ -1,0 +1,18 @@
+[
+  {
+    "name": "robe of bulwark ruination",
+    "displayName": "Robe of Bulwark Ruination",
+    "values": {
+      "commonRange": "480 - 4,183",
+      "averagePrice": 1520,
+      "minimumPrice": 183,
+      "maximumPrice": 5981,
+      "averageStackPrice": 1520,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stuhns sabatons",
+    "displayName": "Stuhn's Sabatons",
+    "values": {
+      "commonRange": "79,990 - 80,000",
+      "averagePrice": 79995,
+      "minimumPrice": 79990,
+      "maximumPrice": 80000,
+      "averageStackPrice": 79995,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

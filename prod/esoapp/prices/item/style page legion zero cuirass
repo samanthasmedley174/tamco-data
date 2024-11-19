@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page legion zero cuirass",
+    "displayName": "Style Page: Legion Zero Cuirass",
+    "values": {
+      "commonRange": "500,000 - 610,799",
+      "averagePrice": 561958,
+      "minimumPrice": 500000,
+      "maximumPrice": 690000,
+      "averageStackPrice": 561958,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "04/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

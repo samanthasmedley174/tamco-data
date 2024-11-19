@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe thrassian chai",
+    "displayName": "Recipe: Thrassian Chai",
+    "values": {
+      "commonRange": "100 - 315",
+      "averagePrice": 229,
+      "minimumPrice": 27,
+      "maximumPrice": 350,
+      "averageStackPrice": 229,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

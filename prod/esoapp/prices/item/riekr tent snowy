@@ -1,0 +1,18 @@
+[
+  {
+    "name": "riekr tent snowy",
+    "displayName": "Riekr Tent, Snowy",
+    "values": {
+      "commonRange": "2,764 - 7,500",
+      "averagePrice": 4794,
+      "minimumPrice": 2651,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4794,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "skingrad girdle",
+    "displayName": "Skingrad Girdle",
+    "values": {
+      "commonRange": "995 - 995",
+      "averagePrice": 995,
+      "minimumPrice": 995,
+      "maximumPrice": 995,
+      "averageStackPrice": 995,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

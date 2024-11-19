@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shell splitter ice staff",
+    "displayName": "Shell Splitter Ice Staff",
+    "values": {
+      "commonRange": "1,563 - 5,995",
+      "averagePrice": 3648,
+      "minimumPrice": 440,
+      "maximumPrice": 9234,
+      "averageStackPrice": 3648,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

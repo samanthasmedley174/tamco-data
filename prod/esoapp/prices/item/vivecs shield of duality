@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vivecs shield of duality",
+    "displayName": "Vivec's Shield of Duality",
+    "values": {
+      "commonRange": "245 - 1,434",
+      "averagePrice": 794,
+      "minimumPrice": 153,
+      "maximumPrice": 2500,
+      "averageStackPrice": 794,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

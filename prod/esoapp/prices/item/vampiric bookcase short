@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric bookcase short",
+    "displayName": "Vampiric Bookcase, Short",
+    "values": {
+      "commonRange": "150 - 7,500",
+      "averagePrice": 4987,
+      "minimumPrice": 150,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4987,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

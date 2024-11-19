@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe banana surprise",
+    "displayName": "Recipe: Banana Surprise",
+    "values": {
+      "commonRange": "57 - 287",
+      "averagePrice": 178,
+      "minimumPrice": 27,
+      "maximumPrice": 300,
+      "averageStackPrice": 178,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

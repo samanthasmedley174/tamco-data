@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard bed full arched",
+    "displayName": "Redguard Bed, Full Arched",
+    "values": {
+      "commonRange": "3,000 - 6,556",
+      "averagePrice": 5558,
+      "minimumPrice": 3000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5558,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "titanium",
+    "displayName": "Titanium",
+    "values": {
+      "commonRange": "1,633 - 3,000",
+      "averagePrice": 2681,
+      "minimumPrice": 420,
+      "maximumPrice": 15000,
+      "averageStackPrice": 26810,
+      "commonStackSize": 10,
+      "salesRecorded": 49
+    },
+    "type": "Trait Stones",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Titanium.png"
+  }
+]

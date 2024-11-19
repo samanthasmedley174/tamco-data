@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard wine rack sturdy",
+    "displayName": "Redguard Wine Rack, Sturdy",
+    "values": {
+      "commonRange": "1,250 - 11,350",
+      "averagePrice": 5025,
+      "minimumPrice": 1000,
+      "maximumPrice": 11350,
+      "averageStackPrice": 5025,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witch knights restoration staff",
+    "displayName": "Witch-Knight's Restoration Staff",
+    "values": {
+      "commonRange": "334 - 5,000",
+      "averagePrice": 2593,
+      "minimumPrice": 300,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2593,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

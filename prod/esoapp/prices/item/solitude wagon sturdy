@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude wagon sturdy",
+    "displayName": "Solitude Wagon, Sturdy",
+    "values": {
+      "commonRange": "2,500 - 7,100",
+      "averagePrice": 6559,
+      "minimumPrice": 1300,
+      "maximumPrice": 30000,
+      "averageStackPrice": 6559,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

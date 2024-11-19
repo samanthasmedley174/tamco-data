@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe tawny port",
+    "displayName": "Recipe: Tawny Port",
+    "values": {
+      "commonRange": "27 - 147",
+      "averagePrice": 105,
+      "minimumPrice": 27,
+      "maximumPrice": 157,
+      "averageStackPrice": 105,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

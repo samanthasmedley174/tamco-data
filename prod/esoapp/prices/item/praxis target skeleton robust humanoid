@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis target skeleton robust humanoid",
+    "displayName": "Praxis: Target Skeleton, Robust Humanoid",
+    "values": {
+      "commonRange": "100,000 - 120,000",
+      "averagePrice": 109609,
+      "minimumPrice": 98000,
+      "maximumPrice": 140000,
+      "averageStackPrice": 109609,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

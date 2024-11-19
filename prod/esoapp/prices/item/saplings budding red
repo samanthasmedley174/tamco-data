@@ -1,0 +1,18 @@
+[
+  {
+    "name": "saplings budding red",
+    "displayName": "Saplings, Budding Red",
+    "values": {
+      "commonRange": "200 - 1,015",
+      "averagePrice": 618,
+      "minimumPrice": 48,
+      "maximumPrice": 1365,
+      "averageStackPrice": 618,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

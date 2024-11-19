@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page glenmoril wyrd bow",
+    "displayName": "Style Page: Glenmoril Wyrd Bow",
+    "values": {
+      "commonRange": "400 - 2,000",
+      "averagePrice": 885,
+      "minimumPrice": 200,
+      "maximumPrice": 3000,
+      "averageStackPrice": 885,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

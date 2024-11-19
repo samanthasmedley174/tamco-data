@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe telvanni tea",
+    "displayName": "Recipe: Telvanni Tea",
+    "values": {
+      "commonRange": "230 - 2,761",
+      "averagePrice": 1407,
+      "minimumPrice": 30,
+      "maximumPrice": 3300,
+      "averageStackPrice": 1407,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

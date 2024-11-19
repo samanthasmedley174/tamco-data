@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanuss shield",
+    "displayName": "Vanus's Shield",
+    "values": {
+      "commonRange": "144 - 2,150",
+      "averagePrice": 840,
+      "minimumPrice": 90,
+      "maximumPrice": 3999,
+      "averageStackPrice": 840,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

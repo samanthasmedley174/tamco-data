@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough firewood stack",
+    "displayName": "Rough Firewood, Stack",
+    "values": {
+      "commonRange": "48 - 750",
+      "averagePrice": 365,
+      "minimumPrice": 15,
+      "maximumPrice": 1000,
+      "averageStackPrice": 365,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/12/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page zenithar battlesmith jack",
+    "displayName": "Style Page: Zenithar Battlesmith Jack",
+    "values": {
+      "commonRange": "1,000 - 4,000",
+      "averagePrice": 2051,
+      "minimumPrice": 500,
+      "maximumPrice": 6000,
+      "averageStackPrice": 2051,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

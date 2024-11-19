@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pumpkin puree",
+    "displayName": "Pumpkin Puree",
+    "values": {
+      "commonRange": "2 - 3",
+      "averagePrice": 3,
+      "minimumPrice": 2,
+      "maximumPrice": 3,
+      "averageStackPrice": 300,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "08/06/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/pumpkin_puree.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page old orsinium dagger",
+    "displayName": "Style Page: Old Orsinium Dagger",
+    "values": {
+      "commonRange": "20,000 - 35,000",
+      "averagePrice": 31111,
+      "minimumPrice": 20000,
+      "maximumPrice": 36246,
+      "averageStackPrice": 31111,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

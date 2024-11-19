@@ -1,0 +1,18 @@
+[
+  {
+    "name": "robe of meritorious service",
+    "displayName": "Robe of Meritorious Service",
+    "values": {
+      "commonRange": "20,000 - 30,000",
+      "averagePrice": 25000,
+      "minimumPrice": 20000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 25000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

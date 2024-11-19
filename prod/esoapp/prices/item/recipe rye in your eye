@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe rye in your eye",
+    "displayName": "Recipe: Rye-In-Your-Eye",
+    "values": {
+      "commonRange": "79 - 1,000",
+      "averagePrice": 462,
+      "minimumPrice": 57,
+      "maximumPrice": 2000,
+      "averageStackPrice": 462,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "thunderbugs ring",
+    "displayName": "Thunderbug's Ring",
+    "values": {
+      "commonRange": "140 - 1,290",
+      "averagePrice": 799,
+      "minimumPrice": 140,
+      "maximumPrice": 3153,
+      "averageStackPrice": 799,
+      "commonStackSize": 1,
+      "salesRecorded": 35
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

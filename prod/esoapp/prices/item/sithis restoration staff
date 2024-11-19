@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sithis restoration staff",
+    "displayName": "Sithis' Restoration Staff",
+    "values": {
+      "commonRange": "220 - 1,234",
+      "averagePrice": 612,
+      "minimumPrice": 210,
+      "maximumPrice": 1240,
+      "averageStackPrice": 612,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

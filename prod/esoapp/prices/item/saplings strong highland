@@ -1,0 +1,18 @@
+[
+  {
+    "name": "saplings strong highland",
+    "displayName": "Saplings, Strong Highland",
+    "values": {
+      "commonRange": "100 - 600",
+      "averagePrice": 252,
+      "minimumPrice": 15,
+      "maximumPrice": 690,
+      "averageStackPrice": 252,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/13/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senches greatsword",
+    "displayName": "Senche's Greatsword",
+    "values": {
+      "commonRange": "613 - 1,150",
+      "averagePrice": 1022,
+      "minimumPrice": 300,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1022,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

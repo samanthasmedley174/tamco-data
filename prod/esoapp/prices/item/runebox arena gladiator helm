@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox arena gladiator helm",
+    "displayName": "Runebox: Arena Gladiator Helm",
+    "values": {
+      "commonRange": "400,000 - 4,000,000",
+      "averagePrice": 1306174,
+      "minimumPrice": 200000,
+      "maximumPrice": 5807455,
+      "averageStackPrice": 1306174,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Runeboxes",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vivecs hat of duality",
+    "displayName": "Vivec's Hat of Duality",
+    "values": {
+      "commonRange": "144 - 1,100",
+      "averagePrice": 519,
+      "minimumPrice": 50,
+      "maximumPrice": 1200,
+      "averageStackPrice": 519,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

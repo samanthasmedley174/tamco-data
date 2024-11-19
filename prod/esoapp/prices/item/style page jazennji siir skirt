@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page jazennji siir skirt",
+    "displayName": "Style Page: Ja'zennji Siir Skirt",
+    "values": {
+      "commonRange": "10,000 - 80,000",
+      "averagePrice": 48607,
+      "minimumPrice": 4000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 48607,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

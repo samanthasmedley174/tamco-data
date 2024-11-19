@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shattered fate dagger",
+    "displayName": "Shattered Fate Dagger",
+    "values": {
+      "commonRange": "4,000 - 4,000",
+      "averagePrice": 11000,
+      "minimumPrice": 4000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 11000,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

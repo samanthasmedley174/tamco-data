@@ -1,0 +1,18 @@
+[
+  {
+    "name": "warrior poets gauntlets",
+    "displayName": "Warrior-Poet's Gauntlets",
+    "values": {
+      "commonRange": "159 - 5,000",
+      "averagePrice": 2326,
+      "minimumPrice": 25,
+      "maximumPrice": 39993,
+      "averageStackPrice": 2326,
+      "commonStackSize": 1,
+      "salesRecorded": 86
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

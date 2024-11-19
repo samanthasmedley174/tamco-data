@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude game blood on the snow",
+    "displayName": "Solitude Game, Blood-On-The-Snow",
+    "values": {
+      "commonRange": "17,191 - 20,000",
+      "averagePrice": 18928,
+      "minimumPrice": 15675,
+      "maximumPrice": 20000,
+      "averageStackPrice": 18928,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "velothi shroud prowess",
+    "displayName": "Velothi Shroud, Prowess",
+    "values": {
+      "commonRange": "15,000 - 110,000",
+      "averagePrice": 68055,
+      "minimumPrice": 10000,
+      "maximumPrice": 250000,
+      "averageStackPrice": 68055,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/05/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

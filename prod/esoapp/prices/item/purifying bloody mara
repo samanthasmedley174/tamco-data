@@ -1,0 +1,18 @@
+[
+  {
+    "name": "purifying bloody mara",
+    "displayName": "Purifying Bloody Mara",
+    "values": {
+      "commonRange": "161 - 300",
+      "averagePrice": 215,
+      "minimumPrice": 120,
+      "maximumPrice": 496,
+      "averageStackPrice": 21500,
+      "commonStackSize": 100,
+      "salesRecorded": 21
+    },
+    "type": "Food & Drinks",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/purifying_bloody_mara.png"
+  }
+]

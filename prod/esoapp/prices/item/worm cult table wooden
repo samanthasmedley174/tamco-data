@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult table wooden",
+    "displayName": "Worm Cult Table, Wooden",
+    "values": {
+      "commonRange": "12,000 - 12,000",
+      "averagePrice": 12000,
+      "minimumPrice": 12000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 12000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Furnishings",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

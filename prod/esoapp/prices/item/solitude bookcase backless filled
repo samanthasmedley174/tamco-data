@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude bookcase backless filled",
+    "displayName": "Solitude Bookcase, Backless Filled",
+    "values": {
+      "commonRange": "8,000 - 8,000",
+      "averagePrice": 8358,
+      "minimumPrice": 7000,
+      "maximumPrice": 13300,
+      "averageStackPrice": 8358,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

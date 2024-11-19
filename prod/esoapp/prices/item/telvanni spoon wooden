@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni spoon wooden",
+    "displayName": "Telvanni Spoon, Wooden",
+    "values": {
+      "commonRange": "2,000 - 3,152",
+      "averagePrice": 2586,
+      "minimumPrice": 1771,
+      "maximumPrice": 3237,
+      "averageStackPrice": 2586,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born boots",
+    "displayName": "Tide-Born Boots",
+    "values": {
+      "commonRange": "18,000 - 51,000",
+      "averagePrice": 38048,
+      "minimumPrice": 4000,
+      "maximumPrice": 74093,
+      "averageStackPrice": 38048,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

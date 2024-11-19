@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe colovian roast turkey",
+    "displayName": "Recipe: Colovian Roast Turkey",
+    "values": {
+      "commonRange": "1,500 - 2,399",
+      "averagePrice": 2372,
+      "minimumPrice": 230,
+      "maximumPrice": 8800,
+      "averageStackPrice": 2372,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

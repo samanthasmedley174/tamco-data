@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe khajiiti apple spanakopita",
+    "displayName": "Recipe: Khajiiti Apple Spanakopita",
+    "values": {
+      "commonRange": "130 - 5,000",
+      "averagePrice": 1600,
+      "minimumPrice": 30,
+      "maximumPrice": 5400,
+      "averageStackPrice": 1600,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

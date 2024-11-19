@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page skaal explorer greatsword",
+    "displayName": "Style Page: Skaal Explorer Greatsword",
+    "values": {
+      "commonRange": "100 - 1,000",
+      "averagePrice": 334,
+      "minimumPrice": 16,
+      "maximumPrice": 2000,
+      "averageStackPrice": 334,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric bed single",
+    "displayName": "Vampiric Bed, Single",
+    "values": {
+      "commonRange": "3,705 - 4,629",
+      "averagePrice": 4413,
+      "minimumPrice": 3111,
+      "maximumPrice": 7000,
+      "averageStackPrice": 4413,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

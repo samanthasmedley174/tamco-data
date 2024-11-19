@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude goblet knotwork",
+    "displayName": "Solitude Goblet, Knotwork",
+    "values": {
+      "commonRange": "1,000 - 5,999",
+      "averagePrice": 4130,
+      "minimumPrice": 950,
+      "maximumPrice": 8900,
+      "averageStackPrice": 4130,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/06/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

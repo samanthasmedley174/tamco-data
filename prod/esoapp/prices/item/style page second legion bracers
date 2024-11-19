@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page second legion bracers",
+    "displayName": "Style Page: Second Legion Bracers",
+    "values": {
+      "commonRange": "75,000 - 325,000",
+      "averagePrice": 210124,
+      "minimumPrice": 75000,
+      "maximumPrice": 500000,
+      "averageStackPrice": 210124,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "08/22/2023",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

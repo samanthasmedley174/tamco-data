@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page oaken order bracers",
+    "displayName": "Style Page: Oaken Order Bracers",
+    "values": {
+      "commonRange": "2,500 - 8,000",
+      "averagePrice": 4838,
+      "minimumPrice": 1000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 4838,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

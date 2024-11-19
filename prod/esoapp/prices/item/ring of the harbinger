@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the harbinger",
+    "displayName": "Ring of the Harbinger",
+    "values": {
+      "commonRange": "5,000 - 11,000",
+      "averagePrice": 9179,
+      "minimumPrice": 3200,
+      "maximumPrice": 45000,
+      "averageStackPrice": 9179,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

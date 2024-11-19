@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of the twin sisters",
+    "displayName": "Sword of the Twin Sisters",
+    "values": {
+      "commonRange": "482 - 1,150",
+      "averagePrice": 961,
+      "minimumPrice": 300,
+      "maximumPrice": 3144,
+      "averageStackPrice": 961,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of trials",
+    "displayName": "Sword of Trials",
+    "values": {
+      "commonRange": "2,250 - 2,250",
+      "averagePrice": 2250,
+      "minimumPrice": 2250,
+      "maximumPrice": 2250,
+      "averageStackPrice": 2250,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

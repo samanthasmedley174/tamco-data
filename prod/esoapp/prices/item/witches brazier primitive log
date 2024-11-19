@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witches brazier primitive log",
+    "displayName": "Witches Brazier, Primitive Log",
+    "values": {
+      "commonRange": "500 - 2,445",
+      "averagePrice": 1195,
+      "minimumPrice": 500,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1195,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

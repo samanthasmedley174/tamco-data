@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude breakfast sausages and ham",
+    "displayName": "Solitude Breakfast, Sausages and Ham",
+    "values": {
+      "commonRange": "2,500 - 7,000",
+      "averagePrice": 4806,
+      "minimumPrice": 2000,
+      "maximumPrice": 7000,
+      "averageStackPrice": 4806,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

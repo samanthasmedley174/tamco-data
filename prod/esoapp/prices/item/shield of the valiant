@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of the valiant",
+    "displayName": "Shield of the Valiant",
+    "values": {
+      "commonRange": "3,950 - 4,150",
+      "averagePrice": 4117,
+      "minimumPrice": 3299,
+      "maximumPrice": 5000,
+      "averageStackPrice": 4117,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

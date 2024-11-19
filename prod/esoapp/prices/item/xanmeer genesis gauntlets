@@ -1,0 +1,18 @@
+[
+  {
+    "name": "xanmeer genesis gauntlets",
+    "displayName": "Xanmeer Genesis Gauntlets",
+    "values": {
+      "commonRange": "585 - 5,500",
+      "averagePrice": 3084,
+      "minimumPrice": 250,
+      "maximumPrice": 15000,
+      "averageStackPrice": 3084,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

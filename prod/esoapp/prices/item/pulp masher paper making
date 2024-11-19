@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pulp masher paper making",
+    "displayName": "Pulp Masher, Paper Making",
+    "values": {
+      "commonRange": "4,450 - 12,880",
+      "averagePrice": 7121,
+      "minimumPrice": 3000,
+      "maximumPrice": 17880,
+      "averageStackPrice": 7121,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

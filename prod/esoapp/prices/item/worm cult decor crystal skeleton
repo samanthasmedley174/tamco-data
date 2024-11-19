@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult decor crystal skeleton",
+    "displayName": "Worm Cult Decor, Crystal Skeleton",
+    "values": {
+      "commonRange": "40,000 - 40,000",
+      "averagePrice": 40833,
+      "minimumPrice": 40000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 40833,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stirk battletunic",
+    "displayName": "Stirk Battletunic",
+    "values": {
+      "commonRange": "171 - 774",
+      "averagePrice": 476,
+      "minimumPrice": 171,
+      "maximumPrice": 1000,
+      "averageStackPrice": 476,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

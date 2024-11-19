@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe khajiiti sweet stuffed duck",
+    "displayName": "Recipe: Khajiiti Sweet-Stuffed Duck",
+    "values": {
+      "commonRange": "130 - 4,000",
+      "averagePrice": 1369,
+      "minimumPrice": 130,
+      "maximumPrice": 4835,
+      "averageStackPrice": 1369,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

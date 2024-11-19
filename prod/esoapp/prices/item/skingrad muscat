@@ -1,0 +1,18 @@
+[
+  {
+    "name": "skingrad muscat",
+    "displayName": "Skingrad Muscat",
+    "values": {
+      "commonRange": "100 - 100",
+      "averagePrice": 100,
+      "minimumPrice": 100,
+      "maximumPrice": 100,
+      "averageStackPrice": 500,
+      "commonStackSize": 5,
+      "salesRecorded": 2
+    },
+    "type": "Food & Drinks",
+    "date": "01/16/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/skingrad_muscat.png"
+  }
+]

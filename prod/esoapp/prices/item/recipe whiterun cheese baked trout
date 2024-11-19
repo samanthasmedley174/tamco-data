@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe whiterun cheese baked trout",
+    "displayName": "Recipe: Whiterun Cheese-Baked Trout",
+    "values": {
+      "commonRange": "100 - 2,000",
+      "averagePrice": 1219,
+      "minimumPrice": 27,
+      "maximumPrice": 4999,
+      "averageStackPrice": 1219,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

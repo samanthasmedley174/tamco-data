@@ -1,0 +1,18 @@
+[
+  {
+    "name": "waterlogged psijic satchel",
+    "displayName": "Waterlogged Psijic Satchel",
+    "values": {
+      "commonRange": "2,000 - 7,500",
+      "averagePrice": 5118,
+      "minimumPrice": 2000,
+      "maximumPrice": 7500,
+      "averageStackPrice": 5118,
+      "commonStackSize": 1,
+      "salesRecorded": 48
+    },
+    "type": "Fishing",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Waterlogged_Psijic_Satchel.png"
+  }
+]

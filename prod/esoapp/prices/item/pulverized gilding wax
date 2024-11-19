@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pulverized gilding wax",
+    "displayName": "Pulverized Gilding Wax",
+    "values": {
+      "commonRange": "250 - 2,252",
+      "averagePrice": 1576,
+      "minimumPrice": 243,
+      "maximumPrice": 2343,
+      "averageStackPrice": 3152,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Trait Stones",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Pulverized_Gilding_Wax.png"
+  }
+]

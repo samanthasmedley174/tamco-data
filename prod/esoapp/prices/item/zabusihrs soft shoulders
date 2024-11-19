@@ -1,0 +1,18 @@
+[
+  {
+    "name": "zabusihrs soft shoulders",
+    "displayName": "Zabusihr's Soft Shoulders",
+    "values": {
+      "commonRange": "162 - 330",
+      "averagePrice": 283,
+      "minimumPrice": 141,
+      "maximumPrice": 499,
+      "averageStackPrice": 283,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

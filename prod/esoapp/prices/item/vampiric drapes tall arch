@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric drapes tall arch",
+    "displayName": "Vampiric Drapes, Tall Arch",
+    "values": {
+      "commonRange": "2,000 - 3,150",
+      "averagePrice": 2459,
+      "minimumPrice": 650,
+      "maximumPrice": 4500,
+      "averageStackPrice": 2459,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

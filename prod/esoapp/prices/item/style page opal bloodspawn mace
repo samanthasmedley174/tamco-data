@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal bloodspawn mace",
+    "displayName": "Style Page: Opal Bloodspawn Mace",
+    "values": {
+      "commonRange": "7,000 - 13,000",
+      "averagePrice": 10890,
+      "minimumPrice": 3000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10890,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

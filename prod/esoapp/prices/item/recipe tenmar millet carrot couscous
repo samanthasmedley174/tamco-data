@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe tenmar millet carrot couscous",
+    "displayName": "Recipe: Tenmar Millet-Carrot Couscous",
+    "values": {
+      "commonRange": "24 - 127",
+      "averagePrice": 53,
+      "minimumPrice": 14,
+      "maximumPrice": 220,
+      "averageStackPrice": 53,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

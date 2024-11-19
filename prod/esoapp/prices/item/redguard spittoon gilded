@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard spittoon gilded",
+    "displayName": "Redguard Spittoon, Gilded",
+    "values": {
+      "commonRange": "5,300 - 6,300",
+      "averagePrice": 5650,
+      "minimumPrice": 5300,
+      "maximumPrice": 6300,
+      "averageStackPrice": 5650,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni fork wooden",
+    "displayName": "Telvanni Fork, Wooden",
+    "values": {
+      "commonRange": "1,150 - 1,800",
+      "averagePrice": 1559,
+      "minimumPrice": 1150,
+      "maximumPrice": 1845,
+      "averageStackPrice": 1559,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

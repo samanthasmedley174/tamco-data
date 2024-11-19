@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni stool fungal",
+    "displayName": "Telvanni Stool, Fungal",
+    "values": {
+      "commonRange": "2,000 - 7,775",
+      "averagePrice": 5064,
+      "minimumPrice": 1000,
+      "maximumPrice": 7775,
+      "averageStackPrice": 10128,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

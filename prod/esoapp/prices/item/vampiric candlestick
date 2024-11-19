@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric candlestick",
+    "displayName": "Vampiric Candlestick",
+    "values": {
+      "commonRange": "1,000 - 3,676",
+      "averagePrice": 2609,
+      "minimumPrice": 816,
+      "maximumPrice": 5550,
+      "averageStackPrice": 2609,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

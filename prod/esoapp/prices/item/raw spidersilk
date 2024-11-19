@@ -1,0 +1,18 @@
+[
+  {
+    "name": "raw spidersilk",
+    "displayName": "Raw Spidersilk",
+    "values": {
+      "commonRange": "6 - 36",
+      "averagePrice": 23,
+      "minimumPrice": 6,
+      "maximumPrice": 64,
+      "averageStackPrice": 230,
+      "commonStackSize": 10,
+      "salesRecorded": 12
+    },
+    "type": "Clothing Materials",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "serpents tongue",
+    "displayName": "Serpent's Tongue",
+    "values": {
+      "commonRange": "141 - 1,000",
+      "averagePrice": 444,
+      "minimumPrice": 141,
+      "maximumPrice": 1000,
+      "averageStackPrice": 444,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

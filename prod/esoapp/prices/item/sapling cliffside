@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sapling cliffside",
+    "displayName": "Sapling, Cliffside",
+    "values": {
+      "commonRange": "500 - 520",
+      "averagePrice": 511,
+      "minimumPrice": 110,
+      "maximumPrice": 915,
+      "averageStackPrice": 511,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Furnishings",
+    "date": "07/26/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

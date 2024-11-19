@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page crowborne hunter epaulets",
+    "displayName": "Style Page: Crowborne Hunter Epaulets",
+    "values": {
+      "commonRange": "500 - 3,000",
+      "averagePrice": 1626,
+      "minimumPrice": 450,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1626,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

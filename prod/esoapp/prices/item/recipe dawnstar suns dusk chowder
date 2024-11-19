@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe dawnstar suns dusk chowder",
+    "displayName": "Recipe: Dawnstar Sun's Dusk Chowder",
+    "values": {
+      "commonRange": "300 - 2,000",
+      "averagePrice": 1134,
+      "minimumPrice": 161,
+      "maximumPrice": 3500,
+      "averageStackPrice": 1134,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

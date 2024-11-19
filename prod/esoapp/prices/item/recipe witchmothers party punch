@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe witchmothers party punch",
+    "displayName": "Recipe: Witchmother's Party Punch",
+    "values": {
+      "commonRange": "300 - 1,000",
+      "averagePrice": 707,
+      "minimumPrice": 231,
+      "maximumPrice": 2000,
+      "averageStackPrice": 707,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

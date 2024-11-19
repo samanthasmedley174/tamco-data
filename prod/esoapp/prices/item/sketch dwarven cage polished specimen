@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch dwarven cage polished specimen",
+    "displayName": "Sketch: Dwarven Cage, Polished Specimen",
+    "values": {
+      "commonRange": "2,000 - 7,217",
+      "averagePrice": 4560,
+      "minimumPrice": 500,
+      "maximumPrice": 7500,
+      "averageStackPrice": 4560,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

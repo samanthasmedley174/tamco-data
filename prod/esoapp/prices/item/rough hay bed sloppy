@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough hay bed sloppy",
+    "displayName": "Rough Hay Bed, Sloppy",
+    "values": {
+      "commonRange": "15 - 1,500",
+      "averagePrice": 522,
+      "minimumPrice": 10,
+      "maximumPrice": 1515,
+      "averageStackPrice": 522,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/04/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

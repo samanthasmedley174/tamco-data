@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page knight of the circle pauldrons",
+    "displayName": "Style Page: Knight of the Circle Pauldrons",
+    "values": {
+      "commonRange": "295,617 - 400,000",
+      "averagePrice": 374387,
+      "minimumPrice": 271743,
+      "maximumPrice": 550000,
+      "averageStackPrice": 374387,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

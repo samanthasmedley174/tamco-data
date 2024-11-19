@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rivenspire treasure map ii",
+    "displayName": "Rivenspire Treasure Map II",
+    "values": {
+      "commonRange": "100 - 300",
+      "averagePrice": 199,
+      "minimumPrice": 99,
+      "maximumPrice": 1000,
+      "averageStackPrice": 199,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

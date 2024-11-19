@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree rooted cedar",
+    "displayName": "Tree, Rooted Cedar",
+    "values": {
+      "commonRange": "40,000 - 44,000",
+      "averagePrice": 42000,
+      "minimumPrice": 40000,
+      "maximumPrice": 44000,
+      "averageStackPrice": 42000,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Furnishings",
+    "date": "04/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

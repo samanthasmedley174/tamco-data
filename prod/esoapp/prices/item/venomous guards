@@ -1,0 +1,18 @@
+[
+  {
+    "name": "venomous guards",
+    "displayName": "Venomous Guards",
+    "values": {
+      "commonRange": "330 - 25,000",
+      "averagePrice": 7296,
+      "minimumPrice": 180,
+      "maximumPrice": 36000,
+      "averageStackPrice": 7296,
+      "commonStackSize": 1,
+      "salesRecorded": 78
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

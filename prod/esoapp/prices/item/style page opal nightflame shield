@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal nightflame shield",
+    "displayName": "Style Page: Opal Nightflame Shield",
+    "values": {
+      "commonRange": "2,500 - 5,000",
+      "averagePrice": 4027,
+      "minimumPrice": 1000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4027,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

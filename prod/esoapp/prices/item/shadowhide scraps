@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shadowhide scraps",
+    "displayName": "Shadowhide Scraps",
+    "values": {
+      "commonRange": "6 - 48",
+      "averagePrice": 32,
+      "minimumPrice": 6,
+      "maximumPrice": 55,
+      "averageStackPrice": 6400,
+      "commonStackSize": 200,
+      "salesRecorded": 13
+    },
+    "type": "Clothing Materials",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

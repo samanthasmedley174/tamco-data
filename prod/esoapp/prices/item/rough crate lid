@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough crate lid",
+    "displayName": "Rough Crate Lid",
+    "values": {
+      "commonRange": "15 - 500",
+      "averagePrice": 173,
+      "minimumPrice": 15,
+      "maximumPrice": 500,
+      "averageStackPrice": 692,
+      "commonStackSize": 4,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/03/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

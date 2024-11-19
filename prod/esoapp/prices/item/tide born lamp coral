@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born lamp coral",
+    "displayName": "Tide-Born Lamp, Coral",
+    "values": {
+      "commonRange": "4,950 - 9,200",
+      "averagePrice": 6656,
+      "minimumPrice": 3000,
+      "maximumPrice": 9950,
+      "averageStackPrice": 6656,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "trackers lash jerkin",
+    "displayName": "Tracker's Lash Jerkin",
+    "values": {
+      "commonRange": "674 - 1,500",
+      "averagePrice": 1197,
+      "minimumPrice": 183,
+      "maximumPrice": 2274,
+      "averageStackPrice": 1197,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

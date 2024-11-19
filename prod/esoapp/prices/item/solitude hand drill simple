@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude hand drill simple",
+    "displayName": "Solitude Hand-Drill, Simple",
+    "values": {
+      "commonRange": "2,113 - 5,000",
+      "averagePrice": 4224,
+      "minimumPrice": 1000,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4224,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

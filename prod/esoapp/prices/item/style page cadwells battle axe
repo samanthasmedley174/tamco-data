@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page cadwells battle axe",
+    "displayName": "Style Page: Cadwell's Battle Axe",
+    "values": {
+      "commonRange": "20,000 - 25,522",
+      "averagePrice": 23940,
+      "minimumPrice": 18771,
+      "maximumPrice": 35974,
+      "averageStackPrice": 23940,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

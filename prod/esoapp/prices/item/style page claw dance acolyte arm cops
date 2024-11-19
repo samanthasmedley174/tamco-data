@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page claw dance acolyte arm cops",
+    "displayName": "Style Page: Claw-Dance Acolyte Arm Cops",
+    "values": {
+      "commonRange": "6,000 - 16,300",
+      "averagePrice": 12661,
+      "minimumPrice": 6000,
+      "maximumPrice": 25000,
+      "averageStackPrice": 12661,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

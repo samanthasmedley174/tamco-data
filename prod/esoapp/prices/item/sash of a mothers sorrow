@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of a mothers sorrow",
+    "displayName": "Sash of a Mother's Sorrow",
+    "values": {
+      "commonRange": "330 - 32,610",
+      "averagePrice": 9335,
+      "minimumPrice": 87,
+      "maximumPrice": 100000,
+      "averageStackPrice": 9335,
+      "commonStackSize": 1,
+      "salesRecorded": 111
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

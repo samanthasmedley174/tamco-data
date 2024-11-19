@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born robe",
+    "displayName": "Tide-Born Robe",
+    "values": {
+      "commonRange": "18,000 - 20,000",
+      "averagePrice": 22811,
+      "minimumPrice": 12000,
+      "maximumPrice": 78189,
+      "averageStackPrice": 22811,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

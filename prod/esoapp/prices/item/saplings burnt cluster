@@ -1,0 +1,18 @@
+[
+  {
+    "name": "saplings burnt cluster",
+    "displayName": "Saplings, Burnt Cluster",
+    "values": {
+      "commonRange": "60 - 336",
+      "averagePrice": 293,
+      "minimumPrice": 60,
+      "maximumPrice": 2050,
+      "averageStackPrice": 293,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal velidreth maul",
+    "displayName": "Style Page: Opal Velidreth Maul",
+    "values": {
+      "commonRange": "1,682 - 5,000",
+      "averagePrice": 2860,
+      "minimumPrice": 1082,
+      "maximumPrice": 5525,
+      "averageStackPrice": 2860,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

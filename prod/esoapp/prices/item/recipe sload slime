@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe sload slime",
+    "displayName": "Recipe: Sload Slime",
+    "values": {
+      "commonRange": "737 - 2,477",
+      "averagePrice": 1918,
+      "minimumPrice": 200,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1918,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

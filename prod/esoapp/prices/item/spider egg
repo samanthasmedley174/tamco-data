@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spider egg",
+    "displayName": "Spider Egg",
+    "values": {
+      "commonRange": "8 - 56",
+      "averagePrice": 38,
+      "minimumPrice": 6,
+      "maximumPrice": 76,
+      "averageStackPrice": 7600,
+      "commonStackSize": 200,
+      "salesRecorded": 68
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

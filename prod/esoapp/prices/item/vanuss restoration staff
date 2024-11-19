@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanuss restoration staff",
+    "displayName": "Vanus's Restoration Staff",
+    "values": {
+      "commonRange": "234 - 3,246",
+      "averagePrice": 1179,
+      "minimumPrice": 90,
+      "maximumPrice": 11185,
+      "averageStackPrice": 1179,
+      "commonStackSize": 1,
+      "salesRecorded": 78
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch resonance crystal cerulean",
+    "displayName": "Sketch: Resonance Crystal, Cerulean",
+    "values": {
+      "commonRange": "40,000 - 60,045",
+      "averagePrice": 53383,
+      "minimumPrice": 40000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 53383,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

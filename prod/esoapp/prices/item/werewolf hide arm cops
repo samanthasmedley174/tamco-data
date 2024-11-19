@@ -1,0 +1,18 @@
+[
+  {
+    "name": "werewolf hide arm cops",
+    "displayName": "Werewolf Hide Arm Cops",
+    "values": {
+      "commonRange": "450 - 3,000",
+      "averagePrice": 1076,
+      "minimumPrice": 144,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1076,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

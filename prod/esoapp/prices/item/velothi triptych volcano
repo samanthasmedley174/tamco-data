@@ -1,0 +1,18 @@
+[
+  {
+    "name": "velothi triptych volcano",
+    "displayName": "Velothi Triptych, Volcano",
+    "values": {
+      "commonRange": "1,400,000 - 2,439,430",
+      "averagePrice": 1896876,
+      "minimumPrice": 1000000,
+      "maximumPrice": 2440440,
+      "averageStackPrice": 1896876,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

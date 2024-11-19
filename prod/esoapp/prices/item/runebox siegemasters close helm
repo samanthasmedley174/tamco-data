@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox siegemasters close helm",
+    "displayName": "Runebox: Siegemaster's Close Helm",
+    "values": {
+      "commonRange": "45,001 - 170,500",
+      "averagePrice": 106403,
+      "minimumPrice": 40000,
+      "maximumPrice": 199000,
+      "averageStackPrice": 106403,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Runeboxes",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of fury",
+    "displayName": "Sabatons of Fury",
+    "values": {
+      "commonRange": "1,000 - 4,210",
+      "averagePrice": 3283,
+      "minimumPrice": 387,
+      "maximumPrice": 16090,
+      "averageStackPrice": 3283,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

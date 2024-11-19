@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ruby candlefly gathering",
+    "displayName": "Ruby Candlefly Gathering",
+    "values": {
+      "commonRange": "8,954 - 32,000",
+      "averagePrice": 22459,
+      "minimumPrice": 3000,
+      "maximumPrice": 39000,
+      "averageStackPrice": 22459,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

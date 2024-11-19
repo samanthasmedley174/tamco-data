@@ -1,0 +1,18 @@
+[
+  {
+    "name": "prisoners ice staff",
+    "displayName": "Prisoner's Ice Staff",
+    "values": {
+      "commonRange": "1,000 - 3,220",
+      "averagePrice": 2232,
+      "minimumPrice": 500,
+      "maximumPrice": 3240,
+      "averageStackPrice": 2232,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

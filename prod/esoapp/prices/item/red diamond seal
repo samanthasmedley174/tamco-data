@@ -1,0 +1,18 @@
+[
+  {
+    "name": "red diamond seal",
+    "displayName": "Red Diamond Seal",
+    "values": {
+      "commonRange": "598 - 1,133",
+      "averagePrice": 914,
+      "minimumPrice": 140,
+      "maximumPrice": 1133,
+      "averageStackPrice": 4570,
+      "commonStackSize": 5,
+      "salesRecorded": 13
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Red_Diamond_Seal.png"
+  }
+]

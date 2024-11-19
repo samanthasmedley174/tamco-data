@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page bonemold girdle",
+    "displayName": "Style Page: Bonemold Girdle",
+    "values": {
+      "commonRange": "813 - 1,283",
+      "averagePrice": 993,
+      "minimumPrice": 100,
+      "maximumPrice": 1283,
+      "averageStackPrice": 993,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

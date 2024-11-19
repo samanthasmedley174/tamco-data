@@ -1,0 +1,18 @@
+[
+  {
+    "name": "registrars legwrap",
+    "displayName": "Registrar's Legwrap",
+    "values": {
+      "commonRange": "180 - 500",
+      "averagePrice": 684,
+      "minimumPrice": 180,
+      "maximumPrice": 2180,
+      "averageStackPrice": 684,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

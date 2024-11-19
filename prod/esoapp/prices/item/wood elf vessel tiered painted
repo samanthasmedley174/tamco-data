@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf vessel tiered painted",
+    "displayName": "Wood Elf Vessel, Tiered Painted",
+    "values": {
+      "commonRange": "550 - 4,000",
+      "averagePrice": 2055,
+      "minimumPrice": 50,
+      "maximumPrice": 7000,
+      "averageStackPrice": 2055,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/25/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

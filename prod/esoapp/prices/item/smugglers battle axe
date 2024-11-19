@@ -1,0 +1,18 @@
+[
+  {
+    "name": "smugglers battle axe",
+    "displayName": "Smuggler's Battle Axe",
+    "values": {
+      "commonRange": "346 - 800",
+      "averagePrice": 604,
+      "minimumPrice": 340,
+      "maximumPrice": 1146,
+      "averageStackPrice": 604,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

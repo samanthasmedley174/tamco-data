@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude trestle ornate",
+    "displayName": "Solitude Trestle, Ornate",
+    "values": {
+      "commonRange": "2,500 - 3,500",
+      "averagePrice": 2945,
+      "minimumPrice": 1000,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2945,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/12/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

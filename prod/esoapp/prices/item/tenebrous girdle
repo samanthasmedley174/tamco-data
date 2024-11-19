@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tenebrous girdle",
+    "displayName": "Tenebrous Girdle",
+    "values": {
+      "commonRange": "2,000 - 2,000",
+      "averagePrice": 2000,
+      "minimumPrice": 2000,
+      "maximumPrice": 2000,
+      "averageStackPrice": 2000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

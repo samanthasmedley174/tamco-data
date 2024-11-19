@@ -1,0 +1,18 @@
+[
+  {
+    "name": "systres cuirass",
+    "displayName": "Systres' Cuirass",
+    "values": {
+      "commonRange": "179 - 1,000",
+      "averagePrice": 662,
+      "minimumPrice": 110,
+      "maximumPrice": 2500,
+      "averageStackPrice": 662,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

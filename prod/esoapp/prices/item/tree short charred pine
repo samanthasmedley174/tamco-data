@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree short charred pine",
+    "displayName": "Tree, Short Charred Pine",
+    "values": {
+      "commonRange": "83 - 500",
+      "averagePrice": 391,
+      "minimumPrice": 53,
+      "maximumPrice": 681,
+      "averageStackPrice": 4692,
+      "commonStackSize": 12,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/01/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

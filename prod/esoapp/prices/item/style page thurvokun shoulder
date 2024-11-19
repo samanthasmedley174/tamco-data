@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page thurvokun shoulder",
+    "displayName": "Style Page: Thurvokun Shoulder",
+    "values": {
+      "commonRange": "25,000 - 60,999",
+      "averagePrice": 51458,
+      "minimumPrice": 25000,
+      "maximumPrice": 150000,
+      "averageStackPrice": 51458,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page arkay unending cycle sabatons",
+    "displayName": "Style Page: Arkay Unending Cycle Sabatons",
+    "values": {
+      "commonRange": "100 - 905",
+      "averagePrice": 412,
+      "minimumPrice": 20,
+      "maximumPrice": 1000,
+      "averageStackPrice": 412,
+      "commonStackSize": 1,
+      "salesRecorded": 49
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

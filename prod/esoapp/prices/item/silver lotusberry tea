@@ -1,0 +1,18 @@
+[
+  {
+    "name": "silver lotusberry tea",
+    "displayName": "Silver Lotusberry Tea",
+    "values": {
+      "commonRange": "9 - 9",
+      "averagePrice": 8,
+      "minimumPrice": 3,
+      "maximumPrice": 9,
+      "averageStackPrice": 8,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Food & Drinks",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/silver_lotusberry_tea.png"
+  }
+]

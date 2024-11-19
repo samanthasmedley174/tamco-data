@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe berveza vitae",
+    "displayName": "Recipe: Berveza Vitae",
+    "values": {
+      "commonRange": "1,999 - 30,000",
+      "averagePrice": 14429,
+      "minimumPrice": 39,
+      "maximumPrice": 33000,
+      "averageStackPrice": 14429,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

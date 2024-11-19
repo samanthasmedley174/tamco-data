@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric bookcase tall filled",
+    "displayName": "Vampiric Bookcase, Tall Filled",
+    "values": {
+      "commonRange": "11,931 - 12,000",
+      "averagePrice": 11983,
+      "minimumPrice": 11931,
+      "maximumPrice": 12000,
+      "averageStackPrice": 11983,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

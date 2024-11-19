@@ -1,0 +1,18 @@
+[
+  {
+    "name": "strifeswarm legplates of the shalk",
+    "displayName": "Strifeswarm Legplates of the Shalk",
+    "values": {
+      "commonRange": "280 - 1,000",
+      "averagePrice": 632,
+      "minimumPrice": 280,
+      "maximumPrice": 1108,
+      "averageStackPrice": 632,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

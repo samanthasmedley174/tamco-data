@@ -1,0 +1,18 @@
+[
+  {
+    "name": "velothi triptych waterfall",
+    "displayName": "Velothi Triptych, Waterfall",
+    "values": {
+      "commonRange": "1,800,000 - 2,910,393",
+      "averagePrice": 2201084,
+      "minimumPrice": 1800000,
+      "maximumPrice": 3000000,
+      "averageStackPrice": 2201084,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

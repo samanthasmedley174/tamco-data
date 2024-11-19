@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox ebonheart pact banner emote",
+    "displayName": "Runebox: Ebonheart Pact Banner Emote",
+    "values": {
+      "commonRange": "20,000 - 200,000",
+      "averagePrice": 127050,
+      "minimumPrice": 5000,
+      "maximumPrice": 220000,
+      "averageStackPrice": 127050,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Runeboxes",
+    "date": "03/12/2024",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf cauldron ceramic",
+    "displayName": "Wood Elf Cauldron, Ceramic",
+    "values": {
+      "commonRange": "400 - 2,000",
+      "averagePrice": 1232,
+      "minimumPrice": 400,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1232,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/13/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

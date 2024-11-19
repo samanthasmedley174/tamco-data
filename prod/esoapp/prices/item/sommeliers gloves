@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sommeliers gloves",
+    "displayName": "Sommelier's Gloves",
+    "values": {
+      "commonRange": "200 - 284",
+      "averagePrice": 244,
+      "minimumPrice": 184,
+      "maximumPrice": 330,
+      "averageStackPrice": 244,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

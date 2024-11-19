@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric desk polished",
+    "displayName": "Vampiric Desk, Polished",
+    "values": {
+      "commonRange": "12,000 - 12,107",
+      "averagePrice": 12139,
+      "minimumPrice": 12000,
+      "maximumPrice": 13172,
+      "averageStackPrice": 12139,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

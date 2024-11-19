@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe suns height pudding",
+    "displayName": "Recipe: Sun's Height Pudding",
+    "values": {
+      "commonRange": "430 - 2,660",
+      "averagePrice": 1290,
+      "minimumPrice": 135,
+      "maximumPrice": 2777,
+      "averageStackPrice": 1290,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

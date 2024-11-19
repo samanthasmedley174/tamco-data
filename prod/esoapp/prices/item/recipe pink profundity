@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe pink profundity",
+    "displayName": "Recipe: Pink Profundity",
+    "values": {
+      "commonRange": "250 - 1,000",
+      "averagePrice": 832,
+      "minimumPrice": 107,
+      "maximumPrice": 4000,
+      "averageStackPrice": 832,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

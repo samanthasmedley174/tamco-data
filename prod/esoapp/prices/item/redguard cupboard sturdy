@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard cupboard sturdy",
+    "displayName": "Redguard Cupboard, Sturdy",
+    "values": {
+      "commonRange": "8,000 - 9,000",
+      "averagePrice": 8330,
+      "minimumPrice": 5300,
+      "maximumPrice": 9000,
+      "averageStackPrice": 8330,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

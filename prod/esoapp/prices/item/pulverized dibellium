@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pulverized dibellium",
+    "displayName": "Pulverized Dibellium",
+    "values": {
+      "commonRange": "214 - 956",
+      "averagePrice": 406,
+      "minimumPrice": 20,
+      "maximumPrice": 1000,
+      "averageStackPrice": 406,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Trait Stones",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Pulverized_Dibellium.png"
+  }
+]

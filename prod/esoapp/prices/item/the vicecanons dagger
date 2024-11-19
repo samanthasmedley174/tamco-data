@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the vicecanons dagger",
+    "displayName": "The Vicecanon's Dagger",
+    "values": {
+      "commonRange": "22,000 - 22,000",
+      "averagePrice": 22000,
+      "minimumPrice": 22000,
+      "maximumPrice": 22000,
+      "averageStackPrice": 22000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shell splitter shield",
+    "displayName": "Shell Splitter Shield",
+    "values": {
+      "commonRange": "230 - 750",
+      "averagePrice": 476,
+      "minimumPrice": 230,
+      "maximumPrice": 1000,
+      "averageStackPrice": 476,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

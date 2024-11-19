@@ -1,0 +1,18 @@
+[
+  {
+    "name": "undertakers restoration staff",
+    "displayName": "Undertaker's Restoration Staff",
+    "values": {
+      "commonRange": "500 - 4,500",
+      "averagePrice": 3226,
+      "minimumPrice": 240,
+      "maximumPrice": 14246,
+      "averageStackPrice": 3226,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

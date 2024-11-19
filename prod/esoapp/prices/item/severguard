@@ -1,0 +1,18 @@
+[
+  {
+    "name": "severguard",
+    "displayName": "Severguard",
+    "values": {
+      "commonRange": "330 - 941",
+      "averagePrice": 582,
+      "minimumPrice": 141,
+      "maximumPrice": 1141,
+      "averageStackPrice": 582,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page nibenese court wizard hood",
+    "displayName": "Style Page: Nibenese Court Wizard Hood",
+    "values": {
+      "commonRange": "2,000 - 3,991",
+      "averagePrice": 3252,
+      "minimumPrice": 1678,
+      "maximumPrice": 4400,
+      "averageStackPrice": 3252,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

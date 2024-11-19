@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page jesters seeker suit epaulets",
+    "displayName": "Style Page: Jester's Seeker Suit Epaulets",
+    "values": {
+      "commonRange": "5,000 - 17,787",
+      "averagePrice": 14228,
+      "minimumPrice": 250,
+      "maximumPrice": 60000,
+      "averageStackPrice": 14228,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

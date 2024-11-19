@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox clockwork reliquary",
+    "displayName": "Runebox: Clockwork Reliquary",
+    "values": {
+      "commonRange": "1,000,000 - 1,333,733",
+      "averagePrice": 1265273,
+      "minimumPrice": 999999,
+      "maximumPrice": 1800000,
+      "averageStackPrice": 1265273,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Runeboxes",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

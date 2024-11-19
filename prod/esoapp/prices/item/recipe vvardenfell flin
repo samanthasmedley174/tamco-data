@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe vvardenfell flin",
+    "displayName": "Recipe: Vvardenfell Flin",
+    "values": {
+      "commonRange": "230 - 1,800",
+      "averagePrice": 1062,
+      "minimumPrice": 130,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1062,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

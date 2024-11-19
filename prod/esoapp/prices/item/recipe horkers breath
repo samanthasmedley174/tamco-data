@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe horkers breath",
+    "displayName": "Recipe: Horker's Breath",
+    "values": {
+      "commonRange": "1,450 - 2,924",
+      "averagePrice": 2340,
+      "minimumPrice": 700,
+      "maximumPrice": 6000,
+      "averageStackPrice": 2340,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

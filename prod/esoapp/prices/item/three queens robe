@@ -1,0 +1,18 @@
+[
+  {
+    "name": "three queens robe",
+    "displayName": "Three Queens Robe",
+    "values": {
+      "commonRange": "183 - 2,750",
+      "averagePrice": 1051,
+      "minimumPrice": 110,
+      "maximumPrice": 4048,
+      "averageStackPrice": 1051,
+      "commonStackSize": 1,
+      "salesRecorded": 51
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

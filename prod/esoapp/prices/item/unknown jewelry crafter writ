@@ -1,0 +1,18 @@
+[
+  {
+    "name": "unknown jewelry crafter writ",
+    "displayName": "Unknown Jewelry Crafter Writ",
+    "values": {
+      "commonRange": "5,000 - 39,000",
+      "averagePrice": 21770,
+      "minimumPrice": 2400,
+      "maximumPrice": 40000,
+      "averageStackPrice": 21770,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Miscellaneous",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

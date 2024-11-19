@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe markarth short pig",
+    "displayName": "Recipe: Markarth Short Pig",
+    "values": {
+      "commonRange": "1,039 - 2,000",
+      "averagePrice": 1718,
+      "minimumPrice": 300,
+      "maximumPrice": 5039,
+      "averageStackPrice": 1718,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

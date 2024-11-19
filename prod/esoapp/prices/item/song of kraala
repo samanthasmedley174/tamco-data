@@ -1,0 +1,18 @@
+[
+  {
+    "name": "song of kraala",
+    "displayName": "Song of Kraala",
+    "values": {
+      "commonRange": "600 - 1,228",
+      "averagePrice": 809,
+      "minimumPrice": 240,
+      "maximumPrice": 1228,
+      "averageStackPrice": 809,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

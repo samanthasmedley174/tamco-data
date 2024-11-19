@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of oakfathers retribution",
+    "displayName": "Restoration Staff of Oakfather's Retribution",
+    "values": {
+      "commonRange": "300 - 11,700",
+      "averagePrice": 8100,
+      "minimumPrice": 246,
+      "maximumPrice": 30246,
+      "averageStackPrice": 8100,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

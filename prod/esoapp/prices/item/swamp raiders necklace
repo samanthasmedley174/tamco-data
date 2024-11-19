@@ -1,0 +1,18 @@
+[
+  {
+    "name": "swamp raiders necklace",
+    "displayName": "Swamp Raider's Necklace",
+    "values": {
+      "commonRange": "300 - 17,719",
+      "averagePrice": 7691,
+      "minimumPrice": 144,
+      "maximumPrice": 50000,
+      "averageStackPrice": 7691,
+      "commonStackSize": 1,
+      "salesRecorded": 39
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

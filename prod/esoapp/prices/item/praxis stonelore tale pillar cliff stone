@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis stonelore tale pillar cliff stone",
+    "displayName": "Praxis: Stonelore Tale Pillar, Cliff Stone",
+    "values": {
+      "commonRange": "7,000 - 9,000",
+      "averagePrice": 8091,
+      "minimumPrice": 7000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 8091,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spinners necklace",
+    "displayName": "Spinner's Necklace",
+    "values": {
+      "commonRange": "144 - 7,000",
+      "averagePrice": 2678,
+      "minimumPrice": 140,
+      "maximumPrice": 25000,
+      "averageStackPrice": 2678,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

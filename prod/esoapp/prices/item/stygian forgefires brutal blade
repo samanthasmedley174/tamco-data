@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stygian forgefires brutal blade",
+    "displayName": "Stygian Forgefire's Brutal Blade",
+    "values": {
+      "commonRange": "2,150 - 2,150",
+      "averagePrice": 2150,
+      "minimumPrice": 2150,
+      "maximumPrice": 2150,
+      "averageStackPrice": 2150,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

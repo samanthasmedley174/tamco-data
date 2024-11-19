@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal earthgore mask",
+    "displayName": "Style Page: Opal Earthgore Mask",
+    "values": {
+      "commonRange": "199,999 - 275,000",
+      "averagePrice": 235200,
+      "minimumPrice": 150000,
+      "maximumPrice": 300000,
+      "averageStackPrice": 235200,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

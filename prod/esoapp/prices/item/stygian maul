@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stygian maul",
+    "displayName": "Stygian Maul",
+    "values": {
+      "commonRange": "980 - 980",
+      "averagePrice": 935,
+      "minimumPrice": 846,
+      "maximumPrice": 980,
+      "averageStackPrice": 935,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

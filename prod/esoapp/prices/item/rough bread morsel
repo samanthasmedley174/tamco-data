@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough bread morsel",
+    "displayName": "Rough Bread, Morsel",
+    "values": {
+      "commonRange": "45 - 215",
+      "averagePrice": 123,
+      "minimumPrice": 20,
+      "maximumPrice": 249,
+      "averageStackPrice": 123,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born chair wicker",
+    "displayName": "Tide-Born Chair, Wicker",
+    "values": {
+      "commonRange": "1,750 - 8,960",
+      "averagePrice": 4819,
+      "minimumPrice": 1260,
+      "maximumPrice": 8985,
+      "averageStackPrice": 19276,
+      "commonStackSize": 4,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

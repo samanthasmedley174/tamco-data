@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood carving cat",
+    "displayName": "Wood Carving, Cat",
+    "values": {
+      "commonRange": "5,500 - 18,140",
+      "averagePrice": 14511,
+      "minimumPrice": 1500,
+      "maximumPrice": 37990,
+      "averageStackPrice": 14511,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

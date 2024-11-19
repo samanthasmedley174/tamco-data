@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shrub blooming sunbird",
+    "displayName": "Shrub, Blooming Sunbird",
+    "values": {
+      "commonRange": "1,000 - 1,085",
+      "averagePrice": 1023,
+      "minimumPrice": 1000,
+      "maximumPrice": 1085,
+      "averageStackPrice": 2046,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

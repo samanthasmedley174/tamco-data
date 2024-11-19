@@ -1,0 +1,18 @@
+[
+  {
+    "name": "robe of destruction mastery",
+    "displayName": "Robe of Destruction Mastery",
+    "values": {
+      "commonRange": "1,630 - 1,630",
+      "averagePrice": 1665,
+      "minimumPrice": 1400,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1665,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/23/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

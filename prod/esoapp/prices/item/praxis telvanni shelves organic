@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis telvanni shelves organic",
+    "displayName": "Praxis: Telvanni Shelves, Organic",
+    "values": {
+      "commonRange": "75,000 - 129,000",
+      "averagePrice": 103685,
+      "minimumPrice": 55555,
+      "maximumPrice": 129290,
+      "averageStackPrice": 103685,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

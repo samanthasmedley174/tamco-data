@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe tonal architect tonic",
+    "displayName": "Recipe: Tonal Architect Tonic",
+    "values": {
+      "commonRange": "30 - 450",
+      "averagePrice": 315,
+      "minimumPrice": 30,
+      "maximumPrice": 1000,
+      "averageStackPrice": 315,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

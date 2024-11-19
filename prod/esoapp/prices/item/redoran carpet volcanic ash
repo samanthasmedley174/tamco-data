@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran carpet volcanic ash",
+    "displayName": "Redoran Carpet, Volcanic Ash",
+    "values": {
+      "commonRange": "3,000 - 3,800",
+      "averagePrice": 3678,
+      "minimumPrice": 2500,
+      "maximumPrice": 3800,
+      "averageStackPrice": 3678,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witch knights mace",
+    "displayName": "Witch-Knight's Mace",
+    "values": {
+      "commonRange": "9,722 - 40,000",
+      "averagePrice": 20076,
+      "minimumPrice": 7000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 20076,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

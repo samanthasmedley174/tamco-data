@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude chandelier steel",
+    "displayName": "Solitude Chandelier, Steel",
+    "values": {
+      "commonRange": "6,956 - 13,300",
+      "averagePrice": 10290,
+      "minimumPrice": 5300,
+      "maximumPrice": 13300,
+      "averageStackPrice": 10290,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

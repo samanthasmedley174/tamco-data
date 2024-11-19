@@ -1,0 +1,18 @@
+[
+  {
+    "name": "terebinthine",
+    "displayName": "Terebinthine",
+    "values": {
+      "commonRange": "60 - 83",
+      "averagePrice": 71,
+      "minimumPrice": 11,
+      "maximumPrice": 84,
+      "averageStackPrice": 14200,
+      "commonStackSize": 200,
+      "salesRecorded": 17
+    },
+    "type": "Alchemy Materials",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

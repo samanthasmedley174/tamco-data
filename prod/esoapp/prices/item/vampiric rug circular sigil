@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric rug circular sigil",
+    "displayName": "Vampiric Rug, Circular Sigil",
+    "values": {
+      "commonRange": "6,000 - 14,790",
+      "averagePrice": 10793,
+      "minimumPrice": 3000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 10793,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

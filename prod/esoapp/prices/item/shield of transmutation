@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of transmutation",
+    "displayName": "Shield of Transmutation",
+    "values": {
+      "commonRange": "6,531 - 18,289",
+      "averagePrice": 14337,
+      "minimumPrice": 1000,
+      "maximumPrice": 65366,
+      "averageStackPrice": 14337,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page lion guard captain cuirass",
+    "displayName": "Style Page: Lion Guard Captain Cuirass",
+    "values": {
+      "commonRange": "2,000 - 4,500",
+      "averagePrice": 3775,
+      "minimumPrice": 1053,
+      "maximumPrice": 6500,
+      "averageStackPrice": 3775,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "02/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pumpkin display",
+    "displayName": "Pumpkin, Display",
+    "values": {
+      "commonRange": "312 - 2,069",
+      "averagePrice": 1232,
+      "minimumPrice": 110,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2464,
+      "commonStackSize": 2,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

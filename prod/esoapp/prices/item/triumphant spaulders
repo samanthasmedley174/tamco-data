@@ -1,0 +1,18 @@
+[
+  {
+    "name": "triumphant spaulders",
+    "displayName": "Triumphant Spaulders",
+    "values": {
+      "commonRange": "240 - 541",
+      "averagePrice": 475,
+      "minimumPrice": 141,
+      "maximumPrice": 1141,
+      "averageStackPrice": 475,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

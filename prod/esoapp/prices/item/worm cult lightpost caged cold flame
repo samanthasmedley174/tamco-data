@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult lightpost caged cold flame",
+    "displayName": "Worm Cult Lightpost, Caged Cold-Flame",
+    "values": {
+      "commonRange": "24,330 - 24,339",
+      "averagePrice": 24500,
+      "minimumPrice": 24330,
+      "maximumPrice": 25000,
+      "averageStackPrice": 24500,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

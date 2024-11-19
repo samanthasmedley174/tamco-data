@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe rabbit loin with bitter greens",
+    "displayName": "Recipe: Rabbit Loin with Bitter Greens",
+    "values": {
+      "commonRange": "200 - 392",
+      "averagePrice": 320,
+      "minimumPrice": 130,
+      "maximumPrice": 550,
+      "averageStackPrice": 320,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

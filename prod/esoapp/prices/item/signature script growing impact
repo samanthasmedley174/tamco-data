@@ -1,0 +1,18 @@
+[
+  {
+    "name": "signature script growing impact",
+    "displayName": "Signature Script: Growing Impact",
+    "values": {
+      "commonRange": "10,000 - 92,997",
+      "averagePrice": 43779,
+      "minimumPrice": 10000,
+      "maximumPrice": 300000,
+      "averageStackPrice": 43779,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Scripts",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Signature_Script:_Growing_Impact.png"
+  }
+]

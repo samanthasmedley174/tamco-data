@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of syrabane",
+    "displayName": "Sword of Syrabane",
+    "values": {
+      "commonRange": "250 - 250",
+      "averagePrice": 250,
+      "minimumPrice": 250,
+      "maximumPrice": 250,
+      "averageStackPrice": 250,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard pot hanging brushed",
+    "displayName": "Redguard Pot, Hanging Brushed",
+    "values": {
+      "commonRange": "250 - 1,074",
+      "averagePrice": 827,
+      "minimumPrice": 110,
+      "maximumPrice": 2450,
+      "averageStackPrice": 827,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

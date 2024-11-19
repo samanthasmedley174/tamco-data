@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe camlorn pork sausage",
+    "displayName": "Recipe: Camlorn Pork Sausage",
+    "values": {
+      "commonRange": "127 - 4,000",
+      "averagePrice": 1896,
+      "minimumPrice": 100,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1896,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

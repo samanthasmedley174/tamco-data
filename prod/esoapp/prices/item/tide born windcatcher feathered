@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born windcatcher feathered",
+    "displayName": "Tide-Born Windcatcher, Feathered",
+    "values": {
+      "commonRange": "4,000 - 6,400",
+      "averagePrice": 5255,
+      "minimumPrice": 3650,
+      "maximumPrice": 9950,
+      "averageStackPrice": 5255,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spiteful smiter",
+    "displayName": "Spiteful Smiter",
+    "values": {
+      "commonRange": "400 - 2,240",
+      "averagePrice": 1259,
+      "minimumPrice": 240,
+      "maximumPrice": 2240,
+      "averageStackPrice": 1259,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

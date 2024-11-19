@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vigrods cuirboilli vest",
+    "displayName": "Vigrod's Cuirboilli Vest",
+    "values": {
+      "commonRange": "777 - 777",
+      "averagePrice": 777,
+      "minimumPrice": 777,
+      "maximumPrice": 777,
+      "averageStackPrice": 777,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree giant autumn maple",
+    "displayName": "Tree, Giant Autumn Maple",
+    "values": {
+      "commonRange": "5,000 - 13,647",
+      "averagePrice": 8825,
+      "minimumPrice": 5000,
+      "maximumPrice": 13647,
+      "averageStackPrice": 8825,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

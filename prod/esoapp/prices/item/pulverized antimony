@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pulverized antimony",
+    "displayName": "Pulverized Antimony",
+    "values": {
+      "commonRange": "16 - 70",
+      "averagePrice": 49,
+      "minimumPrice": 16,
+      "maximumPrice": 100,
+      "averageStackPrice": 49,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Trait Stones",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Pulverized_Antimony.png"
+  }
+]

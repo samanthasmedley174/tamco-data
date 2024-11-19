@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of the powerful assault",
+    "displayName": "Restoration Staff of the Powerful Assault",
+    "values": {
+      "commonRange": "3,096 - 30,240",
+      "averagePrice": 13514,
+      "minimumPrice": 1240,
+      "maximumPrice": 40000,
+      "averageStackPrice": 13514,
+      "commonStackSize": 1,
+      "salesRecorded": 95
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

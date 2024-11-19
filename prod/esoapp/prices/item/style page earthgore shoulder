@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page earthgore shoulder",
+    "displayName": "Style Page: Earthgore Shoulder",
+    "values": {
+      "commonRange": "30,000 - 36,377",
+      "averagePrice": 36130,
+      "minimumPrice": 28004,
+      "maximumPrice": 55503,
+      "averageStackPrice": 36130,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/22/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

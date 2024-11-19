@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree ginkgo",
+    "displayName": "Tree, Ginkgo",
+    "values": {
+      "commonRange": "533 - 1,500",
+      "averagePrice": 1108,
+      "minimumPrice": 60,
+      "maximumPrice": 2560,
+      "averageStackPrice": 1108,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

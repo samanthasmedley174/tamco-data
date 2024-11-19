@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe arenthian brandy",
+    "displayName": "Recipe: Arenthian Brandy",
+    "values": {
+      "commonRange": "4,250 - 8,000",
+      "averagePrice": 6352,
+      "minimumPrice": 1100,
+      "maximumPrice": 12527,
+      "averageStackPrice": 6352,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

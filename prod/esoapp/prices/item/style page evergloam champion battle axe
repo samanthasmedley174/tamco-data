@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page evergloam champion battle axe",
+    "displayName": "Style Page: Evergloam Champion Battle Axe",
+    "values": {
+      "commonRange": "8,000 - 16,300",
+      "averagePrice": 12410,
+      "minimumPrice": 1200,
+      "maximumPrice": 20000,
+      "averageStackPrice": 12410,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

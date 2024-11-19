@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vulkesh stomper sabatons",
+    "displayName": "Vulk'esh Stomper Sabatons",
+    "values": {
+      "commonRange": "100 - 1,000",
+      "averagePrice": 918,
+      "minimumPrice": 89,
+      "maximumPrice": 2590,
+      "averageStackPrice": 918,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "remnant of deception",
+    "displayName": "Remnant of Deception",
+    "values": {
+      "commonRange": "3,872 - 7,950",
+      "averagePrice": 5766,
+      "minimumPrice": 3333,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5766,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Fragments",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

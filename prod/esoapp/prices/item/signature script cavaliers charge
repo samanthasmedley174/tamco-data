@@ -1,0 +1,18 @@
+[
+  {
+    "name": "signature script cavaliers charge",
+    "displayName": "Signature Script: Cavalier's Charge",
+    "values": {
+      "commonRange": "300,000 - 650,000",
+      "averagePrice": 605047,
+      "minimumPrice": 10000,
+      "maximumPrice": 2500000,
+      "averageStackPrice": 605047,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Scripts",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Signature_Script:_Cavalier's_Charge.png"
+  }
+]

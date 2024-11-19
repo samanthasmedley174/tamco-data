@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal troll king mask",
+    "displayName": "Style Page: Opal Troll King Mask",
+    "values": {
+      "commonRange": "5,000 - 60,000",
+      "averagePrice": 37595,
+      "minimumPrice": 2491,
+      "maximumPrice": 86075,
+      "averageStackPrice": 37595,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

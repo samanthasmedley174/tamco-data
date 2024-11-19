@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shattered fate ice staff",
+    "displayName": "Shattered Fate Ice Staff",
+    "values": {
+      "commonRange": "15,246 - 32,581",
+      "averagePrice": 32581,
+      "minimumPrice": 13246,
+      "maximumPrice": 69252,
+      "averageStackPrice": 32581,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

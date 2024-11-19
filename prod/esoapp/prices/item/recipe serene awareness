@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe serene awareness",
+    "displayName": "Recipe: Serene Awareness",
+    "values": {
+      "commonRange": "230 - 1,202",
+      "averagePrice": 946,
+      "minimumPrice": 230,
+      "maximumPrice": 2000,
+      "averageStackPrice": 946,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

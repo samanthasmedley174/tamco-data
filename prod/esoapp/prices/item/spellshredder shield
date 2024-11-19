@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spellshredder shield",
+    "displayName": "Spellshredder Shield",
+    "values": {
+      "commonRange": "330 - 7,000",
+      "averagePrice": 2793,
+      "minimumPrice": 150,
+      "maximumPrice": 18330,
+      "averageStackPrice": 2793,
+      "commonStackSize": 1,
+      "salesRecorded": 96
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

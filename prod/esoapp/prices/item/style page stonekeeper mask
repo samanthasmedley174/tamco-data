@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page stonekeeper mask",
+    "displayName": "Style Page: Stonekeeper Mask",
+    "values": {
+      "commonRange": "850,000 - 1,200,000",
+      "averagePrice": 1057500,
+      "minimumPrice": 750000,
+      "maximumPrice": 1300000,
+      "averageStackPrice": 1057500,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "08/20/2024",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

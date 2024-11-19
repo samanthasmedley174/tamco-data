@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of the heartland",
+    "displayName": "Sword of the Heartland",
+    "values": {
+      "commonRange": "10,150 - 13,500",
+      "averagePrice": 11739,
+      "minimumPrice": 8153,
+      "maximumPrice": 15153,
+      "averageStackPrice": 11739,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

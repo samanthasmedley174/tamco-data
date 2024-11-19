@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran table formal floral",
+    "displayName": "Redoran Table, Formal Floral",
+    "values": {
+      "commonRange": "4,000 - 9,200",
+      "averagePrice": 6090,
+      "minimumPrice": 3000,
+      "maximumPrice": 9200,
+      "averageStackPrice": 6090,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/21/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

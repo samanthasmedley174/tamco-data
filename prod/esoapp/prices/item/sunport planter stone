@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sunport planter stone",
+    "displayName": "Sunport Planter, Stone",
+    "values": {
+      "commonRange": "7,548 - 8,000",
+      "averagePrice": 7754,
+      "minimumPrice": 5500,
+      "maximumPrice": 8000,
+      "averageStackPrice": 7754,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

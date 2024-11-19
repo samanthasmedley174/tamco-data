@@ -1,0 +1,18 @@
+[
+  {
+    "name": "war maidens hat",
+    "displayName": "War Maiden's Hat",
+    "values": {
+      "commonRange": "450 - 10,000",
+      "averagePrice": 3331,
+      "minimumPrice": 296,
+      "maximumPrice": 38367,
+      "averageStackPrice": 3331,
+      "commonStackSize": 1,
+      "salesRecorded": 67
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

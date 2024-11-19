@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric lightpost amber double",
+    "displayName": "Vampiric Lightpost, Amber Double",
+    "values": {
+      "commonRange": "3,000 - 16,000",
+      "averagePrice": 8964,
+      "minimumPrice": 3000,
+      "maximumPrice": 16000,
+      "averageStackPrice": 8964,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/25/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

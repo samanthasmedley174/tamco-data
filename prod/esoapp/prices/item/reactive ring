@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reactive ring",
+    "displayName": "Reactive Ring",
+    "values": {
+      "commonRange": "4,972 - 5,690",
+      "averagePrice": 5377,
+      "minimumPrice": 4000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5377,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

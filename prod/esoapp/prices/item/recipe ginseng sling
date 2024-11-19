@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe ginseng sling",
+    "displayName": "Recipe: Ginseng Sling",
+    "values": {
+      "commonRange": "150 - 750",
+      "averagePrice": 805,
+      "minimumPrice": 27,
+      "maximumPrice": 5500,
+      "averageStackPrice": 805,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree forked blackwood elm",
+    "displayName": "Tree, Forked Blackwood Elm",
+    "values": {
+      "commonRange": "500 - 2,060",
+      "averagePrice": 1299,
+      "minimumPrice": 350,
+      "maximumPrice": 2060,
+      "averageStackPrice": 1299,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "03/05/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

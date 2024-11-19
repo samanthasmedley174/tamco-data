@@ -1,0 +1,18 @@
+[
+  {
+    "name": "queensguard greaves",
+    "displayName": "Queensguard Greaves",
+    "values": {
+      "commonRange": "457 - 457",
+      "averagePrice": 498,
+      "minimumPrice": 276,
+      "maximumPrice": 760,
+      "averageStackPrice": 498,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page maarselok shoulder",
+    "displayName": "Style Page: Maarselok Shoulder",
+    "values": {
+      "commonRange": "90,000 - 125,000",
+      "averagePrice": 101972,
+      "minimumPrice": 89000,
+      "maximumPrice": 130000,
+      "averageStackPrice": 101972,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/24/2024",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

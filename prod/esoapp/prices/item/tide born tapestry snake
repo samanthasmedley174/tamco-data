@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born tapestry snake",
+    "displayName": "Tide-Born Tapestry, Snake",
+    "values": {
+      "commonRange": "17,000 - 33,493",
+      "averagePrice": 23964,
+      "minimumPrice": 10000,
+      "maximumPrice": 33732,
+      "averageStackPrice": 23964,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

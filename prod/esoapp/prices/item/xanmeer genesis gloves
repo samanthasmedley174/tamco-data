@@ -1,0 +1,18 @@
+[
+  {
+    "name": "xanmeer genesis gloves",
+    "displayName": "Xanmeer Genesis Gloves",
+    "values": {
+      "commonRange": "187 - 5,000",
+      "averagePrice": 2154,
+      "minimumPrice": 90,
+      "maximumPrice": 7500,
+      "averageStackPrice": 2154,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

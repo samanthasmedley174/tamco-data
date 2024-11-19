@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the vicecanons guards",
+    "displayName": "The Vicecanon's Guards",
+    "values": {
+      "commonRange": "7,180 - 7,180",
+      "averagePrice": 10787,
+      "minimumPrice": 7180,
+      "maximumPrice": 18000,
+      "averageStackPrice": 10787,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spell strategist jerkin",
+    "displayName": "Spell Strategist Jerkin",
+    "values": {
+      "commonRange": "999 - 2,000",
+      "averagePrice": 1510,
+      "minimumPrice": 880,
+      "maximumPrice": 2180,
+      "averageStackPrice": 1510,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

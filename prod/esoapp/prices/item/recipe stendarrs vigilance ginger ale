@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe stendarrs vigilance ginger ale",
+    "displayName": "Recipe: Stendarr's Vigilance Ginger Ale",
+    "values": {
+      "commonRange": "500 - 1,008",
+      "averagePrice": 794,
+      "minimumPrice": 500,
+      "maximumPrice": 2008,
+      "averageStackPrice": 794,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

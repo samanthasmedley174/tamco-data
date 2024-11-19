@@ -1,0 +1,18 @@
+[
+  {
+    "name": "smugglers greatsword",
+    "displayName": "Smuggler's Greatsword",
+    "values": {
+      "commonRange": "3,000 - 5,000",
+      "averagePrice": 4310,
+      "minimumPrice": 240,
+      "maximumPrice": 9000,
+      "averageStackPrice": 4310,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born support walkway",
+    "displayName": "Tide-Born Support, Walkway",
+    "values": {
+      "commonRange": "900 - 2,000",
+      "averagePrice": 1450,
+      "minimumPrice": 900,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1450,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

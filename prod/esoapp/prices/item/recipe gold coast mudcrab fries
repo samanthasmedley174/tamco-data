@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe gold coast mudcrab fries",
+    "displayName": "Recipe: Gold Coast Mudcrab Fries",
+    "values": {
+      "commonRange": "500 - 4,000",
+      "averagePrice": 1561,
+      "minimumPrice": 356,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1561,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe first kiss tea",
+    "displayName": "Recipe: First Kiss Tea",
+    "values": {
+      "commonRange": "500 - 1,860",
+      "averagePrice": 1288,
+      "minimumPrice": 200,
+      "maximumPrice": 1860,
+      "averageStackPrice": 1288,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

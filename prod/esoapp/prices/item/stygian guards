@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stygian guards",
+    "displayName": "Stygian Guards",
+    "values": {
+      "commonRange": "183 - 4,183",
+      "averagePrice": 1776,
+      "minimumPrice": 180,
+      "maximumPrice": 8183,
+      "averageStackPrice": 1776,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

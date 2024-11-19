@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran chair sanded",
+    "displayName": "Redoran Chair, Sanded",
+    "values": {
+      "commonRange": "2,000 - 7,000",
+      "averagePrice": 3960,
+      "minimumPrice": 1150,
+      "maximumPrice": 8150,
+      "averageStackPrice": 7920,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/11/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

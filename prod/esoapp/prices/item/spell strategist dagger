@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spell strategist dagger",
+    "displayName": "Spell Strategist Dagger",
+    "values": {
+      "commonRange": "844 - 1,153",
+      "averagePrice": 1401,
+      "minimumPrice": 600,
+      "maximumPrice": 4050,
+      "averageStackPrice": 1401,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

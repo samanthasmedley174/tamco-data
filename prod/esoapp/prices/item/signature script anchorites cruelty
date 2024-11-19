@@ -1,0 +1,18 @@
+[
+  {
+    "name": "signature script anchorites cruelty",
+    "displayName": "Signature Script: Anchorite's Cruelty",
+    "values": {
+      "commonRange": "18,000 - 29,000",
+      "averagePrice": 51100,
+      "minimumPrice": 15000,
+      "maximumPrice": 300000,
+      "averageStackPrice": 51100,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Scripts",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Scripts/Signature_Script:_Anchorite's_Cruelty.png"
+  }
+]

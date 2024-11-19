@@ -1,0 +1,18 @@
+[
+  {
+    "name": "scampstamper sabatons",
+    "displayName": "Scampstamper Sabatons",
+    "values": {
+      "commonRange": "184 - 284",
+      "averagePrice": 321,
+      "minimumPrice": 59,
+      "maximumPrice": 884,
+      "averageStackPrice": 321,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page legacy of the draoife pauldrons",
+    "displayName": "Style Page: Legacy of the Draoife Pauldrons",
+    "values": {
+      "commonRange": "5,000 - 7,173",
+      "averagePrice": 5886,
+      "minimumPrice": 2000,
+      "maximumPrice": 8900,
+      "averageStackPrice": 5886,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

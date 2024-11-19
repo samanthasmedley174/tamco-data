@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solstice bismuth gigantic deposit ii",
+    "displayName": "Solstice Bismuth, Gigantic Deposit II",
+    "values": {
+      "commonRange": "85,000 - 125,500",
+      "averagePrice": 91810,
+      "minimumPrice": 38050,
+      "maximumPrice": 125500,
+      "averageStackPrice": 91810,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

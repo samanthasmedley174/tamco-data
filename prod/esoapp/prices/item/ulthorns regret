@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ulthorns regret",
+    "displayName": "Ulthorn's Regret",
+    "values": {
+      "commonRange": "251 - 251",
+      "averagePrice": 251,
+      "minimumPrice": 141,
+      "maximumPrice": 361,
+      "averageStackPrice": 251,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

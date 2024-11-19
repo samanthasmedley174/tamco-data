@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of the hatchlings shell",
+    "displayName": "Restoration Staff of the Hatchling's Shell",
+    "values": {
+      "commonRange": "534 - 2,246",
+      "averagePrice": 1292,
+      "minimumPrice": 234,
+      "maximumPrice": 2500,
+      "averageStackPrice": 1292,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

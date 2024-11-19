@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric rug triangular sigil",
+    "displayName": "Vampiric Rug, Triangular Sigil",
+    "values": {
+      "commonRange": "3,000 - 14,000",
+      "averagePrice": 11345,
+      "minimumPrice": 2500,
+      "maximumPrice": 18500,
+      "averageStackPrice": 11345,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

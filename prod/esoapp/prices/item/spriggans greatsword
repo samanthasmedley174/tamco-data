@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spriggans greatsword",
+    "displayName": "Spriggan's Greatsword",
+    "values": {
+      "commonRange": "1,213 - 20,000",
+      "averagePrice": 7909,
+      "minimumPrice": 640,
+      "maximumPrice": 35000,
+      "averageStackPrice": 7909,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

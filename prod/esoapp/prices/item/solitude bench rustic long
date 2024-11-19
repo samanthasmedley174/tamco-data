@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude bench rustic long",
+    "displayName": "Solitude Bench, Rustic Long",
+    "values": {
+      "commonRange": "900 - 3,700",
+      "averagePrice": 1915,
+      "minimumPrice": 800,
+      "maximumPrice": 3700,
+      "averageStackPrice": 1915,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/01/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

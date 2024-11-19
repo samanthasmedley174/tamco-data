@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sentinels lash",
+    "displayName": "Sentinel's Lash",
+    "values": {
+      "commonRange": "248 - 248",
+      "averagePrice": 465,
+      "minimumPrice": 148,
+      "maximumPrice": 1000,
+      "averageStackPrice": 465,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

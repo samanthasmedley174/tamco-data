@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard pillow roll oasis",
+    "displayName": "Redguard Pillow Roll, Oasis",
+    "values": {
+      "commonRange": "4,000 - 5,500",
+      "averagePrice": 5750,
+      "minimumPrice": 3000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 11500,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

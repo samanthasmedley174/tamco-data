@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard gazebo palatial domed",
+    "displayName": "Redguard Gazebo, Palatial Domed",
+    "values": {
+      "commonRange": "75,000 - 90,000",
+      "averagePrice": 81955,
+      "minimumPrice": 50000,
+      "maximumPrice": 111000,
+      "averageStackPrice": 81955,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

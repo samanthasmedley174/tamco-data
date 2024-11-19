@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude dresser rustic shelves",
+    "displayName": "Solitude Dresser, Rustic Shelves",
+    "values": {
+      "commonRange": "660 - 3,360",
+      "averagePrice": 3032,
+      "minimumPrice": 660,
+      "maximumPrice": 10060,
+      "averageStackPrice": 3032,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/11/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

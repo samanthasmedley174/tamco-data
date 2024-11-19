@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shalks sword",
+    "displayName": "Shalk's Sword",
+    "values": {
+      "commonRange": "566 - 1,000",
+      "averagePrice": 3553,
+      "minimumPrice": 300,
+      "maximumPrice": 15150,
+      "averageStackPrice": 3553,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

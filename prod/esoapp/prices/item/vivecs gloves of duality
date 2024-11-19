@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vivecs gloves of duality",
+    "displayName": "Vivec's Gloves of Duality",
+    "values": {
+      "commonRange": "57 - 1,590",
+      "averagePrice": 785,
+      "minimumPrice": 50,
+      "maximumPrice": 5700,
+      "averageStackPrice": 785,
+      "commonStackSize": 1,
+      "salesRecorded": 47
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

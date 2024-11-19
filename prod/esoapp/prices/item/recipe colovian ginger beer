@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe colovian ginger beer",
+    "displayName": "Recipe: Colovian Ginger Beer",
+    "values": {
+      "commonRange": "19 - 127",
+      "averagePrice": 52,
+      "minimumPrice": 12,
+      "maximumPrice": 129,
+      "averageStackPrice": 52,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

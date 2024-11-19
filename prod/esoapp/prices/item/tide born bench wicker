@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born bench wicker",
+    "displayName": "Tide-Born Bench, Wicker",
+    "values": {
+      "commonRange": "12,000 - 22,198",
+      "averagePrice": 17177,
+      "minimumPrice": 11294,
+      "maximumPrice": 22198,
+      "averageStackPrice": 17177,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

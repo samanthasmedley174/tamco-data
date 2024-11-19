@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born guards",
+    "displayName": "Tide-Born Guards",
+    "values": {
+      "commonRange": "5,180 - 60,000",
+      "averagePrice": 32895,
+      "minimumPrice": 180,
+      "maximumPrice": 97900,
+      "averageStackPrice": 32895,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

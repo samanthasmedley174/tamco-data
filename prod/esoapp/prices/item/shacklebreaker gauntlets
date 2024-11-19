@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shacklebreaker gauntlets",
+    "displayName": "Shacklebreaker Gauntlets",
+    "values": {
+      "commonRange": "13,081 - 49,999",
+      "averagePrice": 31540,
+      "minimumPrice": 13081,
+      "maximumPrice": 49999,
+      "averageStackPrice": 31540,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/29/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "siegemasters ice staff",
+    "displayName": "Siegemaster's Ice Staff",
+    "values": {
+      "commonRange": "499 - 3,443",
+      "averagePrice": 2079,
+      "minimumPrice": 434,
+      "maximumPrice": 5440,
+      "averageStackPrice": 2079,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

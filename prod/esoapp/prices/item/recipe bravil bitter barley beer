@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe bravil bitter barley beer",
+    "displayName": "Recipe: Bravil Bitter Barley Beer",
+    "values": {
+      "commonRange": "30 - 140",
+      "averagePrice": 98,
+      "minimumPrice": 29,
+      "maximumPrice": 250,
+      "averageStackPrice": 98,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

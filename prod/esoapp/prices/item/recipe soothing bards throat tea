@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe soothing bards throat tea",
+    "displayName": "Recipe: Soothing Bard's-Throat Tea",
+    "values": {
+      "commonRange": "20 - 127",
+      "averagePrice": 46,
+      "minimumPrice": 12,
+      "maximumPrice": 127,
+      "averageStackPrice": 46,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

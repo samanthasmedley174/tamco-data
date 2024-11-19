@@ -1,0 +1,18 @@
+[
+  {
+    "name": "signet of the pariah",
+    "displayName": "Signet of the Pariah",
+    "values": {
+      "commonRange": "150 - 66,156",
+      "averagePrice": 14915,
+      "minimumPrice": 144,
+      "maximumPrice": 100156,
+      "averageStackPrice": 14915,
+      "commonStackSize": 1,
+      "salesRecorded": 99
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

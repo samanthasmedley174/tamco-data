@@ -1,0 +1,18 @@
+[
+  {
+    "name": "snake in the stars lightning staff",
+    "displayName": "Snake in the Stars Lightning Staff",
+    "values": {
+      "commonRange": "1,550 - 2,946",
+      "averagePrice": 2094,
+      "minimumPrice": 246,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2094,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

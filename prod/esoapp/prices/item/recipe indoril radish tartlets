@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe indoril radish tartlets",
+    "displayName": "Recipe: Indoril Radish Tartlets",
+    "values": {
+      "commonRange": "127 - 1,369",
+      "averagePrice": 945,
+      "minimumPrice": 127,
+      "maximumPrice": 1415,
+      "averageStackPrice": 945,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

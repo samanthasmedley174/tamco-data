@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude carpet wolfs head border",
+    "displayName": "Solitude Carpet, Wolf's-Head Border",
+    "values": {
+      "commonRange": "4,200 - 10,036",
+      "averagePrice": 7636,
+      "minimumPrice": 3600,
+      "maximumPrice": 12900,
+      "averageStackPrice": 7636,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

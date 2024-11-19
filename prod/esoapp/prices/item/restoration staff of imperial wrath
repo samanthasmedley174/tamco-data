@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of imperial wrath",
+    "displayName": "Restoration Staff of Imperial Wrath",
+    "values": {
+      "commonRange": "246 - 5,000",
+      "averagePrice": 2788,
+      "minimumPrice": 246,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2788,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

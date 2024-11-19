@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sanded birch",
+    "displayName": "Sanded Birch",
+    "values": {
+      "commonRange": "9 - 37",
+      "averagePrice": 19,
+      "minimumPrice": 7,
+      "maximumPrice": 48,
+      "averageStackPrice": 3800,
+      "commonStackSize": 200,
+      "salesRecorded": 28
+    },
+    "type": "Woodworking Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Woodworking_Materials/Sanded_Birch.png"
+  }
+]

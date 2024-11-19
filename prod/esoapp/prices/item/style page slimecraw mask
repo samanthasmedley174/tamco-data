@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page slimecraw mask",
+    "displayName": "Style Page: Slimecraw Mask",
+    "values": {
+      "commonRange": "50,000 - 1,100,000",
+      "averagePrice": 446556,
+      "minimumPrice": 50000,
+      "maximumPrice": 1100000,
+      "averageStackPrice": 446556,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Style Pages",
+    "date": "09/05/2023",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

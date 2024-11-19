@@ -1,0 +1,18 @@
+[
+  {
+    "name": "unidentified enchanter survey report",
+    "displayName": "Unidentified Enchanter Survey Report",
+    "values": {
+      "commonRange": "378 - 1,813",
+      "averagePrice": 950,
+      "minimumPrice": 100,
+      "maximumPrice": 4000,
+      "averageStackPrice": 950,
+      "commonStackSize": 1,
+      "salesRecorded": 171
+    },
+    "type": "Miscellaneous",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

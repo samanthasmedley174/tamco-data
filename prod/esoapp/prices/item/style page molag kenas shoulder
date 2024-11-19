@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page molag kenas shoulder",
+    "displayName": "Style Page: Molag Kena's Shoulder",
+    "values": {
+      "commonRange": "25,000 - 46,000",
+      "averagePrice": 29725,
+      "minimumPrice": 18500,
+      "maximumPrice": 48178,
+      "averageStackPrice": 29725,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Style Pages",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

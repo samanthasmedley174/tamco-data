@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe sweet dreams tea",
+    "displayName": "Recipe: Sweet Dreams Tea",
+    "values": {
+      "commonRange": "1,027 - 1,900",
+      "averagePrice": 1583,
+      "minimumPrice": 325,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1583,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

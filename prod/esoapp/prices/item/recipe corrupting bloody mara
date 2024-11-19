@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe corrupting bloody mara",
+    "displayName": "Recipe: Corrupting Bloody Mara",
+    "values": {
+      "commonRange": "5,000 - 6,501",
+      "averagePrice": 5625,
+      "minimumPrice": 4000,
+      "maximumPrice": 8045,
+      "averageStackPrice": 5625,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

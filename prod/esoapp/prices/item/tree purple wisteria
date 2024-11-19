@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree purple wisteria",
+    "displayName": "Tree, Purple Wisteria",
+    "values": {
+      "commonRange": "12,000 - 18,000",
+      "averagePrice": 16286,
+      "minimumPrice": 5000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 16286,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

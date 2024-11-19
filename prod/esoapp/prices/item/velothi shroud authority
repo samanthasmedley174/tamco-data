@@ -1,0 +1,18 @@
+[
+  {
+    "name": "velothi shroud authority",
+    "displayName": "Velothi Shroud, Authority",
+    "values": {
+      "commonRange": "50,000 - 107,040",
+      "averagePrice": 81770,
+      "minimumPrice": 8000,
+      "maximumPrice": 200000,
+      "averageStackPrice": 81770,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

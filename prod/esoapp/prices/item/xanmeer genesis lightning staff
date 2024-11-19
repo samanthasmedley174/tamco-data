@@ -1,0 +1,18 @@
+[
+  {
+    "name": "xanmeer genesis lightning staff",
+    "displayName": "Xanmeer Genesis Lightning Staff",
+    "values": {
+      "commonRange": "585 - 9,995",
+      "averagePrice": 3911,
+      "minimumPrice": 200,
+      "maximumPrice": 20246,
+      "averageStackPrice": 3911,
+      "commonStackSize": 1,
+      "salesRecorded": 41
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

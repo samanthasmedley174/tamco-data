@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe lava foot soup and saltrice",
+    "displayName": "Recipe: Lava Foot Soup-and-Saltrice",
+    "values": {
+      "commonRange": "2,871 - 30,000",
+      "averagePrice": 8584,
+      "minimumPrice": 100,
+      "maximumPrice": 59000,
+      "averageStackPrice": 8584,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

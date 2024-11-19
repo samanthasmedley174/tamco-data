@@ -1,0 +1,18 @@
+[
+  {
+    "name": "robe of dark convergence",
+    "displayName": "Robe of Dark Convergence",
+    "values": {
+      "commonRange": "3,120 - 120,000",
+      "averagePrice": 33095,
+      "minimumPrice": 495,
+      "maximumPrice": 140000,
+      "averageStackPrice": 33095,
+      "commonStackSize": 1,
+      "salesRecorded": 48
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

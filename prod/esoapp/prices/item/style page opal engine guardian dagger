@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal engine guardian dagger",
+    "displayName": "Style Page: Opal Engine Guardian Dagger",
+    "values": {
+      "commonRange": "28,000 - 72,933",
+      "averagePrice": 52927,
+      "minimumPrice": 500,
+      "maximumPrice": 180000,
+      "averageStackPrice": 52927,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

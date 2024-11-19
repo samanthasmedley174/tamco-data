@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shrub autumn forest",
+    "displayName": "Shrub, Autumn Forest",
+    "values": {
+      "commonRange": "200 - 915",
+      "averagePrice": 521,
+      "minimumPrice": 115,
+      "maximumPrice": 1000,
+      "averageStackPrice": 521,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

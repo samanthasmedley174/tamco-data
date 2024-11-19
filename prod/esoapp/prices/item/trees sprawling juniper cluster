@@ -1,0 +1,18 @@
+[
+  {
+    "name": "trees sprawling juniper cluster",
+    "displayName": "Trees, Sprawling Juniper Cluster",
+    "values": {
+      "commonRange": "400 - 1,100",
+      "averagePrice": 664,
+      "minimumPrice": 138,
+      "maximumPrice": 2173,
+      "averageStackPrice": 664,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard vase lacquered",
+    "displayName": "Redguard Vase, Lacquered",
+    "values": {
+      "commonRange": "1,700 - 3,600",
+      "averagePrice": 2682,
+      "minimumPrice": 1150,
+      "maximumPrice": 5450,
+      "averageStackPrice": 2682,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/28/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shrub lanky highland",
+    "displayName": "Shrub, Lanky Highland",
+    "values": {
+      "commonRange": "16 - 215",
+      "averagePrice": 371,
+      "minimumPrice": 15,
+      "maximumPrice": 2666,
+      "averageStackPrice": 371,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/03/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

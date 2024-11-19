@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree ancient ginkgo",
+    "displayName": "Tree, Ancient Ginkgo",
+    "values": {
+      "commonRange": "1,250 - 3,000",
+      "averagePrice": 1688,
+      "minimumPrice": 934,
+      "maximumPrice": 3000,
+      "averageStackPrice": 6752,
+      "commonStackSize": 4,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shrub speckled forest",
+    "displayName": "Shrub, Speckled Forest",
+    "values": {
+      "commonRange": "160 - 460",
+      "averagePrice": 317,
+      "minimumPrice": 160,
+      "maximumPrice": 460,
+      "averageStackPrice": 317,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born bracers",
+    "displayName": "Tide-Born Bracers",
+    "values": {
+      "commonRange": "18,000 - 51,000",
+      "averagePrice": 35149,
+      "minimumPrice": 4000,
+      "maximumPrice": 74093,
+      "averageStackPrice": 35149,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

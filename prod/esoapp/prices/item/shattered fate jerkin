@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shattered fate jerkin",
+    "displayName": "Shattered Fate Jerkin",
+    "values": {
+      "commonRange": "20,171 - 25,000",
+      "averagePrice": 23390,
+      "minimumPrice": 20000,
+      "maximumPrice": 33000,
+      "averageStackPrice": 23390,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

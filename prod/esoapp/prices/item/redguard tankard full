@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard tankard full",
+    "displayName": "Redguard Tankard, Full",
+    "values": {
+      "commonRange": "654 - 678",
+      "averagePrice": 648,
+      "minimumPrice": 500,
+      "maximumPrice": 689,
+      "averageStackPrice": 2592,
+      "commonStackSize": 4,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

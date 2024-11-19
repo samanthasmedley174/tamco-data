@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born table grand",
+    "displayName": "Tide-Born Table, Grand",
+    "values": {
+      "commonRange": "7,000 - 14,000",
+      "averagePrice": 10587,
+      "minimumPrice": 6940,
+      "maximumPrice": 16850,
+      "averageStackPrice": 10587,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

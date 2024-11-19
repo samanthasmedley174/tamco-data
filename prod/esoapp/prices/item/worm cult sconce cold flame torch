@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult sconce cold flame torch",
+    "displayName": "Worm Cult Sconce, Cold-Flame Torch",
+    "values": {
+      "commonRange": "4,000 - 15,000",
+      "averagePrice": 10981,
+      "minimumPrice": 4000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 10981,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

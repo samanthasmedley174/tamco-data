@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of the air",
+    "displayName": "Restoration Staff of the Air",
+    "values": {
+      "commonRange": "200 - 746",
+      "averagePrice": 385,
+      "minimumPrice": 176,
+      "maximumPrice": 1500,
+      "averageStackPrice": 385,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

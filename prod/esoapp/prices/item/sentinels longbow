@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sentinels longbow",
+    "displayName": "Sentinel's Longbow",
+    "values": {
+      "commonRange": "1,655 - 1,655",
+      "averagePrice": 1655,
+      "minimumPrice": 310,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1655,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

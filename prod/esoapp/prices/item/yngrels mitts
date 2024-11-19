@@ -1,0 +1,18 @@
+[
+  {
+    "name": "yngrels mitts",
+    "displayName": "Yngrel's Mitts",
+    "values": {
+      "commonRange": "590 - 1,390",
+      "averagePrice": 990,
+      "minimumPrice": 590,
+      "maximumPrice": 1390,
+      "averageStackPrice": 990,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

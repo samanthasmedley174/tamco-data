@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe guarana tonic",
+    "displayName": "Recipe: Guarana Tonic",
+    "values": {
+      "commonRange": "57 - 241",
+      "averagePrice": 131,
+      "minimumPrice": 30,
+      "maximumPrice": 330,
+      "averageStackPrice": 131,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

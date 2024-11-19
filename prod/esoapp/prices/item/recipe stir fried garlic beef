@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe stir fried garlic beef",
+    "displayName": "Recipe: Stir-Fried Garlic Beef",
+    "values": {
+      "commonRange": "57 - 200",
+      "averagePrice": 124,
+      "minimumPrice": 27,
+      "maximumPrice": 227,
+      "averageStackPrice": 124,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

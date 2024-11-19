@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis telvanni lantern organic azure",
+    "displayName": "Praxis: Telvanni Lantern, Organic Azure",
+    "values": {
+      "commonRange": "60,000 - 95,000",
+      "averagePrice": 80958,
+      "minimumPrice": 35000,
+      "maximumPrice": 98000,
+      "averageStackPrice": 80958,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

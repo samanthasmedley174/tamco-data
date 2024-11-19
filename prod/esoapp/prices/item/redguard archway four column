@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard archway four column",
+    "displayName": "Redguard Archway, Four-Column",
+    "values": {
+      "commonRange": "70,000 - 84,500",
+      "averagePrice": 75941,
+      "minimumPrice": 50000,
+      "maximumPrice": 105000,
+      "averageStackPrice": 75941,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

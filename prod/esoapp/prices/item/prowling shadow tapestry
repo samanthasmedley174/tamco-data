@@ -1,0 +1,18 @@
+[
+  {
+    "name": "prowling shadow tapestry",
+    "displayName": "Prowling Shadow Tapestry",
+    "values": {
+      "commonRange": "2,500 - 7,192",
+      "averagePrice": 5171,
+      "minimumPrice": 1250,
+      "maximumPrice": 7570,
+      "averageStackPrice": 5171,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf totem skull",
+    "displayName": "Wood Elf Totem, Skull",
+    "values": {
+      "commonRange": "6,750 - 8,069",
+      "averagePrice": 7262,
+      "minimumPrice": 5000,
+      "maximumPrice": 9900,
+      "averageStackPrice": 7262,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

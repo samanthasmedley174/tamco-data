@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born wall art rope",
+    "displayName": "Tide-Born Wall Art, Rope",
+    "values": {
+      "commonRange": "1,816 - 4,097",
+      "averagePrice": 3086,
+      "minimumPrice": 1650,
+      "maximumPrice": 5150,
+      "averageStackPrice": 3086,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

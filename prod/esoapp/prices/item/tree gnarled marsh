@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree gnarled marsh",
+    "displayName": "Tree, Gnarled Marsh",
+    "values": {
+      "commonRange": "1,000 - 1,735",
+      "averagePrice": 1357,
+      "minimumPrice": 650,
+      "maximumPrice": 2150,
+      "averageStackPrice": 1357,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/15/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

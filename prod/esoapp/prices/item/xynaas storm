@@ -1,0 +1,18 @@
+[
+  {
+    "name": "xynaas storm",
+    "displayName": "Xynaa's Storm",
+    "values": {
+      "commonRange": "1,500 - 1,500",
+      "averagePrice": 1860,
+      "minimumPrice": 840,
+      "maximumPrice": 3240,
+      "averageStackPrice": 1860,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

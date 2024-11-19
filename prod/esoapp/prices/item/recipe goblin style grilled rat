@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe goblin style grilled rat",
+    "displayName": "Recipe: Goblin-Style Grilled Rat",
+    "values": {
+      "commonRange": "8,800 - 13,515",
+      "averagePrice": 10527,
+      "minimumPrice": 2000,
+      "maximumPrice": 16226,
+      "averageStackPrice": 10527,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

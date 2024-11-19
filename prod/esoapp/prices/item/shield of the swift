@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of the swift",
+    "displayName": "Shield of the Swift",
+    "values": {
+      "commonRange": "1,999 - 5,285",
+      "averagePrice": 5142,
+      "minimumPrice": 1999,
+      "maximumPrice": 12144,
+      "averageStackPrice": 5142,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

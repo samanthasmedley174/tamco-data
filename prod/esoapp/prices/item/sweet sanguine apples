@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sweet sanguine apples",
+    "displayName": "Sweet Sanguine Apples",
+    "values": {
+      "commonRange": "3 - 70",
+      "averagePrice": 27,
+      "minimumPrice": 3,
+      "maximumPrice": 133,
+      "averageStackPrice": 2700,
+      "commonStackSize": 100,
+      "salesRecorded": 14
+    },
+    "type": "Food & Drinks",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/sweet_sanguine_apples.png"
+  }
+]

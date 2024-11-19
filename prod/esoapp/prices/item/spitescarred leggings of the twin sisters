@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spitescarred leggings of the twin sisters",
+    "displayName": "Spitescarred Leggings of the Twin Sisters",
+    "values": {
+      "commonRange": "380 - 2,544",
+      "averagePrice": 1520,
+      "minimumPrice": 300,
+      "maximumPrice": 3180,
+      "averageStackPrice": 1520,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

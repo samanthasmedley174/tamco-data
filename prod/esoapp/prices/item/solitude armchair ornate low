@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude armchair ornate low",
+    "displayName": "Solitude Armchair, Ornate Low",
+    "values": {
+      "commonRange": "7,300 - 14,000",
+      "averagePrice": 10091,
+      "minimumPrice": 4000,
+      "maximumPrice": 14000,
+      "averageStackPrice": 10091,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/24/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

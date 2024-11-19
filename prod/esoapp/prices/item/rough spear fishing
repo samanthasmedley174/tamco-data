@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough spear fishing",
+    "displayName": "Rough Spear, Fishing",
+    "values": {
+      "commonRange": "100 - 500",
+      "averagePrice": 264,
+      "minimumPrice": 70,
+      "maximumPrice": 915,
+      "averageStackPrice": 264,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

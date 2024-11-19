@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page imperial champion bow",
+    "displayName": "Style Page: Imperial Champion Bow",
+    "values": {
+      "commonRange": "2,000 - 7,100",
+      "averagePrice": 3612,
+      "minimumPrice": 1949,
+      "maximumPrice": 7700,
+      "averageStackPrice": 3612,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

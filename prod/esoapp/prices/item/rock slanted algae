@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rock slanted algae",
+    "displayName": "Rock, Slanted Algae",
+    "values": {
+      "commonRange": "100 - 220",
+      "averagePrice": 156,
+      "minimumPrice": 15,
+      "maximumPrice": 220,
+      "averageStackPrice": 156,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/14/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

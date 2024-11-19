@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni knife bread",
+    "displayName": "Telvanni Knife, Bread",
+    "values": {
+      "commonRange": "2,000 - 2,636",
+      "averagePrice": 2664,
+      "minimumPrice": 2000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2664,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

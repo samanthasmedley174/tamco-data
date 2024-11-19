@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page kwama miners kit jack",
+    "displayName": "Style Page: Kwama Miner's Kit Jack",
+    "values": {
+      "commonRange": "2,500 - 3,200",
+      "averagePrice": 3112,
+      "minimumPrice": 2000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 3112,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

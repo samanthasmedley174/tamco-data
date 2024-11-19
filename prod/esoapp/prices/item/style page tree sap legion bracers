@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page tree sap legion bracers",
+    "displayName": "Style Page: Tree-Sap Legion Bracers",
+    "values": {
+      "commonRange": "4,175 - 7,000",
+      "averagePrice": 5373,
+      "minimumPrice": 3000,
+      "maximumPrice": 7102,
+      "averageStackPrice": 5373,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

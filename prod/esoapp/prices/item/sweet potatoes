@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sweet potatoes",
+    "displayName": "Sweet Potatoes",
+    "values": {
+      "commonRange": "5 - 14",
+      "averagePrice": 20,
+      "minimumPrice": 5,
+      "maximumPrice": 133,
+      "averageStackPrice": 2000,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "04/26/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/sweet_potatoes.png"
+  }
+]

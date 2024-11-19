@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ysgramors breeches",
+    "displayName": "Ysgramor's Breeches",
+    "values": {
+      "commonRange": "180 - 2,500",
+      "averagePrice": 1217,
+      "minimumPrice": 85,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1217,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of soulshine",
+    "displayName": "Restoration Staff of Soulshine",
+    "values": {
+      "commonRange": "240 - 1,869",
+      "averagePrice": 890,
+      "minimumPrice": 240,
+      "maximumPrice": 3246,
+      "averageStackPrice": 890,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

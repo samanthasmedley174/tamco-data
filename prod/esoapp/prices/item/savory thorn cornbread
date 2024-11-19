@@ -1,0 +1,18 @@
+[
+  {
+    "name": "savory thorn cornbread",
+    "displayName": "Savory Thorn Cornbread",
+    "values": {
+      "commonRange": "12 - 12",
+      "averagePrice": 12,
+      "minimumPrice": 12,
+      "maximumPrice": 12,
+      "averageStackPrice": 12,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Food & Drinks",
+    "date": "10/22/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/savory_thorn_cornbread.png"
+  }
+]

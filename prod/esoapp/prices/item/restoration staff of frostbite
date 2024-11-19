@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of frostbite",
+    "displayName": "Restoration Staff of Frostbite",
+    "values": {
+      "commonRange": "440 - 5,500",
+      "averagePrice": 4596,
+      "minimumPrice": 240,
+      "maximumPrice": 55000,
+      "averageStackPrice": 4596,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

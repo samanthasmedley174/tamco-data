@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe surilie syrah wine",
+    "displayName": "Recipe: Surilie Syrah Wine",
+    "values": {
+      "commonRange": "27 - 397",
+      "averagePrice": 170,
+      "minimumPrice": 27,
+      "maximumPrice": 397,
+      "averageStackPrice": 170,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

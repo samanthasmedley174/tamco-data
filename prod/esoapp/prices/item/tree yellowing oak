@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree yellowing oak",
+    "displayName": "Tree, Yellowing Oak",
+    "values": {
+      "commonRange": "14,700 - 20,000",
+      "averagePrice": 18437,
+      "minimumPrice": 14700,
+      "maximumPrice": 20000,
+      "averageStackPrice": 18437,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

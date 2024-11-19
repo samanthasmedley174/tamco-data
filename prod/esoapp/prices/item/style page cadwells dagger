@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page cadwells dagger",
+    "displayName": "Style Page: Cadwell's Dagger",
+    "values": {
+      "commonRange": "23,000 - 40,000",
+      "averagePrice": 30419,
+      "minimumPrice": 19219,
+      "maximumPrice": 61302,
+      "averageStackPrice": 30419,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

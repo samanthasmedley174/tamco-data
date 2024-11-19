@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page ayleid lich sash",
+    "displayName": "Style Page: Ayleid Lich Sash",
+    "values": {
+      "commonRange": "800 - 4,999",
+      "averagePrice": 2135,
+      "minimumPrice": 500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2135,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

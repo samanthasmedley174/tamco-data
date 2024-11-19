@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe potentates supreme cioppino",
+    "displayName": "Recipe: Potentate's Supreme Cioppino",
+    "values": {
+      "commonRange": "861 - 2,000",
+      "averagePrice": 1300,
+      "minimumPrice": 300,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1300,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

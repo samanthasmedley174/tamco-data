@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spriggans inferno staff",
+    "displayName": "Spriggan's Inferno Staff",
+    "values": {
+      "commonRange": "640 - 640",
+      "averagePrice": 505,
+      "minimumPrice": 234,
+      "maximumPrice": 640,
+      "averageStackPrice": 505,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

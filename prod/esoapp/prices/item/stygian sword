@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stygian sword",
+    "displayName": "Stygian Sword",
+    "values": {
+      "commonRange": "1,950 - 1,950",
+      "averagePrice": 1950,
+      "minimumPrice": 1950,
+      "maximumPrice": 1950,
+      "averageStackPrice": 1950,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/31/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stone carving hand",
+    "displayName": "Stone Carving, Hand",
+    "values": {
+      "commonRange": "310 - 4,500",
+      "averagePrice": 2729,
+      "minimumPrice": 310,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2729,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/26/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric table circular",
+    "displayName": "Vampiric Table, Circular",
+    "values": {
+      "commonRange": "11,574 - 14,980",
+      "averagePrice": 13325,
+      "minimumPrice": 10000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 13325,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

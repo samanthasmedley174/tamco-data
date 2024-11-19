@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe crystal clarity",
+    "displayName": "Recipe: Crystal Clarity",
+    "values": {
+      "commonRange": "327 - 2,330",
+      "averagePrice": 1266,
+      "minimumPrice": 125,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1266,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

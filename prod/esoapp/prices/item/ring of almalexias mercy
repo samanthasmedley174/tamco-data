@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of almalexias mercy",
+    "displayName": "Ring of Almalexia's Mercy",
+    "values": {
+      "commonRange": "1,150 - 11,484",
+      "averagePrice": 8777,
+      "minimumPrice": 1144,
+      "maximumPrice": 30153,
+      "averageStackPrice": 8777,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

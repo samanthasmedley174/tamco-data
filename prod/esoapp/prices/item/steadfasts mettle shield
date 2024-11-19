@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfasts mettle shield",
+    "displayName": "Steadfast's Mettle Shield",
+    "values": {
+      "commonRange": "500 - 7,250",
+      "averagePrice": 3400,
+      "minimumPrice": 150,
+      "maximumPrice": 15150,
+      "averageStackPrice": 3400,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

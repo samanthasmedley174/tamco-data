@@ -1,0 +1,18 @@
+[
+  {
+    "name": "venomous boots",
+    "displayName": "Venomous Boots",
+    "values": {
+      "commonRange": "190 - 10,550",
+      "averagePrice": 5146,
+      "minimumPrice": 87,
+      "maximumPrice": 20000,
+      "averageStackPrice": 5146,
+      "commonStackSize": 1,
+      "salesRecorded": 69
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stone nest fountain triple spout",
+    "displayName": "Stone-Nest Fountain, Triple Spout",
+    "values": {
+      "commonRange": "18,054 - 25,000",
+      "averagePrice": 23307,
+      "minimumPrice": 18000,
+      "maximumPrice": 32900,
+      "averageStackPrice": 23307,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

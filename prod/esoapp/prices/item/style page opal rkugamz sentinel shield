@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal rkugamz sentinel shield",
+    "displayName": "Style Page: Opal Rkugamz Sentinel Shield",
+    "values": {
+      "commonRange": "2,700 - 13,052",
+      "averagePrice": 5783,
+      "minimumPrice": 2200,
+      "maximumPrice": 14222,
+      "averageStackPrice": 5783,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

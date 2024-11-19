@@ -1,0 +1,18 @@
+[
+  {
+    "name": "topgrain hide scraps",
+    "displayName": "Topgrain Hide Scraps",
+    "values": {
+      "commonRange": "6 - 35",
+      "averagePrice": 22,
+      "minimumPrice": 6,
+      "maximumPrice": 35,
+      "averageStackPrice": 132,
+      "commonStackSize": 6,
+      "salesRecorded": 10
+    },
+    "type": "Clothing Materials",
+    "date": "04/08/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seeker aspirant tapestry large",
+    "displayName": "Seeker Aspirant Tapestry, Large",
+    "values": {
+      "commonRange": "1,000 - 18,776",
+      "averagePrice": 6046,
+      "minimumPrice": 1000,
+      "maximumPrice": 20000,
+      "averageStackPrice": 6046,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/24/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

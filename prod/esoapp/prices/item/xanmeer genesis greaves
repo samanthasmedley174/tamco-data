@@ -1,0 +1,18 @@
+[
+  {
+    "name": "xanmeer genesis greaves",
+    "displayName": "Xanmeer Genesis Greaves",
+    "values": {
+      "commonRange": "174 - 5,174",
+      "averagePrice": 2354,
+      "minimumPrice": 170,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2354,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

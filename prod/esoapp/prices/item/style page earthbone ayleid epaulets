@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page earthbone ayleid epaulets",
+    "displayName": "Style Page: Earthbone Ayleid Epaulets",
+    "values": {
+      "commonRange": "220 - 1,300",
+      "averagePrice": 867,
+      "minimumPrice": 40,
+      "maximumPrice": 2000,
+      "averageStackPrice": 867,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

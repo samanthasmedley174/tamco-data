@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampire lords shield",
+    "displayName": "Vampire Lord's Shield",
+    "values": {
+      "commonRange": "250 - 3,000",
+      "averagePrice": 1390,
+      "minimumPrice": 153,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1390,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

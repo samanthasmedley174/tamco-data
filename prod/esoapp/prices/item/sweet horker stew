@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sweet horker stew",
+    "displayName": "Sweet Horker Stew",
+    "values": {
+      "commonRange": "95 - 95",
+      "averagePrice": 90,
+      "minimumPrice": 40,
+      "maximumPrice": 95,
+      "averageStackPrice": 9000,
+      "commonStackSize": 100,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/sweet_horker_stew.png"
+  }
+]

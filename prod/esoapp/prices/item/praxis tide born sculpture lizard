@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis tide born sculpture lizard",
+    "displayName": "Praxis: Tide-Born Sculpture, Lizard",
+    "values": {
+      "commonRange": "3,447 - 6,447",
+      "averagePrice": 4588,
+      "minimumPrice": 2336,
+      "maximumPrice": 6564,
+      "averageStackPrice": 4588,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

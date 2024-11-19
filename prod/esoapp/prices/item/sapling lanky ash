@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sapling lanky ash",
+    "displayName": "Sapling, Lanky Ash",
+    "values": {
+      "commonRange": "100 - 1,875",
+      "averagePrice": 675,
+      "minimumPrice": 100,
+      "maximumPrice": 1875,
+      "averageStackPrice": 2700,
+      "commonStackSize": 4,
+      "salesRecorded": 9
+    },
+    "type": "Furnishings",
+    "date": "01/11/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

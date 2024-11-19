@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vivecs mace of duality",
+    "displayName": "Vivec's Mace of Duality",
+    "values": {
+      "commonRange": "4,000 - 5,500",
+      "averagePrice": 4750,
+      "minimumPrice": 3000,
+      "maximumPrice": 5500,
+      "averageStackPrice": 4750,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox daggerfall breton terrier pet",
+    "displayName": "Runebox: Daggerfall Breton Terrier Pet",
+    "values": {
+      "commonRange": "220 - 1,000",
+      "averagePrice": 544,
+      "minimumPrice": 25,
+      "maximumPrice": 2044,
+      "averageStackPrice": 544,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Runeboxes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

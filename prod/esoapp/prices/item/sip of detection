@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sip of detection",
+    "displayName": "Sip of Detection",
+    "values": {
+      "commonRange": "60 - 120",
+      "averagePrice": 95,
+      "minimumPrice": 60,
+      "maximumPrice": 150,
+      "averageStackPrice": 19000,
+      "commonStackSize": 200,
+      "salesRecorded": 14
+    },
+    "type": "Potions & Poisons",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

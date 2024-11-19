@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shared burden ring",
+    "displayName": "Shared Burden Ring",
+    "values": {
+      "commonRange": "3,000 - 3,000",
+      "averagePrice": 4164,
+      "minimumPrice": 3000,
+      "maximumPrice": 8818,
+      "averageStackPrice": 4164,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

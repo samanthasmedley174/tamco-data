@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude carpet inset square",
+    "displayName": "Solitude Carpet, Inset Square",
+    "values": {
+      "commonRange": "1,333 - 2,000",
+      "averagePrice": 1545,
+      "minimumPrice": 560,
+      "maximumPrice": 2200,
+      "averageStackPrice": 1545,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

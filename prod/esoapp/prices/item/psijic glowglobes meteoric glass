@@ -1,0 +1,18 @@
+[
+  {
+    "name": "psijic glowglobes meteoric glass",
+    "displayName": "Psijic Glowglobe's Meteoric Glass",
+    "values": {
+      "commonRange": "3,000 - 4,500",
+      "averagePrice": 4162,
+      "minimumPrice": 2316,
+      "maximumPrice": 6521,
+      "averageStackPrice": 4162,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Fragments",
+    "date": "02/04/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

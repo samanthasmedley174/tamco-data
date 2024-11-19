@@ -1,0 +1,18 @@
+[
+  {
+    "name": "trees paired wax palms",
+    "displayName": "Trees, Paired Wax Palms",
+    "values": {
+      "commonRange": "714 - 2,000",
+      "averagePrice": 1214,
+      "minimumPrice": 600,
+      "maximumPrice": 2200,
+      "averageStackPrice": 1214,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

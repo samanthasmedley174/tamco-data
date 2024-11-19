@@ -1,0 +1,18 @@
+[
+  {
+    "name": "seventh legions restoration staff",
+    "displayName": "Seventh Legion's Restoration Staff",
+    "values": {
+      "commonRange": "240 - 1,240",
+      "averagePrice": 951,
+      "minimumPrice": 240,
+      "maximumPrice": 4999,
+      "averageStackPrice": 951,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

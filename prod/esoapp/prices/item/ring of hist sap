@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of hist sap",
+    "displayName": "Ring of Hist Sap",
+    "values": {
+      "commonRange": "150 - 3,153",
+      "averagePrice": 2282,
+      "minimumPrice": 144,
+      "maximumPrice": 20100,
+      "averageStackPrice": 2282,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

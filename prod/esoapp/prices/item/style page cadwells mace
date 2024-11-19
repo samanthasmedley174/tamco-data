@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page cadwells mace",
+    "displayName": "Style Page: Cadwell's Mace",
+    "values": {
+      "commonRange": "20,208 - 26,154",
+      "averagePrice": 23228,
+      "minimumPrice": 15000,
+      "maximumPrice": 31457,
+      "averageStackPrice": 23228,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "war maidens gloves",
+    "displayName": "War Maiden's Gloves",
+    "values": {
+      "commonRange": "490 - 25,000",
+      "averagePrice": 7128,
+      "minimumPrice": 50,
+      "maximumPrice": 69093,
+      "averageStackPrice": 7128,
+      "commonStackSize": 1,
+      "salesRecorded": 113
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of hundings rage",
+    "displayName": "Ring of Hunding's Rage",
+    "values": {
+      "commonRange": "7,500 - 150,000",
+      "averagePrice": 80418,
+      "minimumPrice": 5631,
+      "maximumPrice": 150000,
+      "averageStackPrice": 80418,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

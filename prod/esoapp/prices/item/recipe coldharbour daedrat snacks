@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe coldharbour daedrat snacks",
+    "displayName": "Recipe: Coldharbour Daedrat Snacks",
+    "values": {
+      "commonRange": "100 - 800",
+      "averagePrice": 545,
+      "minimumPrice": 100,
+      "maximumPrice": 1100,
+      "averageStackPrice": 545,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

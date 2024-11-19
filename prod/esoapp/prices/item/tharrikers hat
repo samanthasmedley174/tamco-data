@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tharrikers hat",
+    "displayName": "Tharriker's Hat",
+    "values": {
+      "commonRange": "9,150 - 9,150",
+      "averagePrice": 9150,
+      "minimumPrice": 9150,
+      "maximumPrice": 9150,
+      "averageStackPrice": 9150,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

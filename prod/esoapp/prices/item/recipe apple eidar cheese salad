@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe apple eidar cheese salad",
+    "displayName": "Recipe: Apple-Eidar Cheese Salad",
+    "values": {
+      "commonRange": "99 - 1,538",
+      "averagePrice": 986,
+      "minimumPrice": 30,
+      "maximumPrice": 1538,
+      "averageStackPrice": 986,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

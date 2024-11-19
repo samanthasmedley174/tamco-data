@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe blue banekin beer",
+    "displayName": "Recipe: Blue Banekin Beer",
+    "values": {
+      "commonRange": "1,250 - 2,000",
+      "averagePrice": 2520,
+      "minimumPrice": 1000,
+      "maximumPrice": 11000,
+      "averageStackPrice": 2520,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

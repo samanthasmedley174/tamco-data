@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni peninsula painting wood",
+    "displayName": "Telvanni Peninsula Painting, Wood",
+    "values": {
+      "commonRange": "10,065 - 38,519",
+      "averagePrice": 21100,
+      "minimumPrice": 9000,
+      "maximumPrice": 53300,
+      "averageStackPrice": 21100,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

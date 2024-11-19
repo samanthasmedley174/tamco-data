@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe flowing bowl green port",
+    "displayName": "Recipe: Flowing Bowl Green Port",
+    "values": {
+      "commonRange": "59 - 330",
+      "averagePrice": 164,
+      "minimumPrice": 30,
+      "maximumPrice": 500,
+      "averageStackPrice": 164,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe blacklight ginger mazte",
+    "displayName": "Recipe: Blacklight Ginger Mazte",
+    "values": {
+      "commonRange": "150 - 2,500",
+      "averagePrice": 1141,
+      "minimumPrice": 130,
+      "maximumPrice": 3011,
+      "averageStackPrice": 1141,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

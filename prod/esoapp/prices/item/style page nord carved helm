@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page nord carved helm",
+    "displayName": "Style Page: Nord Carved Helm",
+    "values": {
+      "commonRange": "13,000 - 20,000",
+      "averagePrice": 18602,
+      "minimumPrice": 10556,
+      "maximumPrice": 44548,
+      "averageStackPrice": 18602,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

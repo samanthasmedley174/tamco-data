@@ -1,0 +1,18 @@
+[
+  {
+    "name": "trees poplar cluster",
+    "displayName": "Trees, Poplar Cluster",
+    "values": {
+      "commonRange": "360 - 1,900",
+      "averagePrice": 861,
+      "minimumPrice": 60,
+      "maximumPrice": 2000,
+      "averageStackPrice": 861,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

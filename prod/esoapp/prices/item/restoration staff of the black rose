@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of the black rose",
+    "displayName": "Restoration Staff of the Black Rose",
+    "values": {
+      "commonRange": "13,000 - 13,000",
+      "averagePrice": 11333,
+      "minimumPrice": 999,
+      "maximumPrice": 20000,
+      "averageStackPrice": 11333,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

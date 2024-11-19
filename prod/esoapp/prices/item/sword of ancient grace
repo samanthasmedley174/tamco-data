@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of ancient grace",
+    "displayName": "Sword of Ancient Grace",
+    "values": {
+      "commonRange": "1,253 - 3,999",
+      "averagePrice": 2562,
+      "minimumPrice": 1144,
+      "maximumPrice": 4626,
+      "averageStackPrice": 2562,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

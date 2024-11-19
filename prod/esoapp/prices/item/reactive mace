@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reactive mace",
+    "displayName": "Reactive Mace",
+    "values": {
+      "commonRange": "30,000 - 30,000",
+      "averagePrice": 30051,
+      "minimumPrice": 20000,
+      "maximumPrice": 40153,
+      "averageStackPrice": 30051,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

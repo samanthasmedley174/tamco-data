@@ -1,0 +1,18 @@
+[
+  {
+    "name": "siegemasters sabatons",
+    "displayName": "Siegemaster's Sabatons",
+    "values": {
+      "commonRange": "299 - 5,000",
+      "averagePrice": 1632,
+      "minimumPrice": 190,
+      "maximumPrice": 9090,
+      "averageStackPrice": 1632,
+      "commonStackSize": 1,
+      "salesRecorded": 37
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

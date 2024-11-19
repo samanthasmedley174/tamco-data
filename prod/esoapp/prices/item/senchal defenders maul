@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senchal defenders maul",
+    "displayName": "Senchal Defender's Maul",
+    "values": {
+      "commonRange": "241 - 2,000",
+      "averagePrice": 1054,
+      "minimumPrice": 190,
+      "maximumPrice": 2200,
+      "averageStackPrice": 1054,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

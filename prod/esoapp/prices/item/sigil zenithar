@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sigil zenithar",
+    "displayName": "Sigil, Zenithar",
+    "values": {
+      "commonRange": "24,000 - 35,240",
+      "averagePrice": 30736,
+      "minimumPrice": 23000,
+      "maximumPrice": 47206,
+      "averageStackPrice": 30736,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

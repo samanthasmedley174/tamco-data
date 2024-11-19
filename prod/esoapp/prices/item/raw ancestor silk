@@ -1,0 +1,18 @@
+[
+  {
+    "name": "raw ancestor silk",
+    "displayName": "Raw Ancestor Silk",
+    "values": {
+      "commonRange": "33 - 63",
+      "averagePrice": 54,
+      "minimumPrice": 6,
+      "maximumPrice": 300,
+      "averageStackPrice": 10800,
+      "commonStackSize": 200,
+      "salesRecorded": 250
+    },
+    "type": "Clothing Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

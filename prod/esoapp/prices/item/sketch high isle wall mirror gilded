@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch high isle wall mirror gilded",
+    "displayName": "Sketch: High Isle Wall Mirror, Gilded",
+    "values": {
+      "commonRange": "20,000 - 25,000",
+      "averagePrice": 23233,
+      "minimumPrice": 20000,
+      "maximumPrice": 33011,
+      "averageStackPrice": 23233,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

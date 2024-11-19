@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard nightstand sturdy",
+    "displayName": "Redguard Nightstand, Sturdy",
+    "values": {
+      "commonRange": "960 - 2,999",
+      "averagePrice": 2177,
+      "minimumPrice": 60,
+      "maximumPrice": 3260,
+      "averageStackPrice": 2177,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

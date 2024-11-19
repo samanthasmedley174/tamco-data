@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tea table carved",
+    "displayName": "Tea Table, Carved",
+    "values": {
+      "commonRange": "100 - 700",
+      "averagePrice": 379,
+      "minimumPrice": 60,
+      "maximumPrice": 1000,
+      "averageStackPrice": 379,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

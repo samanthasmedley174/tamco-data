@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe narsis wickwheat ale",
+    "displayName": "Recipe: Narsis Wickwheat Ale",
+    "values": {
+      "commonRange": "1,000 - 6,000",
+      "averagePrice": 5644,
+      "minimumPrice": 1000,
+      "maximumPrice": 44000,
+      "averageStackPrice": 5644,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

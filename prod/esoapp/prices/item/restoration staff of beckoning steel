@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of beckoning steel",
+    "displayName": "Restoration Staff of Beckoning Steel",
+    "values": {
+      "commonRange": "1,000 - 4,740",
+      "averagePrice": 3061,
+      "minimumPrice": 280,
+      "maximumPrice": 5240,
+      "averageStackPrice": 3061,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

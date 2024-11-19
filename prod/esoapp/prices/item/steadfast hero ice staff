@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfast hero ice staff",
+    "displayName": "Steadfast Hero Ice Staff",
+    "values": {
+      "commonRange": "1,000 - 1,733",
+      "averagePrice": 1733,
+      "minimumPrice": 200,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1733,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

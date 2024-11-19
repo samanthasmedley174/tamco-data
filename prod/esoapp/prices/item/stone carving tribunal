@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stone carving tribunal",
+    "displayName": "Stone Carving, Tribunal",
+    "values": {
+      "commonRange": "1,500 - 7,943",
+      "averagePrice": 3951,
+      "minimumPrice": 1000,
+      "maximumPrice": 7943,
+      "averageStackPrice": 3951,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/15/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

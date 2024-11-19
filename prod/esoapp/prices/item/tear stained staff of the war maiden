@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tear stained staff of the war maiden",
+    "displayName": "Tear-Stained Staff of the War Maiden",
+    "values": {
+      "commonRange": "340 - 1,280",
+      "averagePrice": 960,
+      "minimumPrice": 240,
+      "maximumPrice": 2400,
+      "averageStackPrice": 960,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

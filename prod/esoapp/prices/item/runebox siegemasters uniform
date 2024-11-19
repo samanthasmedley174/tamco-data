@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox siegemasters uniform",
+    "displayName": "Runebox: Siegemaster's Uniform",
+    "values": {
+      "commonRange": "244,740 - 450,000",
+      "averagePrice": 323487,
+      "minimumPrice": 150000,
+      "maximumPrice": 499000,
+      "averageStackPrice": 323487,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Runeboxes",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

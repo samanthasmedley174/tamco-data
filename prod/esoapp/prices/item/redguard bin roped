@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard bin roped",
+    "displayName": "Redguard Bin, Roped",
+    "values": {
+      "commonRange": "1,000 - 1,200",
+      "averagePrice": 1055,
+      "minimumPrice": 260,
+      "maximumPrice": 1200,
+      "averageStackPrice": 1055,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/01/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

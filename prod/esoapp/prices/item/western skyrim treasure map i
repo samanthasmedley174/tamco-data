@@ -1,0 +1,18 @@
+[
+  {
+    "name": "western skyrim treasure map i",
+    "displayName": "Western Skyrim Treasure Map I",
+    "values": {
+      "commonRange": "300 - 2,474",
+      "averagePrice": 1547,
+      "minimumPrice": 100,
+      "maximumPrice": 2474,
+      "averageStackPrice": 1547,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Treasure Maps",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Treasure_Maps/map.png"
+  }
+]

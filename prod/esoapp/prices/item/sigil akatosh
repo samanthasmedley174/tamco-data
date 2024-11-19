@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sigil akatosh",
+    "displayName": "Sigil, Akatosh",
+    "values": {
+      "commonRange": "25,000 - 32,072",
+      "averagePrice": 28460,
+      "minimumPrice": 15000,
+      "maximumPrice": 33000,
+      "averageStackPrice": 28460,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

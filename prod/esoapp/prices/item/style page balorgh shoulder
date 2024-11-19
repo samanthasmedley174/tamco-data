@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page balorgh shoulder",
+    "displayName": "Style Page: Balorgh Shoulder",
+    "values": {
+      "commonRange": "42,036 - 51,149",
+      "averagePrice": 47849,
+      "minimumPrice": 30000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 47849,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

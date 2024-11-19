@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal troll king battle axe",
+    "displayName": "Style Page: Opal Troll King Battle Axe",
+    "values": {
+      "commonRange": "10,000 - 14,181",
+      "averagePrice": 12086,
+      "minimumPrice": 4000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 12086,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

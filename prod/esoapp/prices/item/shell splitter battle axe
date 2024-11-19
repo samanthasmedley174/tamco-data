@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shell splitter battle axe",
+    "displayName": "Shell Splitter Battle Axe",
+    "values": {
+      "commonRange": "4,500 - 9,240",
+      "averagePrice": 6531,
+      "minimumPrice": 4000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6531,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

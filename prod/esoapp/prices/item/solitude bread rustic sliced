@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude bread rustic sliced",
+    "displayName": "Solitude Bread, Rustic Sliced",
+    "values": {
+      "commonRange": "960 - 2,987",
+      "averagePrice": 2045,
+      "minimumPrice": 560,
+      "maximumPrice": 2999,
+      "averageStackPrice": 2045,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

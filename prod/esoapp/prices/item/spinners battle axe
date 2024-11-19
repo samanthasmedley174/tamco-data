@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spinners battle axe",
+    "displayName": "Spinner's Battle Axe",
+    "values": {
+      "commonRange": "190 - 1,000",
+      "averagePrice": 572,
+      "minimumPrice": 190,
+      "maximumPrice": 1999,
+      "averageStackPrice": 572,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

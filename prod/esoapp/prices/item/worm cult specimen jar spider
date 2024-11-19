@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult specimen jar spider",
+    "displayName": "Worm Cult Specimen Jar, Spider",
+    "values": {
+      "commonRange": "8,850 - 11,000",
+      "averagePrice": 9561,
+      "minimumPrice": 8850,
+      "maximumPrice": 11000,
+      "averageStackPrice": 9561,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

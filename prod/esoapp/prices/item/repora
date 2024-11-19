@@ -1,0 +1,18 @@
+[
+  {
+    "name": "repora",
+    "displayName": "Repora",
+    "values": {
+      "commonRange": "10 - 189",
+      "averagePrice": 98,
+      "minimumPrice": 9,
+      "maximumPrice": 300,
+      "averageStackPrice": 19600,
+      "commonStackSize": 200,
+      "salesRecorded": 43
+    },
+    "type": "Enchanting Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Enchanting_Materials/Repora.png"
+  }
+]

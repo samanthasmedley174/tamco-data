@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shrub swamp sprig",
+    "displayName": "Shrub, Swamp Sprig",
+    "values": {
+      "commonRange": "160 - 650",
+      "averagePrice": 431,
+      "minimumPrice": 100,
+      "maximumPrice": 1060,
+      "averageStackPrice": 431,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/03/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

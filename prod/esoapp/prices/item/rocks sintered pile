@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rocks sintered pile",
+    "displayName": "Rocks, Sintered Pile",
+    "values": {
+      "commonRange": "1,000 - 2,500",
+      "averagePrice": 1840,
+      "minimumPrice": 1000,
+      "maximumPrice": 2500,
+      "averageStackPrice": 3680,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/02/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

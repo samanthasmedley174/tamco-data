@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of vicious death",
+    "displayName": "Shield of Vicious Death",
+    "values": {
+      "commonRange": "999 - 10,153",
+      "averagePrice": 5102,
+      "minimumPrice": 500,
+      "maximumPrice": 33000,
+      "averageStackPrice": 5102,
+      "commonStackSize": 1,
+      "salesRecorded": 75
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

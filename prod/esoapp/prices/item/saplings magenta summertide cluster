@@ -1,0 +1,18 @@
+[
+  {
+    "name": "saplings magenta summertide cluster",
+    "displayName": "Saplings, Magenta Summertide Cluster",
+    "values": {
+      "commonRange": "8,000 - 10,000",
+      "averagePrice": 9111,
+      "minimumPrice": 5000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 9111,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Furnishings",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard canopy striped",
+    "displayName": "Redguard Canopy, Striped",
+    "values": {
+      "commonRange": "6,000 - 9,107",
+      "averagePrice": 8932,
+      "minimumPrice": 4607,
+      "maximumPrice": 19500,
+      "averageStackPrice": 8932,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/03/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

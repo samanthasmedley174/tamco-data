@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rose lager",
+    "displayName": "Rose Lager",
+    "values": {
+      "commonRange": "4 - 6",
+      "averagePrice": 6,
+      "minimumPrice": 4,
+      "maximumPrice": 6,
+      "averageStackPrice": 6,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Food & Drinks",
+    "date": "02/16/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/rose_lager.png"
+  }
+]

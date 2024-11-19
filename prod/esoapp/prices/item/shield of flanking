@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of flanking",
+    "displayName": "Shield of Flanking",
+    "values": {
+      "commonRange": "350 - 500",
+      "averagePrice": 417,
+      "minimumPrice": 250,
+      "maximumPrice": 750,
+      "averageStackPrice": 417,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

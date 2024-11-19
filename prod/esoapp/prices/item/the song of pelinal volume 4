@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the song of pelinal volume 4",
+    "displayName": "The Song of Pelinal, Volume 4",
+    "values": {
+      "commonRange": "100 - 678",
+      "averagePrice": 320,
+      "minimumPrice": 50,
+      "maximumPrice": 1000,
+      "averageStackPrice": 320,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

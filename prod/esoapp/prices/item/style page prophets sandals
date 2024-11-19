@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page prophets sandals",
+    "displayName": "Style Page: Prophet's Sandals",
+    "values": {
+      "commonRange": "10,500 - 17,500",
+      "averagePrice": 13624,
+      "minimumPrice": 166,
+      "maximumPrice": 34000,
+      "averageStackPrice": 13624,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

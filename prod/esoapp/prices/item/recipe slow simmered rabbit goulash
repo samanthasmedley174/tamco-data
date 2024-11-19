@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe slow simmered rabbit goulash",
+    "displayName": "Recipe: Slow-Simmered Rabbit Goulash",
+    "values": {
+      "commonRange": "1,000 - 3,136",
+      "averagePrice": 2426,
+      "minimumPrice": 300,
+      "maximumPrice": 4500,
+      "averageStackPrice": 2426,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

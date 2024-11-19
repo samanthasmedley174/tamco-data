@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe savory banana cornbread",
+    "displayName": "Recipe: Savory Banana Cornbread",
+    "values": {
+      "commonRange": "1,000 - 9,000",
+      "averagePrice": 8314,
+      "minimumPrice": 1000,
+      "maximumPrice": 49000,
+      "averageStackPrice": 8314,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

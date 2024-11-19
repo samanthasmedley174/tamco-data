@@ -1,0 +1,18 @@
+[
+  {
+    "name": "unflinching ultimate gauntlets",
+    "displayName": "Unflinching Ultimate Gauntlets",
+    "values": {
+      "commonRange": "280 - 4,990",
+      "averagePrice": 1751,
+      "minimumPrice": 90,
+      "maximumPrice": 9090,
+      "averageStackPrice": 1751,
+      "commonStackSize": 1,
+      "salesRecorded": 137
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shell splitter maul",
+    "displayName": "Shell Splitter Maul",
+    "values": {
+      "commonRange": "440 - 20,000",
+      "averagePrice": 9507,
+      "minimumPrice": 240,
+      "maximumPrice": 20000,
+      "averageStackPrice": 9507,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "01/16/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

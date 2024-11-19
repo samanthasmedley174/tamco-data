@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of cyrodiils crest",
+    "displayName": "Ring of Cyrodiil's Crest",
+    "values": {
+      "commonRange": "2,144 - 17,800",
+      "averagePrice": 14502,
+      "minimumPrice": 850,
+      "maximumPrice": 60000,
+      "averageStackPrice": 14502,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page mighty chudan shoulder",
+    "displayName": "Style Page: Mighty Chudan Shoulder",
+    "values": {
+      "commonRange": "125,000 - 500,000",
+      "averagePrice": 337714,
+      "minimumPrice": 80000,
+      "maximumPrice": 700000,
+      "averageStackPrice": 337714,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Style Pages",
+    "date": "09/05/2023",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

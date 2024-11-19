@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page legion zero vigiles helmet",
+    "displayName": "Style Page: Legion Zero Vigiles Helmet",
+    "values": {
+      "commonRange": "48,750 - 699,000",
+      "averagePrice": 428099,
+      "minimumPrice": 6521,
+      "maximumPrice": 790000,
+      "averageStackPrice": 428099,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

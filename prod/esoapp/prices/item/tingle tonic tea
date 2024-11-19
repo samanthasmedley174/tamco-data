@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tingle tonic tea",
+    "displayName": "Tingle Tonic Tea",
+    "values": {
+      "commonRange": "9 - 9",
+      "averagePrice": 9,
+      "minimumPrice": 9,
+      "maximumPrice": 9,
+      "averageStackPrice": 900,
+      "commonStackSize": 100,
+      "salesRecorded": 2
+    },
+    "type": "Food & Drinks",
+    "date": "11/09/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/tingle_tonic_tea.png"
+  }
+]

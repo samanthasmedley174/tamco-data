@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sapling young aspen",
+    "displayName": "Sapling, Young Aspen",
+    "values": {
+      "commonRange": "46 - 200",
+      "averagePrice": 130,
+      "minimumPrice": 46,
+      "maximumPrice": 200,
+      "averageStackPrice": 130,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

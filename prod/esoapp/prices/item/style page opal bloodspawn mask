@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal bloodspawn mask",
+    "displayName": "Style Page: Opal Bloodspawn Mask",
+    "values": {
+      "commonRange": "60,561 - 85,561",
+      "averagePrice": 75608,
+      "minimumPrice": 50000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 75608,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

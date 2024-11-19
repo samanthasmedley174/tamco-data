@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stablemasters sign large",
+    "displayName": "Stablemaster's Sign, Large",
+    "values": {
+      "commonRange": "7,000 - 30,000",
+      "averagePrice": 14996,
+      "minimumPrice": 5000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 14996,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

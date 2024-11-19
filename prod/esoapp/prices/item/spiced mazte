@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spiced mazte",
+    "displayName": "Spiced Mazte",
+    "values": {
+      "commonRange": "6 - 160",
+      "averagePrice": 65,
+      "minimumPrice": 3,
+      "maximumPrice": 160,
+      "averageStackPrice": 65,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Food & Drinks",
+    "date": "08/01/2023",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/spiced_mazte.png"
+  }
+]

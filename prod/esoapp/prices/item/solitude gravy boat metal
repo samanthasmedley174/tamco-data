@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude gravy boat metal",
+    "displayName": "Solitude Gravy Boat, Metal",
+    "values": {
+      "commonRange": "1,650 - 5,500",
+      "averagePrice": 4134,
+      "minimumPrice": 1100,
+      "maximumPrice": 7990,
+      "averageStackPrice": 4134,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

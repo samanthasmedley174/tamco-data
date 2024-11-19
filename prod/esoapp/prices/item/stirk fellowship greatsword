@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stirk fellowship greatsword",
+    "displayName": "Stirk Fellowship Greatsword",
+    "values": {
+      "commonRange": "350 - 5,000",
+      "averagePrice": 1817,
+      "minimumPrice": 340,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1817,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

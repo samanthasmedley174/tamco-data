@@ -1,0 +1,18 @@
+[
+  {
+    "name": "psijic ambrosia",
+    "displayName": "Psijic Ambrosia",
+    "values": {
+      "commonRange": "3,000 - 8,250",
+      "averagePrice": 6226,
+      "minimumPrice": 300,
+      "maximumPrice": 25000,
+      "averageStackPrice": 6226,
+      "commonStackSize": 1,
+      "salesRecorded": 21
+    },
+    "type": "Food & Drinks",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/psijic_ambrosia.png"
+  }
+]

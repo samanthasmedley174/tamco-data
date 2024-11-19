@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe dibellas kiss tea",
+    "displayName": "Recipe: Dibella's Kiss Tea",
+    "values": {
+      "commonRange": "30 - 1,051",
+      "averagePrice": 548,
+      "minimumPrice": 30,
+      "maximumPrice": 1219,
+      "averageStackPrice": 548,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

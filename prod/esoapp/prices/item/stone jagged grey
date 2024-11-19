@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stone jagged grey",
+    "displayName": "Stone, Jagged Grey",
+    "values": {
+      "commonRange": "950 - 950",
+      "averagePrice": 638,
+      "minimumPrice": 15,
+      "maximumPrice": 950,
+      "averageStackPrice": 638,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Furnishings",
+    "date": "03/14/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

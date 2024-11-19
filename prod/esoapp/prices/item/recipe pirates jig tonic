@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe pirates jig tonic",
+    "displayName": "Recipe: Pirate's Jig Tonic",
+    "values": {
+      "commonRange": "27 - 4,000",
+      "averagePrice": 945,
+      "minimumPrice": 25,
+      "maximumPrice": 5500,
+      "averageStackPrice": 945,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

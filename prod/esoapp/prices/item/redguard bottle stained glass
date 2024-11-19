@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard bottle stained glass",
+    "displayName": "Redguard Bottle, Stained Glass",
+    "values": {
+      "commonRange": "2,450 - 9,995",
+      "averagePrice": 5690,
+      "minimumPrice": 2450,
+      "maximumPrice": 13300,
+      "averageStackPrice": 5690,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

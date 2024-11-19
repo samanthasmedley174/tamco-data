@@ -1,0 +1,18 @@
+[
+  {
+    "name": "prisoners restoration staff",
+    "displayName": "Prisoner's Restoration Staff",
+    "values": {
+      "commonRange": "240 - 240",
+      "averagePrice": 327,
+      "minimumPrice": 240,
+      "maximumPrice": 500,
+      "averageStackPrice": 327,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

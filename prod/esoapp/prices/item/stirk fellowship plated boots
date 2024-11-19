@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stirk fellowship plated boots",
+    "displayName": "Stirk Fellowship Plated Boots",
+    "values": {
+      "commonRange": "500 - 1,500",
+      "averagePrice": 962,
+      "minimumPrice": 284,
+      "maximumPrice": 1500,
+      "averageStackPrice": 962,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

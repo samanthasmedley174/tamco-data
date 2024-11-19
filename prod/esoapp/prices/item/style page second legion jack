@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page second legion jack",
+    "displayName": "Style Page: Second Legion Jack",
+    "values": {
+      "commonRange": "2,000 - 2,000,000",
+      "averagePrice": 1058165,
+      "minimumPrice": 2000,
+      "maximumPrice": 5000000,
+      "averageStackPrice": 1058165,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/16/2024",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

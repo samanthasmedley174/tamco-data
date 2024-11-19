@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page hearts day duelist sash",
+    "displayName": "Style Page: Heart's Day Duelist Sash",
+    "values": {
+      "commonRange": "1,000 - 50,000",
+      "averagePrice": 19782,
+      "minimumPrice": 100,
+      "maximumPrice": 60000,
+      "averageStackPrice": 19782,
+      "commonStackSize": 1,
+      "salesRecorded": 158
+    },
+    "type": "Style Pages",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

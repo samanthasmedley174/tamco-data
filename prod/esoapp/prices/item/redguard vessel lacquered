@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard vessel lacquered",
+    "displayName": "Redguard Vessel, Lacquered",
+    "values": {
+      "commonRange": "1,500 - 3,200",
+      "averagePrice": 2289,
+      "minimumPrice": 60,
+      "maximumPrice": 4060,
+      "averageStackPrice": 2289,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

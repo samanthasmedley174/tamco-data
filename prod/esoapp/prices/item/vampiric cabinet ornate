@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric cabinet ornate",
+    "displayName": "Vampiric Cabinet, Ornate",
+    "values": {
+      "commonRange": "11,300 - 18,000",
+      "averagePrice": 15786,
+      "minimumPrice": 10300,
+      "maximumPrice": 25250,
+      "averageStackPrice": 15786,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

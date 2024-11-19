@@ -1,0 +1,18 @@
+[
+  {
+    "name": "thieves guild citation",
+    "displayName": "Thieves Guild Citation",
+    "values": {
+      "commonRange": "2,200 - 25,000",
+      "averagePrice": 14262,
+      "minimumPrice": 50,
+      "maximumPrice": 50000,
+      "averageStackPrice": 14262,
+      "commonStackSize": 1,
+      "salesRecorded": 284
+    },
+    "type": "Miscellaneous",
+    "date": "02/11/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

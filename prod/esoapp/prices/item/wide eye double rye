@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wide eye double rye",
+    "displayName": "Wide-Eye Double Rye",
+    "values": {
+      "commonRange": "2 - 36",
+      "averagePrice": 32,
+      "minimumPrice": 2,
+      "maximumPrice": 121,
+      "averageStackPrice": 3200,
+      "commonStackSize": 100,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "04/09/2024",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/wide-eye_double_rye.png"
+  }
+]

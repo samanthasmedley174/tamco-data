@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sunport scarf valance lavender",
+    "displayName": "Sunport Scarf Valance, Lavender",
+    "values": {
+      "commonRange": "11,300 - 12,000",
+      "averagePrice": 11513,
+      "minimumPrice": 10000,
+      "maximumPrice": 12000,
+      "averageStackPrice": 11513,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

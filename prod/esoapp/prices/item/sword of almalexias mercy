@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of almalexias mercy",
+    "displayName": "Sword of Almalexia's Mercy",
+    "values": {
+      "commonRange": "1,153 - 10,153",
+      "averagePrice": 6927,
+      "minimumPrice": 1153,
+      "maximumPrice": 20153,
+      "averageStackPrice": 6927,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

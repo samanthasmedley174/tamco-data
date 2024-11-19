@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tharrikers battle axe",
+    "displayName": "Tharriker's Battle Axe",
+    "values": {
+      "commonRange": "108,252 - 108,252",
+      "averagePrice": 108252,
+      "minimumPrice": 108252,
+      "maximumPrice": 108252,
+      "averageStackPrice": 108252,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

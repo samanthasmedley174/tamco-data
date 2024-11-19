@@ -1,0 +1,18 @@
+[
+  {
+    "name": "smoked cheese wheel wax",
+    "displayName": "Smoked Cheese Wheel, Wax",
+    "values": {
+      "commonRange": "15,036 - 21,128",
+      "averagePrice": 18528,
+      "minimumPrice": 15000,
+      "maximumPrice": 22000,
+      "averageStackPrice": 18528,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reactive bow",
+    "displayName": "Reactive Bow",
+    "values": {
+      "commonRange": "8,000 - 8,240",
+      "averagePrice": 9995,
+      "minimumPrice": 3500,
+      "maximumPrice": 20240,
+      "averageStackPrice": 9995,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

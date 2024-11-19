@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stygian arm cops",
+    "displayName": "Stygian Arm Cops",
+    "values": {
+      "commonRange": "400 - 2,900",
+      "averagePrice": 1095,
+      "minimumPrice": 350,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1095,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

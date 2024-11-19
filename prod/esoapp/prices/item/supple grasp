@@ -1,0 +1,18 @@
+[
+  {
+    "name": "supple grasp",
+    "displayName": "Supple Grasp",
+    "values": {
+      "commonRange": "1,000 - 1,000",
+      "averagePrice": 950,
+      "minimumPrice": 850,
+      "maximumPrice": 1000,
+      "averageStackPrice": 950,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

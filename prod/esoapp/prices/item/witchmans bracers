@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witchmans bracers",
+    "displayName": "Witchman's Bracers",
+    "values": {
+      "commonRange": "190 - 1,326",
+      "averagePrice": 1105,
+      "minimumPrice": 90,
+      "maximumPrice": 9090,
+      "averageStackPrice": 1105,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

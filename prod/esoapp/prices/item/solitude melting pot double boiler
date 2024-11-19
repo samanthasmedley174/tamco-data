@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude melting pot double boiler",
+    "displayName": "Solitude Melting Pot, Double Boiler",
+    "values": {
+      "commonRange": "3,000 - 6,500",
+      "averagePrice": 4296,
+      "minimumPrice": 150,
+      "maximumPrice": 7000,
+      "averageStackPrice": 4296,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

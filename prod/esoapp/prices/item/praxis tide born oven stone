@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis tide born oven stone",
+    "displayName": "Praxis: Tide-Born Oven, Stone",
+    "values": {
+      "commonRange": "180,000 - 297,500",
+      "averagePrice": 235715,
+      "minimumPrice": 169000,
+      "maximumPrice": 310000,
+      "averageStackPrice": 235715,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

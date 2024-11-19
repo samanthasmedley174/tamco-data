@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wet gunny sack",
+    "displayName": "Wet Gunny Sack",
+    "values": {
+      "commonRange": "600 - 766",
+      "averagePrice": 697,
+      "minimumPrice": 600,
+      "maximumPrice": 766,
+      "averageStackPrice": 697,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Fishing",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Wet_Gunny_Sack.png"
+  }
+]

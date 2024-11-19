@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree giant dawnwood canopy",
+    "displayName": "Tree, Giant Dawnwood Canopy",
+    "values": {
+      "commonRange": "20,000 - 37,807",
+      "averagePrice": 30197,
+      "minimumPrice": 20000,
+      "maximumPrice": 44000,
+      "averageStackPrice": 30197,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

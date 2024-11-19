@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page the maelstroms bow",
+    "displayName": "Style Page: The Maelstrom's Bow",
+    "values": {
+      "commonRange": "90,000 - 275,000",
+      "averagePrice": 149390,
+      "minimumPrice": 55000,
+      "maximumPrice": 350000,
+      "averageStackPrice": 149390,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "04/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

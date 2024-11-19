@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe dragontail blended whisky",
+    "displayName": "Recipe: Dragontail Blended Whisky",
+    "values": {
+      "commonRange": "30 - 590",
+      "averagePrice": 409,
+      "minimumPrice": 30,
+      "maximumPrice": 5000,
+      "averageStackPrice": 409,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

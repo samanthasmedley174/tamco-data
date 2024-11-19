@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal engine guardian greatsword",
+    "displayName": "Style Page: Opal Engine Guardian Greatsword",
+    "values": {
+      "commonRange": "10,800 - 90,000",
+      "averagePrice": 42946,
+      "minimumPrice": 1000,
+      "maximumPrice": 90000,
+      "averageStackPrice": 42946,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe cheesemongers salad",
+    "displayName": "Recipe: Cheesemonger's Salad",
+    "values": {
+      "commonRange": "1,100 - 4,000",
+      "averagePrice": 2458,
+      "minimumPrice": 27,
+      "maximumPrice": 4999,
+      "averageStackPrice": 2458,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

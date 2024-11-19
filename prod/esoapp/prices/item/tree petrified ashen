@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree petrified ashen",
+    "displayName": "Tree, Petrified Ashen",
+    "values": {
+      "commonRange": "314 - 1,816",
+      "averagePrice": 1125,
+      "minimumPrice": 220,
+      "maximumPrice": 2150,
+      "averageStackPrice": 1125,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

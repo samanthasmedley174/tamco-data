@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rude awakening",
+    "displayName": "Rude Awakening",
+    "values": {
+      "commonRange": "17 - 300",
+      "averagePrice": 114,
+      "minimumPrice": 17,
+      "maximumPrice": 300,
+      "averageStackPrice": 114,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "02/02/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/rude_awakening.png"
+  }
+]

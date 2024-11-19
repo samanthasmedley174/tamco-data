@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shell splitter amulet",
+    "displayName": "Shell Splitter Amulet",
+    "values": {
+      "commonRange": "1,000 - 25,000",
+      "averagePrice": 10710,
+      "minimumPrice": 900,
+      "maximumPrice": 30000,
+      "averageStackPrice": 10710,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

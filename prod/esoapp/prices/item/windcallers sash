@@ -1,0 +1,18 @@
+[
+  {
+    "name": "windcallers sash",
+    "displayName": "Windcaller's Sash",
+    "values": {
+      "commonRange": "380 - 380",
+      "averagePrice": 380,
+      "minimumPrice": 380,
+      "maximumPrice": 380,
+      "averageStackPrice": 380,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

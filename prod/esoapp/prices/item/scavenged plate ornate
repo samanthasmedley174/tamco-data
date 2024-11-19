@@ -1,0 +1,18 @@
+[
+  {
+    "name": "scavenged plate ornate",
+    "displayName": "Scavenged Plate, Ornate",
+    "values": {
+      "commonRange": "428 - 1,250",
+      "averagePrice": 1100,
+      "minimumPrice": 250,
+      "maximumPrice": 3515,
+      "averageStackPrice": 4400,
+      "commonStackSize": 4,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

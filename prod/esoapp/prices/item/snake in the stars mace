@@ -1,0 +1,18 @@
+[
+  {
+    "name": "snake in the stars mace",
+    "displayName": "Snake in the Stars Mace",
+    "values": {
+      "commonRange": "3,000 - 8,153",
+      "averagePrice": 5512,
+      "minimumPrice": 1253,
+      "maximumPrice": 8153,
+      "averageStackPrice": 5512,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

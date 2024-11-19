@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sip of weapon power",
+    "displayName": "Sip of Weapon Power",
+    "values": {
+      "commonRange": "25 - 90",
+      "averagePrice": 41,
+      "minimumPrice": 25,
+      "maximumPrice": 170,
+      "averageStackPrice": 8200,
+      "commonStackSize": 200,
+      "salesRecorded": 125
+    },
+    "type": "Potions & Poisons",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

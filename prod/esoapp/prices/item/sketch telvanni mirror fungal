@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch telvanni mirror fungal",
+    "displayName": "Sketch: Telvanni Mirror, Fungal",
+    "values": {
+      "commonRange": "7,139 - 20,000",
+      "averagePrice": 15071,
+      "minimumPrice": 7139,
+      "maximumPrice": 22166,
+      "averageStackPrice": 15071,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

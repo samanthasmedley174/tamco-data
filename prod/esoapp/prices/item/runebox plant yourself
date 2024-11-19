@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox plant yourself",
+    "displayName": "Runebox: Plant Yourself",
+    "values": {
+      "commonRange": "30,000 - 166,441",
+      "averagePrice": 112691,
+      "minimumPrice": 30000,
+      "maximumPrice": 171736,
+      "averageStackPrice": 112691,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Runeboxes",
+    "date": "01/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

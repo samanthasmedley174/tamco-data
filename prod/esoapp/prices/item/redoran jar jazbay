@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran jar jazbay",
+    "displayName": "Redoran Jar, Jazbay",
+    "values": {
+      "commonRange": "5,000 - 8,000",
+      "averagePrice": 5779,
+      "minimumPrice": 1500,
+      "maximumPrice": 8999,
+      "averageStackPrice": 5779,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

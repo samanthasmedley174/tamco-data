@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page sovngarde stalwart arm cops",
+    "displayName": "Style Page: Sovngarde Stalwart Arm Cops",
+    "values": {
+      "commonRange": "500 - 39,000",
+      "averagePrice": 30002,
+      "minimumPrice": 500,
+      "maximumPrice": 100000,
+      "averageStackPrice": 30002,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

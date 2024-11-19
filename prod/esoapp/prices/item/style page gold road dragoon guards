@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page gold road dragoon guards",
+    "displayName": "Style Page: Gold Road Dragoon Guards",
+    "values": {
+      "commonRange": "500 - 4,580",
+      "averagePrice": 3343,
+      "minimumPrice": 500,
+      "maximumPrice": 9119,
+      "averageStackPrice": 3343,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

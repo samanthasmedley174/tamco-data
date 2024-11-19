@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis telvanni sconce organic azure",
+    "displayName": "Praxis: Telvanni Sconce, Organic Azure",
+    "values": {
+      "commonRange": "150,000 - 250,000",
+      "averagePrice": 225712,
+      "minimumPrice": 150000,
+      "maximumPrice": 277833,
+      "averageStackPrice": 225712,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

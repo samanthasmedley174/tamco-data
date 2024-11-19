@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the observers battle boots",
+    "displayName": "The Observer's Battle Boots",
+    "values": {
+      "commonRange": "484 - 2,184",
+      "averagePrice": 1595,
+      "minimumPrice": 300,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1595,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

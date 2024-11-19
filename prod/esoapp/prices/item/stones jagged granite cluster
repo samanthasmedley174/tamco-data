@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stones jagged granite cluster",
+    "displayName": "Stones, Jagged Granite Cluster",
+    "values": {
+      "commonRange": "400 - 1,216",
+      "averagePrice": 1149,
+      "minimumPrice": 400,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1149,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

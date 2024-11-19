@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude picnic basket wicker",
+    "displayName": "Solitude Picnic Basket, Wicker",
+    "values": {
+      "commonRange": "4,450 - 7,450",
+      "averagePrice": 6140,
+      "minimumPrice": 2000,
+      "maximumPrice": 7500,
+      "averageStackPrice": 6140,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

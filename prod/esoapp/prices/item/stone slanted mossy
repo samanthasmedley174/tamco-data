@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stone slanted mossy",
+    "displayName": "Stone, Slanted Mossy",
+    "values": {
+      "commonRange": "333 - 366",
+      "averagePrice": 664,
+      "minimumPrice": 290,
+      "maximumPrice": 2000,
+      "averageStackPrice": 1992,
+      "commonStackSize": 3,
+      "salesRecorded": 5
+    },
+    "type": "Furnishings",
+    "date": "09/26/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

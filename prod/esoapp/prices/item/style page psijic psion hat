@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page psijic psion hat",
+    "displayName": "Style Page: Psijic Psion Hat",
+    "values": {
+      "commonRange": "5,555 - 20,000",
+      "averagePrice": 10656,
+      "minimumPrice": 400,
+      "maximumPrice": 20000,
+      "averageStackPrice": 10656,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

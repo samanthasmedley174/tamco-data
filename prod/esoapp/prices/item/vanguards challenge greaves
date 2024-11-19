@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanguards challenge greaves",
+    "displayName": "Vanguard's Challenge Greaves",
+    "values": {
+      "commonRange": "674 - 7,111",
+      "averagePrice": 3799,
+      "minimumPrice": 180,
+      "maximumPrice": 22346,
+      "averageStackPrice": 3799,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

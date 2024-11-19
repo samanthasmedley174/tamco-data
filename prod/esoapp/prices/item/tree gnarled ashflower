@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree gnarled ashflower",
+    "displayName": "Tree, Gnarled Ashflower",
+    "values": {
+      "commonRange": "1,942 - 4,442",
+      "averagePrice": 3614,
+      "minimumPrice": 1900,
+      "maximumPrice": 6500,
+      "averageStackPrice": 3614,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

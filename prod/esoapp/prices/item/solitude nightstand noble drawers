@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude nightstand noble drawers",
+    "displayName": "Solitude Nightstand, Noble Drawers",
+    "values": {
+      "commonRange": "2,430 - 7,750",
+      "averagePrice": 5405,
+      "minimumPrice": 1750,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5405,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/08/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

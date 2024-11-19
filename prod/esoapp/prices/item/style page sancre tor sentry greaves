@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page sancre tor sentry greaves",
+    "displayName": "Style Page: Sancre Tor Sentry Greaves",
+    "values": {
+      "commonRange": "4,307 - 4,810",
+      "averagePrice": 13800,
+      "minimumPrice": 2000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 13800,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

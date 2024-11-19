@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page tree sap legion helmet",
+    "displayName": "Style Page: Tree-Sap Legion Helmet",
+    "values": {
+      "commonRange": "6,059 - 14,000",
+      "averagePrice": 12081,
+      "minimumPrice": 6000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 12081,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

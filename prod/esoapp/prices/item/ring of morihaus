@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of morihaus",
+    "displayName": "Ring of Morihaus",
+    "values": {
+      "commonRange": "700 - 2,150",
+      "averagePrice": 1111,
+      "minimumPrice": 548,
+      "maximumPrice": 5150,
+      "averageStackPrice": 1111,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

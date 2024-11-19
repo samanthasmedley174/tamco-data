@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe lemonic invigoration",
+    "displayName": "Recipe: Lemonic Invigoration",
+    "values": {
+      "commonRange": "29 - 2,000",
+      "averagePrice": 1151,
+      "minimumPrice": 27,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1151,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

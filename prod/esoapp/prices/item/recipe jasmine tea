@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe jasmine tea",
+    "displayName": "Recipe: Jasmine Tea",
+    "values": {
+      "commonRange": "27 - 152",
+      "averagePrice": 73,
+      "minimumPrice": 25,
+      "maximumPrice": 230,
+      "averageStackPrice": 73,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

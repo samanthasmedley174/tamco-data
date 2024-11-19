@@ -1,0 +1,18 @@
+[
+  {
+    "name": "silk velvet sash",
+    "displayName": "Silk Velvet Sash",
+    "values": {
+      "commonRange": "84 - 84",
+      "averagePrice": 84,
+      "minimumPrice": 84,
+      "maximumPrice": 84,
+      "averageStackPrice": 84,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

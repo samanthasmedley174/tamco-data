@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vvardenfell anemone basket",
+    "displayName": "Vvardenfell Anemone, Basket",
+    "values": {
+      "commonRange": "5,284 - 14,350",
+      "averagePrice": 9124,
+      "minimumPrice": 5284,
+      "maximumPrice": 14350,
+      "averageStackPrice": 9124,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spiral dazzler",
+    "displayName": "Spiral Dazzler",
+    "values": {
+      "commonRange": "1 - 6",
+      "averagePrice": 4,
+      "minimumPrice": 1,
+      "maximumPrice": 12,
+      "averageStackPrice": 32,
+      "commonStackSize": 8,
+      "salesRecorded": 10
+    },
+    "type": "Miscellaneous",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Miscellaneous/Spiral_Dazzler.png"
+  }
+]

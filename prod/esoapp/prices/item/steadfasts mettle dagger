@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfasts mettle dagger",
+    "displayName": "Steadfast's Mettle Dagger",
+    "values": {
+      "commonRange": "585 - 3,150",
+      "averagePrice": 1620,
+      "minimumPrice": 150,
+      "maximumPrice": 4153,
+      "averageStackPrice": 1620,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

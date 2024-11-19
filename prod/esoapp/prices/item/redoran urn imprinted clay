@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran urn imprinted clay",
+    "displayName": "Redoran Urn, Imprinted Clay",
+    "values": {
+      "commonRange": "500 - 1,705",
+      "averagePrice": 997,
+      "minimumPrice": 60,
+      "maximumPrice": 1705,
+      "averageStackPrice": 997,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sugar pumpkin wax",
+    "displayName": "Sugar Pumpkin, Wax",
+    "values": {
+      "commonRange": "900 - 1,000",
+      "averagePrice": 917,
+      "minimumPrice": 700,
+      "maximumPrice": 1000,
+      "averageStackPrice": 917,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

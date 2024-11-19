@@ -1,0 +1,18 @@
+[
+  {
+    "name": "snake in the stars dagger",
+    "displayName": "Snake in the Stars Dagger",
+    "values": {
+      "commonRange": "1,153 - 2,466",
+      "averagePrice": 2248,
+      "minimumPrice": 900,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2248,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

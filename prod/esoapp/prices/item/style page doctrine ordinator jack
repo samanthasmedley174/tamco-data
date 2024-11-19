@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page doctrine ordinator jack",
+    "displayName": "Style Page: Doctrine Ordinator Jack",
+    "values": {
+      "commonRange": "4,500 - 7,000",
+      "averagePrice": 5646,
+      "minimumPrice": 100,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5646,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

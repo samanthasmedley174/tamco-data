@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sigil of house dres",
+    "displayName": "Sigil of House Dres",
+    "values": {
+      "commonRange": "100 - 241",
+      "averagePrice": 202,
+      "minimumPrice": 84,
+      "maximumPrice": 384,
+      "averageStackPrice": 202,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

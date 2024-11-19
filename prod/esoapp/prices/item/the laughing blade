@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the laughing blade",
+    "displayName": "The Laughing Blade",
+    "values": {
+      "commonRange": "541 - 5,435",
+      "averagePrice": 5435,
+      "minimumPrice": 500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 5435,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

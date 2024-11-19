@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf cup ceramic",
+    "displayName": "Wood Elf Cup, Ceramic",
+    "values": {
+      "commonRange": "60 - 400",
+      "averagePrice": 285,
+      "minimumPrice": 60,
+      "maximumPrice": 500,
+      "averageStackPrice": 285,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "04/11/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

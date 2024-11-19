@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe silver lotusberry tea",
+    "displayName": "Recipe: Silver Lotusberry Tea",
+    "values": {
+      "commonRange": "110 - 1,030",
+      "averagePrice": 657,
+      "minimumPrice": 30,
+      "maximumPrice": 2530,
+      "averageStackPrice": 657,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

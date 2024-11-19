@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe treacleberry tea",
+    "displayName": "Recipe: Treacleberry Tea",
+    "values": {
+      "commonRange": "27 - 1,000",
+      "averagePrice": 644,
+      "minimumPrice": 27,
+      "maximumPrice": 2000,
+      "averageStackPrice": 644,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

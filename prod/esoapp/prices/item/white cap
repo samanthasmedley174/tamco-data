@@ -1,0 +1,18 @@
+[
+  {
+    "name": "white cap",
+    "displayName": "White Cap",
+    "values": {
+      "commonRange": "21 - 40",
+      "averagePrice": 34,
+      "minimumPrice": 6,
+      "maximumPrice": 100,
+      "averageStackPrice": 6800,
+      "commonStackSize": 200,
+      "salesRecorded": 41
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sithis gloves",
+    "displayName": "Sithis' Gloves",
+    "values": {
+      "commonRange": "1,000 - 3,090",
+      "averagePrice": 1638,
+      "minimumPrice": 500,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1638,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

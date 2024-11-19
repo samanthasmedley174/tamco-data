@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the sentry",
+    "displayName": "Ring of the Sentry",
+    "values": {
+      "commonRange": "999 - 10,000",
+      "averagePrice": 6381,
+      "minimumPrice": 900,
+      "maximumPrice": 10000,
+      "averageStackPrice": 6381,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

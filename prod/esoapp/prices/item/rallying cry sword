@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rallying cry sword",
+    "displayName": "Rallying Cry Sword",
+    "values": {
+      "commonRange": "4,000 - 20,000",
+      "averagePrice": 12559,
+      "minimumPrice": 153,
+      "maximumPrice": 30000,
+      "averageStackPrice": 12559,
+      "commonStackSize": 1,
+      "salesRecorded": 93
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

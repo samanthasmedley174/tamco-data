@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sword of the arch mage",
+    "displayName": "Sword of the Arch-Mage",
+    "values": {
+      "commonRange": "544 - 544",
+      "averagePrice": 1915,
+      "minimumPrice": 100,
+      "maximumPrice": 5100,
+      "averageStackPrice": 1915,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

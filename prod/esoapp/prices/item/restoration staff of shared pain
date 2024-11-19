@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of shared pain",
+    "displayName": "Restoration Staff of Shared Pain",
+    "values": {
+      "commonRange": "450 - 3,240",
+      "averagePrice": 1403,
+      "minimumPrice": 334,
+      "maximumPrice": 8000,
+      "averageStackPrice": 1403,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

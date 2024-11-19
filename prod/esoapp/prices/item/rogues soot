@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rogues soot",
+    "displayName": "Rogue's Soot",
+    "values": {
+      "commonRange": "30 - 403",
+      "averagePrice": 304,
+      "minimumPrice": 3,
+      "maximumPrice": 2450,
+      "averageStackPrice": 304,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Materials",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Rogue's_Soot.png"
+  }
+]

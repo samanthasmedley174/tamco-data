@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe imperial stuffed piglet",
+    "displayName": "Recipe: Imperial Stuffed Piglet",
+    "values": {
+      "commonRange": "1,000 - 4,400",
+      "averagePrice": 2566,
+      "minimumPrice": 39,
+      "maximumPrice": 4400,
+      "averageStackPrice": 2566,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

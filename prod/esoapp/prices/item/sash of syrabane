@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of syrabane",
+    "displayName": "Sash of Syrabane",
+    "values": {
+      "commonRange": "90 - 890",
+      "averagePrice": 406,
+      "minimumPrice": 57,
+      "maximumPrice": 1090,
+      "averageStackPrice": 406,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

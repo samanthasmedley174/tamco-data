@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senchal defenders pauldrons",
+    "displayName": "Senchal Defender's Pauldrons",
+    "values": {
+      "commonRange": "150 - 1,150",
+      "averagePrice": 645,
+      "minimumPrice": 99,
+      "maximumPrice": 2453,
+      "averageStackPrice": 645,
+      "commonStackSize": 1,
+      "salesRecorded": 45
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "waterlogged note",
+    "displayName": "Waterlogged Note",
+    "values": {
+      "commonRange": "103 - 500",
+      "averagePrice": 498,
+      "minimumPrice": 103,
+      "maximumPrice": 3000,
+      "averageStackPrice": 498,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Fishing",
+    "date": "10/15/2024",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Waterlogged_Note.png"
+  }
+]

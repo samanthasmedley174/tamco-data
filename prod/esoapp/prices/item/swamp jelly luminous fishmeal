@@ -1,0 +1,18 @@
+[
+  {
+    "name": "swamp jelly luminous fishmeal",
+    "displayName": "Swamp Jelly Luminous Fishmeal",
+    "values": {
+      "commonRange": "3,000 - 9,014",
+      "averagePrice": 6513,
+      "minimumPrice": 1039,
+      "maximumPrice": 9104,
+      "averageStackPrice": 6513,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Fragments",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

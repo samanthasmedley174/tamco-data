@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis vampiric lamp amber tall",
+    "displayName": "Praxis: Vampiric Lamp, Amber Tall",
+    "values": {
+      "commonRange": "1,738 - 2,400",
+      "averagePrice": 2086,
+      "minimumPrice": 1737,
+      "maximumPrice": 2750,
+      "averageStackPrice": 2086,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

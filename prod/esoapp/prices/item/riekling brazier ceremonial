@@ -1,0 +1,18 @@
+[
+  {
+    "name": "riekling brazier ceremonial",
+    "displayName": "Riekling Brazier, Ceremonial",
+    "values": {
+      "commonRange": "1,666 - 8,100",
+      "averagePrice": 4712,
+      "minimumPrice": 1000,
+      "maximumPrice": 9000,
+      "averageStackPrice": 9424,
+      "commonStackSize": 2,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

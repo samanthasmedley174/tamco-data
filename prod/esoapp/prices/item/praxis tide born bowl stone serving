@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis tide born bowl stone serving",
+    "displayName": "Praxis: Tide-Born Bowl, Stone Serving",
+    "values": {
+      "commonRange": "9,000 - 12,461",
+      "averagePrice": 10928,
+      "minimumPrice": 7500,
+      "maximumPrice": 14461,
+      "averageStackPrice": 10928,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

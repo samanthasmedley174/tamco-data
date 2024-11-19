@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rocks swampy slab",
+    "displayName": "Rocks, Swampy Slab",
+    "values": {
+      "commonRange": "146 - 332",
+      "averagePrice": 263,
+      "minimumPrice": 110,
+      "maximumPrice": 560,
+      "averageStackPrice": 263,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/03/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

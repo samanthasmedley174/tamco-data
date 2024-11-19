@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witch knights ice staff",
+    "displayName": "Witch-Knight's Ice Staff",
+    "values": {
+      "commonRange": "6,000 - 10,150",
+      "averagePrice": 7058,
+      "minimumPrice": 240,
+      "maximumPrice": 10150,
+      "averageStackPrice": 7058,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

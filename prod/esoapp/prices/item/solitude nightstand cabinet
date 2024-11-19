@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude nightstand cabinet",
+    "displayName": "Solitude Nightstand, Cabinet",
+    "values": {
+      "commonRange": "60 - 4,000",
+      "averagePrice": 2156,
+      "minimumPrice": 50,
+      "maximumPrice": 6500,
+      "averageStackPrice": 2156,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/11/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

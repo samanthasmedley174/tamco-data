@@ -1,0 +1,18 @@
+[
+  {
+    "name": "soft leather stacked",
+    "displayName": "Soft Leather, Stacked",
+    "values": {
+      "commonRange": "329 - 640",
+      "averagePrice": 582,
+      "minimumPrice": 115,
+      "maximumPrice": 2000,
+      "averageStackPrice": 582,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

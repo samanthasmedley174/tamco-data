@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rubble pile skeletal remains",
+    "displayName": "Rubble Pile, Skeletal Remains",
+    "values": {
+      "commonRange": "8,000 - 13,000",
+      "averagePrice": 10073,
+      "minimumPrice": 8000,
+      "maximumPrice": 13000,
+      "averageStackPrice": 10073,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

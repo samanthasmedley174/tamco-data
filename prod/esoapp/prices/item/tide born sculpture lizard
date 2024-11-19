@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born sculpture lizard",
+    "displayName": "Tide-Born Sculpture, Lizard",
+    "values": {
+      "commonRange": "1,650 - 9,402",
+      "averagePrice": 5293,
+      "minimumPrice": 1650,
+      "maximumPrice": 9752,
+      "averageStackPrice": 5293,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

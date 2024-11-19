@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of the shadow dancer",
+    "displayName": "Shoes of The Shadow Dancer",
+    "values": {
+      "commonRange": "190 - 1,100",
+      "averagePrice": 749,
+      "minimumPrice": 90,
+      "maximumPrice": 2000,
+      "averageStackPrice": 749,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

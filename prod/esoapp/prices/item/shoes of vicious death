@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of vicious death",
+    "displayName": "Shoes of Vicious Death",
+    "values": {
+      "commonRange": "5,090 - 90,000",
+      "averagePrice": 21079,
+      "minimumPrice": 900,
+      "maximumPrice": 199990,
+      "averageStackPrice": 21079,
+      "commonStackSize": 1,
+      "salesRecorded": 97
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

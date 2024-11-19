@@ -1,0 +1,18 @@
+[
+  {
+    "name": "table visions of the five companions",
+    "displayName": "Table, Visions of the Five Companions",
+    "values": {
+      "commonRange": "500,000 - 800,000",
+      "averagePrice": 642500,
+      "minimumPrice": 500000,
+      "maximumPrice": 1000000,
+      "averageStackPrice": 642500,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

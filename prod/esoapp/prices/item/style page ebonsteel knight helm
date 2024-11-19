@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page ebonsteel knight helm",
+    "displayName": "Style Page: Ebonsteel Knight Helm",
+    "values": {
+      "commonRange": "400,000 - 3,000,000",
+      "averagePrice": 1736364,
+      "minimumPrice": 350000,
+      "maximumPrice": 3000000,
+      "averageStackPrice": 1736364,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/24/2023",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

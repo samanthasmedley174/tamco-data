@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page engine guardian shoulder",
+    "displayName": "Style Page: Engine Guardian Shoulder",
+    "values": {
+      "commonRange": "45,999 - 54,443",
+      "averagePrice": 50435,
+      "minimumPrice": 45000,
+      "maximumPrice": 55000,
+      "averageStackPrice": 50435,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

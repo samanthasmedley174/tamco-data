@@ -1,0 +1,18 @@
+[
+  {
+    "name": "reach wardens jack",
+    "displayName": "Reach-Warden's Jack",
+    "values": {
+      "commonRange": "180 - 180",
+      "averagePrice": 182,
+      "minimumPrice": 180,
+      "maximumPrice": 189,
+      "averageStackPrice": 182,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe jasminkgo tonic",
+    "displayName": "Recipe: Jasminkgo Tonic",
+    "values": {
+      "commonRange": "230 - 1,531",
+      "averagePrice": 1023,
+      "minimumPrice": 230,
+      "maximumPrice": 1580,
+      "averageStackPrice": 1023,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

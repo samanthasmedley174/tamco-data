@@ -1,0 +1,18 @@
+[
+  {
+    "name": "swamp raiders guards",
+    "displayName": "Swamp Raider's Guards",
+    "values": {
+      "commonRange": "1,069 - 25,000",
+      "averagePrice": 7843,
+      "minimumPrice": 800,
+      "maximumPrice": 30000,
+      "averageStackPrice": 7843,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

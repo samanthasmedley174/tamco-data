@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spiceberry chai",
+    "displayName": "Spiceberry Chai",
+    "values": {
+      "commonRange": "3 - 160",
+      "averagePrice": 39,
+      "minimumPrice": 3,
+      "maximumPrice": 160,
+      "averageStackPrice": 39,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "09/06/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/spiceberry_chai.png"
+  }
+]

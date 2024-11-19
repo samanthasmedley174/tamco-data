@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rock granite chunk",
+    "displayName": "Rock, Granite Chunk",
+    "values": {
+      "commonRange": "150 - 5,000",
+      "averagePrice": 2051,
+      "minimumPrice": 150,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2051,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/31/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

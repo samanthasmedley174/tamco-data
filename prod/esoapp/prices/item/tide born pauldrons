@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born pauldrons",
+    "displayName": "Tide-Born Pauldrons",
+    "values": {
+      "commonRange": "10,000 - 79,156",
+      "averagePrice": 29041,
+      "minimumPrice": 10000,
+      "maximumPrice": 80000,
+      "averageStackPrice": 29041,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

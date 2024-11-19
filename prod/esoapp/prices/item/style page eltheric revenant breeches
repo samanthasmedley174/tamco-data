@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page eltheric revenant breeches",
+    "displayName": "Style Page: Eltheric Revenant Breeches",
+    "values": {
+      "commonRange": "3,260 - 7,000",
+      "averagePrice": 4761,
+      "minimumPrice": 100,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4761,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Style Pages",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

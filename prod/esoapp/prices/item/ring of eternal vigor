@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of eternal vigor",
+    "displayName": "Ring of Eternal Vigor",
+    "values": {
+      "commonRange": "250 - 2,500",
+      "averagePrice": 1420,
+      "minimumPrice": 150,
+      "maximumPrice": 8153,
+      "averageStackPrice": 1420,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

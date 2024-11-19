@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough campfire doused",
+    "displayName": "Rough Campfire, Doused",
+    "values": {
+      "commonRange": "75 - 250",
+      "averagePrice": 194,
+      "minimumPrice": 65,
+      "maximumPrice": 500,
+      "averageStackPrice": 194,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Furnishings",
+    "date": "02/02/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

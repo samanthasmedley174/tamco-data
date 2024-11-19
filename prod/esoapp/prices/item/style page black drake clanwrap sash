@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page black drake clanwrap sash",
+    "displayName": "Style Page: Black Drake Clanwrap Sash",
+    "values": {
+      "commonRange": "100,000 - 124,286",
+      "averagePrice": 110839,
+      "minimumPrice": 88146,
+      "maximumPrice": 124286,
+      "averageStackPrice": 110839,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "01/15/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

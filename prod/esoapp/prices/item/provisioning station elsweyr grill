@@ -1,0 +1,18 @@
+[
+  {
+    "name": "provisioning station elsweyr grill",
+    "displayName": "Provisioning Station, Elsweyr Grill",
+    "values": {
+      "commonRange": "40,000 - 46,500",
+      "averagePrice": 40982,
+      "minimumPrice": 38225,
+      "maximumPrice": 50000,
+      "averageStackPrice": 40982,
+      "commonStackSize": 1,
+      "salesRecorded": 15
+    },
+    "type": "Furnishings",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "skald kings sabatons",
+    "displayName": "Skald-King's Sabatons",
+    "values": {
+      "commonRange": "490 - 490",
+      "averagePrice": 490,
+      "minimumPrice": 390,
+      "maximumPrice": 590,
+      "averageStackPrice": 490,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

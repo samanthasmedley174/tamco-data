@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the vicecanons ring",
+    "displayName": "The Vicecanon's Ring",
+    "values": {
+      "commonRange": "1,999 - 5,916",
+      "averagePrice": 5311,
+      "minimumPrice": 1999,
+      "maximumPrice": 17669,
+      "averageStackPrice": 5311,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

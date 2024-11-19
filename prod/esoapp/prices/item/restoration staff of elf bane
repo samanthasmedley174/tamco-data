@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of elf bane",
+    "displayName": "Restoration Staff of Elf Bane",
+    "values": {
+      "commonRange": "1,969 - 4,769",
+      "averagePrice": 2779,
+      "minimumPrice": 1500,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2779,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

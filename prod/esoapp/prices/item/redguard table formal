@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard table formal",
+    "displayName": "Redguard Table, Formal",
+    "values": {
+      "commonRange": "8,000 - 10,963",
+      "averagePrice": 9944,
+      "minimumPrice": 8000,
+      "maximumPrice": 10963,
+      "averageStackPrice": 9944,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

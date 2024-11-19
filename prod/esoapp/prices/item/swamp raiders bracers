@@ -1,0 +1,18 @@
+[
+  {
+    "name": "swamp raiders bracers",
+    "displayName": "Swamp Raider's Bracers",
+    "values": {
+      "commonRange": "195 - 25,000",
+      "averagePrice": 7054,
+      "minimumPrice": 90,
+      "maximumPrice": 37817,
+      "averageStackPrice": 7054,
+      "commonStackSize": 1,
+      "salesRecorded": 68
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

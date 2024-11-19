@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard cask sealed",
+    "displayName": "Redguard Cask, Sealed",
+    "values": {
+      "commonRange": "1,000 - 5,150",
+      "averagePrice": 2921,
+      "minimumPrice": 450,
+      "maximumPrice": 8800,
+      "averageStackPrice": 2921,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/16/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page knight of the circle maul",
+    "displayName": "Style Page: Knight of the Circle Maul",
+    "values": {
+      "commonRange": "400,000 - 900,000",
+      "averagePrice": 564075,
+      "minimumPrice": 300000,
+      "maximumPrice": 1100000,
+      "averageStackPrice": 564075,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "05/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

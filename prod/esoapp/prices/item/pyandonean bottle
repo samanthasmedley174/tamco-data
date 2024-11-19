@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pyandonean bottle",
+    "displayName": "Pyandonean Bottle",
+    "values": {
+      "commonRange": "4,000 - 5,200",
+      "averagePrice": 4838,
+      "minimumPrice": 4000,
+      "maximumPrice": 5400,
+      "averageStackPrice": 4838,
+      "commonStackSize": 1,
+      "salesRecorded": 41
+    },
+    "type": "Fishing",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Pyandonean_Bottle.png"
+  }
+]

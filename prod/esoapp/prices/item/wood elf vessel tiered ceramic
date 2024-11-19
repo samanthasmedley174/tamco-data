@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf vessel tiered ceramic",
+    "displayName": "Wood Elf Vessel, Tiered Ceramic",
+    "values": {
+      "commonRange": "555 - 2,000",
+      "averagePrice": 1133,
+      "minimumPrice": 200,
+      "maximumPrice": 2500,
+      "averageStackPrice": 1133,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

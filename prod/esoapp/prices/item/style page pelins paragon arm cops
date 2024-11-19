@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page pelins paragon arm cops",
+    "displayName": "Style Page: Pelin's Paragon Arm Cops",
+    "values": {
+      "commonRange": "1,000 - 4,549",
+      "averagePrice": 2959,
+      "minimumPrice": 995,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2959,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page earthgore mask",
+    "displayName": "Style Page: Earthgore Mask",
+    "values": {
+      "commonRange": "438,679 - 900,000",
+      "averagePrice": 641901,
+      "minimumPrice": 438679,
+      "maximumPrice": 1200000,
+      "averageStackPrice": 641901,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "08/19/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vines clustered ivy",
+    "displayName": "Vines, Clustered Ivy",
+    "values": {
+      "commonRange": "500 - 2,000",
+      "averagePrice": 985,
+      "minimumPrice": 500,
+      "maximumPrice": 2175,
+      "averageStackPrice": 1970,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of kagrenacs hope",
+    "displayName": "Restoration Staff of Kagrenac's Hope",
+    "values": {
+      "commonRange": "746 - 746",
+      "averagePrice": 746,
+      "minimumPrice": 746,
+      "maximumPrice": 746,
+      "averageStackPrice": 746,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

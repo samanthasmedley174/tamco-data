@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe balmora cabbage biscuits",
+    "displayName": "Recipe: Balmora Cabbage Biscuits",
+    "values": {
+      "commonRange": "29 - 200",
+      "averagePrice": 117,
+      "minimumPrice": 27,
+      "maximumPrice": 250,
+      "averageStackPrice": 117,
+      "commonStackSize": 1,
+      "salesRecorded": 29
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "saplings sturdy ash laurel",
+    "displayName": "Saplings, Sturdy Ash Laurel",
+    "values": {
+      "commonRange": "260 - 1,575",
+      "averagePrice": 886,
+      "minimumPrice": 100,
+      "maximumPrice": 2200,
+      "averageStackPrice": 886,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

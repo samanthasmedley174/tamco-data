@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe late summer corn slaw",
+    "displayName": "Recipe: Late-Summer Corn Slaw",
+    "values": {
+      "commonRange": "1,100 - 2,000",
+      "averagePrice": 1635,
+      "minimumPrice": 1003,
+      "maximumPrice": 2003,
+      "averageStackPrice": 1635,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/07/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

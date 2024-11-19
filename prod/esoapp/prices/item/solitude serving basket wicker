@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude serving basket wicker",
+    "displayName": "Solitude Serving Basket, Wicker",
+    "values": {
+      "commonRange": "1,650 - 5,500",
+      "averagePrice": 4020,
+      "minimumPrice": 1650,
+      "maximumPrice": 6900,
+      "averageStackPrice": 4020,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "statue bronze tentacle",
+    "displayName": "Statue, Bronze Tentacle",
+    "values": {
+      "commonRange": "4,008 - 8,452",
+      "averagePrice": 7566,
+      "minimumPrice": 3675,
+      "maximumPrice": 12500,
+      "averageStackPrice": 7566,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

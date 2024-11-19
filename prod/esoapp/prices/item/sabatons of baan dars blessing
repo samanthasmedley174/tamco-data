@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of baan dars blessing",
+    "displayName": "Sabatons of Baan Dar's Blessing",
+    "values": {
+      "commonRange": "500 - 3,090",
+      "averagePrice": 1688,
+      "minimumPrice": 299,
+      "maximumPrice": 5087,
+      "averageStackPrice": 1688,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

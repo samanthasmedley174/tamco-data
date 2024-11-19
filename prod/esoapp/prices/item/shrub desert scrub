@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shrub desert scrub",
+    "displayName": "Shrub, Desert Scrub",
+    "values": {
+      "commonRange": "31 - 875",
+      "averagePrice": 282,
+      "minimumPrice": 31,
+      "maximumPrice": 1000,
+      "averageStackPrice": 1692,
+      "commonStackSize": 6,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/01/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

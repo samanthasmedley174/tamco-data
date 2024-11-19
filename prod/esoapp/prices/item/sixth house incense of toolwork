@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sixth house incense of toolwork",
+    "displayName": "Sixth House Incense of Toolwork",
+    "values": {
+      "commonRange": "1,000 - 5,273",
+      "averagePrice": 3193,
+      "minimumPrice": 500,
+      "maximumPrice": 5592,
+      "averageStackPrice": 3193,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Fragments",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

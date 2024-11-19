@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of oakfathers retribution",
+    "displayName": "Sash of Oakfather's Retribution",
+    "values": {
+      "commonRange": "1,090 - 37,458",
+      "averagePrice": 16318,
+      "minimumPrice": 590,
+      "maximumPrice": 57743,
+      "averageStackPrice": 16318,
+      "commonStackSize": 1,
+      "salesRecorded": 73
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

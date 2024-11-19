@@ -1,0 +1,18 @@
+[
+  {
+    "name": "three queens shoes",
+    "displayName": "Three Queens Shoes",
+    "values": {
+      "commonRange": "190 - 4,550",
+      "averagePrice": 2561,
+      "minimumPrice": 87,
+      "maximumPrice": 30000,
+      "averageStackPrice": 2561,
+      "commonStackSize": 1,
+      "salesRecorded": 115
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni table organic grand",
+    "displayName": "Telvanni Table, Organic Grand",
+    "values": {
+      "commonRange": "12,000 - 18,000",
+      "averagePrice": 17890,
+      "minimumPrice": 12000,
+      "maximumPrice": 35000,
+      "averageStackPrice": 17890,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

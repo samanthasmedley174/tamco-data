@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard banner post",
+    "displayName": "Redguard Banner, Post",
+    "values": {
+      "commonRange": "66 - 1,000",
+      "averagePrice": 712,
+      "minimumPrice": 60,
+      "maximumPrice": 1000,
+      "averageStackPrice": 712,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Furnishings",
+    "date": "10/19/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

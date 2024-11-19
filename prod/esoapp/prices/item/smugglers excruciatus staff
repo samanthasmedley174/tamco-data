@@ -1,0 +1,18 @@
+[
+  {
+    "name": "smugglers excruciatus staff",
+    "displayName": "Smuggler's Excruciatus Staff",
+    "values": {
+      "commonRange": "3,200 - 3,200",
+      "averagePrice": 3200,
+      "minimumPrice": 3200,
+      "maximumPrice": 3200,
+      "averageStackPrice": 3200,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

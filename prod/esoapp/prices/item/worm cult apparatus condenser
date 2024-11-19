@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult apparatus condenser",
+    "displayName": "Worm Cult Apparatus, Condenser",
+    "values": {
+      "commonRange": "15,000 - 15,000",
+      "averagePrice": 14625,
+      "minimumPrice": 12000,
+      "maximumPrice": 16500,
+      "averageStackPrice": 14625,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

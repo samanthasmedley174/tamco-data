@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ravaging helm",
+    "displayName": "Ravaging Helm",
+    "values": {
+      "commonRange": "2,000 - 10,880",
+      "averagePrice": 7155,
+      "minimumPrice": 999,
+      "maximumPrice": 10880,
+      "averageStackPrice": 7155,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

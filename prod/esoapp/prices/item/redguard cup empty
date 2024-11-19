@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard cup empty",
+    "displayName": "Redguard Cup, Empty",
+    "values": {
+      "commonRange": "208 - 1,700",
+      "averagePrice": 959,
+      "minimumPrice": 60,
+      "maximumPrice": 2999,
+      "averageStackPrice": 959,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/27/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

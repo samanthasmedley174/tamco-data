@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard archway brass",
+    "displayName": "Redguard Archway, Brass",
+    "values": {
+      "commonRange": "3,600 - 8,989",
+      "averagePrice": 6522,
+      "minimumPrice": 3500,
+      "maximumPrice": 11989,
+      "averageStackPrice": 6522,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

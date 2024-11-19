@@ -1,0 +1,18 @@
+[
+  {
+    "name": "trodh",
+    "displayName": "Trodh",
+    "values": {
+      "commonRange": "134 - 191",
+      "averagePrice": 173,
+      "minimumPrice": 100,
+      "maximumPrice": 327,
+      "averageStackPrice": 173,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Fishing",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Trodh.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree charred oak",
+    "displayName": "Tree, Charred Oak",
+    "values": {
+      "commonRange": "1,434 - 2,200",
+      "averagePrice": 2364,
+      "minimumPrice": 1434,
+      "maximumPrice": 8000,
+      "averageStackPrice": 2364,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

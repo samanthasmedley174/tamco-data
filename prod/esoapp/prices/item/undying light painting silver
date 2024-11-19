@@ -1,0 +1,18 @@
+[
+  {
+    "name": "undying light painting silver",
+    "displayName": "Undying Light Painting, Silver",
+    "values": {
+      "commonRange": "20,000 - 24,333",
+      "averagePrice": 23045,
+      "minimumPrice": 18216,
+      "maximumPrice": 40000,
+      "averageStackPrice": 23045,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

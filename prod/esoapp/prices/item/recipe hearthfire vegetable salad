@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe hearthfire vegetable salad",
+    "displayName": "Recipe: Hearthfire Vegetable Salad",
+    "values": {
+      "commonRange": "800 - 9,000",
+      "averagePrice": 3310,
+      "minimumPrice": 250,
+      "maximumPrice": 11000,
+      "averageStackPrice": 3310,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of flanking",
+    "displayName": "Restoration Staff of Flanking",
+    "values": {
+      "commonRange": "240 - 400",
+      "averagePrice": 415,
+      "minimumPrice": 240,
+      "maximumPrice": 946,
+      "averageStackPrice": 415,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

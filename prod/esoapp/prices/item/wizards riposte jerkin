@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wizards riposte jerkin",
+    "displayName": "Wizard's Riposte Jerkin",
+    "values": {
+      "commonRange": "183 - 1,500",
+      "averagePrice": 859,
+      "minimumPrice": 174,
+      "maximumPrice": 3000,
+      "averageStackPrice": 859,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

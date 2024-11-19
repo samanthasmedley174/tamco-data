@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born gloves",
+    "displayName": "Tide-Born Gloves",
+    "values": {
+      "commonRange": "5,090 - 78,093",
+      "averagePrice": 29199,
+      "minimumPrice": 3000,
+      "maximumPrice": 78093,
+      "averageStackPrice": 29199,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

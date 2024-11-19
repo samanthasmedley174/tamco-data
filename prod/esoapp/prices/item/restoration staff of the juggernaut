@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of the juggernaut",
+    "displayName": "Restoration Staff of the Juggernaut",
+    "values": {
+      "commonRange": "5,000 - 10,246",
+      "averagePrice": 8672,
+      "minimumPrice": 999,
+      "maximumPrice": 14400,
+      "averageStackPrice": 8672,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

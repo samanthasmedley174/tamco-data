@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shalks shield",
+    "displayName": "Shalk's Shield",
+    "values": {
+      "commonRange": "500 - 3,434",
+      "averagePrice": 2779,
+      "minimumPrice": 500,
+      "maximumPrice": 15150,
+      "averageStackPrice": 2779,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

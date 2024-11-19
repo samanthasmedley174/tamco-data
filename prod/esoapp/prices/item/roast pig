@@ -1,0 +1,18 @@
+[
+  {
+    "name": "roast pig",
+    "displayName": "Roast Pig",
+    "values": {
+      "commonRange": "1 - 14",
+      "averagePrice": 6,
+      "minimumPrice": 1,
+      "maximumPrice": 17,
+      "averageStackPrice": 600,
+      "commonStackSize": 100,
+      "salesRecorded": 11
+    },
+    "type": "Food & Drinks",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/roast_pig.png"
+  }
+]

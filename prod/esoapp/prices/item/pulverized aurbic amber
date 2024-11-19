@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pulverized aurbic amber",
+    "displayName": "Pulverized Aurbic Amber",
+    "values": {
+      "commonRange": "951 - 3,339",
+      "averagePrice": 1699,
+      "minimumPrice": 343,
+      "maximumPrice": 4006,
+      "averageStackPrice": 8495,
+      "commonStackSize": 5,
+      "salesRecorded": 17
+    },
+    "type": "Trait Stones",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Trait_Materials/Pulverized_Aurbic_Amber.png"
+  }
+]

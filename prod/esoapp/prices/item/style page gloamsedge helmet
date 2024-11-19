@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page gloamsedge helmet",
+    "displayName": "Style Page: Gloamsedge Helmet",
+    "values": {
+      "commonRange": "33,000 - 47,322",
+      "averagePrice": 46182,
+      "minimumPrice": 33000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 46182,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

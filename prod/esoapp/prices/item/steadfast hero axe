@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfast hero axe",
+    "displayName": "Steadfast Hero Axe",
+    "values": {
+      "commonRange": "3,995 - 4,500",
+      "averagePrice": 5162,
+      "minimumPrice": 1153,
+      "maximumPrice": 11000,
+      "averageStackPrice": 5162,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

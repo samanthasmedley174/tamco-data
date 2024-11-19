@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page rkindaleft dwarven maul",
+    "displayName": "Style Page: Rkindaleft Dwarven Maul",
+    "values": {
+      "commonRange": "60 - 500",
+      "averagePrice": 217,
+      "minimumPrice": 50,
+      "maximumPrice": 900,
+      "averageStackPrice": 217,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

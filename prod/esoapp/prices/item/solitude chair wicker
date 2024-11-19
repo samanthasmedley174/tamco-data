@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude chair wicker",
+    "displayName": "Solitude Chair, Wicker",
+    "values": {
+      "commonRange": "1,100 - 3,400",
+      "averagePrice": 2423,
+      "minimumPrice": 1100,
+      "maximumPrice": 3400,
+      "averageStackPrice": 2423,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/12/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

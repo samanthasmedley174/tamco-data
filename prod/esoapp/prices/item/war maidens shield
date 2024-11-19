@@ -1,0 +1,18 @@
+[
+  {
+    "name": "war maidens shield",
+    "displayName": "War Maiden's Shield",
+    "values": {
+      "commonRange": "144 - 3,729",
+      "averagePrice": 1584,
+      "minimumPrice": 50,
+      "maximumPrice": 9150,
+      "averageStackPrice": 1584,
+      "commonStackSize": 1,
+      "salesRecorded": 42
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

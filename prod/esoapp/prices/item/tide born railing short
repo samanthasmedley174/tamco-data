@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born railing short",
+    "displayName": "Tide-Born Railing, Short",
+    "values": {
+      "commonRange": "2,060 - 2,636",
+      "averagePrice": 2439,
+      "minimumPrice": 1060,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2439,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

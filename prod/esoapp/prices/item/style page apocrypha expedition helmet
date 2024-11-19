@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page apocrypha expedition helmet",
+    "displayName": "Style Page: Apocrypha Expedition Helmet",
+    "values": {
+      "commonRange": "17,995 - 100,000",
+      "averagePrice": 53407,
+      "minimumPrice": 17995,
+      "maximumPrice": 118145,
+      "averageStackPrice": 53407,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

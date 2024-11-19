@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal ilambris staff",
+    "displayName": "Style Page: Opal Ilambris Staff",
+    "values": {
+      "commonRange": "19,081 - 27,500",
+      "averagePrice": 23664,
+      "minimumPrice": 18000,
+      "maximumPrice": 35000,
+      "averageStackPrice": 23664,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

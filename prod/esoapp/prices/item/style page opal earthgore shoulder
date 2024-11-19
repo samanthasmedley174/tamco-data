@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal earthgore shoulder",
+    "displayName": "Style Page: Opal Earthgore Shoulder",
+    "values": {
+      "commonRange": "225,061 - 749,000",
+      "averagePrice": 442043,
+      "minimumPrice": 225061,
+      "maximumPrice": 749061,
+      "averageStackPrice": 442043,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "04/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

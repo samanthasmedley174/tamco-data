@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe seven year beer",
+    "displayName": "Recipe: Seven Year Beer",
+    "values": {
+      "commonRange": "500 - 5,000",
+      "averagePrice": 3032,
+      "minimumPrice": 139,
+      "maximumPrice": 6823,
+      "averageStackPrice": 3032,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

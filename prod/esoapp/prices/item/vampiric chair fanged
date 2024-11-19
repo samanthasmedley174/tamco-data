@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric chair fanged",
+    "displayName": "Vampiric Chair, Fanged",
+    "values": {
+      "commonRange": "2,800 - 4,938",
+      "averagePrice": 4468,
+      "minimumPrice": 2800,
+      "maximumPrice": 10000,
+      "averageStackPrice": 8936,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

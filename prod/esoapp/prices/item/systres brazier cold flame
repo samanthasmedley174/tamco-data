@@ -1,0 +1,18 @@
+[
+  {
+    "name": "systres brazier cold flame",
+    "displayName": "Systres Brazier, Cold-Flame",
+    "values": {
+      "commonRange": "9,494 - 22,000",
+      "averagePrice": 17197,
+      "minimumPrice": 8000,
+      "maximumPrice": 26989,
+      "averageStackPrice": 17197,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

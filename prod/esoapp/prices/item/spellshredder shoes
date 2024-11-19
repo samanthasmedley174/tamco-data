@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spellshredder shoes",
+    "displayName": "Spellshredder Shoes",
+    "values": {
+      "commonRange": "250 - 5,500",
+      "averagePrice": 2101,
+      "minimumPrice": 90,
+      "maximumPrice": 20000,
+      "averageStackPrice": 2101,
+      "commonStackSize": 1,
+      "salesRecorded": 143
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

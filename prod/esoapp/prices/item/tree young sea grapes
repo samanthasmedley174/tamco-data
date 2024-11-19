@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree young sea grapes",
+    "displayName": "Tree, Young Sea Grapes",
+    "values": {
+      "commonRange": "650 - 2,802",
+      "averagePrice": 1156,
+      "minimumPrice": 500,
+      "maximumPrice": 2802,
+      "averageStackPrice": 1156,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/31/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis telvanni lamp organic azure",
+    "displayName": "Praxis: Telvanni Lamp, Organic Azure",
+    "values": {
+      "commonRange": "60,000 - 86,889",
+      "averagePrice": 72283,
+      "minimumPrice": 45000,
+      "maximumPrice": 87900,
+      "averageStackPrice": 72283,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

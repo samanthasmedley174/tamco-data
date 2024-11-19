@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rock slanted mossy",
+    "displayName": "Rock, Slanted Mossy",
+    "values": {
+      "commonRange": "300 - 1,000",
+      "averagePrice": 587,
+      "minimumPrice": 300,
+      "maximumPrice": 1000,
+      "averageStackPrice": 587,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Furnishings",
+    "date": "05/21/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

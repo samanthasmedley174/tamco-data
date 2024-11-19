@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe comely wench whiskey",
+    "displayName": "Recipe: Comely Wench Whiskey",
+    "values": {
+      "commonRange": "4,775 - 6,600",
+      "averagePrice": 5137,
+      "minimumPrice": 100,
+      "maximumPrice": 6647,
+      "averageStackPrice": 5137,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

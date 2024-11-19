@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page gold road dragoon bracers",
+    "displayName": "Style Page: Gold Road Dragoon Bracers",
+    "values": {
+      "commonRange": "1,000 - 9,312",
+      "averagePrice": 4469,
+      "minimumPrice": 500,
+      "maximumPrice": 9995,
+      "averageStackPrice": 4469,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/20/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

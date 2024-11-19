@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe ysgramors harbinger lager",
+    "displayName": "Recipe: Ysgramor's Harbinger Lager",
+    "values": {
+      "commonRange": "400 - 1,243",
+      "averagePrice": 902,
+      "minimumPrice": 285,
+      "maximumPrice": 1500,
+      "averageStackPrice": 902,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf rack double",
+    "displayName": "Wood Elf Rack, Double",
+    "values": {
+      "commonRange": "150 - 1,151",
+      "averagePrice": 770,
+      "minimumPrice": 50,
+      "maximumPrice": 1265,
+      "averageStackPrice": 770,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/25/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

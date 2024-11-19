@@ -1,0 +1,18 @@
+[
+  {
+    "name": "prisoners bow",
+    "displayName": "Prisoner's Bow",
+    "values": {
+      "commonRange": "850 - 1,750",
+      "averagePrice": 1477,
+      "minimumPrice": 700,
+      "maximumPrice": 2440,
+      "averageStackPrice": 1477,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

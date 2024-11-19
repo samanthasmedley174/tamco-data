@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page wormwrithe arm cops",
+    "displayName": "Style Page: Wormwrithe Arm Cops",
+    "values": {
+      "commonRange": "513 - 2,200",
+      "averagePrice": 1149,
+      "minimumPrice": 100,
+      "maximumPrice": 2600,
+      "averageStackPrice": 1149,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

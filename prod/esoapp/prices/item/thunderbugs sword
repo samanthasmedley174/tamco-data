@@ -1,0 +1,18 @@
+[
+  {
+    "name": "thunderbugs sword",
+    "displayName": "Thunderbug's Sword",
+    "values": {
+      "commonRange": "150 - 22,820",
+      "averagePrice": 15208,
+      "minimumPrice": 150,
+      "maximumPrice": 75051,
+      "averageStackPrice": 15208,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

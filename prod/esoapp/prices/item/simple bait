@@ -1,0 +1,18 @@
+[
+  {
+    "name": "simple bait",
+    "displayName": "Simple Bait",
+    "values": {
+      "commonRange": "3 - 24",
+      "averagePrice": 11,
+      "minimumPrice": 3,
+      "maximumPrice": 40,
+      "averageStackPrice": 2200,
+      "commonStackSize": 200,
+      "salesRecorded": 10
+    },
+    "type": "Fishing",
+    "date": "01/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Fishing/Simple_Bait.png"
+  }
+]

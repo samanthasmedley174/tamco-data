@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page eltheric revenant shoes",
+    "displayName": "Style Page: Eltheric Revenant Shoes",
+    "values": {
+      "commonRange": "2,864 - 9,000",
+      "averagePrice": 8046,
+      "minimumPrice": 2864,
+      "maximumPrice": 40000,
+      "averageStackPrice": 8046,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

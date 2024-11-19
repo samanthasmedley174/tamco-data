@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sash of mechanical acuity",
+    "displayName": "Sash of Mechanical Acuity",
+    "values": {
+      "commonRange": "70,000 - 72,093",
+      "averagePrice": 71047,
+      "minimumPrice": 70000,
+      "maximumPrice": 72093,
+      "averageStackPrice": 71047,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

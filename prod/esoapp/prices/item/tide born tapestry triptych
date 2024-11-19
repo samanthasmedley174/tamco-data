@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born tapestry triptych",
+    "displayName": "Tide-Born Tapestry, Triptych",
+    "values": {
+      "commonRange": "90,000 - 130,810",
+      "averagePrice": 105672,
+      "minimumPrice": 82000,
+      "maximumPrice": 148000,
+      "averageStackPrice": 105672,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

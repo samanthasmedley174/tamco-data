@@ -1,0 +1,18 @@
+[
+  {
+    "name": "warrior poets sabatons",
+    "displayName": "Warrior-Poet's Sabatons",
+    "values": {
+      "commonRange": "300 - 10,000",
+      "averagePrice": 3329,
+      "minimumPrice": 95,
+      "maximumPrice": 33090,
+      "averageStackPrice": 3329,
+      "commonStackSize": 1,
+      "salesRecorded": 107
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

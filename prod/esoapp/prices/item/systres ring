@@ -1,0 +1,18 @@
+[
+  {
+    "name": "systres ring",
+    "displayName": "Systres' Ring",
+    "values": {
+      "commonRange": "200 - 1,000",
+      "averagePrice": 538,
+      "minimumPrice": 144,
+      "maximumPrice": 1153,
+      "averageStackPrice": 538,
+      "commonStackSize": 1,
+      "salesRecorded": 40
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

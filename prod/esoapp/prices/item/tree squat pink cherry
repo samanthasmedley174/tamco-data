@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree squat pink cherry",
+    "displayName": "Tree, Squat Pink Cherry",
+    "values": {
+      "commonRange": "339 - 4,939",
+      "averagePrice": 2641,
+      "minimumPrice": 239,
+      "maximumPrice": 5500,
+      "averageStackPrice": 2641,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

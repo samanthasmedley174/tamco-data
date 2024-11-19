@@ -1,0 +1,18 @@
+[
+  {
+    "name": "steadfasts mettle ring",
+    "displayName": "Steadfast's Mettle Ring",
+    "values": {
+      "commonRange": "250 - 2,995",
+      "averagePrice": 1759,
+      "minimumPrice": 152,
+      "maximumPrice": 15156,
+      "averageStackPrice": 1759,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

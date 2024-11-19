@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe kwama egg quiche",
+    "displayName": "Recipe: Kwama Egg Quiche",
+    "values": {
+      "commonRange": "1,500 - 4,000",
+      "averagePrice": 2290,
+      "minimumPrice": 1500,
+      "maximumPrice": 4999,
+      "averageStackPrice": 2290,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/21/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

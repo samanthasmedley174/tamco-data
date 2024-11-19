@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of cyrodiils light",
+    "displayName": "Ring of Cyrodiil's Light",
+    "values": {
+      "commonRange": "1,000 - 3,039",
+      "averagePrice": 3090,
+      "minimumPrice": 900,
+      "maximumPrice": 12156,
+      "averageStackPrice": 3090,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

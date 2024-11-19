@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough crate bolted",
+    "displayName": "Rough Crate, Bolted",
+    "values": {
+      "commonRange": "100 - 474",
+      "averagePrice": 244,
+      "minimumPrice": 15,
+      "maximumPrice": 507,
+      "averageStackPrice": 244,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

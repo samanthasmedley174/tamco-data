@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe baby carrots in moon sugar glaze",
+    "displayName": "Recipe: Baby Carrots in Moon-Sugar Glaze",
+    "values": {
+      "commonRange": "2,000 - 11,527",
+      "averagePrice": 7060,
+      "minimumPrice": 1500,
+      "maximumPrice": 15000,
+      "averageStackPrice": 7060,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

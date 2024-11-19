@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree young juniper",
+    "displayName": "Tree, Young Juniper",
+    "values": {
+      "commonRange": "330 - 1,100",
+      "averagePrice": 688,
+      "minimumPrice": 330,
+      "maximumPrice": 1100,
+      "averageStackPrice": 688,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/31/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

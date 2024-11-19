@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wizards riposte hat",
+    "displayName": "Wizard's Riposte Hat",
+    "values": {
+      "commonRange": "250 - 2,000",
+      "averagePrice": 1005,
+      "minimumPrice": 190,
+      "maximumPrice": 3144,
+      "averageStackPrice": 1005,
+      "commonStackSize": 1,
+      "salesRecorded": 35
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

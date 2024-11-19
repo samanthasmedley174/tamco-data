@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page yffres fallen wood girdle",
+    "displayName": "Style Page: Y'ffre's Fallen-Wood Girdle",
+    "values": {
+      "commonRange": "10,000 - 15,000",
+      "averagePrice": 11996,
+      "minimumPrice": 6000,
+      "maximumPrice": 21000,
+      "averageStackPrice": 11996,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

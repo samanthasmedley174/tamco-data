@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis vampiric lightpost amber single",
+    "displayName": "Praxis: Vampiric Lightpost, Amber Single",
+    "values": {
+      "commonRange": "90,000 - 200,000",
+      "averagePrice": 145399,
+      "minimumPrice": 1691,
+      "maximumPrice": 250000,
+      "averageStackPrice": 145399,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

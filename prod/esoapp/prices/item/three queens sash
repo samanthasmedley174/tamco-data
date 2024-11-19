@@ -1,0 +1,18 @@
+[
+  {
+    "name": "three queens sash",
+    "displayName": "Three Queens Sash",
+    "values": {
+      "commonRange": "90 - 4,090",
+      "averagePrice": 2233,
+      "minimumPrice": 87,
+      "maximumPrice": 30000,
+      "averageStackPrice": 2233,
+      "commonStackSize": 1,
+      "salesRecorded": 106
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

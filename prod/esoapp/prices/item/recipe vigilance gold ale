@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe vigilance gold ale",
+    "displayName": "Recipe: Vigilance Gold Ale",
+    "values": {
+      "commonRange": "1,200 - 3,194",
+      "averagePrice": 2393,
+      "minimumPrice": 500,
+      "maximumPrice": 3194,
+      "averageStackPrice": 2393,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

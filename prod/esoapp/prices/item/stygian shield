@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stygian shield",
+    "displayName": "Stygian Shield",
+    "values": {
+      "commonRange": "250 - 250",
+      "averagePrice": 517,
+      "minimumPrice": 150,
+      "maximumPrice": 1150,
+      "averageStackPrice": 517,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

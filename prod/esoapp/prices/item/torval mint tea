@@ -1,0 +1,18 @@
+[
+  {
+    "name": "torval mint tea",
+    "displayName": "Torval Mint Tea",
+    "values": {
+      "commonRange": "65 - 559",
+      "averagePrice": 191,
+      "minimumPrice": 65,
+      "maximumPrice": 559,
+      "averageStackPrice": 382,
+      "commonStackSize": 2,
+      "salesRecorded": 9
+    },
+    "type": "Food & Drinks",
+    "date": "05/03/2022",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/torval_mint_tea.png"
+  }
+]

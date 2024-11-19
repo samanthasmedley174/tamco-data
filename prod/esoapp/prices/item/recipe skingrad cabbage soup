@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe skingrad cabbage soup",
+    "displayName": "Recipe: Skingrad Cabbage Soup",
+    "values": {
+      "commonRange": "1,750 - 6,000",
+      "averagePrice": 4244,
+      "minimumPrice": 1500,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4244,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

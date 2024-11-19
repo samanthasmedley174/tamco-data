@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shad astula academy robes",
+    "displayName": "Shad Astula Academy Robes",
+    "values": {
+      "commonRange": "180 - 325",
+      "averagePrice": 287,
+      "minimumPrice": 171,
+      "maximumPrice": 471,
+      "averageStackPrice": 287,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

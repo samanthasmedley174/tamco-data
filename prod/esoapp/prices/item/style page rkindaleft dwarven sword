@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page rkindaleft dwarven sword",
+    "displayName": "Style Page: Rkindaleft Dwarven Sword",
+    "values": {
+      "commonRange": "70 - 500",
+      "averagePrice": 209,
+      "minimumPrice": 10,
+      "maximumPrice": 900,
+      "averageStackPrice": 209,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Style Pages",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

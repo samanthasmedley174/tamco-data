@@ -1,0 +1,18 @@
+[
+  {
+    "name": "winterborn gardbrace",
+    "displayName": "Winterborn Gardbrace",
+    "values": {
+      "commonRange": "241 - 741",
+      "averagePrice": 621,
+      "minimumPrice": 141,
+      "maximumPrice": 1541,
+      "averageStackPrice": 621,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

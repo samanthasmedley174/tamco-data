@@ -1,0 +1,18 @@
+[
+  {
+    "name": "unknown provisioning writ",
+    "displayName": "Unknown Provisioning Writ",
+    "values": {
+      "commonRange": "4,000 - 4,000",
+      "averagePrice": 4545,
+      "minimumPrice": 4000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 9090,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Miscellaneous",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

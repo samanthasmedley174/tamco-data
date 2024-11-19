@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of dark convergence",
+    "displayName": "Restoration Staff of Dark Convergence",
+    "values": {
+      "commonRange": "3,346 - 34,958",
+      "averagePrice": 13807,
+      "minimumPrice": 234,
+      "maximumPrice": 45558,
+      "averageStackPrice": 13807,
+      "commonStackSize": 1,
+      "salesRecorded": 77
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

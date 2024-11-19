@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric sideboard shelves",
+    "displayName": "Vampiric Sideboard, Shelves",
+    "values": {
+      "commonRange": "3,758 - 11,950",
+      "averagePrice": 6613,
+      "minimumPrice": 3500,
+      "maximumPrice": 13880,
+      "averageStackPrice": 6613,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

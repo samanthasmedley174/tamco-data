@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe double clarified mazte",
+    "displayName": "Recipe: Double Clarified Mazte",
+    "values": {
+      "commonRange": "1,100 - 3,000",
+      "averagePrice": 2146,
+      "minimumPrice": 130,
+      "maximumPrice": 3000,
+      "averageStackPrice": 2146,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

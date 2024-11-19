@@ -1,0 +1,18 @@
+[
+  {
+    "name": "skeleton whale spine",
+    "displayName": "Skeleton, Whale Spine",
+    "values": {
+      "commonRange": "15,000 - 25,000",
+      "averagePrice": 18886,
+      "minimumPrice": 10780,
+      "maximumPrice": 29000,
+      "averageStackPrice": 18886,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

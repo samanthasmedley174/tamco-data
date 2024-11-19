@@ -1,0 +1,18 @@
+[
+  {
+    "name": "staff of natures accord",
+    "displayName": "Staff of Nature's Accord",
+    "values": {
+      "commonRange": "240 - 2,500",
+      "averagePrice": 1305,
+      "minimumPrice": 228,
+      "maximumPrice": 3228,
+      "averageStackPrice": 1305,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "traitors cuirass",
+    "displayName": "Traitor's Cuirass",
+    "values": {
+      "commonRange": "300 - 2,750",
+      "averagePrice": 1439,
+      "minimumPrice": 180,
+      "maximumPrice": 4180,
+      "averageStackPrice": 1439,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

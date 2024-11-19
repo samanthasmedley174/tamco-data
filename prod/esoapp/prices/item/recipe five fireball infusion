@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe five fireball infusion",
+    "displayName": "Recipe: Five-Fireball Infusion",
+    "values": {
+      "commonRange": "1,600 - 2,500",
+      "averagePrice": 2175,
+      "minimumPrice": 1500,
+      "maximumPrice": 4000,
+      "averageStackPrice": 2175,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

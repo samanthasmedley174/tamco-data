@@ -1,0 +1,18 @@
+[
+  {
+    "name": "provisioning station",
+    "displayName": "Provisioning Station",
+    "values": {
+      "commonRange": "27,591 - 29,999",
+      "averagePrice": 28119,
+      "minimumPrice": 24000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 28119,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Furnishings",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

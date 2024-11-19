@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born platform square",
+    "displayName": "Tide-Born Platform, Square",
+    "values": {
+      "commonRange": "3,900 - 12,000",
+      "averagePrice": 7920,
+      "minimumPrice": 2603,
+      "maximumPrice": 12000,
+      "averageStackPrice": 7920,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sixth house tailors bell",
+    "displayName": "Sixth House Tailor's Bell",
+    "values": {
+      "commonRange": "2,000 - 3,744",
+      "averagePrice": 3057,
+      "minimumPrice": 1700,
+      "maximumPrice": 3744,
+      "averageStackPrice": 3057,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Fragments",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

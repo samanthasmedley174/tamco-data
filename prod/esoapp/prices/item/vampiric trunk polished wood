@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric trunk polished wood",
+    "displayName": "Vampiric Trunk, Polished Wood",
+    "values": {
+      "commonRange": "1,100 - 5,000",
+      "averagePrice": 3666,
+      "minimumPrice": 1100,
+      "maximumPrice": 5500,
+      "averageStackPrice": 3666,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

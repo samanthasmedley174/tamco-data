@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of morihaus",
+    "displayName": "Sabatons of Morihaus",
+    "values": {
+      "commonRange": "500 - 3,200",
+      "averagePrice": 1192,
+      "minimumPrice": 90,
+      "maximumPrice": 4200,
+      "averageStackPrice": 1192,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

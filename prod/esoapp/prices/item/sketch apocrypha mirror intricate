@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch apocrypha mirror intricate",
+    "displayName": "Sketch: Apocrypha Mirror, Intricate",
+    "values": {
+      "commonRange": "40,000 - 90,000",
+      "averagePrice": 58529,
+      "minimumPrice": 40000,
+      "maximumPrice": 100045,
+      "averageStackPrice": 58529,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishing Plans",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

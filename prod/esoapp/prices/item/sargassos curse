@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sargassos curse",
+    "displayName": "Sargasso's Curse",
+    "values": {
+      "commonRange": "350 - 650",
+      "averagePrice": 554,
+      "minimumPrice": 274,
+      "maximumPrice": 1000,
+      "averageStackPrice": 554,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

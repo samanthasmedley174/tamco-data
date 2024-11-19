@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch meridian bell temple",
+    "displayName": "Sketch: Meridian Bell, Temple",
+    "values": {
+      "commonRange": "20,000 - 60,000",
+      "averagePrice": 47463,
+      "minimumPrice": 10045,
+      "maximumPrice": 95000,
+      "averageStackPrice": 47463,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

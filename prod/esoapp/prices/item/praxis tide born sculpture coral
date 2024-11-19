@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis tide born sculpture coral",
+    "displayName": "Praxis: Tide-Born Sculpture, Coral",
+    "values": {
+      "commonRange": "2,000 - 3,448",
+      "averagePrice": 3452,
+      "minimumPrice": 2000,
+      "maximumPrice": 13448,
+      "averageStackPrice": 3452,
+      "commonStackSize": 1,
+      "salesRecorded": 25
+    },
+    "type": "Furnishing Plans",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

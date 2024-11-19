@@ -1,0 +1,18 @@
+[
+  {
+    "name": "trackers lash breeches",
+    "displayName": "Tracker's Lash Breeches",
+    "values": {
+      "commonRange": "571 - 3,477",
+      "averagePrice": 1361,
+      "minimumPrice": 180,
+      "maximumPrice": 5477,
+      "averageStackPrice": 1361,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

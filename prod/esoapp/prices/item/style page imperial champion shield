@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page imperial champion shield",
+    "displayName": "Style Page: Imperial Champion Shield",
+    "values": {
+      "commonRange": "2,000 - 6,158",
+      "averagePrice": 4879,
+      "minimumPrice": 125,
+      "maximumPrice": 8000,
+      "averageStackPrice": 4879,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

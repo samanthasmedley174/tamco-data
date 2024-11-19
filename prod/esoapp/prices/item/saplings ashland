@@ -1,0 +1,18 @@
+[
+  {
+    "name": "saplings ashland",
+    "displayName": "Saplings, Ashland",
+    "values": {
+      "commonRange": "550 - 550",
+      "averagePrice": 458,
+      "minimumPrice": 160,
+      "maximumPrice": 570,
+      "averageStackPrice": 458,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "10/31/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

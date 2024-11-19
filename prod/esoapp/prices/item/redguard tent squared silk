@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard tent squared silk",
+    "displayName": "Redguard Tent, Squared Silk",
+    "values": {
+      "commonRange": "50,000 - 90,000",
+      "averagePrice": 72283,
+      "minimumPrice": 20000,
+      "maximumPrice": 101300,
+      "averageStackPrice": 72283,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/24/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

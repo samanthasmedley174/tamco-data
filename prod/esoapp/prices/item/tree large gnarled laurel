@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree large gnarled laurel",
+    "displayName": "Tree, Large Gnarled Laurel",
+    "values": {
+      "commonRange": "3,500 - 7,500",
+      "averagePrice": 5313,
+      "minimumPrice": 2250,
+      "maximumPrice": 8000,
+      "averageStackPrice": 5313,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "06/04/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page kargaeda shoulder",
+    "displayName": "Style Page: Kargaeda Shoulder",
+    "values": {
+      "commonRange": "44,000 - 61,185",
+      "averagePrice": 54938,
+      "minimumPrice": 33333,
+      "maximumPrice": 110671,
+      "averageStackPrice": 54938,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

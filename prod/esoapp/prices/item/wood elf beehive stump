@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wood elf beehive stump",
+    "displayName": "Wood Elf Beehive, Stump",
+    "values": {
+      "commonRange": "6,000 - 9,000",
+      "averagePrice": 8015,
+      "minimumPrice": 6000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 8015,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "01/25/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

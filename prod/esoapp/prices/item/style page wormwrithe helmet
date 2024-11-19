@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page wormwrithe helmet",
+    "displayName": "Style Page: Wormwrithe Helmet",
+    "values": {
+      "commonRange": "100 - 1,500",
+      "averagePrice": 1288,
+      "minimumPrice": 100,
+      "maximumPrice": 7100,
+      "averageStackPrice": 1288,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

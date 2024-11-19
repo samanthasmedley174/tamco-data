@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard divider lattice",
+    "displayName": "Redguard Divider, Lattice",
+    "values": {
+      "commonRange": "3,300 - 6,799",
+      "averagePrice": 4700,
+      "minimumPrice": 3300,
+      "maximumPrice": 9395,
+      "averageStackPrice": 9400,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

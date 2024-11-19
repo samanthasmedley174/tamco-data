@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rallying cry bow",
+    "displayName": "Rallying Cry Bow",
+    "values": {
+      "commonRange": "2,246 - 10,274",
+      "averagePrice": 7874,
+      "minimumPrice": 1000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 7874,
+      "commonStackSize": 1,
+      "salesRecorded": 87
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

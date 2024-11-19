@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page nazaray mask",
+    "displayName": "Style Page: Nazaray Mask",
+    "values": {
+      "commonRange": "599,969 - 875,000",
+      "averagePrice": 707679,
+      "minimumPrice": 599669,
+      "maximumPrice": 875000,
+      "averageStackPrice": 707679,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Style Pages",
+    "date": "09/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

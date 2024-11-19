@@ -1,0 +1,18 @@
+[
+  {
+    "name": "unknown alchemy writ",
+    "displayName": "Unknown Alchemy Writ",
+    "values": {
+      "commonRange": "1,000 - 6,500",
+      "averagePrice": 4519,
+      "minimumPrice": 1000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4519,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Miscellaneous",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

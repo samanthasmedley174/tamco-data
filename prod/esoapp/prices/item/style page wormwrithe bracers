@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page wormwrithe bracers",
+    "displayName": "Style Page: Wormwrithe Bracers",
+    "values": {
+      "commonRange": "233 - 1,895",
+      "averagePrice": 1121,
+      "minimumPrice": 100,
+      "maximumPrice": 5688,
+      "averageStackPrice": 1121,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

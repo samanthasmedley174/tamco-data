@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree ancient rotten",
+    "displayName": "Tree, Ancient Rotten",
+    "values": {
+      "commonRange": "800 - 4,150",
+      "averagePrice": 1856,
+      "minimumPrice": 450,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1856,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/22/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

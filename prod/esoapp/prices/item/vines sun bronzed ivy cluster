@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vines sun bronzed ivy cluster",
+    "displayName": "Vines, Sun-Bronzed Ivy Cluster",
+    "values": {
+      "commonRange": "265 - 915",
+      "averagePrice": 544,
+      "minimumPrice": 265,
+      "maximumPrice": 1000,
+      "averageStackPrice": 2176,
+      "commonStackSize": 4,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "07/30/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

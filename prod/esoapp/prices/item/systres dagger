@@ -1,0 +1,18 @@
+[
+  {
+    "name": "systres dagger",
+    "displayName": "Systres' Dagger",
+    "values": {
+      "commonRange": "144 - 144",
+      "averagePrice": 144,
+      "minimumPrice": 144,
+      "maximumPrice": 144,
+      "averageStackPrice": 144,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

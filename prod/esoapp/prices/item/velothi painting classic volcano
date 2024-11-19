@@ -1,0 +1,18 @@
+[
+  {
+    "name": "velothi painting classic volcano",
+    "displayName": "Velothi Painting, Classic Volcano",
+    "values": {
+      "commonRange": "193,100 - 500,000",
+      "averagePrice": 335410,
+      "minimumPrice": 185000,
+      "maximumPrice": 750000,
+      "averageStackPrice": 335410,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "11/12/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

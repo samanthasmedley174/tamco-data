@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree towering swamp palm",
+    "displayName": "Tree, Towering Swamp Palm",
+    "values": {
+      "commonRange": "1,060 - 7,500",
+      "averagePrice": 3368,
+      "minimumPrice": 1000,
+      "maximumPrice": 11060,
+      "averageStackPrice": 3368,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/27/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

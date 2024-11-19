@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard table grand oasis",
+    "displayName": "Redguard Table, Grand Oasis",
+    "values": {
+      "commonRange": "7,199 - 7,288",
+      "averagePrice": 7256,
+      "minimumPrice": 7199,
+      "maximumPrice": 7369,
+      "averageStackPrice": 7256,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Furnishings",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

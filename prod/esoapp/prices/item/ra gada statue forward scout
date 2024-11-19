@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ra gada statue forward scout",
+    "displayName": "Ra Gada Statue, Forward Scout",
+    "values": {
+      "commonRange": "20,000 - 55,000",
+      "averagePrice": 33051,
+      "minimumPrice": 17532,
+      "maximumPrice": 55000,
+      "averageStackPrice": 33051,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

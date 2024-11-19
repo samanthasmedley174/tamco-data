@@ -1,0 +1,18 @@
+[
+  {
+    "name": "throne keeper coif",
+    "displayName": "Throne Keeper Coif",
+    "values": {
+      "commonRange": "1,000 - 1,000",
+      "averagePrice": 1005,
+      "minimumPrice": 666,
+      "maximumPrice": 1350,
+      "averageStackPrice": 1005,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

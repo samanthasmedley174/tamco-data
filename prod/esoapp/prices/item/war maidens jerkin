@@ -1,0 +1,18 @@
+[
+  {
+    "name": "war maidens jerkin",
+    "displayName": "War Maiden's Jerkin",
+    "values": {
+      "commonRange": "600 - 25,000",
+      "averagePrice": 13038,
+      "minimumPrice": 50,
+      "maximumPrice": 120000,
+      "averageStackPrice": 13038,
+      "commonStackSize": 1,
+      "salesRecorded": 61
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

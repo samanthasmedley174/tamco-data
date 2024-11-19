@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoulderpads of the faithful",
+    "displayName": "Shoulderpads of the Faithful",
+    "values": {
+      "commonRange": "350 - 350",
+      "averagePrice": 544,
+      "minimumPrice": 141,
+      "maximumPrice": 1141,
+      "averageStackPrice": 544,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

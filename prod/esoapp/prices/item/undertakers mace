@@ -1,0 +1,18 @@
+[
+  {
+    "name": "undertakers mace",
+    "displayName": "Undertaker's Mace",
+    "values": {
+      "commonRange": "150 - 1,500",
+      "averagePrice": 900,
+      "minimumPrice": 144,
+      "maximumPrice": 1555,
+      "averageStackPrice": 900,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

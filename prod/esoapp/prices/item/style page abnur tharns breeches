@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page abnur tharns breeches",
+    "displayName": "Style Page: Abnur Tharn's Breeches",
+    "values": {
+      "commonRange": "2,000 - 23,500",
+      "averagePrice": 14925,
+      "minimumPrice": 1000,
+      "maximumPrice": 24023,
+      "averageStackPrice": 14925,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

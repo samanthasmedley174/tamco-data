@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page second legion helmet",
+    "displayName": "Style Page: Second Legion Helmet",
+    "values": {
+      "commonRange": "99,000 - 350,000",
+      "averagePrice": 243537,
+      "minimumPrice": 5500,
+      "maximumPrice": 500000,
+      "averageStackPrice": 243537,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "02/27/2024",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis vampiric brazier taloned",
+    "displayName": "Praxis: Vampiric Brazier, Taloned",
+    "values": {
+      "commonRange": "150,000 - 224,000",
+      "averagePrice": 195575,
+      "minimumPrice": 87016,
+      "maximumPrice": 325000,
+      "averageStackPrice": 195575,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishing Plans",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

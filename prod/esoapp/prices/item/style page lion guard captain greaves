@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page lion guard captain greaves",
+    "displayName": "Style Page: Lion Guard Captain Greaves",
+    "values": {
+      "commonRange": "2,000 - 7,700",
+      "averagePrice": 7962,
+      "minimumPrice": 1632,
+      "maximumPrice": 39899,
+      "averageStackPrice": 7962,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

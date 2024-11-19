@@ -1,0 +1,18 @@
+[
+  {
+    "name": "solitude cauldron metal empty",
+    "displayName": "Solitude Cauldron, Metal Empty",
+    "values": {
+      "commonRange": "160 - 2,060",
+      "averagePrice": 1385,
+      "minimumPrice": 100,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1385,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/14/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

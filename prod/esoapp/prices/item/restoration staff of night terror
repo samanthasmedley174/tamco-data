@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of night terror",
+    "displayName": "Restoration Staff of Night Terror",
+    "values": {
+      "commonRange": "234 - 1,305",
+      "averagePrice": 1033,
+      "minimumPrice": 190,
+      "maximumPrice": 5246,
+      "averageStackPrice": 1033,
+      "commonStackSize": 1,
+      "salesRecorded": 22
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

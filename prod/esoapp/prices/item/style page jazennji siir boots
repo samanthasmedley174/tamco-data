@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page jazennji siir boots",
+    "displayName": "Style Page: Ja'zennji Siir Boots",
+    "values": {
+      "commonRange": "2,000 - 14,265",
+      "averagePrice": 6418,
+      "minimumPrice": 1000,
+      "maximumPrice": 18000,
+      "averageStackPrice": 6418,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "01/05/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "silver dawn sabatons",
+    "displayName": "Silver Dawn Sabatons",
+    "values": {
+      "commonRange": "284 - 750",
+      "averagePrice": 601,
+      "minimumPrice": 84,
+      "maximumPrice": 1284,
+      "averageStackPrice": 601,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

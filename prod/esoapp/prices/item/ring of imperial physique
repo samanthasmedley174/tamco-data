@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of imperial physique",
+    "displayName": "Ring of Imperial Physique",
+    "values": {
+      "commonRange": "4,900 - 20,000",
+      "averagePrice": 8875,
+      "minimumPrice": 2000,
+      "maximumPrice": 23000,
+      "averageStackPrice": 8875,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

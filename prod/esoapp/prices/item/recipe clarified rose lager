@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe clarified rose lager",
+    "displayName": "Recipe: Clarified Rose Lager",
+    "values": {
+      "commonRange": "330 - 3,000",
+      "averagePrice": 2809,
+      "minimumPrice": 200,
+      "maximumPrice": 11000,
+      "averageStackPrice": 2809,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Provisioning Recipes",
+    "date": "01/04/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

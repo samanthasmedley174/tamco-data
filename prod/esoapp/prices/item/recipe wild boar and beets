@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe wild boar and beets",
+    "displayName": "Recipe: Wild-Boar-and-Beets",
+    "values": {
+      "commonRange": "1,030 - 2,387",
+      "averagePrice": 2274,
+      "minimumPrice": 200,
+      "maximumPrice": 9000,
+      "averageStackPrice": 2274,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Provisioning Recipes",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

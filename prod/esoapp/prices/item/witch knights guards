@@ -1,0 +1,18 @@
+[
+  {
+    "name": "witch knights guards",
+    "displayName": "Witch-Knight's Guards",
+    "values": {
+      "commonRange": "180 - 15,723",
+      "averagePrice": 7728,
+      "minimumPrice": 140,
+      "maximumPrice": 43169,
+      "averageStackPrice": 7728,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wizards riposte shield",
+    "displayName": "Wizard's Riposte Shield",
+    "values": {
+      "commonRange": "953 - 2,153",
+      "averagePrice": 2190,
+      "minimumPrice": 500,
+      "maximumPrice": 5153,
+      "averageStackPrice": 2190,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

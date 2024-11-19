@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ward draining poison i",
+    "displayName": "Ward-Draining Poison I",
+    "values": {
+      "commonRange": "3 - 12",
+      "averagePrice": 10,
+      "minimumPrice": 3,
+      "maximumPrice": 38,
+      "averageStackPrice": 10000,
+      "commonStackSize": 1000,
+      "salesRecorded": 9
+    },
+    "type": "Potions & Poisons",
+    "date": "10/28/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

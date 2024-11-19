@@ -1,0 +1,18 @@
+[
+  {
+    "name": "scalloped frog metal",
+    "displayName": "Scalloped Frog-Metal",
+    "values": {
+      "commonRange": "334 - 529",
+      "averagePrice": 454,
+      "minimumPrice": 136,
+      "maximumPrice": 625,
+      "averageStackPrice": 4540,
+      "commonStackSize": 10,
+      "salesRecorded": 11
+    },
+    "type": "Style Materials",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Scalloped_Frog-metal.png"
+  }
+]

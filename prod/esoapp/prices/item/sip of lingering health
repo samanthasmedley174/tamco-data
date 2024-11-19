@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sip of lingering health",
+    "displayName": "Sip of Lingering Health",
+    "values": {
+      "commonRange": "3 - 3",
+      "averagePrice": 2,
+      "minimumPrice": 1,
+      "maximumPrice": 3,
+      "averageStackPrice": 2,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Potions & Poisons",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

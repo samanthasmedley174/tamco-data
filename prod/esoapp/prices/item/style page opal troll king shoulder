@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal troll king shoulder",
+    "displayName": "Style Page: Opal Troll King Shoulder",
+    "values": {
+      "commonRange": "149,709 - 194,709",
+      "averagePrice": 178164,
+      "minimumPrice": 149709,
+      "maximumPrice": 200000,
+      "averageStackPrice": 178164,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

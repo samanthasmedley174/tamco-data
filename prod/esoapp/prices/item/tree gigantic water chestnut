@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree gigantic water chestnut",
+    "displayName": "Tree, Gigantic Water Chestnut",
+    "values": {
+      "commonRange": "10,000 - 13,000",
+      "averagePrice": 11443,
+      "minimumPrice": 7500,
+      "maximumPrice": 13459,
+      "averageStackPrice": 11443,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "09/30/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

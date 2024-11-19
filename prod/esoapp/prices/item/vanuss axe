@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vanuss axe",
+    "displayName": "Vanus's Axe",
+    "values": {
+      "commonRange": "244 - 1,479",
+      "averagePrice": 711,
+      "minimumPrice": 150,
+      "maximumPrice": 1659,
+      "averageStackPrice": 711,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

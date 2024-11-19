@@ -1,0 +1,18 @@
+[
+  {
+    "name": "wormcrushers axe",
+    "displayName": "Wormcrusher's Axe",
+    "values": {
+      "commonRange": "666 - 2,240",
+      "averagePrice": 1751,
+      "minimumPrice": 200,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1751,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1haxe.png"
+  }
+]

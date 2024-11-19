@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of syvarras scales",
+    "displayName": "Shoes of Syvarra's Scales",
+    "values": {
+      "commonRange": "250 - 14,999",
+      "averagePrice": 4936,
+      "minimumPrice": 87,
+      "maximumPrice": 19999,
+      "averageStackPrice": 4936,
+      "commonStackSize": 1,
+      "salesRecorded": 33
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

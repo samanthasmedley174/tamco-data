@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page old orsinium axe",
+    "displayName": "Style Page: Old Orsinium Axe",
+    "values": {
+      "commonRange": "14,855 - 24,187",
+      "averagePrice": 21244,
+      "minimumPrice": 10000,
+      "maximumPrice": 45572,
+      "averageStackPrice": 21244,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

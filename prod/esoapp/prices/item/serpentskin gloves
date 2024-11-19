@@ -1,0 +1,18 @@
+[
+  {
+    "name": "serpentskin gloves",
+    "displayName": "Serpentskin Gloves",
+    "values": {
+      "commonRange": "2,000 - 2,000",
+      "averagePrice": 2000,
+      "minimumPrice": 2000,
+      "maximumPrice": 2000,
+      "averageStackPrice": 2000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "systres lightning staff",
+    "displayName": "Systres' Lightning Staff",
+    "values": {
+      "commonRange": "400 - 2,200",
+      "averagePrice": 1259,
+      "minimumPrice": 254,
+      "maximumPrice": 3000,
+      "averageStackPrice": 1259,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

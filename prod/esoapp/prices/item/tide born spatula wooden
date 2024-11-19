@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born spatula wooden",
+    "displayName": "Tide-Born Spatula, Wooden",
+    "values": {
+      "commonRange": "9,100 - 10,726",
+      "averagePrice": 9611,
+      "minimumPrice": 6752,
+      "maximumPrice": 10752,
+      "averageStackPrice": 9611,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

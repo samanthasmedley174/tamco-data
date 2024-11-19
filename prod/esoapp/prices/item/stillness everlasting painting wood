@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stillness everlasting painting wood",
+    "displayName": "Stillness Everlasting Painting, Wood",
+    "values": {
+      "commonRange": "175,000 - 210,000",
+      "averagePrice": 188455,
+      "minimumPrice": 150000,
+      "maximumPrice": 214050,
+      "averageStackPrice": 188455,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult lamp jaw",
+    "displayName": "Worm Cult Lamp, Jaw",
+    "values": {
+      "commonRange": "17,000 - 30,326",
+      "averagePrice": 24445,
+      "minimumPrice": 2000,
+      "maximumPrice": 30599,
+      "averageStackPrice": 24445,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "thunderbugs inferno staff",
+    "displayName": "Thunderbug's Inferno Staff",
+    "values": {
+      "commonRange": "740 - 1,246",
+      "averagePrice": 5675,
+      "minimumPrice": 240,
+      "maximumPrice": 25000,
+      "averageStackPrice": 5675,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

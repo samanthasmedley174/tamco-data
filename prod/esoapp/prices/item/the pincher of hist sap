@@ -1,0 +1,18 @@
+[
+  {
+    "name": "the pincher of hist sap",
+    "displayName": "The Pincher of Hist Sap",
+    "values": {
+      "commonRange": "1,150 - 3,000",
+      "averagePrice": 2075,
+      "minimumPrice": 1150,
+      "maximumPrice": 3000,
+      "averageStackPrice": 2075,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

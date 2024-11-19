@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe lilmoth garlic hagfish",
+    "displayName": "Recipe: Lilmoth Garlic Hagfish",
+    "values": {
+      "commonRange": "20 - 127",
+      "averagePrice": 71,
+      "minimumPrice": 15,
+      "maximumPrice": 547,
+      "averageStackPrice": 71,
+      "commonStackSize": 1,
+      "salesRecorded": 34
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

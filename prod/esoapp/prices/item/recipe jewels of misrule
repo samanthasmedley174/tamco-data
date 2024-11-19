@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe jewels of misrule",
+    "displayName": "Recipe: Jewels of Misrule",
+    "values": {
+      "commonRange": "48,000 - 55,000",
+      "averagePrice": 51506,
+      "minimumPrice": 48000,
+      "maximumPrice": 60000,
+      "averageStackPrice": 51506,
+      "commonStackSize": 1,
+      "salesRecorded": 16
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

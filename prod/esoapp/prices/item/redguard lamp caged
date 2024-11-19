@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard lamp caged",
+    "displayName": "Redguard Lamp, Caged",
+    "values": {
+      "commonRange": "1,000 - 5,462",
+      "averagePrice": 3472,
+      "minimumPrice": 1000,
+      "maximumPrice": 5462,
+      "averageStackPrice": 3472,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

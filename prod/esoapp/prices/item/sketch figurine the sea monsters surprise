@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sketch figurine the sea monsters surprise",
+    "displayName": "Sketch: Figurine, The Sea-Monster's Surprise",
+    "values": {
+      "commonRange": "19,000 - 22,837",
+      "averagePrice": 19788,
+      "minimumPrice": 2150,
+      "maximumPrice": 25000,
+      "averageStackPrice": 19788,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

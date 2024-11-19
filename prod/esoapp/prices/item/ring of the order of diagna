@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the order of diagna",
+    "displayName": "Ring of the Order of Diagna",
+    "values": {
+      "commonRange": "150 - 1,000",
+      "averagePrice": 525,
+      "minimumPrice": 144,
+      "maximumPrice": 2000,
+      "averageStackPrice": 525,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "01/27/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

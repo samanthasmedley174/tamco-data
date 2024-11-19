@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shrub tender privet",
+    "displayName": "Shrub, Tender Privet",
+    "values": {
+      "commonRange": "250 - 563",
+      "averagePrice": 517,
+      "minimumPrice": 25,
+      "maximumPrice": 1515,
+      "averageStackPrice": 1034,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

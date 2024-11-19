@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shield of draugr heritage",
+    "displayName": "Shield of Draugr Heritage",
+    "values": {
+      "commonRange": "300 - 2,053",
+      "averagePrice": 1008,
+      "minimumPrice": 277,
+      "maximumPrice": 3150,
+      "averageStackPrice": 1008,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

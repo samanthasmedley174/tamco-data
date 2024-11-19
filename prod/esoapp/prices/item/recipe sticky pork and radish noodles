@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe sticky pork and radish noodles",
+    "displayName": "Recipe: Sticky Pork and Radish Noodles",
+    "values": {
+      "commonRange": "30 - 996",
+      "averagePrice": 358,
+      "minimumPrice": 30,
+      "maximumPrice": 2000,
+      "averageStackPrice": 358,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

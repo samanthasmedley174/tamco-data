@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe red queens eye opener",
+    "displayName": "Recipe: Red Queen's Eye-Opener",
+    "values": {
+      "commonRange": "330 - 1,500",
+      "averagePrice": 1195,
+      "minimumPrice": 300,
+      "maximumPrice": 4038,
+      "averageStackPrice": 1195,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

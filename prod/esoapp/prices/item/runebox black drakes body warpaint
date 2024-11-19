@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox black drakes body warpaint",
+    "displayName": "Runebox: Black Drake's Body Warpaint",
+    "values": {
+      "commonRange": "148,000 - 2,000,000",
+      "averagePrice": 638631,
+      "minimumPrice": 130000,
+      "maximumPrice": 2000000,
+      "averageStackPrice": 638631,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Runeboxes",
+    "date": "01/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

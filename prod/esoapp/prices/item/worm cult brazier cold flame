@@ -1,0 +1,18 @@
+[
+  {
+    "name": "worm cult brazier cold flame",
+    "displayName": "Worm Cult Brazier, Cold-Flame",
+    "values": {
+      "commonRange": "12,000 - 14,000",
+      "averagePrice": 13572,
+      "minimumPrice": 12000,
+      "maximumPrice": 30000,
+      "averageStackPrice": 13572,
+      "commonStackSize": 1,
+      "salesRecorded": 19
+    },
+    "type": "Furnishings",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "unflinching ultimate cuirass",
+    "displayName": "Unflinching Ultimate Cuirass",
+    "values": {
+      "commonRange": "500 - 5,483",
+      "averagePrice": 2323,
+      "minimumPrice": 180,
+      "maximumPrice": 14539,
+      "averageStackPrice": 2323,
+      "commonStackSize": 1,
+      "salesRecorded": 145
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

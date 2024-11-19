@@ -1,0 +1,18 @@
+[
+  {
+    "name": "warrior poets sword",
+    "displayName": "Warrior-Poet's Sword",
+    "values": {
+      "commonRange": "400 - 7,309",
+      "averagePrice": 3313,
+      "minimumPrice": 100,
+      "maximumPrice": 25000,
+      "averageStackPrice": 3313,
+      "commonStackSize": 1,
+      "salesRecorded": 46
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hsword.png"
+  }
+]

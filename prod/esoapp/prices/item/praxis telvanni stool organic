@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis telvanni stool organic",
+    "displayName": "Praxis: Telvanni Stool, Organic",
+    "values": {
+      "commonRange": "33,000 - 44,000",
+      "averagePrice": 37785,
+      "minimumPrice": 33000,
+      "maximumPrice": 44639,
+      "averageStackPrice": 37785,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishing Plans",
+    "date": "01/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

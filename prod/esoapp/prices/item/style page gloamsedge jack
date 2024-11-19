@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page gloamsedge jack",
+    "displayName": "Style Page: Gloamsedge Jack",
+    "values": {
+      "commonRange": "30,000 - 50,000",
+      "averagePrice": 42183,
+      "minimumPrice": 30000,
+      "maximumPrice": 75420,
+      "averageStackPrice": 42183,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

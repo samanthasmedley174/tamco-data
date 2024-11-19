@@ -1,0 +1,18 @@
+[
+  {
+    "name": "xanmeer genesis breeches",
+    "displayName": "Xanmeer Genesis Breeches",
+    "values": {
+      "commonRange": "585 - 3,575",
+      "averagePrice": 2470,
+      "minimumPrice": 180,
+      "maximumPrice": 6500,
+      "averageStackPrice": 2470,
+      "commonStackSize": 1,
+      "salesRecorded": 23
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

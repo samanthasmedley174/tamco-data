@@ -1,0 +1,18 @@
+[
+  {
+    "name": "swamp raiders belt",
+    "displayName": "Swamp Raider's Belt",
+    "values": {
+      "commonRange": "190 - 25,000",
+      "averagePrice": 6947,
+      "minimumPrice": 90,
+      "maximumPrice": 30000,
+      "averageStackPrice": 6947,
+      "commonStackSize": 1,
+      "salesRecorded": 51
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

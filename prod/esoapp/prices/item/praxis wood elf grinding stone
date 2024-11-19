@@ -1,0 +1,18 @@
+[
+  {
+    "name": "praxis wood elf grinding stone",
+    "displayName": "Praxis: Wood Elf Grinding Stone",
+    "values": {
+      "commonRange": "84 - 200",
+      "averagePrice": 143,
+      "minimumPrice": 30,
+      "maximumPrice": 227,
+      "averageStackPrice": 143,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Furnishing Plans",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishing_Plans/recipe.png"
+  }
+]

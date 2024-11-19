@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran stool sanded",
+    "displayName": "Redoran Stool, Sanded",
+    "values": {
+      "commonRange": "999 - 4,000",
+      "averagePrice": 1828,
+      "minimumPrice": 60,
+      "maximumPrice": 4260,
+      "averageStackPrice": 1828,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/28/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

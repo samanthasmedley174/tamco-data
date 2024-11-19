@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stonegrinders dagger",
+    "displayName": "Stonegrinder's Dagger",
+    "values": {
+      "commonRange": "5,141 - 5,141",
+      "averagePrice": 5141,
+      "minimumPrice": 5141,
+      "maximumPrice": 5141,
+      "averageStackPrice": 5141,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

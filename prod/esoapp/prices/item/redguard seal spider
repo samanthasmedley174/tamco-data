@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard seal spider",
+    "displayName": "Redguard Seal, Spider",
+    "values": {
+      "commonRange": "4,000 - 13,500",
+      "averagePrice": 7480,
+      "minimumPrice": 2200,
+      "maximumPrice": 16500,
+      "averageStackPrice": 7480,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

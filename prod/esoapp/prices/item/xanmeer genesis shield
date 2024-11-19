@@ -1,0 +1,18 @@
+[
+  {
+    "name": "xanmeer genesis shield",
+    "displayName": "Xanmeer Genesis Shield",
+    "values": {
+      "commonRange": "350 - 5,500",
+      "averagePrice": 2126,
+      "minimumPrice": 250,
+      "maximumPrice": 8000,
+      "averageStackPrice": 2126,
+      "commonStackSize": 1,
+      "salesRecorded": 41
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

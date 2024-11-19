@@ -1,0 +1,18 @@
+[
+  {
+    "name": "shoes of the night mother",
+    "displayName": "Shoes of the Night Mother",
+    "values": {
+      "commonRange": "3,093 - 5,093",
+      "averagePrice": 4093,
+      "minimumPrice": 3093,
+      "maximumPrice": 5093,
+      "averageStackPrice": 4093,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

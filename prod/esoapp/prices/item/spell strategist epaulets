@@ -1,0 +1,18 @@
+[
+  {
+    "name": "spell strategist epaulets",
+    "displayName": "Spell Strategist Epaulets",
+    "values": {
+      "commonRange": "699 - 1,250",
+      "averagePrice": 1751,
+      "minimumPrice": 253,
+      "maximumPrice": 10150,
+      "averageStackPrice": 1751,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/20/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

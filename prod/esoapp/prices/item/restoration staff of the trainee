@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of the trainee",
+    "displayName": "Restoration Staff of the Trainee",
+    "values": {
+      "commonRange": "178 - 3,246",
+      "averagePrice": 2137,
+      "minimumPrice": 140,
+      "maximumPrice": 60252,
+      "averageStackPrice": 2137,
+      "commonStackSize": 1,
+      "salesRecorded": 63
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

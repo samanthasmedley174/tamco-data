@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of the twin sisters",
+    "displayName": "Restoration Staff of the Twin Sisters",
+    "values": {
+      "commonRange": "162 - 1,240",
+      "averagePrice": 532,
+      "minimumPrice": 114,
+      "maximumPrice": 1240,
+      "averageStackPrice": 532,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

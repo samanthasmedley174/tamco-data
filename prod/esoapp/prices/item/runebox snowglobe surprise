@@ -1,0 +1,18 @@
+[
+  {
+    "name": "runebox snowglobe surprise",
+    "displayName": "Runebox: Snowglobe Surprise",
+    "values": {
+      "commonRange": "2,000 - 17,000",
+      "averagePrice": 7701,
+      "minimumPrice": 500,
+      "maximumPrice": 27114,
+      "averageStackPrice": 7701,
+      "commonStackSize": 1,
+      "salesRecorded": 17
+    },
+    "type": "Runeboxes",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Runeboxes/runebox.png"
+  }
+]

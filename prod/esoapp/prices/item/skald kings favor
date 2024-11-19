@@ -1,0 +1,18 @@
+[
+  {
+    "name": "skald kings favor",
+    "displayName": "Skald-King's Favor",
+    "values": {
+      "commonRange": "400 - 514",
+      "averagePrice": 483,
+      "minimumPrice": 141,
+      "maximumPrice": 1000,
+      "averageStackPrice": 483,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

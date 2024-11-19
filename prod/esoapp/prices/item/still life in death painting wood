@@ -1,0 +1,18 @@
+[
+  {
+    "name": "still life in death painting wood",
+    "displayName": "Still Life in Death Painting, Wood",
+    "values": {
+      "commonRange": "64,406 - 117,030",
+      "averagePrice": 96411,
+      "minimumPrice": 60000,
+      "maximumPrice": 120000,
+      "averageStackPrice": 96411,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

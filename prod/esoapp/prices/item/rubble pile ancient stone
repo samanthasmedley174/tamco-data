@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rubble pile ancient stone",
+    "displayName": "Rubble Pile, Ancient Stone",
+    "values": {
+      "commonRange": "12 - 740",
+      "averagePrice": 375,
+      "minimumPrice": 10,
+      "maximumPrice": 1000,
+      "averageStackPrice": 2625,
+      "commonStackSize": 7,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "06/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

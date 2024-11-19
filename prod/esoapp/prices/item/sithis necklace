@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sithis necklace",
+    "displayName": "Sithis' Necklace",
+    "values": {
+      "commonRange": "344 - 3,000",
+      "averagePrice": 1484,
+      "minimumPrice": 244,
+      "maximumPrice": 3350,
+      "averageStackPrice": 1484,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

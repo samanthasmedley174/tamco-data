@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redoran incense holder mesh",
+    "displayName": "Redoran Incense Holder, Mesh",
+    "values": {
+      "commonRange": "2,400 - 9,000",
+      "averagePrice": 4975,
+      "minimumPrice": 1999,
+      "maximumPrice": 10000,
+      "averageStackPrice": 4975,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/24/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

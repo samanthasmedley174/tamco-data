@@ -1,0 +1,18 @@
+[
+  {
+    "name": "werewolf hide bracers",
+    "displayName": "Werewolf Hide Bracers",
+    "values": {
+      "commonRange": "300 - 3,000",
+      "averagePrice": 1216,
+      "minimumPrice": 90,
+      "maximumPrice": 5500,
+      "averageStackPrice": 1216,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

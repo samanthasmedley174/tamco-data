@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal nightflame mask",
+    "displayName": "Style Page: Opal Nightflame Mask",
+    "values": {
+      "commonRange": "26,500 - 40,000",
+      "averagePrice": 32532,
+      "minimumPrice": 25000,
+      "maximumPrice": 50000,
+      "averageStackPrice": 32532,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

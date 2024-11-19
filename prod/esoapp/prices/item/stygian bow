@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stygian bow",
+    "displayName": "Stygian Bow",
+    "values": {
+      "commonRange": "500 - 2,240",
+      "averagePrice": 1478,
+      "minimumPrice": 240,
+      "maximumPrice": 4246,
+      "averageStackPrice": 1478,
+      "commonStackSize": 1,
+      "salesRecorded": 8
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

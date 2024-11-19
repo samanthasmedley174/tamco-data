@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page glenmoril wyrd jerkin",
+    "displayName": "Style Page: Glenmoril Wyrd Jerkin",
+    "values": {
+      "commonRange": "100 - 2,000",
+      "averagePrice": 972,
+      "minimumPrice": 100,
+      "maximumPrice": 4646,
+      "averageStackPrice": 972,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

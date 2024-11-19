@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born belt",
+    "displayName": "Tide-Born Belt",
+    "values": {
+      "commonRange": "18,000 - 60,000",
+      "averagePrice": 36156,
+      "minimumPrice": 12500,
+      "maximumPrice": 74093,
+      "averageStackPrice": 36156,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Set Items",
+    "date": "01/18/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/belt.png"
+  }
+]

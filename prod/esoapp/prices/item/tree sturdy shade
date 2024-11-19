@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tree sturdy shade",
+    "displayName": "Tree, Sturdy Shade",
+    "values": {
+      "commonRange": "1,060 - 2,060",
+      "averagePrice": 1507,
+      "minimumPrice": 1000,
+      "maximumPrice": 2060,
+      "averageStackPrice": 3014,
+      "commonStackSize": 2,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "10/31/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

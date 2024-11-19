@@ -1,0 +1,18 @@
+[
+  {
+    "name": "senchal defenders lightning staff",
+    "displayName": "Senchal Defender's Lightning Staff",
+    "values": {
+      "commonRange": "750 - 2,250",
+      "averagePrice": 1390,
+      "minimumPrice": 540,
+      "maximumPrice": 2441,
+      "averageStackPrice": 1390,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

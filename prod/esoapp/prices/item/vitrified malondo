@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vitrified malondo",
+    "displayName": "Vitrified Malondo",
+    "values": {
+      "commonRange": "479 - 1,000",
+      "averagePrice": 819,
+      "minimumPrice": 100,
+      "maximumPrice": 1000,
+      "averageStackPrice": 8190,
+      "commonStackSize": 10,
+      "salesRecorded": 18
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Vitrified_Malondo.png"
+  }
+]

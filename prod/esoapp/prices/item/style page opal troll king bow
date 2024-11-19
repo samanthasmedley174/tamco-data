@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page opal troll king bow",
+    "displayName": "Style Page: Opal Troll King Bow",
+    "values": {
+      "commonRange": "16,500 - 40,000",
+      "averagePrice": 28782,
+      "minimumPrice": 14401,
+      "maximumPrice": 100000,
+      "averageStackPrice": 28782,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

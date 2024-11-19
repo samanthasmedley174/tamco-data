@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page grave dancer staff",
+    "displayName": "Style Page: Grave Dancer Staff",
+    "values": {
+      "commonRange": "900 - 4,944",
+      "averagePrice": 2656,
+      "minimumPrice": 555,
+      "maximumPrice": 4944,
+      "averageStackPrice": 2656,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Style Pages",
+    "date": "01/26/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

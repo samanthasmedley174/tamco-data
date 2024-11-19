@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stone angled grey",
+    "displayName": "Stone, Angled Grey",
+    "values": {
+      "commonRange": "950 - 950",
+      "averagePrice": 950,
+      "minimumPrice": 950,
+      "maximumPrice": 950,
+      "averageStackPrice": 950,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Furnishings",
+    "date": "02/16/2021",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

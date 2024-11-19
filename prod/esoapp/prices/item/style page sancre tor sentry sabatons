@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page sancre tor sentry sabatons",
+    "displayName": "Style Page: Sancre Tor Sentry Sabatons",
+    "values": {
+      "commonRange": "2,222 - 35,000",
+      "averagePrice": 14449,
+      "minimumPrice": 1800,
+      "maximumPrice": 75000,
+      "averageStackPrice": 14449,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

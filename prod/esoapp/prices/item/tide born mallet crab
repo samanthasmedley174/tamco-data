@@ -1,0 +1,18 @@
+[
+  {
+    "name": "tide born mallet crab",
+    "displayName": "Tide-Born Mallet, Crab",
+    "values": {
+      "commonRange": "8,000 - 10,300",
+      "averagePrice": 9970,
+      "minimumPrice": 8000,
+      "maximumPrice": 15000,
+      "averageStackPrice": 9970,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "09/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

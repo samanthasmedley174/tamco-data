@@ -1,0 +1,18 @@
+[
+  {
+    "name": "redguard pillow florid flames",
+    "displayName": "Redguard Pillow, Florid Flames",
+    "values": {
+      "commonRange": "4,000 - 5,000",
+      "averagePrice": 4614,
+      "minimumPrice": 4000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 4614,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

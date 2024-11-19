@@ -1,0 +1,18 @@
+[
+  {
+    "name": "vampiric sideboard racks",
+    "displayName": "Vampiric Sideboard, Racks",
+    "values": {
+      "commonRange": "3,000 - 14,000",
+      "averagePrice": 9435,
+      "minimumPrice": 2500,
+      "maximumPrice": 14000,
+      "averageStackPrice": 9435,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/07/2024",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

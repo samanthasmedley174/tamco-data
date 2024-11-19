@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ukaezais scalpel",
+    "displayName": "Ukaezai's Scalpel",
+    "values": {
+      "commonRange": "240 - 540",
+      "averagePrice": 418,
+      "minimumPrice": 200,
+      "maximumPrice": 740,
+      "averageStackPrice": 418,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/22/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

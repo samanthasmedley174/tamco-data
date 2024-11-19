@@ -1,0 +1,18 @@
+[
+  {
+    "name": "restoration staff of the pariah",
+    "displayName": "Restoration Staff of the Pariah",
+    "values": {
+      "commonRange": "2,246 - 12,000",
+      "averagePrice": 6070,
+      "minimumPrice": 246,
+      "maximumPrice": 23865,
+      "averageStackPrice": 6070,
+      "commonStackSize": 1,
+      "salesRecorded": 43
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

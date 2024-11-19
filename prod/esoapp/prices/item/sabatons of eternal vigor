@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sabatons of eternal vigor",
+    "displayName": "Sabatons of Eternal Vigor",
+    "values": {
+      "commonRange": "90 - 4,090",
+      "averagePrice": 2090,
+      "minimumPrice": 87,
+      "maximumPrice": 30000,
+      "averageStackPrice": 2090,
+      "commonStackSize": 1,
+      "salesRecorded": 38
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

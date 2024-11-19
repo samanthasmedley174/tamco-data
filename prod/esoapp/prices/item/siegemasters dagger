@@ -1,0 +1,18 @@
+[
+  {
+    "name": "siegemasters dagger",
+    "displayName": "Siegemaster's Dagger",
+    "values": {
+      "commonRange": "644 - 2,354",
+      "averagePrice": 1343,
+      "minimumPrice": 153,
+      "maximumPrice": 3850,
+      "averageStackPrice": 1343,
+      "commonStackSize": 1,
+      "salesRecorded": 43
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "telvanni door round",
+    "displayName": "Telvanni Door, Round",
+    "values": {
+      "commonRange": "2,000 - 10,869",
+      "averagePrice": 6805,
+      "minimumPrice": 1100,
+      "maximumPrice": 11090,
+      "averageStackPrice": 6805,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

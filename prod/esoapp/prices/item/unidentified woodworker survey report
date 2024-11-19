@@ -1,0 +1,18 @@
+[
+  {
+    "name": "unidentified woodworker survey report",
+    "displayName": "Unidentified Woodworker Survey Report",
+    "values": {
+      "commonRange": "900 - 2,000",
+      "averagePrice": 1549,
+      "minimumPrice": 100,
+      "maximumPrice": 4008,
+      "averageStackPrice": 1549,
+      "commonStackSize": 1,
+      "salesRecorded": 202
+    },
+    "type": "Miscellaneous",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

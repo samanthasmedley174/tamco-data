@@ -1,0 +1,18 @@
+[
+  {
+    "name": "rough firewood smoldering",
+    "displayName": "Rough Firewood, Smoldering",
+    "values": {
+      "commonRange": "73 - 250",
+      "averagePrice": 174,
+      "minimumPrice": 15,
+      "maximumPrice": 250,
+      "averageStackPrice": 174,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "02/25/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

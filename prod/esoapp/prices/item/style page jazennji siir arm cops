@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page jazennji siir arm cops",
+    "displayName": "Style Page: Ja'zennji Siir Arm Cops",
+    "values": {
+      "commonRange": "8,000 - 11,660",
+      "averagePrice": 9204,
+      "minimumPrice": 166,
+      "maximumPrice": 14660,
+      "averageStackPrice": 9204,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

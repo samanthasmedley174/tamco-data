@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page crowborne hunter sash",
+    "displayName": "Style Page: Crowborne Hunter Sash",
+    "values": {
+      "commonRange": "400 - 3,000",
+      "averagePrice": 1262,
+      "minimumPrice": 100,
+      "maximumPrice": 3999,
+      "averageStackPrice": 1262,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

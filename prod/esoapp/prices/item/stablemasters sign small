@@ -1,0 +1,18 @@
+[
+  {
+    "name": "stablemasters sign small",
+    "displayName": "Stablemaster's Sign, Small",
+    "values": {
+      "commonRange": "3,852 - 9,842",
+      "averagePrice": 7582,
+      "minimumPrice": 3000,
+      "maximumPrice": 9999,
+      "averageStackPrice": 7582,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sweet scented infusion",
+    "displayName": "Sweet Scented Infusion",
+    "values": {
+      "commonRange": "20 - 20",
+      "averagePrice": 20,
+      "minimumPrice": 20,
+      "maximumPrice": 20,
+      "averageStackPrice": 1000,
+      "commonStackSize": 50,
+      "salesRecorded": 2
+    },
+    "type": "Food & Drinks",
+    "date": "11/30/2021",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/sweet_scented_infusion.png"
+  }
+]

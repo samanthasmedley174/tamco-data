@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page maarselok mask",
+    "displayName": "Style Page: Maarselok Mask",
+    "values": {
+      "commonRange": "600,000 - 1,000,000",
+      "averagePrice": 829366,
+      "minimumPrice": 600000,
+      "maximumPrice": 1320000,
+      "averageStackPrice": 829366,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Pages",
+    "date": "12/17/2024",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

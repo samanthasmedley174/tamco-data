@@ -1,0 +1,18 @@
+[
+  {
+    "name": "ring of the shadow dancer",
+    "displayName": "Ring of The Shadow Dancer",
+    "values": {
+      "commonRange": "150 - 2,153",
+      "averagePrice": 668,
+      "minimumPrice": 144,
+      "maximumPrice": 3153,
+      "averageStackPrice": 668,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

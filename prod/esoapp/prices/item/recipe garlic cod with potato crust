@@ -1,0 +1,18 @@
+[
+  {
+    "name": "recipe garlic cod with potato crust",
+    "displayName": "Recipe: Garlic Cod with Potato Crust",
+    "values": {
+      "commonRange": "59 - 702",
+      "averagePrice": 378,
+      "minimumPrice": 30,
+      "maximumPrice": 2000,
+      "averageStackPrice": 378,
+      "commonStackSize": 1,
+      "salesRecorded": 30
+    },
+    "type": "Provisioning Recipes",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Provisioning_Recipes/recipe.png"
+  }
+]

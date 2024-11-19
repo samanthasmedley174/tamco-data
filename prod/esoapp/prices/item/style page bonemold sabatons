@@ -1,0 +1,18 @@
+[
+  {
+    "name": "style page bonemold sabatons",
+    "displayName": "Style Page: Bonemold Sabatons",
+    "values": {
+      "commonRange": "100 - 1,000",
+      "averagePrice": 809,
+      "minimumPrice": 100,
+      "maximumPrice": 2000,
+      "averageStackPrice": 809,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Pages",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Pages/motifpage.png"
+  }
+]

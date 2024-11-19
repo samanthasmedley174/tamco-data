@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire rug hist gathering",
+    "displayName": "Murkmire Rug, Hist Gathering",
+    "values": {
+      "commonRange": "3,000 - 6,500",
+      "averagePrice": 5221,
+      "minimumPrice": 2500,
+      "maximumPrice": 8950,
+      "averageStackPrice": 5221,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/05/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

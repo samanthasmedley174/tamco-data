@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire rug supine turtle",
+    "displayName": "Murkmire Rug, Supine Turtle",
+    "values": {
+      "commonRange": "4,350 - 5,713",
+      "averagePrice": 4913,
+      "minimumPrice": 3350,
+      "maximumPrice": 5713,
+      "averageStackPrice": 4913,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

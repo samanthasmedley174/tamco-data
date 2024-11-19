@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire ramp reed",
+    "displayName": "Murkmire Ramp, Reed",
+    "values": {
+      "commonRange": "2,500 - 6,600",
+      "averagePrice": 4748,
+      "minimumPrice": 2500,
+      "maximumPrice": 6600,
+      "averageStackPrice": 4748,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

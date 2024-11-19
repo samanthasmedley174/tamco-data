@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire rug crawling serpents worn",
+    "displayName": "Murkmire Rug, Crawling Serpents Worn",
+    "values": {
+      "commonRange": "2,000 - 3,541",
+      "averagePrice": 2766,
+      "minimumPrice": 2000,
+      "maximumPrice": 3700,
+      "averageStackPrice": 2766,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "05/27/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

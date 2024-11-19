@@ -1,0 +1,18 @@
+[
+  {
+    "name": "murkmire rug lurking lizard worn",
+    "displayName": "Murkmire Rug, Lurking Lizard Worn",
+    "values": {
+      "commonRange": "1,060 - 4,500",
+      "averagePrice": 2385,
+      "minimumPrice": 1000,
+      "maximumPrice": 4500,
+      "averageStackPrice": 2385,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

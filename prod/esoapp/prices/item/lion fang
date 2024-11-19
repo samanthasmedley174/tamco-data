@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lion fang",
+    "displayName": "Lion Fang",
+    "values": {
+      "commonRange": "73 - 115",
+      "averagePrice": 138,
+      "minimumPrice": 65,
+      "maximumPrice": 500,
+      "averageStackPrice": 138,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Lion_Fang.png"
+  }
+]

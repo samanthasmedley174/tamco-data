@@ -1,0 +1,18 @@
+[
+  {
+    "name": "livewire restoration staff",
+    "displayName": "Livewire Restoration Staff",
+    "values": {
+      "commonRange": "244 - 2,200",
+      "averagePrice": 1066,
+      "minimumPrice": 232,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1066,
+      "commonStackSize": 1,
+      "salesRecorded": 53
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of the pariah",
+    "displayName": "Lightning Staff of the Pariah",
+    "values": {
+      "commonRange": "1,699 - 60,000",
+      "averagePrice": 34693,
+      "minimumPrice": 334,
+      "maximumPrice": 299995,
+      "averageStackPrice": 34693,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

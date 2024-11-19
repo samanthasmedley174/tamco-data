@@ -1,0 +1,18 @@
+[
+  {
+    "name": "limestone retaining wall curved",
+    "displayName": "Limestone Retaining Wall, Curved",
+    "values": {
+      "commonRange": "215 - 1,000",
+      "averagePrice": 646,
+      "minimumPrice": 200,
+      "maximumPrice": 1085,
+      "averageStackPrice": 1292,
+      "commonStackSize": 2,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

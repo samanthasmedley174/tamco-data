@@ -1,0 +1,18 @@
+[
+  {
+    "name": "limestone shelf curved",
+    "displayName": "Limestone Shelf, Curved",
+    "values": {
+      "commonRange": "100 - 1,085",
+      "averagePrice": 462,
+      "minimumPrice": 50,
+      "maximumPrice": 1085,
+      "averageStackPrice": 462,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "logs twice split",
+    "displayName": "Logs, Twice-Split",
+    "values": {
+      "commonRange": "300 - 3,100",
+      "averagePrice": 1526,
+      "minimumPrice": 100,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1526,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "03/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

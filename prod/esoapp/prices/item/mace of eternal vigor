@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of eternal vigor",
+    "displayName": "Mace of Eternal Vigor",
+    "values": {
+      "commonRange": "650 - 2,153",
+      "averagePrice": 1551,
+      "minimumPrice": 144,
+      "maximumPrice": 4995,
+      "averageStackPrice": 1551,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

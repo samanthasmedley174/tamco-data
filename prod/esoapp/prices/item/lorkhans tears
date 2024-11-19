@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lorkhans tears",
+    "displayName": "Lorkhan's Tears",
+    "values": {
+      "commonRange": "15 - 49",
+      "averagePrice": 30,
+      "minimumPrice": 9,
+      "maximumPrice": 70,
+      "averageStackPrice": 6000,
+      "commonStackSize": 200,
+      "salesRecorded": 183
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of willpower",
+    "displayName": "Lightning Staff of Willpower",
+    "values": {
+      "commonRange": "601 - 3,340",
+      "averagePrice": 1697,
+      "minimumPrice": 246,
+      "maximumPrice": 5246,
+      "averageStackPrice": 1697,
+      "commonStackSize": 1,
+      "salesRecorded": 47
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

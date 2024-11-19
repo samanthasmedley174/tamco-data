@@ -1,0 +1,18 @@
+[
+  {
+    "name": "log rotten bog",
+    "displayName": "Log, Rotten Bog",
+    "values": {
+      "commonRange": "1,140 - 1,532",
+      "averagePrice": 1392,
+      "minimumPrice": 1140,
+      "maximumPrice": 1575,
+      "averageStackPrice": 1392,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

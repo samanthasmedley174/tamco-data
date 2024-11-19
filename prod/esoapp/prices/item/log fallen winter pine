@@ -1,0 +1,18 @@
+[
+  {
+    "name": "log fallen winter pine",
+    "displayName": "Log, Fallen Winter Pine",
+    "values": {
+      "commonRange": "1,060 - 2,060",
+      "averagePrice": 1560,
+      "minimumPrice": 1060,
+      "maximumPrice": 2060,
+      "averageStackPrice": 1560,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Furnishings",
+    "date": "10/11/2022",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

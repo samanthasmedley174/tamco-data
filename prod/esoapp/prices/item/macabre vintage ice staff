@@ -1,0 +1,18 @@
+[
+  {
+    "name": "macabre vintage ice staff",
+    "displayName": "Macabre Vintage Ice Staff",
+    "values": {
+      "commonRange": "500 - 9,000",
+      "averagePrice": 6762,
+      "minimumPrice": 110,
+      "maximumPrice": 60252,
+      "averageStackPrice": 6762,
+      "commonStackSize": 1,
+      "salesRecorded": 62
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "longfin pasty with melon sauce",
+    "displayName": "Longfin Pasty with Melon Sauce",
+    "values": {
+      "commonRange": "20 - 42",
+      "averagePrice": 51,
+      "minimumPrice": 18,
+      "maximumPrice": 462,
+      "averageStackPrice": 5100,
+      "commonStackSize": 100,
+      "salesRecorded": 29
+    },
+    "type": "Food & Drinks",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/longfin_pasty_with_melon_sauce.png"
+  }
+]

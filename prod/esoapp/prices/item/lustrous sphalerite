@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lustrous sphalerite",
+    "displayName": "Lustrous Sphalerite",
+    "values": {
+      "commonRange": "111 - 400",
+      "averagePrice": 221,
+      "minimumPrice": 103,
+      "maximumPrice": 500,
+      "averageStackPrice": 11050,
+      "commonStackSize": 50,
+      "salesRecorded": 17
+    },
+    "type": "Style Materials",
+    "date": "02/01/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Lustrous_Sphalerite.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of fasallas guile",
+    "displayName": "Mace of Fasalla's Guile",
+    "values": {
+      "commonRange": "2,000 - 5,150",
+      "averagePrice": 3801,
+      "minimumPrice": 1253,
+      "maximumPrice": 5150,
+      "averageStackPrice": 3801,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

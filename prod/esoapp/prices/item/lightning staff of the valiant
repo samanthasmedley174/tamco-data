@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of the valiant",
+    "displayName": "Lightning Staff of the Valiant",
+    "values": {
+      "commonRange": "2,000 - 5,000",
+      "averagePrice": 6648,
+      "minimumPrice": 246,
+      "maximumPrice": 30246,
+      "averageStackPrice": 6648,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

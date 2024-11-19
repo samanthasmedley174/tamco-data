@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lost graht oak acorn",
+    "displayName": "Lost Graht-Oak Acorn",
+    "values": {
+      "commonRange": "4,000 - 15,000",
+      "averagePrice": 7821,
+      "minimumPrice": 35,
+      "maximumPrice": 20000,
+      "averageStackPrice": 7821,
+      "commonStackSize": 1,
+      "salesRecorded": 41
+    },
+    "type": "Fragments",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

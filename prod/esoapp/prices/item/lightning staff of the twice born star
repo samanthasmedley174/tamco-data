@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of the twice born star",
+    "displayName": "Lightning Staff of the Twice-Born Star",
+    "values": {
+      "commonRange": "144 - 144",
+      "averagePrice": 144,
+      "minimumPrice": 144,
+      "maximumPrice": 144,
+      "averageStackPrice": 144,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

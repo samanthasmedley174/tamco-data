@@ -1,0 +1,18 @@
+[
+  {
+    "name": "limestone retaining wall long",
+    "displayName": "Limestone Retaining Wall, Long",
+    "values": {
+      "commonRange": "125 - 660",
+      "averagePrice": 427,
+      "minimumPrice": 95,
+      "maximumPrice": 770,
+      "averageStackPrice": 427,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "10/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

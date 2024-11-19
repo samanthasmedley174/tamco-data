@@ -1,0 +1,18 @@
+[
+  {
+    "name": "livewire bow",
+    "displayName": "Livewire Bow",
+    "values": {
+      "commonRange": "230 - 2,000",
+      "averagePrice": 967,
+      "minimumPrice": 100,
+      "maximumPrice": 5000,
+      "averageStackPrice": 967,
+      "commonStackSize": 1,
+      "salesRecorded": 58
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

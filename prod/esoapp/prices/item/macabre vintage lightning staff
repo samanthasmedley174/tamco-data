@@ -1,0 +1,18 @@
+[
+  {
+    "name": "macabre vintage lightning staff",
+    "displayName": "Macabre Vintage Lightning Staff",
+    "values": {
+      "commonRange": "2,500 - 16,752",
+      "averagePrice": 11197,
+      "minimumPrice": 585,
+      "maximumPrice": 100000,
+      "averageStackPrice": 11197,
+      "commonStackSize": 1,
+      "salesRecorded": 104
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

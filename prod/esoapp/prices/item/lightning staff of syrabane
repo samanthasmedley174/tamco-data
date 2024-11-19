@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of syrabane",
+    "displayName": "Lightning Staff of Syrabane",
+    "values": {
+      "commonRange": "946 - 3,000",
+      "averagePrice": 3094,
+      "minimumPrice": 330,
+      "maximumPrice": 10000,
+      "averageStackPrice": 3094,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

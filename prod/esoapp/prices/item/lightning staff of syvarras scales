@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of syvarras scales",
+    "displayName": "Lightning Staff of Syvarra's Scales",
+    "values": {
+      "commonRange": "250 - 49,999",
+      "averagePrice": 18651,
+      "minimumPrice": 240,
+      "maximumPrice": 49999,
+      "averageStackPrice": 18651,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

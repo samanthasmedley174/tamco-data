@@ -1,0 +1,18 @@
+[
+  {
+    "name": "livewire dagger",
+    "displayName": "Livewire Dagger",
+    "values": {
+      "commonRange": "250 - 5,153",
+      "averagePrice": 1596,
+      "minimumPrice": 153,
+      "maximumPrice": 9153,
+      "averageStackPrice": 1596,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/dagger.png"
+  }
+]

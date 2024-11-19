@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lucent crystal shards small spiral",
+    "displayName": "Lucent Crystal Shards, Small Spiral",
+    "values": {
+      "commonRange": "2,225 - 4,000",
+      "averagePrice": 2871,
+      "minimumPrice": 1240,
+      "maximumPrice": 5000,
+      "averageStackPrice": 2871,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/19/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lilmoth garlic hagfish",
+    "displayName": "Lilmoth Garlic Hagfish",
+    "values": {
+      "commonRange": "5 - 15",
+      "averagePrice": 11,
+      "minimumPrice": 5,
+      "maximumPrice": 33,
+      "averageStackPrice": 33,
+      "commonStackSize": 3,
+      "salesRecorded": 10
+    },
+    "type": "Food & Drinks",
+    "date": "11/04/2025",
+    "image": "https://data.tamrielsavings.com/D/Food_and_Drink/lilmoth_garlic_hagfish.png"
+  }
+]

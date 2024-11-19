@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lucent crystals bed",
+    "displayName": "Lucent Crystals, Bed",
+    "values": {
+      "commonRange": "5,000 - 7,416",
+      "averagePrice": 6852,
+      "minimumPrice": 4500,
+      "maximumPrice": 20000,
+      "averageStackPrice": 6852,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "01/17/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

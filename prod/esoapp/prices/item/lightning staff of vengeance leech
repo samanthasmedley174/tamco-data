@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of vengeance leech",
+    "displayName": "Lightning Staff of Vengeance Leech",
+    "values": {
+      "commonRange": "2,600 - 8,888",
+      "averagePrice": 4889,
+      "minimumPrice": 1000,
+      "maximumPrice": 11246,
+      "averageStackPrice": 4889,
+      "commonStackSize": 1,
+      "salesRecorded": 27
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

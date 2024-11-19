@@ -1,0 +1,18 @@
+[
+  {
+    "name": "macabre vintage battle axe",
+    "displayName": "Macabre Vintage Battle Axe",
+    "values": {
+      "commonRange": "340 - 20,000",
+      "averagePrice": 7317,
+      "minimumPrice": 234,
+      "maximumPrice": 90246,
+      "averageStackPrice": 7317,
+      "commonStackSize": 1,
+      "salesRecorded": 59
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2haxe.png"
+  }
+]

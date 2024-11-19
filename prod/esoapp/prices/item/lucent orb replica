@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lucent orb replica",
+    "displayName": "Lucent Orb, Replica",
+    "values": {
+      "commonRange": "5,000 - 15,500",
+      "averagePrice": 10940,
+      "minimumPrice": 5000,
+      "maximumPrice": 22675,
+      "averageStackPrice": 10940,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

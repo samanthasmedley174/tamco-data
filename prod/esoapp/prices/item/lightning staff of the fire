@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of the fire",
+    "displayName": "Lightning Staff of the Fire",
+    "values": {
+      "commonRange": "234 - 6,533",
+      "averagePrice": 3516,
+      "minimumPrice": 234,
+      "maximumPrice": 14246,
+      "averageStackPrice": 3516,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

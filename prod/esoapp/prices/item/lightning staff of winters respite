@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of winters respite",
+    "displayName": "Lightning Staff of Winter's Respite",
+    "values": {
+      "commonRange": "234 - 8,240",
+      "averagePrice": 6647,
+      "minimumPrice": 234,
+      "maximumPrice": 60000,
+      "averageStackPrice": 6647,
+      "commonStackSize": 1,
+      "salesRecorded": 20
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of the juggernaut",
+    "displayName": "Lightning Staff of the Juggernaut",
+    "values": {
+      "commonRange": "9,300 - 10,246",
+      "averagePrice": 9734,
+      "minimumPrice": 5172,
+      "maximumPrice": 10246,
+      "averageStackPrice": 9734,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "livewire maul",
+    "displayName": "Livewire Maul",
+    "values": {
+      "commonRange": "300 - 3,246",
+      "averagePrice": 1419,
+      "minimumPrice": 240,
+      "maximumPrice": 4000,
+      "averageStackPrice": 1419,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

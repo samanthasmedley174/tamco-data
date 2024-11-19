@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lobster claw display",
+    "displayName": "Lobster Claw, Display",
+    "values": {
+      "commonRange": "3,300 - 4,607",
+      "averagePrice": 3822,
+      "minimumPrice": 2600,
+      "maximumPrice": 4607,
+      "averageStackPrice": 3822,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

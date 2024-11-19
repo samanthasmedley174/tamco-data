@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of the withered hand",
+    "displayName": "Lightning Staff of the Withered Hand",
+    "values": {
+      "commonRange": "2,246 - 2,246",
+      "averagePrice": 2097,
+      "minimumPrice": 846,
+      "maximumPrice": 3200,
+      "averageStackPrice": 2097,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/09/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

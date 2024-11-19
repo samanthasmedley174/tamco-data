@@ -1,0 +1,18 @@
+[
+  {
+    "name": "luminescence painting brass",
+    "displayName": "Luminescence Painting, Brass",
+    "values": {
+      "commonRange": "100,000 - 147,131",
+      "averagePrice": 126657,
+      "minimumPrice": 100000,
+      "maximumPrice": 156000,
+      "averageStackPrice": 126657,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "07/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lizardhide shield",
+    "displayName": "Lizardhide Shield",
+    "values": {
+      "commonRange": "141 - 900",
+      "averagePrice": 521,
+      "minimumPrice": 141,
+      "maximumPrice": 900,
+      "averageStackPrice": 521,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/30/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shield.png"
+  }
+]

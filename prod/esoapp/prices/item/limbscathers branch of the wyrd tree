@@ -1,0 +1,18 @@
+[
+  {
+    "name": "limbscathers branch of the wyrd tree",
+    "displayName": "Limbscather's Branch of the Wyrd Tree",
+    "values": {
+      "commonRange": "395 - 7,000",
+      "averagePrice": 6059,
+      "minimumPrice": 380,
+      "maximumPrice": 24000,
+      "averageStackPrice": 6059,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of a mothers sorrow",
+    "displayName": "Mace of a Mother's Sorrow",
+    "values": {
+      "commonRange": "330 - 4,347",
+      "averagePrice": 1756,
+      "minimumPrice": 144,
+      "maximumPrice": 6000,
+      "averageStackPrice": 1756,
+      "commonStackSize": 1,
+      "salesRecorded": 18
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

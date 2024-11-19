@@ -1,0 +1,18 @@
+[
+  {
+    "name": "macabre vintage boots",
+    "displayName": "Macabre Vintage Boots",
+    "values": {
+      "commonRange": "587 - 110,000",
+      "averagePrice": 19534,
+      "minimumPrice": 87,
+      "maximumPrice": 150000,
+      "averageStackPrice": 19534,
+      "commonStackSize": 1,
+      "salesRecorded": 116
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

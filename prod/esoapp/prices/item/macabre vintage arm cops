@@ -1,0 +1,18 @@
+[
+  {
+    "name": "macabre vintage arm cops",
+    "displayName": "Macabre Vintage Arm Cops",
+    "values": {
+      "commonRange": "500 - 30,000",
+      "averagePrice": 13272,
+      "minimumPrice": 144,
+      "maximumPrice": 120000,
+      "averageStackPrice": 13272,
+      "commonStackSize": 1,
+      "salesRecorded": 93
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

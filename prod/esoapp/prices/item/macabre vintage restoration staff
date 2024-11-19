@@ -1,0 +1,18 @@
+[
+  {
+    "name": "macabre vintage restoration staff",
+    "displayName": "Macabre Vintage Restoration Staff",
+    "values": {
+      "commonRange": "820 - 3,000",
+      "averagePrice": 1640,
+      "minimumPrice": 240,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1640,
+      "commonStackSize": 1,
+      "salesRecorded": 31
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

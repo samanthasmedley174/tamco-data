@@ -1,0 +1,18 @@
+[
+  {
+    "name": "livewire greaves",
+    "displayName": "Livewire Greaves",
+    "values": {
+      "commonRange": "174 - 3,000",
+      "averagePrice": 1187,
+      "minimumPrice": 110,
+      "maximumPrice": 4180,
+      "averageStackPrice": 1187,
+      "commonStackSize": 1,
+      "salesRecorded": 36
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of the phoenix",
+    "displayName": "Lightning Staff of the Phoenix",
+    "values": {
+      "commonRange": "11,240 - 11,240",
+      "averagePrice": 15297,
+      "minimumPrice": 4650,
+      "maximumPrice": 30000,
+      "averageStackPrice": 15297,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/14/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

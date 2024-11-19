@@ -1,0 +1,18 @@
+[
+  {
+    "name": "macabre vintage guards",
+    "displayName": "Macabre Vintage Guards",
+    "values": {
+      "commonRange": "1,000 - 120,000",
+      "averagePrice": 24078,
+      "minimumPrice": 180,
+      "maximumPrice": 120000,
+      "averageStackPrice": 24078,
+      "commonStackSize": 1,
+      "salesRecorded": 100
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/legs.png"
+  }
+]

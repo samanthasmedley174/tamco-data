@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of oakfathers retribution",
+    "displayName": "Lightning Staff of Oakfather's Retribution",
+    "values": {
+      "commonRange": "1,234 - 50,000",
+      "averagePrice": 18104,
+      "minimumPrice": 240,
+      "maximumPrice": 130000,
+      "averageStackPrice": 18104,
+      "commonStackSize": 1,
+      "salesRecorded": 61
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lost ones cowl of martial knowledge",
+    "displayName": "Lost One's Cowl of Martial Knowledge",
+    "values": {
+      "commonRange": "200 - 200",
+      "averagePrice": 480,
+      "minimumPrice": 200,
+      "maximumPrice": 1041,
+      "averageStackPrice": 480,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/27/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

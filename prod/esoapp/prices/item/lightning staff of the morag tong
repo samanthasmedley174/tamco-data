@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of the morag tong",
+    "displayName": "Lightning Staff of the Morag Tong",
+    "values": {
+      "commonRange": "1,246 - 30,000",
+      "averagePrice": 15112,
+      "minimumPrice": 1246,
+      "maximumPrice": 30252,
+      "averageStackPrice": 15112,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

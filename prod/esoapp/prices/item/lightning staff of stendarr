@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of stendarr",
+    "displayName": "Lightning Staff of Stendarr",
+    "values": {
+      "commonRange": "434 - 634",
+      "averagePrice": 1018,
+      "minimumPrice": 340,
+      "maximumPrice": 3240,
+      "averageStackPrice": 1018,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

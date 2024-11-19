@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lionbanner chestplate",
+    "displayName": "Lionbanner Chestplate",
+    "values": {
+      "commonRange": "250 - 900",
+      "averagePrice": 530,
+      "minimumPrice": 100,
+      "maximumPrice": 980,
+      "averageStackPrice": 530,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Set Items",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

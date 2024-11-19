@@ -1,0 +1,18 @@
+[
+  {
+    "name": "livewire cuirass",
+    "displayName": "Livewire Cuirass",
+    "values": {
+      "commonRange": "330 - 3,325",
+      "averagePrice": 1428,
+      "minimumPrice": 183,
+      "maximumPrice": 6500,
+      "averageStackPrice": 1428,
+      "commonStackSize": 1,
+      "salesRecorded": 43
+    },
+    "type": "Set Items",
+    "date": "12/10/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

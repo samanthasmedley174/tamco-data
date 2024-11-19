@@ -1,0 +1,18 @@
+[
+  {
+    "name": "macabre vintage mace",
+    "displayName": "Macabre Vintage Mace",
+    "values": {
+      "commonRange": "300 - 10,081",
+      "averagePrice": 6584,
+      "minimumPrice": 80,
+      "maximumPrice": 78156,
+      "averageStackPrice": 6584,
+      "commonStackSize": 1,
+      "salesRecorded": 54
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

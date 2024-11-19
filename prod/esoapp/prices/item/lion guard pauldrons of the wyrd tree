@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lion guard pauldrons of the wyrd tree",
+    "displayName": "Lion Guard Pauldrons of the Wyrd Tree",
+    "values": {
+      "commonRange": "1,031 - 1,225",
+      "averagePrice": 1031,
+      "minimumPrice": 450,
+      "maximumPrice": 1350,
+      "averageStackPrice": 1031,
+      "commonStackSize": 1,
+      "salesRecorded": 5
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

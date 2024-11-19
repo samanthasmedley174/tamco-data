@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of the shadow walker",
+    "displayName": "Lightning Staff of The Shadow Walker",
+    "values": {
+      "commonRange": "1,246 - 9,246",
+      "averagePrice": 5912,
+      "minimumPrice": 1246,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5912,
+      "commonStackSize": 1,
+      "salesRecorded": 9
+    },
+    "type": "Set Items",
+    "date": "01/10/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

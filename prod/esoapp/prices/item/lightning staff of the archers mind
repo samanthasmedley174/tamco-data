@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of the archers mind",
+    "displayName": "Lightning Staff of the Archer's Mind",
+    "values": {
+      "commonRange": "44,252 - 175,000",
+      "averagePrice": 146231,
+      "minimumPrice": 5240,
+      "maximumPrice": 360433,
+      "averageStackPrice": 146231,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/07/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

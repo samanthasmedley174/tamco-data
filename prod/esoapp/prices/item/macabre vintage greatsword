@@ -1,0 +1,18 @@
+[
+  {
+    "name": "macabre vintage greatsword",
+    "displayName": "Macabre Vintage Greatsword",
+    "values": {
+      "commonRange": "1,234 - 5,000",
+      "averagePrice": 2836,
+      "minimumPrice": 685,
+      "maximumPrice": 6765,
+      "averageStackPrice": 2836,
+      "commonStackSize": 1,
+      "salesRecorded": 58
+    },
+    "type": "Set Items",
+    "date": "12/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

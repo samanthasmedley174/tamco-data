@@ -1,0 +1,18 @@
+[
+  {
+    "name": "looters helm",
+    "displayName": "Looter's Helm",
+    "values": {
+      "commonRange": "204 - 250",
+      "averagePrice": 218,
+      "minimumPrice": 66,
+      "maximumPrice": 341,
+      "averageStackPrice": 218,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/29/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

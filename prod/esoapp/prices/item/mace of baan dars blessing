@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of baan dars blessing",
+    "displayName": "Mace of Baan Dar's Blessing",
+    "values": {
+      "commonRange": "500 - 2,153",
+      "averagePrice": 1229,
+      "minimumPrice": 499,
+      "maximumPrice": 2153,
+      "averageStackPrice": 1229,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

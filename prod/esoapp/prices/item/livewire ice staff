@@ -1,0 +1,18 @@
+[
+  {
+    "name": "livewire ice staff",
+    "displayName": "Livewire Ice Staff",
+    "values": {
+      "commonRange": "246 - 5,000",
+      "averagePrice": 2024,
+      "minimumPrice": 240,
+      "maximumPrice": 10246,
+      "averageStackPrice": 2024,
+      "commonStackSize": 1,
+      "salesRecorded": 24
+    },
+    "type": "Set Items",
+    "date": "12/11/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

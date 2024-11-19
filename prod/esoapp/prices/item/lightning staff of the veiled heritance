@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of the veiled heritance",
+    "displayName": "Lightning Staff of the Veiled Heritance",
+    "values": {
+      "commonRange": "240 - 1,500",
+      "averagePrice": 1104,
+      "minimumPrice": 234,
+      "maximumPrice": 5000,
+      "averageStackPrice": 1104,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Set Items",
+    "date": "12/13/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

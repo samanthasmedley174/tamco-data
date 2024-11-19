@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lost knife mining boots",
+    "displayName": "Lost Knife Mining Boots",
+    "values": {
+      "commonRange": "184 - 400",
+      "averagePrice": 292,
+      "minimumPrice": 184,
+      "maximumPrice": 400,
+      "averageStackPrice": 292,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/31/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

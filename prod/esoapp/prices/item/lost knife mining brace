@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lost knife mining brace",
+    "displayName": "Lost Knife Mining Brace",
+    "values": {
+      "commonRange": "184 - 483",
+      "averagePrice": 334,
+      "minimumPrice": 184,
+      "maximumPrice": 483,
+      "averageStackPrice": 334,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

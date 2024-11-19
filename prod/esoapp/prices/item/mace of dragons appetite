@@ -1,0 +1,18 @@
+[
+  {
+    "name": "mace of dragons appetite",
+    "displayName": "Mace of Dragon's Appetite",
+    "values": {
+      "commonRange": "78,156 - 110,000",
+      "averagePrice": 94078,
+      "minimumPrice": 78156,
+      "maximumPrice": 110000,
+      "averageStackPrice": 94078,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/03/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/1hhammer.png"
+  }
+]

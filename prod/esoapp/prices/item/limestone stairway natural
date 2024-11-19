@@ -1,0 +1,18 @@
+[
+  {
+    "name": "limestone stairway natural",
+    "displayName": "Limestone Stairway, Natural",
+    "values": {
+      "commonRange": "100 - 1,000",
+      "averagePrice": 435,
+      "minimumPrice": 100,
+      "maximumPrice": 1000,
+      "averageStackPrice": 4350,
+      "commonStackSize": 10,
+      "salesRecorded": 12
+    },
+    "type": "Furnishings",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

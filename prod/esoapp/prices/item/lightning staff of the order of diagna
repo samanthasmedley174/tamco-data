@@ -1,0 +1,18 @@
+[
+  {
+    "name": "lightning staff of the order of diagna",
+    "displayName": "Lightning Staff of the Order of Diagna",
+    "values": {
+      "commonRange": "1,240 - 2,240",
+      "averagePrice": 2814,
+      "minimumPrice": 850,
+      "maximumPrice": 9000,
+      "averageStackPrice": 2814,
+      "commonStackSize": 1,
+      "salesRecorded": 7
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

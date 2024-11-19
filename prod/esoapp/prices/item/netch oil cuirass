@@ -1,0 +1,18 @@
+[
+  {
+    "name": "netch oil cuirass",
+    "displayName": "Netch Oil Cuirass",
+    "values": {
+      "commonRange": "283 - 3,183",
+      "averagePrice": 1635,
+      "minimumPrice": 174,
+      "maximumPrice": 5584,
+      "averageStackPrice": 1635,
+      "commonStackSize": 1,
+      "salesRecorded": 57
+    },
+    "type": "Set Items",
+    "date": "12/09/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

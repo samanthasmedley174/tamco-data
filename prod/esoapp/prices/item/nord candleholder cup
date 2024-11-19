@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord candleholder cup",
+    "displayName": "Nord Candleholder, Cup",
+    "values": {
+      "commonRange": "500 - 683",
+      "averagePrice": 586,
+      "minimumPrice": 400,
+      "maximumPrice": 760,
+      "averageStackPrice": 586,
+      "commonStackSize": 1,
+      "salesRecorded": 13
+    },
+    "type": "Furnishings",
+    "date": "01/12/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

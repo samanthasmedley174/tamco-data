@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necromancers spire alcove",
+    "displayName": "Necromancer's Spire, Alcove",
+    "values": {
+      "commonRange": "30,000 - 62,500",
+      "averagePrice": 49299,
+      "minimumPrice": 25000,
+      "maximumPrice": 68205,
+      "averageStackPrice": 49299,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "06/24/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

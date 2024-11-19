@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nedic archway worn",
+    "displayName": "Nedic Archway, Worn",
+    "values": {
+      "commonRange": "10,755 - 14,949",
+      "averagePrice": 14631,
+      "minimumPrice": 8999,
+      "maximumPrice": 25755,
+      "averageStackPrice": 14631,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

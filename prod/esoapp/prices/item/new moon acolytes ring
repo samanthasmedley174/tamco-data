@@ -1,0 +1,18 @@
+[
+  {
+    "name": "new moon acolytes ring",
+    "displayName": "New Moon Acolyte's Ring",
+    "values": {
+      "commonRange": "64,431 - 140,000",
+      "averagePrice": 107182,
+      "minimumPrice": 5000,
+      "maximumPrice": 148156,
+      "averageStackPrice": 107182,
+      "commonStackSize": 1,
+      "salesRecorded": 26
+    },
+    "type": "Set Items",
+    "date": "12/21/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

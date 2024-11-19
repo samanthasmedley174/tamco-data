@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord bench plank",
+    "displayName": "Nord Bench, Plank",
+    "values": {
+      "commonRange": "3,000 - 5,000",
+      "averagePrice": 4509,
+      "minimumPrice": 2900,
+      "maximumPrice": 9000,
+      "averageStackPrice": 4509,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

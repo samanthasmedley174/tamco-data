@@ -1,0 +1,18 @@
+[
+  {
+    "name": "new moon acolytes amulet",
+    "displayName": "New Moon Acolyte's Amulet",
+    "values": {
+      "commonRange": "64,625 - 140,000",
+      "averagePrice": 108844,
+      "minimumPrice": 20156,
+      "maximumPrice": 148156,
+      "averageStackPrice": 108844,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

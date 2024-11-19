@@ -1,0 +1,18 @@
+[
+  {
+    "name": "new moon acolytes inferno staff",
+    "displayName": "New Moon Acolyte's Inferno Staff",
+    "values": {
+      "commonRange": "69,990 - 90,000",
+      "averagePrice": 79995,
+      "minimumPrice": 69990,
+      "maximumPrice": 90000,
+      "averageStackPrice": 79995,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/staff.png"
+  }
+]

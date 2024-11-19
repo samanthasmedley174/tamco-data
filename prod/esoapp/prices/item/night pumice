@@ -1,0 +1,18 @@
+[
+  {
+    "name": "night pumice",
+    "displayName": "Night Pumice",
+    "values": {
+      "commonRange": "2,366 - 3,226",
+      "averagePrice": 2737,
+      "minimumPrice": 2176,
+      "maximumPrice": 3226,
+      "averageStackPrice": 2737,
+      "commonStackSize": 1,
+      "salesRecorded": 12
+    },
+    "type": "Style Materials",
+    "date": "01/13/2026",
+    "image": "https://data.tamrielsavings.com/D/Style_Materials/Night_Pumice.png"
+  }
+]

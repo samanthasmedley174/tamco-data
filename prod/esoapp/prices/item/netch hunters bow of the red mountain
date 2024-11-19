@@ -1,0 +1,18 @@
+[
+  {
+    "name": "netch hunters bow of the red mountain",
+    "displayName": "Netch-Hunter's Bow of the Red Mountain",
+    "values": {
+      "commonRange": "1,240 - 1,240",
+      "averagePrice": 1240,
+      "minimumPrice": 1240,
+      "maximumPrice": 1240,
+      "averageStackPrice": 1240,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "01/06/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/bow.png"
+  }
+]

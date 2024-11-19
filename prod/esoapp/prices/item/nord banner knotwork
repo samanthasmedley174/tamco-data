@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord banner knotwork",
+    "displayName": "Nord Banner, Knotwork",
+    "values": {
+      "commonRange": "3,600 - 8,300",
+      "averagePrice": 5768,
+      "minimumPrice": 3000,
+      "maximumPrice": 10000,
+      "averageStackPrice": 5768,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/22/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

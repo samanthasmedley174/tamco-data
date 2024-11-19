@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nirnroot",
+    "displayName": "Nirnroot",
+    "values": {
+      "commonRange": "31 - 56",
+      "averagePrice": 40,
+      "minimumPrice": 20,
+      "maximumPrice": 110,
+      "averageStackPrice": 8000,
+      "commonStackSize": 200,
+      "salesRecorded": 85
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

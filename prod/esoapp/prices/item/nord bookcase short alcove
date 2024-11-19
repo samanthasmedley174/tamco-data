@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord bookcase short alcove",
+    "displayName": "Nord Bookcase, Short Alcove",
+    "values": {
+      "commonRange": "150 - 4,200",
+      "averagePrice": 2547,
+      "minimumPrice": 90,
+      "maximumPrice": 6000,
+      "averageStackPrice": 2547,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "04/08/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "noble still life painting metal",
+    "displayName": "Noble Still Life Painting, Metal",
+    "values": {
+      "commonRange": "25,000 - 42,702",
+      "averagePrice": 35132,
+      "minimumPrice": 20091,
+      "maximumPrice": 69000,
+      "averageStackPrice": 35132,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "08/26/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

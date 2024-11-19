@@ -1,0 +1,18 @@
+[
+  {
+    "name": "night oil",
+    "displayName": "Night-Oil",
+    "values": {
+      "commonRange": "7 - 140",
+      "averagePrice": 94,
+      "minimumPrice": 7,
+      "maximumPrice": 160,
+      "averageStackPrice": 4700,
+      "commonStackSize": 50,
+      "salesRecorded": 13
+    },
+    "type": "Alchemy Materials",
+    "date": "12/24/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "new moon acolytes arm cops",
+    "displayName": "New Moon Acolyte's Arm Cops",
+    "values": {
+      "commonRange": "40,000 - 40,000",
+      "averagePrice": 30051,
+      "minimumPrice": 10000,
+      "maximumPrice": 40153,
+      "averageStackPrice": 30051,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/23/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/shoulder.png"
+  }
+]

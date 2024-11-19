@@ -1,0 +1,18 @@
+[
+  {
+    "name": "new moon acolytes shoes",
+    "displayName": "New Moon Acolyte's Shoes",
+    "values": {
+      "commonRange": "40,000 - 78,093",
+      "averagePrice": 58847,
+      "minimumPrice": 10000,
+      "maximumPrice": 80000,
+      "averageStackPrice": 58847,
+      "commonStackSize": 1,
+      "salesRecorded": 6
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

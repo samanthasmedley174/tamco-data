@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nightshade",
+    "displayName": "Nightshade",
+    "values": {
+      "commonRange": "33 - 56",
+      "averagePrice": 40,
+      "minimumPrice": 6,
+      "maximumPrice": 65,
+      "averageStackPrice": 8000,
+      "commonStackSize": 200,
+      "salesRecorded": 73
+    },
+    "type": "Alchemy Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

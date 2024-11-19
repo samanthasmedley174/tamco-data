@@ -1,0 +1,18 @@
+[
+  {
+    "name": "new moon acolytes jerkin",
+    "displayName": "New Moon Acolyte's Jerkin",
+    "values": {
+      "commonRange": "10,183 - 74,990",
+      "averagePrice": 42587,
+      "minimumPrice": 10183,
+      "maximumPrice": 74990,
+      "averageStackPrice": 42587,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "02/02/2026",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/chest.png"
+  }
+]

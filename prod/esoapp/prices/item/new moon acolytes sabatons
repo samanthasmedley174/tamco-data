@@ -1,0 +1,18 @@
+[
+  {
+    "name": "new moon acolytes sabatons",
+    "displayName": "New Moon Acolyte's Sabatons",
+    "values": {
+      "commonRange": "79,990 - 79,990",
+      "averagePrice": 79361,
+      "minimumPrice": 78093,
+      "maximumPrice": 80000,
+      "averageStackPrice": 79361,
+      "commonStackSize": 1,
+      "salesRecorded": 3
+    },
+    "type": "Set Items",
+    "date": "12/16/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/feet.png"
+  }
+]

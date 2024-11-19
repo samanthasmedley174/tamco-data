@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord candle tealight",
+    "displayName": "Nord Candle, Tealight",
+    "values": {
+      "commonRange": "500 - 926",
+      "averagePrice": 658,
+      "minimumPrice": 500,
+      "maximumPrice": 1000,
+      "averageStackPrice": 658,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "01/11/2026",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

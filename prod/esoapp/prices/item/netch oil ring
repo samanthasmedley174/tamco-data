@@ -1,0 +1,18 @@
+[
+  {
+    "name": "netch oil ring",
+    "displayName": "Netch Oil Ring",
+    "values": {
+      "commonRange": "398 - 3,900",
+      "averagePrice": 1430,
+      "minimumPrice": 144,
+      "maximumPrice": 10000,
+      "averageStackPrice": 1430,
+      "commonStackSize": 1,
+      "salesRecorded": 45
+    },
+    "type": "Set Items",
+    "date": "12/28/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/ring.png"
+  }
+]

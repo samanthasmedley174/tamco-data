@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nord bench braced",
+    "displayName": "Nord Bench, Braced",
+    "values": {
+      "commonRange": "60 - 2,000",
+      "averagePrice": 1076,
+      "minimumPrice": 60,
+      "maximumPrice": 2200,
+      "averageStackPrice": 1076,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "05/16/2023",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

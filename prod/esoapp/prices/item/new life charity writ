@@ -1,0 +1,18 @@
+[
+  {
+    "name": "new life charity writ",
+    "displayName": "New Life Charity Writ",
+    "values": {
+      "commonRange": "1,000 - 100,000",
+      "averagePrice": 45500,
+      "minimumPrice": 1000,
+      "maximumPrice": 100000,
+      "averageStackPrice": 45500,
+      "commonStackSize": 1,
+      "salesRecorded": 14
+    },
+    "type": "Miscellaneous",
+    "date": "12/19/2025",
+    "image": "https://data.tamrielsavings.com/D/transparent.png"
+  }
+]

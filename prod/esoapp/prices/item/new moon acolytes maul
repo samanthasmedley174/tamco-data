@@ -1,0 +1,18 @@
+[
+  {
+    "name": "new moon acolytes maul",
+    "displayName": "New Moon Acolyte's Maul",
+    "values": {
+      "commonRange": "57,376 - 78,252",
+      "averagePrice": 67814,
+      "minimumPrice": 57376,
+      "maximumPrice": 78252,
+      "averageStackPrice": 67814,
+      "commonStackSize": 1,
+      "salesRecorded": 2
+    },
+    "type": "Set Items",
+    "date": "12/14/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hhammer.png"
+  }
+]

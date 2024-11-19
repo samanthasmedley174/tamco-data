@@ -1,0 +1,18 @@
+[
+  {
+    "name": "netch oil greatsword",
+    "displayName": "Netch Oil Greatsword",
+    "values": {
+      "commonRange": "546 - 5,097",
+      "averagePrice": 3346,
+      "minimumPrice": 246,
+      "maximumPrice": 10252,
+      "averageStackPrice": 3346,
+      "commonStackSize": 1,
+      "salesRecorded": 32
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/2hsword.png"
+  }
+]

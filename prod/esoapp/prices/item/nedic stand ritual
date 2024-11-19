@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nedic stand ritual",
+    "displayName": "Nedic Stand, Ritual",
+    "values": {
+      "commonRange": "4,237 - 6,500",
+      "averagePrice": 5609,
+      "minimumPrice": 4000,
+      "maximumPrice": 7200,
+      "averageStackPrice": 5609,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "07/01/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

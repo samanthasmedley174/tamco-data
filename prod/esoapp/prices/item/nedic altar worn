@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nedic altar worn",
+    "displayName": "Nedic Altar, Worn",
+    "values": {
+      "commonRange": "5,000 - 9,000",
+      "averagePrice": 6559,
+      "minimumPrice": 5000,
+      "maximumPrice": 9800,
+      "averageStackPrice": 6559,
+      "commonStackSize": 1,
+      "salesRecorded": 10
+    },
+    "type": "Furnishings",
+    "date": "08/12/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

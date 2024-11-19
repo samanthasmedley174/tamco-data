@@ -1,0 +1,18 @@
+[
+  {
+    "name": "new moon acolytes hat",
+    "displayName": "New Moon Acolyte's Hat",
+    "values": {
+      "commonRange": "70,000 - 74,990",
+      "averagePrice": 73287,
+      "minimumPrice": 70000,
+      "maximumPrice": 78156,
+      "averageStackPrice": 73287,
+      "commonStackSize": 1,
+      "salesRecorded": 4
+    },
+    "type": "Set Items",
+    "date": "12/17/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/head.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "netch oil amulet",
+    "displayName": "Netch Oil Amulet",
+    "values": {
+      "commonRange": "453 - 5,153",
+      "averagePrice": 2198,
+      "minimumPrice": 244,
+      "maximumPrice": 10000,
+      "averageStackPrice": 2198,
+      "commonStackSize": 1,
+      "salesRecorded": 28
+    },
+    "type": "Set Items",
+    "date": "12/15/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

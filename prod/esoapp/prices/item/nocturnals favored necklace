@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nocturnals favored necklace",
+    "displayName": "Nocturnal's Favored Necklace",
+    "values": {
+      "commonRange": "5,000 - 5,000",
+      "averagePrice": 5000,
+      "minimumPrice": 5000,
+      "maximumPrice": 5000,
+      "averageStackPrice": 5000,
+      "commonStackSize": 1,
+      "salesRecorded": 1
+    },
+    "type": "Set Items",
+    "date": "12/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/neck.png"
+  }
+]

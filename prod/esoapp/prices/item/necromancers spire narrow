@@ -1,0 +1,18 @@
+[
+  {
+    "name": "necromancers spire narrow",
+    "displayName": "Necromancer's Spire, Narrow",
+    "values": {
+      "commonRange": "30,000 - 70,000",
+      "averagePrice": 49130,
+      "minimumPrice": 20000,
+      "maximumPrice": 79000,
+      "averageStackPrice": 49130,
+      "commonStackSize": 1,
+      "salesRecorded": 11
+    },
+    "type": "Furnishings",
+    "date": "03/18/2025",
+    "image": "https://data.tamrielsavings.com/D/Furnishings/house.png"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "netch oil gauntlets",
+    "displayName": "Netch Oil Gauntlets",
+    "values": {
+      "commonRange": "400 - 4,500",
+      "averagePrice": 1652,
+      "minimumPrice": 90,
+      "maximumPrice": 5490,
+      "averageStackPrice": 1652,
+      "commonStackSize": 1,
+      "salesRecorded": 53
+    },
+    "type": "Set Items",
+    "date": "12/06/2025",
+    "image": "https://data.tamrielsavings.com/D/Set_Items/hands.png"
+  }
+]

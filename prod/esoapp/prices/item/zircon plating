@@ -1,0 +1,18 @@
+[
+  {
+    "name": "zircon plating",
+    "displayName": "Zircon Plating",
+    "values": {
+      "commonRange": "500 - 1,000",
+      "averagePrice": 803,
+      "minimumPrice": 406,
+      "maximumPrice": 11039,
+      "averageStackPrice": 3212,
+      "commonStackSize": 4,
+      "salesRecorded": 612
+    },
+    "type": "Jewelry Materials",
+    "date": "02/08/2026",
+    "image": "https://data.tamrielsavings.com/D/Jewelry_Materials/Zircon_Plating.png"
+  }
+]
